@@ -1,0 +1,1528 @@
+[
+    {
+        "names": "Nokia 5710",
+        "rating": "10",
+        "hon_price_min": "610",
+        "hon_price_max": "790",
+        "water_price_min": "598",
+        "water_price_max": "598"
+    },
+    {
+        "names": "Philips 飛利浦 E518",
+        "rating": "8.7",
+        "hon_price_min": "480",
+        "hon_price_max": "678",
+        "water_price_min": "478",
+        "water_price_max": "598"
+    },
+    {
+        "names": "Nokia 105 4G",
+        "rating": "6.4",
+        "hon_price_min": "260",
+        "hon_price_max": "320"
+    },
+    {
+        "names": "Nokia 2660 Flip",
+        "rating": "6.9",
+        "hon_price_min": "560",
+        "hon_price_max": "798",
+        "water_price_min": "498",
+        "water_price_max": "548"
+    },
+    {
+        "names": "Philips 飛利浦 E535",
+        "rating": "8.4",
+        "hon_price_min": "498",
+        "hon_price_max": "599",
+        "water_price_min": "478",
+        "water_price_max": "538"
+    },
+    {
+        "names": "SigTone V10 4G 智能折疊手機",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "880"
+    },
+    {
+        "names": "Philips 飛利浦 E533",
+        "rating": "8.0",
+        "hon_price_min": "458",
+        "hon_price_max": "599",
+        "water_price_min": "438",
+        "water_price_max": "498"
+    },
+    {
+        "names": "Nokia 215 4G",
+        "rating": "8.8",
+        "hon_price_min": "288",
+        "hon_price_max": "468"
+    },
+    {
+        "names": "Nokia 8210 4G",
+        "rating": "4.0",
+        "hon_price_min": "510",
+        "hon_price_max": "698",
+        "water_price_min": "498",
+        "water_price_max": "498"
+    },
+    {
+        "names": "Doov R20",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "470",
+        "water_price_min": "450",
+        "water_price_max": "450"
+    },
+    {
+        "names": "Nokia 225 4G",
+        "rating": "6.7",
+        "hon_price_min": "358",
+        "hon_price_max": "495"
+    },
+    {
+        "names": "VOCA V330",
+        "rating": "10",
+        "hon_price_min": "428",
+        "hon_price_max": "498",
+        "water_price_min": "458",
+        "water_price_max": "458"
+    },
+    {
+        "names": "VOCA V540 4G",
+        "rating": "7.0",
+        "hon_price_min": "799",
+        "hon_price_max": "899",
+        "water_price_min": "788",
+        "water_price_max": "788"
+    },
+    {
+        "names": "Gionee 4G 摺疊手機 V16",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "699",
+        "water_price_min": "648",
+        "water_price_max": "699"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E525",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "498",
+        "water_price_min": "410",
+        "water_price_max": "410"
+    },
+    {
+        "names": "Punkt MP02 4G (2+16GB)",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999"
+    },
+    {
+        "names": "Nokia 8000 4G",
+        "rating": "5.8",
+        "hon_price_min": "530",
+        "hon_price_max": "650"
+    },
+    {
+        "names": "Doov 長者手機 M99",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "428"
+    },
+    {
+        "names": "Philips 飛利浦 E517",
+        "rating": "10",
+        "hon_price_min": "310",
+        "hon_price_max": "380",
+        "water_price_min": "310",
+        "water_price_max": "350"
+    },
+    {
+        "names": "Philips 飛利浦 E256S",
+        "rating": "10",
+        "hon_price_min": "318",
+        "hon_price_max": "438",
+        "water_price_min": "278",
+        "water_price_max": "380"
+    },
+    {
+        "names": "Philips 飛利浦 長者手機 E528",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "427"
+    },
+    {
+        "names": "Philips 飛利浦 E212A",
+        "rating": "8.0",
+        "hon_price_min": "318",
+        "hon_price_max": "378",
+        "water_price_min": "278",
+        "water_price_max": "278"
+    },
+    {
+        "names": "Philips 飛利浦 E259S",
+        "rating": "9.6",
+        "hon_price_min": "320",
+        "hon_price_max": "438",
+        "water_price_min": "320",
+        "water_price_max": "360"
+    },
+    {
+        "names": "Caterpillar CAT B30",
+        "rating": "6.0",
+        "hon_price_min": "468",
+        "hon_price_max": "598",
+        "water_price_min": "398",
+        "water_price_max": "398"
+    },
+    {
+        "names": "VOCA V140 4G",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "VOCA V533",
+        "rating": "8.0",
+        "hon_price_min": "538",
+        "hon_price_max": "588",
+        "water_price_min": "498",
+        "water_price_max": "498"
+    },
+    {
+        "names": "Philips 飛利浦 E218L",
+        "rating": "4.7",
+        "hon_price_min": "325",
+        "hon_price_max": "399",
+        "water_price_min": "298",
+        "water_price_max": "399"
+    },
+    {
+        "names": "Nokia 106 Dual Slim",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "199",
+        "water_price_min": "148",
+        "water_price_max": "148"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E527",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380"
+    },
+    {
+        "names": "Nokia 2720 Flip",
+        "rating": "6.0"
+    },
+    {
+        "names": "Philips 飛利浦 E515",
+        "rating": "2.0",
+        "hon_price_min": "498",
+        "hon_price_max": "679",
+        "water_price_min": "488",
+        "water_price_max": "588"
+    },
+    {
+        "names": "Nokia 6300 4G",
+        "rating": "10",
+        "water_price_min": "480",
+        "water_price_max": "480"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E516",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450"
+    },
+    {
+        "names": "Doov R19 4G",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "698",
+        "water_price_min": "558",
+        "water_price_max": "598"
+    },
+    {
+        "names": "Hoswn H999",
+        "rating": "10",
+        "water_price_min": "950",
+        "water_price_max": "950"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E268",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279"
+    },
+    {
+        "names": "Philips 飛利浦 E171L",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "Doov R17 4G",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "GAIX G1",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Nokia 106 (停產)",
+        "rating": "6.0",
+        "hon_price_min": "198",
+        "hon_price_max": "220"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E207",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "Philips 飛利浦 E258S",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "275"
+    },
+    {
+        "names": "Nokia 215",
+        "rating": "9.0",
+        "hon_price_min": "290",
+        "hon_price_max": "360"
+    },
+    {
+        "names": "Yeemi K21+",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "578"
+    },
+    {
+        "names": "Samsung 三星 C270",
+        "rating": ""
+    },
+    {
+        "names": "Philips 飛利浦 大字按鍵手機 E107",
+        "rating": ""
+    },
+    {
+        "names": "Alcatel 2045X",
+        "rating": "8.0",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "water_price_min": "299",
+        "water_price_max": "299"
+    },
+    {
+        "names": "Nokia 105 (2019)",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180"
+    },
+    {
+        "names": "Samsung 三星 GT-S3600i",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "288",
+        "water_price_max": "288"
+    },
+    {
+        "names": "Sony Ericsson K530i",
+        "rating": "7.0",
+        "water_price_min": "530",
+        "water_price_max": "530"
+    },
+    {
+        "names": "Obooy EA108",
+        "rating": ""
+    },
+    {
+        "names": "LG 樂金 KF510",
+        "rating": "10",
+        "water_price_min": "1,350",
+        "water_price_max": "1,350"
+    },
+    {
+        "names": "ZANCO Tiny T1",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "368"
+    },
+    {
+        "names": "Philips 飛利浦 E108",
+        "rating": "4.0"
+    },
+    {
+        "names": "Samsung 三星 C3520",
+        "rating": "8.0",
+        "water_price_min": "280",
+        "water_price_max": "280"
+    },
+    {
+        "names": "Nokia 3310 3G",
+        "rating": "5.0"
+    },
+    {
+        "names": "LG 樂金 GD550",
+        "rating": "7.0",
+        "hon_price_min": "1,185",
+        "hon_price_max": "1,185"
+    },
+    {
+        "names": "LG 樂金 A170",
+        "rating": ""
+    },
+    {
+        "names": "Nokia 7100",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570"
+    },
+    {
+        "names": "Samsung 三星 Diva S7070C",
+        "rating": "8.0",
+        "hon_price_min": "1,660",
+        "hon_price_max": "1,660"
+    },
+    {
+        "names": "Samsung 三星 Touch WiZ F488",
+        "rating": "7.8",
+        "water_price_min": "650",
+        "water_price_max": "650"
+    },
+    {
+        "names": "Nokia X2-00",
+        "rating": "8.9",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "SHOUYUE V968",
+        "rating": ""
+    },
+    {
+        "names": "Samsung 三星 E1310c",
+        "rating": ""
+    },
+    {
+        "names": "Motorola WX295",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "Alcatel OT-1035D",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "298",
+        "water_price_max": "298"
+    },
+    {
+        "names": "COPICEL E918",
+        "rating": ""
+    },
+    {
+        "names": "Sony Ericsson G900i",
+        "rating": "8.9",
+        "hon_price_min": "986",
+        "hon_price_max": "986"
+    },
+    {
+        "names": "Samsung 三星 C3520",
+        "rating": "5.0",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "water_price_min": "278",
+        "water_price_max": "280"
+    },
+    {
+        "names": "Ghaonhomc  V10",
+        "rating": ""
+    },
+    {
+        "names": "KR M999",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480"
+    },
+    {
+        "names": "Philips 飛利浦 E526",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "388"
+    },
+    {
+        "names": "F-FOOK F633 Plus",
+        "rating": "2.0"
+    },
+    {
+        "names": "Sony Ericsson W890i",
+        "rating": "7.3",
+        "hon_price_min": "1,678",
+        "hon_price_max": "1,678"
+    },
+    {
+        "names": "Philips 飛利浦 E350",
+        "rating": ""
+    },
+    {
+        "names": "Alcatel 2038N",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "288",
+        "water_price_min": "228",
+        "water_price_max": "228"
+    },
+    {
+        "names": "Samsung 三星 S7350H",
+        "rating": "8.0",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,540"
+    },
+    {
+        "names": "Philips 飛利浦 E132X",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368"
+    },
+    {
+        "names": "TKEXUN E1190A",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218"
+    },
+    {
+        "names": "VOCA 3G V530 手提電話",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "Sony Ericsson C905",
+        "rating": "7.1",
+        "water_price_min": "1,700",
+        "water_price_max": "1,700"
+    },
+    {
+        "names": "SunCup M001",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220"
+    },
+    {
+        "names": "F-FOOK F633",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268"
+    },
+    {
+        "names": "Samsung 三星 Monte S5628",
+        "rating": "9.3",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,390"
+    },
+    {
+        "names": "Nokia 1616",
+        "rating": "8.7",
+        "water_price_min": "490",
+        "water_price_max": "490"
+    },
+    {
+        "names": "Philips 飛利浦 E506",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350"
+    },
+    {
+        "names": "Sony Ericsson W910i",
+        "rating": "7.5",
+        "water_price_min": "1,075",
+        "water_price_max": "1,075"
+    },
+    {
+        "names": "Sony Ericsson W995",
+        "rating": "9.0",
+        "water_price_min": "980",
+        "water_price_max": "980"
+    },
+    {
+        "names": "Sony Ericsson T700",
+        "rating": "8.0",
+        "water_price_min": "1,030",
+        "water_price_max": "1,030"
+    },
+    {
+        "names": "LG 樂金 KM555",
+        "rating": "8.3",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380"
+    },
+    {
+        "names": "Sony Ericsson W350i",
+        "rating": "8.7",
+        "hon_price_min": "400",
+        "hon_price_max": "400"
+    },
+    {
+        "names": "Ailyfu 愛來福 F520",
+        "rating": "6.0",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Samsung 三星 Shark S5350",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999"
+    },
+    {
+        "names": "Xero XM-03",
+        "rating": ""
+    },
+    {
+        "names": "Sony Ericsson G705",
+        "rating": "7.8",
+        "water_price_min": "1,474",
+        "water_price_max": "1,474"
+    },
+    {
+        "names": "Nokia N76",
+        "rating": "",
+        "water_price_min": "2,278",
+        "water_price_max": "2,278"
+    },
+    {
+        "names": "Nokia 6120 classic",
+        "rating": "8.2",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,030"
+    },
+    {
+        "names": "Ares AE909",
+        "rating": ""
+    },
+    {
+        "names": "Nokia 8110 4G",
+        "rating": "6.3"
+    },
+    {
+        "names": "Nokia 2760",
+        "rating": "8.0",
+        "water_price_min": "350",
+        "water_price_max": "350"
+    },
+    {
+        "names": "Motorola MOTORAZR V8",
+        "rating": "",
+        "water_price_min": "1,214",
+        "water_price_max": "1,214"
+    },
+    {
+        "names": "Samsung 三星 Keystone 2 E1205M",
+        "rating": "6.7",
+        "hon_price_min": "190",
+        "hon_price_max": "190"
+    },
+    {
+        "names": "Nokia 7230",
+        "rating": "9.6",
+        "water_price_min": "590",
+        "water_price_max": "590"
+    },
+    {
+        "names": "Samsung 三星 E2550",
+        "rating": "9.0",
+        "hon_price_min": "598",
+        "hon_price_max": "598"
+    },
+    {
+        "names": "Samsung 三星 U608",
+        "rating": "",
+        "water_price_min": "898",
+        "water_price_max": "898"
+    },
+    {
+        "names": "Nokia X2-05",
+        "rating": ""
+    },
+    {
+        "names": "LG 樂金 KP500",
+        "rating": "8.8",
+        "hon_price_min": "680",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "Nokia N85",
+        "rating": "8.4",
+        "water_price_min": "2,080",
+        "water_price_max": "2,080"
+    },
+    {
+        "names": "BLU DIVA FLEX",
+        "rating": ""
+    },
+    {
+        "names": "Philips 飛利浦 E320",
+        "rating": ""
+    },
+    {
+        "names": "INQ Mini 3G",
+        "rating": "6.0",
+        "hon_price_min": "233",
+        "hon_price_max": "233"
+    },
+    {
+        "names": "Sony Ericsson T250i",
+        "rating": "",
+        "water_price_min": "424",
+        "water_price_max": "424"
+    },
+    {
+        "names": "LG 樂金 GM750",
+        "rating": "8.8",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,050"
+    },
+    {
+        "names": "Nokia 5000",
+        "rating": "7.5",
+        "water_price_min": "590",
+        "water_price_max": "590"
+    },
+    {
+        "names": "Philips 飛利浦 E105",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238"
+    },
+    {
+        "names": "ZTE S202",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "880"
+    },
+    {
+        "names": "Samsung 三星 E1190",
+        "rating": ""
+    },
+    {
+        "names": "LG 樂金 BL20",
+        "rating": "8.7",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,290"
+    },
+    {
+        "names": "Samsung 三星 Star S5230C",
+        "rating": "9.2",
+        "hon_price_min": "998",
+        "hon_price_max": "998"
+    },
+    {
+        "names": "Nokia 5310 XpressMusic",
+        "rating": "8.9",
+        "hon_price_min": "1,074",
+        "hon_price_max": "1,074"
+    },
+    {
+        "names": "LG 樂金 KP105",
+        "rating": "8.7",
+        "hon_price_min": "199",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "Nokia 7310",
+        "rating": "8.0",
+        "hon_price_min": "874",
+        "hon_price_max": "874"
+    },
+    {
+        "names": "Philips 飛利浦 E255",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "410"
+    },
+    {
+        "names": "Nokia 6500 slide",
+        "rating": "8.2",
+        "water_price_min": "760",
+        "water_price_max": "760"
+    },
+    {
+        "names": "LG 樂金 KS360",
+        "rating": "6.0",
+        "water_price_min": "598",
+        "water_price_max": "598"
+    },
+    {
+        "names": "Hugiga 4G LTE經典美型翻蓋機 T33",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "528"
+    },
+    {
+        "names": "Nokia 2630",
+        "rating": "",
+        "water_price_min": "438",
+        "water_price_max": "438"
+    },
+    {
+        "names": "Nokia 6600 fold",
+        "rating": "6.7",
+        "water_price_min": "1,388",
+        "water_price_max": "1,388"
+    },
+    {
+        "names": "Nokia 225 Dual Sim",
+        "rating": "7.0",
+        "hon_price_min": "390",
+        "hon_price_max": "428"
+    },
+    {
+        "names": "Nokia 105 (2013)",
+        "rating": "8.1",
+        "water_price_min": "190",
+        "water_price_max": "190"
+    },
+    {
+        "names": "Nokia 105 Dual Sim (2017)",
+        "rating": "7.7",
+        "water_price_min": "230",
+        "water_price_max": "230"
+    },
+    {
+        "names": "TSK A811 長者平安折合式手機",
+        "rating": ""
+    },
+    {
+        "names": "Hugiga 4G LTE輕鬆操控翻蓋機 V8",
+        "rating": ""
+    },
+    {
+        "names": "Microsoft NOKIA 230 DUAL SIM",
+        "rating": "8.7",
+        "water_price_min": "488",
+        "water_price_max": "488"
+    },
+    {
+        "names": "智愛寶 iBao 長者定位功能電話 (淨機)",
+        "rating": ""
+    },
+    {
+        "names": "Alcatel OT-2012D",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "water_price_min": "248",
+        "water_price_max": "248"
+    },
+    {
+        "names": "Samsung 三星 C3110H",
+        "rating": "8.0",
+        "hon_price_min": "764",
+        "hon_price_max": "764"
+    },
+    {
+        "names": "Samsung 三星 NORi S5520/GY-S5520",
+        "rating": "9.0",
+        "hon_price_min": "498",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "F-FOOK W2016",
+        "rating": ""
+    },
+    {
+        "names": "TSK S900 萬用旅行專用手機",
+        "rating": "8.0"
+    },
+    {
+        "names": "Obooy EG520",
+        "rating": "6.0"
+    },
+    {
+        "names": "Motorola W270",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Nokia 1112",
+        "rating": ""
+    },
+    {
+        "names": "Philips 飛利浦 E321",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "water_price_min": "298",
+        "water_price_max": "298"
+    },
+    {
+        "names": "Philips 飛利浦 E135X",
+        "rating": "9.0",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "water_price_min": "418",
+        "water_price_max": "418"
+    },
+    {
+        "names": "MicroStar 230",
+        "rating": "8.0"
+    },
+    {
+        "names": "DORO Primo 413",
+        "rating": ""
+    },
+    {
+        "names": "Hugiga 3G經典輕巧滑蓋手機 S80",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300"
+    },
+    {
+        "names": "AIEK M2",
+        "rating": ""
+    },
+    {
+        "names": "LG 樂金 A395",
+        "rating": "10",
+        "hon_price_min": "400",
+        "hon_price_max": "400"
+    },
+    {
+        "names": "Nokia 225",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "SpareOne S1+WR9WP",
+        "rating": "2.0"
+    },
+    {
+        "names": "Philips 飛利浦 E183A",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "248",
+        "water_price_min": "248",
+        "water_price_max": "248"
+    },
+    {
+        "names": "Nokia 2220 slide",
+        "rating": "9.5",
+        "water_price_min": "460",
+        "water_price_max": "460"
+    },
+    {
+        "names": "Nokia Asha 306",
+        "rating": ""
+    },
+    {
+        "names": "MIT W8199",
+        "rating": "10"
+    },
+    {
+        "names": "Hugiga 無相機直版功能機 C33",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Sharp 聲寶 Aquos 805sh",
+        "rating": ""
+    },
+    {
+        "names": "Sony Ericsson Spiro (W100)",
+        "rating": "9.0"
+    },
+    {
+        "names": "Samsung 三星 e3210",
+        "rating": ""
+    },
+    {
+        "names": "Samsung 三星 E1202",
+        "rating": ""
+    },
+    {
+        "names": "Philips 飛利浦 E380",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "DoCoMo SH-01C",
+        "rating": "9.3",
+        "water_price_min": "3,480",
+        "water_price_max": "3,480"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E289",
+        "rating": "2.0",
+        "hon_price_min": "430",
+        "hon_price_max": "430"
+    },
+    {
+        "names": "Nokia 109",
+        "rating": "10",
+        "water_price_min": "330",
+        "water_price_max": "330"
+    },
+    {
+        "names": "SoftBank 940SH",
+        "rating": "9.3",
+        "water_price_min": "2,880",
+        "water_price_max": "2,880"
+    },
+    {
+        "names": "Nokia 112",
+        "rating": "10"
+    },
+    {
+        "names": "Sony Ericsson w205",
+        "rating": "7.3"
+    },
+    {
+        "names": "Nokia Asha 309",
+        "rating": ""
+    },
+    {
+        "names": "LG 樂金 GX200",
+        "rating": "9.2",
+        "water_price_min": "750",
+        "water_price_max": "750"
+    },
+    {
+        "names": "Lenovo E156",
+        "rating": ""
+    },
+    {
+        "names": "Samsung 三星 S5600H",
+        "rating": "8.3"
+    },
+    {
+        "names": "Nokia Asha 500",
+        "rating": ""
+    },
+    {
+        "names": "Lenovo S520",
+        "rating": "10",
+        "hon_price_min": "748",
+        "hon_price_max": "748"
+    },
+    {
+        "names": "Nokia N97",
+        "rating": "9.3"
+    },
+    {
+        "names": "Nokia 6600i slide",
+        "rating": "7.7"
+    },
+    {
+        "names": "Nokia X3-02",
+        "rating": "8.7",
+        "water_price_min": "450",
+        "water_price_max": "450"
+    },
+    {
+        "names": "Samsung 三星 C3300K",
+        "rating": "8.7"
+    },
+    {
+        "names": "Sony Ericsson K810i",
+        "rating": "8.2",
+        "water_price_min": "1,344",
+        "water_price_max": "1,344"
+    },
+    {
+        "names": "Nokia E71",
+        "rating": "9.6"
+    },
+    {
+        "names": "DORO Primo 215",
+        "rating": ""
+    },
+    {
+        "names": "Nokia 5800 XpressMusic",
+        "rating": "8.5"
+    },
+    {
+        "names": "Philips 飛利浦 X710",
+        "rating": "8.0"
+    },
+    {
+        "names": "TKEXUN 4G 長者摺機 G300",
+        "rating": ""
+    },
+    {
+        "names": "Sony Ericsson Elm J10",
+        "rating": "8.8"
+    },
+    {
+        "names": "Samsung 三星 Lindy M5650U",
+        "rating": "8.7",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550"
+    },
+    {
+        "names": "Nokia X1-01",
+        "rating": "8.9"
+    },
+    {
+        "names": "DoCoMo SH-04C",
+        "rating": "5.3",
+        "water_price_min": "4,580",
+        "water_price_max": "4,580"
+    },
+    {
+        "names": "K-Touch W306",
+        "rating": "10"
+    },
+    {
+        "names": "Sony Ericsson Cedar J108",
+        "rating": "7.6",
+        "water_price_min": "620",
+        "water_price_max": "620"
+    },
+    {
+        "names": "Nokia 105 Dual Sim (2015)",
+        "rating": ""
+    },
+    {
+        "names": "Nokia N82",
+        "rating": "8.8",
+        "water_price_min": "2,098",
+        "water_price_max": "2,098"
+    },
+    {
+        "names": "Samsung 三星 E1100",
+        "rating": "9.2"
+    },
+    {
+        "names": "Nokia 220 Dual SIM",
+        "rating": "6.8"
+    },
+    {
+        "names": "LG 樂金 GX300",
+        "rating": "7.3"
+    },
+    {
+        "names": "Samsung 三星 Caramel e1272",
+        "rating": "9.0",
+        "water_price_min": "290",
+        "water_price_max": "290"
+    },
+    {
+        "names": "Lenovo E268",
+        "rating": "8.0"
+    },
+    {
+        "names": "LG 樂金 KM900",
+        "rating": "8.7"
+    },
+    {
+        "names": "Nokia 1208",
+        "rating": "7.0"
+    },
+    {
+        "names": "Philips 飛利浦 E102",
+        "rating": "6.0",
+        "hon_price_min": "145",
+        "hon_price_max": "180",
+        "water_price_min": "145",
+        "water_price_max": "320"
+    },
+    {
+        "names": "Vertu Constellation",
+        "rating": "10"
+    },
+    {
+        "names": "Nokia X2-01",
+        "rating": "8.0"
+    },
+    {
+        "names": "Nokia C6",
+        "rating": "9.1"
+    },
+    {
+        "names": "LG 樂金 KF350",
+        "rating": "8.4",
+        "hon_price_min": "940",
+        "hon_price_max": "940"
+    },
+    {
+        "names": "Nokia C7-00",
+        "rating": "9.0"
+    },
+    {
+        "names": "LG 樂金 A258",
+        "rating": "8.0"
+    },
+    {
+        "names": "Nokia 2330 Classic",
+        "rating": "6.7"
+    },
+    {
+        "names": "Samsung 三星 S5560",
+        "rating": "9.1"
+    },
+    {
+        "names": "Sunup SS808",
+        "rating": ""
+    },
+    {
+        "names": "DoCoMo L-03B",
+        "rating": "",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880"
+    },
+    {
+        "names": "Sony Ericsson C902",
+        "rating": "8.0",
+        "hon_price_min": "1,748",
+        "hon_price_max": "1,748"
+    },
+    {
+        "names": "BLU TANK ll",
+        "rating": ""
+    },
+    {
+        "names": "LG 樂金 KF301",
+        "rating": "8.0",
+        "hon_price_min": "660",
+        "hon_price_max": "660"
+    },
+    {
+        "names": "LG 樂金 Viewty Snap GM360i",
+        "rating": "9.2",
+        "hon_price_min": "1,246",
+        "hon_price_max": "1,246"
+    },
+    {
+        "names": "Nokia 222",
+        "rating": ""
+    },
+    {
+        "names": "Nokia 700",
+        "rating": "9.0"
+    },
+    {
+        "names": "Nokia Asha 206",
+        "rating": "8.4"
+    },
+    {
+        "names": "Nokia 8800 Sapphire Arte",
+        "rating": "",
+        "hon_price_min": "10,000",
+        "hon_price_max": "10,000"
+    },
+    {
+        "names": "LG 樂金 T325",
+        "rating": "8.5"
+    },
+    {
+        "names": "Sharp 聲寶 SH9110C",
+        "rating": "10"
+    },
+    {
+        "names": "Nokia E52",
+        "rating": "9.5"
+    },
+    {
+        "names": "Nokia 111",
+        "rating": ""
+    },
+    {
+        "names": "Samsung 三星 B5722",
+        "rating": "5.3"
+    },
+    {
+        "names": "Sony Ericsson Naite",
+        "rating": "8.0"
+    },
+    {
+        "names": "Samsung 三星 S3600H",
+        "rating": "8.0",
+        "water_price_min": "640",
+        "water_price_max": "640"
+    },
+    {
+        "names": "Nokia Asha 201",
+        "rating": ""
+    },
+    {
+        "names": "SunCup H199",
+        "rating": ""
+    },
+    {
+        "names": "Nokia C1-00",
+        "rating": "8.7"
+    },
+    {
+        "names": "Nokia 100",
+        "rating": ""
+    },
+    {
+        "names": "AIEK M3",
+        "rating": ""
+    },
+    {
+        "names": "Nokia Asha 303",
+        "rating": "7.0"
+    },
+    {
+        "names": "Nokia 216",
+        "rating": "8.0",
+        "water_price_min": "320",
+        "water_price_max": "320"
+    },
+    {
+        "names": "Nokia 150",
+        "rating": ""
+    },
+    {
+        "names": "LG 樂金 KF300",
+        "rating": "8.4",
+        "water_price_min": "650",
+        "water_price_max": "650"
+    },
+    {
+        "names": "Samsung 三星 Champ",
+        "rating": "7.5"
+    },
+    {
+        "names": "Philips 飛利浦 X806",
+        "rating": "8.5",
+        "hon_price_min": "1,720",
+        "hon_price_max": "1,720"
+    },
+    {
+        "names": "Nokia 6700 slide",
+        "rating": "8.7"
+    },
+    {
+        "names": "Sony Ericsson Xperia Pureness",
+        "rating": "6.7",
+        "water_price_min": "3,088",
+        "water_price_max": "3,088"
+    },
+    {
+        "names": "SOYUE V988",
+        "rating": "9.0"
+    },
+    {
+        "names": "Philips 飛利浦 x100",
+        "rating": "6.7"
+    },
+    {
+        "names": "DoCoMo P-04B",
+        "rating": "7.0",
+        "water_price_min": "3,280",
+        "water_price_max": "3,280"
+    },
+    {
+        "names": "iNO mobile CP99",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348"
+    },
+    {
+        "names": "CallMing F633",
+        "rating": ""
+    },
+    {
+        "names": "Nokia 208 Dual SIM",
+        "rating": ""
+    },
+    {
+        "names": "Land Rover S1",
+        "rating": "10"
+    },
+    {
+        "names": "LG 樂金 T370",
+        "rating": ""
+    },
+    {
+        "names": "Nokia 230",
+        "rating": ""
+    },
+    {
+        "names": "Sony Ericsson Hazel J20",
+        "rating": "9.1"
+    },
+    {
+        "names": "智愛寶 iBao 長者定位功能電話 (連24個月手機月費服務)",
+        "rating": ""
+    },
+    {
+        "names": "Nokia 2710 Navigation Edition",
+        "rating": ""
+    },
+    {
+        "names": "DoCoMo N-04B",
+        "rating": "",
+        "water_price_min": "2,980",
+        "water_price_max": "2,980"
+    },
+    {
+        "names": "Nokia C2-00",
+        "rating": "7.7"
+    },
+    {
+        "names": "Nokia C6-01",
+        "rating": "9.5"
+    },
+    {
+        "names": "Nokia 110",
+        "rating": ""
+    },
+    {
+        "names": "Nokia Asha 230",
+        "rating": ""
+    },
+    {
+        "names": "Philips 飛利浦 E1500",
+        "rating": ""
+    },
+    {
+        "names": "Nokia Asha 311",
+        "rating": "8.6"
+    },
+    {
+        "names": "Nokia 2730 Classic",
+        "rating": "9.2"
+    },
+    {
+        "names": "Sunup GN200",
+        "rating": ""
+    },
+    {
+        "names": "Lenovo P80+",
+        "rating": "6.0",
+        "hon_price_min": "798",
+        "hon_price_max": "798"
+    },
+    {
+        "names": "Nokia 5130 XpressMusic",
+        "rating": "8.9"
+    },
+    {
+        "names": "Motorola EX128",
+        "rating": "7.6",
+        "hon_price_min": "999",
+        "hon_price_max": "999"
+    },
+    {
+        "names": "Sharp 聲寶 SH806T",
+        "rating": "",
+        "water_price_min": "2,500",
+        "water_price_max": "2,500"
+    },
+    {
+        "names": "Nokia 1800",
+        "rating": "4.7"
+    },
+    {
+        "names": "Vertu Ascent Ti",
+        "rating": "10"
+    },
+    {
+        "names": "Nokia 101",
+        "rating": "8.7"
+    },
+    {
+        "names": "Sharp 聲寶 Aquos 501sh",
+        "rating": ""
+    },
+    {
+        "names": "SHY H001",
+        "rating": "10"
+    },
+    {
+        "names": "Nokia N86 8MP",
+        "rating": "9.6"
+    },
+    {
+        "names": "Samsung 三星 S3500C",
+        "rating": "8.7",
+        "hon_price_min": "830",
+        "hon_price_max": "830"
+    },
+    {
+        "names": "SoftBank 740SC",
+        "rating": "7.6",
+        "water_price_min": "498",
+        "water_price_max": "498"
+    },
+    {
+        "names": "LG 樂金 GX500",
+        "rating": "7.8",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,760"
+    },
+    {
+        "names": "SoftBank 942SH KT",
+        "rating": "",
+        "water_price_min": "2,580",
+        "water_price_max": "2,580"
+    },
+    {
+        "names": "Xero XM-01",
+        "rating": "6.0"
+    },
+    {
+        "names": "Samsung 三星 Monte Slider",
+        "rating": "8.0",
+        "hon_price_min": "500",
+        "hon_price_max": "500"
+    },
+    {
+        "names": "Samsung 三星 E1055T",
+        "rating": "9.0"
+    },
+    {
+        "names": "Nokia E5",
+        "rating": "8.4"
+    },
+    {
+        "names": "Amytel AC-1010 Elderly Phone",
+        "rating": ""
+    },
+    {
+        "names": "Coolpad 4G 智能長者機 c588s",
+        "rating": ""
+    },
+    {
+        "names": "AU INFOBAR xv  kyx31",
+        "rating": ""
+    },
+    {
+        "names": "Nokia X6",
+        "rating": "8.7"
+    },
+    {
+        "names": "Nokia 3310",
+        "rating": "6.5"
+    },
+    {
+        "names": "Samsung 三星 E1202 Dual SIM",
+        "rating": ""
+    },
+    {
+        "names": "Motorola A1600",
+        "rating": "10"
+    },
+    {
+        "names": "Nokia 5220 Xpress",
+        "rating": "",
+        "hon_price_min": "1,144",
+        "hon_price_max": "1,144"
+    }
+]
