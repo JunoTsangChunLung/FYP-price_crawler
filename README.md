@@ -97,7 +97,9 @@ The path "data/通訊/手提電話/smart_phone.txt" is a relative path.
 
 Therefore, <h3><b>make sure you run the code in the right place. </b></h3>
 
-How to check if I am in the right place? <hr>
+<hr>
+
+How to check if I am in the right place?
 
 You should know where you put your code in.
 
