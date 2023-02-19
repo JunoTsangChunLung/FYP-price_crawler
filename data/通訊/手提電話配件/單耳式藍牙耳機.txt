@@ -1,0 +1,1908 @@
+[
+    {
+        "names": "Nakamichi 單耳式掛耳藍牙耳機 N1",
+        "rating": "9.4",
+        "hon_price_min": "369",
+        "hon_price_max": "499",
+        "water_price_min": "468",
+        "water_price_max": "468",
+        "功能:": "語音通話",
+        "播放頻率:": "20Hz-20kHz",
+        "靈敏度:": "109dB/mW"
+    },
+    {
+        "names": "Bonnaire 雙咪降噪ENC單耳入耳式藍牙耳機 DM-260",
+        "rating": "9.3",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "功能:": "語音通話",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "16-20小時"
+    },
+    {
+        "names": "Jabra Talk 25 SE 單耳式藍牙耳機",
+        "rating": "8.7",
+        "hon_price_min": "228",
+        "hon_price_max": "399",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "功能:": "語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Bonnaire 專業ENC雙咪降噪單耳藍牙耳機 DM-200",
+        "rating": "8.0",
+        "hon_price_min": "298",
+        "hon_price_max": "328",
+        "功能:": "語音通話",
+        "續航力:": "24小時"
+    },
+    {
+        "names": "Jabra Talk 65 單耳式降噪藍牙耳機",
+        "rating": "7.0",
+        "hon_price_min": "570",
+        "hon_price_max": "799",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "功能:": "主動抗噪,防水,運動型,語音通話",
+        "續航力:": "14小時",
+        "防塵/防水等級:": "IP54"
+    },
+    {
+        "names": "Jabra Talk 55 單耳式降噪藍牙耳機",
+        "rating": "4.0",
+        "hon_price_min": "620",
+        "hon_price_max": "779",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "Philips 飛利浦 單耳式藍牙耳機 DLP3538",
+        "rating": "7.0",
+        "hon_price_min": "350",
+        "hon_price_max": "399",
+        "功能:": "語音通話",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Jabra Talk 25 單耳式藍牙耳機",
+        "rating": "9.7",
+        "hon_price_min": "259",
+        "hon_price_max": "349",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "功能:": "語音通話",
+        "播放頻率:": "300Hz to  7kHz",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Plantronics Voyager 5210 單耳掛式專業通話藍牙耳機 (淨機)",
+        "rating": "5.2",
+        "hon_price_min": "650",
+        "hon_price_max": "798",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Jabra Talk 45 單耳式降噪藍牙耳機",
+        "rating": "7.8",
+        "hon_price_min": "385",
+        "hon_price_max": "699",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "藍牙版本:": "4.0",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Plantronics Voyager 3200 Series 單耳式超輕巧藍牙耳機 (淨機)",
+        "rating": "5.8",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Plantronics Voyager 5200 UC B5200 單邊耳掛式辦公室耳機",
+        "rating": "8.0",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,744",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Plantronics Voyager 5200 單耳掛式專業通話藍牙耳機 (淨機)",
+        "rating": "8.3",
+        "hon_price_min": "608",
+        "hon_price_max": "739",
+        "water_price_min": "520",
+        "water_price_max": "600",
+        "功能:": "語音通話"
+    },
+    {
+        "names": "Jabra Talk 15 SE 單耳式藍牙耳機",
+        "rating": "2.0",
+        "hon_price_min": "188",
+        "hon_price_max": "329",
+        "water_price_min": "238",
+        "water_price_max": "238",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Tribit 單耳式無線藍牙5.0耳機 CallElite 81",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "560",
+        "功能:": "主動抗噪,語音通話",
+        "播放頻率:": "20 - 20kHz",
+        "續航力:": "50小時"
+    },
+    {
+        "names": "Plantronics Voyager Legend 單耳掛式辦公室藍牙耳機",
+        "rating": "8.9",
+        "hon_price_min": "410",
+        "hon_price_max": "539",
+        "water_price_min": "420",
+        "water_price_max": "490",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Plantronics Explorer 500 單耳式立體聲藍牙耳機",
+        "rating": "7.8",
+        "hon_price_min": "295",
+        "hon_price_max": "295",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Motorola 單耳式高清通話藍牙耳機 HK125",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "289",
+        "功能:": "語音通話",
+        "續航力:": "6.5小時"
+    },
+    {
+        "names": "Philips 飛利浦 藍牙單耳式耳機 SHB1103",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "178",
+        "功能:": "語音通話",
+        "續航力:": "3.5-5小時"
+    },
+    {
+        "names": "Remax 耳掛式降噪通話藍牙耳機 RB-T39",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "功能:": "被動抗噪,語音通話",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "BlueParrott 單耳式超輕降噪藍牙耳機 M300-XT",
+        "rating": "7.3",
+        "hon_price_min": "680",
+        "hon_price_max": "799",
+        "功能:": "防水,語音通話",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "14小時"
+    },
+    {
+        "names": "Jabra Talk 15 單耳式藍牙耳機",
+        "rating": "2.0",
+        "hon_price_min": "198",
+        "hon_price_max": "299",
+        "功能:": "語音通話",
+        "播放頻率:": "300Hz to  7kHz",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Yealink 單耳式可轉換 DECT 藍牙耳機 WH63",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400"
+    },
+    {
+        "names": "Lenovo 單耳式免提藍牙耳機 HX106",
+        "rating": "2.0",
+        "hon_price_min": "99",
+        "hon_price_max": "149",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "功能:": "被動抗噪,語音通話,快速充電",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Philips 飛利浦 單耳式單聲道藍牙耳機 SHB1614",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "189",
+        "藍牙版本:": "4.0",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Plantronics Voyager 3240 單耳式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Plantronics Voyager 5200 單耳掛式專業通話藍牙耳機 (連座充)",
+        "rating": "6.0",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "功能:": "語音通話"
+    },
+    {
+        "names": "Plantronics Savi 8240 UC/M DECT 1.8GHz, D200 USB-A 單耳式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "1,770",
+        "hon_price_max": "1,773",
+        "功能:": "主動抗噪,語音通話"
+    },
+    {
+        "names": "Plantronics Savi 8245 單耳式辦公室藍牙耳機",
+        "rating": "",
+        "hon_price_min": "2,888",
+        "hon_price_max": "3,180",
+        "藍牙版本:": "5.0",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Poly Voyager 5200 Office and UC Series 單耳式藍牙耳機連充電盒",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,744",
+        "功能:": "防水,運動型,語音通話",
+        "播放頻率:": "100Hz-20kHz",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Xiaomi 小米 Beebest 極蜂對講機單耳式藍牙耳機 1S BE608",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "功能:": "被動抗噪,語音通話",
+        "續航力:": "5-7小時"
+    },
+    {
+        "names": "Xiaomi 小米 單耳式藍牙耳機青春版",
+        "rating": "7.0",
+        "water_price_min": "75",
+        "water_price_max": "89",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Epos Audio Adapt Presence Grey Business Sennheiser 單耳式藍牙耳機 (1000659)",
+        "rating": "",
+        "hon_price_min": "1,209",
+        "hon_price_max": "1,209",
+        "功能:": "被動抗噪,語音通話",
+        "靈敏度:": "118dB/mW",
+        "續航力:": "8-10小時"
+    },
+    {
+        "names": "Motorola In-ear Wireless Mono Headset 單耳式藍牙耳機 HK500",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Sony Xperia Ear 單耳式藍牙耳機 XEA10",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "功能:": "語音通話",
+        "續航力:": "4小時",
+        "防塵/防水等級:": "IPX2"
+    },
+    {
+        "names": "BlueAnt 單邊耳掛式藍牙耳機 Q3",
+        "rating": "2.0",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Jabra Stealth 單耳式HIFI藍牙耳機",
+        "rating": "8.3",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Philips 飛利浦 單耳式藍牙耳機 SHB1700",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Motorola 單耳式單聲道藍牙耳機 HK105",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "功能:": "語音通話,快速充電"
+    },
+    {
+        "names": "Jabra Talk 5 單邊單聲道藍牙耳機",
+        "rating": "5.0",
+        "hon_price_min": "128",
+        "hon_price_max": "199",
+        "water_price_min": "138",
+        "water_price_max": "138",
+        "功能:": "主動抗噪,語音通話",
+        "續航力:": "11小時"
+    },
+    {
+        "names": "Plantronics Voyager Legend Executive Kit 單耳掛式辦公室藍牙耳機",
+        "rating": "6.0",
+        "hon_price_min": "598",
+        "hon_price_max": "780",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Xiaomi 小米 單耳式藍牙耳機",
+        "rating": "8.0",
+        "water_price_min": "105",
+        "water_price_max": "105",
+        "藍牙版本:": "V4.1"
+    },
+    {
+        "names": "QCY 單邊入耳式藍牙耳機 Q25",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Jabra Storm 單邊耳掛式藍牙耳機",
+        "rating": "5.8",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "功能:": "語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Baseus Encok 單耳式車載藍牙耳機 A05",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "功能:": "主動抗噪,語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "HANLIN 單邊殼骨傳導安全帽藍牙耳機 BTS5",
+        "rating": "",
+        "hon_price_min": "529",
+        "hon_price_max": "850",
+        "功能:": "語音通話",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "7-9小時"
+    },
+    {
+        "names": "Plantronics Voyager Legend - Gold 單耳掛式辦公室藍牙耳機",
+        "rating": "8.5",
+        "hon_price_min": "410",
+        "hon_price_max": "498",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Borofone 單耳式商務藍牙耳機 BC25 Wonderful",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "功能:": "快速充電",
+        "續航力:": "11小時"
+    },
+    {
+        "names": "Borofone 單耳式酩悅商務藍牙耳機 BC36 Lucky",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "WK Design 單邊藍牙耳機 P3",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "功能:": "語音通話",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "WK Design 單耳式藍牙耳機 BS170",
+        "rating": "",
+        "hon_price_min": "96",
+        "hon_price_max": "96",
+        "功能:": "語音通話",
+        "播放頻率:": "2.402 - 2.48 GHz",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "Jabra Steel 單耳式防水抗噪藍牙耳機",
+        "rating": "5.5",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Jabra Talk 35 單邊單聲道藍牙耳機",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "499",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Plantronics Voyager 3200 UC 單耳式藍牙耳機 (連充電盒及藍牙轉換器)",
+        "rating": "",
+        "功能:": "主動抗噪,語音通話,NFC",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Remax 單邊入耳式迷你藍牙耳機 T10",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80"
+    },
+    {
+        "names": "Jabra Talk 2 單耳式藍牙耳機",
+        "rating": "10",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "功能:": "語音通話",
+        "續航力:": "9小時"
+    },
+    {
+        "names": "Jabra Eclips 單耳式輕巧藍牙耳機",
+        "rating": "7.0",
+        "hon_price_min": "450",
+        "hon_price_max": "530",
+        "water_price_min": "450",
+        "water_price_max": "558",
+        "功能:": "語音通話,NFC",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Xpower 單耳式藍牙耳機 X168",
+        "rating": "",
+        "hon_price_min": "265",
+        "hon_price_max": "265",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Anker Soundbuds Mono BT 單耳式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "198",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Samsung 三星 單耳式藍牙耳機 HM1300",
+        "rating": "",
+        "water_price_min": "70",
+        "water_price_max": "70",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0+EDR Class2"
+    },
+    {
+        "names": "JBL 單耳式藍牙耳機 J303",
+        "rating": "4.0",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Plantronics Voyager Legend UC B235 單耳掛式辦公室藍牙耳機連USB接收器",
+        "rating": "10",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,278",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Sennheiser Presence 單耳式藍牙耳機",
+        "rating": "9.7",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "900",
+        "water_price_max": "900",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "MPOW Crescent Business Bluetooth 單耳式藍牙耳機 BH028A",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "VIEOX Roamer R300 單耳式高清降噪藍牙耳機",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258"
+    },
+    {
+        "names": "Jabra 單邊耳掛式藍牙耳機 BT2046",
+        "rating": "8.0",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "功能:": "語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Motorola Boom 2 單耳式藍牙耳機",
+        "rating": "6.0",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "功能:": "語音通話,NFC",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Remax 單耳式藍牙耳機 RB-T9",
+        "rating": "",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "功能:": "主動抗噪,語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Jabees iBee 單耳式2合1藍牙耳機",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "藍牙版本:": "Bluetooth v3.0+EDR"
+    },
+    {
+        "names": "Remax 單耳式鋁合金藍牙耳機 RB-T3",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "water_price_min": "50",
+        "water_price_max": "50"
+    },
+    {
+        "names": "Nakamichi 單耳式多功能藍牙耳機 T2",
+        "rating": "9.0",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Awei 單耳式商務藍牙耳機 A831BL",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238"
+    },
+    {
+        "names": "Awei 單耳式商務藍牙耳機 A825",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138"
+    },
+    {
+        "names": "QCY 單耳式迷你藍牙耳機 Q12",
+        "rating": "6.0",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Yoobao 單耳式藍牙耳機 YB501",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "功能:": "語音通話",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "2小時"
+    },
+    {
+        "names": "Nokia 單耳式藍牙耳機 BH-606",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "藍牙版本:": "Bluetooth v2.0"
+    },
+    {
+        "names": "Bluedio 單耳式藍牙耳機 DF33T",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "395",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "WIWU Solo Max 單耳式商務車載藍牙耳機",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "189"
+    },
+    {
+        "names": "Borofone 單耳式藍牙耳機 BC19 Hero sound",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "功能:": "語音通話",
+        "續航力:": "3小時"
+    },
+    {
+        "names": "Free Tech 單耳式藍牙立體聲耳機 S5",
+        "rating": "",
+        "water_price_min": "189",
+        "water_price_max": "189",
+        "藍牙版本:": "V4.0"
+    },
+    {
+        "names": "Borofone 單耳式商務藍牙耳機 BC18 MaxMove",
+        "rating": "10",
+        "hon_price_min": "158",
+        "hon_price_max": "298",
+        "功能:": "語音通話",
+        "支援音訊格式:": "aptX",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Plantronics Savi W740 單耳式辦公室藍牙耳機",
+        "rating": "",
+        "hon_price_min": "2,700",
+        "hon_price_max": "2,890"
+    },
+    {
+        "names": "Plantronics Explorer 120 單耳式藍牙通話耳機",
+        "rating": "8.0",
+        "hon_price_min": "308",
+        "hon_price_max": "398",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Jabees Victor 單耳夾式音樂藍牙耳機",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "藍牙版本:": "Bluetooth v3.0+EDR"
+    },
+    {
+        "names": "Remax 單耳式迷你商務立體聲藍牙耳機 RB-T17",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59"
+    },
+    {
+        "names": "Plantronics 單耳式藍牙通用耳機 M90",
+        "rating": "7.5",
+        "water_price_min": "210",
+        "water_price_max": "210",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Jabra Classic 單邊耳掛式藍牙耳機",
+        "rating": "7.0",
+        "water_price_min": "135",
+        "water_price_max": "135",
+        "功能:": "語音通話",
+        "續航力:": "9小時"
+    },
+    {
+        "names": "Bluedio 單耳式藍牙耳機 R9",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "175",
+        "藍牙版本:": "Bluetooth v2.1+EDR"
+    },
+    {
+        "names": "Bonnaire 單耳式單聲道藍牙耳機 BT-901",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Plantronics 單耳式藍牙耳機 M70",
+        "rating": "8.4",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Plantronics Discovery 975 單耳式藍牙耳機",
+        "rating": "9.2",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "功能:": "語音通話",
+        "藍牙版本:": "2.1"
+    },
+    {
+        "names": "Plantronics 商務單耳藍牙耳機 E10",
+        "rating": "4.0",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "功能:": "語音通話"
+    },
+    {
+        "names": "Borofone 單耳式藍牙耳機 BC28 Shiny sound",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "Motorola 單耳式通用藍牙耳機 HK115",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99"
+    },
+    {
+        "names": "Jabra 單邊耳掛式藍牙耳機 BT2045",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "功能:": "語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "SBS 單耳式多功能藍牙耳機 BT200",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Spidercase 單耳式迷你運動耳機 M760i",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "藍牙版本:": "v4.2+EDR",
+        "防塵/防水等級:": "IPX67/68"
+    },
+    {
+        "names": "Ovevo 單耳式車載藍牙耳機 Q10",
+        "rating": "",
+        "water_price_min": "110",
+        "water_price_max": "110",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "QCY 單耳式商務通用藍牙耳機 Q11",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148"
+    },
+    {
+        "names": "Jabees 單耳式藍牙音樂耳機 JB301",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Plantronics Voyager Edge 單耳式藍牙耳機",
+        "rating": "8.9",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "Awei 單耳式商務藍牙耳機 N1",
+        "rating": "",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Mipow Vox Tube 100 單耳式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "藍牙版本:": "A2DP 1.2 / HSP 1.2 / HFP 1.6(HD Voice)"
+    },
+    {
+        "names": "Joyroom 單耳式耳骨傳導藍牙耳機 JR-P2",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "155",
+        "功能:": "運動型",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "i-Tech VoiceClip 1100 單耳夾式藍牙耳機",
+        "rating": "10",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Jabra 單邊耳掛式藍牙耳機 BT2047",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "功能:": "語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Plantronics Explorer 100 單耳式立體聲藍牙耳機",
+        "rating": "2.0",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "SmarterWare Talk FC5 單耳式降噪藍牙耳機",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "219",
+        "功能:": "被動抗噪,語音通話,快速充電",
+        "續航力:": "80小時",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Motorola Boom 2+ 單耳式藍牙耳機",
+        "rating": "5.8",
+        "hon_price_min": "299",
+        "hon_price_max": "335"
+    },
+    {
+        "names": "Motorola Moto Hint 2nd Gen 單耳式微型藍牙耳機",
+        "rating": "6.0",
+        "hon_price_min": "680",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "ALOK 單耳真正骨傳導藍牙耳機 M-618",
+        "rating": "2.0",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Jabra Stone 3 單邊耳掛式藍牙耳機",
+        "rating": "2.0",
+        "hon_price_min": "738",
+        "hon_price_max": "738",
+        "功能:": "語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Baseus 單耳式磁力充電藍牙耳機",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "功能:": "主動抗噪,語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Joyroom 單耳式耳骨傳導藍牙耳機 JR-P1",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "139",
+        "功能:": "語音通話",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Jabra Motion UC MS 單耳式藍牙耳機連旅行充電套件",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,590",
+        "功能:": "語音通話,NFC"
+    },
+    {
+        "names": "WK Design Wekome P18 單耳式藍牙耳機",
+        "rating": "",
+        "water_price_min": "60",
+        "water_price_max": "60",
+        "藍牙版本:": "5.0",
+        "續航力:": "6-9小時"
+    },
+    {
+        "names": "Lenovo 單耳式商務單耳藍牙耳機 TW16",
+        "rating": "2.0",
+        "hon_price_min": "108",
+        "hon_price_max": "118",
+        "功能:": "防水,語音通話",
+        "續航力:": "6小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Borofone 單耳式商務藍牙耳機 BC22 Business",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Pisen 品勝 單邊耳塞式立體聲藍牙耳機 LE002+",
+        "rating": "9.3",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Jabees Beatle S 單耳式甲蟲立體聲藍牙耳機",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Nakamichi 單耳式藍牙耳機 T5",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Jabees JLux 單耳式立體聲藍牙耳機",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Plantronics Voyager Legend CS B335 單邊耳掛式辦公室藍牙耳機",
+        "rating": "10",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,350",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Sony 單耳式單聲道藍牙耳機 MBH20",
+        "rating": "6.0",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "QCY 單耳式入耳藍牙機 A1",
+        "rating": "6.0",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "功能:": "被動抗噪,語音通話,快速充電",
+        "播放頻率:": "20-20KHz",
+        "續航力:": "8.5小時"
+    },
+    {
+        "names": "Plantronics 單耳式立體聲藍牙耳機 E50",
+        "rating": "2.0",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "功能:": "語音通話",
+        "續航力:": "11小時"
+    },
+    {
+        "names": "Plantronics Explorer 80 單耳式藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "11小時"
+    },
+    {
+        "names": "Sony Ericsson 單耳式通用藍牙耳機 HBH-PV703",
+        "rating": "10",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "功能:": "語音通話",
+        "藍牙版本:": "2.0"
+    },
+    {
+        "names": "Bluedio 單耳式藍牙立體聲通話耳機 DF630+",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "285",
+        "藍牙版本:": "Bluetooth v4.0+EDR"
+    },
+    {
+        "names": "Plantronics Voyager 5210 單耳掛式專業通話藍牙耳機 (連座充)",
+        "rating": "6.0",
+        "hon_price_min": "848",
+        "hon_price_max": "848",
+        "功能:": "語音通話"
+    },
+    {
+        "names": "Buffalo 單耳式藍牙耳機 HS-BE14BR",
+        "rating": "",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "藍牙版本:": "Bluetooth v2.1+EDR Class 2"
+    },
+    {
+        "names": "DACOM 微型單邊藍牙耳機 K28",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "water_price_min": "109",
+        "water_price_max": "109",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Buffalo 單耳式迷你藍牙耳機 BSHSBE18",
+        "rating": "10",
+        "藍牙版本:": "Bluetooth v3.0+EDR"
+    },
+    {
+        "names": "Jabra Motion Office 單邊耳掛式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "2,690",
+        "hon_price_max": "2,690",
+        "功能:": "語音通話,NFC",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "SBS 單邊耳掛式藍牙耳機 BT410",
+        "rating": "",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "E-blue Marvel Avengers單耳式藍牙耳機 EBT931",
+        "rating": "",
+        "water_price_min": "110",
+        "water_price_max": "110",
+        "功能:": "語音通話,NFC",
+        "續航力:": "24小時"
+    },
+    {
+        "names": "E-Blue Bridget Black Computer Earphone Headset EHS009",
+        "rating": ""
+    },
+    {
+        "names": "Remax 單耳式藍牙耳機連充電底座 RB-T6C",
+        "rating": "",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "i-Tech VoiceClip 7100 單耳夾式藍牙耳機",
+        "rating": "8.0",
+        "藍牙版本:": "Bluetooth v4.1"
+    },
+    {
+        "names": "Philips 飛利浦 單耳式藍牙單聲道耳機 SHB1102",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Sennheiser Presence Grey Business 508341 單耳藍牙耳機",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,050",
+        "功能:": "語音通話",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Samsung 三星 單耳式立體聲藍牙耳機 N975i",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "Remax 單耳式藍牙耳機 RB-T2",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "ROMAN 單耳式立體聲藍牙耳機 R505",
+        "rating": "",
+        "藍牙版本:": "Stereo Bluetooth headset"
+    },
+    {
+        "names": "Hoco Rede 單耳式商務藍牙耳機 E15",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "A-G Mini6 單耳式迷你藍牙立體聲耳機",
+        "rating": ""
+    },
+    {
+        "names": "DACOM 單耳式藍牙音樂耳機 K69-003",
+        "rating": "10",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Remax 單邊耳掛式藍牙耳機 RB-T5",
+        "rating": "2.0",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "DACOM 單耳式藍牙音樂藍牙耳機 K69",
+        "rating": "4.0",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Vimoto 單耳式安全帽藍牙耳機 V6",
+        "rating": "",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "功能:": "防水,語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Bluedio 單耳式藍牙立體聲耳機 99A",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "195",
+        "藍牙版本:": "Bluetooth v4.0+EDR"
+    },
+    {
+        "names": "Bonnaire 單耳式單聲道藍牙耳機 BT-35",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0 class 2"
+    },
+    {
+        "names": "Pisen 品勝 單邊耳塞式立體聲藍牙耳機  LE001+",
+        "rating": "10",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Plantronics 單耳式藍牙耳機 M75",
+        "rating": "8.0",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Bluedio Super Mini 單邊多功能通話耳機 T9+",
+        "rating": ""
+    },
+    {
+        "names": "Bluedio 單邊入耳式立體聲藍牙耳機 DF7",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "藍牙版本:": "Bluetooth v4.1"
+    },
+    {
+        "names": "Samsung 三星 單耳式藍牙耳機 HM3300",
+        "rating": "",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Motorola 單耳式通用藍牙耳機 HK250",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Bluedio 單耳式立體聲藍牙耳機 E9+",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0+EDR"
+    },
+    {
+        "names": "Etymotic Research etyBLU2 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "TF 單耳式運動藍牙耳機 MINI-503",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99"
+    },
+    {
+        "names": "Avantree VOX-POP 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0+EDR"
+    },
+    {
+        "names": "Awei 單耳式商務藍牙耳機 N3",
+        "rating": "",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Good fit Mini 9 單耳式超迷你藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "ROMAN 單耳式商務通話藍牙耳機 R555",
+        "rating": "",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "Nakamichi Titanium 1 USB一插即充電單耳式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Sony 單耳式單聲道藍牙耳機 MBH10",
+        "rating": "8.4",
+        "功能:": "語音通話,NFC",
+        "播放頻率:": "300Hz-8000Hz",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Samsung 三星 單耳式藍牙耳機 BHM1900",
+        "rating": "9.0",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Bose 單耳式藍牙通訊耳機 BT2",
+        "rating": "10",
+        "功能:": "語音通話"
+    },
+    {
+        "names": "Good Fit 單耳式立體聲藍牙耳機 V9",
+        "rating": "",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "JBL 單耳式藍牙耳機 J305",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "310",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "MoGo Talk 單耳式藍牙耳機連保護套",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "SKY-TONE 單耳式立體聲藍牙耳機 S8",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v4.0+EDR"
+    },
+    {
+        "names": "Samsung 三星 藍牙單耳掛式耳機 EO-MG920",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "Plantronics Voyager 3200 Series 單耳式超輕巧藍牙耳機 (連座充)",
+        "rating": "8.0",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Awei 單耳式商務藍牙耳機 A835",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "功能:": "語音通話",
+        "續航力:": "4.5小時"
+    },
+    {
+        "names": "Plantronics Explorer 230 單耳掛式藍牙耳機",
+        "rating": "8.0",
+        "功能:": "語音通話",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Good fit M6 Plus 2合1智能手環連單邊藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "WK Design 單耳式運動型藍牙耳機 BS151",
+        "rating": "",
+        "藍牙版本:": "4.1",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "Fineblue 單耳式高清降噪立體聲耳機 HD998",
+        "rating": ""
+    },
+    {
+        "names": "Motorola 單耳掛式藍牙耳機 HZ750",
+        "rating": "8.0",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Nokia 單邊夾式商務型藍牙耳機 BH-218",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "i-Tech MyVoice 3000 單邊商務型掛耳藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Nokia 單邊耳塞式商務型藍牙耳機 BH-216",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Jabra Boost 單耳式勁步藍牙耳機",
+        "rating": "8.2",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "功能:": "語音通話",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "Sennheiser 單耳式藍牙耳機 EZX 60",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Plantronics Explorer 240 單耳掛式藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Motorola 單耳式通用藍牙耳機 HK200",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Jabra Wave 單邊耳掛式藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "JBL 單耳式藍牙耳機 J406",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "DACOM 單耳式音樂藍牙耳機 M2C",
+        "rating": "",
+        "藍牙版本:": "v4.1"
+    },
+    {
+        "names": "Jawbone Icon HD 單耳式藍牙耳機",
+        "rating": "6.0",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Jawbone Era (2014) 單耳式藍牙耳機",
+        "rating": "9.0",
+        "藍牙版本:": "藍芽免提裝置"
+    },
+    {
+        "names": "Nakamichi 單耳式免提藍牙耳機 T8",
+        "rating": "8.0",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "SPEED SP-2300 Earset 單耳式免提藍牙耳機",
+        "rating": ""
+    },
+    {
+        "names": "Buffalo 單耳式藍牙耳機 HS-BE14",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1+EDR Class 2"
+    },
+    {
+        "names": "ROMAN 單耳夾式藍牙耳機 R4",
+        "rating": "",
+        "藍牙版本:": "藍芽免提裝置"
+    },
+    {
+        "names": "Jabra Supreme UC 單耳式藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話,主動抗噪"
+    },
+    {
+        "names": "Jabra Arrow 單耳式藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "藍牙版本:": "2.1+EDR"
+    },
+    {
+        "names": "pivoFUL 浦諾菲 單耳式黑翼藍牙耳機 PBH-502",
+        "rating": "",
+        "藍牙版本:": "4.0+EDR"
+    },
+    {
+        "names": "Nakamichi 單耳式藍牙耳機 X8",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Jawbone 3 Prime 單耳式藍牙耳機",
+        "rating": "8.0",
+        "藍牙版本:": "藍芽免提裝置"
+    },
+    {
+        "names": "Baseus 單耳式藍牙耳機 A01",
+        "rating": "",
+        "功能:": "被動抗噪,語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Rowkin Mini Plus+ 單耳式防汗防水藍牙耳機",
+        "rating": "",
+        "功能:": "防水",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Free Tech 單耳式藍牙立體聲耳機 S9",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "藍牙版本:": "V4.0"
+    },
+    {
+        "names": "DACOM 單耳式音樂立體聲道耳機 K808",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Awei 單耳式商務藍牙耳機 A871BL",
+        "rating": "8.0"
+    },
+    {
+        "names": "Jawbone 2 單邊耳掛式藍牙耳機",
+        "rating": "8.0",
+        "藍牙版本:": "藍牙耳機"
+    },
+    {
+        "names": "Cannice iBlue 6 單耳式立體聲藍牙耳機",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Motorola 單耳式通用藍牙耳機 HX550",
+        "rating": "10",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Samsung 三星 單邊耳掛式藍牙耳機 WEP870",
+        "rating": "",
+        "功能:": "語音通話",
+        "藍牙版本:": "2.1+EDR"
+    },
+    {
+        "names": "Marvel 單耳式藍牙耳機 EBT-945",
+        "rating": "4.0",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Jabra Motion 單耳式動作感應藍牙耳機",
+        "rating": "7.5",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "功能:": "語音通話,NFC",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "Plantronics Discovery 665 單耳式藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "藍牙版本:": "2.1"
+    },
+    {
+        "names": "Buffalo 單耳式藍牙耳機 BSHSBE21",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0 Class2"
+    },
+    {
+        "names": "Elecom 單邊掛耳式車載藍牙耳機  LBT-HS350",
+        "rating": "6.0",
+        "藍牙版本:": "Bluetooth v2.1+EDR"
+    },
+    {
+        "names": "Elecom 單邊迷你雙麥克風藍牙耳機 LBT-HS700",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Tripwire 單耳式藍牙耳機 TPC15",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Samsung 三星 單耳式藍牙耳機 BHM7000",
+        "rating": "8.0",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Jabra Motion UC+ MS 單耳式藍牙耳機連旅行充電套件",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,760",
+        "功能:": "語音通話,NFC"
+    },
+    {
+        "names": "Nokia 單耳式商務型藍牙耳機 BH-217",
+        "rating": "9.3",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Hoco 單耳式觸控藍牙耳機 E10",
+        "rating": "",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "i-Tech i.Oval 303 單邊耳掛式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "110",
+        "藍牙版本:": "Bluetooth V2.0 class 2"
+    },
+    {
+        "names": "USAMS LF 單耳式商務藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "v4.1"
+    },
+    {
+        "names": "i-Tech Arrow Lite 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.0+EDR Class 2"
+    },
+    {
+        "names": "Cannice iBlue 7 單耳式商用藍牙耳機",
+        "rating": "6.0",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Good Fit 單耳式藍牙耳機 HM-R11",
+        "rating": "",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "DACOM 單耳式通用藍牙耳機 K66",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Bright & Sunny 單耳式藍牙耳機",
+        "rating": "",
+        "功能:": "被動抗噪,主動抗噪,運動型,語音通話,NFC",
+        "續航力:": "2-3小時"
+    },
+    {
+        "names": "Jabra Supreme 單邊耳戴式藍牙耳機 (Driver Edition)",
+        "rating": "",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Plantronics Explorer 210 單耳掛式藍牙耳機",
+        "rating": "6.0",
+        "功能:": "語音通話",
+        "藍牙版本:": "2.1"
+    },
+    {
+        "names": "i-Tech MyVoice 315 單邊商務型掛耳藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Jabra Extreme 單耳式藍牙耳機",
+        "rating": "7.5",
+        "功能:": "語音通話",
+        "續航力:": "5.5小時"
+    },
+    {
+        "names": "Bluetrek Levi's 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.0"
+    },
+    {
+        "names": "Jabees Beatle 單耳式甲蟲立體聲藍牙耳機",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Remax 單邊商務藍牙通話耳機 RB-T22",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59",
+        "功能:": "語音通話",
+        "播放頻率:": "20～20000Hz",
+        "續航力:": "3小時"
+    },
+    {
+        "names": "Bluetrek Titanium 單耳式精緻藍牙耳機",
+        "rating": "7.0",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Bluedio 單耳式降噪免提音樂藍牙耳機 E3",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "藍牙版本:": "Bluetooth v4.1+EDR"
+    },
+    {
+        "names": "Nokia 單邊夾式商務型藍牙耳機 BH-106",
+        "rating": "10",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Bluetrek Tattoo+ 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Plantronics Discovery 975 SE 單耳式藍牙耳機限量版",
+        "rating": "6.0",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "功能:": "語音通話",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "i-Tech Clip VR302 單耳式立體聲藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.0+EDR class 2"
+    },
+    {
+        "names": "DACOM CarKit 果粉7單耳式車載藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Ovevo 單耳式車載藍牙耳機 Q20",
+        "rating": "",
+        "功能:": "語音通話",
+        "播放頻率:": "2.4GHz~2.48GHz",
+        "續航力:": "1.5小時"
+    },
+    {
+        "names": "Remax 單耳式單聲道藍牙耳機 S1",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Nakamichi 單耳式藍牙耳機連底座 T10",
+        "rating": "8.0",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Jawbone Era Silver Lining 單耳式藍牙耳機",
+        "rating": "8.0",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Jawbone Icon Catch 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Bluetrek Metal Evolution 單耳式藍牙單聲道耳機",
+        "rating": "10",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Plantronics Explorer 50 單耳掛式藍牙耳機",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "功能:": "語音通話",
+        "續航力:": "11小時"
+    },
+    {
+        "names": "Motorola 單耳式免提藍牙耳機 H680",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "E-Blue Marvel Avengers單耳式藍牙耳機 EB931",
+        "rating": "",
+        "功能:": "防水,語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Accutone Inviniti BT903 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1+EDR"
+    },
+    {
+        "names": "Orico 單耳式耳掛立體聲藍牙耳機 BMH-201",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Plantronics Voyager PRO+ 單耳掛式辦公室藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Anker 單耳式立體聲藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v4.0"
+    },
+    {
+        "names": "Motorola Sliver 2 單耳掛式藍牙耳機",
+        "rating": "10",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Bonnaire 單耳式單聲道藍牙耳機 BT-17",
+        "rating": ""
+    },
+    {
+        "names": "Xiaomi 小米 mini 單耳式藍牙耳機",
+        "rating": "",
+        "功能:": "語音通話",
+        "續航力:": "3小時"
+    },
+    {
+        "names": "Good Fit 單耳式一拖二智能藍牙耳機 Q3",
+        "rating": "",
+        "藍牙版本:": "4.1+EDR"
+    },
+    {
+        "names": "Akai 雅佳 單耳式藍牙耳機 AB-002",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1+EDR Class 2"
+    },
+    {
+        "names": "Buffalo 單耳式藍牙耳機 BSHSBE34",
+        "rating": "8.0",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Jawbone Icon Hero 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Samsung 三星 單耳夾式藍牙耳機 HM1500",
+        "rating": "9.3",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "QCY 單耳式商務藍牙耳機 Q8",
+        "rating": "10"
+    },
+    {
+        "names": "Remax 單邊耳掛式通話耳機 RB-T2",
+        "rating": "",
+        "藍牙版本:": "5.0",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Magic-Pro MiniQ BT-Power 二合一行動電源單邊藍牙耳機",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "ROMAN 單耳掛式立體聲藍牙免提耳機 R9000",
+        "rating": "",
+        "藍牙版本:": "4.1藍牙手機"
+    },
+    {
+        "names": "i-Tech MyVoice 1000 單邊商務型掛耳藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Hoco 單耳式迷你藍牙耳機 E7",
+        "rating": "",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "DACOM 單耳式藍牙耳機 MD30",
+        "rating": "",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "Motorola Whisper HZ850 單耳式通用藍牙耳機",
+        "rating": "9.8"
+    },
+    {
+        "names": "Remax 單耳式商務藍牙耳機 RB-T16",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "功能:": "主動抗噪,運動型,語音通話",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Jabra Extreme 2 單耳式藍牙耳機",
+        "rating": "8.0",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Samsung 三星 單耳式藍牙耳機 BHM1200",
+        "rating": "9.0",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Samsung 三星 單耳式藍牙耳機 BHM1300",
+        "rating": "7.0",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "功能:": "語音通話",
+        "藍牙版本:": "3.0"
+    },
+    {
+        "names": "Remax 單耳流線型超輕金屬藍牙耳機 RB-TT",
+        "rating": "",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "Cannice iBlue 2 單耳式立體聲藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Nakamichi 單耳式藍牙耳機 X10",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Novero TheFirstOne 單耳式藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Awei  單耳式商務藍牙耳機 A830BL",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148"
+    },
+    {
+        "names": "ROMAN 單耳式立體聲藍牙耳機 R525",
+        "rating": "",
+        "藍牙版本:": "藍芽免提"
+    },
+    {
+        "names": "Mobifren 單邊夾式藍牙耳機 GBH-S200",
+        "rating": "7.0",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "Jabra Talk 單耳式藍牙耳機",
+        "rating": "",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "功能:": "語音通話",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Avantree 4GS 單耳式智能藍牙耳機",
+        "rating": "",
+        "藍牙版本:": "Bluetooth v3.0+EDR"
+    }
+]
