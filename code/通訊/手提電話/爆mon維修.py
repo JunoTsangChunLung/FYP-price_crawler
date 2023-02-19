@@ -9,7 +9,7 @@ a = []
 
 while page < 20:
     # Send a request to the website
-    response = requests.get(f"https://www.price.com.hk/category.php?c=100156&gp=10&page={page}")
+    response = requests.get(f"https://www.price.com.hk/category.php?c=100301&gp=10&page={page}")
 
     # Parse the HTML content of the page
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -22,11 +22,7 @@ while page < 20:
         product_names = product.find('div', class_='line line-01')
         d["names"] = product_names.text.strip()
 
-        rating = product.find('span', class_="product-rating").find('img')['alt']
-        if rating == "未有任何評分":
-            d['rating'] = ""
-        else:
-            d['rating'] = rating
+        d['rating']  = ""
         
 
         # sell = product.find('div', class_="button product-detail-button")
@@ -36,21 +32,23 @@ while page < 20:
         #water or hon
         prices = product.find_all('div', class_= 'listing-price-range')
         for price in prices:
-            price_range = price.find_all('span', class_='text-price-number')
-            if len(price_range) == 1:
-                min_value = price_range[0].text
-                max_value = price_range[0].text
-            else:
-                min_value = price_range[0].text
-                max_value = price_range[1].text
-            img = price.find('img')
-            title = img['title']
-            if title == "水貨":
-                d["water_price_min"] = min_value
-                d["water_price_max"] = max_value
-            elif title == "行貨":
-                d["hon_price_min"] = min_value
-                d["hon_price_max"] = max_value
+            # price_range = price.find_all('span', class_='text-price-number')
+            # if len(price_range) == 1:
+            #     min_value = price_range[0].text
+            #     max_value = price_range[0].text
+            # else:
+            #     min_value = price_range[0].text
+            #     max_value = price_range[1].text
+            # img = price.find('img')
+            # title = img['title']
+            # if title == "水貨":
+            #     d["water_price_min"] = min_value
+            #     d["water_price_max"] = max_value
+            # elif title == "行貨":
+            #     d["hon_price_min"] = min_value
+            #     d["hon_price_max"] = max_value
+            d["price_min"] = price.text
+            d["price_max"] = price.text
 
         #attributes
         attr_blk = product.find('div', class_="line line-04")
@@ -69,8 +67,9 @@ while page < 20:
         a.append(d)
 
     page = page + 1
+    time.sleep(1)
 
 data_str = json.dumps(a, indent=4, ensure_ascii=False)
-with open("data/通訊/手提電話/smart_watch.txt", "w", encoding="utf-8") as file:
+with open("data/通訊/手提電話/爆mon維修.txt", "w", encoding="utf-8") as file:
     file.write(data_str)
 
