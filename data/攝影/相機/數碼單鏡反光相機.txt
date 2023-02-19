@@ -1,0 +1,2777 @@
+[
+    {
+        "names": "Canon EOS 5D Mark IV 數碼單反相機 (淨機身)",
+        "rating": "9.0",
+        "hon_price_min": "18,000",
+        "hon_price_max": "19,230",
+        "water_price_min": "11,000",
+        "water_price_max": "13,600",
+        "像素:": "3170萬像素",
+        "儲存媒體:": "Compact Flash 記憶咭 (支援 UDMA 7) (Type I only) 支援 UHS-I Speed Class 3 / SD / SDHC / SDXC",
+        "淨機身重量:": "800g",
+        "尺寸:": "150.7 x 116.4 x 75.9mm"
+    },
+    {
+        "names": "Canon EOS 90D 數碼單反相機 (機身)",
+        "rating": "10",
+        "hon_price_min": "7,890",
+        "hon_price_max": "9,430",
+        "water_price_min": "6,900",
+        "water_price_max": "8,060",
+        "像素:": "3250萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "701g",
+        "尺寸:": "約 140.7 x 104.8 x 76.8 mm"
+    },
+    {
+        "names": "Canon EOS 90D 數碼單反相機 連 EF-S 18-135mm 鏡頭套裝",
+        "rating": "10",
+        "hon_price_min": "11,100",
+        "hon_price_max": "11,580",
+        "water_price_min": "9,300",
+        "water_price_max": "11,580",
+        "像素:": "3250萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "1216g",
+        "尺寸:": "約 140.7 x 104.8 x 76.8mm"
+    },
+    {
+        "names": "Canon EOS 800D 數碼單反相機 連 EF-S 18-55mm f/4-5.6 IS STM 鏡頭套裝",
+        "rating": "8.0",
+        "water_price_min": "5,300",
+        "water_price_max": "5,580",
+        "像素:": "2580萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "485g",
+        "尺寸:": "131 x 99.9 x 76.2mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D780 (淨機身)",
+        "rating": "",
+        "hon_price_min": "15,560",
+        "hon_price_max": "15,780",
+        "water_price_min": "10,400",
+        "water_price_max": "14,750",
+        "像素:": "2450萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "840g",
+        "尺寸:": "143.5 x 115.5 x 76mm"
+    },
+    {
+        "names": "Canon EOS 850D 數碼單反相機 連 EF-S 18-55mm f/4-5.6 IS STM 鏡頭套裝",
+        "rating": "",
+        "hon_price_min": "7,250",
+        "hon_price_max": "7,480",
+        "water_price_min": "5,330",
+        "water_price_max": "5,980",
+        "像素:": "2410萬像素",
+        "淨機身重量:": "515g",
+        "尺寸:": "131.0 x 102.6 x 76.2mm"
+    },
+    {
+        "names": "Canon EOS 6D Mark II 數碼單反相機 淨機身",
+        "rating": "6.9",
+        "hon_price_min": "8,550",
+        "hon_price_max": "9,870",
+        "water_price_min": "7,000",
+        "water_price_max": "9,580",
+        "像素:": "2620萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡 兼容UHS-I Speed Class 3 制式",
+        "淨機身重量:": "765g",
+        "尺寸:": "144 x 110.5 x 74.8mm"
+    },
+    {
+        "names": "Canon EOS 850D 數碼單反相機 (淨機身)",
+        "rating": "",
+        "water_price_min": "5,400",
+        "water_price_max": "5,500",
+        "像素:": "2410萬像素",
+        "淨機身重量:": "471g",
+        "尺寸:": "131.0 x 102.6 x 76.2mm"
+    },
+    {
+        "names": "Canon EOS 200D II 數碼單反相機 (EF-S 18-55mm f/4-5.6 IS STM)",
+        "rating": "10",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,500",
+        "water_price_min": "3,750",
+        "water_price_max": "4,780",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD/SDHC/ SDXC",
+        "淨機身重量:": "449g"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D850 (淨機身)",
+        "rating": "8.9",
+        "hon_price_min": "18,400",
+        "hon_price_max": "18,950",
+        "water_price_min": "13,700",
+        "water_price_max": "14,800",
+        "像素:": "4570萬像素",
+        "淨機身重量:": "1005g",
+        "尺寸:": "146 x 124 x 78.5 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7500 連 THE AF-S DX Nikkor 18-140MM F/3.5-5.6G ED VR 鏡頭",
+        "rating": "10",
+        "hon_price_min": "6,550",
+        "hon_price_max": "7,180",
+        "water_price_min": "5,940",
+        "water_price_max": "8,570",
+        "像素:": "2088萬像素",
+        "儲存媒體:": "SD、SDHC (兼容 UHS-I)、SDXC (兼容 UHS-I)"
+    },
+    {
+        "names": "Canon EOS 250D 數碼單反相機 連 EF-S 18-55mm STM 鏡頭",
+        "rating": "10",
+        "water_price_min": "3,680",
+        "water_price_max": "4,650",
+        "像素:": "2410萬像素",
+        "淨機身重量:": "449g",
+        "尺寸:": "122.4 x 92.6 x 69.8mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7500 (淨機身)",
+        "rating": "10",
+        "hon_price_min": "5,720",
+        "hon_price_max": "7,050",
+        "water_price_min": "4,920",
+        "water_price_max": "5,650",
+        "像素:": "2088萬像素",
+        "儲存媒體:": "SD、SDHC (兼容 UHS-I)、SDXC (兼容 UHS-I)",
+        "淨機身重量:": "720g",
+        "尺寸:": "135.5 x 104 x 72.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D780 連 NIKKOR AF-S 24-120mm VR 鏡頭套裝",
+        "rating": "",
+        "hon_price_min": "23,250",
+        "hon_price_max": "23,250",
+        "water_price_min": "14,800",
+        "water_price_max": "16,150",
+        "像素:": "2528萬像素",
+        "儲存媒體:": "SD、SDHC (兼容 UHS-II)、SDXC (兼容 UHS-II)",
+        "淨機身重量:": "840g",
+        "尺寸:": "143.5 x 115.5 x 76mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D850 連 AF-S NIKKOR 24-120MM F/4G ED VR 套裝",
+        "rating": "",
+        "hon_price_min": "22,680",
+        "hon_price_max": "22,680",
+        "water_price_min": "19,750",
+        "water_price_max": "20,200",
+        "像素:": "4570萬像素",
+        "淨機身重量:": "1005g",
+        "尺寸:": "146 x 124 x 78.5 mm"
+    },
+    {
+        "names": "Canon EOS 80D 數碼單反相機",
+        "rating": "9.3",
+        "hon_price_min": "6,270",
+        "hon_price_max": "6,270",
+        "water_price_min": "3,880",
+        "water_price_max": "6,200",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "淨機身重量:": "650g",
+        "尺寸:": "139.0 x 105.2 x 78.5 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5600 連 18-55mm AF-P Lens 套裝",
+        "rating": "9.3",
+        "water_price_min": "5,140",
+        "water_price_max": "5,850",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "sdhc"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D750 連 AF-S 尼克爾 24-120mm f4G ED VR 鏡頭",
+        "rating": "9.7",
+        "water_price_min": "13,900",
+        "water_price_max": "13,950",
+        "像素:": "2432萬像素",
+        "淨機身重量:": "840g",
+        "尺寸:": "140.5 x 113 x 78mm"
+    },
+    {
+        "names": "Nikon 數碼單鏡反光相機 D6",
+        "rating": "10",
+        "hon_price_min": "49,750",
+        "hon_price_max": "49,800",
+        "water_price_min": "35,450",
+        "water_price_max": "44,800",
+        "像素:": "2080萬像素",
+        "淨機身重量:": "1270g",
+        "尺寸:": "160 x 163 x 92mm"
+    },
+    {
+        "names": "myFirst Camera 2 微型數碼單反相機 FC2001SA",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "像素:": "800萬像素",
+        "儲存媒體:": "microSD Up to 32GB",
+        "淨機身重量:": "67g"
+    },
+    {
+        "names": "Canon EOS 250D 數碼單反相機 連 EF-S 18-55mm DC III 鏡頭",
+        "rating": "",
+        "water_price_min": "3,580",
+        "water_price_max": "4,450",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD, SDHC, SDXC",
+        "淨機身重量:": "449g",
+        "尺寸:": "122.4 x 92.6 x 69.8mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3500 連 AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR 鏡頭套裝",
+        "rating": "10",
+        "hon_price_min": "4,230",
+        "hon_price_max": "4,230",
+        "water_price_min": "4,680",
+        "water_price_max": "4,990",
+        "像素:": "2420萬像素",
+        "淨機身重量:": "415g",
+        "尺寸:": "124 x 97 x 69.5mm"
+    },
+    {
+        "names": "Canon EOS 2000D 數碼單反相機 連 EF-S 18-55mm III 鏡頭套裝",
+        "rating": "10",
+        "water_price_min": "2,100",
+        "water_price_max": "3,150",
+        "像素:": "2410萬像素",
+        "尺寸:": "129.0 x 101.3 x 77.6mm"
+    },
+    {
+        "names": "Canon EOS 6D Mark II 數碼單反相機 連EF 24-105mm f/4L IS II USM鏡頭套裝",
+        "rating": "10",
+        "hon_price_min": "15,200",
+        "hon_price_max": "16,890",
+        "water_price_min": "13,350",
+        "water_price_max": "16,430",
+        "像素:": "2620萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡 兼容UHS-I Speed Class 3 制式",
+        "淨機身重量:": "765g",
+        "尺寸:": "144 x 110.5 x 74.8mm"
+    },
+    {
+        "names": "Canon EOS 4000D 數碼單反相機 連 18-55 III 鏡頭",
+        "rating": "10",
+        "water_price_min": "2,020",
+        "water_price_max": "2,880",
+        "像素:": "1800萬像素",
+        "淨機身重量:": "436g",
+        "尺寸:": "129 x 101.6 x 77.1mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D500",
+        "rating": "9.0",
+        "water_price_min": "10,950",
+        "water_price_max": "12,200",
+        "像素:": "2151萬像素",
+        "儲存媒體:": "XQD、SD、SDHC (兼容 UHS-II)、SDXC (兼容 UHS-II)",
+        "淨機身重量:": "760g",
+        "尺寸:": "147 x 115 x 81mm"
+    },
+    {
+        "names": "Canon EOS 5D Mark IV 數碼單反相機 機身 連 EF 24-105mm f/4L IS II USM 鏡頭套裝",
+        "rating": "10",
+        "hon_price_min": "22,780",
+        "hon_price_max": "24,880",
+        "water_price_min": "16,700",
+        "water_price_max": "21,250",
+        "像素:": "3040萬像素"
+    },
+    {
+        "names": "Canon EOS-1D X Mark III 數碼單反相機 (淨機身)",
+        "rating": "",
+        "hon_price_min": "44,780",
+        "hon_price_max": "49,980",
+        "water_price_min": "33,000",
+        "water_price_max": "34,500",
+        "像素:": "2010萬像素",
+        "儲存媒體:": "CFexpress 1.0 Type B卡",
+        "淨機身重量:": "1250g",
+        "尺寸:": "158 x 167.6 x 82.6mm"
+    },
+    {
+        "names": "Canon EOS 5D Mark III 數碼單反相機",
+        "rating": "8.7",
+        "water_price_min": "6,880",
+        "water_price_max": "8,950",
+        "像素:": "2340萬像素",
+        "儲存媒體:": "Compact Flash Type I , SD/SDHC/SDXC",
+        "淨機身重量:": "950g",
+        "尺寸:": "152 x 116 x 76 mm"
+    },
+    {
+        "names": "Canon EOS 7D Mark II 數碼單反相機",
+        "rating": "9.1",
+        "water_price_min": "4,000",
+        "water_price_max": "7,380",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "Type I CF / SD / SDHC / SDXC",
+        "淨機身重量:": "820g",
+        "尺寸:": "148.6 x 112.4 x 78.2 mm"
+    },
+    {
+        "names": "Canon EOS 90D 數碼單反相機 連 EF-S 18-55mm 鏡頭套裝",
+        "rating": "",
+        "hon_price_min": "8,850",
+        "hon_price_max": "9,400",
+        "water_price_min": "7,800",
+        "water_price_max": "8,900",
+        "像素:": "3250萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "701g",
+        "尺寸:": "140.7 x 104.8 x 76.8mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D750",
+        "rating": "9.3",
+        "hon_price_min": "9,980",
+        "hon_price_max": "9,980",
+        "water_price_min": "8,500",
+        "water_price_max": "10,250",
+        "像素:": "2430萬像素",
+        "儲存媒體:": "SD、SDHC (兼容 UHS-I)、SDXC (兼容 UHS-I)",
+        "淨機身重量:": "840g",
+        "尺寸:": "140.5 x 113 x 78mm"
+    },
+    {
+        "names": "Canon EOS 1500D 數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 IS II 鏡頭套裝",
+        "rating": "10",
+        "water_price_min": "3,250",
+        "water_price_max": "3,270",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "427g",
+        "尺寸:": "129.0 x 101.3 x 77.6mm"
+    },
+    {
+        "names": "Canon EOS 3000D 數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 III 鏡頭套裝",
+        "rating": "",
+        "water_price_min": "2,250",
+        "water_price_max": "2,540",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "淨機身重量:": "389g",
+        "尺寸:": "129 x 101.6 x 77.1mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5600 (淨機身)",
+        "rating": "10",
+        "water_price_min": "5,250",
+        "water_price_max": "5,300",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SD、兼容 UHS-I 的 SDHC 和 SDXC 記憶卡",
+        "淨機身重量:": "415g",
+        "尺寸:": "124 x 97 x 70mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5",
+        "rating": "9.3",
+        "hon_price_min": "40,200",
+        "hon_price_max": "40,200",
+        "像素:": "2080萬像素",
+        "儲存媒體:": "CompactFlash (CF) (Type I, compliant with UDMA) XQD Type Memory",
+        "淨機身重量:": "1415g",
+        "尺寸:": "160 x 158.5 x 92mm"
+    },
+    {
+        "names": "Canon EOS 7D 數碼單反相機 (淨機身)",
+        "rating": "9.5",
+        "water_price_min": "3,780",
+        "water_price_max": "3,780",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "820g",
+        "尺寸:": "148.2 x 110.7 x 73.5 mm"
+    },
+    {
+        "names": "Canon EOS 77D 數碼單反相機 連 EF-S 18-135mm f/3.5-5.6 IS USM 鏡頭套裝",
+        "rating": "9.0",
+        "hon_price_min": "6,920",
+        "hon_price_max": "7,180",
+        "water_price_min": "6,250",
+        "water_price_max": "6,250",
+        "像素:": "2580萬像素",
+        "淨機身重量:": "493g",
+        "尺寸:": "131 x 99.9 x 76.2mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-1 Mark II",
+        "rating": "",
+        "hon_price_min": "14,800",
+        "hon_price_max": "14,800",
+        "像素:": "3615萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC 卡插槽 x 2",
+        "淨機身重量:": "925g",
+        "尺寸:": "136.5 x 110 x 85.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5600 連 18-140 VR 鏡頭",
+        "rating": "10",
+        "water_price_min": "6,220",
+        "water_price_max": "6,850",
+        "像素:": "2420萬像素",
+        "淨機身重量:": "465g"
+    },
+    {
+        "names": "Canon EOS 80D  數碼單反相機 連 EF-S 18-135mm f/3.5-5.6 IS USM 鏡頭套裝",
+        "rating": "9.0",
+        "hon_price_min": "8,250",
+        "hon_price_max": "8,250",
+        "water_price_min": "7,380",
+        "water_price_max": "8,350",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "淨機身重量:": "650g",
+        "尺寸:": "139.0 x 105.2 x 78.5 mm"
+    },
+    {
+        "names": "Canon EOS 800D 數碼單反相機 (淨機身)",
+        "rating": "",
+        "water_price_min": "4,900",
+        "water_price_max": "5,000",
+        "像素:": "2580萬像素",
+        "淨機身重量:": "485g",
+        "尺寸:": "131 x 99.9 x 76.2mm"
+    },
+    {
+        "names": "Canon EOS 5D Mark II 數碼單反相機",
+        "rating": "8.9",
+        "water_price_min": "6,580",
+        "water_price_max": "6,580",
+        "像素:": "2110萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "810g",
+        "尺寸:": "152 x 114 x 75mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7500 連 AF-P 18-55mm 套裝",
+        "rating": "",
+        "hon_price_min": "6,550",
+        "hon_price_max": "6,550",
+        "water_price_min": "5,500",
+        "water_price_max": "7,360",
+        "像素:": "2088萬像素",
+        "淨機身重量:": "720g",
+        "尺寸:": "135.5 x 104 x 72.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7200 連 AF-S DX NIKKOR 18-140 f/3.5-5.6 G ED VR 鏡頭",
+        "rating": "9.4",
+        "water_price_min": "5,930",
+        "water_price_max": "5,930"
+    },
+    {
+        "names": "Canon EOS 850D 數碼單反相機 連 18-135 f/3.5-5.6 IS USM 鏡頭",
+        "rating": "",
+        "water_price_min": "6,850",
+        "water_price_max": "8,300",
+        "像素:": "2410萬像素",
+        "淨機身重量:": "471g",
+        "尺寸:": "131.0 x 102.6 x 76.2mm"
+    },
+    {
+        "names": "Canon EOS 1Ds Mark III 數碼單反相機 (淨機身)",
+        "rating": "9.8",
+        "hon_price_min": "49,800",
+        "hon_price_max": "49,800",
+        "像素:": "2110萬像素",
+        "儲存媒體:": "CF / SD / SDHC",
+        "淨機身重量:": "1210g",
+        "尺寸:": "156 x 159.6 x 79.9mm"
+    },
+    {
+        "names": "Holga Digital 數碼單反相機",
+        "rating": ""
+    },
+    {
+        "names": "Nikon 數碼單反相機 D500 連 AF-S DX NIKKOR 16-80MM F/2.8-4E ED 鏡頭套裝",
+        "rating": "",
+        "water_price_min": "15,480",
+        "water_price_max": "15,500",
+        "像素:": "2090萬像素",
+        "儲存媒體:": "XQD、SD、SDHC (兼容 UHS-II)、SDXC (兼容 UHS-II)",
+        "淨機身重量:": "760g",
+        "尺寸:": "147 x 115 x 81mm"
+    },
+    {
+        "names": "Canon EOS 77D 數碼單反相機 (淨機身)",
+        "rating": "10",
+        "hon_price_min": "5,650",
+        "hon_price_max": "5,750",
+        "water_price_min": "4,950",
+        "water_price_max": "4,980",
+        "像素:": "2580萬像素",
+        "淨機身重量:": "493g",
+        "尺寸:": "131 x 99.9 x 76.2mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D80 (淨機身)",
+        "rating": "8.8",
+        "water_price_min": "4,124",
+        "water_price_max": "4,124",
+        "像素:": "1075萬像素",
+        "儲存媒體:": "SD / SDHC / MMC",
+        "淨機身重量:": "585g",
+        "尺寸:": "132 x 103 x 77mm"
+    },
+    {
+        "names": "Canon 5D Mark IV 數碼單反相機 連 EF 24-70mm f/4L IS USM鏡頭套裝",
+        "rating": "10",
+        "hon_price_min": "21,120",
+        "hon_price_max": "21,120",
+        "water_price_min": "19,800",
+        "water_price_max": "21,280",
+        "像素:": "3040萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC card",
+        "淨機身重量:": "427g",
+        "尺寸:": "115.6 x 89.2 x 60.6 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3500 (淨機身)",
+        "rating": "10",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,980",
+        "water_price_min": "3,680",
+        "water_price_max": "4,580",
+        "像素:": "2478萬像素",
+        "儲存媒體:": "SD, SDHC, SDXC",
+        "淨機身重量:": "365g",
+        "尺寸:": "124 x 97 x 69.5mm"
+    },
+    {
+        "names": "Leica S (Type 007) 數碼單反相機",
+        "rating": "",
+        "water_price_min": "88,000",
+        "water_price_max": "88,000",
+        "像素:": "3750萬像素",
+        "感光元件:": "CMOS"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A65VM 連 18-135mm",
+        "rating": "",
+        "像素:": "2430萬像素",
+        "儲存媒體:": "Memory Stick PRO Duo 、Memory Stick PRO-HG Duo 、SD 記憶卡、SDHC 記憶卡（符合 UHS-I 規定）、SDXC 記憶卡（符合 UHS-I 規定）",
+        "淨機身重量:": "543g",
+        "尺寸:": "132.1 x 97.5 x 80.7mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5600 連 AF-P DX 18-55 VR + AF-P DX 70-300 VR 雙鏡頭套裝",
+        "rating": "",
+        "像素:": "2478萬像素",
+        "淨機身重量:": "465g",
+        "尺寸:": "24 x 97 x 70mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5200",
+        "rating": "8.9",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "555g",
+        "尺寸:": "129 x 98 x 78 mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 ILCA-99M2",
+        "rating": "8.6",
+        "hon_price_min": "23,490",
+        "hon_price_max": "23,490",
+        "像素:": "4240萬像素",
+        "尺寸:": "142.6 x 104.2 x 76.1mm"
+    },
+    {
+        "names": "Canon EOS 700D 數碼單反相機",
+        "rating": "8.0",
+        "water_price_min": "2,650",
+        "water_price_max": "2,650",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "580g",
+        "尺寸:": "133 x 100 x 79 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3000",
+        "rating": "8.4",
+        "water_price_min": "2,680",
+        "water_price_max": "2,680",
+        "像素:": "1020萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "485g",
+        "尺寸:": "126 × 97 × 64mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D4",
+        "rating": "9.2",
+        "hon_price_min": "29,800",
+        "hon_price_max": "29,800",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "XQD和I型CF記憶卡（兼容UDMA）",
+        "淨機身重量:": "1180g",
+        "尺寸:": "160 x 156.5 x 90.5毫米"
+    },
+    {
+        "names": "Canon EOS 77D 數碼單反相機 連 EF-S 18-55mm f/4-5.6 IS STM 鏡頭套裝",
+        "rating": "",
+        "hon_price_min": "5,700",
+        "hon_price_max": "5,800",
+        "water_price_min": "5,420",
+        "water_price_max": "5,580",
+        "像素:": "2580萬像素",
+        "淨機身重量:": "493g",
+        "尺寸:": "131 x 99.9 x 76.2mm"
+    },
+    {
+        "names": "Canon EOS 450D 數碼單反相機 (淨機身)",
+        "rating": "9.3",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "像素:": "1220萬像素",
+        "儲存媒體:": "SDHC / SD",
+        "淨機身重量:": "475g",
+        "尺寸:": "128.8 x 97.5 x 61.9mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D40x (連鏡頭)",
+        "rating": "8.0",
+        "water_price_min": "3,578",
+        "water_price_max": "3,578",
+        "像素:": "1020萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "471g",
+        "尺寸:": "126 x 64 x 94mm"
+    },
+    {
+        "names": "Canon EOS 70D 數碼單反相機 連 18-135mm 套裝",
+        "rating": "9.4",
+        "water_price_min": "6,580",
+        "water_price_max": "6,580",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "755g",
+        "尺寸:": "139.0 x 104.3 x 78.5mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-S1 連 18-55 鏡頭",
+        "rating": "10",
+        "像素:": "2012萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "499g",
+        "尺寸:": "120.7 (W) x 92.7 (H) x 69.9 (D)mm"
+    },
+    {
+        "names": "Canon EOS 70D 數碼單反相機",
+        "rating": "9.6",
+        "water_price_min": "3,990",
+        "water_price_max": "3,990",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "755g",
+        "尺寸:": "139.0 x 104.3 x 78.5mm"
+    },
+    {
+        "names": "Canon EOS 5DS 數碼單反相機 (淨機身)",
+        "rating": "9.5",
+        "hon_price_min": "13,800",
+        "hon_price_max": "13,800",
+        "像素:": "5060萬像素",
+        "儲存媒體:": "Type I CF + SD / SDHC /SDXC",
+        "淨機身重量:": "845g",
+        "尺寸:": "152 x 116.4 x 76.4mm"
+    },
+    {
+        "names": "Canon EOS-1Dx 數碼單反相機",
+        "rating": "8.8",
+        "water_price_min": "7,000",
+        "water_price_max": "7,000",
+        "像素:": "1810萬像素",
+        "儲存媒體:": "Dual CF I & II",
+        "尺寸:": "158 x 163.6 x 82.7 mm"
+    },
+    {
+        "names": "Nikon 數碼單鏡反光相機 D60 (連鏡頭)",
+        "rating": "8.6",
+        "water_price_min": "3,380",
+        "water_price_max": "3,380",
+        "像素:": "1020萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "495g",
+        "尺寸:": "126 x 94 x 64mm"
+    },
+    {
+        "names": "Canon EOS 7D Mark II 數碼單反相機 連 EF-S 18-135mm f/3.5-5.6 IS STM 鏡頭套裝",
+        "rating": "8.6",
+        "water_price_min": "8,780",
+        "water_price_max": "9,300",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "Type I CF / SD / SDHC / SDXC",
+        "淨機身重量:": "820g",
+        "尺寸:": "148.6 x 112.4 x 78.2 mm"
+    },
+    {
+        "names": "Canon EOS 750D 數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 IS STM鏡頭套裝",
+        "rating": "6.0",
+        "water_price_min": "3,660",
+        "water_price_max": "3,660",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD, SDHC, SDXC",
+        "淨機身重量:": "555g",
+        "尺寸:": "131.9 x 100.7 x 77.8 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D610 (淨機身)",
+        "rating": "9.1",
+        "像素:": "2470萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC x 2",
+        "淨機身重量:": "850g",
+        "尺寸:": "141 x 113 x 82mm"
+    },
+    {
+        "names": "Canon EOS 80D 數碼單反相機 連 18-200mm 鏡頭套裝",
+        "rating": "10",
+        "water_price_min": "9,050",
+        "water_price_max": "9,050",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "淨機身重量:": "650g",
+        "尺寸:": "139.0 x 105.2 x 78.5 mm"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 IQ350",
+        "rating": "10",
+        "hon_price_min": "187,122",
+        "hon_price_max": "187,122",
+        "像素:": "5000萬像素"
+    },
+    {
+        "names": "Canon EOS 60D 數碼單反相機 (淨機身)",
+        "rating": "8.4",
+        "water_price_min": "4,280",
+        "water_price_max": "4,280",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "675g",
+        "尺寸:": "145 x 106 x 79 mm"
+    },
+    {
+        "names": "Canon EOS 80D  數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 IS STM 鏡頭套裝",
+        "rating": "10",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,680",
+        "water_price_min": "6,400",
+        "water_price_max": "7,650",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "淨機身重量:": "650g",
+        "尺寸:": "139.0 x 105.2 x 78.5 mm"
+    },
+    {
+        "names": "Samsung 三星 數碼單反相機 GX-20 (單鏡套裝)",
+        "rating": "9.0",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "像素:": "1510萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "710g",
+        "尺寸:": "142 x 101 x 71.5mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K100D Super (連鏡頭)",
+        "rating": "10",
+        "water_price_min": "2,798",
+        "water_price_max": "2,798",
+        "像素:": "631萬像素",
+        "儲存媒體:": "SDHC",
+        "淨機身重量:": "569g",
+        "尺寸:": "129.5 x 94.1 x 71.1mm"
+    },
+    {
+        "names": "Canon EOS 40D 數碼單反相機 (淨機身)",
+        "rating": "9.1",
+        "water_price_min": "4,888",
+        "water_price_max": "4,888",
+        "像素:": "1010萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "740g",
+        "尺寸:": "146 x 108 x 74mm"
+    },
+    {
+        "names": "Canon EOS 760D 數碼單反相機 (淨機身)",
+        "rating": "8.2",
+        "water_price_min": "4,280",
+        "water_price_max": "4,280",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "520g",
+        "尺寸:": "131.9 x 100.9 x 77.8mm"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 IQ380",
+        "rating": "10",
+        "hon_price_min": "257,322",
+        "hon_price_max": "257,322",
+        "像素:": "8000萬像素"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5600 連 THE AF-S DX Nikkor 18-140MM F/3.5-5.6G ED VR 鏡頭",
+        "rating": "6.0",
+        "hon_price_min": "6,250",
+        "hon_price_max": "6,250",
+        "water_price_min": "6,150",
+        "water_price_max": "6,320",
+        "像素:": "2416萬像素"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3 (淨機身)",
+        "rating": "9.0",
+        "water_price_min": "25,974",
+        "water_price_max": "25,974",
+        "像素:": "1210萬像素",
+        "儲存媒體:": "CF/ Microdrive",
+        "淨機身重量:": "1240g",
+        "尺寸:": "159.5 x 157 x 87.5mm"
+    },
+    {
+        "names": "Sony a200 數碼單反相機 DSLR-A200 (連鏡頭)",
+        "rating": "9.3",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999",
+        "像素:": "1020萬像素",
+        "儲存媒體:": "MS Duo / MS Pro Duo / CF I/II",
+        "淨機身重量:": "545g",
+        "尺寸:": "133 x 95 x 71mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-5 II (淨機身)",
+        "rating": "9.7",
+        "像素:": "1630萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "760g",
+        "尺寸:": "131 (W) x 97 (H) x 73(D)mm"
+    },
+    {
+        "names": "Canon EOS 5D 數碼單反相機 (淨機身)",
+        "rating": "9.0",
+        "water_price_min": "11,738",
+        "water_price_max": "11,738",
+        "像素:": "1330萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "810g",
+        "尺寸:": "152 x 113 x 75mm"
+    },
+    {
+        "names": "Canon EOS 7D 數碼單反相機 (連鏡頭)",
+        "rating": "9.3",
+        "water_price_min": "6,250",
+        "water_price_max": "6,250",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "820g",
+        "尺寸:": "148.2 x 110.7 x 73.5 mm"
+    },
+    {
+        "names": "Canon EOS 800D 數碼單反相機 連 EF-S 18-135mm f/3.5-5.6 IS STM 鏡頭套裝",
+        "rating": "",
+        "water_price_min": "6,350",
+        "water_price_max": "6,580",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "485g",
+        "尺寸:": "131.0 x 99.9 x 76.2mm"
+    },
+    {
+        "names": "Canon EOS 5D Mark III 數碼單反相機 連 EF 24-70mm f/4L IS USM 鏡頭套裝",
+        "rating": "9.0",
+        "hon_price_min": "21,100",
+        "hon_price_max": "21,100",
+        "water_price_min": "13,200",
+        "water_price_max": "13,200",
+        "像素:": "2340萬像素",
+        "儲存媒體:": "Compact Flash Type I , SD/SDHC/SDXC",
+        "淨機身重量:": "950g",
+        "尺寸:": "152 x 116 x 76 mm"
+    },
+    {
+        "names": "Canon EOS 6D Mark II 數碼單反相機 連EF 24-70mm f/4L IS USM鏡頭套裝",
+        "rating": "",
+        "hon_price_min": "14,650",
+        "hon_price_max": "14,650",
+        "water_price_min": "13,200",
+        "water_price_max": "13,400",
+        "像素:": "2620萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡 兼容UHS-I Speed Class 3 制式",
+        "淨機身重量:": "765g",
+        "尺寸:": "144 x 110.5 x 74.8mm"
+    },
+    {
+        "names": "Canon EOS 70D 數碼單反相機 連 18-55mm 套裝",
+        "rating": "9.0",
+        "water_price_min": "5,020",
+        "water_price_max": "5,020",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "755g",
+        "尺寸:": "139.0 x 104.3 x 78.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D810 (淨機身)",
+        "rating": "9.3",
+        "像素:": "3630萬像素",
+        "感光元件:": "CMOS",
+        "尺寸:": "146 x123 x81.5mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 645D",
+        "rating": "9.8",
+        "water_price_min": "68,000",
+        "water_price_max": "68,000",
+        "像素:": "4000萬像素",
+        "儲存媒體:": "SD/SDHC",
+        "淨機身重量:": "1480g",
+        "尺寸:": "156 x 117 x 119mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5300 連 18-140 VR 套裝",
+        "rating": "9.2",
+        "hon_price_min": "4,510",
+        "hon_price_max": "4,510",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "530g",
+        "尺寸:": "約 125 x 98 x 76 mm"
+    },
+    {
+        "names": "Canon EOS 40D 數碼單反相機 (連鏡頭)",
+        "rating": "9.7",
+        "water_price_min": "7,138",
+        "water_price_max": "7,138",
+        "像素:": "1010萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "740g",
+        "尺寸:": "146 x 108 x 74mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7100",
+        "rating": "9.5",
+        "water_price_min": "3,750",
+        "water_price_max": "3,750",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "765g",
+        "尺寸:": "135.5 x 106.5 x 76 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D610 連 24-85mm 鏡頭套裝",
+        "rating": "9.2",
+        "像素:": "2470萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC x 2",
+        "淨機身重量:": "850g",
+        "尺寸:": "141 x 113 x 82mm"
+    },
+    {
+        "names": "Canon EOS 550D 數碼單反相機 (淨機身)",
+        "rating": "9.0",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,200",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "530g",
+        "尺寸:": "129 x 98 x 62mm"
+    },
+    {
+        "names": "Sony a700 數碼單反相機 DSLR-A700 (淨機身)",
+        "rating": "9.0",
+        "hon_price_min": "7,690",
+        "hon_price_max": "7,690",
+        "像素:": "1224萬像素",
+        "儲存媒體:": "Memory Stick Duo / CF",
+        "淨機身重量:": "690g",
+        "尺寸:": "141.7 x 104.8 x 79.7mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D300",
+        "rating": "9.4",
+        "water_price_min": "11,548",
+        "water_price_max": "11,548",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "CF / Microdrive",
+        "淨機身重量:": "825g",
+        "尺寸:": "147 x 114 x 74mm"
+    },
+    {
+        "names": "Canon EOS 600D 數碼單反相機 連 18-135mm 鏡頭",
+        "rating": "8.8",
+        "hon_price_min": "5,880",
+        "hon_price_max": "5,880",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "570g",
+        "尺寸:": "133.1 X 99.5 X 79.7mm"
+    },
+    {
+        "names": "PhaseOne XF IQ4 150MP / Digital Back with XF Body",
+        "rating": "",
+        "像素:": "15100萬像素",
+        "儲存媒體:": "XQD,SD",
+        "淨機身重量:": "2490g",
+        "尺寸:": "XF CAMERA: 152 x 135 x 160mm IQ4: 98.5 x 88.5 x 62.3"
+    },
+    {
+        "names": "PhaseOne XF IQ4 150MP Achromatic / Digital Back with XF Camera",
+        "rating": "",
+        "像素:": "15100萬像素",
+        "儲存媒體:": "XQD,SD",
+        "淨機身重量:": "2490g",
+        "尺寸:": "XF CAMERA: 152 x 135 x 160mm IQ4: 98.5 x 88.5 x 62.3mm"
+    },
+    {
+        "names": "Canon M3 數碼單反相機 標準變焦鏡套裝",
+        "rating": "8.7",
+        "像素:": "2420萬像素"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5500 連 AF-S DX 尼克爾 18-55mm f/3.5-5.6G VRII 鏡頭套裝",
+        "rating": "8.9",
+        "像素:": "2478萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "420g",
+        "尺寸:": "124 x 97 x 70mm"
+    },
+    {
+        "names": "Canon EOS 1000D 數碼單反相機 (淨機身)",
+        "rating": "10",
+        "hon_price_min": "3,258",
+        "hon_price_max": "3,258",
+        "像素:": "1010萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "450g",
+        "尺寸:": "126 x 98 x 62mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3400 (淨機身)",
+        "rating": "8.0",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "395g",
+        "尺寸:": "234 x 98 x 75.5 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D810A",
+        "rating": "10",
+        "像素:": "3709萬像素",
+        "淨機身重量:": "880g",
+        "尺寸:": "146 x 123 x 81.5mm"
+    },
+    {
+        "names": "Canon EOS 1D X Mark II 數碼單反相機 (淨機身)",
+        "rating": "9.8",
+        "water_price_min": "28,500",
+        "water_price_max": "28,500",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "CFast 2.0卡5及CF卡",
+        "淨機身重量:": "1340g",
+        "尺寸:": "158.0 x 167.6 x 82.6 mm"
+    },
+    {
+        "names": "Canon EOS 550D 數碼單反相機 連 18-1355mm 鏡頭",
+        "rating": "9.1",
+        "water_price_min": "6,050",
+        "water_price_max": "6,050",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "530g",
+        "尺寸:": "129 x 98 x 62mm"
+    },
+    {
+        "names": "Canon EOS 60D 數碼單反相機 連 18-135mm 鏡頭",
+        "rating": "8.5",
+        "water_price_min": "6,250",
+        "water_price_max": "6,250",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "675g",
+        "尺寸:": "145 x 106 x 79 mm"
+    },
+    {
+        "names": "Canon EOS 500D 數碼單反相機 (淨機身)",
+        "rating": "9.1",
+        "hon_price_min": "4,710",
+        "hon_price_max": "4,710",
+        "像素:": "1510萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "480g",
+        "尺寸:": "128.8 x 97.5 x 61.9 mm"
+    },
+    {
+        "names": "Nikon 數碼單鏡反光相機 D60 (淨機身)",
+        "rating": "7.2",
+        "water_price_min": "2,884",
+        "water_price_max": "2,884",
+        "像素:": "1020萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "495g",
+        "尺寸:": "126 x 94 x 64mm"
+    },
+    {
+        "names": "Canon EOS 6D 數碼單反相機 連 EF 24-105mm f/3.5-5.6 IS STM鏡頭套裝",
+        "rating": "8.0"
+    },
+    {
+        "names": "Canon EOS 7D 數碼單反相機 (連15-85mm鏡頭)",
+        "rating": "9.3",
+        "water_price_min": "5,780",
+        "water_price_max": "5,780",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "820g",
+        "尺寸:": "148.2 x 110.7 x 93.5mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-3 II DA 16-85 WR 套裝",
+        "rating": "10",
+        "像素:": "2435萬像素",
+        "儲存媒體:": "SD / SDHC /SDXC x 2",
+        "淨機身重量:": "700g",
+        "尺寸:": "131.5 (W) x 102.5 (H) x 77.5 (D)mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 DSC-RX1",
+        "rating": "9.9",
+        "hon_price_min": "21,500",
+        "hon_price_max": "21,500",
+        "像素:": "2430萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "482g",
+        "尺寸:": "113.3 x 65.4 x 69.6毫米"
+    },
+    {
+        "names": "Ricoh GXR 數碼單反相機",
+        "rating": "9.0",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "像素:": "1230萬像素",
+        "淨機身重量:": "160g",
+        "尺寸:": "113.9 x 70.2 x 28.9mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7100 連 AF-S DX 18-140mm f/3.5-5.6G ED VR 鏡頭套裝",
+        "rating": "",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "765g",
+        "尺寸:": "135.5 x 106.5 x 76 mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 H5D-60",
+        "rating": "",
+        "像素:": "6000萬像素",
+        "焦距轉換:": "1x"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A37",
+        "rating": "9.0",
+        "像素:": "1610萬像素",
+        "儲存媒體:": "Memory Stick PROTM Duo / Memory Stick PRO-HG DuoTM /  SD memory card / SDHC memory card / SDXC memory card",
+        "淨機身重量:": "448g",
+        "尺寸:": "124.4 x 92 x 84.7 mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 H4X (淨機身)",
+        "rating": "",
+        "像素:": "4000萬像素",
+        "焦距轉換:": "1x"
+    },
+    {
+        "names": "Canon EOS 5DS R 數碼單反相機 (淨機身)",
+        "rating": "9.3",
+        "hon_price_min": "15,800",
+        "hon_price_max": "15,800",
+        "像素:": "5060萬像素",
+        "儲存媒體:": "Type I CF + SD / SDHC / SDXC",
+        "淨機身重量:": "845g",
+        "尺寸:": "152 x 116.4 x 76.4mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 CFV-50c",
+        "rating": "",
+        "像素:": "5000萬像素",
+        "淨機身重量:": "530g",
+        "尺寸:": "91 x 92 x 57 mm [W x H x D]"
+    },
+    {
+        "names": "Canon EOS 7D Mark II 數碼單反相機 連 EF-S 15-85mm f/3.5-5.6 IS USM 鏡頭套裝",
+        "rating": "8.8",
+        "water_price_min": "8,780",
+        "water_price_max": "8,780",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "Type I CF / SD / SDHC / SDXC",
+        "淨機身重量:": "820g",
+        "尺寸:": "148.6 x 112.4 x 78.2 mm"
+    },
+    {
+        "names": "Canon EOS 760D 數碼單反相機 連 EF-S 18-135mm f/3.5-5.6 IS STM 鏡頭套裝",
+        "rating": "8.3",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD, SDHC, SDXC",
+        "淨機身重量:": "565g",
+        "尺寸:": "131.9 x 100.9 x 77.8 mm"
+    },
+    {
+        "names": "Canon EOS 550D Kiss X4 數碼單反相機 連 18-55mm 鏡頭",
+        "rating": "9.3",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD記憶卡、SDHC記憶卡、SDXC記憶卡",
+        "淨機身重量:": "475g",
+        "尺寸:": "128.8 x 97.5 x 75.3 mm"
+    },
+    {
+        "names": "Olympus 數碼單反相機 E-620",
+        "rating": "9.6",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "CF / xD",
+        "淨機身重量:": "475g",
+        "尺寸:": "130 x 94 x 60mm"
+    },
+    {
+        "names": "Nikon DF 數碼單反相機",
+        "rating": "9.1",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "710g",
+        "尺寸:": "約143.5 × 110 × 66.5 mm"
+    },
+    {
+        "names": "Canon EOS 1300D 數碼單反相機 連 18-55 DC III 鏡頭",
+        "rating": "6.0",
+        "像素:": "1800萬像素",
+        "尺寸:": "3"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3200 連 18-55 VR II 鏡頭套裝",
+        "rating": "8.0",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SDHC / SDXC",
+        "淨機身重量:": "455g",
+        "尺寸:": "125x96x76.5mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 H4D-40",
+        "rating": "9.0",
+        "像素:": "4000萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "2290g",
+        "尺寸:": "153 x 131 x 213mm"
+    },
+    {
+        "names": "Canon EOS 1200D 數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 IS II鏡頭套裝",
+        "rating": "8.0",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD、SDHC、SDXC記憶卡",
+        "淨機身重量:": "435g",
+        "尺寸:": "129.6 x 99.7 x 77.9 mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A33",
+        "rating": "9.1",
+        "像素:": "1460萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "433g",
+        "尺寸:": "124.4 x 92 x 84.7mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A33",
+        "rating": "9.1",
+        "像素:": "1460萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "433g",
+        "尺寸:": "124.4 x 92 x 84.7mm"
+    },
+    {
+        "names": "Sony A290 數碼單反相機",
+        "rating": "8.0",
+        "像素:": "1490萬像素",
+        "儲存媒體:": "SD/SDHC / MS Duo",
+        "淨機身重量:": "490g",
+        "尺寸:": "128 x 97 x 67.5mm"
+    },
+    {
+        "names": "Canon EOS 100D 數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 IS STM鏡頭套裝",
+        "rating": "8.9",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD記憶卡、SDHC記憶卡、SDXC記憶卡(兼容UHS-I制式)",
+        "淨機身重量:": "407g",
+        "尺寸:": "116.8 x 90.7 x 69.4mm"
+    },
+    {
+        "names": "Canon EOS 1300D 數碼單反相機 連 18-55 IS II",
+        "rating": "8.0",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "淨機身重量:": "440g",
+        "尺寸:": "129.0 x 101.3 x 77.6 mm"
+    },
+    {
+        "names": "Canon EOS 6D 數碼單反相機 (淨機身)",
+        "rating": "8.9",
+        "像素:": "2060萬像素",
+        "儲存媒體:": "SD, SDHC, SDXC",
+        "淨機身重量:": "770g",
+        "尺寸:": "145 x 111 x 71 mm"
+    },
+    {
+        "names": "PhaseOne XF IQ4 100MP Trichromatic / Digital Back with XF Camera",
+        "rating": "",
+        "像素:": "10000萬像素",
+        "儲存媒體:": "XQD,SD",
+        "淨機身重量:": "2490g",
+        "尺寸:": "XF CAMERA: 152 x 135 x 160mm IQ4: 98.5 x 88.5 x 62.3mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5300 連 18-55 VR II 套裝",
+        "rating": "8.8",
+        "water_price_min": "3,400",
+        "water_price_max": "3,400",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "530g",
+        "尺寸:": "約 125 x 98 x 76 mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-r (18-55mm, 55-300mm) 雙鏡裝",
+        "rating": "8.8",
+        "像素:": "1240萬像素",
+        "儲存媒體:": "SD/SDHC",
+        "淨機身重量:": "598g",
+        "尺寸:": "125mm x 97mm x 68mm"
+    },
+    {
+        "names": "Canon EOS 700D 數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 IS STM鏡頭套裝",
+        "rating": "9.8",
+        "water_price_min": "3,860",
+        "water_price_max": "4,280",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "580g",
+        "尺寸:": "133 x 100 x 79 mm"
+    },
+    {
+        "names": "Canon EOS 50D 數碼單反相機 (淨機身)",
+        "rating": "9.7",
+        "像素:": "1510萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "730g",
+        "尺寸:": "146 x 108 x 74mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3300 連 AF-S DX 尼克爾18-55mm f/3.5-5.6G VR II 鏡頭套裝",
+        "rating": "9.1",
+        "hon_price_min": "2,850",
+        "hon_price_max": "2,850",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "430g",
+        "尺寸:": "124 x 98 x 75.5mm"
+    },
+    {
+        "names": "Hasselblad Lunar 數碼單反相機",
+        "rating": "",
+        "顯示屏:": "3.0吋",
+        "淨機身重量:": "570g",
+        "尺寸:": "142 x 82 x 70 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D80 (連鏡頭)",
+        "rating": "9.3",
+        "water_price_min": "5,900",
+        "water_price_max": "5,900",
+        "像素:": "1075萬像素",
+        "儲存媒體:": "SD / SDHC / MMC",
+        "淨機身重量:": "585g",
+        "尺寸:": "132 x 103 x 77mm"
+    },
+    {
+        "names": "Canon EOS 450D 數碼單反相機 (連鏡頭)",
+        "rating": "8.7",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,080",
+        "像素:": "1220萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "475g",
+        "尺寸:": "128.8 x 97.5 x 61.9mm"
+    },
+    {
+        "names": "Leica M-E 數碼單反相機",
+        "rating": "9.8",
+        "像素:": "1850萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "585g",
+        "尺寸:": "139 x 80 x 37 mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-1",
+        "rating": "9.7",
+        "像素:": "3640萬像素",
+        "感光元件:": "Full-Frame CMOS Sensor",
+        "儲存媒體:": "SD"
+    },
+    {
+        "names": "Pentax 數碼單反相機 k-70",
+        "rating": "",
+        "像素:": "2424萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "668g",
+        "尺寸:": "125.5 x 93 x 74 mm"
+    },
+    {
+        "names": "Olympus 數碼單反相機 E-5",
+        "rating": "8.6",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "CF / SD/SDHC",
+        "淨機身重量:": "800g",
+        "尺寸:": "142.5 mm (W) × 116.5 mm (H) × 74.5 mm (D)"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K20D",
+        "rating": "9.1",
+        "water_price_min": "4,794",
+        "water_price_max": "4,794",
+        "像素:": "1460萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "715g",
+        "尺寸:": "141.5 x 70 x 101mm"
+    },
+    {
+        "names": "Nikon 數碼單鏡反光相機  D600 (淨機身)",
+        "rating": "9.4",
+        "像素:": "2430萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC x 2",
+        "淨機身重量:": "760g",
+        "尺寸:": "141 x 113 x 82mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D90",
+        "rating": "9.3",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "620g",
+        "尺寸:": "132 x 103 x 77mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-x",
+        "rating": "9.3",
+        "像素:": "1240萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "525g",
+        "尺寸:": "122.5 x 91.5 x 67.5mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-3 II (淨機身)",
+        "rating": "10",
+        "像素:": "2435萬像素",
+        "儲存媒體:": "SD / SDHC /SDXC x 2",
+        "淨機身重量:": "700g",
+        "尺寸:": "131.5 (W) x 102.5 (H) x 77.5 (D)mm"
+    },
+    {
+        "names": "Leica LEICA M (Typ 240) 數碼單反相機 100 Years Edition",
+        "rating": ""
+    },
+    {
+        "names": "Canon EOS 1D Mark III 數碼單反相機 (淨機身)",
+        "rating": "8.7",
+        "hon_price_min": "20,000",
+        "hon_price_max": "20,000",
+        "像素:": "1010萬像素",
+        "儲存媒體:": "CF / SDHC",
+        "淨機身重量:": "1155g",
+        "尺寸:": "156 x 156.6 x 79.9mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 H5D-40",
+        "rating": "",
+        "像素:": "4000萬像素",
+        "焦距轉換:": "1x"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5300 連 18-55 VR 套裝",
+        "rating": "8.5",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "530g",
+        "尺寸:": "約 125 x 98 x 76 mm"
+    },
+    {
+        "names": "Canon EOS 100D 數碼單反相機 連 EF 40mm f/2.8 STM鏡頭套裝 (白色)",
+        "rating": "10",
+        "water_price_min": "4,280",
+        "water_price_max": "4,280",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD記憶卡、SDHC記憶卡、SDXC記憶卡(兼容UHS-I制式)",
+        "淨機身重量:": "407g",
+        "尺寸:": "116.8 x 90.7 x 69.4mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7000",
+        "rating": "9.4",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "Dual SD(HC/XC)",
+        "淨機身重量:": "690g",
+        "尺寸:": "132x105x77mm"
+    },
+    {
+        "names": "Fujifilm FinePix S5 Pro 數碼單反相機 (淨機身)",
+        "rating": "9.7",
+        "hon_price_min": "6,880",
+        "hon_price_max": "6,880",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "CF I/II / MD",
+        "淨機身重量:": "830g",
+        "尺寸:": "147 x 113 x 74mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D90 連 18-105mm鏡頭",
+        "rating": "9.1",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "620g",
+        "尺寸:": "132 x 103 x 77mm"
+    },
+    {
+        "names": "Canon EOS 5D Mark III數碼單反相機 連 24-105mm 鏡頭",
+        "rating": "8.4",
+        "water_price_min": "12,950",
+        "water_price_max": "12,950",
+        "像素:": "2340萬像素",
+        "儲存媒體:": "Compact Flash Type I , SD/SDHC/SDXC",
+        "淨機身重量:": "950g",
+        "尺寸:": "152 x 116 x 76 mm"
+    },
+    {
+        "names": "Canon EOS 1100D 數碼單反相機",
+        "rating": "9.7",
+        "像素:": "1220萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "495g",
+        "尺寸:": "130 x 100 x 78 mm"
+    },
+    {
+        "names": "PhaseOne IQ4 100MP Trichromatic Digital Back 三色相機系統",
+        "rating": "",
+        "像素:": "10000萬像素",
+        "儲存媒體:": "XQD,SD",
+        "淨機身重量:": "600g",
+        "尺寸:": "98.5 x 88.5 x 62.3 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3300 (淨機身)",
+        "rating": "8.6",
+        "water_price_min": "2,500",
+        "water_price_max": "2,500",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "430g",
+        "尺寸:": "124 x 98 x 75.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D300s",
+        "rating": "9.8",
+        "像素:": "1310萬像素",
+        "儲存媒體:": "CF I / SD",
+        "淨機身重量:": "840g",
+        "尺寸:": "147 x 114 x 74mm"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 A260",
+        "rating": "",
+        "像素:": "6000萬像素"
+    },
+    {
+        "names": "Canon EOS 70D 數碼單反相機 連 18-200mm 套裝",
+        "rating": "",
+        "像素:": "2020萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "755g",
+        "尺寸:": "139.0 x 104.3 x 78.5mm"
+    },
+    {
+        "names": "Canon EOS 500D 數碼單反相機 連 18-55mm鏡頭",
+        "rating": "9.0",
+        "像素:": "1510萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "480g",
+        "尺寸:": "128.8 x 97.5 x 61.9 mm"
+    },
+    {
+        "names": "Canon EOS 700D 數碼單反相機 連 EF-S 18-135mm f/3.5-5.6 IS STM鏡頭套裝",
+        "rating": "9.7",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "580g",
+        "尺寸:": "133 x 100 x 79 mm"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 645DF",
+        "rating": "9.0",
+        "hon_price_min": "60,000",
+        "hon_price_max": "60,000",
+        "淨機身重量:": "1030g",
+        "尺寸:": "153 x 128 x 184mm"
+    },
+    {
+        "names": "Sony a850 數碼單反相機 DSLR-A850",
+        "rating": "9.5",
+        "像素:": "2570萬像素",
+        "儲存媒體:": "Compact Flash I/II",
+        "淨機身重量:": "850g",
+        "尺寸:": "156.3 x 116.9 x 81.9mm"
+    },
+    {
+        "names": "Canon EOS 500D 數碼單反相機 連 18-200mm鏡頭",
+        "rating": "9.2",
+        "water_price_min": "8,146",
+        "water_price_max": "8,146",
+        "像素:": "1510萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "480g",
+        "尺寸:": "128.8 x 97.5 x 61.9 mm"
+    },
+    {
+        "names": "Sony a77 II 數碼單反相機",
+        "rating": "10",
+        "像素:": "2430萬像素",
+        "淨機身重量:": "726g",
+        "尺寸:": "142.6 毫米 × 104.2 毫米 × 80.9 毫米"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3100 連 18-55 VR 鏡頭",
+        "rating": "8.0",
+        "像素:": "1420萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "455g",
+        "尺寸:": "124 x 96 x 74.5mm"
+    },
+    {
+        "names": "Sony a560 數碼單反相機 DSLR-A580",
+        "rating": "10",
+        "像素:": "1420萬像素",
+        "儲存媒體:": "Memory Stick PRO Duo, PRO-HG Duo, SD, SDHC, SDXC",
+        "淨機身重量:": "599g",
+        "尺寸:": "137 x 104 x 84mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-3 (淨機身)",
+        "rating": "8.9",
+        "像素:": "2335萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC x 2",
+        "淨機身重量:": "800g",
+        "尺寸:": "131.5 x 100 x 77.5mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 CFV-39",
+        "rating": "9.3",
+        "像素:": "2900萬像素",
+        "淨機身重量:": "530g",
+        "尺寸:": "91 x 90 x 61mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-S1 (淨機身)",
+        "rating": "",
+        "像素:": "2012萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "499g",
+        "尺寸:": "120.7 (W) x 92.7 (H) x 69.9 (D)mm"
+    },
+    {
+        "names": "Canon EOS 650D 數碼單反相機 連 18-55mm 鏡頭",
+        "rating": "8.9",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC 記憶卡、對應 UHS-I",
+        "淨機身重量:": "520g",
+        "尺寸:": "133.1 x 99.8 x 78.8mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-S2",
+        "rating": "10",
+        "像素:": "2012萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "618g",
+        "尺寸:": "122.5mm（W）×91mm（H）×72.5mm（D）"
+    },
+    {
+        "names": "Sigma SD1 Merrill 數碼單反相機 連 Sigma AF 17-50mm F2.8 DC OS HSM 鏡頭",
+        "rating": "10",
+        "像素:": "1536萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "700g",
+        "尺寸:": "145.5mm（闊）x 112.5mm（高）x 80mm（深）"
+    },
+    {
+        "names": "Canon 100D 數碼單反相機 連EF-S 18-55mm III 單鏡套裝",
+        "rating": "8.0",
+        "water_price_min": "3,580",
+        "water_price_max": "3,580",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD、SDHC、SDXC",
+        "淨機身重量:": "370g",
+        "尺寸:": "117(W) x 91(H) x 70(D)mm"
+    },
+    {
+        "names": "Canon EOS 100D 數碼單反相機",
+        "rating": "8.5",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "370g",
+        "尺寸:": "90.7 X 116.8 X 69.4mm"
+    },
+    {
+        "names": "Panasonic 樂聲 數碼單反相機 DMC-G7H",
+        "rating": "",
+        "像素:": "1600萬像素",
+        "尺寸:": "124.9 x 86.2 x 77.4毫米"
+    },
+    {
+        "names": "Canon EOS Kiss X7i 數碼單反相機 連 18-135mm STM 鏡頭",
+        "rating": "",
+        "像素:": "1800萬像素",
+        "尺寸:": "133.1×99.8×78.8mm"
+    },
+    {
+        "names": "Canon EOS 750D 數碼單反相機 連 EF-S 18-135mm f/3.5-5.6 IS STM鏡頭套裝",
+        "rating": "8.0",
+        "water_price_min": "4,590",
+        "water_price_max": "4,590",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD, SDHC, SDXC",
+        "淨機身重量:": "555g",
+        "尺寸:": "131.9 x 100.7 x 77.8 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機D7100 連 AF-S DX 尼克爾 16-85mm f/3.5-5.6G ED VR 鏡頭套裝",
+        "rating": "10",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "765g",
+        "尺寸:": "135.5 x 106.5 x 76 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D200 (淨機身)",
+        "rating": "10",
+        "water_price_min": "7,488",
+        "water_price_max": "7,488",
+        "像素:": "1092萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "830g",
+        "尺寸:": "147 x 113 x 74mm"
+    },
+    {
+        "names": "Sony a5000 數碼單反相機  ILCE-5000 單鏡套裝",
+        "rating": "10",
+        "像素:": "2040萬像素"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5500 (淨機身)",
+        "rating": "8.5",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SD、SDHC (兼容 UHS-I)、SDXC (兼容 UHS-I)",
+        "淨機身重量:": "470g",
+        "尺寸:": "124 x 97 x 70mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D800E",
+        "rating": "9.6",
+        "像素:": "3680萬像素",
+        "儲存媒體:": "CF x 2",
+        "淨機身重量:": "900g",
+        "尺寸:": "146 x 123 x 81.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D40 (連鏡頭)",
+        "rating": "8.5",
+        "water_price_min": "2,878",
+        "water_price_max": "2,878",
+        "像素:": "637萬像素",
+        "儲存媒體:": "CF I/II / MD",
+        "淨機身重量:": "471g",
+        "尺寸:": "126 x 94 x 64mm"
+    },
+    {
+        "names": "Leica 數碼單反相機 M8",
+        "rating": "9.0",
+        "像素:": "1003萬像素",
+        "儲存媒體:": "SD",
+        "淨機身重量:": "545g",
+        "尺寸:": "139 x 80 x 37mm"
+    },
+    {
+        "names": "Canon EOS 60Da 數碼單反相機",
+        "rating": "8.0",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "淨機身重量:": "675g",
+        "尺寸:": "144.5 x 105.8 x 78.6 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 數碼單反相機 DMC-G7K",
+        "rating": "6.0",
+        "像素:": "1600萬像素"
+    },
+    {
+        "names": "Canon EOS 1000D 數碼單反相機 (連鏡頭)",
+        "rating": "8.9",
+        "water_price_min": "3,300",
+        "water_price_max": "3,300",
+        "像素:": "1010萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "450g",
+        "尺寸:": "126 x 98 x 62mm"
+    },
+    {
+        "names": "PhaseOne IQ4 150MP Digital Back 三色相機系統",
+        "rating": "",
+        "像素:": "15100萬像素",
+        "儲存媒體:": "XQD,SD",
+        "淨機身重量:": "2490g",
+        "尺寸:": "98.5 x 88.5 x 62.3 mm"
+    },
+    {
+        "names": "Canon EOS 600D 數碼單反相機 (淨機身)",
+        "rating": "9.0",
+        "hon_price_min": "3,998",
+        "hon_price_max": "3,998",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "570g",
+        "尺寸:": "133.1 X 99.5 X 79.7mm"
+    },
+    {
+        "names": "Canon EOS 650D 數碼單反相機",
+        "rating": "8.9",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC 記憶卡、對應 UHS-I",
+        "淨機身重量:": "520g",
+        "尺寸:": "133.1 x 99.8 x 78.8mm"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 IQ250",
+        "rating": "",
+        "像素:": "5000萬像素"
+    },
+    {
+        "names": "Leica 數碼單反相機 M9-P (淨機身)",
+        "rating": "10",
+        "像素:": "1800萬像素",
+        "淨機身重量:": "600g",
+        "尺寸:": "139 x 37 x 80 mm"
+    },
+    {
+        "names": "Canon EOS 750D 數碼單反相機 (淨機身)",
+        "rating": "",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "510g",
+        "尺寸:": "131.9 x 100.7 x 77.8mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-3 II DA 18-55mm WR 套裝",
+        "rating": "10",
+        "像素:": "2435萬像素",
+        "儲存媒體:": "SD / SDHC /SDXC x 2",
+        "淨機身重量:": "700g",
+        "尺寸:": "131.5 (W) x 102.5 (H) x 77.5 (D)mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-m",
+        "rating": "8.7",
+        "water_price_min": "3,288",
+        "water_price_max": "3,288",
+        "像素:": "1075萬像素",
+        "儲存媒體:": "SDHC / SD",
+        "淨機身重量:": "525g",
+        "尺寸:": "122.5 x 91.5 x 67.5mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-r 連 35mm F2.4 鏡頭套裝",
+        "rating": "9.1",
+        "像素:": "1240萬像素",
+        "儲存媒體:": "SD/SDHC",
+        "淨機身重量:": "598g",
+        "尺寸:": "125 x 97 x 68mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3400 連 18-55 VR + AF-P 70-300 VR 雙鏡頭",
+        "rating": "",
+        "像素:": "2420萬像素"
+    },
+    {
+        "names": "Canon EOS 60D 數碼單反相機 連 18-200mm 鏡頭",
+        "rating": "9.3",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "675g",
+        "尺寸:": "145 x 106 x 79 mm"
+    },
+    {
+        "names": "PhaseOne XF Camera System 相機系統",
+        "rating": ""
+    },
+    {
+        "names": "Canon EOS 6D 數碼單反相機 連 EF 24-70mm f/4L IS USM鏡頭套裝",
+        "rating": "9.6",
+        "像素:": "2060萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "770g",
+        "尺寸:": "145 x 111 x 71 mm"
+    },
+    {
+        "names": "Sony a57 數碼單反相機 SLT-A57",
+        "rating": "9.4",
+        "顯示屏:": "3.0吋",
+        "淨機身重量:": "618g",
+        "尺寸:": "132 x 98 x 81mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-r 連 18-55mm 鏡頭套裝",
+        "rating": "9.6",
+        "像素:": "1240萬像素",
+        "儲存媒體:": "SD/SDHC",
+        "淨機身重量:": "598g",
+        "尺寸:": "125 x 97 x 68mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-50",
+        "rating": "8.9",
+        "像素:": "1630萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "675g",
+        "尺寸:": "129.0 mm (W) × 96.5 mm (H) × 70.0 mm (D)"
+    },
+    {
+        "names": "Canon EOS Kiss X6i 數碼單反相機",
+        "rating": "",
+        "像素:": "1790萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "575g",
+        "尺寸:": "133x99x78mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A65",
+        "rating": "9.7",
+        "像素:": "2470萬像素",
+        "儲存媒體:": "MPD/MPD-HG/SD/SDHC/SDXC",
+        "淨機身重量:": "543g",
+        "尺寸:": "132.1 x 97.5 x 80.7mm"
+    },
+    {
+        "names": "Canon EOS 1200D 數碼單反相機 連 EF-S 18-55mm DC III 套裝",
+        "rating": "",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD、SDHC、SDXC記憶卡",
+        "淨機身重量:": "435g",
+        "尺寸:": "129.6 x 99.7 x 77.9 mm"
+    },
+    {
+        "names": "Canon EOS 100D 數碼單反相機 連 18-55 mm + 40mm STM 雙鏡套裝 (白色特別版)",
+        "rating": "8.0",
+        "像素:": "1850萬像素"
+    },
+    {
+        "names": "Canon EOS 600D 數碼單反相機 連 18-55mm 鏡頭",
+        "rating": "9.1",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,000",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "570g",
+        "尺寸:": "133.1 X 99.5 X 79.7mm"
+    },
+    {
+        "names": "Sony a900 數碼單反相機 DSLR-A900",
+        "rating": "9.1",
+        "像素:": "2460萬像素",
+        "儲存媒體:": "MS Duo / MS Pro Duo / MS Pro-HG Duo / CF I/II",
+        "淨機身重量:": "850g",
+        "尺寸:": "156.3 x 116.9 x 81.9mm"
+    },
+    {
+        "names": "Sigma SD1 Merrill 數碼單反相機 (淨機身)",
+        "rating": "9.0",
+        "像素:": "1536萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "700g",
+        "尺寸:": "145.5mm（闊）x 112.5mm（高）x 80mm（深）"
+    },
+    {
+        "names": "Sigma SD1 數碼單反相機",
+        "rating": "6.4",
+        "像素:": "4600萬像素",
+        "儲存媒體:": "Compact Flash (Type I, UDMA compatible)",
+        "淨機身重量:": "700g",
+        "尺寸:": "145.5 mm/5.7\" (W) × 113.5 mm/4.4\"(H) × 80.0 mm/3.1"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3200",
+        "rating": "8.9",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SDHC/SDXC",
+        "淨機身重量:": "455g",
+        "尺寸:": "125x96x76.5mm"
+    },
+    {
+        "names": "Canon EOS 1300D 數碼單反相機 連 Double Zoom (EF S18-55 IS II & EF S55-250 IS II)",
+        "rating": "",
+        "像素:": "1870萬像素"
+    },
+    {
+        "names": "Canon EOS 450D 數碼單反相機 (雙鏡裝)",
+        "rating": "9.6",
+        "像素:": "1240萬像素",
+        "焦距轉換:": "1.6x",
+        "儲存媒體:": "SD/SDHC"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 A280",
+        "rating": "10",
+        "像素:": "8000萬像素",
+        "淨機身重量:": "1.9g"
+    },
+    {
+        "names": "Canon EOS 5D 數碼單反相機 (連鏡頭)",
+        "rating": "10",
+        "water_price_min": "17,964",
+        "water_price_max": "17,964",
+        "像素:": "1330萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "810g",
+        "尺寸:": "152 x 113 x 75mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-50 連 DA 18-135mm f/3.5-5.6 ED AL [IF] DC WR 鏡頭",
+        "rating": "9.9",
+        "像素:": "1649萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC / Eye-Fi",
+        "淨機身重量:": "650g",
+        "尺寸:": "96.5 x 129 x 70mm"
+    },
+    {
+        "names": "Canon Kiss X5 數碼單反相機",
+        "rating": "9.5",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "570g",
+        "尺寸:": "133.1 X 99.5 X 79.7mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5100",
+        "rating": "8.7",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "509g",
+        "尺寸:": "128 × 96.9 × 78.7 mm"
+    },
+    {
+        "names": "Canon 700D 數碼單反相機 連 18-55mm II + 55-250mm II 雙鏡裝",
+        "rating": "8.7",
+        "像素:": "1800萬像素"
+    },
+    {
+        "names": "Ricoh PENTAX KP 數碼單反相機",
+        "rating": "10",
+        "像素:": "2400萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "703g",
+        "尺寸:": "132 x 101 x 76mm"
+    },
+    {
+        "names": "PhaseOne IQ4 150MP Achromatic Digital Back 三色相機系統",
+        "rating": "",
+        "像素:": "15100萬像素",
+        "儲存媒體:": "XQD,SD",
+        "淨機身重量:": "600g",
+        "尺寸:": "98.5 x 88.5 x 62.3 mm"
+    },
+    {
+        "names": "Canon EOS 650D 18-135mm STM 數碼單反相機套裝",
+        "rating": "8.0",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC 記憶卡、對應 UHS-I",
+        "淨機身重量:": "520g",
+        "尺寸:": "133.1 x 99.8 x 78.8mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 PJ-580VE",
+        "rating": "",
+        "像素:": "2040萬像素",
+        "儲存媒體:": "快閃記憶體32GB",
+        "淨機身重量:": "345g",
+        "尺寸:": "58.5 x 64.5 x 116.5 毫米"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7200",
+        "rating": "9.8",
+        "像素:": "2400萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "765g",
+        "尺寸:": "135.5 x 106.5 x 76mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5000",
+        "rating": "8.6",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "611g",
+        "尺寸:": "127 x 104 x 80mm"
+    },
+    {
+        "names": "Leica S Type 006 數碼單反相機",
+        "rating": "9.0",
+        "像素:": "3750萬像素",
+        "儲存媒體:": "CF / SDXC",
+        "淨機身重量:": "1260g",
+        "尺寸:": "160 X 120 X 80mm"
+    },
+    {
+        "names": "Olympus 數碼單反相機 E-520",
+        "rating": "8.3",
+        "像素:": "1180萬像素",
+        "儲存媒體:": "CF / xD",
+        "淨機身重量:": "475g",
+        "尺寸:": "136 x 92 x 68mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A58",
+        "rating": "8.6",
+        "像素:": "2010萬像素",
+        "儲存媒體:": "MS,,SD,SDHC,SDXC",
+        "淨機身重量:": "78g",
+        "尺寸:": "38.2 X 20.5 X 55.6mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D600 連 24-85mm f/3.5-4.5G ED VR 鏡頭套裝",
+        "rating": "9.4",
+        "像素:": "2430萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC x 2",
+        "淨機身重量:": "760g",
+        "尺寸:": "141 x 113 x 82mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D800",
+        "rating": "9.3",
+        "像素:": "3630萬像素",
+        "儲存媒體:": "SD / UHS-I SDHC / SDXC / CompactFlash",
+        "淨機身重量:": "1000g",
+        "尺寸:": "146 x 123 x 81.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7100 連 AF-S DX 18-105mm VR 鏡頭套裝",
+        "rating": "9.9",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "765g",
+        "尺寸:": "135.5 x 106.5 x 76 mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-1 Mark II 連 Pentax HD Pentax-D FA 24-70mm f/2.8 ED SDM WR",
+        "rating": "",
+        "像素:": "3640萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC 卡插槽 x 2",
+        "淨機身重量:": "925g",
+        "尺寸:": "136.5 x 110 x 85.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7200 連 AF-S DX 18-200mm f/3.5-5.6G ED VR II 鏡頭",
+        "rating": "",
+        "像素:": "2416萬像素"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5100 連 18-55mm 套裝",
+        "rating": "8.7",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "509g",
+        "尺寸:": "128 × 96.9 × 78.7 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7200 連 AF-S DX 18-300mm f/3.5-6.3G ED VR 鏡頭",
+        "rating": "",
+        "像素:": "2416萬像素",
+        "淨機身重量:": "675g",
+        "尺寸:": "135.5 × 106.5 × 76mm"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 IQ360",
+        "rating": "",
+        "像素:": "6000萬像素"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-S2 連 DA L 18-50mm DC WR RE 單鏡頭套裝",
+        "rating": "9.1",
+        "像素:": "2042萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC / Eye-Fi / FLU card",
+        "淨機身重量:": "618g",
+        "尺寸:": "91 x 122.5 x 72.5 mm"
+    },
+    {
+        "names": "Canon EOS 6D 數碼單反相機 連24-105mm鏡頭套裝",
+        "rating": "9.3",
+        "像素:": "2060萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "770g",
+        "尺寸:": "145 x 111 x 71 mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-3 連 DA18-55WR 鏡頭",
+        "rating": "8.0"
+    },
+    {
+        "names": "PhaseOne XF Camera 數碼單反相機機身 連 Prism Viewfinder",
+        "rating": "",
+        "像素:": "15100萬像素",
+        "尺寸:": "152 x 135 x 160mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D4S",
+        "rating": "9.1",
+        "感光元件:": "36.0 mm x 23.9 mm  CMOS"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D-5100 連 AF-S DX 18-105mm VR 鏡頭",
+        "rating": "9.0",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "509g",
+        "尺寸:": "128 × 96.9 × 78.7 mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 645Z",
+        "rating": "",
+        "像素:": "5299萬像素",
+        "尺寸:": "6.14in x 4.6in x 4.84in"
+    },
+    {
+        "names": "Olympus 數碼單反相機 E-30",
+        "rating": "9.5",
+        "像素:": "1230萬像素",
+        "儲存媒體:": "CF / xD",
+        "淨機身重量:": "665g",
+        "尺寸:": "142 x 108 x 75mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5300 (淨機身)",
+        "rating": "8.0",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "530g",
+        "尺寸:": "約 125 x 98 x 76 mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 H4D-50",
+        "rating": "",
+        "像素:": "5000萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "2290g",
+        "尺寸:": "153 x 131 x 205 mm"
+    },
+    {
+        "names": "Canon EOS 760D 數碼單反相機 連 EF-S 18-55mm f/3.5-5.6 IS STM 鏡頭套裝",
+        "rating": "8.0",
+        "像素:": "2420萬像素"
+    },
+    {
+        "names": "Nikon 1 V2  數碼單反相機 連 1 NIKKOR VR 10-100mm f/4-5.6 鏡頭",
+        "rating": "10.0",
+        "像素:": "1425萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "278g",
+        "尺寸:": "107.8 x 81.6 x 45.9mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3100",
+        "rating": "8.8",
+        "像素:": "1420萬像素",
+        "儲存媒體:": "SD / SDHC",
+        "淨機身重量:": "455g",
+        "尺寸:": "124 x 96 x 74.5mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 CFV-50",
+        "rating": "",
+        "像素:": "5000萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "530g",
+        "尺寸:": "91 x 90 x 61 mm"
+    },
+    {
+        "names": "Sony a580 數碼單反相機 DSLR-A580",
+        "rating": "9.7",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "Memory Stick PRO Duo, PRO-HG Duo, SD, SDHC, SDXC",
+        "淨機身重量:": "599g",
+        "尺寸:": "137 x 104 x 84mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A35 連 18-55mm 鏡頭套裝",
+        "rating": "9.3",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "MS PRO Duo / MS PRO-HG Duo / SD / SDHC / SDXC",
+        "淨機身重量:": "415g",
+        "尺寸:": "124.4 x 92 x 84.7 mm"
+    },
+    {
+        "names": "Nikon DF 數碼單反相機 Gold Edition",
+        "rating": ""
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-S2 連 DA L 18-50mm DC WR RE + DA L 50-200mm ED WR 雙鏡頭套裝",
+        "rating": "9.5",
+        "像素:": "2042萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC / Eye-Fi / FLU card",
+        "淨機身重量:": "618g",
+        "尺寸:": "91 x 122.5 x 72.5 mm"
+    },
+    {
+        "names": "Canon EOS 200D 數碼單反相機",
+        "rating": "7.3",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC 記憶卡",
+        "尺寸:": "122.4 x 92.6 x 69.8mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3s",
+        "rating": "8.9",
+        "像素:": "1210萬像素",
+        "儲存媒體:": "CF Type I",
+        "淨機身重量:": "1240g",
+        "尺寸:": "159.5 x 157 x 87.5mm"
+    },
+    {
+        "names": "Canon EOS M 數碼單反相機 全配套機 (雙鏡+接環+90EX燈)",
+        "rating": "8.0",
+        "像素:": "1850萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "298g",
+        "尺寸:": "109 x 66 x 32"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 A250",
+        "rating": "",
+        "像素:": "5000萬像素"
+    },
+    {
+        "names": "Canon EOS M2 數碼單反相機",
+        "rating": "8.0",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "274g",
+        "尺寸:": "104.9 x 65.2 x 31.6 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5200 連 18-55 VR II 套裝",
+        "rating": "8.0",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "430g",
+        "尺寸:": "124 x 98 x 76 mm"
+    },
+    {
+        "names": "Sony a77 II 數碼單反相機 (淨機身)",
+        "rating": "9.4",
+        "像素:": "2430萬像素",
+        "淨機身重量:": "726g",
+        "尺寸:": "142.6 毫米 × 104.2 毫米 × 80.9 毫米"
+    },
+    {
+        "names": "Sony a550 數碼單反相機 DSLR-A550L",
+        "rating": "9.6",
+        "像素:": "1460萬像素",
+        "儲存媒體:": "SD / SDHC / Memory Stick Pro Duo / Pro HG Duo",
+        "淨機身重量:": "599g",
+        "尺寸:": "137 x 104 x 84mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-70 連 18-135 鏡頭套裝",
+        "rating": "",
+        "像素:": "2478萬像素"
+    },
+    {
+        "names": "Canon EOS 650D 數碼單反相機 (淨機身)",
+        "rating": "9.3",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC 記憶卡、對應 UHS-I",
+        "淨機身重量:": "520g",
+        "尺寸:": "133.1 x 99.8 x 78.8mm"
+    },
+    {
+        "names": "Canon Kiss X5 18-55 IS II 數碼單反相機",
+        "rating": "",
+        "像素:": "1800萬像素",
+        "焦距轉換:": "3"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-50 連 DA L 18-55mm f/3.5-5.6 AL WR 鏡頭",
+        "rating": "9.4",
+        "像素:": "1649萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC / Eye-Fi",
+        "淨機身重量:": "650g",
+        "尺寸:": "96.5 x 129 x 70mm"
+    },
+    {
+        "names": "PhaseOne 數碼單反相機 IQ280",
+        "rating": "8.0",
+        "像素:": "8000萬像素",
+        "焦距轉換:": "1.0X",
+        "淨機身重量:": "1030g",
+        "尺寸:": "153, 128, 184mm"
+    },
+    {
+        "names": "Sony 數碼單反相機SLT-A99V",
+        "rating": "9.8",
+        "像素:": "2470萬像素",
+        "儲存媒體:": "MS,MS-PRO-HG,SD,SDHC,SDXC",
+        "淨機身重量:": "733g",
+        "尺寸:": "147 X 111.2 X 78.4mm"
+    },
+    {
+        "names": "Nikon DF 數碼單反相機 連 50mm F1.8 套裝",
+        "rating": "9.9",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "710g",
+        "尺寸:": "143.5 × 110 × 66.5 mm"
+    },
+    {
+        "names": "Canon EOS 1200D 數碼單反相機",
+        "rating": "7.0",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD、SDHC、SDXC記憶卡",
+        "淨機身重量:": "435g",
+        "尺寸:": "129.6 x 99.7 x 77.9 mm"
+    },
+    {
+        "names": "Leica 數碼單反相機 S2",
+        "rating": "8.5",
+        "像素:": "3750萬像素",
+        "儲存媒體:": "CF / SDHC",
+        "淨機身重量:": "1410g",
+        "尺寸:": "160 x 120 x 80mm"
+    },
+    {
+        "names": "Canon EOS-1D C 數碼單反相機",
+        "rating": "",
+        "像素:": "1930萬像素",
+        "儲存媒體:": "CF x 2",
+        "淨機身重量:": "1545g",
+        "尺寸:": "158.0 x 163.6 x 82.7 mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-50 連  DA L 18-55mm AL WR + DA L 50-200mm ED WR 雙鏡頭",
+        "rating": "9.9",
+        "像素:": "1649萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC / Eye-Fi",
+        "淨機身重量:": "650g",
+        "尺寸:": "96.5 x 129 x 70mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 NEX-6",
+        "rating": "9.8",
+        "像素:": "1610萬像素",
+        "儲存媒體:": "Memory Stick PRO Duo / Memory Stick PRO-HG Duo / SD 記憶片 / SDHC記憶片 / SDXC記憶片",
+        "淨機身重量:": "345g",
+        "尺寸:": "119.9 x 66.9 x 42.6mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5200 連 18-105 VR 套裝",
+        "rating": "8.0",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "555g",
+        "尺寸:": "129 x 98 x 78 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D810 連 24-120mm VR Lens 套裝",
+        "rating": "9.0"
+    },
+    {
+        "names": "TSK 兒童專用單反相機",
+        "rating": "",
+        "像素:": "2592萬像素",
+        "淨機身重量:": "65g",
+        "尺寸:": "60 x 50 x 50mm"
+    },
+    {
+        "names": "Sigma SD15 數碼單反相機",
+        "rating": "8.8",
+        "像素:": "1406萬像素",
+        "儲存媒體:": "SD/SDHC",
+        "淨機身重量:": "680g",
+        "尺寸:": "144mm（闊）x 107mm（高）x 81mm（深）"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D7000 連 18-105mm 鏡頭",
+        "rating": "9.6",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "Dual SD(HC/XC)",
+        "淨機身重量:": "690g",
+        "尺寸:": "132x105x77mm"
+    },
+    {
+        "names": "Canon EOS 1100D 數碼單反相機 (雙鏡頭)",
+        "rating": "7.0",
+        "像素:": "1220萬像素",
+        "儲存媒體:": "SD、SDHC、SDXC",
+        "淨機身重量:": "450g",
+        "尺寸:": "129.9(W) x 99.7(H) x 77.9(D)mm"
+    },
+    {
+        "names": "Canon EOS M 數碼單反相機 定焦鏡連鏡頭轉接器套裝",
+        "rating": "7.5",
+        "像素:": "1850萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "298g",
+        "尺寸:": "109 x 66 x 32 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5500 連 AF-S DX 尼克爾 18-140mm f/3.5-5.6G ED VR 鏡頭套裝",
+        "rating": "10"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3200 (雙鏡頭)",
+        "rating": "",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SD、SDHC、SDXC",
+        "淨機身重量:": "455g",
+        "尺寸:": "125(W) x 96(H) x 76.5(D)mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 SLT-A55V",
+        "rating": "9.8",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "Memory Stick PRO Duo, Pro-HG Duo, SD, SDHC & SDXC",
+        "淨機身重量:": "433g",
+        "尺寸:": "124.4 x 92 x 84.7mm"
+    },
+    {
+        "names": "Leica S Summicron 100 Edition 數碼單反相機",
+        "rating": "",
+        "像素:": "3750萬像素",
+        "儲存媒體:": "CF / SDXC",
+        "淨機身重量:": "1260g",
+        "尺寸:": "160 X 120 X 80mm"
+    },
+    {
+        "names": "Canon EOS–1D Mark IV 數碼單反相機",
+        "rating": "9.7",
+        "像素:": "1610萬像素",
+        "儲存媒體:": "CF I/II / SD/SDHC",
+        "淨機身重量:": "1180g",
+        "尺寸:": "156 × 156.6 × 79.9mm"
+    },
+    {
+        "names": "Canon EOS 100D 數碼單反相機 連 EF 40mm f/2.8 STM鏡頭套裝 (白色)",
+        "rating": "8.2",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "370g",
+        "尺寸:": "90.7 X 116.8 X 69.4mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3200 連 18-55 VR 鏡頭套裝",
+        "rating": "7.7",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SDHC / SDXC",
+        "淨機身重量:": "455g",
+        "尺寸:": "125x96x76.5mm"
+    },
+    {
+        "names": "Canon EOS 50D 數碼單反相機機 連 18-200mm 鏡頭",
+        "rating": "9.2",
+        "像素:": "1510萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "730g",
+        "尺寸:": "145.5 x 107.8 x 73.5mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-3 II 連 18-135 WR Lens 套裝",
+        "rating": "",
+        "像素:": "2300萬像素",
+        "儲存媒體:": "SD SDHC SDXC",
+        "淨機身重量:": "700g",
+        "尺寸:": "131.5 x 102.5 x 77.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5500 連 AF-P DX 18-55MM F/3.5-5.6G VR 套裝",
+        "rating": "",
+        "像素:": "2420萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "420g",
+        "尺寸:": "124 x 97 x 70 mm"
+    },
+    {
+        "names": "Canon EOS M 數碼單反相機 雙鏡連閃燈套裝",
+        "rating": "9.3",
+        "像素:": "1850萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "298g",
+        "尺寸:": "109 x 66 x 32 mm"
+    },
+    {
+        "names": "Sony a35 數碼單反相機",
+        "rating": "9.2",
+        "像素:": "1620萬像素",
+        "儲存媒體:": "SD/SDHC/MS Duo Pro",
+        "淨機身重量:": "492g",
+        "尺寸:": "124.4x92x84.7mm"
+    },
+    {
+        "names": "Canon M3 數碼單反相機 雙變焦鏡套裝",
+        "rating": "",
+        "像素:": "2420萬像素"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3400 連 18-55 鏡頭套裝",
+        "rating": "8.0",
+        "像素:": "2420萬像素",
+        "淨機身重量:": "445g",
+        "尺寸:": "124 x 98 x 75.5 mm"
+    },
+    {
+        "names": "Sony a77 數碼單反相機 SLT-A77V",
+        "rating": "9.3",
+        "像素:": "2430萬像素",
+        "儲存媒體:": "SD/ SDHC",
+        "淨機身重量:": "653g",
+        "尺寸:": "142.6 X 104 X 80.9mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-30",
+        "rating": "9.8",
+        "像素:": "1628萬像素",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "淨機身重量:": "590g",
+        "尺寸:": "(H)96.5mm x(W)128.5mm x(D)71.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D700",
+        "rating": "9.1",
+        "像素:": "1210萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "995g",
+        "尺寸:": "147 x 123 x 77mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-3 II 18-135mm WR 套裝",
+        "rating": "9.0",
+        "像素:": "2,435萬像素",
+        "儲存媒體:": "SD / SDHC /SDXC x 2",
+        "淨機身重量:": "700g",
+        "尺寸:": "131.5 (W) x 102.5 (H) x 77.5 (D)mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3X",
+        "rating": "8.6",
+        "像素:": "2450萬像素",
+        "儲存媒體:": "CF I",
+        "淨機身重量:": "1220g",
+        "尺寸:": "159.5 x 157 x 87.5mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 H5D-50",
+        "rating": "",
+        "像素:": "5000萬像素",
+        "焦距轉換:": "1x"
+    },
+    {
+        "names": "Sony a77 數碼單反相機套裝",
+        "rating": "9.7",
+        "像素:": "2430萬像素",
+        "儲存媒體:": "SD/ SDHC",
+        "淨機身重量:": "653g",
+        "尺寸:": "142.6 X 104 X 80.9mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-S2 連 DA 18-135mm ED AL [IF] DC WR 單鏡頭套裝",
+        "rating": "9.3",
+        "像素:": "2042萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC / Eye-Fi / FLU card",
+        "淨機身重量:": "618g",
+        "尺寸:": "91 x 122.5 x 72.5 mm"
+    },
+    {
+        "names": "Canon EOS 50D 數碼單反相機 連 18-135mm鏡頭",
+        "rating": "9.3",
+        "像素:": "1510萬像素",
+        "儲存媒體:": "CF I/II",
+        "淨機身重量:": "730g",
+        "尺寸:": "145.5 x 107.8 x 73.5mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D-700 (淨機身)",
+        "rating": "9.5",
+        "像素:": "1210萬像素",
+        "儲存媒體:": "CF I",
+        "淨機身重量:": "995g",
+        "尺寸:": "147 x 123 x 77mm"
+    },
+    {
+        "names": "Hasselblad 數碼單反相機 H4D-60",
+        "rating": "10",
+        "像素:": "6010萬像素",
+        "儲存媒體:": "CF",
+        "淨機身重量:": "1800g",
+        "尺寸:": "153 x 131 x 205 mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D3200 連 18-105mm VR 鏡頭套裝",
+        "rating": "8.0",
+        "像素:": "2416萬像素",
+        "儲存媒體:": "SDHC / SDXC",
+        "淨機身重量:": "455g",
+        "尺寸:": "125x96x76.5mm"
+    },
+    {
+        "names": "Canon EOS 550D 數碼單反相機 連 18-55mm 鏡頭",
+        "rating": "9.0",
+        "像素:": "1800萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "530g",
+        "尺寸:": "129 x 98 x 62mm"
+    },
+    {
+        "names": "Nikon 數碼單反相機 D5200 連 18-55 VR 套裝",
+        "rating": "8.4",
+        "像素:": "2410萬像素",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "淨機身重量:": "555g",
+        "尺寸:": "129 x 98 x 78 mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 DSLR-A500L",
+        "rating": "10",
+        "像素:": "1290萬像素",
+        "儲存媒體:": "Memory Stick PRO Duo／Memory Stick PRO-HG Duo／SD 記憶卡／SDHC 記憶卡",
+        "淨機身重量:": "597g",
+        "尺寸:": "137 x 104 x 84mm"
+    },
+    {
+        "names": "Sony 數碼單反相機 DSLR-A900",
+        "rating": "8.7",
+        "像素:": "2570萬像素",
+        "儲存媒體:": "Memory Stick Duo記憶片 / Compact Flash記憶片雙插槽",
+        "淨機身重量:": "850g",
+        "尺寸:": "156 x 117 x 82 mm"
+    },
+    {
+        "names": "Pentax 數碼單反相機 K-5",
+        "rating": "9.7",
+        "像素:": "1630萬像素",
+        "儲存媒體:": "SD/SDHC",
+        "淨機身重量:": "670g",
+        "尺寸:": "131 (W) x 97 (H) x 73(D)mm"
+    }
+]

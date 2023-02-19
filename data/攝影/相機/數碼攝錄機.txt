@@ -1,0 +1,3819 @@
+[
+    {
+        "names": "DJI Pocket 2",
+        "rating": "7.8",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,899",
+        "water_price_min": "2,380",
+        "water_price_max": "2,850",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "1600 萬像素/6400 萬像素",
+        "重量:": "117g",
+        "尺寸:": "124.7 x 38.1 x 30mm"
+    },
+    {
+        "names": "DJI Pocket 2 全能組合包",
+        "rating": "9.0",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,999",
+        "water_price_min": "3,680",
+        "water_price_max": "3,999",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "1600 萬像素/6400 萬像素",
+        "重量:": "17g",
+        "尺寸:": "124.7 x 38.1 x 30mm"
+    },
+    {
+        "names": "Sony 影院系列 FX6 相機 ILME-FX6 4k",
+        "rating": "10",
+        "hon_price_min": "49,990",
+        "hon_price_max": "62,800",
+        "water_price_min": "39,800",
+        "water_price_max": "45,000",
+        "超高清/全高清/高清:": "XAVC INTRA XAVC-I DCI4K 23.98p 模式：VBR、最大位元率 240 Mbps、MPEG-4 AVC/H.264, XAVC-I DCI4K 24p 模式：VBR、最大位元率 240 Mbps、MPEG-4 AVC/H.264, XAVC-I DCI4K 25p 模式：VBR、最大位元率 250 Mbps、MPEG-4 AVC/H.264, XAVC-I DCI4K 29.97p 模式：VBR、最大位元率 300 Mbps、MPEG-4 AVC/H.264, XAVC-I DCI",
+        "相片解像度:": "1290",
+        "重量:": "890g",
+        "尺寸:": "114 x 116 x 153mm"
+    },
+    {
+        "names": "Ricoh Theta X",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,380",
+        "water_price_min": "5,980",
+        "water_price_max": "6,050",
+        "超高清/全高清/高清:": "超高清",
+        "儲存媒體:": "內建記憶體：約 46GB，microSDXC 記憶卡 (64GB 以上，符合 UHS-I 介面和影片速度等級 V30，exFAT 格式）",
+        "重量:": "144g",
+        "尺寸:": "51.7 x 136.2 x 29mm"
+    },
+    {
+        "names": "DJI Osmo Pocket",
+        "rating": "5.7",
+        "hon_price_min": "1,590",
+        "hon_price_max": "2,350",
+        "water_price_min": "2,280",
+        "water_price_max": "2,280",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "4000 x 3000",
+        "重量:": "116g",
+        "尺寸:": "121.9 x 36.9 x 28.6mm"
+    },
+    {
+        "names": "DJI Pocket 2 Exclusive Combo",
+        "rating": "",
+        "hon_price_min": "2,628",
+        "hon_price_max": "2,650",
+        "超高清/全高清/高清:": "4K 超高清",
+        "儲存媒體:": "MicroSD",
+        "相片解像度:": "1600 萬像素 / 6400 萬像素"
+    },
+    {
+        "names": "Sony PXW-Z90",
+        "rating": "10",
+        "hon_price_min": "19,800",
+        "hon_price_max": "21,380",
+        "water_price_min": "17,900",
+        "water_price_max": "19,950",
+        "超高清/全高清/高清:": "FHD/4K",
+        "儲存媒體:": "SDHC/SDXC",
+        "重量:": "1020g",
+        "尺寸:": "130 x 181.5 x 287mm"
+    },
+    {
+        "names": "Canon EOS C70 4K 專業級數位攝影機",
+        "rating": "7.0",
+        "hon_price_min": "38,400",
+        "hon_price_max": "41,550",
+        "water_price_min": "32,900",
+        "water_price_max": "38,050",
+        "超高清/全高清/高清:": "4K"
+    },
+    {
+        "names": "Sony UHD 4K Handycam 數碼攝影機 FDR-AX43",
+        "rating": "10",
+        "water_price_min": "5,350",
+        "water_price_max": "6,980",
+        "超高清/全高清/高清:": "4K",
+        "感光元件:": "1/2.5 型 (7.20 mm) 背照式 Exmor R CMOS 感光元件",
+        "變焦能力:": "光學變焦: 20x / 數位變焦: 250x / 清晰影像變焦: 4K：30x，HD：40x"
+    },
+    {
+        "names": "Motorola VERVE CAM+",
+        "rating": "2.0",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "重量:": "61g",
+        "尺寸:": "2.20 x 2.20 x 1.10\""
+    },
+    {
+        "names": "Sony PXW-Z150",
+        "rating": "10",
+        "hon_price_min": "17,980",
+        "hon_price_max": "22,500",
+        "water_price_min": "20,000",
+        "water_price_max": "25,300",
+        "超高清/全高清/高清:": "UHD 4K",
+        "儲存媒體:": "Two SD Memory Card Slots",
+        "重量:": "1.9g",
+        "尺寸:": "171.3 × 187.8 × 371.3 mm"
+    },
+    {
+        "names": "Sony PXW-Z190",
+        "rating": "",
+        "hon_price_min": "26,780",
+        "hon_price_max": "29,300",
+        "water_price_min": "26,300",
+        "water_price_max": "28,900",
+        "超高清/全高清/高清:": "4K",
+        "重量:": "2800g",
+        "尺寸:": "190 x  202.0 x  419.7mm"
+    },
+    {
+        "names": "FIMI PALM Gimbal Camera",
+        "rating": "10",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,830",
+        "water_price_min": "1,180",
+        "water_price_max": "1,280",
+        "重量:": "120g",
+        "尺寸:": "30.5 x 22.7 x 127mm"
+    },
+    {
+        "names": "Insta360 Pro 2 Premium Bundle 豪華套餐",
+        "rating": "",
+        "hon_price_min": "36,000",
+        "hon_price_max": "39,990",
+        "water_price_min": "38,900",
+        "water_price_max": "38,900",
+        "重量:": "1550g",
+        "尺寸:": "φ143mm"
+    },
+    {
+        "names": "ZOHO 隨身迷你攝影機",
+        "rating": "6.0",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "儲存媒體:": "MircoSD",
+        "重量:": "42g"
+    },
+    {
+        "names": "Insta360 Pro 2 Premium Bundle 豪華套餐",
+        "rating": "",
+        "hon_price_min": "36,000",
+        "hon_price_max": "39,990",
+        "water_price_min": "38,900",
+        "water_price_max": "38,900",
+        "重量:": "1550g",
+        "尺寸:": "φ143mm"
+    },
+    {
+        "names": "ZOHO 隨身迷你攝影機",
+        "rating": "6.0",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "儲存媒體:": "MircoSD",
+        "重量:": "42g"
+    },
+    {
+        "names": "Canon 輕巧型廣播級4K攝錄機 XF605",
+        "rating": "",
+        "hon_price_min": "32,600",
+        "hon_price_max": "35,100",
+        "water_price_min": "29,700",
+        "water_price_max": "30,500",
+        "超高清/全高清/高清:": "4K",
+        "有效像素:": "829萬",
+        "變焦能力:": "15倍光學變焦"
+    },
+    {
+        "names": "Canon 4K超高清便攜式攝像機 XA75",
+        "rating": "",
+        "hon_price_min": "21,800",
+        "hon_price_max": "22,800",
+        "water_price_min": "20,300",
+        "water_price_max": "20,800",
+        "超高清/全高清/高清:": "4K UHD (3840 x 2160) 超高清",
+        "儲存媒體:": "SD Card x 2 (25分鐘)",
+        "重量:": "1470g",
+        "尺寸:": "141 x 216 x 265mm"
+    },
+    {
+        "names": "Canon 輕巧型專業級4K攝錄機 XA40",
+        "rating": "",
+        "hon_price_min": "10,500",
+        "hon_price_max": "10,650",
+        "water_price_min": "9,500",
+        "water_price_max": "9,650",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "重量:": "730g",
+        "尺寸:": "109 x 84 x 182mm"
+    },
+    {
+        "names": "Blackmagic Design Studio Camera 4K Pro",
+        "rating": "",
+        "hon_price_min": "15,150",
+        "hon_price_max": "15,150",
+        "water_price_min": "14,000",
+        "water_price_max": "14,000",
+        "超高清/全高清/高清:": "超高清",
+        "感光元件:": "17.78mm x 10mm (Four Thirds)"
+    },
+    {
+        "names": "Sony UHD 4K Handycam 數碼攝影機 FDR-AX43A",
+        "rating": "",
+        "water_price_min": "5,380",
+        "water_price_max": "5,600",
+        "超高清/全高清/高清:": "超高清",
+        "變焦能力:": "光學變焦 20x / 清晰影像變焦 4K：30x，HD：4x / 數位變焦 250x",
+        "儲存媒體:": "XAVC S 4K (100 Mbps)：SDHC 記憶卡 (4 GB 或以上、UHS-I U3 或更高) / SDXC 記憶卡 (UHS-I U3 或更高)、XAVC S 4K (60 Mbps)：SDHC 記憶卡 (4 GB 或以上、Class10 或更高) / SDXC 記憶卡 (Class10 或更高)、XAVC S HD：SDHC 記憶卡 (4GB 或以上、Class10 或更高) / SDXC 記憶卡 (Class10 或更高)、AVCHD、Still：Memory Stick PRO Duo",
+        "重量:": "510g",
+        "尺寸:": "73 x 80.5 x 142.5mm"
+    },
+    {
+        "names": "Sony HXR-NX200",
+        "rating": "",
+        "hon_price_min": "13,240",
+        "hon_price_max": "17,200",
+        "water_price_min": "12,900",
+        "water_price_max": "16,050",
+        "重量:": "2100g",
+        "尺寸:": "171.3 x 187.8 x 371.3mm"
+    },
+    {
+        "names": "Sony FDR-AX700",
+        "rating": "10",
+        "hon_price_min": "10,900",
+        "hon_price_max": "15,000",
+        "water_price_min": "10,150",
+        "water_price_max": "11,800",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick PRO Duo, SD/SDHC/SDXC卡",
+        "相片解像度:": "5024 x 2824",
+        "重量:": "1030g",
+        "尺寸:": "116 x 89.5 x 196.5mm"
+    },
+    {
+        "names": "Sony PXW-Z280",
+        "rating": "",
+        "hon_price_min": "52,340",
+        "hon_price_max": "53,600",
+        "water_price_min": "43,150",
+        "water_price_max": "48,800",
+        "變焦能力:": "17x (optical), servo/manual",
+        "尺寸:": "426.3 x 202 x 178mm"
+    },
+    {
+        "names": "Canon 輕巧型專業級4K數碼攝錄機 XA55",
+        "rating": "",
+        "hon_price_min": "16,500",
+        "hon_price_max": "19,050",
+        "water_price_min": "15,100",
+        "water_price_max": "15,200",
+        "超高清/全高清/高清:": "4K",
+        "變焦能力:": "15x",
+        "儲存媒體:": "支援SD/SDHC/SDXC記憶卡 (不包括)，雙記憶卡槽",
+        "重量:": "970g",
+        "尺寸:": "140 x 216 x 265mm"
+    },
+    {
+        "names": "Sony HDR-CX405",
+        "rating": "8.4",
+        "hon_price_min": "2,670",
+        "hon_price_max": "3,000",
+        "water_price_min": "1,480",
+        "water_price_max": "2,090",
+        "重量:": "215g",
+        "尺寸:": "54.0 × 59.5 × 128.0 mm"
+    },
+    {
+        "names": "Ricoh Theta Z1 51GB",
+        "rating": "",
+        "hon_price_min": "7,900",
+        "hon_price_max": "8,000",
+        "顯示屏:": "0.93吋",
+        "重量:": "182g",
+        "尺寸:": "48 x 132.5 x 29.7mm"
+    },
+    {
+        "names": "ZOOM 4K Video+Audio Recorder Q8n-4K",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,200",
+        "超高清/全高清/高清:": "3840 x 2160 at 24/25/30 fps (H.264/AVC, MPEG-4) 1920 x 1080 at 24/25/30/50/60 fps (MOV via H.264/AVC, MPEG-4) 1280 x 720 at 24/25/30/50/60 fps (MOV via H.264/AVC, MPEG-4)",
+        "儲存媒體:": "microSD/microSDHC/microSDXC",
+        "重量:": "367g",
+        "尺寸:": "68 x 65 x 159 mm (With Lowered Mic Arm)，68 x 135 x 134 mm (With Raised Mic Arm)"
+    },
+    {
+        "names": "Canon 全高清數碼攝錄機 XA15",
+        "rating": "",
+        "water_price_min": "10,200",
+        "water_price_max": "10,380",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "20x Optical / 400x Digital",
+        "儲存媒體:": "SD、SDHC (SD 高容量) 或 SDXC (SD 擴展容量) 記憶卡",
+        "重量:": "750g",
+        "尺寸:": "109 x 84 x 182mm"
+    },
+    {
+        "names": "Philips 飛利浦 Audio & Video Recorder VTR8202",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,150",
+        "顯示屏:": "2吋",
+        "重量:": "124g",
+        "尺寸:": "80 x 53.5 x 25mm"
+    },
+    {
+        "names": "Insta360 Pro 2 The Basics 淨主機 (不含圖傳系統)",
+        "rating": "",
+        "hon_price_min": "29,380",
+        "hon_price_max": "29,880",
+        "water_price_min": "28,000",
+        "water_price_max": "28,500",
+        "重量:": "1550g",
+        "尺寸:": "φ143mm"
+    },
+    {
+        "names": "Panasonic 樂聲 存儲卡攝錄一體機 AG-DVX200",
+        "rating": "",
+        "water_price_min": "18,590",
+        "water_price_max": "18,600",
+        "超高清/全高清/高清:": "1920 x 1080 up to 59.94p",
+        "儲存媒體:": "Dual SDHC/SDXC",
+        "重量:": "2700g",
+        "尺寸:": "180 x 216 x 374mm"
+    },
+    {
+        "names": "Wunder360 V1",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "898"
+    },
+    {
+        "names": "Sony UHD 4K Handycam 數碼攝影機 FDR-AX43A",
+        "rating": "",
+        "water_price_min": "5,380",
+        "water_price_max": "5,600",
+        "超高清/全高清/高清:": "超高清",
+        "變焦能力:": "光學變焦 20x / 清晰影像變焦 4K：30x，HD：4x / 數位變焦 250x",
+        "儲存媒體:": "XAVC S 4K (100 Mbps)：SDHC 記憶卡 (4 GB 或以上、UHS-I U3 或更高) / SDXC 記憶卡 (UHS-I U3 或更高)、XAVC S 4K (60 Mbps)：SDHC 記憶卡 (4 GB 或以上、Class10 或更高) / SDXC 記憶卡 (Class10 或更高)、XAVC S HD：SDHC 記憶卡 (4GB 或以上、Class10 或更高) / SDXC 記憶卡 (Class10 或更高)、AVCHD、Still：Memory Stick PRO Duo",
+        "重量:": "510g",
+        "尺寸:": "73 x 80.5 x 142.5mm"
+    },
+    {
+        "names": "Sony 4K高清數碼攝像機 FDR-AX45",
+        "rating": "",
+        "water_price_min": "5,470",
+        "water_price_max": "7,200",
+        "超高清/全高清/高清:": "4K",
+        "重量:": "510g",
+        "尺寸:": "73 x 80.5 x 173mm"
+    },
+    {
+        "names": "Panasonic 樂聲 Shoulder Mount Camcorder with LCD Touchscreen & LED Light HC-MDH3",
+        "rating": "",
+        "water_price_min": "6,280",
+        "water_price_max": "6,280",
+        "顯示屏:": "3.0吋",
+        "儲存媒體:": "SDHC/SDXC Memory Card",
+        "重量:": "2330g",
+        "尺寸:": "205 x 217 x 494mm"
+    },
+    {
+        "names": "Sony HXR-NX80",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "16,400",
+        "water_price_min": "14,100",
+        "water_price_max": "14,500",
+        "重量:": "1320g",
+        "尺寸:": "121 x 104 x 274.5mm"
+    },
+    {
+        "names": "ZETTA 1080P Camcorder Z86",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "超高清/全高清/高清:": "全高清",
+        "尺寸:": "9.7 x 3.7 x 2.5cm"
+    },
+    {
+        "names": "Kandao Qoocam 4K 360 全境3D相機",
+        "rating": "",
+        "hon_price_min": "3,079",
+        "hon_price_max": "3,079",
+        "超高清/全高清/高清:": "4320 x 2160",
+        "重量:": "170g",
+        "尺寸:": "30.5 x 25 x 198.5mm"
+    },
+    {
+        "names": "Brinno BCC2000 專業版工程用縮時相機",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "MicroSD",
+        "重量:": "750g"
+    },
+    {
+        "names": "Sony Shoulder Camcorders PXW-X320",
+        "rating": "",
+        "water_price_min": "45,000",
+        "water_price_max": "45,000",
+        "顯示屏:": "3.5吋",
+        "儲存媒體:": "SxS card",
+        "重量:": "3.4g",
+        "尺寸:": "124 x 269 x 332 mm"
+    },
+    {
+        "names": "Ricoh Theta Z1 360° 相機",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "8,000",
+        "有效像素:": "2000萬",
+        "尺寸:": "48 x 132.5 x 29.7mm"
+    },
+    {
+        "names": "ZOOM Q8",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,200",
+        "water_price_min": "2,300",
+        "water_price_max": "2,600",
+        "感光元件:": "1/3-inch 3-megapixels CMOS sensor",
+        "重量:": "300g",
+        "尺寸:": "158mm (L) x 48mm (W) x 119mm (H)"
+    },
+    {
+        "names": "Canon 輕巧型專業級4K攝錄機 XA60",
+        "rating": "",
+        "hon_price_min": "13,100",
+        "hon_price_max": "13,300",
+        "water_price_min": "11,980",
+        "water_price_max": "13,000",
+        "超高清/全高清/高清:": "超高清",
+        "變焦能力:": "20x (29.3mm-601mm)-4K 超高清, (30.5mm-627mm)-只適用於高清",
+        "儲存媒體:": "SD/SDHC/SDXC (UHS-I)",
+        "尺寸:": "130 x 180 x 231mm"
+    },
+    {
+        "names": "Insta360 Pro",
+        "rating": "",
+        "hon_price_min": "14,950",
+        "hon_price_max": "29,200",
+        "超高清/全高清/高清:": "7680x3840@30fps (8K)",
+        "相片解像度:": "7680 x 3840 (8K)",
+        "重量:": "1228g",
+        "尺寸:": "143mm"
+    },
+    {
+        "names": "RED KOMODO 6K Digital Cinema Camera",
+        "rating": "10",
+        "hon_price_min": "50,800",
+        "hon_price_max": "54,800",
+        "超高清/全高清/高清:": "6K"
+    },
+    {
+        "names": "Mevo Start The All-in-One Wireless Live Streaming Camera and Webcam",
+        "rating": "",
+        "hon_price_min": "4,599",
+        "hon_price_max": "4,599"
+    },
+    {
+        "names": "Canon 輕巧型廣播級4K攝錄機 XF605",
+        "rating": "",
+        "hon_price_min": "32,600",
+        "hon_price_max": "35,100",
+        "water_price_min": "29,700",
+        "water_price_max": "30,500",
+        "超高清/全高清/高清:": "4K",
+        "有效像素:": "829萬",
+        "變焦能力:": "15倍光學變焦"
+    },
+    {
+        "names": "Canon 旗艦級4K專業攝錄機 XF705",
+        "rating": "",
+        "water_price_min": "37,000",
+        "water_price_max": "37,500",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "SD 卡 x 2",
+        "重量:": "3100g",
+        "尺寸:": "191 x 258 x 433mm"
+    },
+    {
+        "names": "Insta360 EVO 折疊式全景裸眼3D相機",
+        "rating": "",
+        "hon_price_min": "2,730",
+        "hon_price_max": "2,738",
+        "超高清/全高清/高清:": "5.7K",
+        "相片解像度:": "6080 x 3040",
+        "重量:": "113g",
+        "尺寸:": "展開:98.4 x 49 x 26.27mm;折疊:50.3 x 49 x 52.54mm"
+    },
+    {
+        "names": "SJCAM SJ360+",
+        "rating": "",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,150",
+        "water_price_min": "800",
+        "water_price_max": "880",
+        "超高清/全高清/高清:": "1080P@30FPS",
+        "重量:": "87gg",
+        "尺寸:": "110 x 40 x 28mm"
+    },
+    {
+        "names": "Z Cam 4K Cinema Camera E2",
+        "rating": "10",
+        "hon_price_min": "14,930",
+        "hon_price_max": "14,930",
+        "water_price_min": "13,580",
+        "water_price_max": "13,580",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "CFAST 2.0",
+        "重量:": "757g",
+        "尺寸:": "91.2 x 99.2 x 89.1mm"
+    },
+    {
+        "names": "Kandao Obsidian R 8K 專業3D 360度VR相機 (C02354)",
+        "rating": "",
+        "hon_price_min": "32,799",
+        "hon_price_max": "32,799",
+        "超高清/全高清/高清:": "8K",
+        "重量:": "1100g",
+        "尺寸:": "145 x 93mm"
+    },
+    {
+        "names": "Panasonic 樂聲 4K Camcorder AG-CX350",
+        "rating": "",
+        "water_price_min": "20,100",
+        "water_price_max": "21,300",
+        "超高清/全高清/高清:": "4K",
+        "重量:": "1900g",
+        "尺寸:": "180 x 173 x 311mm"
+    },
+    {
+        "names": "Sony PXW-FS7 II",
+        "rating": "10",
+        "hon_price_min": "62,000",
+        "hon_price_max": "62,300",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "XQD Memory Card",
+        "重量:": "2000g"
+    },
+    {
+        "names": "Sony Handheld Camcoder PXW-FS7M2K",
+        "rating": "",
+        "hon_price_min": "82,000",
+        "hon_price_max": "83,100",
+        "儲存媒體:": "XQD Card, SD Card",
+        "尺寸:": "158.9 x 245.2 x 247mm"
+    },
+    {
+        "names": "PowerVision PowerRay Wizard 小海鳐 水下潛拍機",
+        "rating": "6.0",
+        "hon_price_min": "10,500",
+        "hon_price_max": "10,500",
+        "water_price_min": "9,800",
+        "water_price_max": "9,800",
+        "有效像素:": "1240萬",
+        "尺寸:": "465 x 270 x 126mm"
+    },
+    {
+        "names": "Sony FDR-X3000",
+        "rating": "10",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,480",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "CMOS",
+        "重量:": "114g",
+        "尺寸:": "29.4 x 47.0 x 83.0mm"
+    },
+    {
+        "names": "Brinno Time Lapse Camera with Mount Kit BBT2000",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,380",
+        "顯示屏:": "2吋",
+        "尺寸:": "60 x 70.6 x 46.6mm"
+    },
+    {
+        "names": "Sony FDR-AXP55",
+        "rating": "9.5",
+        "water_price_min": "8,600",
+        "water_price_max": "8,600",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "約 16.6 百萬像素",
+        "重量:": "約 565g",
+        "尺寸:": "約 77mm x 80.5mm x 161mm"
+    },
+    {
+        "names": "altek Cubic Hello Kitty Cubic Live Camera 智慧型無線直播相機",
+        "rating": "",
+        "water_price_min": "520",
+        "water_price_max": "520",
+        "超高清/全高清/高清:": "Full HD video 1080p/30fps in MP4",
+        "相片解像度:": "4592 x 3456",
+        "重量:": "83g",
+        "尺寸:": "47.6 x 48.4 x 25.8mm"
+    },
+    {
+        "names": "SJCAM M10+ Wifi",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "718",
+        "water_price_min": "520",
+        "water_price_max": "530",
+        "超高清/全高清/高清:": "2K 2560*1440 30fps",
+        "相片解像度:": "4032*3024",
+        "重量:": "58g with batteriesg",
+        "尺寸:": "29.8x59.2x41mm"
+    },
+    {
+        "names": "RED DSMC2 DRAGON-X Camera Kit",
+        "rating": "10",
+        "hon_price_min": "180,300",
+        "hon_price_max": "180,300",
+        "感光元件:": "DRAGON-X 19.4 MP Super 35mm CMOS"
+    },
+    {
+        "names": "Blackmagic Design Studio Camera 2",
+        "rating": "",
+        "hon_price_min": "12,650",
+        "hon_price_max": "12,650",
+        "water_price_min": "11,500",
+        "water_price_max": "11,500"
+    },
+    {
+        "names": "Camsoy Cookycam C1",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "超高清/全高清/高清:": "高清"
+    },
+    {
+        "names": "Brinno 專業版建築工程縮時相機套組 BCC2000Plus",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "5,900",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "MicroSD"
+    },
+    {
+        "names": "Ricoh Theta m15 (Limited Edition)",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,550",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "儲存媒體:": "Internal: approx. 4GB",
+        "尺寸:": "42 x 129 x 22.8mm"
+    },
+    {
+        "names": "Canon XF405",
+        "rating": "",
+        "hon_price_min": "18,500",
+        "hon_price_max": "19,200",
+        "water_price_min": "15,800",
+        "water_price_max": "15,800",
+        "有效像素:": "829萬",
+        "重量:": "1150g"
+    },
+    {
+        "names": "Sony HXR-NX3",
+        "rating": "",
+        "water_price_min": "19,600",
+        "water_price_max": "19,600",
+        "超高清/全高清/高清:": "全高清",
+        "尺寸:": "174.5 x 193 x 393 mm"
+    },
+    {
+        "names": "SJCAM FUNCAM 迷你兒童相機",
+        "rating": "",
+        "water_price_min": "170",
+        "water_price_max": "170",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Micro SD"
+    },
+    {
+        "names": "Canon XA11",
+        "rating": "",
+        "hon_price_min": "8,380",
+        "hon_price_max": "8,380",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "支援SD/SDHC/SDXC記憶卡",
+        "重量:": "745g",
+        "尺寸:": "131 x 180 x 231毫米(包括遮光罩、麥克風支架、手柄)"
+    },
+    {
+        "names": "Canon XF400",
+        "rating": "",
+        "hon_price_min": "17,800",
+        "hon_price_max": "17,980",
+        "water_price_min": "14,200",
+        "water_price_max": "15,100",
+        "有效像素:": "156萬",
+        "變焦能力:": "30倍Advanced Zoom (高清攝錄模式)",
+        "儲存媒體:": "雙SD記憶卡插槽，支援同步攝錄及交替攝錄"
+    },
+    {
+        "names": "Insta360 Pro 2",
+        "rating": "",
+        "hon_price_min": "33,118",
+        "hon_price_max": "37,999",
+        "重量:": "1550g",
+        "尺寸:": "φ143mm"
+    },
+    {
+        "names": "MicroLED MH-F5003A-1",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "245",
+        "超高清/全高清/高清:": "高清",
+        "相片解像度:": "1280 x 720",
+        "重量:": "300g",
+        "尺寸:": "103 x 110 x 112mm"
+    },
+    {
+        "names": "MIT Cam one",
+        "rating": "",
+        "hon_price_min": "940",
+        "hon_price_max": "980",
+        "超高清/全高清/高清:": "Multiple video recording formats: 1080P, 720P, WVGA.",
+        "有效像素:": "1080萬"
+    },
+    {
+        "names": "Panasonic 樂聲 Lightweight 4K 60p Professional Camcorder HC-X2000",
+        "rating": "",
+        "water_price_min": "14,300",
+        "water_price_max": "14,500",
+        "超高清/全高清/高清:": "4K",
+        "尺寸:": "159 x 257 x 129mm"
+    },
+    {
+        "names": "RED V-Raptor 8K Digital Cinema",
+        "rating": "10",
+        "hon_price_min": "196,000",
+        "hon_price_max": "196,000",
+        "超高清/全高清/高清:": "8K",
+        "儲存媒體:": "CFexpress Type B (CFast 2.0)",
+        "重量:": "1800g",
+        "尺寸:": "155.5 x 108 x 108mm"
+    },
+    {
+        "names": "ZETTA 1080P Camcorder Z82",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "超高清/全高清/高清:": "全高清",
+        "尺寸:": "9 x 5.8 x 2.8cm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-PV100",
+        "rating": "",
+        "water_price_min": "6,000",
+        "water_price_max": "6,000",
+        "有效像素:": "603萬",
+        "重量:": "1500g",
+        "尺寸:": "170 x 170 x 335mm"
+    },
+    {
+        "names": "Brinno BCC200",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "有效像素:": "1300萬",
+        "重量:": "(不含電池) 140g",
+        "尺寸:": "64 x 46 x 106mm"
+    },
+    {
+        "names": "Ricoh Theta S",
+        "rating": "9.7",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,390",
+        "water_price_min": "2,218",
+        "water_price_max": "2,218",
+        "有效像素:": "1200萬",
+        "重量:": "125g",
+        "尺寸:": "44 x 130 x 22.9mm"
+    },
+    {
+        "names": "HP DSJ-A7",
+        "rating": "",
+        "water_price_min": "1,340",
+        "water_price_max": "1,380",
+        "有效像素:": "3400萬",
+        "尺寸:": "85 x 62 x 31mm"
+    },
+    {
+        "names": "Blackmagic Design Micro Studio Camera 4K",
+        "rating": "",
+        "hon_price_min": "10,950",
+        "hon_price_max": "10,950"
+    },
+    {
+        "names": "Panasonic 樂聲 Memory Card Camera Recorder AG-CX10",
+        "rating": "",
+        "hon_price_min": "19,500",
+        "hon_price_max": "19,500",
+        "water_price_min": "15,700",
+        "water_price_max": "15,980",
+        "顯示屏:": "3.5吋",
+        "變焦能力:": "24"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-HNC600HM",
+        "rating": "",
+        "hon_price_min": "364",
+        "hon_price_max": "835",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "MicroSD",
+        "重量:": "305g",
+        "尺寸:": "75mm x 75mm x 173mm"
+    },
+    {
+        "names": "Sony PXW-FS5M2",
+        "rating": "",
+        "hon_price_min": "31,950",
+        "hon_price_max": "31,950",
+        "重量:": "830g",
+        "尺寸:": "111.3 x 128.7 x 172.4mm"
+    },
+    {
+        "names": "Blackmagic Design URSA Mini 4.6K EF",
+        "rating": "",
+        "hon_price_min": "41,800",
+        "hon_price_max": "41,800",
+        "相片解像度:": "4608 x 2592"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SD9",
+        "rating": "7.5",
+        "water_price_min": "3,278",
+        "water_price_max": "3,278",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "275g",
+        "尺寸:": "65 x 67 126mm"
+    },
+    {
+        "names": "Sony FDR-AX53",
+        "rating": "",
+        "water_price_min": "6,580",
+        "water_price_max": "6,980",
+        "有效像素:": "830萬"
+    },
+    {
+        "names": "Blackmagic Design URSA Mini Pro 4.6K G2 專業攝影機",
+        "rating": "",
+        "hon_price_min": "50,550",
+        "hon_price_max": "50,550",
+        "water_price_min": "42,400",
+        "water_price_max": "42,400",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "CFast, SD"
+    },
+    {
+        "names": "Panasonic 樂聲 microP2 AVC-ULTRA Handheld Camcorder AJ-PX270PJ",
+        "rating": "",
+        "water_price_min": "25,880",
+        "water_price_max": "26,200",
+        "重量:": "2200g",
+        "尺寸:": "176 x 171 x 329mm"
+    },
+    {
+        "names": "Ricoh Theta m15",
+        "rating": "9.7",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "儲存媒體:": "Internal: approx. 4GB",
+        "尺寸:": "42 x 129 x 22.8mm"
+    },
+    {
+        "names": "Ricoh Theta Z1 51GB",
+        "rating": "",
+        "hon_price_min": "7,900",
+        "hon_price_max": "8,000",
+        "顯示屏:": "0.93吋",
+        "重量:": "182g",
+        "尺寸:": "48 x 132.5 x 29.7mm"
+    },
+    {
+        "names": "Sony PXW-X70",
+        "rating": "9.5",
+        "hon_price_min": "14,550",
+        "hon_price_max": "14,550",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Pro Duo™ and SD/SDHC/SDXC compatible x1, SD/SDHC/SDXC x1",
+        "重量:": "900g",
+        "尺寸:": "120.7 x 103.5 x 274.3 mm"
+    },
+    {
+        "names": "ZOOM Q4 Handy Video Recorder",
+        "rating": "8.0",
+        "hon_price_min": "2,390",
+        "hon_price_max": "2,390",
+        "儲存媒體:": "SD/SDHC/SDXC cards (up to 128 GB)"
+    },
+    {
+        "names": "SJCAM SJ9 Max",
+        "rating": "",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "顯示屏:": "2.33吋",
+        "儲存媒體:": "128",
+        "相片解像度:": "12M (4032 x 3024 4:3)"
+    },
+    {
+        "names": "Motorola VerveCam+",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "880",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "儲存媒體:": "MicroSD",
+        "尺寸:": "2.2 x 2.2 x 1.1\""
+    },
+    {
+        "names": "Brinno 縮時攝影相機 TLC2020",
+        "rating": "10",
+        "hon_price_min": "2,900",
+        "hon_price_max": "2,900",
+        "顯示屏:": "2吋",
+        "重量:": "97.5g",
+        "尺寸:": "60 x 70.6 x 46.6mm"
+    },
+    {
+        "names": "Sony HDR-PJ410E",
+        "rating": "",
+        "water_price_min": "2,650",
+        "water_price_max": "2,650",
+        "有效像素:": "2290萬",
+        "重量:": "235g",
+        "尺寸:": "59.0 × 59.5 × 128.0 mm"
+    },
+    {
+        "names": "Transcend DrivePro Body 20",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,250",
+        "儲存媒體:": "內建32GB容量 .MOV (H.264影像壓縮技術)",
+        "尺寸:": "88.4 x 52.2 x 19.4mm"
+    },
+    {
+        "names": "Xiaomi 小米 米家全景相機套裝",
+        "rating": "10",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,950",
+        "water_price_min": "890",
+        "water_price_max": "1,700",
+        "儲存媒體:": "Micro SD卡，規格為Class 10 及以上，最大支持 128GB",
+        "重量:": "108.3g",
+        "尺寸:": "78 x 67.4 x 24mm"
+    },
+    {
+        "names": "Weeview SID 3D Camera",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "8064 x 4032",
+        "尺寸:": "40 x 80 x 35mm"
+    },
+    {
+        "names": "Ricoh Theta V",
+        "rating": "10",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,300",
+        "有效像素:": "1200萬",
+        "重量:": "121g",
+        "尺寸:": "45.2 x 130.6 x 22.9mm"
+    },
+    {
+        "names": "Sony FDR-X3000R",
+        "rating": "9.0",
+        "hon_price_min": "2,380",
+        "hon_price_max": "4,280",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Micro and Micro SD/SDHC/SDXC compatible",
+        "重量:": "114g",
+        "尺寸:": "29.4 × 47 × 83mm"
+    },
+    {
+        "names": "SJCAM M20",
+        "rating": "10",
+        "hon_price_min": "710",
+        "hon_price_max": "850",
+        "water_price_min": "499",
+        "water_price_max": "600",
+        "超高清/全高清/高清:": "2880*2160 24fps / 1080*1920 60fps / 1080*1920 30fps  ",
+        "相片解像度:": "2880*2160 / 2560*1440 / 1080*1920",
+        "尺寸:": "40 x 54 x 23.65mm"
+    },
+    {
+        "names": "Canon 輕巧型專業級4K數碼攝錄機 XA50",
+        "rating": "",
+        "hon_price_min": "14,400",
+        "hon_price_max": "14,600",
+        "water_price_min": "12,400",
+        "water_price_max": "13,200",
+        "有效像素:": "829萬",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "1435g",
+        "尺寸:": "140 x 216 x 265mm"
+    },
+    {
+        "names": "Wunder360 S1",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999"
+    },
+    {
+        "names": "HP DSJ-H6",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "2,270",
+        "相片解像度:": "24MP",
+        "尺寸:": "80 x 57 x 30mm"
+    },
+    {
+        "names": "Samsung 三星 SMX-K44",
+        "rating": "",
+        "water_price_min": "2,980",
+        "water_price_max": "2,980",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "16GB SSD + SD/SDHC",
+        "相片解像度:": "1600 x 1200",
+        "重量:": "230g",
+        "尺寸:": "59.8 x 65.6 x 122.2mm"
+    },
+    {
+        "names": "Ordro 歐達 HDV-Z20",
+        "rating": "10",
+        "hon_price_min": "1,138",
+        "hon_price_max": "1,138",
+        "water_price_min": "938",
+        "water_price_max": "938",
+        "超高清/全高清/高清:": "全高清 1080P",
+        "儲存媒體:": "SD",
+        "相片解像度:": "5600x4200",
+        "重量:": "320g",
+        "尺寸:": "125.5 x 57.3 x 61mm"
+    },
+    {
+        "names": "Xiaomi 小米 米家小默相機",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "water_price_min": "340",
+        "water_price_max": "340",
+        "有效像素:": "1300萬",
+        "重量:": "65g",
+        "尺寸:": "47 x 47 x 27mm"
+    },
+    {
+        "names": "Canon EOS C500 Mark II 專業級可換鏡5.9K全片幅攝錄機  (EF Mount)",
+        "rating": "",
+        "hon_price_min": "116,800",
+        "hon_price_max": "116,800",
+        "water_price_min": "88,800",
+        "water_price_max": "89,000",
+        "顯示屏:": "4.3吋",
+        "儲存媒體:": "CFExpress (B 類型) (雙槽) SD 卡",
+        "重量:": "1735g",
+        "尺寸:": "153 x 148 x 168mm"
+    },
+    {
+        "names": "Samurai  Ninja 1",
+        "rating": "6.0",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,288",
+        "超高清/全高清/高清:": "4K",
+        "變焦能力:": "170 wide angel"
+    },
+    {
+        "names": "Sony 4K數碼攝像機 FDR-AX60",
+        "rating": "",
+        "water_price_min": "8,060",
+        "water_price_max": "8,200",
+        "超高清/全高清/高清:": "4K",
+        "感光元件:": "1/2.5型 Exmor R CMOS",
+        "尺寸:": "73 x 80.5 x 173mm"
+    },
+    {
+        "names": "Canon Professional UHD 4K Camcorder XA45",
+        "rating": "",
+        "water_price_min": "11,770",
+        "water_price_max": "11,900",
+        "超高清/全高清/高清:": "4K",
+        "變焦能力:": "20x Optical / 400x Digital",
+        "儲存媒體:": "2 SD/SDHC/SDXC memory card slots",
+        "重量:": "740g",
+        "尺寸:": "115 x 84 x 231mm"
+    },
+    {
+        "names": "Blackmagic Design URSA Mini 4K",
+        "rating": "",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "2 x CFast 2.0"
+    },
+    {
+        "names": "Canon Cinema EOS C300 PL Mount",
+        "rating": "",
+        "water_price_min": "43,800",
+        "water_price_max": "43,800",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "CF Type 1/SD/SDHC",
+        "重量:": "1630g",
+        "尺寸:": "133 x 179 x 177 mm"
+    },
+    {
+        "names": "Transcend DrivePro Body 30 64GB with WiFi",
+        "rating": "",
+        "hon_price_min": "1,898",
+        "hon_price_max": "1,919",
+        "超高清/全高清/高清:": "1080p"
+    },
+    {
+        "names": "Blackmagic Design URSA EF/PL",
+        "rating": "10"
+    },
+    {
+        "names": "JVC GZ-R50",
+        "rating": "",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880",
+        "超高清/全高清/高清:": "KONICA MINOLTA高清鏡頭",
+        "儲存媒體:": "記憶咭插槽支援SDXC/SDHC/SD (不提供)",
+        "相片解像度:": "3840x2160 (高解像度) / 1920x1080",
+        "重量:": "連電池 290g",
+        "尺寸:": "闊53.5 x 高59.5 x 深116.5毫米"
+    },
+    {
+        "names": "Sony HDR-TD20VE",
+        "rating": "9.0",
+        "hon_price_min": "13,700",
+        "hon_price_max": "13,700",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "快閃記憶體64GB",
+        "相片解像度:": "6016x3384",
+        "重量:": "460g",
+        "尺寸:": "130.5 x 63.5 x 71.5mm"
+    },
+    {
+        "names": "Sony HDR-XR100E",
+        "rating": "9.0",
+        "water_price_min": "4,598",
+        "water_price_max": "4,598",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "80GB硬碟",
+        "相片解像度:": "400萬",
+        "重量:": "330g",
+        "尺寸:": "69 x 68 x 184mm"
+    },
+    {
+        "names": "Canon EOS C200",
+        "rating": "",
+        "hon_price_min": "49,500",
+        "hon_price_max": "49,500",
+        "water_price_min": "27,000",
+        "water_price_max": "32,000",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "3840 x 2160",
+        "重量:": "1430g",
+        "尺寸:": "144 x 153 x 179mm"
+    },
+    {
+        "names": "Ricoh THETA",
+        "rating": "",
+        "hon_price_min": "2,730",
+        "hon_price_max": "2,730",
+        "儲存媒體:": "Internal, approximately 4GB",
+        "尺寸:": "42 x 129 x 22.8mm"
+    },
+    {
+        "names": "Sony HDR-AS200VR",
+        "rating": "9.3",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Micro/Micro SD/SDHC/SDXC",
+        "重量:": "68g",
+        "尺寸:": "24.2 x 46.5 x 81.5 mm"
+    },
+    {
+        "names": "Z Cam Super 35mm 6K Cinema Camera E2-S6",
+        "rating": "",
+        "hon_price_min": "19,700",
+        "hon_price_max": "19,700",
+        "有效像素:": "2600萬",
+        "儲存媒體:": "CFAST 2.0",
+        "尺寸:": "91.2 x 99.2 x 99.1mm"
+    },
+    {
+        "names": "Sony HDR-AZ1",
+        "rating": "7.0",
+        "hon_price_min": "1,686",
+        "hon_price_max": "1,686",
+        "超高清/全高清/高清:": "1080",
+        "相片解像度:": "1200",
+        "重量:": "63g"
+    },
+    {
+        "names": "Weeview SID 3D 三軸穩定器套裝",
+        "rating": "",
+        "hon_price_min": "2,780",
+        "hon_price_max": "2,780",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "8064 x 4032",
+        "尺寸:": "80 x 40 x 19.5mm"
+    },
+    {
+        "names": "JVC GZ-R428",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,880",
+        "變焦能力:": "40倍光學",
+        "儲存媒體:": "SD卡"
+    },
+    {
+        "names": "RED DSMC2 Gemini S35 5K Camera Kit",
+        "rating": "",
+        "hon_price_min": "219,400",
+        "hon_price_max": "219,400",
+        "感光元件:": "GEMINI 15.4 Megapixel Dual Sensitivity CMOS"
+    },
+    {
+        "names": "DXG DVX5F9",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "2M、5M、16M",
+        "重量:": "232g",
+        "尺寸:": "43(W) x 68(H) x 135(D)mm"
+    },
+    {
+        "names": "Sony Super35 Handheld Camcorder PXW-FS5M2K",
+        "rating": "",
+        "hon_price_min": "35,300",
+        "hon_price_max": "35,480",
+        "儲存媒體:": "MS/SD",
+        "尺寸:": "111.3 x 128.7 x 172.4mm"
+    },
+    {
+        "names": "Canon LEGRIA FS406",
+        "rating": "",
+        "hon_price_min": "2,700",
+        "hon_price_max": "2,700",
+        "超高清/全高清/高清:": "標清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "相片解像度:": "53萬像素",
+        "重量:": "220g",
+        "尺寸:": "53 x 59 x 122mm"
+    },
+    {
+        "names": "Canon EOS C100 Mark II 淨機身",
+        "rating": "",
+        "hon_price_min": "20,200",
+        "hon_price_max": "20,300",
+        "water_price_min": "12,950",
+        "water_price_max": "16,600",
+        "有效像素:": "829萬",
+        "重量:": "1142g"
+    },
+    {
+        "names": "Panasonic 樂聲 存儲卡攝錄一體機 AG-UX90",
+        "rating": "",
+        "water_price_min": "10,100",
+        "water_price_max": "10,280",
+        "儲存媒體:": "SDHC",
+        "尺寸:": "169 x 195 x 382mm"
+    },
+    {
+        "names": "Sony HDR-AS200VB",
+        "rating": "",
+        "hon_price_min": "1,660",
+        "hon_price_max": "1,660",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "68g",
+        "尺寸:": "約24.2毫米x 46.5毫米x 81.5毫米"
+    },
+    {
+        "names": "Ricoh Theta SC",
+        "rating": "10",
+        "hon_price_min": "1,470",
+        "hon_price_max": "1,470",
+        "有效像素:": "1200萬",
+        "尺寸:": "45.2 x 130.6 x 22.9mm"
+    },
+    {
+        "names": "Transcend DrivePro Body 60 64GB with WiFi GPS",
+        "rating": "",
+        "hon_price_min": "2,790",
+        "hon_price_max": "2,799",
+        "超高清/全高清/高清:": "1080p"
+    },
+    {
+        "names": "Panasonic 樂聲 Professional Camcorder HDC-MDH3",
+        "rating": "",
+        "water_price_min": "5,280",
+        "water_price_max": "5,350",
+        "超高清/全高清/高清:": "1920 x 1080 up to 59.94p",
+        "儲存媒體:": "SDHC/SDXC Memory Card",
+        "重量:": "4105g",
+        "尺寸:": "22.3 x 13.2 x 12.3\""
+    },
+    {
+        "names": "ZOOM Q4n",
+        "rating": "",
+        "hon_price_min": "2,390",
+        "hon_price_max": "2,390",
+        "儲存媒體:": "SDHC/SDXC Cards"
+    },
+    {
+        "names": "Sony HDR-XR350",
+        "rating": "9.0",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "12倍光學",
+        "儲存媒體:": "MS Pro Duo + 160GB硬碟",
+        "相片解像度:": "3072 x 2304"
+    },
+    {
+        "names": "Blackmagic Design BMCC 4K",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "Removable 2.5” SSD"
+    },
+    {
+        "names": "Sony HDR-AS15",
+        "rating": "9.1",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "65g",
+        "尺寸:": "24.5 x 47 x 82 mm"
+    },
+    {
+        "names": "Blackmagic Design URSA Mini Pro 12K Advanced Digital Film Camera",
+        "rating": "",
+        "hon_price_min": "50,550",
+        "hon_price_max": "84,300",
+        "顯示屏:": "4吋",
+        "儲存媒體:": "2 x CFast 2.0 card slots, 2 x SD UHS-II card slots, 1 x USB-C 3.1 Gen 2 expansion port with power delivery for recording to external media."
+    },
+    {
+        "names": "Fujitsu Live! 360Camera NX600",
+        "rating": "6.0",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "儲存媒體:": "最大支援128GB Micro SD Card"
+    },
+    {
+        "names": "Sony Full Frame Camcorder PXW-FX9",
+        "rating": "",
+        "hon_price_min": "79,100",
+        "hon_price_max": "86,500",
+        "water_price_min": "78,100",
+        "water_price_max": "78,380",
+        "重量:": "2000g",
+        "尺寸:": "146 x 142.5 x 229mm"
+    },
+    {
+        "names": "Panoview PDV3600",
+        "rating": "2.0",
+        "hon_price_min": "770",
+        "hon_price_max": "855",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "4.5M x2",
+        "重量:": "186g",
+        "尺寸:": "69*68*48"
+    },
+    {
+        "names": "ZETTA Z18",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "超高清/全高清/高清:": "高清",
+        "尺寸:": "25 x 25 x 40mm"
+    },
+    {
+        "names": "Attez ZN62",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "700",
+        "超高清/全高清/高清:": "高清",
+        "重量:": "118g",
+        "尺寸:": "58mm x75mm x 30mm"
+    },
+    {
+        "names": "Canon EOS C300 Mark III",
+        "rating": "",
+        "hon_price_min": "86,480",
+        "hon_price_max": "86,480",
+        "water_price_min": "70,900",
+        "water_price_max": "72,000",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "CFexpress 2.0 記憶卡, SD記憶卡",
+        "重量:": "1750g",
+        "尺寸:": "153 x 148 x 168mm"
+    },
+    {
+        "names": "Huawei Envizion 360",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "898",
+        "有效像素:": "1300萬",
+        "重量:": "30g"
+    },
+    {
+        "names": "Sanyo 三洋 Xacti VPC-HD1000",
+        "rating": "",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC",
+        "重量:": "268g",
+        "尺寸:": "90 x 54.5 x 112.6mm"
+    },
+    {
+        "names": "Canon LEGRIA HF21",
+        "rating": "7.2",
+        "water_price_min": "7,738",
+        "water_price_max": "7,738",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC + 64GB 內置記憶體",
+        "相片解像度:": "331萬像素",
+        "重量:": "340g",
+        "尺寸:": "70 x 62 x 124mm"
+    },
+    {
+        "names": "Sony HDR-PJ790VE",
+        "rating": "8.0",
+        "water_price_min": "7,650",
+        "water_price_max": "7,650",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "3984x2240",
+        "重量:": "570g",
+        "尺寸:": "74.2 x 84.6 x 137.5mm"
+    },
+    {
+        "names": "暴風魔鏡 暴風魔眼720度全景摄像機",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,269"
+    },
+    {
+        "names": "Sony PXW-FS7",
+        "rating": "10",
+        "hon_price_min": "58,500",
+        "hon_price_max": "58,500",
+        "超高清/全高清/高清:": "4K",
+        "感光元件:": "super35",
+        "儲存媒體:": "XQD"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SD80",
+        "rating": "10",
+        "hon_price_min": "5,280",
+        "hon_price_max": "5,280",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "192g",
+        "尺寸:": "51.5〔闊〕x 59〔高〕x 109〔深〕mm"
+    },
+    {
+        "names": "ZETTA Z12",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "有效像素:": "30萬",
+        "重量:": "100g",
+        "尺寸:": "76x43x19mm"
+    },
+    {
+        "names": "Philips 飛利浦 Audio & Video Recorder VTR8201",
+        "rating": "",
+        "顯示屏:": "2.0吋",
+        "有效像素:": "3800萬"
+    },
+    {
+        "names": "SJCAM M10 WiFi",
+        "rating": "6.0",
+        "hon_price_min": "510",
+        "hon_price_max": "550",
+        "water_price_min": "350",
+        "water_price_max": "358",
+        "超高清/全高清/高清:": "1080P FULL HD",
+        "相片解像度:": "12M",
+        "重量:": "64g with batteriesg",
+        "尺寸:": "43.1x44.3x48.2 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 AU-EVA1",
+        "rating": "",
+        "water_price_min": "29,500",
+        "water_price_max": "30,100",
+        "有效像素:": "1725萬",
+        "重量:": "1200g"
+    },
+    {
+        "names": "HP LC100W",
+        "rating": "8.0",
+        "hon_price_min": "610",
+        "hon_price_max": "700",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "超高清/全高清/高清:": "1920x1080@30 fps",
+        "重量:": "36g(without memory card)g",
+        "尺寸:": "38.5x50.3x20.4 mm"
+    },
+    {
+        "names": "Kandao QooCam 360 & 3D Camera",
+        "rating": "",
+        "hon_price_min": "2,449",
+        "hon_price_max": "2,780",
+        "超高清/全高清/高清:": "4K",
+        "重量:": "180g",
+        "尺寸:": "30.5 x 25 x 198.5mm"
+    },
+    {
+        "names": "Ricoh Theta SC2",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,280",
+        "water_price_max": "2,280",
+        "重量:": "104g"
+    },
+    {
+        "names": "Sony HDR-PJ440",
+        "rating": "8.4",
+        "water_price_min": "2,500",
+        "water_price_max": "2,500",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Micro/Micro SD/SDHC/SDXC",
+        "重量:": "210g",
+        "尺寸:": "59 x 59.5 x 128mm"
+    },
+    {
+        "names": "Sony PXW-FS5",
+        "rating": "10",
+        "hon_price_min": "34,550",
+        "hon_price_max": "34,550",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "3840 x 2160",
+        "重量:": "827.8g",
+        "尺寸:": "4.50 x 5.13 x 6.88\" / 11.43 x 13.02 x 17.46 cm"
+    },
+    {
+        "names": "Blackmagic Design Studio Camera",
+        "rating": "",
+        "超高清/全高清/高清:": "2.5K",
+        "相片解像度:": "UHD 3840x2160"
+    },
+    {
+        "names": "Canon XF105",
+        "rating": "8.0",
+        "water_price_min": "16,400",
+        "water_price_max": "16,400",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "CF Type 1/SD/SDHC/SDXC",
+        "重量:": "1070g",
+        "尺寸:": "139 x 191 x 268 mm"
+    },
+    {
+        "names": "Canon EOS C100 Mark II",
+        "rating": "",
+        "hon_price_min": "20,200",
+        "hon_price_max": "20,300",
+        "water_price_min": "14,500",
+        "water_price_max": "17,100",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "1142g",
+        "尺寸:": "188 x 280 x 334 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V770",
+        "rating": "10",
+        "water_price_min": "3,600",
+        "water_price_max": "3,600",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "353g",
+        "尺寸:": "65 x 73 x 139 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 4K Professional Camcorder HC-X1500",
+        "rating": "",
+        "water_price_min": "10,750",
+        "water_price_max": "10,800",
+        "超高清/全高清/高清:": "4K",
+        "尺寸:": "93 x 257 x 129mm"
+    },
+    {
+        "names": "ZETTA ZIR32",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "超高清/全高清/高清:": "高清",
+        "相片解像度:": "1280x720",
+        "重量:": "100g",
+        "尺寸:": "11x6x2cm"
+    },
+    {
+        "names": "Panasonic 樂聲 AG-UX180",
+        "rating": "",
+        "water_price_min": "15,800",
+        "water_price_max": "15,800",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "SDHC memory card (4 GB to 32 GB), SDXC memory card (48 GB to 128 GB), UHS-I supported",
+        "重量:": "2g",
+        "尺寸:": "173 x 195 x 346mm"
+    },
+    {
+        "names": "Wunder360 C1",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "儲存媒體:": "最高支持64GB Micro SD卡",
+        "重量:": "98g",
+        "尺寸:": "109.3 x 45 x 35mm"
+    },
+    {
+        "names": "Canon HF-R77",
+        "rating": "",
+        "water_price_min": "2,480",
+        "water_price_max": "2,480"
+    },
+    {
+        "names": "Amazon Echo Look Hands-Free Camera and Style Assistant",
+        "rating": "",
+        "water_price_min": "338",
+        "water_price_max": "368",
+        "重量:": "194g",
+        "尺寸:": "60 x 60 x 161mm"
+    },
+    {
+        "names": "Sony PMW-F55",
+        "rating": "10",
+        "hon_price_min": "286,450",
+        "hon_price_max": "286,450",
+        "超高清/全高清/高清:": "4K",
+        "重量:": "2200g",
+        "尺寸:": "151 x 189 x 210 mm"
+    },
+    {
+        "names": "Canon LEGRIA HF S10",
+        "rating": "9.7",
+        "water_price_min": "6,300",
+        "water_price_max": "6,300",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "32GB 快閃記憶體 + SD/SDHC",
+        "相片解像度:": "3264 x 1840",
+        "重量:": "450g",
+        "尺寸:": "70 x 69 x 136mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HD Camcorder AG-AC30",
+        "rating": "",
+        "water_price_min": "6,980",
+        "water_price_max": "7,000"
+    },
+    {
+        "names": "Canon LEGRIA HF M31",
+        "rating": "9.3",
+        "water_price_min": "5,688",
+        "water_price_max": "5,688",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC + 32GB記憶體",
+        "相片解像度:": "331萬像素",
+        "重量:": "320g",
+        "尺寸:": "68 x 60 x 123mm"
+    },
+    {
+        "names": "altek Cubic Gudetama (蛋黃哥) Cubic Live Camera 智慧型無線直播相機",
+        "rating": "",
+        "water_price_min": "520",
+        "water_price_max": "520",
+        "超高清/全高清/高清:": "Full HD video 1080p/30fps in MP4",
+        "相片解像度:": "4592 x 3456",
+        "重量:": "83g",
+        "尺寸:": "47.6 x 48.4 x 25.8mm"
+    },
+    {
+        "names": "Sony HDR-AS30VR",
+        "rating": "7.3",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Micro SD/SDHC, Memory Stick Micro",
+        "重量:": "65g",
+        "尺寸:": "24.5 x 47.0 x 82.0mm"
+    },
+    {
+        "names": "Sony FDR-X1000VR",
+        "rating": "9.8",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,480",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Micro/Micro SD/SDHC/SDXC",
+        "重量:": "114g",
+        "尺寸:": "24.4 x 51.7 x 88.9 mm"
+    },
+    {
+        "names": "Canon EOS C300 Mark II連128GB CFast 2.0記憶卡及讀卡器套裝",
+        "rating": "",
+        "hon_price_min": "69,500",
+        "hon_price_max": "69,500",
+        "water_price_min": "39,000",
+        "water_price_max": "56,300",
+        "有效像素:": "829萬",
+        "儲存媒體:": "SD, SDHC (SD High Capacity) 或 SDXC (SD eXtended Capacity) 記憶卡"
+    },
+    {
+        "names": "HP F200",
+        "rating": "8.5",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Micro SD"
+    },
+    {
+        "names": "Sony HDR-XR200E",
+        "rating": "",
+        "water_price_min": "4,830",
+        "water_price_max": "4,830",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "400萬",
+        "重量:": "390g",
+        "尺寸:": "70 x 68 x 122mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-HS80",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,680",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "265g",
+        "尺寸:": "60〔闊〕x 64〔高〕x 109〔深〕mm"
+    },
+    {
+        "names": "Panasonic 樂聲 AG-HPX250PJ",
+        "rating": "10",
+        "water_price_min": "26,500",
+        "water_price_max": "26,500",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "P2 Card",
+        "重量:": "2500g",
+        "尺寸:": "180 × 195 × 438 mm"
+    },
+    {
+        "names": "Sony FDR-AX100E",
+        "rating": "9.5",
+        "hon_price_min": "12,980",
+        "hon_price_max": "12,980",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "兼容Memory Stick PRO Duo 及 SD/SDHC/SDXC",
+        "相片解像度:": "1420",
+        "重量:": "790g",
+        "尺寸:": "約81.0毫米 x 83.5毫米 x 196.5毫米"
+    },
+    {
+        "names": "Samsung 三星 HMX-U20",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "1,990",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "1000萬像素",
+        "重量:": "111g",
+        "尺寸:": "15.6 x 52.5 x 104mm"
+    },
+    {
+        "names": "Sony HDR-AS50R",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "750",
+        "有效像素:": "1110萬",
+        "重量:": "2.05 ozg",
+        "尺寸:": "0.95 x 1.85 x 3.27 in"
+    },
+    {
+        "names": "Brinno ATH2000",
+        "rating": "",
+        "hon_price_min": "1,488",
+        "hon_price_max": "1,600",
+        "重量:": "393g",
+        "尺寸:": "167 x 156 x 115.5mm"
+    },
+    {
+        "names": "SJCAM M10",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "600",
+        "water_price_min": "299",
+        "water_price_max": "348",
+        "超高清/全高清/高清:": "1080P FULL HD",
+        "儲存媒體:": "H.264 MOV",
+        "相片解像度:": "12M",
+        "尺寸:": "48.1*43.3*43.4"
+    },
+    {
+        "names": "Polaroid C270",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "620",
+        "儲存媒體:": "SD/MMC Card",
+        "尺寸:": "121 x 45 x 35 (mm)"
+    },
+    {
+        "names": "Lenovo Mirage 相機連 Daydream 系統",
+        "rating": "",
+        "有效像素:": "1300萬",
+        "尺寸:": "55 x 105 x 22mm"
+    },
+    {
+        "names": "Panoview P3600",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "888"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V380",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "重量:": "252g",
+        "尺寸:": "60 x 62 x 129 mm"
+    },
+    {
+        "names": "Sony CX100E",
+        "rating": "8.0",
+        "water_price_min": "3,598",
+        "water_price_max": "3,598",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "8GB硬碟",
+        "相片解像度:": "400萬",
+        "重量:": "280g",
+        "尺寸:": "55 x 60 x 107mm"
+    },
+    {
+        "names": "SJCAM SJ360",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "1,030",
+        "water_price_min": "490",
+        "water_price_max": "640",
+        "超高清/全高清/高清:": "2K",
+        "儲存媒體:": "MicroSD",
+        "相片解像度:": "4032 x 3024"
+    },
+    {
+        "names": "Sony HDR-PJ675/BCHK1",
+        "rating": "10",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "快閃記憶體32GB",
+        "重量:": "380g",
+        "尺寸:": "61.5毫米x 66.0毫米x121.5毫米"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V770M",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "mp4",
+        "重量:": "353g",
+        "尺寸:": "65 x 73 x 139 mm"
+    },
+    {
+        "names": "Samsung 三星 SMX-F44",
+        "rating": "",
+        "hon_price_min": "2,990",
+        "hon_price_max": "2,990",
+        "超高清/全高清/高清:": "標清",
+        "儲存媒體:": "內置16GB + SD/SDHC",
+        "相片解像度:": "1600 x 1200",
+        "重量:": "720g",
+        "尺寸:": "52 x 58.4 x 112.5mm"
+    },
+    {
+        "names": "Blackmagic Design Micro Cinema Camera",
+        "rating": "",
+        "hon_price_min": "7,750",
+        "hon_price_max": "7,750",
+        "尺寸:": "3.25 x 2.74 x 2.57\""
+    },
+    {
+        "names": "JVC GZ-RX630",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "記憶咭插槽支援SDXC/SDHC/SD",
+        "相片解像度:": "3840x2760 (高解像度) /1440 x 1080 / 640 x 480",
+        "重量:": "295g",
+        "尺寸:": "60 x 59.5 x 127mm"
+    },
+    {
+        "names": "PiPO 品鉑 720全景攝像頭V3",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "超高清/全高清/高清:": "FHD全高清",
+        "重量:": "50g",
+        "尺寸:": "67.5 x 67.5 x 48.35mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-X1",
+        "rating": "",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "SDHC / SDXC",
+        "重量:": "2000g",
+        "尺寸:": "173 x 195 x 346mm"
+    },
+    {
+        "names": "Sony HDR-CX900E",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清"
+    },
+    {
+        "names": "Sony DCR-SR85",
+        "rating": "",
+        "water_price_min": "3,065",
+        "water_price_max": "3,065",
+        "超高清/全高清/高清:": "標清",
+        "變焦能力:": "25倍光學變焦",
+        "儲存媒體:": "60GB內置記憶體"
+    },
+    {
+        "names": "ZETTA Z11",
+        "rating": "6.0",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "有效像素:": "30萬",
+        "重量:": "100g",
+        "尺寸:": "76x43x19mm"
+    },
+    {
+        "names": "Sony HDR-PJ340",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Micro and Micro SD/SDHC/SDXC",
+        "重量:": "215g",
+        "尺寸:": "61 x 59.5 x 119mm"
+    },
+    {
+        "names": "Canon EOS C100 DAF",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "1020g",
+        "尺寸:": "182 x 281 x 236 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-MDH2",
+        "rating": "8.7",
+        "water_price_min": "4,808",
+        "water_price_max": "4,808",
+        "超高清/全高清/高清:": "高清",
+        "變焦能力:": "21X",
+        "重量:": "2270g"
+    },
+    {
+        "names": "PowerVision PowerRay Limited Combo 全配套限定版",
+        "rating": ""
+    },
+    {
+        "names": "Sony HDR-XR550",
+        "rating": "10",
+        "water_price_min": "7,980",
+        "water_price_max": "7,980",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "MS Pro Duo + 240GB硬碟",
+        "相片解像度:": "1200萬像素",
+        "重量:": "510g",
+        "尺寸:": "70 x 74 x 143mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R806",
+        "rating": "",
+        "超高清/全高清/高清:": "FULL HD 1080P",
+        "儲存媒體:": "SDXC / SDHC"
+    },
+    {
+        "names": "Canon LEGRIA HF R406",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920X1080",
+        "重量:": "235g",
+        "尺寸:": "56 x 57 x 116mm"
+    },
+    {
+        "names": "Sony HXR-NX3P",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "20倍光學 + 20倍數碼"
+    },
+    {
+        "names": "DOD GSE580",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "相片解像度:": "4000X3000",
+        "重量:": "138g",
+        "尺寸:": "95(L) x60(W) x 37(H)mm"
+    },
+    {
+        "names": "Panasonic 樂聲 AG-AC8PJ",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "2268g",
+        "尺寸:": "205 x 217 x 479 mm"
+    },
+    {
+        "names": "ZETTA Z16",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "超高清/全高清/高清:": "高清",
+        "相片解像度:": "1280 x 720",
+        "重量:": "50g",
+        "尺寸:": "1.9 x 4.3 x 10.2cm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-VXF990",
+        "rating": "",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "4K Photo",
+        "重量:": "396g",
+        "尺寸:": "163 x 68 x 78 mm"
+    },
+    {
+        "names": "Canon VIXIA HF R500",
+        "rating": "9.7",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "235g",
+        "尺寸:": "53 x 57 x 116mm"
+    },
+    {
+        "names": "Samsung 三星 HMX-U10BP",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "95g",
+        "尺寸:": "15.5 x 56x 103mm"
+    },
+    {
+        "names": "Canon LEGRIA HF S200",
+        "rating": "",
+        "water_price_min": "7,888",
+        "water_price_max": "7,888",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "3264 x 1840",
+        "重量:": "460g",
+        "尺寸:": "75 x 74 x 140mm"
+    },
+    {
+        "names": "Sony HDR-PJ580VE",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "快閃記憶體32GB , 內置快閃記憶體-Memory Stick PRO Duo™ (Mark 2)/Memory Stick PRO-HG Duo™/SD/SDHC/SDXC記憶卡",
+        "相片解像度:": "1920x1080",
+        "重量:": "345g",
+        "尺寸:": "58.5 x 64.5 x 116.5 毫米"
+    },
+    {
+        "names": "Liquid image MODEL 369 - TORQUE HD + WIFI",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "250g",
+        "尺寸:": "8.4\"x3.7\"x3.6\""
+    },
+    {
+        "names": "Sony HDR-PJ50E",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置 220GB 硬碟,Memory Stick PRO Duo",
+        "相片解像度:": "3072x2304",
+        "重量:": "395g",
+        "尺寸:": "58.5mm x 64.5mm x 116.5mm"
+    },
+    {
+        "names": "RED EPIC-W 8K",
+        "rating": "7.0",
+        "超高清/全高清/高清:": "8K",
+        "儲存媒體:": "RED MINI-MAG",
+        "相片解像度:": "8192 x 4320",
+        "重量:": "1.52g"
+    },
+    {
+        "names": "Sony HDR-CX430VE",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,980",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "30倍光學變焦",
+        "儲存媒體:": "SD / SDHC / SDXC"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-TM700",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "1420萬像素",
+        "重量:": "380g",
+        "尺寸:": "66 x 69 x 138mm"
+    },
+    {
+        "names": "Panasonic 樂聲 AG-AF100A",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "1300g",
+        "尺寸:": "163.4 × 195 × 290.4 mm"
+    },
+    {
+        "names": "Sony CX700E",
+        "rating": "9.3",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置快閃記憶體 Memory Stick PRODuo ™  (Mark 2) Memory Stick PRO-HG Duo ™ SD/SDHC/SDXC 記憶卡(Class 4或更高)",
+        "相片解像度:": "4672 x 2628",
+        "重量:": "395g",
+        "尺寸:": "62毫米 x 72.5毫米 x 139毫米"
+    },
+    {
+        "names": "Sony HDR-CX280E",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "890萬像素",
+        "重量:": "180g",
+        "尺寸:": "52.5mm x 57mm x 117mm"
+    },
+    {
+        "names": "ZETTA ZN62",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "相片解像度:": "1270 x 720",
+        "重量:": "70g",
+        "尺寸:": "7.5 x 5.8 x 3.0cm"
+    },
+    {
+        "names": "Speed WD-5",
+        "rating": "6.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "重量:": "294g",
+        "尺寸:": "121 x 67.5 x 54.7mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HX- WA2",
+        "rating": "",
+        "有效像素:": "1440萬",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "238g"
+    },
+    {
+        "names": "Canon LEGRIA HF R76",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC記憶卡",
+        "相片解像度:": "約207萬",
+        "重量:": "約240g",
+        "尺寸:": "約53 x 58 x 116毫米"
+    },
+    {
+        "names": "JVC GY-HM170",
+        "rating": "9.9",
+        "water_price_min": "15,900",
+        "water_price_max": "15,900",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "2x SDHC/SDXC (4K:UHS-1 U3 HD:50Mbps Class10, MOV HDClass 6 AVCHD Class4)",
+        "重量:": "1110g",
+        "尺寸:": "153 x 112 x 299 mm"
+    },
+    {
+        "names": "Sony HDR-XR500E",
+        "rating": "10",
+        "water_price_min": "5,450",
+        "water_price_max": "5,450",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "120GB硬碟",
+        "相片解像度:": "1200萬",
+        "重量:": "500g",
+        "尺寸:": "71 x 75 x 134mm"
+    },
+    {
+        "names": "Kodak PIXPRO SP360",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "超高清/全高清/高清:": "1080p",
+        "重量:": "103g",
+        "尺寸:": "41.1 x 50.0 x 38.0 mm"
+    },
+    {
+        "names": "JVC GZ-HD620",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "MicroSD/MicroSDHC",
+        "重量:": "310g",
+        "尺寸:": "53 x 63 x 110mm"
+    },
+    {
+        "names": "Sony HDR-PJ760VE",
+        "rating": "9.5",
+        "water_price_min": "8,090",
+        "water_price_max": "8,090",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "快閃記憶體96GB",
+        "相片解像度:": "6544x3680",
+        "重量:": "580g",
+        "尺寸:": "71.5x 73.5x 137.5mm"
+    },
+    {
+        "names": "Canon LEGRIA HF M56",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC記憶卡",
+        "相片解像度:": "1920 x 1080像素",
+        "重量:": "310g",
+        "尺寸:": "68 x 64 x 121 毫米"
+    },
+    {
+        "names": "JVC GY-HM200",
+        "rating": "9.8",
+        "water_price_min": "17,900",
+        "water_price_max": "17,900",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "2x SDHC/SDXC (4K:UHS-1 U3 HD:50Mbps Class10, MOV HDClass 6 AVCHD Class4)",
+        "重量:": "1550g",
+        "尺寸:": "149 x 191 x 307 mm"
+    },
+    {
+        "names": "Brinno TLC200 Kit w/ ATH110 Weather Resistant Housing",
+        "rating": "9.0",
+        "超高清/全高清/高清:": "高清",
+        "相片解像度:": "1280 x 720",
+        "重量:": "120g",
+        "尺寸:": "64x 46x 106 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-TM80",
+        "rating": "2.0",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,480",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "193g",
+        "尺寸:": "51.5〔闊〕x 59〔高〕x 109〔深〕mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-TM900",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內存32GB",
+        "重量:": "395g",
+        "尺寸:": "66闊x 72闊x 146深mm"
+    },
+    {
+        "names": "Canon XF200",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "CF Type 1/SD/SDHC/SDXC",
+        "重量:": "1510g",
+        "尺寸:": "144 x 158 x 264 mm"
+    },
+    {
+        "names": "Canon VIXIA HF G20",
+        "rating": "9.7",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置32GB",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "575g",
+        "尺寸:": "77 x 78 x 161mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SD5",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "1.56MP",
+        "重量:": "400g",
+        "尺寸:": "65x67x135mm"
+    },
+    {
+        "names": "JVC GY-LS300",
+        "rating": "10",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "SDXC"
+    },
+    {
+        "names": "Canon LEGRIA HF R38",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC記憶卡",
+        "相片解像度:": "1920 x 1080像素",
+        "重量:": "250g",
+        "尺寸:": "52 x 55 x 115 毫米"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-X900",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "425g",
+        "尺寸:": "67 x 72 x 150mm"
+    },
+    {
+        "names": "Sony Full HD Handycam 數碼攝像機 HDR-CX450",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "195g",
+        "尺寸:": "57 x 59.5 x 119mm"
+    },
+    {
+        "names": "Sony PJ810",
+        "rating": "",
+        "超高清/全高清/高清:": "1080P",
+        "儲存媒體:": "Memory Stick PRO-HG Duo, SD/SDHC/SDXC  ",
+        "重量:": "460g",
+        "尺寸:": "2.7 x 2.9 x 5.3\" / 67.5 x 72.5 x 134.0 mm"
+    },
+    {
+        "names": "VIEWSONIC VC3D2-B",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC記憶卡",
+        "相片解像度:": "1600萬像素",
+        "重量:": "232g",
+        "尺寸:": "135 (D) x 68 (H) x 43 (W) cm"
+    },
+    {
+        "names": "Brinno TLC120",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,598",
+        "儲存媒體:": "SD / SDHC Card (Supported up to 32 GB)",
+        "尺寸:": "60 x 60 x 33.5 mm"
+    },
+    {
+        "names": "Sony HDR-XR260V",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "重量:": "205g",
+        "尺寸:": ".59.5mm x 66mm x 128mm"
+    },
+    {
+        "names": "RED DSMC2 Helium S35 8K Digital Cinema",
+        "rating": "",
+        "hon_price_min": "195,700",
+        "hon_price_max": "195,700",
+        "感光元件:": "HELIUM 35.4 Megapixel CMOS"
+    },
+    {
+        "names": "LIQUID IMAGE MODEL 304 - S/M - EXPLORER SERIES 8.0MP",
+        "rating": "",
+        "有效像素:": "800萬"
+    },
+    {
+        "names": "Liquid image Scuba 324",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "450g",
+        "尺寸:": "200 X 160 X 200mm"
+    },
+    {
+        "names": "Sony HDR-PJ650V",
+        "rating": "10.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick PRO Duo and SD/SDHC/SDX",
+        "相片解像度:": "1920x1080",
+        "重量:": "450g",
+        "尺寸:": "67 x 72.5 x 134mm"
+    },
+    {
+        "names": "Canon LEGRIA HF M400",
+        "rating": "6.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC記憶卡",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "350g",
+        "尺寸:": "74 x 71 x 131 毫米"
+    },
+    {
+        "names": "JVC GZ-MS118",
+        "rating": "10",
+        "有效像素:": "80萬",
+        "儲存媒體:": "SDHC/SD",
+        "重量:": "220g",
+        "尺寸:": "闊52 x 高62 x 深110毫米"
+    },
+    {
+        "names": "Sony HDR-PJ820E",
+        "rating": "8.4",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置64GB / Micro-SD",
+        "重量:": "460g",
+        "尺寸:": "67.5mm x 72.5mm x 134mm"
+    },
+    {
+        "names": "JVC GZ-MG750",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "80GB硬碟 + MicroSD",
+        "相片解像度:": "832 x 624",
+        "重量:": "250g",
+        "尺寸:": "53 x 63 x 110mm"
+    },
+    {
+        "names": "Sony HDR-CX130E",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD,SDHC,SDXC",
+        "相片解像度:": "2122 x 1584",
+        "重量:": "250g",
+        "尺寸:": "52.5 x 57 x 123.5毫米"
+    },
+    {
+        "names": "Brinno TLC200",
+        "rating": "9.0",
+        "hon_price_min": "588",
+        "hon_price_max": "588",
+        "超高清/全高清/高清:": "1280 X 720",
+        "儲存媒體:": "SD CARD (MAX 32GB)",
+        "相片解像度:": "1280 X 720 , 640 x 480",
+        "重量:": "250g",
+        "尺寸:": "64  X 46 X 106mm"
+    },
+    {
+        "names": "Samsung 三星 SMX-C10",
+        "rating": "",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "1200萬像素",
+        "重量:": "229g",
+        "尺寸:": "38.3 x 56.8 x 128.2mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R56",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置記憶體，SD / SDHC / SDXC記憶卡",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "235g",
+        "尺寸:": "53 x 57 x 116 毫米"
+    },
+    {
+        "names": "Panasonic 樂聲 AG-3DA1",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "2400g",
+        "尺寸:": "158 mm × 187 mm × 474 mm"
+    },
+    {
+        "names": "JVC GZ-GX3",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDXC/SDHC/SD",
+        "相片解像度:": "1920x1080",
+        "重量:": "360g",
+        "尺寸:": "闊57 x 高63 x 深129毫米"
+    },
+    {
+        "names": "Canon XC10",
+        "rating": "9.0",
+        "water_price_min": "15,900",
+        "water_price_max": "15,900",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "4K: CFast 2.0 card; Full HD/Photo: SD card",
+        "重量:": "930g",
+        "尺寸:": "125x102x122 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SD90",
+        "rating": "10",
+        "hon_price_min": "6,280",
+        "hon_price_max": "6,280",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "244g",
+        "尺寸:": "50.5 x 63 x 118.5mm"
+    },
+    {
+        "names": "Sony HDR-CX625",
+        "rating": "",
+        "有效像素:": "229萬",
+        "重量:": "360g",
+        "尺寸:": "57.5 x 66.0 x 130.5mm"
+    },
+    {
+        "names": "JVC GZ-MG630",
+        "rating": "7.0",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "60GB硬碟 + Micro-SD",
+        "相片解像度:": "832 x 624",
+        "重量:": "305g",
+        "尺寸:": "53 x 68 x 113mm"
+    },
+    {
+        "names": "Yashica ADV-5530FHD",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC",
+        "相片解像度:": "4608x3456",
+        "重量:": "186g",
+        "尺寸:": "110 (W) x 68 (H) x 37 (D)mm"
+    },
+    {
+        "names": "Sony DCR-SR45",
+        "rating": "",
+        "water_price_min": "1,988",
+        "water_price_max": "1,988",
+        "超高清/全高清/高清:": "標清",
+        "變焦能力:": "40倍光學變焦",
+        "儲存媒體:": "30GB內置記憶體"
+    },
+    {
+        "names": "JVC GC-PX100",
+        "rating": "9.1",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "520g",
+        "尺寸:": "110 X 76 X 183mm"
+    },
+    {
+        "names": "Sony HXR-NX30",
+        "rating": "9.6",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "96GB Internal, Memory Stick PRO Duo(Mark2), Memory Stick PRO-HG Duo,Memory Stick PRO-HG Duo HX, SD/SDHC/SDXC",
+        "重量:": "615g",
+        "尺寸:": "71.5 x 94.5 x 148mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V270",
+        "rating": "9.7",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "216g",
+        "尺寸:": "53 x 59 x 116 mm"
+    },
+    {
+        "names": "Sony HDR-AS300R Body + Live-View Remote Kit",
+        "rating": "10",
+        "有效像素:": "820萬",
+        "相片解像度:": "4608 x 2592",
+        "重量:": "109g",
+        "尺寸:": "29.4 x 47.0 x 83.0 mm"
+    },
+    {
+        "names": "Sony HDR-AZ1VW",
+        "rating": ""
+    },
+    {
+        "names": "Sony DCR-SX21E",
+        "rating": "",
+        "有效像素:": "80萬",
+        "儲存媒體:": "SD / SDHC / SDXC / Memory Stick",
+        "重量:": "195g",
+        "尺寸:": "54 x 55.5 x 124.5mm"
+    },
+    {
+        "names": "DOD VRH3",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "1920X1080",
+        "重量:": "100g",
+        "尺寸:": "87x65x27mm"
+    },
+    {
+        "names": "Samsung 三星 HMX-QF30",
+        "rating": "9.5",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "178.4g",
+        "尺寸:": "42.8 x 52.4 x 119.0 mm"
+    },
+    {
+        "names": "Sony HDR-AS100V",
+        "rating": "9.3",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "92g",
+        "尺寸:": "約24.2毫米 x 46.5毫米x 81.5毫米"
+    },
+    {
+        "names": "Samsung 三星 HMX-M20",
+        "rating": "",
+        "hon_price_min": "5,490",
+        "hon_price_max": "5,490",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "1200萬像素",
+        "重量:": "248g",
+        "尺寸:": "458 x 58 x 40mm"
+    },
+    {
+        "names": "Speed HD-50Z",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "重量:": "292g",
+        "尺寸:": "129 x 70 x 57mm"
+    },
+    {
+        "names": "Panasonic 樂聲 AG-AC90A",
+        "rating": "9.7",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "1500g",
+        "尺寸:": "160 x 195 x 350 mm"
+    },
+    {
+        "names": "Speed D-8Z",
+        "rating": "",
+        "hon_price_min": "918",
+        "hon_price_max": "918",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "重量:": "160g",
+        "尺寸:": "109 x 80 x 28mm"
+    },
+    {
+        "names": "Sony DEV-50V/B/CEE",
+        "rating": "7.5",
+        "超高清/全高清/高清:": "2D HD: 1920x1080/60p,50p(PS), 1920x1080/60i,50i(FX,FH), 1440x1080/60i,50i(HQ,LP)",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "765g",
+        "尺寸:": "166 (闊) x 78.5 (高) x202毫米(深)"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SDX1",
+        "rating": "9.3",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "重量:": "185g",
+        "尺寸:": "51.5x 57.5x 107.5mm"
+    },
+    {
+        "names": "German Proeen HDV-820",
+        "rating": "",
+        "超高清/全高清/高清:": "1080P",
+        "儲存媒體:": "JPEG",
+        "相片解像度:": "16.0",
+        "重量:": "248+5g",
+        "尺寸:": "55.5宽X60.2高X130.5長"
+    },
+    {
+        "names": "JVC GZ-HM650",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC/內置8GB",
+        "相片解像度:": "332",
+        "重量:": "195g",
+        "尺寸:": "55.5 x 55 x 110.5毫米"
+    },
+    {
+        "names": "暴風魔鏡 暴風魔眼1代",
+        "rating": "",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "超高清/全高清/高清:": "1080",
+        "重量:": "160g"
+    },
+    {
+        "names": "Panasonic 樂聲 SD700",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDXC/SDHC",
+        "重量:": "375g",
+        "尺寸:": "66〔闊〕x 69〔高〕x 138〔深〕mm"
+    },
+    {
+        "names": "Sony HXR-MC2500",
+        "rating": "",
+        "water_price_min": "5,850",
+        "water_price_max": "5,850",
+        "重量:": "2800g",
+        "尺寸:": "265.0 x 235.0 x 455.0mm"
+    },
+    {
+        "names": "Sony HDR-FX1000",
+        "rating": "6.0",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "MiniDV Cassette",
+        "重量:": "2100g",
+        "尺寸:": "169 x 178 x 349mm"
+    },
+    {
+        "names": "Sony PMW-EX1",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "2400g",
+        "尺寸:": "178 x 176 x 311.5mm"
+    },
+    {
+        "names": "JVC GZ-HD520",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Micro SDHC及內置120GB",
+        "相片解像度:": "130萬",
+        "重量:": "265g",
+        "尺寸:": "闊53 x 高63 x 深110毫米"
+    },
+    {
+        "names": "JVC Everio GZ-HM550",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Micro-SD + 32GB快閃記憶體",
+        "相片解像度:": "929萬像素",
+        "重量:": "305g",
+        "尺寸:": "55 x 62 x 115mm"
+    },
+    {
+        "names": "Sony NEX-VG20EH",
+        "rating": "9.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick PRO Duo,SD/SDHC/SDXC",
+        "相片解像度:": "1600萬像素",
+        "重量:": "645g",
+        "尺寸:": "91毫米x 130毫米x 223毫米"
+    },
+    {
+        "names": "Canon VIXIA HF R50",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "235g",
+        "尺寸:": "53 x 57 x 116mm"
+    },
+    {
+        "names": "BenQ DVM1",
+        "rating": "6.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC / SD",
+        "重量:": "210g",
+        "尺寸:": "112.5 x 44.35 x 63.5mm"
+    },
+    {
+        "names": "Sony HDR-CX380",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick PRO Duo, SD/SDHC/SDXC",
+        "重量:": "185g",
+        "尺寸:": "53mm x 57mm x 117mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SD900",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "12倍光學變焦，20倍智能變焦",
+        "儲存媒體:": "SD/SDHC/SDXC"
+    },
+    {
+        "names": "Sony HDR-CX210E",
+        "rating": "",
+        "有效像素:": "131萬",
+        "儲存媒體:": "SD/SDHC/MS",
+        "重量:": "175g",
+        "尺寸:": "51×56×106.5mm"
+    },
+    {
+        "names": "Sanyo 三洋 Xacti VPC-FH1",
+        "rating": "8.7",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "重量:": "299g",
+        "尺寸:": "53.3 x 57.3 x 105.0mm"
+    },
+    {
+        "names": "Sony HDR-TD30VE",
+        "rating": "10",
+        "hon_price_min": "8,980",
+        "hon_price_max": "8,980",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "6016x3384",
+        "重量:": "460g",
+        "尺寸:": "131 x 63.5 x 71.5mm"
+    },
+    {
+        "names": "Sony HDR-PJ540E",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置32GB / Micro-SD",
+        "重量:": "325g",
+        "尺寸:": "61.5mm x 66.5mm x 121.0mm(Approx.61.5mm x 66.5mm x 130.5mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V750 日本松下 x Micron Lexar 最高のペア國際限定套裝",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "353g",
+        "尺寸:": "65 x 73 x 139 mm"
+    },
+    {
+        "names": "Sanyo 三洋 Xacti VPC-CG10",
+        "rating": "7.6",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "SD / SDHC",
+        "重量:": "171g",
+        "尺寸:": "72 x 38 x 113 mm"
+    },
+    {
+        "names": "Sony HDR-AS30V",
+        "rating": "8.3",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "超高清/全高清/高清:": "全高清",
+        "感光元件:": "Carl Zeiss Vario-Tessar Lens",
+        "儲存媒體:": "Micro-SD"
+    },
+    {
+        "names": "Canon VIXIA HF R400",
+        "rating": "9.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "235g",
+        "尺寸:": "53 x 57 x 116mm"
+    },
+    {
+        "names": "JVC GZ-HM300",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "255g",
+        "尺寸:": "52 x 62 x 110mm"
+    },
+    {
+        "names": "Sony HDR-CX190",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDXC/PRO DUO",
+        "相片解像度:": "530",
+        "重量:": "280g"
+    },
+    {
+        "names": "Panasonic 樂聲 HX-DC3",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "4352 X 2448",
+        "重量:": "180g",
+        "尺寸:": "86.2 x 120.8 x 38.1mm"
+    },
+    {
+        "names": "Panasonic 樂聲 SDR-S45",
+        "rating": "5.0",
+        "有效像素:": "80萬",
+        "儲存媒體:": "SDHC / SDXC",
+        "重量:": "205g",
+        "尺寸:": "54.9 x 64 x 107.3mm"
+    },
+    {
+        "names": "Aputure Array Trans",
+        "rating": "10",
+        "超高清/全高清/高清:": "1080p@23.98/24/50/59.94/60Hz, 1080i@50/59.94/60Hz, 720p@50/59.94/60Hz, 576p@50Hz, 576i@50Hz, 480p@59.94/60Hz, 480i@59.94Hz",
+        "尺寸:": "92.4 x 96.75 x 49.8mm"
+    },
+    {
+        "names": "DOD TG300",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "相片解像度:": "4000x3000",
+        "重量:": "82g"
+    },
+    {
+        "names": "Canon XH-G1S",
+        "rating": "",
+        "重量:": "2400g",
+        "尺寸:": "163 x 192 x 394mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V100M",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "重量:": "183g",
+        "尺寸:": "51.5 x 59.5 x 112.5 [mm]"
+    },
+    {
+        "names": "Sony DCR-VX2200E",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "變焦能力:": "20 X",
+        "重量:": "2100g",
+        "尺寸:": "349*169*178MM"
+    },
+    {
+        "names": "Canon EOS C100",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "2 x SD/SDHC/SDXC",
+        "重量:": "1020g",
+        "尺寸:": "135 x 170 x 129 mm"
+    },
+    {
+        "names": "Blackmagic Design URSA Mini Pro 4.6K",
+        "rating": ""
+    },
+    {
+        "names": "ION Air Pro 3 Wi-Fi",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "MicroSD up to 64GB",
+        "重量:": "142g",
+        "尺寸:": "37 x 107mm"
+    },
+    {
+        "names": "JVC GY-HM850",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "2x SDHC/SDXC Class 4/6/10",
+        "重量:": "4000g"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-HS700",
+        "rating": "6.0",
+        "water_price_min": "8,676",
+        "water_price_max": "8,676",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "450g",
+        "尺寸:": "65 x 69 x 138mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-HS60",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDXC / SDHC / SD",
+        "重量:": "369g",
+        "尺寸:": "54.5 x 65.5 × 112mm"
+    },
+    {
+        "names": "Sony HDR-AX2000E",
+        "rating": "8.9",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "光學20x + 數碼30x",
+        "儲存媒體:": "MS PRO Duo (Mark 2) / MS PRO-HG Duo / MS PRO-HG Duo HX / SD/SDHC"
+    },
+    {
+        "names": "Speed X2",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC",
+        "重量:": "115g",
+        "尺寸:": "16.9 x 105 x 55mm"
+    },
+    {
+        "names": "Canon XF305",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "CF Type 1/SD/SDHC",
+        "重量:": "2670g",
+        "尺寸:": "153 x 236 x 382 mm"
+    },
+    {
+        "names": "DRIFT HD Ghost",
+        "rating": "",
+        "water_price_min": "489",
+        "water_price_max": "489",
+        "超高清/全高清/高清:": "1080P 60FPS",
+        "重量:": "22g"
+    },
+    {
+        "names": "Sony DCR-SR88",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "120GB 內置硬碟 / MSPRO / SD/SDHC",
+        "重量:": "320g",
+        "尺寸:": "56 x 65 x 105mm"
+    },
+    {
+        "names": "JVC GZ-MG760",
+        "rating": "",
+        "有效像素:": "80萬",
+        "相片解像度:": "832 x 624",
+        "重量:": "280g",
+        "尺寸:": "53 x 63 x 100mm"
+    },
+    {
+        "names": "JVC GZ-HM445",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "相片解像度:": "1920×1080",
+        "重量:": "235g",
+        "尺寸:": "50.5 x 55 x 110.5mm"
+    },
+    {
+        "names": "Speed HD-200SZ",
+        "rating": "",
+        "有效像素:": "500萬",
+        "相片解像度:": "1200萬像素",
+        "重量:": "302g",
+        "尺寸:": "126.5（長）x 68（高）x 63.5（寬） 毫米"
+    },
+    {
+        "names": "JVC GZ-R10S 銀色別注限定套裝",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDXC/SDHC/SD",
+        "重量:": "286g",
+        "尺寸:": "60 x 59.5 x 122mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SD40",
+        "rating": "8.0",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "265g",
+        "尺寸:": "51.5〔闊〕x 57.5〔高〕x 108.5〔深〕mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-X920M",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "4352 X 2448",
+        "重量:": "419g",
+        "尺寸:": "67 x 72 x 150mm"
+    },
+    {
+        "names": "DOD GSE520",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "相片解像度:": "4608x3456",
+        "重量:": "122g",
+        "尺寸:": "50mm*70mm*40mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-SD10",
+        "rating": "8.0",
+        "water_price_min": "2,538",
+        "water_price_max": "2,538",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "相片解像度:": "210萬像素",
+        "重量:": "227g",
+        "尺寸:": "48 x 63 x 115mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HX-WA3",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "4352 X 2448",
+        "重量:": "278g",
+        "尺寸:": "96.6 x 127.2 x 46.2mm"
+    },
+    {
+        "names": "Sony PXW-X180",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "ExpressCard/34 and SD/SDHC",
+        "重量:": "2700g",
+        "尺寸:": "191.5 × 201.5 × 412 mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R106",
+        "rating": "9.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "270g",
+        "尺寸:": "60 x 64 x 124mm"
+    },
+    {
+        "names": "Speed FX-1",
+        "rating": "4.0",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "800萬像素",
+        "重量:": "164g",
+        "尺寸:": "41.5（寬） x 124（高） x 74.5（深） 毫米"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-TMT750",
+        "rating": "",
+        "hon_price_min": "14,800",
+        "hon_price_max": "14,800",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC + 32GB快閃記憶體",
+        "相片解像度:": "1420萬像素",
+        "重量:": "380g",
+        "尺寸:": "66 x 69 x 138mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HX-DC10",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "12倍雙重範圍變焦",
+        "儲存媒體:": "SDXC/SDHC",
+        "相片解像度:": "1600萬像"
+    },
+    {
+        "names": "Canon LEGRIA HF R16",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "239萬像素",
+        "重量:": "325g",
+        "尺寸:": "60×64×124mm"
+    },
+    {
+        "names": "Sanyo 三洋 VPC-PD1",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "尺寸:": "2.48(W) x 0.87(D) x 4.36(H) inch"
+    },
+    {
+        "names": "Sony DCR-SR65",
+        "rating": "",
+        "water_price_min": "3,168",
+        "water_price_max": "3,168",
+        "超高清/全高清/高清:": "標清",
+        "變焦能力:": "25倍光學變焦",
+        "儲存媒體:": "40GB內置記憶體"
+    },
+    {
+        "names": "Sony HDR-AS100VB",
+        "rating": "",
+        "超高清/全高清/高清:": "1080 Full HD",
+        "儲存媒體:": "MicroSD",
+        "相片解像度:": "1400",
+        "重量:": "95g"
+    },
+    {
+        "names": "Sony Bloggie MHS-PM5",
+        "rating": "8.5",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick PRO Duo / Memory Stick PRO Duo (Mark II) / Memory Stick PRO Duo (High Speed) / Memory Stick PRO-HG Duo / SD / SDHC",
+        "相片解像度:": "500萬像素",
+        "重量:": "130g",
+        "尺寸:": "19 x 108 x 54mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-WX970M",
+        "rating": "",
+        "變焦能力:": "光學變焦: 20x  Intelligent 變焦關: 20x  Intelligent 變焦開: 4K: 25x, 全高清: 40x  電子變焦: 60x / 1500x",
+        "重量:": "361g",
+        "尺寸:": "約 65(闊) x 73(高) x 139(深)mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-W570",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "266g",
+        "尺寸:": "60 x 62 x 129 mm"
+    },
+    {
+        "names": "Canon LEGRIA HF G30",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "重量:": "900g",
+        "尺寸:": "115 x 84 x 231mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V180",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC記憶卡",
+        "重量:": "211g",
+        "尺寸:": "53 x 59 x 116 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V550 日本松下 x Micron Lexar 高品質Crossover限定套裝",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "235g",
+        "尺寸:": "53 x 61 x 116 mm"
+    },
+    {
+        "names": "Sanyo 三洋 Xacti VPC-HD1010",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "800萬像素",
+        "重量:": "268g",
+        "尺寸:": "90 x 112.6 x 54.5mm"
+    },
+    {
+        "names": "Canon XF300",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "CF Type 1/SD/SDHC",
+        "重量:": "2670g",
+        "尺寸:": "153 x 236 x 382 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-WXF990",
+        "rating": "",
+        "超高清/全高清/高清:": "4K",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "403g",
+        "尺寸:": "68 x 78 x 163mm"
+    },
+    {
+        "names": "Mevo Plus",
+        "rating": "",
+        "儲存媒體:": "16GB microSD"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-TM600",
+        "rating": "8.0",
+        "hon_price_min": "9,780",
+        "hon_price_max": "9,780",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "1420萬像素",
+        "重量:": "328g",
+        "尺寸:": "62 x 66 x 126mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-X920",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "189g",
+        "尺寸:": "73 x 59 x 82 [mm]"
+    },
+    {
+        "names": "Sony HDR-CX160",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC/SDXC/PRO DUO + 16GB Flash",
+        "相片解像度:": "330萬像",
+        "重量:": "250g",
+        "尺寸:": "52.5 x 57 x 113.5mm"
+    },
+    {
+        "names": "Sony HDR-CX200",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "重量:": "175g",
+        "尺寸:": "51mm x 56mm x 114mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R18",
+        "rating": "7.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "239萬像素",
+        "重量:": "329g",
+        "尺寸:": "60×64×124mm"
+    },
+    {
+        "names": "Sony 高清數碼攝像機 HDR-CX680",
+        "rating": ""
+    },
+    {
+        "names": "Sony HXR-NX5P",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick PRO Duo(Mark2), Memory Stick PRO-HG Duo , Memory Stick PRO-HG Duo HX , SD , SDHC",
+        "重量:": "2200g",
+        "尺寸:": "173 x 187 x 342 mm"
+    },
+    {
+        "names": "Speed HD-140Z",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC",
+        "相片解像度:": "1600萬像素",
+        "重量:": "340g",
+        "尺寸:": "136.5（長）x 61.5（高）x 66（寬） 毫米"
+    },
+    {
+        "names": "Brinno TLC200 Pro HDR",
+        "rating": "9.7",
+        "超高清/全高清/高清:": "HDR 全高清拍攝",
+        "儲存媒體:": "SD 記憶卡 ( 最高支援到 32 GB)",
+        "相片解像度:": "1280x 720",
+        "重量:": "140g",
+        "尺寸:": "64x 46x 106 mm"
+    },
+    {
+        "names": "Blackmagic Design BMCC MFT",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "1500g",
+        "尺寸:": "166 x 114 x 126 mm"
+    },
+    {
+        "names": "VIMX HDV-D935",
+        "rating": "5.0",
+        "超高清/全高清/高清:": "FHD：(1080p 30) 1920X1080(30fps)",
+        "儲存媒體:": "內建128 MB記憶體，部分空間用於儲存固件代碼和軟體，SD卡槽。",
+        "相片解像度:": "16MP:4608X3456",
+        "重量:": "250g",
+        "尺寸:": "120 mm (L) x 52 mm (H) x 52 mm (W)"
+    },
+    {
+        "names": "Brinno TLC100",
+        "rating": "",
+        "儲存媒體:": "USB Flash",
+        "尺寸:": "60 x 93 x 192 mm"
+    },
+    {
+        "names": "Canon LEGRIA HF M56 (PAL)",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920x1080",
+        "重量:": "310g",
+        "尺寸:": "68 x 64 x 121mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-HS900",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置220GB",
+        "重量:": "455g",
+        "尺寸:": "67(闊)x 72(高)x 14(深)mm"
+    },
+    {
+        "names": "Canon XA 20",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "重量:": "765g",
+        "尺寸:": "109 x 84 x 182毫米"
+    },
+    {
+        "names": "Speed WD-6",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "重量:": "160g",
+        "尺寸:": "88.5 x 114.2 x 36mm"
+    },
+    {
+        "names": "Sony HDRAS300R",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "MP4：Memory Stick 微型 (Mark 2) MP4：微型 SD/SDHC/SDXC 储存卡(Class 4或以上) XAVC S：微型 SDHC/SDXC 储存卡(Class10或以上)",
+        "重量:": "109g",
+        "尺寸:": "29.4 x 47.0 x 83.0mm"
+    },
+    {
+        "names": "Sony PMW-F5",
+        "rating": "",
+        "hon_price_min": "164,210",
+        "hon_price_max": "164,210",
+        "超高清/全高清/高清:": "4K",
+        "重量:": "2200g",
+        "尺寸:": "151 x 189 x 210 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-X1000",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC/SDXC",
+        "重量:": "1550g",
+        "尺寸:": "160 x 170 x 315 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 DHC-SD90",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "40x",
+        "儲存媒體:": "SDHC/SDXC",
+        "相片解像度:": "150萬像素"
+    },
+    {
+        "names": "Sony HDR-PJ710VE",
+        "rating": "10",
+        "hon_price_min": "9,600",
+        "hon_price_max": "9,600",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "快閃記憶體32GB",
+        "相片解像度:": "6544x3680",
+        "重量:": "565g",
+        "尺寸:": "71.5 x 72 x 124mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-W850 日本松下 x Micron Lexar 最高のペア國際限定套裝",
+        "rating": "9.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "360g",
+        "尺寸:": "65 x 73 x 139 mm"
+    },
+    {
+        "names": "JVC GY-HM70 ProHD",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SDHC/SDXC (Class 4/6/10) Card, Memory Card Slots ×2",
+        "重量:": "3000g",
+        "尺寸:": "227(W) x 232(H) x 476(D)mm"
+    },
+    {
+        "names": "Sony DEV-5",
+        "rating": "10",
+        "超高清/全高清/高清:": "3D/2D/1920x1080/50i,",
+        "儲存媒體:": "Memory Stick PRO Duo,SD/SDHC/SDXC",
+        "相片解像度:": "7.1 百萬像素",
+        "尺寸:": "219mm x 155mm x88mm"
+    },
+    {
+        "names": "Canon EOS C500",
+        "rating": "",
+        "有效像素:": "885萬",
+        "重量:": "1820g",
+        "尺寸:": "185 x 249 x 187mm"
+    },
+    {
+        "names": "Mevo Camera by Livestream",
+        "rating": "",
+        "有效像素:": "1240萬",
+        "重量:": "130g",
+        "尺寸:": "63 x 50mm"
+    },
+    {
+        "names": "Panasonic 樂聲 SDR-S50",
+        "rating": "",
+        "超高清/全高清/高清:": "標清",
+        "儲存媒體:": "SDXC/SD/SDHC",
+        "相片解像度:": "80萬像",
+        "重量:": "212g",
+        "尺寸:": "107.3×64×54.9mm"
+    },
+    {
+        "names": "Brinno MAC100",
+        "rating": "",
+        "儲存媒體:": "SDHC",
+        "重量:": "305g",
+        "尺寸:": "160 x 108 x 57 mm"
+    },
+    {
+        "names": "Sony DCR-SX65E",
+        "rating": "",
+        "有效像素:": "107萬",
+        "相片解像度:": "640 x 480",
+        "重量:": "400g",
+        "尺寸:": "76.3×76.6×112.8mm"
+    },
+    {
+        "names": "BenQ DV S11",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "重量:": "110g",
+        "尺寸:": "108 x 55 x 16mm"
+    },
+    {
+        "names": "Samsung 三星 T10",
+        "rating": "9.0",
+        "hon_price_min": "2,990",
+        "hon_price_max": "2,990",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC",
+        "相片解像度:": "470萬像素",
+        "重量:": "195.3g",
+        "尺寸:": "38.6 x 54.4 x 118mm"
+    },
+    {
+        "names": "Sony DCR-SX22E",
+        "rating": "",
+        "有效像素:": "80萬",
+        "相片解像度:": "230萬像素",
+        "重量:": "195g",
+        "尺寸:": "54mm x 55.5mm x124.5mm"
+    },
+    {
+        "names": "Canon LEGRIA mini",
+        "rating": "9.7",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "4000 x 3000",
+        "重量:": "160g",
+        "尺寸:": "76 x 22 x 96mm"
+    },
+    {
+        "names": "Speed HD-120T",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,780",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC x 2",
+        "重量:": "383g",
+        "尺寸:": "135 x 63.5 x 63.5mm"
+    },
+    {
+        "names": "Sony HDR-PJ230",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick PRO Duo/SD/SDHC/SDXC",
+        "重量:": "210g",
+        "尺寸:": "58 x 57 x 117mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V700",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "270g",
+        "尺寸:": "55 x 69 x 119.5mm"
+    },
+    {
+        "names": "BenQ M23",
+        "rating": "8.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "重量:": "170g",
+        "尺寸:": "106 X 65 X 37 mm"
+    },
+    {
+        "names": "Sanyo 三洋 VPC-GH1",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "155g",
+        "尺寸:": "38.5 x 109.6 x 55mm"
+    },
+    {
+        "names": "Samsung 三星 HMX-F90",
+        "rating": "9.5",
+        "超高清/全高清/高清:": "高清",
+        "變焦能力:": "52倍光學 + 130數碼",
+        "尺寸:": "2.12\" x 2.22\" x 4.68\""
+    },
+    {
+        "names": "ROLLEI HD LITE 2",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "MICRO SD CARD",
+        "相片解像度:": "4032 x 3024",
+        "重量:": "74g",
+        "尺寸:": "82 x 30 mm"
+    },
+    {
+        "names": "Sony HDR-PJ200E",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "儲存媒體:": "SD/SDHC/MS",
+        "重量:": "210g",
+        "尺寸:": "58×56×106.5mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-VX980",
+        "rating": "",
+        "超高清/全高清/高清:": "4K",
+        "相片解像度:": "4K Photo",
+        "重量:": "351g",
+        "尺寸:": "139 x 65 x 73 mm"
+    },
+    {
+        "names": "AGFA APDV-1002",
+        "rating": "",
+        "超高清/全高清/高清:": "1080P",
+        "變焦能力:": "5X 光學",
+        "儲存媒體:": "SD/SDHC"
+    },
+    {
+        "names": "Sony HDR-XR150",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,200",
+        "超高清/全高清/高清:": "全高清",
+        "變焦能力:": "25倍光學",
+        "儲存媒體:": "MS Pro Duo + 120GB硬碟",
+        "相片解像度:": "2048 x 1536"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-VX985",
+        "rating": "",
+        "有效像素:": "1891萬",
+        "重量:": "351g",
+        "尺寸:": "65 x 73 x 139mm"
+    },
+    {
+        "names": "Panasonic 樂聲 HDC-MDH1",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC Memory Card",
+        "重量:": "1800g",
+        "尺寸:": "216 x 224 x 432mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R406 (PAL)",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920x1080",
+        "重量:": "235g",
+        "尺寸:": "53 x 57 x 116mm"
+    },
+    {
+        "names": "Sony MHS-FS3K",
+        "rating": "",
+        "有效像素:": "503萬",
+        "儲存媒體:": "Internal Flash Memory 8GB",
+        "相片解像度:": "2,592 x 1,944"
+    },
+    {
+        "names": "Panasonic 樂聲 HX-WA30",
+        "rating": "8.7",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "4608 x 2592",
+        "重量:": "290g",
+        "尺寸:": "96.6 x 127.2 x 46.2mm"
+    },
+    {
+        "names": "Canon VIXIA HF R60",
+        "rating": "8.9",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD/SDHC/SDXC",
+        "重量:": "240g",
+        "尺寸:": "53 x 58 x 116mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R66",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "內置8GB 快閃記憶體，支援SD / SDHC / SDXC記憶卡",
+        "重量:": "約235g",
+        "尺寸:": "約 53 x 57 x 116 毫米"
+    },
+    {
+        "names": "Sony FDR-AX1E",
+        "rating": "9.0",
+        "超高清/全高清/高清:": "4K",
+        "重量:": "2440g",
+        "尺寸:": "189mm × 193mm × 362mm"
+    },
+    {
+        "names": "JVC GZ-EX310",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "重量:": "240g",
+        "尺寸:": "50x57x119mm"
+    },
+    {
+        "names": "Canon LEGRIA HF M506 (PAL)",
+        "rating": "9.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920x1080",
+        "重量:": "310g",
+        "尺寸:": "68 x 64 x 121mm"
+    },
+    {
+        "names": "GoFish Cam",
+        "rating": ""
+    },
+    {
+        "names": "Sony bloggie Duo MHS-FS2K",
+        "rating": "6.0",
+        "超高清/全高清/高清:": "高清",
+        "感光元件:": "4.5毫米 (1/4 吋) Exmor CMOS",
+        "儲存媒體:": "內置 4GB"
+    },
+    {
+        "names": "Sony HDR-CX240 日本Sony Concept Store冬の旅行優惠裝",
+        "rating": "9.3",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Micro/Micro SD/SDHC/SDXC",
+        "重量:": "190g",
+        "尺寸:": "59.0 ×59.5 ×128.0mm"
+    },
+    {
+        "names": "Liquid image Model 368 - Torque HD",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "重量:": "250g",
+        "尺寸:": "8.4\" x 3.7\" x 3.6\""
+    },
+    {
+        "names": "Speed HD50Z",
+        "rating": "9.0",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC",
+        "相片解像度:": "500萬像素",
+        "重量:": "292g",
+        "尺寸:": "57 x 70 x 129mm"
+    },
+    {
+        "names": "Brinno TLC2000",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "相片解像度:": "1080P",
+        "重量:": "87.5g",
+        "尺寸:": "60 x 70.6 x 42.4mm"
+    },
+    {
+        "names": "Sony HDR-AS200V",
+        "rating": "9.3",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "Memory Stick Micro/Micro SD/SDHC/SDXC",
+        "重量:": "68g",
+        "尺寸:": "24.2 x 46.5 x 81.5 mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R36 (PAL)",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920x1080",
+        "重量:": "250g",
+        "尺寸:": "52 x 55 x 115mm"
+    },
+    {
+        "names": "ION AIR PRO",
+        "rating": "10",
+        "超高清/全高清/高清:": "1080p 1920 x 1080 (16:9)",
+        "相片解像度:": "500萬像素",
+        "重量:": "130g",
+        "尺寸:": "40 x 40 x 108mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R706",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "約207萬",
+        "重量:": "約235g",
+        "尺寸:": "約53 x 58 x 116毫米"
+    },
+    {
+        "names": "Panasonic 樂聲 HC-V785",
+        "rating": "",
+        "有效像素:": "1276萬",
+        "重量:": "351g",
+        "尺寸:": "65 x 73 x 139mm"
+    },
+    {
+        "names": "Canon LEGRIA HF R48",
+        "rating": "",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920X1080",
+        "重量:": "235g",
+        "尺寸:": "53 x 57 x 116mm"
+    },
+    {
+        "names": "ION AIR PRO WiFi",
+        "rating": "",
+        "超高清/全高清/高清:": "1080p 1920 x 1080 (16:9)",
+        "相片解像度:": "500萬像素",
+        "重量:": "130g",
+        "尺寸:": "40 x 40 x 108mm"
+    },
+    {
+        "names": "Brinno TLC200 Kit w/ ATL045 Wide Angle Lens",
+        "rating": "",
+        "超高清/全高清/高清:": "高清",
+        "相片解像度:": "1280 x 720",
+        "重量:": "120g",
+        "尺寸:": "64x 46x 106 mm"
+    },
+    {
+        "names": "Sony NEX-FS700PK",
+        "rating": "10",
+        "超高清/全高清/高清:": "全高清",
+        "感光元件:": "Super35mm CMOS sensor"
+    },
+    {
+        "names": "Sony HDR-AZ1VR",
+        "rating": "7.0",
+        "超高清/全高清/高清:": "1080",
+        "相片解像度:": "1200",
+        "重量:": "63g"
+    },
+    {
+        "names": "Canon VIXIA HF R500 白色夏日別注套裝",
+        "rating": "9.7",
+        "超高清/全高清/高清:": "全高清",
+        "儲存媒體:": "SD / SDHC / SDXC",
+        "相片解像度:": "1920 x 1080",
+        "重量:": "235g",
+        "尺寸:": "53 x 57 x 116mm"
+    }
+]
