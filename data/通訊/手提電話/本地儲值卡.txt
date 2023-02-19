@@ -1,0 +1,2042 @@
+[
+    {
+        "names": "HK Mobile 40GB 4G LTE 2000分鐘香港數據咭",
+        "rating": "9.0",
+        "hon_price_min": "28",
+        "hon_price_max": "38",
+        "water_price_min": "25",
+        "water_price_max": "25",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "40GB"
+    },
+    {
+        "names": "HK Mobile 77GB 4G LITE 365日香港數據年咭",
+        "rating": "9.3",
+        "hon_price_min": "90",
+        "hon_price_max": "148",
+        "water_price_min": "89",
+        "water_price_max": "89",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "4G"
+    },
+    {
+        "names": "3HK 國際萬能咭 110GB (80GB 本地數據 + 30GB 社交媒體數據)",
+        "rating": "9.4",
+        "hon_price_min": "145",
+        "hon_price_max": "199",
+        "water_price_min": "140",
+        "water_price_max": "140",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "80GB+30GB 5大社交媒體數據"
+    },
+    {
+        "names": "SmarTone 激ValueGB 高速本地 50GB 本地數據年卡",
+        "rating": "9.3",
+        "hon_price_min": "110",
+        "hon_price_max": "140",
+        "本地話音通話/分鐘:": "2000分鐘",
+        "本地流動數據:": "50GB+20GB(推廣期)"
+    },
+    {
+        "names": "鴨聊佳 365日本地50GB數據卡",
+        "rating": "10",
+        "hon_price_min": "90",
+        "hon_price_max": "155",
+        "water_price_min": "85",
+        "water_price_max": "85",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "HK Mobile CSL網絡本地70GB年卡上網儲值卡",
+        "rating": "9.1",
+        "hon_price_min": "88",
+        "hon_price_max": "120",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "70GB"
+    },
+    {
+        "names": "鴨聊佳 365日本地5GB數據卡",
+        "rating": "9.3",
+        "hon_price_min": "30",
+        "hon_price_max": "60",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "5GB"
+    },
+    {
+        "names": "HK Mobile 中港澳台 24GB 年卡",
+        "rating": "7.0",
+        "hon_price_min": "100",
+        "hon_price_max": "135",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "12GB"
+    },
+    {
+        "names": "Lucky Sim 3年 4.5G本地100GB數據卡 + 本地通話 2000分鐘",
+        "rating": "2.0",
+        "hon_price_min": "180",
+        "hon_price_max": "255",
+        "本地話音通話/分鐘:": "2000分鐘",
+        "本地流動數據:": "100GB"
+    },
+    {
+        "names": "Smartone 激ValueGB 全速 100GB 4G 本地儲值年卡 $458",
+        "rating": "9.3",
+        "hon_price_min": "155",
+        "hon_price_max": "200",
+        "本地話音通話/分鐘:": "3000",
+        "本地流動數據:": "100GB"
+    },
+    {
+        "names": "鴨聊佳 China Mobile 中國移動 365日 120GB 本地4G全速數據年卡",
+        "rating": "9.3",
+        "hon_price_min": "178",
+        "hon_price_max": "231",
+        "water_price_min": "178",
+        "water_price_max": "178",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "鴨聊佳 4G中國內地365日數據卡",
+        "rating": "6.7",
+        "hon_price_min": "62",
+        "hon_price_max": "128",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "20GB"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 365日中國/香港數據卡 20GB+3GB CMHK 中國移動",
+        "rating": "9.5",
+        "hon_price_min": "60",
+        "hon_price_max": "88",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "20GB+3GB"
+    },
+    {
+        "names": "ABC Mobile 120GB 數據儲值年卡",
+        "rating": "8.6",
+        "hon_price_min": "155",
+        "hon_price_max": "202",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "120GB"
+    },
+    {
+        "names": "Lucky Sim 730日 50GB 上網2年卡 + 3000 通話分鐘 本地數據儲值卡",
+        "rating": "10",
+        "hon_price_min": "88",
+        "hon_price_max": "208",
+        "本地話音通話/分鐘:": "3000",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "鴨聊佳 中國移動 365日 70GB 本地4G全速數據卡",
+        "rating": "9.8",
+        "hon_price_min": "113",
+        "hon_price_max": "135",
+        "water_price_min": "125",
+        "water_price_max": "125",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "70GB"
+    },
+    {
+        "names": "鴨聊佳 5G 中國/香港15日數據卡 3GB全速+無限數據 CMHK 中國移動",
+        "rating": "",
+        "hon_price_min": "55",
+        "hon_price_max": "76",
+        "water_price_min": "50",
+        "water_price_max": "68",
+        "本地流動數據:": "3GB全速+無限數據"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 香港365日數據卡 50GB CMHK 中國移動",
+        "rating": "9.0",
+        "hon_price_min": "90",
+        "hon_price_max": "118",
+        "water_price_min": "85",
+        "water_price_max": "85",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "鴨聊佳 萬能年卡 30GB 4G 數據 + 2000分鐘通話",
+        "rating": "9.1",
+        "hon_price_min": "75",
+        "hon_price_max": "88",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "30GB 4G"
+    },
+    {
+        "names": "Lucky Sim 3年 4.5G本地200GB數據卡 + 本地通話 3000分鐘",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "325",
+        "本地話音通話/分鐘:": "3000",
+        "本地流動數據:": "200GB"
+    },
+    {
+        "names": "CSL Hemat Kartu $20+$6 充值券",
+        "rating": "10",
+        "hon_price_min": "14",
+        "hon_price_max": "20",
+        "water_price_min": "14",
+        "water_price_max": "14"
+    },
+    {
+        "names": "3HK 國際萬能咭 110GB (80GB 本地數據 + 30GB 社交媒體數據)",
+        "rating": "9.4",
+        "hon_price_min": "145",
+        "hon_price_max": "199",
+        "water_price_min": "140",
+        "water_price_max": "140",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "80GB+30GB 5大社交媒體數據"
+    },
+    {
+        "names": "鴨聊佳 4G中國內地90日數據卡 30GB CMHK 中國移動",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "240",
+        "water_price_min": "225",
+        "water_price_max": "225"
+    },
+    {
+        "names": "Smartone 數碼通 激ValueGB 高速本地 50GB 年卡上網儲值卡",
+        "rating": "9.1",
+        "hon_price_min": "108",
+        "hon_price_max": "165",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 香港365日數據卡 30GB CMHK 中國移動",
+        "rating": "10",
+        "hon_price_min": "75",
+        "hon_price_max": "88",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "30GB"
+    },
+    {
+        "names": "HK Mobile 70GB 4G LTE 2000分鐘本地數據卡",
+        "rating": "10",
+        "hon_price_min": "90",
+        "hon_price_max": "198",
+        "water_price_min": "89",
+        "water_price_max": "89",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "70GB"
+    },
+    {
+        "names": "SmarTone 激 ValueGB 高速 5GB 年卡上網儲值卡",
+        "rating": "9.6",
+        "hon_price_min": "27",
+        "hon_price_max": "47",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "3HK THREE國際萬能卡增值券 (面值HK$80)",
+        "rating": "9.7",
+        "hon_price_min": "77",
+        "hon_price_max": "95",
+        "water_price_min": "77",
+        "water_price_max": "77"
+    },
+    {
+        "names": "鴨聊佳 5G全速 中國/香港365日數據卡 15GB CMHK 中國移動",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "190",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "15GB"
+    },
+    {
+        "names": "China Mobile 中國移動 香港旅客卡 80GB $88",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "80GB"
+    },
+    {
+        "names": "HK Mobile 本地60天無限上網數據卡",
+        "rating": "9.0",
+        "hon_price_min": "39",
+        "hon_price_max": "88",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "88GB"
+    },
+    {
+        "names": "鴨聊佳 中國移動4G/3G香港365日 20GB香港+3GB中國内地上網+2000分鐘本地通話",
+        "rating": "6.7",
+        "hon_price_min": "57",
+        "hon_price_max": "145",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "20GB"
+    },
+    {
+        "names": "ABC Mobile 電話卡 儲值卡 數據卡 SIM卡 數據增值劵 20GB",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "30",
+        "water_price_min": "10",
+        "water_price_max": "10"
+    },
+    {
+        "names": "鴨聊佳 365日本地10GB數據卡",
+        "rating": "10",
+        "hon_price_min": "50",
+        "hon_price_max": "78",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "10GB"
+    },
+    {
+        "names": "HK Mobile 本地30天無限上網數據卡 15GB 4G LTE",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "69",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "3HK 15GB 國際萬能卡 中港澳台四地 4G 數據卡 + 2000分鐘通話 + 一咭兩號",
+        "rating": "9.0",
+        "hon_price_min": "125",
+        "hon_price_max": "198",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "15GB"
+    },
+    {
+        "names": "Lucky Sim $48 90日 本地話音數據儲值卡",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20",
+        "本地話音通話/分鐘:": "960",
+        "本地流動數據:": "28/1day, 45/3days, 49/30days (First 1GB 21Mbps)"
+    },
+    {
+        "names": "3HK 本地60天無限上網數據卡",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "Lucky Sim 3年 4.5G本地120GB數據卡 + 本地通話 3000分鐘",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "210",
+        "本地話音通話/分鐘:": "3000",
+        "本地流動數據:": "120GB"
+    },
+    {
+        "names": "鴨聊佳 China Mobile 中國移動 365日 120GB 本地4G全速數據年卡 $428",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "198",
+        "water_price_min": "178",
+        "water_price_max": "178",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "120GB"
+    },
+    {
+        "names": "鴨聊佳 中國移動 4G大中華 中港澳台 8GB數據上網+2000分鐘通話365日數據卡",
+        "rating": "10",
+        "hon_price_min": "116",
+        "hon_price_max": "148",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "中國聯通 大灣區 (廣東+香港+澳門) 3日上網卡 (3GB+無限)",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "48",
+        "本地流動數據:": "3GB+無限"
+    },
+    {
+        "names": "3HK 國際萬能咭 66GB (46GB 本地數據 + 20GB 社交媒體數據)",
+        "rating": "9.0",
+        "hon_price_min": "100",
+        "hon_price_max": "168",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "46GB+20GB 5大社交媒體數據"
+    },
+    {
+        "names": "Lucky Sim 730日 70GB 上網2年卡 + 3000 通話分鐘 本地數據儲值卡",
+        "rating": "10",
+        "hon_price_min": "120",
+        "hon_price_max": "130",
+        "本地話音通話/分鐘:": "3000",
+        "本地流動數據:": "70GB"
+    },
+    {
+        "names": "Smartone 激ValueGB 20GB 本地儲值年卡",
+        "rating": "10",
+        "hon_price_min": "70",
+        "hon_price_max": "99",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "20GB"
+    },
+    {
+        "names": "鴨聊佳 中國移動 4G/3G 全中國/香港 15日 無限數據上網卡",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "68"
+    },
+    {
+        "names": "Your Mobile 78GB 4G 數據卡",
+        "rating": "10",
+        "hon_price_min": "130",
+        "hon_price_max": "192",
+        "本地流動數據:": "4G 78GB"
+    },
+    {
+        "names": "China Mobile 中國移動 30日本地無限上網卡 + 1000分鐘本地通話",
+        "rating": "8.0",
+        "hon_price_min": "30",
+        "hon_price_max": "49",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "80GB"
+    },
+    {
+        "names": "Smartone 激ValueGB 數碼通本地儲值卡$238",
+        "rating": "7.3",
+        "hon_price_min": "70",
+        "hon_price_max": "198",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 香港365日數據卡 5GB CMHK 中國移動",
+        "rating": "6.0",
+        "hon_price_min": "28",
+        "hon_price_max": "40",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "5GB"
+    },
+    {
+        "names": "3HK 香港本地 30天 4G 不限速無限上網卡 + 1000分鐘通話 國際萬能卡",
+        "rating": "5.3",
+        "hon_price_min": "55",
+        "hon_price_max": "80",
+        "本地話音通話/分鐘:": "1000"
+    },
+    {
+        "names": "中國聯通 跨境王 4G香港號碼版",
+        "rating": "5.0",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "本地話音通話/分鐘:": "$0.45"
+    },
+    {
+        "names": "Lucky Sim $100 儲值卡增值券",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "95"
+    },
+    {
+        "names": "Lucky Sim 730日 90GB 上網2年卡 + 3000 通話分鐘 本地數據儲值卡",
+        "rating": "10",
+        "hon_price_min": "140",
+        "hon_price_max": "170",
+        "本地話音通話/分鐘:": "3000",
+        "本地流動數據:": "90GB"
+    },
+    {
+        "names": "Hemat HK Mobile $100 +$30 增值券 Voucher",
+        "rating": "10",
+        "hon_price_min": "80",
+        "hon_price_max": "100",
+        "本地話音通話/分鐘:": "100"
+    },
+    {
+        "names": "鴨聊佳 4G中國內地180日數據卡 30GB CMHK 中國移動",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "268",
+        "本地流動數據:": "30GB"
+    },
+    {
+        "names": "3HK 國際萬能咭 56GB (36GB 本地數據 + 20GB 社交媒體數據)",
+        "rating": "",
+        "hon_price_min": "115",
+        "hon_price_max": "138",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "36GB 本地數據 + 20GB 社交媒體數據"
+    },
+    {
+        "names": "3HK THREE國際萬能卡增值券 (面值HK$100)",
+        "rating": "9.6",
+        "hon_price_min": "77",
+        "hon_price_max": "100"
+    },
+    {
+        "names": "Lucky Sim $50 儲值卡增值券",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "Hemat HK Mobile CSL 卡增值券 ($100面值)",
+        "rating": "9.3",
+        "hon_price_min": "80",
+        "hon_price_max": "100"
+    },
+    {
+        "names": "鴨聊佳 中國移動 全中國/香港 30日 4G 無限數據上網卡",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "95",
+        "water_price_min": "85",
+        "water_price_max": "85"
+    },
+    {
+        "names": "3HK 國際萬能咭 90GB (60GB 本地數據 + 30GB 社交媒體數據)",
+        "rating": "9.2",
+        "hon_price_min": "145",
+        "hon_price_max": "178",
+        "water_price_min": "144",
+        "water_price_max": "144",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "90GB"
+    },
+    {
+        "names": "Smartone 數碼通 本地儲值卡 可上網 可通話 儲值額 $48",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "24"
+    },
+    {
+        "names": "Smartone 激ValueGB 數碼通本地儲值卡$98",
+        "rating": "10",
+        "hon_price_min": "37",
+        "hon_price_max": "88",
+        "water_price_min": "36",
+        "water_price_max": "36",
+        "本地話音通話/分鐘:": "$0.05"
+    },
+    {
+        "names": "SmarTone 激 ValueGB 高速 20GB 年卡上網儲值卡",
+        "rating": "10",
+        "hon_price_min": "75",
+        "hon_price_max": "95",
+        "本地話音通話/分鐘:": "2000分鐘",
+        "本地流動數據:": "20GB"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 香港365日數據卡 10GB CMHK 中國移動",
+        "rating": "9.0",
+        "hon_price_min": "52",
+        "hon_price_max": "60",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "10GB"
+    },
+    {
+        "names": "鴨聊佳 4G 中國內地 365日數據卡 10GB",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "190",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "10GB (本地和中國内地共用)"
+    },
+    {
+        "names": "ABC Mobile $48本地儲值卡",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "40"
+    },
+    {
+        "names": "ABC Mobile 38GB 數據儲值年卡",
+        "rating": "6.0",
+        "hon_price_min": "68",
+        "hon_price_max": "98",
+        "water_price_min": "67",
+        "water_price_max": "67",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "38GB"
+    },
+    {
+        "names": "3HK 和記3 萬能年卡 42Mbps 40GB 4G 數據 (20GB香港+20GB 5大社交媒體數據 ) + 2000分鐘通話 (可作數據分享)",
+        "rating": "4.7",
+        "hon_price_min": "115",
+        "hon_price_max": "140",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "20GB香港+20GB 5大社交媒體數據"
+    },
+    {
+        "names": "Happy Telecom Happy  (csl 頻譜)  365日本地33GB + 1000分鐘",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "78",
+        "water_price_min": "70",
+        "water_price_max": "70",
+        "本地話音通話/分鐘:": "1000"
+    },
+    {
+        "names": "CSL Kumusta Ka $50 增值券",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "Smartone $68 月費組合儲值咭",
+        "rating": "2.0",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "Lucky Sim 365日 4G本地5GB數據卡 + 本地通話 2000 分鐘",
+        "rating": "8.7",
+        "hon_price_min": "30",
+        "hon_price_max": "98",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "5GB"
+    },
+    {
+        "names": "SmarTone 激 ValueGB 儲值券 $100",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "90"
+    },
+    {
+        "names": "鴨聊佳 CMHK 中國移動 365日 70GB 本地4G全速數據卡 $358",
+        "rating": "10",
+        "hon_price_min": "114",
+        "hon_price_max": "145",
+        "water_price_min": "125",
+        "water_price_max": "125",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "70GB"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK Rekanan $50 充值券",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "鴨聊佳 4G中國內地180日數據卡 60GB CMHK 中國移動",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "448",
+        "本地流動數據:": "60GB"
+    },
+    {
+        "names": "ABC Mobile $60 IDD及數據儲值卡 8GB/年",
+        "rating": "",
+        "hon_price_min": "40",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "More Mobile CSL 萬能年咭 120GB 4Glte本地數據+1000分鐘",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "200",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "120GB"
+    },
+    {
+        "names": "鴨聊佳 一咭三地儲值卡 2GB/30日",
+        "rating": "",
+        "hon_price_min": "72",
+        "hon_price_max": "95",
+        "本地話音通話/分鐘:": "$0.30",
+        "本地流動數據:": "2GB"
+    },
+    {
+        "names": "3HK 和記3 萬能年卡 42Mbps 22GB 4G 數據 (20GB香港+2GB中國澳門) + 2000分鐘通話",
+        "rating": "5.3",
+        "hon_price_min": "130",
+        "hon_price_max": "140",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "22GB"
+    },
+    {
+        "names": "Happy Telecom Happy  (csl 頻譜) 365日本地111GB + 3000分鐘",
+        "rating": "2.0",
+        "hon_price_min": "138",
+        "hon_price_max": "170",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "本地話音通話/分鐘:": "3000"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 中國/香港2日數據卡 1GB全速+無限數據 CMHK 中國移動",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "38",
+        "本地流動數據:": "1GB全速+無限數據"
+    },
+    {
+        "names": "Smartone 數碼通 本地儲值卡 可上網 可通話 儲值額 $118",
+        "rating": ""
+    },
+    {
+        "names": "CM Mobile $100 無限傾(新版)流動電話儲值卡",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "本地話音通話/分鐘:": "$0.23",
+        "隧道費:": "每月$5",
+        "本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "China Mobile 中國移動 本地數據儲值卡 (4G/3G) 30日",
+        "rating": "10",
+        "hon_price_min": "30",
+        "hon_price_max": "35",
+        "本地話音通話/分鐘:": "$0.10"
+    },
+    {
+        "names": "Smartone 激ValueGB 數碼通 中港澳 8GB + 2000分鐘 大灣區漫遊數據年卡$288",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "3HK 4日中港跨境大王通話 4G LTE 無限數據卡",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "本地話音通話/分鐘:": "100",
+        "本地流動數據:": "每天首 3GB 4G",
+        "其後收費本地流動數據:": "128Kbps"
+    },
+    {
+        "names": "鴨聊佳 全中國/香港 1日 數據卡",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "28",
+        "本地流動數據:": "1GB"
+    },
+    {
+        "names": "YourMobile $78全功能儲值卡",
+        "rating": "10",
+        "hon_price_min": "52",
+        "hon_price_max": "52"
+    },
+    {
+        "names": "China Mobile 中國移動 中國移動 $50增值券",
+        "rating": "",
+        "hon_price_min": "47",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "Lucky Sim 365日 4G本地30GB數據卡 + 本地通話 2000 分鐘 + 1 年留言信箱及本地短訊12個",
+        "rating": "5.3",
+        "hon_price_min": "70",
+        "hon_price_max": "98",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "30GB"
+    },
+    {
+        "names": "3HK 和記3 4G 365日 15GB數據+2000分鐘通話",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "China Mobile 中國移動 中國移動 CMHK 香港 4G 一個月無限上網儲值卡",
+        "rating": "2.0",
+        "hon_price_min": "30",
+        "hon_price_max": "45",
+        "本地流動數據:": "Unlimited 4G (FUP 15GB)"
+    },
+    {
+        "names": "中國聯通 China Unicom CUniq 香港90日通話/上網卡 (25GB)",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "本地流動數據:": "25GB"
+    },
+    {
+        "names": "CSL Hello (PCCW) $50 充值券",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "Your Mobile 流動電話儲值卡增值券 $50",
+        "rating": "",
+        "hon_price_min": "47",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "ABC Mobile 365日 $360面值全功能儲值年卡",
+        "rating": "",
+        "hon_price_min": "106",
+        "hon_price_max": "109",
+        "本地流動數據:": "40GB"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 中國/香港30日數據卡 3GB全速+無限數據 CMHK 中國移動",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "本地流動數據:": "3GB全速+無限數據"
+    },
+    {
+        "names": "CSL Hemat Kartu $50+$15 增值券",
+        "rating": "",
+        "hon_price_min": "44",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "Happy Telecom Happy (csl 頻譜) 365日本地11GB + 500分鐘",
+        "rating": "",
+        "hon_price_min": "52",
+        "hon_price_max": "52",
+        "water_price_min": "52",
+        "water_price_max": "52",
+        "本地話音通話/分鐘:": "500",
+        "本地流動數據:": "11GB"
+    },
+    {
+        "names": "3HK 4G 10GB本地數據服務",
+        "rating": "8.0",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "10GB"
+    },
+    {
+        "names": "中國聯通 China Unicom CUniq 內地及香港180日上網卡 (100GB)",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "本地流動數據:": "100GB"
+    },
+    {
+        "names": "China Mobile 中國移動 $80 4G/3G數據及話音儲值卡 30日數據",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "35",
+        "本地話音通話/分鐘:": "$0.10",
+        "本地流動數據:": "3GB全速+無限數據"
+    },
+    {
+        "names": "CSL Hello (PCCW) $20 充值券",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20"
+    },
+    {
+        "names": "More Mobile CSL 萬能年卡 100GB 4Glte本地數據+1000分鐘",
+        "rating": "8.7",
+        "hon_price_min": "198",
+        "hon_price_max": "230",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "100GB"
+    },
+    {
+        "names": "3HK 國際萬能咭 33GB (30GB 本地流動數據 + 3GB 中國澳門共享流動數據)",
+        "rating": "10",
+        "hon_price_min": "135",
+        "hon_price_max": "145",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "30GB 本地數據 + 3GB 中國澳門共享流動數據"
+    },
+    {
+        "names": "ABC Mobile $100 流動電話儲值卡増值券",
+        "rating": "8.0",
+        "hon_price_min": "84",
+        "hon_price_max": "95",
+        "water_price_min": "82",
+        "water_price_max": "82"
+    },
+    {
+        "names": "Lucky Sim 540日 80GB 上網年半卡 + 2000 通話分鐘 本地數據儲值卡",
+        "rating": "10",
+        "hon_price_min": "160",
+        "hon_price_max": "180",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "80GB"
+    },
+    {
+        "names": "鴨聊佳 本地儲值卡(4G) 8GB/30日",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "33",
+        "本地話音通話/分鐘:": "$0.05",
+        "本地流動數據:": "8GB"
+    },
+    {
+        "names": "鴨聊佳 4G/3G 中國/香港3日數據卡 2GB全速+無限數據 CMHK 中國移動",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "本地流動數據:": "2GB全速+無限數據"
+    },
+    {
+        "names": "More Mobile 365日 33GB + 1000 通話分鐘 4G LTE 本地數據儲值卡",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "85",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "33GB"
+    },
+    {
+        "names": "More Mobile 現代移動 365日 66GB + 1000 通話分鐘 4G LTE 本地數據儲值卡",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "160",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "66GB"
+    },
+    {
+        "names": "ABC Mobile 365日 $240面值全功能儲值年卡",
+        "rating": "",
+        "hon_price_min": "72",
+        "hon_price_max": "178"
+    },
+    {
+        "names": "鴨聊佳 中國移動 90日60GB中國及香港4G全速數據卡",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "438"
+    },
+    {
+        "names": "Happy Telecom OPTUS 開心電訊 澳洲4G 10日無限數據卡",
+        "rating": ""
+    },
+    {
+        "names": "China Mobile 中國移動 香港 30日 $98 5GB 數據及話音儲值卡",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "本地流動數據:": "5GB"
+    },
+    {
+        "names": "Lucky Sim 3年 4.5G本地150GB數據卡 + 本地通話 10000分鐘",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "255",
+        "本地話音通話/分鐘:": "10000",
+        "本地流動數據:": "150GB"
+    },
+    {
+        "names": "Happy Telecom Happy (csl 頻譜) 365日本地222GB + 4000分鐘",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "288",
+        "本地話音通話/分鐘:": "4000",
+        "本地流動數據:": "222GB"
+    },
+    {
+        "names": "Lucky Sim 365日 40GB 上網年卡 + 2000 通話分鐘 本地數據儲值卡",
+        "rating": "",
+        "hon_price_min": "76",
+        "hon_price_max": "148",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "40GB"
+    },
+    {
+        "names": "3HK 和記3 4G LTE 42Mbps 25GB數據(20GB香港+5GB澳門) + 2000分鐘通話",
+        "rating": "10",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "中國聯通 $68香港及澳門7日上網卡",
+        "rating": "",
+        "hon_price_min": "52",
+        "hon_price_max": "65"
+    },
+    {
+        "names": "China Mobile 中國移動 香港 $80 數據及話音儲值卡",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "45",
+        "water_price_min": "34",
+        "water_price_max": "34"
+    },
+    {
+        "names": "Smartone $48寬頻及話音儲值咭",
+        "rating": "",
+        "hon_price_min": "19",
+        "hon_price_max": "25",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.12"
+    },
+    {
+        "names": "中國聯通 沃3G香港卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.39"
+    },
+    {
+        "names": "Smartone 數碼通smartone $50增值券",
+        "rating": "10",
+        "hon_price_min": "45",
+        "hon_price_max": "45"
+    },
+    {
+        "names": "ABC Mobile $68本地數據卡",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "50",
+        "本地話音通話/分鐘:": "100"
+    },
+    {
+        "names": "3HK 國際萬能咭 50GB (30GB 本地數據 + 20GB 社交媒體數據)",
+        "rating": "6.0",
+        "hon_price_min": "100",
+        "hon_price_max": "155",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "30GB+20GB 5大社交媒體數據"
+    },
+    {
+        "names": "Happy Telecom Happy  (csl 頻譜) 365日本地77GB + 2000分鐘",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "128",
+        "water_price_min": "95",
+        "water_price_max": "95",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "China Mobile 中國移動 4G/3G 大灣區3日電話/數據卡",
+        "rating": "",
+        "hon_price_min": "55",
+        "hon_price_max": "55"
+    },
+    {
+        "names": "Smartone $100 增值券Voucher",
+        "rating": "",
+        "hon_price_min": "96",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "ABC Mobile $78本地儲值卡",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45"
+    },
+    {
+        "names": "CSL 30日無限數據上網咭",
+        "rating": "8.7",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "本地流動數據:": "40GB, 40GB後低速無限"
+    },
+    {
+        "names": "Lucky Sim 365日 4G本地10GB數據卡 + 本地通話 2000 分鐘",
+        "rating": "4.7",
+        "hon_price_min": "40",
+        "hon_price_max": "70",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "10GB"
+    },
+    {
+        "names": "3HK 4G LTE本地及國際漫遊儲值卡",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150"
+    },
+    {
+        "names": "China Mobile 中國移動 4G/3G 大灣區10日電話/數據卡",
+        "rating": "10",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "IMC 365日 10GB 數據及話音儲值卡",
+        "rating": "8.0",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "本地話音通話/分鐘:": "1000"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK Kabayan $50 充值券",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "Happy Telecom 開心電訊 通訊皇 $48 IDD 儲值卡",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "24",
+        "water_price_min": "20",
+        "water_price_max": "20",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.11"
+    },
+    {
+        "names": "Telin Kartu As2in1 充值券 $100",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100"
+    },
+    {
+        "names": "3HK SPare SIM 50GB",
+        "rating": "",
+        "hon_price_min": "123",
+        "hon_price_max": "123",
+        "本地話音通話/分鐘:": "10000",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "China Mobile 中國移動 $80 4G/3G數據及話音儲值卡",
+        "rating": "7.5",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2/30日",
+        "本地流動數據:": "$0.5 /MB"
+    },
+    {
+        "names": "中國聯通 跨境王 一卡兩號儲值卡",
+        "rating": "6.0",
+        "本地話音通話/分鐘:": "$0.39",
+        "本地流動數據:": "$35 / 100MB",
+        "其後收費本地流動數據:": "$2 / MB"
+    },
+    {
+        "names": "China Mobile 中國移動 $48 本地話音儲值卡",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "water_price_min": "34",
+        "water_price_max": "34",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.12",
+        "隧道費:": "$2/30日",
+        "本地流動數據:": "$1.5 / MB"
+    },
+    {
+        "names": "China Mobile 中國移動 中國移動香港4G 365天 18GB+1200分鐘本地+300分鐘IDD致電國內",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "本地話音通話/分鐘:": "1200"
+    },
+    {
+        "names": "中國聯通 漫遊王儲值卡",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "70",
+        "本地話音通話/分鐘:": "$0.60",
+        "隧道費:": "$2.5/月",
+        "本地流動數據:": "$1 / 5MB"
+    },
+    {
+        "names": "中國移動 Kabayan 增值券 $100",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "100"
+    },
+    {
+        "names": "China Mobile 中國移動 IDD 儲值卡",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "本地話音通話/分鐘:": "$0.25",
+        "隧道費:": "$2/30日",
+        "本地流動數據:": "$1.5 / MB"
+    },
+    {
+        "names": "China Mobile 中國移動 365日年卡",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130"
+    },
+    {
+        "names": "FM Station 全港通充值券 $50",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "3HK 4G LTE數據組合儲值咭1GB 數據咭",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2(30日)"
+    },
+    {
+        "names": "Hemat CSL 雙月卡包2個月30GB本地無限上網 + 2000分鐘通話",
+        "rating": "2.0",
+        "hon_price_min": "40",
+        "hon_price_max": "88",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "Happy Telecom 3G 中港7日2GB數據卡",
+        "rating": ""
+    },
+    {
+        "names": "信京電訊 Gold 4G $50 Voucher",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "Lucky Sim 365日 4G本地60GB數據卡 + 本地通話 2000 分鐘",
+        "rating": "2.0",
+        "hon_price_min": "118",
+        "hon_price_max": "165",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "60GB"
+    },
+    {
+        "names": "中國聯通 3G GO!儲值卡",
+        "rating": "10",
+        "hon_price_min": "90",
+        "hon_price_max": "90",
+        "本地話音通話/分鐘:": "$0.80",
+        "本地流動數據:": "無限"
+    },
+    {
+        "names": "Your Mobile 流動電話儲值卡增值券 $100",
+        "rating": "",
+        "hon_price_min": "94",
+        "hon_price_max": "95"
+    },
+    {
+        "names": "HKT Club SIM",
+        "rating": "10",
+        "hon_price_min": "50",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "CM Mobile $45 無限傾(新版)流動電話儲值卡",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "本地話音通話/分鐘:": "$0.23",
+        "隧道費:": "每月$5",
+        "本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "中國聯通 跨境王(加強版)一咭兩號儲值卡",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "本地話音通話/分鐘:": "$0.39",
+        "本地流動數據:": "7日組合$48/300MB,  30日組合$68/500MB",
+        "其後收費本地流動數據:": "$0.8 / MB"
+    },
+    {
+        "names": "Smartone 數碼通 本地儲值卡 可上網 可通話 儲值額 $65",
+        "rating": ""
+    },
+    {
+        "names": "Smartone $80 PrePaid Sim 預付咭",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.12",
+        "本地流動數據:": "$8 / Hr"
+    },
+    {
+        "names": "3HK 3G $48 流動上網儲值咭",
+        "rating": "8.0",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "本地話音通話/分鐘:": "$0.30",
+        "其後收費本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "HKT WeChat Go Club SIM樂遊卡",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45"
+    },
+    {
+        "names": "More  4G LTE 360日15GB數據卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "1000"
+    },
+    {
+        "names": "Smartone Sahabat Setia SmarTone 儲值卡 ($50)",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45"
+    },
+    {
+        "names": "3HK $50 Recharge Voucher",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "3HK $128 自由行預付卡 (非3天包天優惠計劃)",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "本地話音通話/分鐘:": "$1.00",
+        "本地短訊/個:": "$0.8(網內) / $1.4(網外)"
+    },
+    {
+        "names": "3HK 和記3 4G 365日 20GB數據+2000分鐘通話",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "本地話音通話/分鐘:": "2000"
+    },
+    {
+        "names": "Happy Telecom CSL萬能年卡 60GB 4G LTE 本地數據 + 1000分鐘通話",
+        "rating": "2.8",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "60GB"
+    },
+    {
+        "names": "中國聯通 China Unicom CUniq 香港365日通話/上網卡 (120GB)",
+        "rating": "10",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "本地流動數據:": "120GB"
+    },
+    {
+        "names": "Lucky Sim 540日 4G本地100GB數據卡 + 本地通話 1000 分鐘",
+        "rating": "2.0",
+        "hon_price_min": "180",
+        "hon_price_max": "255",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "100GB"
+    },
+    {
+        "names": "Your Mobile 365日 $350面值全功能儲值年卡",
+        "rating": "8.0",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "本地流動數據:": "40GB"
+    },
+    {
+        "names": "Smartone Barkadahan sa SmarTone 儲值卡 ($50)",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45"
+    },
+    {
+        "names": "鴨聊佳 全中國/香港數據卡 (3日-1G) 4G No Voice",
+        "rating": "2.0",
+        "hon_price_min": "30",
+        "hon_price_max": "38"
+    },
+    {
+        "names": "China Mobile 中國移動 $80 本地數據及話音儲值卡 (4G/3G) 30日",
+        "rating": "8.0",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "water_price_min": "34",
+        "water_price_max": "34",
+        "本地話音通話/分鐘:": "$0.10"
+    },
+    {
+        "names": "3HK 和記 $100中港澳三地共享數據卡",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "70"
+    },
+    {
+        "names": "Kartu As2in1 $50 充值券",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK Rekanan 香港本地30日4G 無限任用上網卡+100分鐘本地通話",
+        "rating": "2.0",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "本地話音通話/分鐘:": "100"
+    },
+    {
+        "names": "3HK $68 香港逍遙遊儲值咭",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "本地話音通話/分鐘:": "$0.25",
+        "本地短訊/個:": "$0.3(網內) / $0.7(網外)"
+    },
+    {
+        "names": "ABC Mobile $98本地儲值卡",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "58",
+        "water_price_min": "45",
+        "water_price_max": "45"
+    },
+    {
+        "names": "CSL Kumusta Ka $100 增值券",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "98"
+    },
+    {
+        "names": "FM Station 中華遊 $138 儲值卡",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "China Mobile 中國移動 自遊行手機卡",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "本地話音通話/分鐘:": "$0.25",
+        "本地流動數據:": "1.5GB",
+        "其後收費本地流動數據:": "$1.5 / MB"
+    },
+    {
+        "names": "China Mobile 中國移動 4G/3G 18GB 本地數據儲值卡 365日年卡 1200分鐘本地+300分鐘IDD致電國內",
+        "rating": "",
+        "本地話音通話/分鐘:": "1200"
+    },
+    {
+        "names": "大眾電訊 MASS 365日80GB (CSL網絡) 上網數據卡 + 1000 通話分鐘 4G LTE 本地數據儲值卡",
+        "rating": "",
+        "hon_price_min": "142",
+        "hon_price_max": "142",
+        "本地話音通話/分鐘:": "1000",
+        "本地流動數據:": "80GB"
+    },
+    {
+        "names": "ABC Mobile $50 流動電話儲值卡増值券",
+        "rating": "10",
+        "hon_price_min": "43",
+        "hon_price_max": "48",
+        "water_price_min": "41",
+        "water_price_max": "41"
+    },
+    {
+        "names": "中國移動 Rekanan 增值券$100",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "100"
+    },
+    {
+        "names": "China Mobile 中國移動 4G/3G本地數據儲值卡  無限本地數據服務/30日",
+        "rating": "2.0",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "本地話音通話/分鐘:": "$0.10",
+        "本地流動數據:": "無限 (首5GB傳輸速度最高為21Mbps，其後最高為384Kbps)"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK Kabayan 4G 超級數據預付 SIM 卡",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "59",
+        "本地流動數據:": "訂購4G本地數據包，只需$98/30天即可輕鬆享受4G服務"
+    },
+    {
+        "names": "3HK 3G 至抵月費循環儲值咭",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "本地話音通話/分鐘:": "$0.30",
+        "本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "CSL 微信 Wechat Go Club SIM 8天 8GB 4G 樂遊卡",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "本地話音通話/分鐘:": "無限",
+        "本地流動數據:": "8GB 4G"
+    },
+    {
+        "names": "中國聯通 China Unicom CUniq 香港365日通話/上網卡 (40GB)",
+        "rating": "",
+        "本地流動數據:": "40GB"
+    },
+    {
+        "names": "Your Mobile $48本地儲值卡",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "28"
+    },
+    {
+        "names": "CSL 30日4G無限上網及通話咭",
+        "rating": "10",
+        "hon_price_min": "35",
+        "hon_price_max": "38",
+        "本地話音通話/分鐘:": "400",
+        "其後收費本地流動數據:": "10GB後384kbps任用"
+    },
+    {
+        "names": "Smartone $50 增值券Voucher",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "50"
+    },
+    {
+        "names": "7-Connect $48 本地 Social 儲值卡",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "隧道費:": "$18"
+    },
+    {
+        "names": "Smartone 數碼通 smartone $100增值券",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95"
+    },
+    {
+        "names": "3HK 和記 中港澳台共5GB萬能卡",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220"
+    },
+    {
+        "names": "More 現代移動 $498 4GLTE 360日10GB數據 +500本地分鐘通話卡",
+        "rating": "2.0",
+        "hon_price_min": "55",
+        "hon_price_max": "55",
+        "本地話音通話/分鐘:": "500"
+    },
+    {
+        "names": "CSL Kumusta Ka $20 增值券",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20"
+    },
+    {
+        "names": "3HK 3G $298 流動上網儲值咭",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "本地話音通話/分鐘:": "$0.30",
+        "其後收費本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "China Mobile 中國移動 漫遊儲值卡",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "本地話音通話/分鐘:": "$0.10",
+        "本地流動數據:": "$1.5/MB"
+    },
+    {
+        "names": "大眾電訊 MASS 365日50GB (CSL網絡) 上網數據卡 + 500 通話分鐘 4G LTE 本地數據儲值卡",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "98",
+        "本地話音通話/分鐘:": "500",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "3HK 本地話音儲值卡",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "本地話音通話/分鐘:": "960"
+    },
+    {
+        "names": "中國聯通 如意香港卡 儲值卡",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "本地話音通話/分鐘:": "$0.25",
+        "隧道費:": "$2/月",
+        "本地流動數據:": "$1 / MB"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK Kabayan $20 充值券",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20"
+    },
+    {
+        "names": "Happy Telecom 本地3G 180日6GB數據卡",
+        "rating": "",
+        "本地流動數據:": "6GB"
+    },
+    {
+        "names": "中國聯通 4G/3G 香港 365日 120GB 通話/上網卡 $358",
+        "rating": "",
+        "本地流動數據:": "120GB"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK $300增值券 Refill",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290"
+    },
+    {
+        "names": "3HK 3G $68 流動上網儲值咭",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "本地話音通話/分鐘:": "$0.10",
+        "其後收費本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "3HK THREE國際萬能卡增值券 (套裝組合)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120"
+    },
+    {
+        "names": "中國聯通 中港7日上網卡(1GB)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58"
+    },
+    {
+        "names": "3HK 3G $198 數據儲值咭",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "本地話音通話/分鐘:": "$0.10",
+        "其後收費本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "China Mobile 中國移動 $120 一卡兩號流動電話儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.30",
+        "隧道費:": "$6/30日",
+        "本地流動數據:": "$1.5 / MB"
+    },
+    {
+        "names": "Smartone 寬頻及話音儲值咭",
+        "rating": "",
+        "hon_price_min": "19",
+        "hon_price_max": "55",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.12",
+        "其後收費本地流動數據:": "每 日 用 至 HK$24 後 即 可 免 費 任 用 至 當 晚 11:59"
+    },
+    {
+        "names": "Smartone $48 PrePaid Sim 預付咭",
+        "rating": "10",
+        "hon_price_min": "19",
+        "hon_price_max": "55",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.12",
+        "本地流動數據:": "$8 / Hr"
+    },
+    {
+        "names": "Happy Telecom CSL 萬能年卡 28GB 4G 數據 + 2000分鐘通話",
+        "rating": "2.8",
+        "hon_price_min": "70",
+        "hon_price_max": "70",
+        "本地話音通話/分鐘:": "2000",
+        "本地流動數據:": "28GB 4G"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK Rekanan $20 充值券",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20"
+    },
+    {
+        "names": "Happy Telecom 本地流動儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "非繁忙: $0.06 / 繁忙: $0.12"
+    },
+    {
+        "names": "Vave 無限本地儲值卡",
+        "rating": "2.0"
+    },
+    {
+        "names": "Smartone 30日無限數據上網咭",
+        "rating": "2.0",
+        "hon_price_min": "45",
+        "hon_price_max": "45"
+    },
+    {
+        "names": "3HK 3G $98 流動上網儲值咭",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "本地話音通話/分鐘:": "$0.30",
+        "其後收費本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "IMC $148 365日 3GB 數據及話音儲值卡",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "本地話音通話/分鐘:": "1000"
+    },
+    {
+        "names": "3HK $98 本地及IDD儲值咭",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "本地話音通話/分鐘:": "$0.1(話音月費計畫) / $0.3",
+        "本地短訊/個:": "$1(網內) / $0.4(網外)"
+    },
+    {
+        "names": "More 現代移動 4G 7天中港澳台共用1GB數據卡",
+        "rating": ""
+    },
+    {
+        "names": "中國聯通 $46 4G數據王",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "24",
+        "本地話音通話/分鐘:": "$0.07",
+        "本地流動數據:": "分別有3日，5日，7日，30日的數據組合"
+    },
+    {
+        "names": "3HK $200 本地30日4G/3G無限上網電話卡",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230"
+    },
+    {
+        "names": "3HK 4G LTE數據組合儲值咭2GB 數據咭",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2(30日)"
+    },
+    {
+        "names": "Happy Telecom 港澳遊客卡",
+        "rating": ""
+    },
+    {
+        "names": "CM Mobile $100 中國通流動電話儲值卡（飛線版）儲值卡",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "本地話音通話/分鐘:": "非繁忙: $0.23 / 繁忙: $0.49",
+        "隧道費:": "每月$7",
+        "本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "3HK 4G LTE 2日數據咭 (500MB)",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2(30日)",
+        "本地流動數據:": "500MB FUP無限"
+    },
+    {
+        "names": "China Mobile 中國移動 中國移動 $100增值券",
+        "rating": "",
+        "hon_price_min": "94",
+        "hon_price_max": "95"
+    },
+    {
+        "names": "JOYTEL 香港本地 30天 真4G無限不限速上網卡",
+        "rating": "4.4",
+        "本地流動數據:": "4G無限"
+    },
+    {
+        "names": "Vave 30天Vave 8GB本地數據儲值卡$198",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88"
+    },
+    {
+        "names": "CM Mobile $45 中國通流動電話儲值卡（飛線版）儲值卡",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "本地話音通話/分鐘:": "非繁忙: $0.23 / 繁忙: $0.49",
+        "隧道費:": "每月$7",
+        "本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "中國聯通 大灣區 (廣東+香港+澳門) 15日上網卡 (4GB+無限)",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "本地流動數據:": "4GB+無限"
+    },
+    {
+        "names": "3HK 4G LTE $198 數據儲值咭",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2.5(30日)",
+        "其後收費本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "Happy Telecom 香港無限本地數據及語音通話儲值卡 8日",
+        "rating": ""
+    },
+    {
+        "names": "More 現代移動 $98 4GLTE 儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.12"
+    },
+    {
+        "names": "China Mobile 中國移動 CMHK Rekanan 4G 數據預付卡",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "本地短訊/個:": "CMHK客戶網內提供免費短信服務",
+        "本地流動數據:": "訂購4G本地互聯網數據包只需HK $98/30天享受數據服務。"
+    },
+    {
+        "names": "Kartu As2in1 $20 充值券",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20"
+    },
+    {
+        "names": "Smart PLDT 528 Smart 1528 充值券 $50",
+        "rating": ""
+    },
+    {
+        "names": "FM Station 上網通儲值電話咭360天使用有效期+額外贈送之5000分鐘本地通話服務",
+        "rating": "8.0",
+        "本地話音通話/分鐘:": "5000"
+    },
+    {
+        "names": "FM Station 全港通 $48 儲值卡",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "24",
+        "本地話音通話/分鐘:": "$0.20"
+    },
+    {
+        "names": "中國聯通 $48隨意King儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.14"
+    },
+    {
+        "names": "3HK 4G LTE 7日數據咭 (1GB)",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2(30日)",
+        "本地流動數據:": "1GB FUP無限"
+    },
+    {
+        "names": "3HK 4G LTE數據組合儲值咭3GB 數據咭",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2(30日)"
+    },
+    {
+        "names": "3HK $48 本地及IDD儲值咭",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "本地話音通話/分鐘:": "非繁忙: $0.06 / 繁忙: $0.12",
+        "本地短訊/個:": "免費(網內) / $0.5(網外)"
+    },
+    {
+        "names": "SmarTone 數碼通 $98 本地月費卡",
+        "rating": ""
+    },
+    {
+        "names": "中國聯通 Circle K 本地IDD儲值卡",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "本地話音通話/分鐘:": "$0.18",
+        "隧道費:": "$2.5/月",
+        "本地流動數據:": "$2/MB"
+    },
+    {
+        "names": "FM Station 全港通 $98 儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.20"
+    },
+    {
+        "names": "中國聯通 4G/3G 內地及香港 8日無限上網卡 $150",
+        "rating": ""
+    },
+    {
+        "names": "China Mobile 中國移動 4G/3G本地數據及話音儲值卡 (4G/3G) 30日",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.10"
+    },
+    {
+        "names": "7-Connect $98 本地八達通儲值通話卡",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "本地話音通話/分鐘:": "非繁忙: $0.06 / 繁忙: $0.12",
+        "隧道費:": "$2.5"
+    },
+    {
+        "names": "China Mobile 中國移動 4G/3G數據及話音漫遊儲值卡",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2(30日)",
+        "本地流動數據:": "$1/MB"
+    },
+    {
+        "names": "中國聯通 4G/3G 內地及香港 90日 50GB 上網卡 $568",
+        "rating": "",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "Happy Telecom 本地流動數據/ IDD 及漫遊儲值卡",
+        "rating": "4.0",
+        "本地話音通話/分鐘:": "非繁忙: $0.06 / 繁忙: $0.12"
+    },
+    {
+        "names": "3HK 4G LTE 14日數據咭 (3GB)",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2(30日)",
+        "本地流動數據:": "3GB FUP無限"
+    },
+    {
+        "names": "3HK $128 自由行預付卡 ($88 3天包天優惠計畫)",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "本地短訊/個:": "免費(網內) / $1(網外)"
+    },
+    {
+        "names": "3HK 3GAMER 儲值咭 $138",
+        "rating": "",
+        "其後收費本地流動數據:": "2GB"
+    },
+    {
+        "names": "One2Free IDD 及漫遊儲值卡 $60",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.25",
+        "隧道費:": "$2.5/30日",
+        "本地流動數據:": "30天通行證–1GB $88/ 30日"
+    },
+    {
+        "names": "One2Free 香港遊預付卡",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "本地話音通話/分鐘:": "127",
+        "本地流動數據:": "7 day unlimited ($78/7days)"
+    },
+    {
+        "names": "U-mobile 連續7天/1GB高速數據 + 限速無限上網",
+        "rating": ""
+    },
+    {
+        "names": "One2Free 全功能儲值卡 $88",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.10",
+        "隧道費:": "$2.5/30日",
+        "本地流動數據:": "30天通行證–1GB\t$88/ 30日"
+    },
+    {
+        "names": "More  42mbp 4G LTE 30日1GB數據咭",
+        "rating": "2.0",
+        "hon_price_min": "40",
+        "hon_price_max": "40",
+        "本地話音通話/分鐘:": "100",
+        "隧道費:": "0",
+        "本地流動數據:": "1GB"
+    },
+    {
+        "names": "China Mobile 中國移動 $120 4G/3G 一卡兩號流動電話儲值卡",
+        "rating": "6.0",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "本地話音通話/分鐘:": "$0.30",
+        "本地流動數據:": "$1.5/MB"
+    },
+    {
+        "names": "CSL $100 Recharge Voucher 流動電話儲值卡增值券",
+        "rating": ""
+    },
+    {
+        "names": "3HK 4本地10天無限數據卡",
+        "rating": ""
+    },
+    {
+        "names": "中國聯通 $120 一卡兩號流動電話儲值卡",
+        "rating": "10",
+        "本地話音通話/分鐘:": "$0.55",
+        "其後收費本地流動數據:": "$1/MB"
+    },
+    {
+        "names": "CSL $50 Recharge Voucher 流動電話儲值卡增值券",
+        "rating": ""
+    },
+    {
+        "names": "China Mobile 中國移動 $188 5GB 4G/3G數據1800分鐘話音儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "1800"
+    },
+    {
+        "names": "3HK $48本地話音儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "960"
+    },
+    {
+        "names": "More  42mbp 4G LTE 30日3GB數據咭",
+        "rating": "",
+        "本地話音通話/分鐘:": "100",
+        "隧道費:": "0",
+        "本地流動數據:": "3GB"
+    },
+    {
+        "names": "China Mobile 中國移動 4G/3G自遊行手機卡 (5日)",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.25",
+        "本地流動數據:": "3GB全速+無限數據"
+    },
+    {
+        "names": "TriHalo Prepaid Sim $38",
+        "rating": ""
+    },
+    {
+        "names": "One2Free 本地儲值卡 $78",
+        "rating": "",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.12",
+        "隧道費:": "$2.5/30日",
+        "本地流動數據:": "30天通行證– 1GB $88/ 30日"
+    },
+    {
+        "names": "China Mobile 中國移動 $68 4G/3G自遊行手機卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "$0.25",
+        "本地流動數據:": "1.5GB"
+    },
+    {
+        "names": "中國聯通 China Unicom CUniq 內地及香港180日上網卡 (50GB)",
+        "rating": "",
+        "本地流動數據:": "50GB"
+    },
+    {
+        "names": "China One $128 4G中港至好傾預付儲值卡",
+        "rating": "",
+        "本地話音通話/分鐘:": "1000"
+    },
+    {
+        "names": "China One IDD至好傾4G數據儲值卡",
+        "rating": ""
+    },
+    {
+        "names": "One2Free 本地儲值卡 $48",
+        "rating": "10",
+        "本地話音通話/分鐘:": "非繁忙: $0.05 / 繁忙: $0.12",
+        "隧道費:": "$2.5/30日",
+        "本地流動數據:": "30天通行證– 1GB $88/ 30日"
+    },
+    {
+        "names": "3HK 中港澳8GB 365日 4G漫遊流動數據儲值卡",
+        "rating": ""
+    },
+    {
+        "names": "More  4G LTE 360日10GB數據卡",
+        "rating": "10",
+        "本地話音通話/分鐘:": "500",
+        "隧道費:": "3.5",
+        "本地流動數據:": "10GB"
+    }
+]

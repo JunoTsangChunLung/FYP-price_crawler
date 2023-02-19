@@ -9,7 +9,7 @@ a = []
 
 while page < 20:
     # Send a request to the website
-    response = requests.get(f"https://www.price.com.hk/category.php?c=100156&gp=10&page={page}")
+    response = requests.get(f"https://www.price.com.hk/category.php?c=100204&gp=10&page={page}")
 
     # Parse the HTML content of the page
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -28,7 +28,6 @@ while page < 20:
         else:
             d['rating'] = rating
         
-
         # sell = product.find('div', class_="button product-detail-button")
         # if sell.text.strip() == "已售出":
         #     continue
@@ -71,6 +70,6 @@ while page < 20:
     page = page + 1
 
 data_str = json.dumps(a, indent=4, ensure_ascii=False)
-with open("data/通訊/手提電話/smart_watch.txt", "w", encoding="utf-8") as file:
+with open("data/通訊/手提電話/本地儲值卡.txt", "w", encoding="utf-8") as file:
     file.write(data_str)
 

@@ -1,91 +1,14 @@
 [
     {
-        "names": "Nokia 5710",
-        "rating": "10",
-        "hon_price_min": "610",
-        "hon_price_max": "790",
-        "water_price_min": "598",
-        "water_price_max": "598"
-    },
-    {
         "names": "Philips 飛利浦 E518",
         "rating": "8.7",
         "hon_price_min": "480",
         "hon_price_max": "678",
         "water_price_min": "478",
-        "water_price_max": "598"
-    },
-    {
-        "names": "Nokia 105 4G",
-        "rating": "6.4",
-        "hon_price_min": "260",
-        "hon_price_max": "320"
-    },
-    {
-        "names": "Nokia 2660 Flip",
-        "rating": "6.9",
-        "hon_price_min": "560",
-        "hon_price_max": "798",
-        "water_price_min": "498",
-        "water_price_max": "548"
-    },
-    {
-        "names": "Philips 飛利浦 E535",
-        "rating": "8.4",
-        "hon_price_min": "498",
-        "hon_price_max": "599",
-        "water_price_min": "478",
-        "water_price_max": "538"
-    },
-    {
-        "names": "SigTone V10 4G 智能折疊手機",
-        "rating": "10",
-        "hon_price_min": "880",
-        "hon_price_max": "880"
-    },
-    {
-        "names": "Philips 飛利浦 E533",
-        "rating": "8.0",
-        "hon_price_min": "458",
-        "hon_price_max": "599",
-        "water_price_min": "438",
-        "water_price_max": "498"
-    },
-    {
-        "names": "Nokia 215 4G",
-        "rating": "8.8",
-        "hon_price_min": "288",
-        "hon_price_max": "468"
-    },
-    {
-        "names": "Nokia 8210 4G",
-        "rating": "4.0",
-        "hon_price_min": "510",
-        "hon_price_max": "698",
-        "water_price_min": "498",
-        "water_price_max": "498"
-    },
-    {
-        "names": "Doov R20",
-        "rating": "10",
-        "hon_price_min": "450",
-        "hon_price_max": "470",
-        "water_price_min": "450",
-        "water_price_max": "450"
-    },
-    {
-        "names": "Nokia 225 4G",
-        "rating": "6.7",
-        "hon_price_min": "358",
-        "hon_price_max": "495"
-    },
-    {
-        "names": "VOCA V330",
-        "rating": "10",
-        "hon_price_min": "428",
-        "hon_price_max": "498",
-        "water_price_min": "458",
-        "water_price_max": "458"
+        "water_price_max": "598",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "131g",
+        "尺寸:": "133 x 56.9 x 14mm"
     },
     {
         "names": "VOCA V540 4G",
@@ -93,7 +16,22 @@
         "hon_price_min": "799",
         "hon_price_max": "899",
         "water_price_min": "788",
-        "water_price_max": "788"
+        "water_price_max": "788",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "80g",
+        "尺寸:": "103 x 52 x 21mm"
+    },
+    {
+        "names": "Nokia 5710",
+        "rating": "10",
+        "hon_price_min": "610",
+        "hon_price_max": "790",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "2G/3G/3.5G/4G:": "4G",
+        "藍芽:": "5.0",
+        "重量:": "129.1g",
+        "尺寸:": "138.9 x 57.7 x 16.2mm"
     },
     {
         "names": "Gionee 4G 摺疊手機 V16",
@@ -101,93 +39,139 @@
         "hon_price_min": "668",
         "hon_price_max": "699",
         "water_price_min": "648",
-        "water_price_max": "699"
-    },
-    {
-        "names": "Philips 飛利浦 老人電話 E525",
-        "rating": "",
-        "hon_price_min": "410",
-        "hon_price_max": "498",
-        "water_price_min": "410",
-        "water_price_max": "410"
-    },
-    {
-        "names": "Punkt MP02 4G (2+16GB)",
-        "rating": "",
-        "hon_price_min": "3,999",
-        "hon_price_max": "3,999"
-    },
-    {
-        "names": "Nokia 8000 4G",
-        "rating": "5.8",
-        "hon_price_min": "530",
-        "hon_price_max": "650"
-    },
-    {
-        "names": "Doov 長者手機 M99",
-        "rating": "",
-        "hon_price_min": "390",
-        "hon_price_max": "428"
-    },
-    {
-        "names": "Philips 飛利浦 E517",
-        "rating": "10",
-        "hon_price_min": "310",
-        "hon_price_max": "380",
-        "water_price_min": "310",
-        "water_price_max": "350"
-    },
-    {
-        "names": "Philips 飛利浦 E256S",
-        "rating": "10",
-        "hon_price_min": "318",
-        "hon_price_max": "438",
-        "water_price_min": "278",
-        "water_price_max": "380"
+        "water_price_max": "699",
+        "2G/3G/3.5G/4G:": "4G",
+        "顯示屏:": "2.8吋"
     },
     {
         "names": "Philips 飛利浦 長者手機 E528",
         "rating": "10",
         "hon_price_min": "398",
-        "hon_price_max": "427"
+        "hon_price_max": "427",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "115g",
+        "尺寸:": "125 x 55 x 12mm"
     },
     {
-        "names": "Philips 飛利浦 E212A",
-        "rating": "8.0",
-        "hon_price_min": "318",
-        "hon_price_max": "378",
-        "water_price_min": "278",
-        "water_price_max": "278"
+        "names": "Philips 飛利浦 E535",
+        "rating": "8.4",
+        "hon_price_min": "498",
+        "hon_price_max": "599",
+        "water_price_min": "478",
+        "water_price_max": "538",
+        "2G/3G/3.5G/4G:": "4G",
+        "顯示屏:": "2.8吋"
     },
     {
-        "names": "Philips 飛利浦 E259S",
-        "rating": "9.6",
-        "hon_price_min": "320",
-        "hon_price_max": "438",
-        "water_price_min": "320",
-        "water_price_max": "360"
+        "names": "SigTone V10 4G 智能折疊手機",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "120g",
+        "尺寸:": "108 x 56.5 x 20.5mm"
     },
     {
-        "names": "Caterpillar CAT B30",
-        "rating": "6.0",
-        "hon_price_min": "468",
-        "hon_price_max": "598",
-        "water_price_min": "398",
-        "water_price_max": "398"
+        "names": "Nokia 105 4G",
+        "rating": "6.4",
+        "hon_price_min": "260",
+        "hon_price_max": "320",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "80.2g",
+        "尺寸:": "121 x 50 x 14.5mm"
     },
     {
-        "names": "VOCA V140 4G",
-        "rating": "",
-        "hon_price_min": "399",
-        "hon_price_max": "499"
+        "names": "Nokia 2660 Flip",
+        "rating": "6.9",
+        "hon_price_min": "560",
+        "hon_price_max": "798",
+        "water_price_min": "490",
+        "water_price_max": "548",
+        "2G/3G/3.5G/4G:": "4G",
+        "藍芽:": "4.2",
+        "重量:": "123g",
+        "尺寸:": "108 x 55 x 18.9mm"
     },
     {
-        "names": "VOCA V533",
-        "rating": "8.0",
-        "hon_price_min": "538",
-        "hon_price_max": "588",
+        "names": "VOCA V330",
+        "rating": "10",
+        "hon_price_min": "428",
+        "hon_price_max": "498",
+        "water_price_min": "458",
+        "water_price_max": "458",
+        "2G/3G/3.5G/4G:": "2G/3G",
+        "重量:": "80g",
+        "尺寸:": "103 x 52 x 21mm"
+    },
+    {
+        "names": "Nokia 8210 4G",
+        "rating": "4.0",
+        "hon_price_min": "510",
+        "hon_price_max": "698",
         "water_price_min": "498",
-        "water_price_max": "498"
+        "water_price_max": "498",
+        "2G/3G/3.5G/4G:": "4G",
+        "藍芽:": "5.0",
+        "重量:": "107g",
+        "尺寸:": "131.3 x 56.2 x 13.8mm"
+    },
+    {
+        "names": "Nokia 8000 4G",
+        "rating": "5.8",
+        "hon_price_min": "530",
+        "hon_price_max": "650",
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "200萬像素",
+        "重量:": "110.2g",
+        "尺寸:": "132.2 x 56.5 x 12.34mm"
+    },
+    {
+        "names": "Nokia 215 4G",
+        "rating": "8.8",
+        "hon_price_min": "288",
+        "hon_price_max": "468",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "90.3g",
+        "尺寸:": "124.7 x 51.0 x 13.7mm"
+    },
+    {
+        "names": "Nokia 225 4G",
+        "rating": "6.7",
+        "hon_price_min": "358",
+        "hon_price_max": "495",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "90.1g",
+        "尺寸:": "124.7 x 51 x 13.7mm"
+    },
+    {
+        "names": "Doov R20",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "470",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "2G/3G/3.5G/4G:": "4G",
+        "尺寸:": "134.5 x56 x 15.5毫米"
+    },
+    {
+        "names": "Philips 飛利浦 E533",
+        "rating": "8.0",
+        "hon_price_min": "458",
+        "hon_price_max": "580",
+        "water_price_min": "438",
+        "water_price_max": "498",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "120g",
+        "尺寸:": "50 x 100 x 20mm"
+    },
+    {
+        "names": "Philips 飛利浦 Xenium E309 4G",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "91.3g",
+        "尺寸:": "116.2 x 56.5 x 15mm"
     },
     {
         "names": "Philips 飛利浦 E218L",
@@ -195,25 +179,140 @@
         "hon_price_min": "325",
         "hon_price_max": "399",
         "water_price_min": "298",
-        "water_price_max": "399"
+        "water_price_max": "330",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "30萬像素",
+        "重量:": "120g",
+        "尺寸:": "102 x 50 x 19mm"
     },
     {
-        "names": "Nokia 106 Dual Slim",
+        "names": "Philips 飛利浦 E259S",
+        "rating": "9.6",
+        "hon_price_min": "320",
+        "hon_price_max": "438",
+        "water_price_min": "320",
+        "water_price_max": "360",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "30萬像素",
+        "重量:": "160g",
+        "尺寸:": "117 x 57 x 21.7mm"
+    },
+    {
+        "names": "Philips 飛利浦 Xenium E319 2G",
         "rating": "",
-        "hon_price_min": "198",
-        "hon_price_max": "199",
-        "water_price_min": "148",
-        "water_price_max": "148"
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "110g",
+        "尺寸:": "135.7 x 56.2 x 12.7mm"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E525",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "498",
+        "water_price_min": "410",
+        "water_price_max": "410",
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "Philips 飛利浦 E517",
+        "rating": "10",
+        "hon_price_min": "310",
+        "hon_price_max": "380",
+        "water_price_min": "310",
+        "water_price_max": "350",
+        "2G/3G/3.5G/4G:": "2G/3G/4G",
+        "顯示屏:": "2.4吋"
+    },
+    {
+        "names": "Doov 長者手機 M99",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "428",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "135g",
+        "尺寸:": "100 x 52 x 21.3mm"
+    },
+    {
+        "names": "Philips 飛利浦 E171L",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "288",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "111.5g",
+        "尺寸:": "123.4 x 57.2 x 14.5mm"
+    },
+    {
+        "names": "Punkt MP02 4G (2+16GB)",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "100g",
+        "尺寸:": "117 x 51.3 x 14.4mm"
+    },
+    {
+        "names": "Hoswn H999",
+        "rating": "10",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "顯示屏:": "1.54吋",
+        "尺寸:": "127 x 34 x 37mm"
+    },
+    {
+        "names": "Philips 飛利浦 E212A",
+        "rating": "8.0",
+        "hon_price_min": "318",
+        "hon_price_max": "378",
+        "water_price_min": "278",
+        "water_price_max": "278",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2.8吋",
+        "尺寸:": "108.5 x 57.5 x 19.5mm"
     },
     {
         "names": "Philips 飛利浦 老人電話 E527",
         "rating": "",
         "hon_price_min": "380",
-        "hon_price_max": "380"
+        "hon_price_max": "380",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "109g"
     },
     {
-        "names": "Nokia 2720 Flip",
-        "rating": "6.0"
+        "names": "Caterpillar CAT B30",
+        "rating": "6.0",
+        "hon_price_min": "468",
+        "hon_price_max": "598",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "2G/3G/3.5G/4G:": "2G/3G",
+        "藍芽:": "支援",
+        "重量:": "105g",
+        "尺寸:": "118 x 54 x 16mm"
+    },
+    {
+        "names": "Philips 飛利浦 E256S",
+        "rating": "10",
+        "hon_price_min": "318",
+        "hon_price_max": "438",
+        "water_price_min": "278",
+        "water_price_max": "380",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "120g",
+        "尺寸:": "105 x 53 x 20"
+    },
+    {
+        "names": "Nokia 6300 4G",
+        "rating": "10",
+        "water_price_min": "480",
+        "water_price_max": "480",
+        "2G/3G/3.5G/4G:": "4G",
+        "藍芽:": "4.0",
+        "重量:": "104.7g",
+        "尺寸:": "131.4 x 53 x 13.7mm"
     },
     {
         "names": "Philips 飛利浦 E515",
@@ -221,219 +320,24 @@
         "hon_price_min": "498",
         "hon_price_max": "679",
         "water_price_min": "488",
-        "water_price_max": "588"
+        "water_price_max": "588",
+        "2G/3G/3.5G/4G:": "4G"
     },
     {
-        "names": "Nokia 6300 4G",
-        "rating": "10",
-        "water_price_min": "480",
-        "water_price_max": "480"
-    },
-    {
-        "names": "Philips 飛利浦 老人電話 E516",
-        "rating": "",
-        "hon_price_min": "450",
-        "hon_price_max": "450"
-    },
-    {
-        "names": "Doov R19 4G",
-        "rating": "",
-        "hon_price_min": "670",
-        "hon_price_max": "698",
-        "water_price_min": "558",
-        "water_price_max": "598"
-    },
-    {
-        "names": "Hoswn H999",
-        "rating": "10",
-        "water_price_min": "950",
-        "water_price_max": "950"
-    },
-    {
-        "names": "Philips 飛利浦 老人電話 E268",
-        "rating": "",
-        "hon_price_min": "279",
-        "hon_price_max": "279"
-    },
-    {
-        "names": "Philips 飛利浦 E171L",
-        "rating": "",
-        "hon_price_min": "280",
-        "hon_price_max": "288"
-    },
-    {
-        "names": "Doov R17 4G",
-        "rating": "",
-        "hon_price_min": "670",
-        "hon_price_max": "680"
-    },
-    {
-        "names": "GAIX G1",
-        "rating": "",
-        "hon_price_min": "298",
-        "hon_price_max": "298"
-    },
-    {
-        "names": "Nokia 106 (停產)",
+        "names": "Nokia 2720 Flip",
         "rating": "6.0",
-        "hon_price_min": "198",
-        "hon_price_max": "220"
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "4.2"
     },
     {
-        "names": "Philips 飛利浦 老人電話 E207",
+        "names": "Philips 飛利浦 Xenium E209 2G",
         "rating": "",
-        "hon_price_min": "288",
-        "hon_price_max": "288"
-    },
-    {
-        "names": "Philips 飛利浦 E258S",
-        "rating": "",
-        "hon_price_min": "230",
-        "hon_price_max": "275"
-    },
-    {
-        "names": "Nokia 215",
-        "rating": "9.0",
-        "hon_price_min": "290",
-        "hon_price_max": "360"
-    },
-    {
-        "names": "Yeemi K21+",
-        "rating": "",
-        "hon_price_min": "578",
-        "hon_price_max": "578"
-    },
-    {
-        "names": "Samsung 三星 C270",
-        "rating": ""
-    },
-    {
-        "names": "Philips 飛利浦 大字按鍵手機 E107",
-        "rating": ""
-    },
-    {
-        "names": "Alcatel 2045X",
-        "rating": "8.0",
-        "hon_price_min": "338",
-        "hon_price_max": "338",
-        "water_price_min": "299",
-        "water_price_max": "299"
-    },
-    {
-        "names": "Nokia 105 (2019)",
-        "rating": "",
-        "water_price_min": "180",
-        "water_price_max": "180"
-    },
-    {
-        "names": "Samsung 三星 GT-S3600i",
-        "rating": "10",
-        "hon_price_min": "398",
-        "hon_price_max": "398",
-        "water_price_min": "288",
-        "water_price_max": "288"
-    },
-    {
-        "names": "Sony Ericsson K530i",
-        "rating": "7.0",
-        "water_price_min": "530",
-        "water_price_max": "530"
-    },
-    {
-        "names": "Obooy EA108",
-        "rating": ""
-    },
-    {
-        "names": "LG 樂金 KF510",
-        "rating": "10",
-        "water_price_min": "1,350",
-        "water_price_max": "1,350"
-    },
-    {
-        "names": "ZANCO Tiny T1",
-        "rating": "",
-        "hon_price_min": "358",
-        "hon_price_max": "368"
-    },
-    {
-        "names": "Philips 飛利浦 E108",
-        "rating": "4.0"
-    },
-    {
-        "names": "Samsung 三星 C3520",
-        "rating": "8.0",
-        "water_price_min": "280",
-        "water_price_max": "280"
-    },
-    {
-        "names": "Nokia 3310 3G",
-        "rating": "5.0"
-    },
-    {
-        "names": "LG 樂金 GD550",
-        "rating": "7.0",
-        "hon_price_min": "1,185",
-        "hon_price_max": "1,185"
-    },
-    {
-        "names": "LG 樂金 A170",
-        "rating": ""
-    },
-    {
-        "names": "Nokia 7100",
-        "rating": "",
-        "hon_price_min": "570",
-        "hon_price_max": "570"
-    },
-    {
-        "names": "Samsung 三星 Diva S7070C",
-        "rating": "8.0",
-        "hon_price_min": "1,660",
-        "hon_price_max": "1,660"
-    },
-    {
-        "names": "Samsung 三星 Touch WiZ F488",
-        "rating": "7.8",
-        "water_price_min": "650",
-        "water_price_max": "650"
-    },
-    {
-        "names": "Nokia X2-00",
-        "rating": "8.9",
-        "hon_price_min": "1,080",
-        "hon_price_max": "1,080"
-    },
-    {
-        "names": "SHOUYUE V968",
-        "rating": ""
-    },
-    {
-        "names": "Samsung 三星 E1310c",
-        "rating": ""
-    },
-    {
-        "names": "Motorola WX295",
-        "rating": "",
-        "hon_price_min": "499",
-        "hon_price_max": "499"
-    },
-    {
-        "names": "Alcatel OT-1035D",
-        "rating": "",
-        "hon_price_min": "398",
-        "hon_price_max": "398",
-        "water_price_min": "298",
-        "water_price_max": "298"
-    },
-    {
-        "names": "COPICEL E918",
-        "rating": ""
-    },
-    {
-        "names": "Sony Ericsson G900i",
-        "rating": "8.9",
-        "hon_price_min": "986",
-        "hon_price_max": "986"
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "94.8g",
+        "尺寸:": "124.6 x 59 x 14.2mm"
     },
     {
         "names": "Samsung 三星 C3520",
@@ -441,37 +345,656 @@
         "hon_price_min": "498",
         "hon_price_max": "498",
         "water_price_min": "278",
-        "water_price_max": "280"
+        "water_price_max": "280",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "2.1",
+        "重量:": "97.5g",
+        "尺寸:": "102 x 52 x 16.8 mm"
     },
     {
-        "names": "Ghaonhomc  V10",
-        "rating": ""
-    },
-    {
-        "names": "KR M999",
+        "names": "VOCA 3G V530 手提電話",
         "rating": "",
-        "hon_price_min": "480",
-        "hon_price_max": "480"
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "2G/3G/3.5G/4G:": "2G/3G",
+        "重量:": "80g",
+        "尺寸:": "103 x 52 x 21mm"
+    },
+    {
+        "names": "Philips 飛利浦 E506",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "2G/3G/3.5G/4G:": "4G",
+        "顯示屏:": "2.4吋"
+    },
+    {
+        "names": "Doov R17 4G",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "680",
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "200萬像素",
+        "尺寸:": "132 x 56 x 14mm"
+    },
+    {
+        "names": "Philips 飛利浦 Xenium E308 4G",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "76g",
+        "尺寸:": "114.5 x 48.2 x 14mm"
+    },
+    {
+        "names": "Nokia X2-00",
+        "rating": "8.9",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "82g",
+        "尺寸:": "111 x 47 x 13.3mm"
+    },
+    {
+        "names": "Nokia 215",
+        "rating": "9.0",
+        "hon_price_min": "290",
+        "hon_price_max": "360",
+        "2G/3G/3.5G/4G:": "GSM 900 / 1800 (1 or 2 SIMs)",
+        "重量:": "78g",
+        "尺寸:": "116 x 50 x 12.9mm"
+    },
+    {
+        "names": "VOCA V533",
+        "rating": "8.0",
+        "hon_price_min": "538",
+        "hon_price_max": "588",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "2G/3G/3.5G/4G:": "2G/3G",
+        "重量:": "80g",
+        "尺寸:": "103 x 52 x 21mm"
+    },
+    {
+        "names": "Doov R19 4G",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "698",
+        "water_price_min": "558",
+        "water_price_max": "598",
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "Nokia 106 Dual Slim",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "199",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "重量:": "70.2g",
+        "尺寸:": "111.15 x 49.5 x 14.4mm"
+    },
+    {
+        "names": "VOCA V140 4G",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "2G/3G/3.5G/4G:": "4G",
+        "重量:": "72g",
+        "尺寸:": "137 x 55 x 15mm"
+    },
+    {
+        "names": "Nokia 106 (停產)",
+        "rating": "6.0",
+        "hon_price_min": "198",
+        "hon_price_max": "220",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "否",
+        "重量:": "74.2g",
+        "尺寸:": "112.9 x 47.5 x 14.9 mm"
+    },
+    {
+        "names": "Yeemi K21+",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "578",
+        "2G/3G/3.5G/4G:": "4G",
+        "顯示屏:": "2.4吋"
+    },
+    {
+        "names": "Samsung 三星 GT-S3600i",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "130萬像素",
+        "藍芽:": "有"
+    },
+    {
+        "names": "Nokia N82",
+        "rating": "8.8",
+        "water_price_min": "2,098",
+        "water_price_max": "2,098",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "114g",
+        "尺寸:": "102 x 80.2 x 17.3mm"
+    },
+    {
+        "names": "Hugiga 3G經典輕巧滑蓋手機 S80",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "125g",
+        "尺寸:": "110 x 57.2 x 17mm"
+    },
+    {
+        "names": "Sony Ericsson W910i",
+        "rating": "7.5",
+        "water_price_min": "1,075",
+        "water_price_max": "1,075",
+        "2G/3G/3.5G/4G:": "3G",
+        "數碼鏡頭:": "200萬像素",
+        "重量:": "86g",
+        "尺寸:": "99.5 x 50 x 12.5mm"
+    },
+    {
+        "names": "Hugiga 4G LTE輕鬆操控翻蓋機 V8",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "4G/3G/2G",
+        "藍芽:": "有",
+        "重量:": "131.65g",
+        "尺寸:": "107 x 55 x 20.2mm"
+    },
+    {
+        "names": "SunCup M001",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "200萬像素"
+    },
+    {
+        "names": "Philips 飛利浦 E380",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "V2.1",
+        "重量:": "207.4g",
+        "尺寸:": "117.4 x 61.8 x 19.9mm"
+    },
+    {
+        "names": "Nokia X3-02",
+        "rating": "8.7",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "77.4g",
+        "尺寸:": "106.2 x 48.4 x 9.6mm"
+    },
+    {
+        "names": "Philips 飛利浦 E258S",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "275",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "30萬像素",
+        "重量:": "99g",
+        "尺寸:": "134 X 55 X 14"
     },
     {
         "names": "Philips 飛利浦 E526",
         "rating": "",
         "hon_price_min": "380",
-        "hon_price_max": "388"
+        "hon_price_max": "388",
+        "2G/3G/3.5G/4G:": "4G",
+        "顯示屏:": "2.4吋"
+    },
+    {
+        "names": "DORO Primo 413",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "115g",
+        "尺寸:": "102mm x 50mm x 20mm"
+    },
+    {
+        "names": "Nokia 7230",
+        "rating": "9.6",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "100g",
+        "尺寸:": "98 x 48 x 14.75mm"
+    },
+    {
+        "names": "Nokia 5000",
+        "rating": "7.5",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "74g",
+        "尺寸:": "106 x 46 x 11mm"
+    },
+    {
+        "names": "Motorola EX128",
+        "rating": "7.6",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "102g",
+        "尺寸:": "107 x 57 x 12.8mm"
+    },
+    {
+        "names": "LG 樂金 BL20",
+        "rating": "8.7",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,290",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "115g",
+        "尺寸:": "106.9 x 50.8 x 12.3mm"
     },
     {
         "names": "F-FOOK F633 Plus",
-        "rating": "2.0"
+        "rating": "2.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "80萬像素",
+        "重量:": "98g",
+        "尺寸:": "10.4 x 5.3 x2cm"
     },
     {
-        "names": "Sony Ericsson W890i",
-        "rating": "7.3",
-        "hon_price_min": "1,678",
-        "hon_price_max": "1,678"
+        "names": "Philips 飛利浦 E132X",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "顯示屏:": "2.4吋",
+        "尺寸:": "124 x 53 x 13.6mm"
     },
     {
-        "names": "Philips 飛利浦 E350",
-        "rating": ""
+        "names": "Ares AE909",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2.4吋",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "Samsung 三星 S3500C",
+        "rating": "8.7",
+        "hon_price_min": "830",
+        "hon_price_max": "830",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽",
+        "重量:": "105g",
+        "尺寸:": "102.5 x 48 x 13.9mm"
+    },
+    {
+        "names": "CallMing F633+",
+        "rating": "6.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2吋",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "LG 樂金 GX500",
+        "rating": "7.8",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,760",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "300萬像素",
+        "重量:": "94g",
+        "尺寸:": "108.9 x 53.4 x 13mm"
+    },
+    {
+        "names": "Ghaonhomc  V10",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "50萬像素"
+    },
+    {
+        "names": "ZANCO Tiny T1",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "368",
+        "顯示屏:": "0.49吋",
+        "尺寸:": "46.7 x 21 x 12mm"
+    },
+    {
+        "names": "Microsoft NOKIA 230 DUAL SIM",
+        "rating": "8.7",
+        "water_price_min": "488",
+        "water_price_max": "488",
+        "2G/3G/3.5G/4G:": "2.5",
+        "藍芽:": "3.0",
+        "重量:": "91.8g",
+        "尺寸:": "Height: 124.6 mm Width: 53.4 mm Thickness2: 10.9 mm"
+    },
+    {
+        "names": "Philips 飛利浦 E320",
+        "rating": "",
+        "制式:": "GSM 900MHz,1800MHz",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "支援藍牙 / USB v2.0"
+    },
+    {
+        "names": "LG 樂金 KF510",
+        "rating": "10",
+        "water_price_min": "1,350",
+        "water_price_max": "1,350",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "91g",
+        "尺寸:": "104.5 x 49.5 x 10.9mm"
+    },
+    {
+        "names": "Sony Ericsson K810i",
+        "rating": "8.2",
+        "water_price_min": "1,344",
+        "water_price_max": "1,344",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽",
+        "重量:": "115g",
+        "尺寸:": "106 x 48 x 17mm"
+    },
+    {
+        "names": "Hugiga 4G LTE經典美型翻蓋機 T33",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "528",
+        "2G/3G/3.5G/4G:": "4G/3G/2G",
+        "藍芽:": "有",
+        "重量:": "134.22g",
+        "尺寸:": "109.5 x 56.5 x 20.1mm"
+    },
+    {
+        "names": "Sony Ericsson C905",
+        "rating": "7.1",
+        "water_price_min": "1,700",
+        "water_price_max": "1,700",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "136g",
+        "尺寸:": "104 x 49 x 18mm"
+    },
+    {
+        "names": "Samsung 三星 Star S5230C",
+        "rating": "9.2",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.1",
+        "重量:": "94.6g",
+        "尺寸:": "104 x 53 x 11.9mm"
+    },
+    {
+        "names": "Samsung 三星 C3110H",
+        "rating": "8.0",
+        "hon_price_min": "764",
+        "hon_price_max": "764",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "96g",
+        "尺寸:": "99.8 x 48.8 x 15.3mm"
+    },
+    {
+        "names": "Sony Ericsson T700",
+        "rating": "8.0",
+        "water_price_min": "1,030",
+        "water_price_max": "1,030",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "78g",
+        "尺寸:": "48 x 104 x 10mm"
+    },
+    {
+        "names": "Samsung 三星 Caramel e1272",
+        "rating": "9.0",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "82.9g",
+        "尺寸:": "95x46.5x17.95mm"
+    },
+    {
+        "names": "Samsung 三星 Keystone 2 E1205M",
+        "rating": "6.7",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "65g",
+        "尺寸:": "108 x 45 x 13.5mm"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E268",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2吋"
+    },
+    {
+        "names": "Samsung 三星 C3520",
+        "rating": "8.0",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "100g",
+        "尺寸:": "102 x 52 x 16.8mm"
+    },
+    {
+        "names": "Nokia 105 (2019)",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "73g",
+        "尺寸:": "119 x 49.2 x 14.4mm"
+    },
+    {
+        "names": "Philips 飛利浦 E135X",
+        "rating": "9.0",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "water_price_min": "418",
+        "water_price_max": "418",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "105g",
+        "尺寸:": "104  x 54  x 15.6mm"
+    },
+    {
+        "names": "Nokia 1616",
+        "rating": "8.7",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "78.55g",
+        "尺寸:": "107.1 x 45 x 15mm"
+    },
+    {
+        "names": "BLU DIVA FLEX",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "V3.0",
+        "尺寸:": "93 x 45 x 16.2mm"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E289",
+        "rating": "2.0",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "2G/3G/3.5G/4G:": "3G",
+        "重量:": "158g"
+    },
+    {
+        "names": "iNO mobile CP99",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2.2吋"
+    },
+    {
+        "names": "Motorola MOTORAZR V8",
+        "rating": "",
+        "water_price_min": "1,214",
+        "water_price_max": "1,214",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽",
+        "重量:": "117g",
+        "尺寸:": "103 x 53 x 11.9mm"
+    },
+    {
+        "names": "LG 樂金 KM555",
+        "rating": "8.3",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "90g",
+        "尺寸:": "104.9 x 52.6 x 11.9mm"
+    },
+    {
+        "names": "Nokia 225 Dual Sim",
+        "rating": "7.0",
+        "hon_price_min": "390",
+        "hon_price_max": "428",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "3.0"
+    },
+    {
+        "names": "Sony Ericsson K530i",
+        "rating": "7.0",
+        "water_price_min": "530",
+        "water_price_max": "530",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍牙",
+        "重量:": "92g",
+        "尺寸:": "102 x 46 x 14mm"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E207",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "Philips 飛利浦 E183A",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "248",
+        "water_price_min": "248",
+        "water_price_max": "248",
+        "制式:": "GSM",
+        "重量:": "121g",
+        "尺寸:": "126.5 x 55 x 12.5mm"
+    },
+    {
+        "names": "Nokia 6500 slide",
+        "rating": "8.2",
+        "water_price_min": "760",
+        "water_price_max": "760",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽",
+        "重量:": "123g",
+        "尺寸:": "96.5 x 46.5 x 16.4mm"
+    },
+    {
+        "names": "F-FOOK W2016",
+        "rating": "",
+        "制式:": "GSM",
+        "重量:": "108g",
+        "尺寸:": "105 x 54.5 x 20.6mm"
+    },
+    {
+        "names": "LG 樂金 Viewty Snap GM360i",
+        "rating": "9.2",
+        "hon_price_min": "1,246",
+        "hon_price_max": "1,246",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "89g",
+        "尺寸:": "108 x 53.1 x 11.95mm"
+    },
+    {
+        "names": "Philips 飛利浦 老人電話 E516",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "30萬像素",
+        "重量:": "110g"
+    },
+    {
+        "names": "Nokia 109",
+        "rating": "10",
+        "water_price_min": "330",
+        "water_price_max": "330",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "77g",
+        "尺寸:": "110 x 46 x 14.8 mm"
+    },
+    {
+        "names": "Samsung 三星 E2550",
+        "rating": "9.0",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1、A2DP",
+        "重量:": "88g",
+        "尺寸:": "98.5 x 48.5 x 14.3 mm"
+    },
+    {
+        "names": "Samsung 三星 NORi S5520/GY-S5520",
+        "rating": "9.0",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "V2.0, A2DP, AVRCP",
+        "重量:": "108.5g",
+        "尺寸:": "104.9 (長) x 49.5 (闊) x 11.5 (深) 毫米"
+    },
+    {
+        "names": "Philips 飛利浦 E255",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "410",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "100g",
+        "尺寸:": "104 x 52 x 20mm"
+    },
+    {
+        "names": "LG 樂金 KP500",
+        "rating": "8.8",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "89g",
+        "尺寸:": "106.5 x 55.4 x 11.9mm"
+    },
+    {
+        "names": "Nokia 7100",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "103g",
+        "尺寸:": "98 x 48.4 x 15mm"
     },
     {
         "names": "Alcatel 2038N",
@@ -482,654 +1005,197 @@
         "water_price_max": "228"
     },
     {
-        "names": "Samsung 三星 S7350H",
-        "rating": "8.0",
-        "hon_price_min": "1,540",
-        "hon_price_max": "1,540"
-    },
-    {
-        "names": "Philips 飛利浦 E132X",
-        "rating": "",
-        "hon_price_min": "368",
-        "hon_price_max": "368"
-    },
-    {
-        "names": "TKEXUN E1190A",
-        "rating": "",
-        "hon_price_min": "218",
-        "hon_price_max": "218"
-    },
-    {
-        "names": "VOCA 3G V530 手提電話",
-        "rating": "",
-        "hon_price_min": "599",
-        "hon_price_max": "599"
-    },
-    {
-        "names": "Sony Ericsson C905",
-        "rating": "7.1",
-        "water_price_min": "1,700",
-        "water_price_max": "1,700"
-    },
-    {
-        "names": "SunCup M001",
-        "rating": "",
-        "hon_price_min": "220",
-        "hon_price_max": "220"
-    },
-    {
-        "names": "F-FOOK F633",
-        "rating": "",
-        "hon_price_min": "268",
-        "hon_price_max": "268"
-    },
-    {
         "names": "Samsung 三星 Monte S5628",
         "rating": "9.3",
         "hon_price_min": "1,390",
-        "hon_price_max": "1,390"
+        "hon_price_max": "1,390",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "數碼鏡頭:": "300萬像素",
+        "重量:": "93.7g",
+        "尺寸:": "108.5 x 54 x 12.7mm"
     },
     {
-        "names": "Nokia 1616",
-        "rating": "8.7",
-        "water_price_min": "490",
-        "water_price_max": "490"
+        "names": "LG 樂金 GB125",
+        "rating": "9.4",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "65g",
+        "尺寸:": "87 x 45 x 19.3mm"
     },
     {
-        "names": "Philips 飛利浦 E506",
-        "rating": "",
-        "hon_price_min": "350",
-        "hon_price_max": "350"
-    },
-    {
-        "names": "Sony Ericsson W910i",
-        "rating": "7.5",
-        "water_price_min": "1,075",
-        "water_price_max": "1,075"
-    },
-    {
-        "names": "Sony Ericsson W995",
-        "rating": "9.0",
-        "water_price_min": "980",
-        "water_price_max": "980"
-    },
-    {
-        "names": "Sony Ericsson T700",
+        "names": "Alcatel 2045X",
         "rating": "8.0",
-        "water_price_min": "1,030",
-        "water_price_max": "1,030"
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "3.0",
+        "重量:": "86g"
     },
     {
-        "names": "LG 樂金 KM555",
-        "rating": "8.3",
-        "hon_price_min": "1,380",
-        "hon_price_max": "1,380"
-    },
-    {
-        "names": "Sony Ericsson W350i",
-        "rating": "8.7",
-        "hon_price_min": "400",
-        "hon_price_max": "400"
-    },
-    {
-        "names": "Ailyfu 愛來福 F520",
-        "rating": "6.0",
-        "hon_price_min": "298",
-        "hon_price_max": "298"
-    },
-    {
-        "names": "Samsung 三星 Shark S5350",
-        "rating": "10",
-        "hon_price_min": "999",
-        "hon_price_max": "999"
-    },
-    {
-        "names": "Xero XM-03",
-        "rating": ""
-    },
-    {
-        "names": "Sony Ericsson G705",
-        "rating": "7.8",
-        "water_price_min": "1,474",
-        "water_price_max": "1,474"
-    },
-    {
-        "names": "Nokia N76",
-        "rating": "",
-        "water_price_min": "2,278",
-        "water_price_max": "2,278"
-    },
-    {
-        "names": "Nokia 6120 classic",
-        "rating": "8.2",
-        "hon_price_min": "1,030",
-        "hon_price_max": "1,030"
-    },
-    {
-        "names": "Ares AE909",
-        "rating": ""
-    },
-    {
-        "names": "Nokia 8110 4G",
-        "rating": "6.3"
-    },
-    {
-        "names": "Nokia 2760",
+        "names": "LG 樂金 KF301",
         "rating": "8.0",
-        "water_price_min": "350",
-        "water_price_max": "350"
+        "hon_price_min": "660",
+        "hon_price_max": "660",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "95g",
+        "尺寸:": "95 x 49 x 16.5mm"
     },
     {
-        "names": "Motorola MOTORAZR V8",
+        "names": "SunCup H199",
         "rating": "",
-        "water_price_min": "1,214",
-        "water_price_max": "1,214"
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "3.3吋",
+        "數碼鏡頭:": "30萬像素"
     },
     {
-        "names": "Samsung 三星 Keystone 2 E1205M",
-        "rating": "6.7",
-        "hon_price_min": "190",
-        "hon_price_max": "190"
-    },
-    {
-        "names": "Nokia 7230",
-        "rating": "9.6",
-        "water_price_min": "590",
-        "water_price_max": "590"
-    },
-    {
-        "names": "Samsung 三星 E2550",
-        "rating": "9.0",
-        "hon_price_min": "598",
-        "hon_price_max": "598"
-    },
-    {
-        "names": "Samsung 三星 U608",
-        "rating": "",
-        "water_price_min": "898",
-        "water_price_max": "898"
-    },
-    {
-        "names": "Nokia X2-05",
-        "rating": ""
-    },
-    {
-        "names": "LG 樂金 KP500",
-        "rating": "8.8",
-        "hon_price_min": "680",
-        "hon_price_max": "680"
-    },
-    {
-        "names": "Nokia N85",
-        "rating": "8.4",
-        "water_price_min": "2,080",
-        "water_price_max": "2,080"
-    },
-    {
-        "names": "BLU DIVA FLEX",
-        "rating": ""
-    },
-    {
-        "names": "Philips 飛利浦 E320",
-        "rating": ""
-    },
-    {
-        "names": "INQ Mini 3G",
-        "rating": "6.0",
-        "hon_price_min": "233",
-        "hon_price_max": "233"
-    },
-    {
-        "names": "Sony Ericsson T250i",
-        "rating": "",
-        "water_price_min": "424",
-        "water_price_max": "424"
-    },
-    {
-        "names": "LG 樂金 GM750",
-        "rating": "8.8",
-        "hon_price_min": "2,050",
-        "hon_price_max": "2,050"
-    },
-    {
-        "names": "Nokia 5000",
-        "rating": "7.5",
-        "water_price_min": "590",
-        "water_price_max": "590"
-    },
-    {
-        "names": "Philips 飛利浦 E105",
-        "rating": "",
-        "hon_price_min": "238",
-        "hon_price_max": "238"
-    },
-    {
-        "names": "ZTE S202",
-        "rating": "10",
-        "hon_price_min": "880",
-        "hon_price_max": "880"
-    },
-    {
-        "names": "Samsung 三星 E1190",
-        "rating": ""
-    },
-    {
-        "names": "LG 樂金 BL20",
-        "rating": "8.7",
-        "hon_price_min": "1,290",
-        "hon_price_max": "1,290"
-    },
-    {
-        "names": "Samsung 三星 Star S5230C",
-        "rating": "9.2",
-        "hon_price_min": "998",
-        "hon_price_max": "998"
-    },
-    {
-        "names": "Nokia 5310 XpressMusic",
-        "rating": "8.9",
-        "hon_price_min": "1,074",
-        "hon_price_max": "1,074"
-    },
-    {
-        "names": "LG 樂金 KP105",
-        "rating": "8.7",
-        "hon_price_min": "199",
-        "hon_price_max": "199"
-    },
-    {
-        "names": "Nokia 7310",
+        "names": "Nokia 6300",
         "rating": "8.0",
-        "hon_price_min": "874",
-        "hon_price_max": "874"
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽",
+        "重量:": "91g",
+        "尺寸:": "106.4 x 43.6 x 13.1mm"
     },
     {
-        "names": "Philips 飛利浦 E255",
-        "rating": "",
-        "hon_price_min": "398",
-        "hon_price_max": "410"
-    },
-    {
-        "names": "Nokia 6500 slide",
-        "rating": "8.2",
-        "water_price_min": "760",
-        "water_price_max": "760"
-    },
-    {
-        "names": "LG 樂金 KS360",
-        "rating": "6.0",
-        "water_price_min": "598",
-        "water_price_max": "598"
-    },
-    {
-        "names": "Hugiga 4G LTE經典美型翻蓋機 T33",
-        "rating": "",
-        "hon_price_min": "528",
-        "hon_price_max": "528"
-    },
-    {
-        "names": "Nokia 2630",
-        "rating": "",
-        "water_price_min": "438",
-        "water_price_max": "438"
-    },
-    {
-        "names": "Nokia 6600 fold",
-        "rating": "6.7",
-        "water_price_min": "1,388",
-        "water_price_max": "1,388"
-    },
-    {
-        "names": "Nokia 225 Dual Sim",
-        "rating": "7.0",
-        "hon_price_min": "390",
-        "hon_price_max": "428"
-    },
-    {
-        "names": "Nokia 105 (2013)",
-        "rating": "8.1",
-        "water_price_min": "190",
-        "water_price_max": "190"
-    },
-    {
-        "names": "Nokia 105 Dual Sim (2017)",
-        "rating": "7.7",
-        "water_price_min": "230",
-        "water_price_max": "230"
-    },
-    {
-        "names": "TSK A811 長者平安折合式手機",
-        "rating": ""
-    },
-    {
-        "names": "Hugiga 4G LTE輕鬆操控翻蓋機 V8",
-        "rating": ""
-    },
-    {
-        "names": "Microsoft NOKIA 230 DUAL SIM",
-        "rating": "8.7",
-        "water_price_min": "488",
-        "water_price_max": "488"
-    },
-    {
-        "names": "智愛寶 iBao 長者定位功能電話 (淨機)",
-        "rating": ""
-    },
-    {
-        "names": "Alcatel OT-2012D",
-        "rating": "",
-        "hon_price_min": "348",
-        "hon_price_max": "348",
-        "water_price_min": "248",
-        "water_price_max": "248"
-    },
-    {
-        "names": "Samsung 三星 C3110H",
+        "names": "LG 樂金 KC910",
         "rating": "8.0",
-        "hon_price_min": "764",
-        "hon_price_max": "764"
-    },
-    {
-        "names": "Samsung 三星 NORi S5520/GY-S5520",
-        "rating": "9.0",
-        "hon_price_min": "498",
-        "hon_price_max": "498"
-    },
-    {
-        "names": "F-FOOK W2016",
-        "rating": ""
-    },
-    {
-        "names": "TSK S900 萬用旅行專用手機",
-        "rating": "8.0"
-    },
-    {
-        "names": "Obooy EG520",
-        "rating": "6.0"
-    },
-    {
-        "names": "Motorola W270",
-        "rating": "",
-        "hon_price_min": "399",
-        "hon_price_max": "399"
-    },
-    {
-        "names": "Nokia 1112",
-        "rating": ""
-    },
-    {
-        "names": "Philips 飛利浦 E321",
-        "rating": "",
-        "hon_price_min": "348",
-        "hon_price_max": "348",
-        "water_price_min": "298",
-        "water_price_max": "298"
-    },
-    {
-        "names": "Philips 飛利浦 E135X",
-        "rating": "9.0",
-        "hon_price_min": "420",
-        "hon_price_max": "420",
-        "water_price_min": "418",
-        "water_price_max": "418"
-    },
-    {
-        "names": "MicroStar 230",
-        "rating": "8.0"
-    },
-    {
-        "names": "DORO Primo 413",
-        "rating": ""
-    },
-    {
-        "names": "Hugiga 3G經典輕巧滑蓋手機 S80",
-        "rating": "",
-        "hon_price_min": "300",
-        "hon_price_max": "300"
-    },
-    {
-        "names": "AIEK M2",
-        "rating": ""
-    },
-    {
-        "names": "LG 樂金 A395",
-        "rating": "10",
-        "hon_price_min": "400",
-        "hon_price_max": "400"
-    },
-    {
-        "names": "Nokia 225",
-        "rating": "",
-        "hon_price_min": "360",
-        "hon_price_max": "420"
-    },
-    {
-        "names": "SpareOne S1+WR9WP",
-        "rating": "2.0"
-    },
-    {
-        "names": "Philips 飛利浦 E183A",
-        "rating": "",
-        "hon_price_min": "220",
-        "hon_price_max": "248",
-        "water_price_min": "248",
-        "water_price_max": "248"
-    },
-    {
-        "names": "Nokia 2220 slide",
-        "rating": "9.5",
-        "water_price_min": "460",
-        "water_price_max": "460"
-    },
-    {
-        "names": "Nokia Asha 306",
-        "rating": ""
-    },
-    {
-        "names": "MIT W8199",
-        "rating": "10"
-    },
-    {
-        "names": "Hugiga 無相機直版功能機 C33",
-        "rating": "",
-        "hon_price_min": "299",
-        "hon_price_max": "299"
-    },
-    {
-        "names": "Sharp 聲寶 Aquos 805sh",
-        "rating": ""
-    },
-    {
-        "names": "Sony Ericsson Spiro (W100)",
-        "rating": "9.0"
-    },
-    {
-        "names": "Samsung 三星 e3210",
-        "rating": ""
-    },
-    {
-        "names": "Samsung 三星 E1202",
-        "rating": ""
-    },
-    {
-        "names": "Philips 飛利浦 E380",
-        "rating": "",
-        "hon_price_min": "398",
-        "hon_price_max": "398"
-    },
-    {
-        "names": "DoCoMo SH-01C",
-        "rating": "9.3",
-        "water_price_min": "3,480",
-        "water_price_max": "3,480"
-    },
-    {
-        "names": "Philips 飛利浦 老人電話 E289",
-        "rating": "2.0",
-        "hon_price_min": "430",
-        "hon_price_max": "430"
-    },
-    {
-        "names": "Nokia 109",
-        "rating": "10",
-        "water_price_min": "330",
-        "water_price_max": "330"
-    },
-    {
-        "names": "SoftBank 940SH",
-        "rating": "9.3",
-        "water_price_min": "2,880",
-        "water_price_max": "2,880"
-    },
-    {
-        "names": "Nokia 112",
-        "rating": "10"
-    },
-    {
-        "names": "Sony Ericsson w205",
-        "rating": "7.3"
-    },
-    {
-        "names": "Nokia Asha 309",
-        "rating": ""
-    },
-    {
-        "names": "LG 樂金 GX200",
-        "rating": "9.2",
-        "water_price_min": "750",
-        "water_price_max": "750"
-    },
-    {
-        "names": "Lenovo E156",
-        "rating": ""
-    },
-    {
-        "names": "Samsung 三星 S5600H",
-        "rating": "8.3"
-    },
-    {
-        "names": "Nokia Asha 500",
-        "rating": ""
-    },
-    {
-        "names": "Lenovo S520",
-        "rating": "10",
-        "hon_price_min": "748",
-        "hon_price_max": "748"
-    },
-    {
-        "names": "Nokia N97",
-        "rating": "9.3"
-    },
-    {
-        "names": "Nokia 6600i slide",
-        "rating": "7.7"
-    },
-    {
-        "names": "Nokia X3-02",
-        "rating": "8.7",
-        "water_price_min": "450",
-        "water_price_max": "450"
-    },
-    {
-        "names": "Samsung 三星 C3300K",
-        "rating": "8.7"
-    },
-    {
-        "names": "Sony Ericsson K810i",
-        "rating": "8.2",
-        "water_price_min": "1,344",
-        "water_price_max": "1,344"
-    },
-    {
-        "names": "Nokia E71",
-        "rating": "9.6"
-    },
-    {
-        "names": "DORO Primo 215",
-        "rating": ""
-    },
-    {
-        "names": "Nokia 5800 XpressMusic",
-        "rating": "8.5"
-    },
-    {
-        "names": "Philips 飛利浦 X710",
-        "rating": "8.0"
-    },
-    {
-        "names": "TKEXUN 4G 長者摺機 G300",
-        "rating": ""
-    },
-    {
-        "names": "Sony Ericsson Elm J10",
-        "rating": "8.8"
-    },
-    {
-        "names": "Samsung 三星 Lindy M5650U",
-        "rating": "8.7",
-        "hon_price_min": "1,550",
-        "hon_price_max": "1,550"
-    },
-    {
-        "names": "Nokia X1-01",
-        "rating": "8.9"
-    },
-    {
-        "names": "DoCoMo SH-04C",
-        "rating": "5.3",
-        "water_price_min": "4,580",
-        "water_price_max": "4,580"
-    },
-    {
-        "names": "K-Touch W306",
-        "rating": "10"
+        "hon_price_min": "2,196",
+        "hon_price_max": "2,196",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "114g",
+        "尺寸:": "107.8 x 55.9 x 13.95mm"
     },
     {
         "names": "Sony Ericsson Cedar J108",
         "rating": "7.6",
         "water_price_min": "620",
-        "water_price_max": "620"
+        "water_price_max": "620",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "84g",
+        "尺寸:": "111 x 49 x 15.5mm"
     },
     {
-        "names": "Nokia 105 Dual Sim (2015)",
-        "rating": ""
+        "names": "Philips 飛利浦 E186A",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G/3G",
+        "尺寸:": "128.8 x 56.5 x 14.5mm"
     },
     {
-        "names": "Nokia N82",
-        "rating": "8.8",
-        "water_price_min": "2,098",
-        "water_price_max": "2,098"
+        "names": "Samsung 三星 S5550",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,650",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "98g",
+        "尺寸:": "102.3 x 48.7 x 15.1mm"
     },
     {
-        "names": "Samsung 三星 E1100",
-        "rating": "9.2"
+        "names": "LG 樂金 GD880 mini",
+        "rating": "8.6",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "99g",
+        "尺寸:": "102 x 47 x 10.6mm"
     },
     {
-        "names": "Nokia 220 Dual SIM",
-        "rating": "6.8"
+        "names": "Nokia 2220 slide",
+        "rating": "9.5",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "30萬像素",
+        "重量:": "93.5g",
+        "尺寸:": "97.14 x 47 x 15.85mm"
     },
     {
-        "names": "LG 樂金 GX300",
-        "rating": "7.3"
+        "names": "Samsung 三星 E1150",
+        "rating": "6.0",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "72.5g",
+        "尺寸:": "88 x 44 x 19.8mm"
     },
     {
-        "names": "Samsung 三星 Caramel e1272",
-        "rating": "9.0",
-        "water_price_min": "290",
-        "water_price_max": "290"
+        "names": "Samsung 三星 Champ Duos E2652",
+        "rating": "8.0",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "88g",
+        "尺寸:": "99.90 x 54.90 x 12.95mm"
     },
     {
-        "names": "Lenovo E268",
-        "rating": "8.0"
+        "names": "Samsung 三星 Monte Slider",
+        "rating": "8.0",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "88g",
+        "尺寸:": "98.5 x 48.5 x 14.3mm"
     },
     {
-        "names": "LG 樂金 KM900",
-        "rating": "8.7"
+        "names": "Nokia 2760",
+        "rating": "8.0",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍牙 V2.0",
+        "重量:": "81g",
+        "尺寸:": "87 x 44.8 x 20.7mm"
     },
     {
-        "names": "Nokia 1208",
-        "rating": "7.0"
+        "names": "Sony Ericsson C902",
+        "rating": "8.0",
+        "hon_price_min": "1,748",
+        "hon_price_max": "1,748",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽",
+        "重量:": "107g",
+        "尺寸:": "108 x 49 x 10.5mm"
+    },
+    {
+        "names": "Sharp 聲寶 Aquos 501sh",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G/3G",
+        "重量:": "124g",
+        "尺寸:": "51 x 113 x 17.6mm"
+    },
+    {
+        "names": "Nokia 3310",
+        "rating": "6.5",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "Bluetooth 3.0 with SLAM",
+        "尺寸:": "115.6 x 51 x 12.8mm"
+    },
+    {
+        "names": "Ailyfu 愛來福 F520",
+        "rating": "6.0",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "80萬像素",
+        "重量:": "122g",
+        "尺寸:": "103 x 53.2 x 20.2"
+    },
+    {
+        "names": "智愛寶 iBao 長者定位功能電話 (連24個月手機月費服務)",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G/3G/LTE",
+        "藍芽:": "Bluetooth 4.0",
+        "重量:": "110g",
+        "尺寸:": "128 x 58 x 15mm"
     },
     {
         "names": "Philips 飛利浦 E102",
@@ -1137,392 +1203,1299 @@
         "hon_price_min": "145",
         "hon_price_max": "180",
         "water_price_min": "145",
-        "water_price_max": "320"
+        "water_price_max": "320",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "68.8g",
+        "尺寸:": "108 X 47 X 12.7mm"
     },
     {
-        "names": "Vertu Constellation",
-        "rating": "10"
-    },
-    {
-        "names": "Nokia X2-01",
-        "rating": "8.0"
-    },
-    {
-        "names": "Nokia C6",
-        "rating": "9.1"
-    },
-    {
-        "names": "LG 樂金 KF350",
-        "rating": "8.4",
-        "hon_price_min": "940",
-        "hon_price_max": "940"
-    },
-    {
-        "names": "Nokia C7-00",
-        "rating": "9.0"
-    },
-    {
-        "names": "LG 樂金 A258",
-        "rating": "8.0"
-    },
-    {
-        "names": "Nokia 2330 Classic",
-        "rating": "6.7"
-    },
-    {
-        "names": "Samsung 三星 S5560",
-        "rating": "9.1"
-    },
-    {
-        "names": "Sunup SS808",
-        "rating": ""
-    },
-    {
-        "names": "DoCoMo L-03B",
+        "names": "Motorola WX295",
         "rating": "",
-        "water_price_min": "1,880",
-        "water_price_max": "1,880"
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "30萬像素",
+        "尺寸:": "96 x 46.5 x 16.65mm"
     },
     {
-        "names": "Sony Ericsson C902",
-        "rating": "8.0",
-        "hon_price_min": "1,748",
-        "hon_price_max": "1,748"
-    },
-    {
-        "names": "BLU TANK ll",
-        "rating": ""
-    },
-    {
-        "names": "LG 樂金 KF301",
-        "rating": "8.0",
-        "hon_price_min": "660",
-        "hon_price_max": "660"
-    },
-    {
-        "names": "LG 樂金 Viewty Snap GM360i",
-        "rating": "9.2",
-        "hon_price_min": "1,246",
-        "hon_price_max": "1,246"
-    },
-    {
-        "names": "Nokia 222",
-        "rating": ""
-    },
-    {
-        "names": "Nokia 700",
-        "rating": "9.0"
-    },
-    {
-        "names": "Nokia Asha 206",
-        "rating": "8.4"
-    },
-    {
-        "names": "Nokia 8800 Sapphire Arte",
+        "names": "Alcatel OT-2007D",
         "rating": "",
-        "hon_price_min": "10,000",
-        "hon_price_max": "10,000"
+        "制式:": "GSM Dual Band 900/1800",
+        "藍芽:": "3.0",
+        "重量:": "72g",
+        "尺寸:": "119 x 50 x 9.8 mm"
     },
     {
-        "names": "LG 樂金 T325",
-        "rating": "8.5"
-    },
-    {
-        "names": "Sharp 聲寶 SH9110C",
-        "rating": "10"
-    },
-    {
-        "names": "Nokia E52",
-        "rating": "9.5"
-    },
-    {
-        "names": "Nokia 111",
-        "rating": ""
-    },
-    {
-        "names": "Samsung 三星 B5722",
-        "rating": "5.3"
-    },
-    {
-        "names": "Sony Ericsson Naite",
-        "rating": "8.0"
-    },
-    {
-        "names": "Samsung 三星 S3600H",
-        "rating": "8.0",
-        "water_price_min": "640",
-        "water_price_max": "640"
-    },
-    {
-        "names": "Nokia Asha 201",
-        "rating": ""
-    },
-    {
-        "names": "SunCup H199",
-        "rating": ""
-    },
-    {
-        "names": "Nokia C1-00",
-        "rating": "8.7"
-    },
-    {
-        "names": "Nokia 100",
-        "rating": ""
-    },
-    {
-        "names": "AIEK M3",
-        "rating": ""
-    },
-    {
-        "names": "Nokia Asha 303",
-        "rating": "7.0"
-    },
-    {
-        "names": "Nokia 216",
-        "rating": "8.0",
-        "water_price_min": "320",
-        "water_price_max": "320"
-    },
-    {
-        "names": "Nokia 150",
-        "rating": ""
-    },
-    {
-        "names": "LG 樂金 KF300",
-        "rating": "8.4",
-        "water_price_min": "650",
-        "water_price_max": "650"
-    },
-    {
-        "names": "Samsung 三星 Champ",
-        "rating": "7.5"
-    },
-    {
-        "names": "Philips 飛利浦 X806",
-        "rating": "8.5",
-        "hon_price_min": "1,720",
-        "hon_price_max": "1,720"
-    },
-    {
-        "names": "Nokia 6700 slide",
-        "rating": "8.7"
-    },
-    {
-        "names": "Sony Ericsson Xperia Pureness",
-        "rating": "6.7",
-        "water_price_min": "3,088",
-        "water_price_max": "3,088"
-    },
-    {
-        "names": "SOYUE V988",
-        "rating": "9.0"
-    },
-    {
-        "names": "Philips 飛利浦 x100",
-        "rating": "6.7"
-    },
-    {
-        "names": "DoCoMo P-04B",
-        "rating": "7.0",
-        "water_price_min": "3,280",
-        "water_price_max": "3,280"
-    },
-    {
-        "names": "iNO mobile CP99",
+        "names": "Nokia 225",
         "rating": "",
-        "hon_price_min": "348",
-        "hon_price_max": "348"
+        "hon_price_min": "360",
+        "hon_price_max": "420",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "3.0",
+        "重量:": "99.8g",
+        "尺寸:": "124 x 55.5 x 10.4mm"
     },
     {
-        "names": "CallMing F633",
-        "rating": ""
-    },
-    {
-        "names": "Nokia 208 Dual SIM",
-        "rating": ""
-    },
-    {
-        "names": "Land Rover S1",
-        "rating": "10"
-    },
-    {
-        "names": "LG 樂金 T370",
-        "rating": ""
-    },
-    {
-        "names": "Nokia 230",
-        "rating": ""
-    },
-    {
-        "names": "Sony Ericsson Hazel J20",
-        "rating": "9.1"
-    },
-    {
-        "names": "智愛寶 iBao 長者定位功能電話 (連24個月手機月費服務)",
-        "rating": ""
-    },
-    {
-        "names": "Nokia 2710 Navigation Edition",
-        "rating": ""
-    },
-    {
-        "names": "DoCoMo N-04B",
-        "rating": "",
-        "water_price_min": "2,980",
-        "water_price_max": "2,980"
-    },
-    {
-        "names": "Nokia C2-00",
-        "rating": "7.7"
-    },
-    {
-        "names": "Nokia C6-01",
-        "rating": "9.5"
-    },
-    {
-        "names": "Nokia 110",
-        "rating": ""
-    },
-    {
-        "names": "Nokia Asha 230",
-        "rating": ""
-    },
-    {
-        "names": "Philips 飛利浦 E1500",
-        "rating": ""
-    },
-    {
-        "names": "Nokia Asha 311",
-        "rating": "8.6"
-    },
-    {
-        "names": "Nokia 2730 Classic",
-        "rating": "9.2"
-    },
-    {
-        "names": "Sunup GN200",
-        "rating": ""
-    },
-    {
-        "names": "Lenovo P80+",
+        "names": "LG 樂金 KS360",
         "rating": "6.0",
-        "hon_price_min": "798",
-        "hon_price_max": "798"
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽",
+        "重量:": "111.5g",
+        "尺寸:": "101.5 x 51 x 16.8mm"
     },
     {
-        "names": "Nokia 5130 XpressMusic",
-        "rating": "8.9"
-    },
-    {
-        "names": "Motorola EX128",
-        "rating": "7.6",
-        "hon_price_min": "999",
-        "hon_price_max": "999"
-    },
-    {
-        "names": "Sharp 聲寶 SH806T",
+        "names": "TKEXUN 4G 長者摺機 G300",
         "rating": "",
-        "water_price_min": "2,500",
-        "water_price_max": "2,500"
+        "2G/3G/3.5G/4G:": "4G",
+        "數碼鏡頭:": "1300萬像素"
     },
     {
-        "names": "Nokia 1800",
-        "rating": "4.7"
+        "names": "Nokia 8110 4G",
+        "rating": "6.3",
+        "2G/3G/3.5G/4G:": "4G",
+        "藍芽:": "4.1",
+        "重量:": "117g",
+        "尺寸:": "133.45 x 49.3 x 14.9mm"
     },
     {
-        "names": "Vertu Ascent Ti",
-        "rating": "10"
-    },
-    {
-        "names": "Nokia 101",
-        "rating": "8.7"
-    },
-    {
-        "names": "Sharp 聲寶 Aquos 501sh",
-        "rating": ""
-    },
-    {
-        "names": "SHY H001",
-        "rating": "10"
-    },
-    {
-        "names": "Nokia N86 8MP",
-        "rating": "9.6"
-    },
-    {
-        "names": "Samsung 三星 S3500C",
-        "rating": "8.7",
-        "hon_price_min": "830",
-        "hon_price_max": "830"
-    },
-    {
-        "names": "SoftBank 740SC",
-        "rating": "7.6",
-        "water_price_min": "498",
-        "water_price_max": "498"
-    },
-    {
-        "names": "LG 樂金 GX500",
-        "rating": "7.8",
-        "hon_price_min": "1,760",
-        "hon_price_max": "1,760"
-    },
-    {
-        "names": "SoftBank 942SH KT",
+        "names": "Hugiga 無相機直版功能機 C33",
         "rating": "",
-        "water_price_min": "2,580",
-        "water_price_max": "2,580"
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "2G/3G/3.5G/4G:": "3G/2G",
+        "重量:": "85g",
+        "尺寸:": "120 x 49.6 x 11.3mm"
     },
     {
-        "names": "Xero XM-01",
-        "rating": "6.0"
+        "names": "Philips 飛利浦 大字按鍵手機 E107",
+        "rating": "",
+        "顯示屏:": "1.1吋"
     },
     {
-        "names": "Samsung 三星 Monte Slider",
-        "rating": "8.0",
-        "hon_price_min": "500",
-        "hon_price_max": "500"
+        "names": "Samsung 三星 U608",
+        "rating": "",
+        "water_price_min": "898",
+        "water_price_max": "898",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "81.5g",
+        "尺寸:": "103.2 x 49.3 x 10.9mm"
     },
     {
-        "names": "Samsung 三星 E1055T",
-        "rating": "9.0"
+        "names": "emporia ELEGANCE plus",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "92g",
+        "尺寸:": "109 x 50 x 14 毫 米"
     },
     {
-        "names": "Nokia E5",
-        "rating": "8.4"
+        "names": "KR M999",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有"
     },
     {
-        "names": "Amytel AC-1010 Elderly Phone",
-        "rating": ""
-    },
-    {
-        "names": "Coolpad 4G 智能長者機 c588s",
-        "rating": ""
-    },
-    {
-        "names": "AU INFOBAR xv  kyx31",
-        "rating": ""
-    },
-    {
-        "names": "Nokia X6",
-        "rating": "8.7"
-    },
-    {
-        "names": "Nokia 3310",
-        "rating": "6.5"
-    },
-    {
-        "names": "Samsung 三星 E1202 Dual SIM",
-        "rating": ""
-    },
-    {
-        "names": "Motorola A1600",
-        "rating": "10"
+        "names": "Uniscope U73",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "制式:": "雙頻"
     },
     {
         "names": "Nokia 5220 Xpress",
         "rating": "",
         "hon_price_min": "1,144",
-        "hon_price_max": "1,144"
+        "hon_price_max": "1,144",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "78g",
+        "尺寸:": "108 x 43.5 x 10.5mm"
+    },
+    {
+        "names": "Philips 飛利浦 E105",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "NIL",
+        "重量:": "65.4g",
+        "尺寸:": "106 x 44.5 x 13.6"
+    },
+    {
+        "names": "MicroStar MA11",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2.4吋"
+    },
+    {
+        "names": "BLU TANK ll",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "尺寸:": "121 x 50.5 x 14mm"
+    },
+    {
+        "names": "GAIX G1",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "沒有",
+        "重量:": "65g",
+        "尺寸:": "116 x 52 x 13mm"
+    },
+    {
+        "names": "Nokia 105 Dual Sim (2015)",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "69.6g",
+        "尺寸:": "108.5 x 45.5 x 14.1mm"
+    },
+    {
+        "names": "Philips 飛利浦 E321",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "制式:": "GSM",
+        "重量:": "110.6g",
+        "尺寸:": "107.2 x 51 x 17.3mm"
+    },
+    {
+        "names": "Nokia 301 Dual-Sim",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽V 3.0",
+        "重量:": "100.5g",
+        "尺寸:": "114 x 50 x 12.5 mm"
+    },
+    {
+        "names": "Samsung 三星 Diva S7070C",
+        "rating": "8.0",
+        "hon_price_min": "1,660",
+        "hon_price_max": "1,660",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "93.9g",
+        "尺寸:": "101 x 54.8 x 13.4mm"
+    },
+    {
+        "names": "Motorola ZN200",
+        "rating": "8.0",
+        "water_price_min": "768",
+        "water_price_max": "768",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "115g",
+        "尺寸:": "47 x 105 x 15.94mm"
+    },
+    {
+        "names": "Nokia 6600 fold",
+        "rating": "6.7",
+        "water_price_min": "1,388",
+        "water_price_max": "1,388",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽",
+        "重量:": "110g",
+        "尺寸:": "87.6 x 44 x 15.9mm"
+    },
+    {
+        "names": "TSD Q8",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "制式:": "雙頻"
+    },
+    {
+        "names": "Philips 飛利浦 E108",
+        "rating": "4.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "72g",
+        "尺寸:": "109.7 x 49 x 15.3mm"
+    },
+    {
+        "names": "Alcatel OT-808",
+        "rating": "8.0",
+        "hon_price_min": "890",
+        "hon_price_max": "890",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "113g",
+        "尺寸:": "70.6 x 70.6 x 20.7mm"
+    },
+    {
+        "names": "AIEK V9",
+        "rating": "7.0",
+        "2G/3G/3.5G/4G:": "3G",
+        "重量:": "35g",
+        "尺寸:": "85 x 55 x 6.5mm"
+    },
+    {
+        "names": "Nokia 108 Dual SIM",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v3.0",
+        "重量:": "70.2g",
+        "尺寸:": "110.4 x 47 x 13.5 mm"
+    },
+    {
+        "names": "Alcatel OT-1035D",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "制式:": "1035A: GSM Dual Band 850/1900, 1035X: GSM Dual Band 900/1800, 1035D: GSM Dual Band 900/1800",
+        "尺寸:": "93 x 45 x 16.5 mm"
+    },
+    {
+        "names": "Nokia 1110i",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "尺寸:": "104 x 44 x 17mm"
+    },
+    {
+        "names": "Vertu Constellation",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "164g",
+        "尺寸:": "118.2 X 54.5 X 12.2mm"
+    },
+    {
+        "names": "Nokia N8",
+        "rating": "8.8",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "135g",
+        "尺寸:": "113.5 x 59 x 12.9mm"
+    },
+    {
+        "names": "Nokia C6-01",
+        "rating": "9.5",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "131g",
+        "尺寸:": "103.8 x 52.5 x 13.9 mm"
+    },
+    {
+        "names": "LG 樂金 GD550",
+        "rating": "7.0",
+        "hon_price_min": "1,185",
+        "hon_price_max": "1,185",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "130g",
+        "尺寸:": "105.5 x 51 x 12.4mm"
+    },
+    {
+        "names": "LG 樂金 T375 Cookie Smart",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1 with A2DP",
+        "重量:": "96g",
+        "尺寸:": "103 x 59 x 10.7 mm"
+    },
+    {
+        "names": "DoCoMo F-06B",
+        "rating": "9.0",
+        "water_price_min": "2,900",
+        "water_price_max": "2,900",
+        "2G/3G/3.5G/4G:": "3G",
+        "數碼鏡頭:": "1320萬像素",
+        "重量:": "139g",
+        "尺寸:": "115 x 51 x 17.1mm"
+    },
+    {
+        "names": "Sony Ericsson Mix Walkman",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "88g",
+        "尺寸:": "95.8 x 52.8 x 14.3 mm"
+    },
+    {
+        "names": "Sony Ericsson G705",
+        "rating": "7.8",
+        "water_price_min": "1,474",
+        "water_price_max": "1,474",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "98g",
+        "尺寸:": "95.0 x 47.0 x 14.5mm"
+    },
+    {
+        "names": "Samsung 三星 Lindy M5650U",
+        "rating": "8.7",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "97g",
+        "尺寸:": "105.9 x 56.5 x 12mm"
+    },
+    {
+        "names": "Obooy EA108",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G"
+    },
+    {
+        "names": "Nokia 1280",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "81.9g",
+        "尺寸:": "107.2 x 45.1 x 15.3 mm"
+    },
+    {
+        "names": "Nokia 112",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1+EDR",
+        "重量:": "85.5g",
+        "尺寸:": "110.4 x 46.9 x 15.4 mm"
+    },
+    {
+        "names": "Sony Ericsson Naite J105",
+        "rating": "9.7",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽 v2.0",
+        "重量:": "84g",
+        "尺寸:": "108 x 47 x 12.6mm"
+    },
+    {
+        "names": "Sharp 聲寶 SH9110C",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "123g",
+        "尺寸:": "104 x 48 x 19.9mm"
+    },
+    {
+        "names": "Nokia 3310 3G",
+        "rating": "5.0",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "Bluetooth 2.1 for pairing with speakers and other phones",
+        "重量:": "88.2g",
+        "尺寸:": "117 x 52.4 x 13.35mm"
+    },
+    {
+        "names": "Nokia E72",
+        "rating": "9.7",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "128g",
+        "尺寸:": "114 x 59.5 x 10.1mm"
+    },
+    {
+        "names": "Xero XM-01",
+        "rating": "6.0",
+        "制式:": "GSM 850/900/1800/1900 WCDMA 850/2100",
+        "顯示屏:": "Dual screens 2.4 inch Screen / outside 1.8吋"
+    },
+    {
+        "names": "Nokia Asha 200",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1 with A2DP, EDR",
+        "重量:": "105g",
+        "尺寸:": "115.4 x 61.1 x 14 mm"
+    },
+    {
+        "names": "Nokia 3710 fold",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "94g",
+        "尺寸:": "89 x 47 x 15.2mm"
+    },
+    {
+        "names": "Philips 飛利浦 E350",
+        "rating": "",
+        "制式:": "GSM",
+        "重量:": "153.4g",
+        "尺寸:": "113 x 57 x 19mm"
+    },
+    {
+        "names": "Motorola EX211",
+        "rating": "7.3",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "106g",
+        "尺寸:": "106 X 53 X 13.9mm"
+    },
+    {
+        "names": "Samsung 三星 S8300 Loches",
+        "rating": "9.2",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "數碼鏡頭:": "800萬像素",
+        "藍芽:": "藍芽 V2.0",
+        "尺寸:": "110 x 51.5 x 12.7mm"
+    },
+    {
+        "names": "LG 樂金 A258",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "90g",
+        "尺寸:": "97.5 x 49.1 x 16.7 mm"
+    },
+    {
+        "names": "Nokia 1112",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "尺寸:": "104 x 44 x 17mm"
+    },
+    {
+        "names": "TSK A812 長者平安折合式手機",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G/3G/3.5G",
+        "數碼鏡頭:": "300萬像素"
+    },
+    {
+        "names": "Nokia 1209",
+        "rating": "8.3",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "78.9g",
+        "尺寸:": "102 x 44.1 x 17.5mm"
+    },
+    {
+        "names": "Motorola EX115",
+        "rating": "8.8",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "300萬像素",
+        "重量:": "102.2g",
+        "尺寸:": "61 x 109 x 12.35mm"
+    },
+    {
+        "names": "Alcatel OT-2012D",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "water_price_min": "248",
+        "water_price_max": "248",
+        "制式:": "GSM Quad band (850/900/1800/1900)",
+        "藍芽:": "3.0",
+        "重量:": "95g",
+        "尺寸:": "107 x 53.7 x 13.95mm"
+    },
+    {
+        "names": "Nokia 1202",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "78 gg",
+        "尺寸:": "105.3 x 45 x 13.1mm"
+    },
+    {
+        "names": "Altek T8680",
+        "rating": "7.6",
+        "hon_price_min": "2,130",
+        "hon_price_max": "2,130",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "135g",
+        "尺寸:": "113.5 x 52.0 x 16.5mm"
+    },
+    {
+        "names": "Sony Ericsson W890i",
+        "rating": "7.3",
+        "hon_price_min": "1,678",
+        "hon_price_max": "1,678",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "78g",
+        "尺寸:": "104 x 46.5 x 9.9mm"
+    },
+    {
+        "names": "K-Touch W306",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "98g",
+        "尺寸:": "116.5 x 51 x 13mm"
+    },
+    {
+        "names": "Nokia 5310 XpressMusic",
+        "rating": "8.9",
+        "hon_price_min": "1,074",
+        "hon_price_max": "1,074",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "70.2g",
+        "尺寸:": "103.8 x 44.7 x 9.9mm"
+    },
+    {
+        "names": "Nokia E75",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "139g",
+        "尺寸:": "111.8 x 50 x 14.4mm"
+    },
+    {
+        "names": "SHOUYUE V968",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2吋",
+        "數碼鏡頭:": "20萬像素"
+    },
+    {
+        "names": "Samsung 三星 E1202 Dual SIM",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "66g",
+        "尺寸:": "108 x 45 x 13.5mm"
+    },
+    {
+        "names": "Lenovo P82",
+        "rating": "7.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽",
+        "重量:": "123.8g",
+        "尺寸:": "106 x 50.5 x 15.4mm"
+    },
+    {
+        "names": "Samsung 三星 e3210",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "78.6g",
+        "尺寸:": "112.8 x 40.2 x 12.9mm"
+    },
+    {
+        "names": "Auro A-1060 Elderly Phone",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "1.8吋",
+        "重量:": "110g"
+    },
+    {
+        "names": "LG 樂金 GM750",
+        "rating": "8.8",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,050",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "118g",
+        "尺寸:": "109.8 x 53.4 x 12.9mm"
+    },
+    {
+        "names": "LG 樂金 GS155",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "30萬像素",
+        "重量:": "66.8g",
+        "尺寸:": "103.9×44.5×13.9mm"
+    },
+    {
+        "names": "DORO Primo 215",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "83g",
+        "尺寸:": "110mm x 51mm x 13mm"
+    },
+    {
+        "names": "Sony Ericsson T250i",
+        "rating": "",
+        "water_price_min": "424",
+        "water_price_max": "424",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "-",
+        "重量:": "82g",
+        "尺寸:": "100 x 45 x 13 mm"
+    },
+    {
+        "names": "V-Spring NCBC U303",
+        "rating": "4.0",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "支援"
+    },
+    {
+        "names": "Nokia 7210 Supernova",
+        "rating": "10",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "制式:": "GSM 900 / 1800 / 1900",
+        "藍芽:": "支援藍牙",
+        "尺寸:": "直立超薄 10.6 mm 機身"
+    },
+    {
+        "names": "Samsung 三星 C270",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "75g",
+        "尺寸:": "88 x 45 x 19.8mm"
+    },
+    {
+        "names": "Alcatel OT-255D",
+        "rating": "6.3",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "76g",
+        "尺寸:": "100.5 x 58 x 12mm"
+    },
+    {
+        "names": "LG 樂金 BL40",
+        "rating": "9.3",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.1",
+        "重量:": "129g",
+        "尺寸:": "128 x 51 x 10.9mm"
+    },
+    {
+        "names": "INQ Mini 3G",
+        "rating": "6.0",
+        "hon_price_min": "233",
+        "hon_price_max": "233",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "數碼鏡頭:": "200萬像素",
+        "重量:": "90g",
+        "尺寸:": "102.9 x 45.8 x 12.8mm"
+    },
+    {
+        "names": "Nokia 5230",
+        "rating": "8.6",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "115g",
+        "尺寸:": "111 x 51.6 x 15.5mm"
+    },
+    {
+        "names": "Nokia 515 Dual SIM",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "2G/3G/3.5G",
+        "藍芽:": "v3.0/ with A2DP (single SIM only)",
+        "重量:": "101.1g",
+        "尺寸:": "114 x 48 x 11 mm"
+    },
+    {
+        "names": "Samsung 三星 S8300H",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "105g",
+        "尺寸:": "110 x 51.5 x 12.7mm"
+    },
+    {
+        "names": "Land Rover S1",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "3G",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "有"
+    },
+    {
+        "names": "Nokia 6120 classic",
+        "rating": "8.2",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,030",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "89g",
+        "尺寸:": "105 x 46 x 15mm"
+    },
+    {
+        "names": "DORO Primo 305",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "52g",
+        "尺寸:": "105mm x45mm x15mm"
+    },
+    {
+        "names": "Samsung 三星 Shark S5350",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "99.2g",
+        "尺寸:": "115.2 x 46.7 x 11.9mm"
+    },
+    {
+        "names": "Nokia 208 Dual SIM",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "90.6g",
+        "尺寸:": "114.2 x 12.8 x 90.6mm"
+    },
+    {
+        "names": "SOYUE V968",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2.4吋",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "LG 樂金 GS500v Cookie Plus",
+        "rating": "7.6",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "92.5g",
+        "尺寸:": "107.1 x 52.5 x 11.9 mm"
+    },
+    {
+        "names": "SHY H001",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2吋",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "Samsung 三星 E1100",
+        "rating": "9.2",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "70.3g",
+        "尺寸:": "105.2 x 44.1 x 15.2mm"
+    },
+    {
+        "names": "COPICEL E918",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "30萬像素",
+        "重量:": "98g",
+        "尺寸:": "184.5×50×19.5mm"
+    },
+    {
+        "names": "LG 樂金 T325",
+        "rating": "8.5",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "v2.0 (A2DP)",
+        "重量:": "92.5g",
+        "尺寸:": "102.4x56.4x11.9mm"
+    },
+    {
+        "names": "Sony Ericsson W395",
+        "rating": "7.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽",
+        "重量:": "96g",
+        "尺寸:": "95 x 47 x 14.9mm"
+    },
+    {
+        "names": "Sony Ericsson CK15i TXT PRO",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "100g",
+        "尺寸:": "93.0 × 52.0 × 18.0 毫米"
+    },
+    {
+        "names": "JCB ToughPhone Tradesman",
+        "rating": "5.0",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "尺寸:": "111 x 49 x 20 mm"
+    },
+    {
+        "names": "Samsung 三星 C6112",
+        "rating": "6.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "112g",
+        "尺寸:": "105.8 x 50 x 16.5mm"
+    },
+    {
+        "names": "DoCoMo SH-02C",
+        "rating": "8.0",
+        "water_price_min": "4,399",
+        "water_price_max": "4,399",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "118g",
+        "尺寸:": "110mm× 50mm× 15mm"
+    },
+    {
+        "names": "LG 樂金 GD510 POP",
+        "rating": "9.6",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "89g",
+        "尺寸:": "97.8 x 49.5 x 11.2mm"
+    },
+    {
+        "names": "Sony Ericsson W595",
+        "rating": "8.8",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "A2DP 藍牙立體聲",
+        "重量:": "104g",
+        "尺寸:": "100 x 47 x 14 mm"
+    },
+    {
+        "names": "LG 樂金 A170",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "74g",
+        "尺寸:": "90.3 X 46.4 X 19.0mm"
+    },
+    {
+        "names": "Samsung 三星 E1190",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "71.2g",
+        "尺寸:": "88 x 44 x 18.9 mm"
+    },
+    {
+        "names": "Nokia C2-05",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "2.1",
+        "重量:": "98.5g",
+        "尺寸:": "99.4 x 47.8 x 16.3 mm"
+    },
+    {
+        "names": "Nokia C2-01",
+        "rating": "9.0",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "89g",
+        "尺寸:": "109.8 x 46.9 x 15.3 mm"
+    },
+    {
+        "names": "Sony Ericsson W995",
+        "rating": "9.0",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "113g",
+        "尺寸:": "97.0 x 49.0 x 15.0mm"
+    },
+    {
+        "names": "Samsung 三星 S3778",
+        "rating": "9.0",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "96g",
+        "尺寸:": "103 x 55.3 x 11.9mm"
+    },
+    {
+        "names": "Sony Ericsson Xperia Pureness",
+        "rating": "6.7",
+        "water_price_min": "3,088",
+        "water_price_max": "3,088",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "70g",
+        "尺寸:": "102 x 43 x 13mm"
+    },
+    {
+        "names": "Nokia C7-00",
+        "rating": "9.0",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "130g",
+        "尺寸:": "117.3 x 56.8 x 10.5 mm"
+    },
+    {
+        "names": "AIEK M2",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "1吋",
+        "尺寸:": "85.5 x 55.6 x 6.5mm"
+    },
+    {
+        "names": "Nokia Asha 311",
+        "rating": "8.6",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "v2.1+EDR",
+        "重量:": "95g",
+        "尺寸:": "106.0x52.0x12.9mm"
+    },
+    {
+        "names": "LG 樂金 KF350",
+        "rating": "8.4",
+        "hon_price_min": "940",
+        "hon_price_max": "940",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.1",
+        "重量:": "102g",
+        "尺寸:": "100.9 x 50.9 x 14.5mm"
+    },
+    {
+        "names": "Nokia Asha 302",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "106g",
+        "尺寸:": "115.2mm x 58.9mm x 13.5mm"
+    },
+    {
+        "names": "Nokia N97",
+        "rating": "9.3",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.1",
+        "重量:": "150g",
+        "尺寸:": "117.2 x 55.3 x 15.9mm"
+    },
+    {
+        "names": "TKEXUN E1190A",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "50萬像素"
+    },
+    {
+        "names": "Nokia Asha 205 Dual SIM",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1 with A2DP, EDR",
+        "重量:": "94g",
+        "尺寸:": "112.8 x 61.1 x 13 mm"
+    },
+    {
+        "names": "Nokia 111",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1+EDR",
+        "重量:": "77g",
+        "尺寸:": "110 x 46 x 14.8 mm"
+    },
+    {
+        "names": "Obooy EG520",
+        "rating": "6.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "125g",
+        "尺寸:": "100 x 51 x 20.8mm"
+    },
+    {
+        "names": "Nokia Asha 201",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1 with A2DP, EDR",
+        "重量:": "105g",
+        "尺寸:": "115.5 x 61.1 x 14 mm"
+    },
+    {
+        "names": "F-FOOK F633",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2吋",
+        "數碼鏡頭:": "50萬像素"
+    },
+    {
+        "names": "Nokia 105 (2013)",
+        "rating": "8.1",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "70g",
+        "尺寸:": "107 x 44.8 x 14.3 mm"
+    },
+    {
+        "names": "CallMing F633",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "2吋",
+        "數碼鏡頭:": "30萬像素"
+    },
+    {
+        "names": "Alcatel OT-800",
+        "rating": "8.0",
+        "hon_price_min": "790",
+        "hon_price_max": "790",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "102g",
+        "尺寸:": "111 x 58.2 x 13.9mm"
+    },
+    {
+        "names": "Motorola EX232",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "95g",
+        "尺寸:": "105 x 58.4 x 12.9 mm"
+    },
+    {
+        "names": "Nokia C5",
+        "rating": "9.3",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "89.3g",
+        "尺寸:": "112 x 46 x 12.3mm"
+    },
+    {
+        "names": "Motorola W270",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "-",
+        "重量:": "90g",
+        "尺寸:": "95 x 45 x 17mm"
+    },
+    {
+        "names": "Nokia 220 Dual SIM",
+        "rating": "6.8",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "83.4g",
+        "尺寸:": "116.4 x 50.3 x 13.2mm"
+    },
+    {
+        "names": "Nokia 8800 Sapphire Arte",
+        "rating": "",
+        "hon_price_min": "10,000",
+        "hon_price_max": "10,000",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "150g",
+        "尺寸:": "109 x 45.6 x 14.6mm"
+    },
+    {
+        "names": "Sony Ericsson Spiro (W100)",
+        "rating": "9.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "90g",
+        "尺寸:": "92 x 48 x 16.8 mm"
+    },
+    {
+        "names": "DoCoMo SH-04C",
+        "rating": "5.3",
+        "water_price_min": "4,580",
+        "water_price_max": "4,580",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "有",
+        "重量:": "129g",
+        "尺寸:": "110mm× 50mm× 17.9mm"
+    },
+    {
+        "names": "Nokia Asha 210",
+        "rating": "9.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "BT 2.1",
+        "重量:": "99.5g",
+        "尺寸:": "111.5 x 60 x 11.8 mm"
+    },
+    {
+        "names": "Nokia 1208",
+        "rating": "7.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "-萬像素",
+        "重量:": "77g",
+        "尺寸:": "102 x 44.1 x 17.5mm"
+    },
+    {
+        "names": "Nokia 105 Dual Sim (2017)",
+        "rating": "7.7",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "73g",
+        "尺寸:": "112 x 49.5 x 14.4mm"
+    },
+    {
+        "names": "Sony Ericsson Vivaz",
+        "rating": "8.6",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "97g",
+        "尺寸:": "107.0 x 52.0 x 12.5mm"
+    },
+    {
+        "names": "SpareOne XPAL",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "制式:": "雙頻"
+    },
+    {
+        "names": "Nokia X2",
+        "rating": "7.2",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "82g",
+        "尺寸:": "111 x 47 x 13.3mm"
+    },
+    {
+        "names": "LG 樂金 T370",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "v2.1",
+        "尺寸:": "103 x 59 x 10.7 mm"
+    },
+    {
+        "names": "Nokia N900",
+        "rating": "9.3",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 v2.1",
+        "重量:": "181g",
+        "尺寸:": "110.9 × 59.8 × 18mm"
+    },
+    {
+        "names": "Xero XM-03",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "3G",
+        "顯示屏:": "2.4吋"
+    },
+    {
+        "names": "AIEK M1",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "顯示屏:": "0.96吋"
+    },
+    {
+        "names": "Nokia 2630",
+        "rating": "",
+        "water_price_min": "438",
+        "water_price_max": "438",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "66g",
+        "尺寸:": "105 x 45 x 9.9mm"
+    },
+    {
+        "names": "LG 樂金 KF300",
+        "rating": "8.4",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "200萬像素",
+        "藍芽:": "藍芽"
+    },
+    {
+        "names": "Nokia 500",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "93g",
+        "尺寸:": "111.3 x 53.8 x 14.1 mm"
+    },
+    {
+        "names": "iNO mobile CP10 Plus 2012",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "101.4g",
+        "尺寸:": "107.8 x 50.4 x 18.1mm"
+    },
+    {
+        "names": "Sony Ericsson W350i",
+        "rating": "8.7",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "2G/3G/3.5G/4G:": "2G",
+        "數碼鏡頭:": "130萬像素",
+        "重量:": "80g",
+        "尺寸:": "43 x 104 x 10.5mm"
+    },
+    {
+        "names": "SoftBank 945SHG",
+        "rating": "10",
+        "water_price_min": "3,880",
+        "water_price_max": "3,880",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "140g",
+        "尺寸:": "51.5 x 112.5 x 16.9mm"
+    },
+    {
+        "names": "Samsung 三星 M8910 PIXON12",
+        "rating": "9.1",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽",
+        "重量:": "114g",
+        "尺寸:": "108 x 53 x 13.8mm"
+    },
+    {
+        "names": "DoCoMo F-01C",
+        "rating": "8.0",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "125",
+        "尺寸:": "111mm x 51mm x 13.9mm"
+    },
+    {
+        "names": "Nokia Asha 230",
+        "rating": "",
+        "制式:": "GSM",
+        "藍芽:": "3.0",
+        "重量:": "89.3g",
+        "尺寸:": "99.5 x 58.6 x 13.2mm"
+    },
+    {
+        "names": "Samsung 三星 M628",
+        "rating": "8.0",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽",
+        "重量:": "100g",
+        "尺寸:": "98 x 46.9 x 16.9mm"
+    },
+    {
+        "names": "Sony Ericsson Aino",
+        "rating": "9.2",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "有",
+        "重量:": "134g",
+        "尺寸:": "104.0 x 50.0 x 15.5mm"
+    },
+    {
+        "names": "Nokia N86 8MP",
+        "rating": "9.6",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "149g",
+        "尺寸:": "103.4 x 51.4 x 16.5mm"
+    },
+    {
+        "names": "Nokia N76",
+        "rating": "",
+        "water_price_min": "2,278",
+        "water_price_max": "2,278",
+        "2G/3G/3.5G/4G:": "3G",
+        "藍芽:": "藍芽",
+        "重量:": "115g",
+        "尺寸:": "106.5 x 52 x 13.7mm"
+    },
+    {
+        "names": "Nokia X2-01",
+        "rating": "8.0",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "有",
+        "重量:": "107.5g",
+        "尺寸:": "119.4 x 59.8 x 14.3 mm"
+    },
+    {
+        "names": "Samsung 三星 E1310c",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "重量:": "83.1g",
+        "尺寸:": "91.5 x 44.8 x 19.5mm"
+    },
+    {
+        "names": "LG 樂金 GU230",
+        "rating": "",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "藍芽 V2.1 (A2DP)",
+        "重量:": "89g",
+        "尺寸:": "104 x 48 x 15.2mm"
+    },
+    {
+        "names": "Nokia N85",
+        "rating": "8.4",
+        "water_price_min": "2,080",
+        "water_price_max": "2,080",
+        "2G/3G/3.5G/4G:": "3.5G",
+        "藍芽:": "藍芽 V2.0",
+        "重量:": "128g",
+        "尺寸:": "103 x 50 x 16mm"
+    },
+    {
+        "names": "Nokia Asha 210 Dual",
+        "rating": "10",
+        "2G/3G/3.5G/4G:": "2G",
+        "藍芽:": "v2.1 with EDR",
+        "重量:": "97.3g",
+        "尺寸:": "111.5 x 60 x 11.8 mm"
     }
 ]

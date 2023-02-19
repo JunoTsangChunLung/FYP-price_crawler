@@ -48,15 +48,14 @@ while page < 20:
                 d["hon_price_max"] = max_value
 
         #attributes
-        # attr_blk = product.find('div', class_="line line-04")
-        # attrs = attr_blk.find_all('div', class_="item-attr")
-        # for attr in attrs:
-        #     label = attr.find('td', class_='attr-label')
-        #     info = attr.find('td', class_='attr-info')
-        #     d[f"{label.text}"] = info.text
-
-
-
+        attr_blk = product.find('div', class_="line line-04")
+        attrs = attr_blk.find_all('div', class_="item-attr")
+        for attr in attrs:
+            label = attr.find('td', class_='attr-label')
+            info = attr.find('td', class_='attr-info')
+            if label is not None and info is not None:
+                d[f"{label.text}"] = info.text
+                
         # string = attr.text.strip().split("\n\n")
         # for i in range(len(string)):
         #     d[f"feature{i+1}"] = string[i]
