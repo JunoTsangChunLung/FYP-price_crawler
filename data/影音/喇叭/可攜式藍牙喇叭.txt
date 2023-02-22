@@ -1,0 +1,4125 @@
+[
+    {
+        "names": "JBL Pulse 5 便攜式藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "1,998",
+        "hon_price_max": "2,399",
+        "water_price_min": "1,768",
+        "water_price_max": "1,998",
+        "使用方式:": "手提式",
+        "尺寸:": "107 x 216 x 132mm",
+        "重量:": "1.5kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Bose SoundLink Flex Bluetooth Speaker​ 藍牙喇叭",
+        "rating": "9.5",
+        "hon_price_min": "980",
+        "hon_price_max": "1,399",
+        "water_price_min": "1,000",
+        "water_price_max": "1,240",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL Partybox Encore Essential 手提式派對喇叭",
+        "rating": "8.4",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,499",
+        "water_price_min": "2,088",
+        "water_price_max": "2,350",
+        "使用方式:": "手提式",
+        "尺寸:": "276 x 327 x 293mm",
+        "重量:": "5.9kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Marshall Emberton II 防水藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "water_price_min": "1,070",
+        "water_price_max": "1,499",
+        "使用方式:": "手提式",
+        "靈敏度:": "87dB",
+        "尺寸:": "68 x 160 x 76mm",
+        "重量:": "0.7kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Sony Extra Bass Portable Wireless Speaker 防水喇叭 SRS-XB13",
+        "rating": "9.9",
+        "hon_price_min": "280",
+        "hon_price_max": "438",
+        "water_price_min": "290",
+        "water_price_max": "360",
+        "使用方式:": "手提式",
+        "尺寸:": "76 x 76 x 95mm",
+        "重量:": "0.253kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL PartyBox 710 便攜式藍牙派對喇叭",
+        "rating": "",
+        "hon_price_min": "6,760",
+        "hon_price_max": "6,999",
+        "water_price_min": "5,350",
+        "water_price_max": "5,500",
+        "使用方式:": "手提式",
+        "輸入功率:": "800W",
+        "尺寸:": "399 x 905x 436mm",
+        "重量:": "27.8kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Sony X 系列可攜式無線揚聲器 SRS-XE200",
+        "rating": "9.4",
+        "hon_price_min": "579",
+        "hon_price_max": "999",
+        "使用方式:": "手提式",
+        "尺寸:": "90 x 208 x 94mm",
+        "重量:": "0.8kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Fender Newport 2 便攜藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "2,169",
+        "hon_price_max": "2,280",
+        "藍牙版本:": "5.0",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Sony X 系列可攜式無線揚聲器 SRS-XE300",
+        "rating": "10",
+        "hon_price_min": "960",
+        "hon_price_max": "1,599",
+        "使用方式:": "手提式",
+        "尺寸:": "105 x 238 x 119mm",
+        "重量:": "1.3kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL PartyBox 110 便攜式藍牙派對喇叭",
+        "rating": "10",
+        "hon_price_min": "2,970",
+        "hon_price_max": "3,199",
+        "使用方式:": "手提式",
+        "靈敏度:": ">80dB",
+        "尺寸:": "295 x 568 x 300mm",
+        "重量:": "10.84kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "JBL Clip 4 防水掛勾可攜式藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "439",
+        "hon_price_max": "499",
+        "water_price_min": "360",
+        "water_price_max": "449",
+        "使用方式:": "手提式",
+        "尺寸:": "86.3 x 134.5 x 46mm",
+        "重量:": "0.239kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL Flip 5 便攜式防水無線藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "558",
+        "hon_price_max": "880",
+        "water_price_min": "480",
+        "water_price_max": "650",
+        "使用方式:": "手提式",
+        "尺寸:": "181 x 69 x 74mm",
+        "重量:": "0.54kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Marshall Willen Wireless Portable Speaker 小型無線便攜喇叭",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "699",
+        "water_price_max": "999",
+        "使用方式:": "手提式",
+        "靈敏度:": "82dB",
+        "尺寸:": "101.6 x 100.5 x 40.4mm",
+        "重量:": "0.31kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Marshall Emberton 防水藍牙喇叭",
+        "rating": "9.1",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "water_price_min": "750",
+        "water_price_max": "1,499",
+        "使用方式:": "手提式",
+        "靈敏度:": "87dB",
+        "尺寸:": "68 x 160 x 76mm",
+        "重量:": "0.7kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "JBL Charge 5 便攜式防水無線藍牙喇叭",
+        "rating": "9.1",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,298",
+        "water_price_min": "880",
+        "water_price_max": "1,030",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.1",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL Flip 6 便攜式防水無線藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "798",
+        "hon_price_max": "998",
+        "water_price_min": "630",
+        "water_price_max": "850",
+        "使用方式:": "手提式",
+        "尺寸:": "178 x 68 x 72mm",
+        "重量:": "0.55kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Ultimate Ears WonderBoom 3 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "529",
+        "hon_price_max": "699",
+        "使用方式:": "手提式",
+        "重量:": "0.42kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL Charge 5 便攜式防水無線藍牙喇叭",
+        "rating": "9.1",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,298",
+        "water_price_min": "880",
+        "water_price_max": "1,030",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.1",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Ultimate Ears Boom 3 便攜式藍牙喇叭",
+        "rating": "9.6",
+        "hon_price_min": "630",
+        "hon_price_max": "999",
+        "water_price_min": "618",
+        "water_price_max": "800",
+        "使用方式:": "手提式",
+        "尺寸:": "184 x 73mm",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL Boombox 3 便攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,480",
+        "water_price_min": "3,499",
+        "water_price_max": "3,890",
+        "使用方式:": "手提式",
+        "尺寸:": "482 x 257 x 200mm",
+        "重量:": "6.7kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Anker Soundcore Select 2 IPX7 可攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "569",
+        "使用方式:": "手提式",
+        "尺寸:": "174 x 57 x 59mm",
+        "重量:": "0.506kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Sony X 系列可攜式無線揚聲器 SRS-XE300",
+        "rating": "10",
+        "hon_price_min": "960",
+        "hon_price_max": "1,599",
+        "使用方式:": "手提式",
+        "尺寸:": "105 x 238 x 119mm",
+        "重量:": "1.3kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Marshall Kilburn II Portable Bluetooth Speaker 藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,899",
+        "water_price_min": "1,700",
+        "water_price_max": "2,380",
+        "使用方式:": "手提式",
+        "重量:": "2.5kg",
+        "防塵/防水等級:": "IPX2"
+    },
+    {
+        "names": "JBL Flip Essential 2 防水便攜式無線藍牙喇叭",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "使用方式:": "手提式",
+        "尺寸:": "175 x 68 x 70mm",
+        "重量:": "0.52kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Monster Stinger Gaming 穿戴式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "使用方式:": "穿戴式",
+        "藍牙版本:": "5.3",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Marshall Emberton II 防水藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "water_price_min": "1,070",
+        "water_price_max": "1,499",
+        "使用方式:": "手提式",
+        "靈敏度:": "87dB",
+        "尺寸:": "68 x 160 x 76mm",
+        "重量:": "0.7kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Marshall Willen Wireless Portable Speaker 小型無線便攜喇叭",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "699",
+        "water_price_max": "999",
+        "使用方式:": "手提式",
+        "靈敏度:": "82dB",
+        "尺寸:": "101.6 x 100.5 x 40.4mm",
+        "重量:": "0.31kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Tribit StormBox Micro 2 藍牙5.3立體聲揚聲器",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "468",
+        "使用方式:": "手提式",
+        "尺寸:": "99.8 x 99.8 x 42.9mm",
+        "重量:": "0.315kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Anker SoundCore Motion+ Hi-Res 高音質防水藍牙易攜喇叭",
+        "rating": "9.7",
+        "hon_price_min": "778",
+        "hon_price_max": "899",
+        "water_price_min": "750",
+        "water_price_max": "950",
+        "使用方式:": "手提式",
+        "尺寸:": "257 x 79 x 81mm",
+        "重量:": "1kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Sony XB43 Extra Bass 可攜式藍牙揚聲器 SRS-XB43",
+        "rating": "9.0",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,700",
+        "使用方式:": "手提式",
+        "尺寸:": "325 x 123 x 117mm",
+        "重量:": "2.95kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Tribit StormBox Micro 2 藍牙5.3立體聲揚聲器",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "468",
+        "使用方式:": "手提式",
+        "尺寸:": "99.8 x 99.8 x 42.9mm",
+        "重量:": "0.315kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Sonos Roam 無線音箱",
+        "rating": "10",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,799",
+        "water_price_min": "1,528",
+        "water_price_max": "1,599",
+        "使用方式:": "手提式",
+        "尺寸:": "168 x 62 x 60mm",
+        "重量:": "0.43kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Sony X 系列可攜式無線揚聲器 SRS-XE300",
+        "rating": "10",
+        "hon_price_min": "960",
+        "hon_price_max": "1,599",
+        "使用方式:": "手提式",
+        "尺寸:": "105 x 238 x 119mm",
+        "重量:": "1.3kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL PartyBox 110 便攜式藍牙派對喇叭",
+        "rating": "10",
+        "hon_price_min": "2,970",
+        "hon_price_max": "3,199",
+        "使用方式:": "手提式",
+        "靈敏度:": ">80dB",
+        "尺寸:": "295 x 568 x 300mm",
+        "重量:": "10.84kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Anker Soundcore Select 2 IPX7易攜藍牙喇叭 - Marvel 特別版",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "699",
+        "使用方式:": "手提式",
+        "尺寸:": "174 x 57 x 59mm",
+        "重量:": "0.5kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Tribit StormBox Pro 2.1 防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "999",
+        "使用方式:": "手提式",
+        "尺寸:": "96 x 96 x 182mm",
+        "重量:": "0.975kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Bose SoundLink Revolve+ 藍牙揚聲器 II",
+        "rating": "",
+        "hon_price_min": "2,160",
+        "hon_price_max": "2,699",
+        "water_price_min": "1,920",
+        "water_price_max": "2,380",
+        "使用方式:": "手提式",
+        "重量:": "0.9kg",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "JBL Go 3 迷你防水藍牙喇叭",
+        "rating": "9.5",
+        "hon_price_min": "349",
+        "hon_price_max": "399",
+        "water_price_min": "228",
+        "water_price_max": "338",
+        "使用方式:": "手提式",
+        "尺寸:": "87.5 x 75 x 41.3mm",
+        "重量:": "0.209kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Sony XB33 Extra Bass 可攜式藍牙揚聲器 SRS-XB33",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "1,260",
+        "使用方式:": "手提式",
+        "尺寸:": "246 x 97 x 106mm",
+        "重量:": "1.1kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Zoeao GravaStar Mars Pro Bluetooth Speaker 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,699",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Ultimate Ears WonderBoom 2 便攜式藍牙喇叭",
+        "rating": "7.0",
+        "hon_price_min": "340",
+        "hon_price_max": "799",
+        "使用方式:": "手提式",
+        "尺寸:": "104 x 95.3mm",
+        "重量:": "0.42kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Ultimate Ears Megaboom 3 便攜式藍牙喇叭",
+        "rating": "9.7",
+        "hon_price_min": "888",
+        "hon_price_max": "1,299",
+        "water_price_min": "920",
+        "water_price_max": "920",
+        "使用方式:": "手提式",
+        "尺寸:": "225 x 87mm",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL Tuner XL 收音機藍牙防水喇叭",
+        "rating": "10",
+        "hon_price_min": "788",
+        "hon_price_max": "1,299",
+        "使用方式:": "手提式",
+        "尺寸:": "145 x 167 x 103mm",
+        "重量:": "1.15kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Marshall Stockwell II Speaker 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,249",
+        "water_price_min": "1,380",
+        "water_price_max": "1,999",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "JBL Boombox 3 便攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,480",
+        "water_price_min": "3,499",
+        "water_price_max": "3,890",
+        "使用方式:": "手提式",
+        "尺寸:": "482 x 257 x 200mm",
+        "重量:": "6.7kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "JBL PartyBox On The Go 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,580",
+        "使用方式:": "手提式",
+        "靈敏度:": "90dB",
+        "尺寸:": "489 x 244.5 x 224mm",
+        "重量:": "7.5kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Sony X 系列可攜式無線揚聲器 SRS-XG300",
+        "rating": "6.0",
+        "hon_price_min": "1,730",
+        "hon_price_max": "2,799",
+        "使用方式:": "手提式",
+        "尺寸:": "318 x 138 x 136mm",
+        "重量:": "3kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "B&O Beolit 20 藍牙揚聲器",
+        "rating": "10",
+        "hon_price_min": "3,950",
+        "hon_price_max": "4,298",
+        "water_price_min": "3,010",
+        "water_price_max": "3,780",
+        "使用方式:": "手提式",
+        "輸入功率:": "70W",
+        "尺寸:": "135 x 230 x 189mm",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "JBL Horizon 2 藍牙收音機鬧鐘喇叭",
+        "rating": "9.3",
+        "hon_price_min": "830",
+        "hon_price_max": "998",
+        "water_price_min": "748",
+        "water_price_max": "849",
+        "使用方式:": "手提式",
+        "頻率:": "75Hz-20kHz (-6dB)",
+        "尺寸:": "178 x 162 x 75.7mm",
+        "重量:": "0.81kg"
+    },
+    {
+        "names": "Bose SoundLink Micro 藍牙揚聲器",
+        "rating": "9.0",
+        "hon_price_min": "668",
+        "hon_price_max": "1,199",
+        "water_price_min": "580",
+        "water_price_max": "999",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "SOUL S-Storm 浮水藍牙喇叭 SS88",
+        "rating": "8.0",
+        "hon_price_min": "180",
+        "hon_price_max": "399",
+        "water_price_min": "228",
+        "water_price_max": "228",
+        "使用方式:": "手提式",
+        "靈敏度:": "85+/-3dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "94 x 43mm",
+        "重量:": "0.168kg"
+    },
+    {
+        "names": "Bose SoundLink Revolve 藍牙揚聲器",
+        "rating": "9.6",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,699",
+        "water_price_min": "1,060",
+        "water_price_max": "1,699",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Anker SoundCore Select Pro IPX7 Bluetooth Speaker 戶外型光效藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "939",
+        "使用方式:": "手提式",
+        "尺寸:": "346 x 148 x 200mm",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Marshall Emberton 防水藍牙喇叭",
+        "rating": "9.1",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "water_price_min": "750",
+        "water_price_max": "1,499",
+        "使用方式:": "手提式",
+        "靈敏度:": "87dB",
+        "尺寸:": "68 x 160 x 76mm",
+        "重量:": "0.7kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "JBL Tuner 2 收音機藍牙防水喇叭",
+        "rating": "10",
+        "hon_price_min": "630",
+        "hon_price_max": "998",
+        "使用方式:": "手提式",
+        "尺寸:": "180 x 70 x 72mm",
+        "重量:": "0.543kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "JBL Pulse 4 便攜式藍牙喇叭",
+        "rating": "7.8",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,899",
+        "water_price_min": "1,150",
+        "water_price_max": "1,580",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Monster Superstar S110 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "499",
+        "water_price_min": "178",
+        "water_price_max": "399",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Marshall Stockwell II Speaker 藍牙喇叭 (Black and Brass 黑金限量版)",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,428",
+        "water_price_max": "1,999",
+        "使用方式:": "手提式",
+        "重量:": "1.4kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "JBL Partybox 310 可攜式藍牙派對喇叭",
+        "rating": "8.6",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,299",
+        "water_price_min": "3,588",
+        "water_price_max": "3,680",
+        "使用方式:": "手提式",
+        "尺寸:": "325.6 x 687.7 x 367.8mm",
+        "重量:": "17.42kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "EarFun UBoom 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "638",
+        "使用方式:": "手提式",
+        "尺寸:": "166.5 x 88 x 88mm",
+        "重量:": "0.585kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Harman Kardon Onyx Studio 6 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,228",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,125",
+        "water_price_max": "1,399",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "inno3C 氣氛燈藍牙音箱 i-BS9",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "尺寸:": "133 x 133 x 156mm"
+    },
+    {
+        "names": "EarFun UBoom L JumboBass 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "899",
+        "使用方式:": "手提式",
+        "尺寸:": "78 x 210 x 72mm",
+        "重量:": "0.65kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Devialet Mania 可攜式智慧高保真揚聲器",
+        "rating": "",
+        "hon_price_min": "6,990",
+        "hon_price_max": "6,990",
+        "使用方式:": "手提式",
+        "靈敏度:": "95dB",
+        "尺寸:": "176 x 193 x 139mm",
+        "重量:": "2.3kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Anker SoundCore Motion+ Hi-Res 高音質防水藍牙易攜喇叭",
+        "rating": "9.7",
+        "hon_price_min": "778",
+        "hon_price_max": "899",
+        "water_price_min": "750",
+        "water_price_max": "950",
+        "使用方式:": "手提式",
+        "尺寸:": "257 x 79 x 81mm",
+        "重量:": "1kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Edifier 可攜式藍牙喇叭 MP230",
+        "rating": "10",
+        "hon_price_min": "600",
+        "hon_price_max": "650",
+        "使用方式:": "手提式",
+        "輸入功率:": "10W+10W",
+        "靈敏度:": "≧85dB",
+        "尺寸:": "162 x 84.5 x 96.5mm",
+        "重量:": "0.85kg"
+    },
+    {
+        "names": "SOUL S-Storm Max IP66 Portable Speaker 防水藍牙喇叭 SS66",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "598",
+        "使用方式:": "手提式",
+        "尺寸:": "83 x 205mm",
+        "重量:": "0.72kg",
+        "防塵/防水等級:": "IP66"
+    },
+    {
+        "names": "XPower 復古木紋藍牙迷你喇叭 MBS4",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "188",
+        "使用方式:": "手提式",
+        "尺寸:": "77 x 77 x 60mm",
+        "重量:": "0.235kg"
+    },
+    {
+        "names": "XPower 4合1無線藍牙鬧鐘喇叭 MBS9",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "199",
+        "使用方式:": "手提式",
+        "尺寸:": "88 x 88 x 83.5mm",
+        "重量:": "0.237kg"
+    },
+    {
+        "names": "Anker SoundCore Rave Mini 80W PartyCast Party box 節拍光效 派對藍牙線喇叭",
+        "rating": "",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,399",
+        "使用方式:": "手提式",
+        "輸入功率:": "80W",
+        "尺寸:": "180 × 180 × 342mm",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Bonnaire 便攜迷你人聲悦耳藍牙 5.1 音樂喇叭 BX-22",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "229",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "80x 60mm",
+        "重量:": "0.198kg"
+    },
+    {
+        "names": "Sony XB23 Extra Bass 可攜式藍牙揚聲器 SRS-XB23",
+        "rating": "9.2",
+        "hon_price_min": "550",
+        "hon_price_max": "749",
+        "water_price_min": "550",
+        "water_price_max": "630",
+        "使用方式:": "手提式",
+        "尺寸:": "76 x 218mm",
+        "重量:": "0.58kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Bose SoundLink Revolve+ 藍牙揚聲器",
+        "rating": "8.0",
+        "hon_price_min": "1,830",
+        "hon_price_max": "2,280",
+        "water_price_min": "1,740",
+        "water_price_max": "1,988",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "B&O Beoplay A1 便攜式藍牙喇叭",
+        "rating": "8.2",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,498",
+        "water_price_min": "1,380",
+        "water_price_max": "1,498",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Devialet Mania 可攜式智慧高保真揚聲器 - Opéra de Paris 巴黎歌劇院版",
+        "rating": "",
+        "hon_price_min": "8,490",
+        "hon_price_max": "8,490",
+        "使用方式:": "手提式",
+        "靈敏度:": "95dB",
+        "尺寸:": "176 x 193 x 139mm",
+        "重量:": "2.3kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "XPower 4合1無線藍牙鬧鐘喇叭 MBS9",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "199",
+        "使用方式:": "手提式",
+        "尺寸:": "88 x 88 x 83.5mm",
+        "重量:": "0.237kg"
+    },
+    {
+        "names": "Marshall Stockwell 藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,499",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Muzen Wild Mini 戶外越野防水藍牙音箱",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "866",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Bose SoundLink Revolve+ 藍牙揚聲器 II",
+        "rating": "",
+        "hon_price_min": "2,160",
+        "hon_price_max": "2,699",
+        "water_price_min": "1,920",
+        "water_price_max": "2,380",
+        "使用方式:": "手提式",
+        "重量:": "0.9kg",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "JBL Boombox 2 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "2,478",
+        "hon_price_max": "3,599",
+        "water_price_min": "2,200",
+        "water_price_max": "2,799",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "尺寸:": "485 x 201 x 257mm",
+        "重量:": "5.9kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Marshall Stockwell II Speaker 藍牙喇叭 (Black and Brass 黑金限量版)",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,428",
+        "water_price_max": "1,999",
+        "使用方式:": "手提式",
+        "重量:": "1.4kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Nakamichi N-Power Lite 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "468",
+        "hon_price_max": "568",
+        "water_price_min": "458",
+        "water_price_max": "458",
+        "使用方式:": "手提式",
+        "頻率:": "80Hz-20kHz",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Ultimate Ears Megaboom 3 便攜式藍牙喇叭",
+        "rating": "9.7",
+        "hon_price_min": "888",
+        "hon_price_max": "1,299",
+        "water_price_min": "920",
+        "water_price_max": "920",
+        "使用方式:": "手提式",
+        "尺寸:": "225 x 87mm",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Tribit XSound Mega Portable Wireless Speaker 藍牙無線喇叭 BTS35",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "990",
+        "使用方式:": "手提式",
+        "尺寸:": "250 x 87 x 80mm",
+        "重量:": "1.02kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Muzen Cyber Cube Premium 便攜式藍牙音箱",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "1,259",
+        "使用方式:": "手提式",
+        "靈敏度:": "＞70dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "60.8 x 41.2 x 77.9mm",
+        "重量:": "0.245kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Anker SoundCore Mini 藍牙喇叭 A3101",
+        "rating": "10",
+        "hon_price_min": "228",
+        "hon_price_max": "262",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Sanag 炫酷RGB呼吸燈藍牙喇叭 V12S",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "JBL Link Portable Speaker 便攜式藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "650",
+        "hon_price_max": "1,079",
+        "water_price_min": "200",
+        "water_price_max": "899",
+        "使用方式:": "手提式",
+        "尺寸:": "88 x 170mm",
+        "重量:": "0.735kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Omthing Mini Chub 防水便攜藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "299",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "重量:": "0.24kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Bose Soundlink Mini II 藍牙揚聲器",
+        "rating": "9.7",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,699",
+        "water_price_min": "1,099",
+        "water_price_max": "1,360",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "JBL Pulse 3 便攜式藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,450",
+        "water_price_min": "930",
+        "water_price_max": "1,080",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Huawei Mini Speaker 藍牙便攜喇叭 CM510",
+        "rating": "10",
+        "hon_price_min": "70",
+        "hon_price_max": "140",
+        "water_price_min": "70",
+        "water_price_max": "115",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Bose SoundLink Mini II 限量版藍牙揚聲器",
+        "rating": "9.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,018",
+        "water_price_max": "1,499",
+        "使用方式:": "手提式",
+        "尺寸:": "510 x 180 x 58mm"
+    },
+    {
+        "names": "Sanag 便攜式户外藍牙喇叭 M11",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "使用方式:": "手提式",
+        "尺寸:": "87 x  95mm",
+        "重量:": "0.138kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Anker Soundcore Wakey 藍牙音箱 A3300",
+        "rating": "8.0",
+        "hon_price_min": "680",
+        "hon_price_max": "799",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "尺寸:": "82 x 92 x 200mm"
+    },
+    {
+        "names": "B&O Beosound Level 可攜式喇叭",
+        "rating": "",
+        "hon_price_min": "9,600",
+        "hon_price_max": "11,980",
+        "water_price_min": "8,980",
+        "water_price_max": "11,498",
+        "使用方式:": "手提式",
+        "尺寸:": "348 x 230 x 56mm",
+        "重量:": "3.3kg"
+    },
+    {
+        "names": "Bose Portable Smart Speaker 便攜式智能揚聲器",
+        "rating": "10",
+        "hon_price_min": "2,890",
+        "hon_price_max": "3,999",
+        "water_price_min": "2,999",
+        "water_price_max": "3,999",
+        "使用方式:": "手提式",
+        "尺寸:": "191.5 x 119 x 104mm",
+        "重量:": "1.06kg",
+        "防塵/防水等級:": "IPx4"
+    },
+    {
+        "names": "Anker SoundCore Rave Neo 50W Party-Proof Speaker 攜帶藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,099",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "使用方式:": "手提式",
+        "靈敏度:": "up to 98dB",
+        "尺寸:": "292 × 197 × 127mm",
+        "重量:": "3.5kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Monster SuperStar S310 重低音戶外型藍牙喇叭",
+        "rating": "6.0",
+        "hon_price_min": "398",
+        "hon_price_max": "699",
+        "使用方式:": "手提式",
+        "頻率:": "20Hz-20kHz",
+        "阻抗:": "16Ω"
+    },
+    {
+        "names": "EarFun UBoom L JumboBass 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "899",
+        "使用方式:": "手提式",
+        "尺寸:": "78 x 210 x 72mm",
+        "重量:": "0.65kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Devialet Mania 可攜式智慧高保真揚聲器 - Opéra de Paris 巴黎歌劇院版",
+        "rating": "",
+        "hon_price_min": "8,490",
+        "hon_price_max": "8,490",
+        "使用方式:": "手提式",
+        "靈敏度:": "95dB",
+        "尺寸:": "176 x 193 x 139mm",
+        "重量:": "2.3kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Harman Kardon Onyx Studio 6 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,228",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,125",
+        "water_price_max": "1,399",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "AIWA 愛華 Katana X 無線音箱 MI-X30",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "499",
+        "使用方式:": "手提式",
+        "尺寸:": "190 x 78 x 58.5mm"
+    },
+    {
+        "names": "Bose Portable Home Speaker 便攜式智能揚聲器",
+        "rating": "9.0",
+        "hon_price_min": "2,890",
+        "hon_price_max": "3,499",
+        "water_price_min": "2,180",
+        "water_price_max": "3,499",
+        "使用方式:": "手提式",
+        "重量:": "1.06kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Nakamichi NK-S-TWINS (SINGLE) Limited Edition 無線藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "99",
+        "hon_price_max": "168",
+        "使用方式:": "手提式",
+        "輸入功率:": "3W"
+    },
+    {
+        "names": "Muzen Cyber​​ Cube Standard 便攜式藍牙音箱",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "1,023",
+        "使用方式:": "手提式",
+        "靈敏度:": "＞70dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "60.8 x 36.6 x 77.9mm",
+        "重量:": "0.23kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "MOMAX Space 真無線全指向音箱及氣氛燈 BS1",
+        "rating": "9.5",
+        "hon_price_min": "299",
+        "hon_price_max": "498",
+        "water_price_min": "350",
+        "water_price_max": "418",
+        "藍牙版本:": "5.0",
+        "阻抗:": "3Ω",
+        "尺寸:": "120 x 120 x 178mm",
+        "重量:": "0.91kg"
+    },
+    {
+        "names": "WK Design 可攜式藍牙喇叭 SP150",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "Dali Katch G2 Bluetooth Speaker 藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "2,682",
+        "hon_price_max": "2,980",
+        "使用方式:": "手提式",
+        "靈敏度:": "95dB",
+        "尺寸:": "138 x 268.5 x 47mm",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "AIWA 愛華 Retro Plus 無線音箱 MI-X150",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "使用方式:": "手提式",
+        "重量:": "3.3kg"
+    },
+    {
+        "names": "Ultimate Ears WonderBoom 便攜式藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "599",
+        "water_price_min": "278",
+        "water_price_max": "632",
+        "使用方式:": "手提式",
+        "重量:": "0.425kg"
+    },
+    {
+        "names": "Anker SoundCore Mini 3 Pro 防水幻燈藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "459",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "使用方式:": "手提式",
+        "輸入功率:": "6W",
+        "尺寸:": "72 x 72 x 84mm",
+        "重量:": "0.23kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Fender Monterey 藍牙喇叭",
+        "rating": "9.0",
+        "hon_price_min": "2,730",
+        "hon_price_max": "2,980",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "EarFun UBoom 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "638",
+        "使用方式:": "手提式",
+        "尺寸:": "166.5 x 88 x 88mm",
+        "重量:": "0.585kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "JBL Link Music Wi-Fi 智能喇叭",
+        "rating": "9.0",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "使用方式:": "手提式",
+        "尺寸:": "112 x 134mm",
+        "重量:": "0.73kg"
+    },
+    {
+        "names": "SAMSUNG C&T ITFIT IPX7 防水藍牙喇叭 (附FM收音) ITFITSP06",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "298",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Fender Monterey Tweed 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "3,390",
+        "hon_price_max": "3,680",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Divoom Ditoo Plus 像素藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "使用方式:": "手提式",
+        "輸入功率:": "10W",
+        "靈敏度:": "80dB",
+        "尺寸:": "90 x 113.8 x 121.2mm",
+        "重量:": "0.505kg"
+    },
+    {
+        "names": "JBL Xtreme 2 便攜式防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,178",
+        "hon_price_max": "1,880",
+        "water_price_min": "1,180",
+        "water_price_max": "1,220",
+        "使用方式:": "手提式",
+        "尺寸:": "136 x 288 x 132",
+        "重量:": "2.393kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Hopewell 便攜式立體聲藍牙喇叭 (TF卡播放 / 電筒功能) JB-503",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "使用方式:": "手提式",
+        "尺寸:": "67 x 130 x 32mm",
+        "重量:": "0.21kg"
+    },
+    {
+        "names": "Beyerdynamic Space 無線藍牙免提擴音器",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,399",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "尺寸:": "132 x 132 x 40mm",
+        "重量:": "0.354kg"
+    },
+    {
+        "names": "JBL Go2 便攜式藍牙喇叭",
+        "rating": "9.8",
+        "hon_price_min": "260",
+        "hon_price_max": "265",
+        "water_price_min": "168",
+        "water_price_max": "180",
+        "使用方式:": "手提式",
+        "尺寸:": "86 x 31.6 x 71.2mm",
+        "重量:": "0.184kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Awei 便攜式防水藍牙喇叭 Y331",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "181 x 70 x 73mm",
+        "重量:": "387kg",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "Xdobo Vibe Plus 80W 可攜式藍牙喇叭",
+        "rating": "9.0",
+        "hon_price_min": "799",
+        "hon_price_max": "899",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "使用方式:": "手提式",
+        "靈敏度:": "75dB",
+        "尺寸:": "350 x130 x 100mm",
+        "重量:": "3.5kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Tribit XSound Surf 藍牙5.0立體聲揚聲器",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "299",
+        "使用方式:": "手提式",
+        "尺寸:": "178 x 57 x 54mm",
+        "重量:": "0.35kg"
+    },
+    {
+        "names": "JBL Charge 4 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "780",
+        "hon_price_max": "1,199",
+        "water_price_min": "780",
+        "water_price_max": "790",
+        "使用方式:": "手提式",
+        "尺寸:": "220 x 95 x 93mm",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Lexon Tykho 3 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "產品特點:": "FM廣播"
+    },
+    {
+        "names": "Mcbazel 無線七彩夢幻燈藍牙喇叭小音箱 輕巧便携 燈圈可拆下",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Sanag 便攜式户外藍牙喇叭 M12s Pro",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "使用方式:": "手提式",
+        "尺寸:": "183 x 78 x78mm",
+        "重量:": "0.405kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Zoeao Gravastar Venus 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "568",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "ASPOR Bluetooth Speaker With Battery Back Up A663",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "阻抗:": "4Ω",
+        "重量:": "0.45kg"
+    },
+    {
+        "names": "XPower 藍牙5.0雙聲道喇叭 TG-165C",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "199",
+        "使用方式:": "手提式",
+        "尺寸:": "70 x 170 x 73mm",
+        "重量:": "0.4kg"
+    },
+    {
+        "names": "Muzen OTR Metal Line Friends BROWN 音響收音機藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "使用方式:": "手提式",
+        "尺寸:": "88 x 56 x 65mm",
+        "重量:": "0.436kg"
+    },
+    {
+        "names": "XPower 復古木紋藍牙迷你喇叭 MBS4",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "188",
+        "使用方式:": "手提式",
+        "尺寸:": "77 x 77 x 60mm",
+        "重量:": "0.235kg"
+    },
+    {
+        "names": "Marshall Kilburn II Portable Bluetooth Speaker 藍牙喇叭 (Indigo限量版)",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,899",
+        "water_price_min": "2,280",
+        "water_price_max": "2,599",
+        "使用方式:": "手提式",
+        "重量:": "2.5kg",
+        "防塵/防水等級:": "IPX2"
+    },
+    {
+        "names": "AIWA 無線音箱 SB-X150ii",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "使用方式:": "手提式",
+        "重量:": "1.122kg"
+    },
+    {
+        "names": "Promate Multi-Function Stereo Wireless Speaker and Charging Station",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "使用方式:": "手提式",
+        "頻率:": "150Hz-20KHz",
+        "輸入功率:": "5W",
+        "阻抗:": "4Ω"
+    },
+    {
+        "names": "JBL Boombox 便攜式藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "1,890",
+        "hon_price_max": "2,970",
+        "water_price_min": "1,850",
+        "water_price_max": "2,388",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "尺寸:": "254.5 x 495 x 195.5mm",
+        "重量:": "5.25kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Xiaomi 小米 戶外藍牙喇叭 (16W)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "245",
+        "water_price_max": "245",
+        "使用方式:": "手提式",
+        "靈敏度:": "70dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "213 x 74 x 74mm",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "mifa 360° Stereo Sound 20W Portable Bluetooth Speaker A10+",
+        "rating": "",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "使用方式:": "手提式",
+        "尺寸:": "188 x 70 x 73mm",
+        "重量:": "0.475kg"
+    },
+    {
+        "names": "Infinity 低音長型藍牙喇叭 NS8",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "328",
+        "使用方式:": "手提式",
+        "輸入功率:": "10W",
+        "尺寸:": "71 x 71 x 41mm",
+        "重量:": "0.5kg"
+    },
+    {
+        "names": "B&O Beoplay P6 便攜式藍牙音箱",
+        "rating": "10",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,680",
+        "water_price_min": "2,050",
+        "water_price_max": "2,688",
+        "使用方式:": "手提式",
+        "重量:": "1kg",
+        "防塵/防水等級:": "IP54"
+    },
+    {
+        "names": "Anker SoundCore Motion B 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "171 x 56 x 48mm",
+        "重量:": "0.4kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Xiaomi 小米 戶外藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "220",
+        "hon_price_max": "260",
+        "water_price_min": "229",
+        "water_price_max": "268",
+        "使用方式:": "手提式",
+        "尺寸:": "73 x 73 x 147mm",
+        "重量:": "0.38kg",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Muzen Wild Go 戶外街頭防水藍牙音箱",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "589",
+        "使用方式:": "手提式",
+        "靈敏度:": "> 70dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "75.5 x 35.5 x 59mm",
+        "重量:": "0.187kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Sony X-Series Portable Wireless Speaker 無線藍牙喇叭 SRS-XP700",
+        "rating": "",
+        "water_price_min": "5,010",
+        "water_price_max": "8,380",
+        "使用方式:": "手提式",
+        "尺寸:": "313 x 693 x 367mm",
+        "重量:": "16.9kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Tribit StormBox 360° 防水藍牙無線喇叭",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "650",
+        "使用方式:": "手提式",
+        "尺寸:": "68 x 180 x 68mm",
+        "重量:": "0.64kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "JBL Horizon 藍牙收音機鬧鐘喇叭",
+        "rating": "8.3",
+        "hon_price_min": "688",
+        "hon_price_max": "999",
+        "water_price_min": "630",
+        "water_price_max": "700",
+        "使用方式:": "手提式",
+        "尺寸:": "160 x 183 x 86mm",
+        "重量:": "0.89kg"
+    },
+    {
+        "names": "THOMSON 2.1CH 藍牙喇叭 MW-1266",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "788"
+    },
+    {
+        "names": "ZEALOT Portable Bluetooth Speaker 便攜式防水無線藍牙喇叭 S32",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "75 x 75 x 125mm",
+        "重量:": "0.35kg"
+    },
+    {
+        "names": "XPower 迷你藍牙5.0喇叭 C7",
+        "rating": "10",
+        "hon_price_min": "141",
+        "hon_price_max": "168",
+        "使用方式:": "手提式",
+        "尺寸:": "90 x 66 x 66mm",
+        "重量:": "0.134kg"
+    },
+    {
+        "names": "XPower LED藍牙5.0防水喇叭 MBS3",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "238",
+        "使用方式:": "手提式",
+        "尺寸:": "118 x 107 x 47mm",
+        "重量:": "0.2kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "JBL Flip 4 便攜式藍牙喇叭",
+        "rating": "7.3",
+        "hon_price_min": "615",
+        "hon_price_max": "698",
+        "water_price_min": "540",
+        "water_price_max": "540",
+        "使用方式:": "手提式",
+        "重量:": "0.515kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Harman Kardon Onyx Studio 5 無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,280",
+        "water_price_min": "869",
+        "water_price_max": "1,080",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "X-mini Xoundbar 藍牙喇叭",
+        "rating": "7.3",
+        "hon_price_min": "99",
+        "hon_price_max": "349",
+        "使用方式:": "手提式",
+        "重量:": "0.128kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Fender Indio 便攜藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,780",
+        "water_price_min": "1,499",
+        "water_price_max": "1,599",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Monster Firecracker Bluetooth Speaker 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "175",
+        "hon_price_max": "309",
+        "water_price_min": "280",
+        "water_price_max": "299",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Philips 飛利浦 無線喇叭 TAS3505",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "429",
+        "使用方式:": "手提式",
+        "尺寸:": "56 x 56 x 120mm",
+        "重量:": "0.228kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Marshall Stockwell II Speaker 藍牙喇叭 (Indigo 限量版)",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,550",
+        "water_price_max": "1,799",
+        "使用方式:": "手提式",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "TWINKLE Trig 隨身藍牙燈光喇叭",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "698",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Sound Crush 360˚ 防水便攜式藍牙喇叭 M7 Plus",
+        "rating": "10",
+        "hon_price_min": "590",
+        "hon_price_max": "628",
+        "使用方式:": "手提式",
+        "輸入功率:": "(16W RMS) MAX. 24W",
+        "尺寸:": "204 x 85 x 85mm",
+        "重量:": "0.53kg"
+    },
+    {
+        "names": "JBL Charge 3 便攜式藍牙喇叭",
+        "rating": "9.1",
+        "hon_price_min": "700",
+        "hon_price_max": "920",
+        "water_price_min": "658",
+        "water_price_max": "800",
+        "使用方式:": "手提式",
+        "尺寸:": "213 x 87 x 88.5mm",
+        "重量:": "0.8kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Diesel Bluetooth Wireless Speaker 防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "588",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Bocoice Bocoice Blade Speaker 3mm 無線骨傳導喇叭",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "藍牙版本:": "2.0",
+        "輸入功率:": "3W"
+    },
+    {
+        "names": "Marshall Kilburn Portable Bluetooth Speaker 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,699",
+        "使用方式:": "手提式",
+        "尺寸:": "242 x 140 x 140mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "AIWA 愛華 Retro 無線音箱 MI-X100",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "1,399",
+        "使用方式:": "手提式",
+        "尺寸:": "252 x 160 x 142mm",
+        "重量:": "2.6kg"
+    },
+    {
+        "names": "Tribit XSound Go 便攜式藍牙喇叭 BTS20",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "320",
+        "使用方式:": "手提式",
+        "尺寸:": "56 x 59 x 170mm",
+        "重量:": "0.39kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Edifier 戶外移動音箱 PK305",
+        "rating": "",
+        "hon_price_min": "918",
+        "hon_price_max": "938",
+        "使用方式:": "手提式",
+        "靈敏度:": "85dB",
+        "尺寸:": "205 x 295 x 130mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Anker SoundCore Flare 藍牙喇叭 A316",
+        "rating": "8.0",
+        "hon_price_min": "538",
+        "hon_price_max": "570",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "使用方式:": "手提式",
+        "尺寸:": "89 x 89 x 151mm",
+        "重量:": "0.53kg"
+    },
+    {
+        "names": "Zoeao GravaStar Mars Pro Bluetooth Speaker 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,699",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "MOMAX Intune 真無線户外音箱 BS3",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "438",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "90 x 120mm",
+        "重量:": "0.395kg",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "infoThink 史迪奇系列 泡泡浴燈光藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "398",
+        "使用方式:": "手提式",
+        "尺寸:": "88 x 81 x 46mm",
+        "重量:": "0.2kg"
+    },
+    {
+        "names": "Smalody Wooden Wireless Bluetooth Speaker 藍牙喇叭 SL90BR",
+        "rating": "",
+        "hon_price_min": "609",
+        "hon_price_max": "609",
+        "使用方式:": "手提式",
+        "重量:": "0.95kg"
+    },
+    {
+        "names": "ASPOR Bluetooth Stereo Speaker A671",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Philips 飛利浦 TAS5505/00 無線音箱",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "799",
+        "使用方式:": "手提式",
+        "尺寸:": "190 x 70 x 70mm",
+        "重量:": "580gkg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "JBL Soundgear Wearable Wireless Sound 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "使用方式:": "穿戴式"
+    },
+    {
+        "names": "Borofone IPX5防水藍牙喇叭 BR6",
+        "rating": "10",
+        "hon_price_min": "98",
+        "hon_price_max": "148",
+        "使用方式:": "手提式",
+        "尺寸:": "126 x 90 x 89mm",
+        "重量:": "0.28kg"
+    },
+    {
+        "names": "IB Mini Bluetooth 5.2 Bone Conduction Sleeping Aid Speaker 迷你藍牙5.2骨傳導助眠喇叭",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "使用方式:": "手提式",
+        "阻抗:": "8Ω",
+        "尺寸:": "89.4 x 59.3 x 12mm"
+    },
+    {
+        "names": "Sony XB12 Extra Bass 可攜式藍牙揚聲器 SRS-XB12",
+        "rating": "10",
+        "hon_price_min": "349",
+        "hon_price_max": "479",
+        "使用方式:": "手提式",
+        "尺寸:": "Ø74 x 92mm",
+        "重量:": "0.243kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "MOMAX Intune Plus 真無線戶外音箱 BS5",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "568",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "90 x 210mm",
+        "重量:": "0.663kg",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "Divoom Ditoo Pro 像素藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "使用方式:": "手提式",
+        "重量:": "0.524kg"
+    },
+    {
+        "names": "Borofone 真無線迷你藍牙戶外用喇叭 BR18",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "water_price_min": "109",
+        "water_price_max": "109",
+        "使用方式:": "手提式",
+        "頻率:": "120Hz-20kHz",
+        "尺寸:": "100 x 78 x 40mm",
+        "重量:": "0.209kg"
+    },
+    {
+        "names": "Ampere Shower Power 藍牙淋浴喇叭",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "789",
+        "使用方式:": "手提式",
+        "尺寸:": "158 x 95 x 91mm",
+        "重量:": "0.52kg"
+    },
+    {
+        "names": "Pout Ears 2 手提防水藍芽喇叭LED燈",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "產品特點:": "防水"
+    },
+    {
+        "names": "W-KING Bluteooth 揚聲器 T9",
+        "rating": "",
+        "water_price_min": "850",
+        "water_price_max": "880",
+        "使用方式:": "手提式",
+        "尺寸:": "193 x 166 x 372mm",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "XPower 藍牙4.2雙喇叭套裝 MK22",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "368",
+        "產品特點:": "內置收音咪",
+        "尺寸:": "75 x 60 x 60mm",
+        "重量:": "0.166kg"
+    },
+    {
+        "names": "Anker Soundcore Mini 3 Pro節拍光效迷你藍牙喇叭 - Marvel 特別版",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "599",
+        "使用方式:": "手提式",
+        "尺寸:": "72 x 72 x 84mm",
+        "重量:": "0.25kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Xdobo 100W 可攜式藍牙喇叭 X8 MAX",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "700",
+        "water_price_max": "799",
+        "使用方式:": "手提式",
+        "靈敏度:": "75dB",
+        "尺寸:": "300 x 100 x 134mm",
+        "重量:": "2.86kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Sound Crush ColoRUN Portable Waterproof Bluetooth Speaker 便攜式防水藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "使用方式:": "手提式",
+        "靈敏度:": "65dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "100 x 65 x 43mm",
+        "重量:": "0.15kg"
+    },
+    {
+        "names": "Sound Crush Bzoom Waterproof Portable Bluetooth Speaker 便攜式防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "498",
+        "water_price_min": "228",
+        "water_price_max": "228",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "8 x 8 x 20.4 cm",
+        "重量:": "0.56kg"
+    },
+    {
+        "names": "XPower 藍牙5.0鬧鐘喇叭 C7X",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "278",
+        "使用方式:": "手提式",
+        "尺寸:": "120 x 105 x 105mm",
+        "重量:": "389gkg"
+    },
+    {
+        "names": "Borofone TWS 5.0 IPX5防水藍牙喇叭 BR3",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "288",
+        "使用方式:": "手提式",
+        "尺寸:": "188 x 80 x 83.5mm",
+        "重量:": "0.464kg"
+    },
+    {
+        "names": "Allway 便攜藍牙音箱 PBT002",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "使用方式:": "手提式",
+        "尺寸:": "52 x 52 x 52mm",
+        "重量:": "0.11kg"
+    },
+    {
+        "names": "Tribit StormBox Micro 藍牙5.0立體聲揚聲器",
+        "rating": "8.0",
+        "hon_price_min": "310",
+        "hon_price_max": "450",
+        "使用方式:": "手提式",
+        "尺寸:": "98.3 x 98.3 x 35.8mm",
+        "重量:": "0.29kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Harman Kardon Onyx Studio 4 無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "898",
+        "water_price_min": "780",
+        "water_price_max": "797",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "mifa Waterproof Bluetooth Speaker 防水藍牙音箱 F60",
+        "rating": "",
+        "water_price_min": "630",
+        "water_price_max": "630",
+        "使用方式:": "手提式",
+        "輸入功率:": "40W",
+        "尺寸:": "215 x 113.5 x 68.5mm",
+        "重量:": "0.97kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Edifier 便攜藍牙音箱 MP120",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "使用方式:": "手提式",
+        "輸入功率:": "8W",
+        "尺寸:": "106 x 105 x 130mm"
+    },
+    {
+        "names": "Fender Newport 便攜藍牙喇叭",
+        "rating": "9.7",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,680",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Motorola 無線藍芽喇叭 ROKR 500",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "Edifier 可攜式藍牙喇叭 MP230",
+        "rating": "10",
+        "hon_price_min": "600",
+        "hon_price_max": "650",
+        "使用方式:": "手提式",
+        "輸入功率:": "10W+10W",
+        "靈敏度:": "≧85dB",
+        "尺寸:": "162 x 84.5 x 96.5mm",
+        "重量:": "0.85kg"
+    },
+    {
+        "names": "Xdobo 60W RMS 便攜式無線藍牙音箱 X9",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "使用方式:": "手提式",
+        "尺寸:": "230 x 140 x ​​90mm",
+        "重量:": "1.29kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "JBL Xtreme 便攜式防水藍牙喇叭",
+        "rating": "8.9",
+        "hon_price_min": "980",
+        "hon_price_max": "1,180",
+        "water_price_min": "900",
+        "water_price_max": "1,080",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Anker SoundCore Mini 3 360 環繞音效 IPX7 防水狂野派對重低音藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "499",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "使用方式:": "手提式",
+        "輸入功率:": "20W",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Muzen OTR Wood 經典復刻藍牙音響收音機",
+        "rating": "",
+        "hon_price_min": "838",
+        "hon_price_max": "949",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "X-mini Xoundbar W 防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "111",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "尺寸:": "121 x 48.5 x 21mm",
+        "重量:": "0.137kg"
+    },
+    {
+        "names": "Behringer All-In-One Portable 30 Watt Speaker 一體式便攜喇叭 MPA30BT",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "使用方式:": "手提式",
+        "尺寸:": "323 x 221 x 208mm",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "JBL Wind Speaker 單車便携式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "370",
+        "hon_price_max": "398",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "使用方式:": "手提式",
+        "重量:": "318kg",
+        "防塵/防水等級:": "IP45"
+    },
+    {
+        "names": "W-KING 三防藍牙喇叭 S20",
+        "rating": "4.0",
+        "hon_price_min": "148",
+        "hon_price_max": "180",
+        "water_price_min": "135",
+        "water_price_max": "155",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Pure Acoustics Dancer X650 便攜式大功率卡啦OK藍牙喇叭系統",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "2,199",
+        "使用方式:": "手提式",
+        "頻率:": "48Hz-20kHz",
+        "靈敏度:": "88±3dB",
+        "尺寸:": "250 x 245 x 565mm"
+    },
+    {
+        "names": "Muzen OTR Metal 復古音響收音機 (升級版)",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "949",
+        "使用方式:": "手提式",
+        "產品特點:": "FM廣播"
+    },
+    {
+        "names": "Promate Hummer 10W Portable Bluetooth Speaker with Handsfree",
+        "rating": "10",
+        "hon_price_min": "368",
+        "hon_price_max": "438",
+        "使用方式:": "手提式",
+        "輸入功率:": "10W",
+        "阻抗:": "4Ω",
+        "重量:": "0.67kg"
+    },
+    {
+        "names": "AIWA 愛華 Retro Heritage 無線音箱 MI-X180",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,599",
+        "使用方式:": "手提式",
+        "尺寸:": "300 x 180 x 180mm",
+        "重量:": "3.8kg"
+    },
+    {
+        "names": "JBL 便攜式藍牙喇叭 SD-18",
+        "rating": "8.0",
+        "hon_price_min": "400",
+        "hon_price_max": "499",
+        "使用方式:": "手提式",
+        "尺寸:": "342 x 145 x 80mm"
+    },
+    {
+        "names": "Creative MUVO 2C 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "310",
+        "hon_price_max": "320",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "JBL Charge Essential 便攜式防水無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "770",
+        "hon_price_max": "899",
+        "使用方式:": "手提式",
+        "頻率:": "65Hz-20kHz",
+        "尺寸:": "213 x 89.7 x 87mm",
+        "重量:": "0.77kg"
+    },
+    {
+        "names": "Havit Fabric Portable Wireless Speaker HV-SK835BT",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "BRAVEN 防水便攜藍牙喇叭 BRV-Mini",
+        "rating": "8.0",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Ultimate Ears Boom 2 便攜式藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "599",
+        "hon_price_max": "780",
+        "water_price_min": "610",
+        "water_price_max": "610",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Happy Plugs Sound Piece mini 藍牙 3.5 毫米便攜式揚聲器",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "580",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Allway 便攜式戶外防水藍牙喇叭 PBT003",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "使用方式:": "手提式",
+        "尺寸:": "122 x 74 x 52mm",
+        "重量:": "0.226kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "GravaStar Mars Pro Shark 14 進階版重低音藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "JBL Flip Essential 便攜式無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "使用方式:": "手提式",
+        "尺寸:": "64 x 169 x 64mm",
+        "重量:": "0.47kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Philips 飛利浦 Bluetooth 無線便攜式喇叭 BT55",
+        "rating": "",
+        "hon_price_min": "105",
+        "hon_price_max": "168",
+        "water_price_min": "79",
+        "water_price_max": "115",
+        "使用方式:": "手提式",
+        "尺寸:": "85 x 34 x 75.8mm"
+    },
+    {
+        "names": "Smalody Wooden Wireless Bluetooth Speaker 藍牙喇叭 8050BT",
+        "rating": "",
+        "hon_price_min": "409",
+        "hon_price_max": "409",
+        "使用方式:": "手提式",
+        "尺寸:": "250 x 80 x 80mm",
+        "重量:": "1.12kg"
+    },
+    {
+        "names": "XPower 4合1 15W無線充電藍牙喇叭連手機支架及夜燈 MBS10",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "238",
+        "使用方式:": "手提式",
+        "重量:": "0.348kg"
+    },
+    {
+        "names": "inno3C 磁吸無線充電藍牙音箱 i-BSM8",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "使用方式:": "手提式",
+        "尺寸:": "90.5 x 90.5 x 114mm"
+    },
+    {
+        "names": "Sodapop Bass Bottle Bluetooth Speaker 藍牙喇叭 SP-BB01",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "448",
+        "water_price_min": "458",
+        "water_price_max": "458",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "Speaker: 60 x 60 x 97mm, Bottle: 155 x 73 x 73mm",
+        "重量:": "Speaker: 0.2kg, Speaker and Bottle: 0.34kg"
+    },
+    {
+        "names": "Lexon Mino+ Alu 迷你便攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "Miffy TWS真無線藍牙喇叭 MIF06",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "268",
+        "使用方式:": "手提式",
+        "尺寸:": "85 x 176 x 80mm",
+        "重量:": "0.206kg"
+    },
+    {
+        "names": "Lenovo 無線藍牙5.0音箱 K3",
+        "rating": "",
+        "water_price_min": "109",
+        "water_price_max": "109",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-20kHz",
+        "尺寸:": "80 x 80 x 63mm"
+    },
+    {
+        "names": "Biaicom 5.0 藍牙接收+UHF無線咪+擴音器+FM收音機+USB+TF WB-8888",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "使用方式:": "手提式",
+        "產品特點:": "FM廣播,支援記憶卡"
+    },
+    {
+        "names": "Lenovo 藍牙小夜燈喇叭 L02",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "JBL Clip 3 掛勾可攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "315",
+        "hon_price_max": "430",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "使用方式:": "手提式",
+        "尺寸:": "137 x 97 x 46 mm",
+        "重量:": "0.21kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "XPower 防水藍牙5.0喇叭 MBS5",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "199",
+        "使用方式:": "手提式",
+        "尺寸:": "172 x 75 x 45mm",
+        "重量:": "0.35kg"
+    },
+    {
+        "names": "ATN 藍牙音箱 A530/A2",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "128",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "SHIDU十度 藍牙低音音箱 P3",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "使用方式:": "手提式",
+        "尺寸:": "84 x 85.5 x 43mm",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Creative Sound Blaster FRee Multifunction Portable Bluetooth Speaker 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "619",
+        "hon_price_max": "699",
+        "使用方式:": "手提式",
+        "尺寸:": "71.1 x 200.8 x 68.5 mm"
+    },
+    {
+        "names": "AIWA 愛華 Bluetooth Speaker 藍牙喇叭 SB-X99J",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "使用方式:": "手提式",
+        "頻率:": "80Hz-20KHz",
+        "尺寸:": "205 x 68.7 x 70mm"
+    },
+    {
+        "names": "SHIDU十度 無線藍牙音箱 P8",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "使用方式:": "手提式",
+        "頻率:": "70Hz-18kHz",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "JBL Soundgear BTA 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,490",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "頻率:": "100Hz – 20kHz (-6dB)",
+        "重量:": "0.35kg"
+    },
+    {
+        "names": "Divoom TimeBox 智能藍牙喇叭",
+        "rating": "8.7",
+        "hon_price_min": "499",
+        "hon_price_max": "518",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Anker SoundCore Rave 160W Party-Proof 震撼低音派對藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,888",
+        "hon_price_max": "1,999",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "尺寸:": "552 x 322 x 310mm"
+    },
+    {
+        "names": "SHIDU十度 80W手提大功率戶外移動K歌音箱 K10",
+        "rating": "8.0",
+        "hon_price_min": "1,898",
+        "hon_price_max": "2,480",
+        "使用方式:": "手提式",
+        "尺寸:": "428 x 296 x 168mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Makita 牧田 充電式藍牙揚聲器 DMR200",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "760",
+        "使用方式:": "手提式",
+        "尺寸:": "211 x 203 x 286mm",
+        "重量:": "2.9kg"
+    },
+    {
+        "names": "Havit 便攜式戶外無線音箱 SK838BT",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "使用方式:": "手提式",
+        "尺寸:": "94 x 94 x 49mm",
+        "重量:": "0.2765kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Acoustic Research Bolt 1.0 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,280",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Yeezen Inva-X 物種入侵無線藍牙音箱",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Biaicom 4.2藍牙擴音器+FM+錄音 B-2020",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "Xiaomi 小米 Sound 高保真智能音箱",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "water_price_min": "680",
+        "water_price_max": "860",
+        "使用方式:": "手提式",
+        "尺寸:": "134 x 134 x 128mm",
+        "重量:": "0.94kg"
+    },
+    {
+        "names": "Divoom Timebox-mini 像素藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "375",
+        "hon_price_max": "379",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "balmuda The Speaker 3D 無線藍牙音箱 M01D",
+        "rating": "",
+        "water_price_min": "3,780",
+        "water_price_max": "4,880",
+        "使用方式:": "手提式",
+        "尺寸:": "105 x 105 x 188mm"
+    },
+    {
+        "names": "Features Rockbox Slice Speaker 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "309",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Sudio Femtio 防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "999",
+        "使用方式:": "手提式",
+        "尺寸:": "191.5 x 95.5 x 82mm",
+        "重量:": "0.675kg"
+    },
+    {
+        "names": "SHIDU十度 藍牙擴音器(無線聲音放大版) M800-UHF",
+        "rating": "",
+        "hon_price_min": "728",
+        "hon_price_max": "728",
+        "使用方式:": "手提式",
+        "輸入功率:": "18W",
+        "尺寸:": "96 x 45 x 120mm",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Teckon 可攜式布藝藍牙TWS喇叭 GT-1B",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-20kHz",
+        "輸入功率:": "5W",
+        "重量:": "0.38kg"
+    },
+    {
+        "names": "UB+ Eupho E2 球型藍牙5.0音箱",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,380",
+        "使用方式:": "手提式",
+        "靈敏度:": "95dB",
+        "阻抗:": "2Ω",
+        "尺寸:": "265 x 240 x 250mm",
+        "重量:": "0.98kg"
+    },
+    {
+        "names": "Poss Home Bluetooth Speaker 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "558",
+        "使用方式:": "手提式",
+        "尺寸:": "267 x 144 x 130mm"
+    },
+    {
+        "names": "Anker Soundcore 2 藍牙喇叭 A3106",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "490",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "JBL Link 20 防水智能喇叭",
+        "rating": "9.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,189",
+        "使用方式:": "手提式",
+        "尺寸:": "93 x 210mm",
+        "重量:": "0.95kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Mackie FreePlay HOME 便攜式藍牙音箱",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,150",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Nakamichi MyMeiryo Clip 便攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "頻率:": "20Hz-20KHz",
+        "重量:": "0.248kg"
+    },
+    {
+        "names": "W-KING 防水戶外藍牙喇叭 S18",
+        "rating": "3.0",
+        "hon_price_min": "145",
+        "hon_price_max": "148",
+        "使用方式:": "手提式",
+        "尺寸:": "136 x 69 x 46mm"
+    },
+    {
+        "names": "Urbanears Baggen 無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "使用方式:": "手提式",
+        "尺寸:": "301 x 213 x 301mm",
+        "重量:": "6.6kg"
+    },
+    {
+        "names": "AIWA 愛華 輕巧便攜藍牙喇叭 SB-X10",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "使用方式:": "手提式",
+        "頻率:": "150Hz-20kHz",
+        "尺寸:": "82 x 82 x 36mm",
+        "重量:": "0.129kg"
+    },
+    {
+        "names": "Harman Kardon Esquire Mini 2 Bluetooth Wireless Speaker 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "799"
+    },
+    {
+        "names": "不見不散 藍牙音箱 BV810",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "阻抗:": "4Ω"
+    },
+    {
+        "names": "Cambridge Audio Yoyo (S) 便攜式藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "899",
+        "hon_price_max": "1,580",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "B&O Beosound A1 2nd Gen (牛年特別版) 防水便攜式藍牙揚聲器",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,199",
+        "water_price_min": "1,600",
+        "water_price_max": "1,698",
+        "使用方式:": "手提式",
+        "尺寸:": "133 x 46 x 133mm",
+        "重量:": "0.558kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "W-KING 戶外便攜藍牙音箱 S7",
+        "rating": "4.7",
+        "hon_price_min": "125",
+        "hon_price_max": "148",
+        "water_price_min": "105",
+        "water_price_max": "138",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "SHIDU十度 藍牙重低音音箱 P5",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "頻率:": "80Hz-20kHz",
+        "尺寸:": "170 x 49 x 69mm",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "X-mini Supa 藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "788",
+        "hon_price_max": "1,080",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Nakamichi My Music Space Lite 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "448",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "W-KING 戶外防水藍牙喇叭 S19",
+        "rating": "2.0",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "使用方式:": "手提式",
+        "靈敏度:": "65dB",
+        "尺寸:": "182 x 57 x 75mm",
+        "重量:": "0.2kg",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "Lexon Mina L Audio LED 燈 & 5W 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "779",
+        "使用方式:": "手提式",
+        "尺寸:": "140 x 171mm",
+        "重量:": "0.31kg"
+    },
+    {
+        "names": "Havit Portable Wireless Speaker SK887BT",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Sound Crush PartyStorm Party Bluetooth Speaker with Ambient Light 幻彩派對無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "227 x 99 x 89mm",
+        "重量:": "0.9kg",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "KLIPSCH Heritage Groove - High End Portable Bluetooth Speaker 手提式藍牙揚聲器",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,499",
+        "使用方式:": "手提式",
+        "尺寸:": "127 x 152 x 67mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "M9 Mini Speaker 防水靚聲勁細勁輕藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Anker SoundCore Icon 高效防水防塵藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "698",
+        "使用方式:": "手提式",
+        "尺寸:": "182 x 61 x 62mm",
+        "重量:": "0.35kg"
+    },
+    {
+        "names": "Monster SuperStar S100 Wireless Speaker 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "399",
+        "water_price_min": "360",
+        "water_price_max": "390"
+    },
+    {
+        "names": "Promate Outbeat High Definition 6 Watt Portable Musical Speaker 高清 6Watt 便攜式揚聲器",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "289",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "阻抗:": "3Ω"
+    },
+    {
+        "names": "Sound Crush Portable Waterproof TWS Bluetooth Speaker 真無線立體聲 便攜式防水藍牙喇叭 M7",
+        "rating": "9.3",
+        "hon_price_min": "318",
+        "hon_price_max": "398",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "10 x φ8.5cm",
+        "重量:": "0.25kg"
+    },
+    {
+        "names": "Creative Nuno Micro 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Behringer All-In-One Portable 30 Watt Speaker 10英寸揚聲器 B110D",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,880",
+        "使用方式:": "手提式",
+        "尺寸:": "323 x 221 x 208mm",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "Harman Kardon Traveler 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "499",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Sound Crush Milch Waterproof XBASS Portable Wireless Bluetooth Speaker 防水 XBASS 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "598",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "9 x 9 x 21 cm",
+        "重量:": "0.7kg"
+    },
+    {
+        "names": "Sound Crush Hyper Wave Classic Rich Bass Stereo Wireless Bluetooth Speaker 經典清晰立體聲藍牙喇叭",
+        "rating": "6.0",
+        "hon_price_min": "400",
+        "hon_price_max": "698",
+        "water_price_min": "528",
+        "water_price_max": "528",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "32 x 16 x 6 cm",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "First Champion 藍牙4.1立體聲喇叭 GL520",
+        "rating": "6.0",
+        "hon_price_min": "388",
+        "hon_price_max": "420",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "RANBOLE 藍牙無線便攜式超重低音炮",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "使用方式:": "手提式",
+        "靈敏度:": "85dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "245 × 140 × 92mm"
+    },
+    {
+        "names": "Monster SuperStar HotShot 藍牙喇叭",
+        "rating": "2.0",
+        "hon_price_min": "108",
+        "hon_price_max": "300",
+        "water_price_min": "160",
+        "water_price_max": "200"
+    },
+    {
+        "names": "Lenovo LED Alarm Clock Bluetooth 5.0 Speaker 鏡面跳字時鐘+藍牙喇叭 L022",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "238",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Nillkin Wireless Speaker 藍牙喇叭 MC3 PRO",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "399",
+        "頻率:": "80Hz-18KHz",
+        "尺寸:": "78 x 78 x 200mm",
+        "重量:": "0.43kg"
+    },
+    {
+        "names": "Infinity 多功能桌面藍牙喇叭 MS420",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,780"
+    },
+    {
+        "names": "Sony XB21 Extra Bass 可攜式無線揚聲器 SRS-XB21",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "使用方式:": "手提式",
+        "尺寸:": "193 x 72 x 65mm",
+        "重量:": "0.53kg"
+    },
+    {
+        "names": "Motorola Sonic Boost 210 Portable Wireless Speaker 可攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "268",
+        "使用方式:": "手提式",
+        "輸入功率:": "3W"
+    },
+    {
+        "names": "Joyroom 透明發光藍牙音箱 JR-ML03",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "water_price_min": "118",
+        "water_price_max": "118",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "阻抗:": "4Ω",
+        "重量:": "0.215kg"
+    },
+    {
+        "names": "STOREMIX 藍牙運動音樂頭帶",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "使用方式:": "穿戴式",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "Edifier 便攜式藍牙喇叭 MP700",
+        "rating": "",
+        "hon_price_min": "1,594",
+        "hon_price_max": "1,640",
+        "使用方式:": "手提式",
+        "頻率:": "80Hz~20kHz +/-3dB",
+        "尺寸:": "415 x 100 x 225mm",
+        "重量:": "2.5 / 2.82kg"
+    },
+    {
+        "names": "木仁巷 手工藍牙音箱 (5W單喇叭) speaker210119A5BLK",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "尺寸:": "200 x 110 x 60mm",
+        "重量:": "0.3kg"
+    },
+    {
+        "names": "Kove Commuter 2 防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,098",
+        "hon_price_max": "1,498",
+        "water_price_min": "680",
+        "water_price_max": "798",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Divoom Fairy-OK 迷你多功能便攜卡拉OK藍牙喇叭套裝",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "699",
+        "使用方式:": "手提式",
+        "尺寸:": "(speaker) 60 x 93 x 65mm / (microphone) 37 x 37 x 86mm",
+        "重量:": "(speaker) 0.48kg / (microphone) 0.032kg"
+    },
+    {
+        "names": "ASPOR 10W無線便攜高清音箱  A670",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-10kHz",
+        "輸入功率:": "10W",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "JBL Flip 3 便攜式藍牙喇叭",
+        "rating": "9.7",
+        "water_price_min": "560",
+        "water_price_max": "560",
+        "使用方式:": "手提式",
+        "尺寸:": "169 x 64 x 64mm",
+        "重量:": "0.45kg"
+    },
+    {
+        "names": "Lenyes 無線藍牙音箱 S108",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2+EDR"
+    },
+    {
+        "names": "Xdobo Prince 1995 15W Mini Portable Wireless Blue tooth Speaker",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "使用方式:": "手提式",
+        "尺寸:": "110 x 110 x 65mm",
+        "重量:": "0.8kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "SHIDU十度 藍牙低音音箱 P2",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "W-KING 藍牙喇叭 T7",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "使用方式:": "手提式",
+        "產品特點:": "支援記憶卡"
+    },
+    {
+        "names": "Edifier Portable Speaker 便攜式藍牙喇叭 MP380",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Anker SoundCore Mini 2 藍牙喇叭 A3107",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "338",
+        "使用方式:": "手提式",
+        "尺寸:": "69.5 x 69.5 x 80mm",
+        "重量:": "0.2kg"
+    },
+    {
+        "names": "InfoThink Tsum Tsum 玩音樂藍牙燈光喇叭 - 米奇 Micky BSP100-Micky",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "頻率:": "150Hz-20kHz",
+        "重量:": "0.15kg"
+    },
+    {
+        "names": "JBL Tuner FM 收音機藍牙防水喇叭",
+        "rating": "7.3",
+        "hon_price_min": "578",
+        "hon_price_max": "850",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "重量:": "0.445kg"
+    },
+    {
+        "names": "JBL Trip Visor Mount Portable Bluetooth Hands-free Kit",
+        "rating": "8.0",
+        "hon_price_min": "298",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "MCNoteSee BT5.0 Speakers 藍牙耳機 JY-02",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Sony Extra Bass 可攜式藍牙喇叭 SRS-XB31",
+        "rating": "8.0",
+        "hon_price_min": "780",
+        "hon_price_max": "1,190",
+        "使用方式:": "手提式",
+        "尺寸:": "231 x 87 x 81mm",
+        "重量:": "0.89kg",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Recci Battle Bluetooth Speaker 戰歌掛繩藍牙音箱 RSK-W26",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.3"
+    },
+    {
+        "names": "Tribit ThunderBox Plus 便攜式藍牙立體聲揚聲器 (BTS25R)",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "470",
+        "使用方式:": "手提式",
+        "頻率:": "20Hz-20kHz",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "InfoThink Tsum Tsum 玩音樂藍牙燈光喇叭 - 大眼仔 Mike BSP100-Mike",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "頻率:": "150Hz-20kHz",
+        "重量:": "0.15kg"
+    },
+    {
+        "names": "Tronsmart Element T6 Mini Bluetooth Speaker 藍牙喇叭",
+        "rating": "",
+        "water_price_min": "139",
+        "water_price_max": "139",
+        "使用方式:": "手提式",
+        "頻率:": "20Hz-16000Hz",
+        "尺寸:": "92 x 92 x 120mm",
+        "重量:": "0.56kg"
+    },
+    {
+        "names": "Edifier 多功能便攜手提音響 PP506",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "使用方式:": "手提式",
+        "靈敏度:": "85dB",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "ZEALOT Portable Bluetooth Speaker 便攜式防水無線藍牙喇叭 S51",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "使用方式:": "手提式",
+        "尺寸:": "75 x 75 x 185mm",
+        "重量:": "0.5kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Leaflorist 永生花藍牙喇叭加濕機",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "使用方式:": "手提式",
+        "重量:": "3.49kg"
+    },
+    {
+        "names": "Bose Soundwear Companion 藍牙揚聲器",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,798",
+        "water_price_min": "1,910",
+        "water_price_max": "2,180",
+        "使用方式:": "穿戴式"
+    },
+    {
+        "names": "Beats Pill+ 便攜藍牙揚聲器",
+        "rating": "10",
+        "hon_price_min": "990",
+        "hon_price_max": "999",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "AKG 無線藍牙喇叭 S30",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Wekome 炫彩音箱戶外手提藍牙音箱 D22",
+        "rating": "",
+        "water_price_min": "168",
+        "water_price_max": "168",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "278 x 117 x 156mm",
+        "重量:": "0.0995kg"
+    },
+    {
+        "names": "Sony Extra Bass 防水藍牙喇叭 XB01",
+        "rating": "9.3",
+        "hon_price_min": "248",
+        "hon_price_max": "299",
+        "使用方式:": "手提式",
+        "重量:": "0.16kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "不見不散 藍牙音箱 BV800",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "120 x 78 x 35.7mm",
+        "重量:": "0.195kg"
+    },
+    {
+        "names": "SUPER 多功能藍牙喇叭 MX-23",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "389",
+        "產品特點:": "FM廣播",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Havit Mini Wireless Speaker 藍牙喇叭 SK592BT",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "使用方式:": "手提式",
+        "重量:": "0.185kg"
+    },
+    {
+        "names": "Malata 便攜式手提音響 C7",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "668",
+        "使用方式:": "手提式",
+        "尺寸:": "240 x 135 x 296mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "木仁巷 手工藍牙音箱 (5W單喇叭) speaker210120A5BR",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "尺寸:": "200 x 110 x 60mm",
+        "重量:": "0.3kg"
+    },
+    {
+        "names": "Edifier 便攜式藍牙喇叭 MP200",
+        "rating": "",
+        "hon_price_min": "294",
+        "hon_price_max": "299",
+        "使用方式:": "手提式",
+        "尺寸:": "70 x 70 x 65mm",
+        "重量:": "0.2kg",
+        "防塵/防水等級:": "IP54"
+    },
+    {
+        "names": "B&O Beoplay P2 無線便攜式藍牙揚聲器",
+        "rating": "7.5",
+        "hon_price_min": "900",
+        "hon_price_max": "999",
+        "使用方式:": "手提式",
+        "尺寸:": "140 x 80 x 2.8mm",
+        "重量:": "0.275kg"
+    },
+    {
+        "names": "Creative MUVO mini 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "使用方式:": "手提式",
+        "重量:": "0.285kg"
+    },
+    {
+        "names": "Lingcod Bluetooth Speaker Alarm Clock 無線鬧鐘藍牙音箱家用手機迷你小喇叭 ICF-T1",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "168",
+        "使用方式:": "手提式",
+        "產品特點:": "FM廣播,支援記憶卡"
+    },
+    {
+        "names": "Anker SoundCore Icon Mini 迷你防水防塵戶外型藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "228",
+        "hon_price_max": "498",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "使用方式:": "手提式",
+        "重量:": "0.2kg"
+    },
+    {
+        "names": "GENEVA Touring/S+ Portable Handcrafted FM/DAB+ Radio with HIFI Bluetooth Speaker",
+        "rating": "",
+        "hon_price_min": "2,290",
+        "hon_price_max": "2,290",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-20kHz",
+        "尺寸:": "170 x 45 x 100mm",
+        "重量:": "0.95kg"
+    },
+    {
+        "names": "B&O Beoplay A2 Active 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "water_price_min": "1,680",
+        "water_price_max": "2,280",
+        "使用方式:": "手提式",
+        "輸入功率:": "180W",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Lenyes LED便攜式無線藍牙BT喇叭 S807",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "尺寸:": "94 x  167mm",
+        "重量:": "0.58kg"
+    },
+    {
+        "names": "Xiaomi 小米 小米隨身藍牙音箱",
+        "rating": "",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Dali Katch 手提無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,682",
+        "water_price_min": "2,080",
+        "water_price_max": "2,080",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Edifier 自拍小小兵藍牙音箱 M10",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "阻抗:": "4Ω"
+    },
+    {
+        "names": "Tronsmart Element Mega Pro SoundPulse 藍牙揚聲器",
+        "rating": "",
+        "water_price_min": "638",
+        "water_price_max": "638",
+        "使用方式:": "手提式",
+        "尺寸:": "250 x 82 x 104mm",
+        "重量:": "1.78kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "InfoThink Tsum Tsum 玩音樂藍牙燈光喇叭 - 小熊維尼 Pooh BSP100-Pooh",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "280",
+        "頻率:": "150Hz-20kHz",
+        "重量:": "0.15kg"
+    },
+    {
+        "names": "木仁巷 手工藍牙音箱 (5W單喇叭) speaker210121A5PU",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "使用方式:": "手提式",
+        "靈敏度:": "80dB",
+        "尺寸:": "200 x 110 x 60mm",
+        "重量:": "0.3kg"
+    },
+    {
+        "names": "Zoeao Gravastar Wireless Bluetooth 5.0 Speaker 重力星球戰損版無線藍牙5.0喇叭",
+        "rating": "10",
+        "hon_price_min": "1,280",
+        "hon_price_max": "2,980",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Creative MUVO Play Portable and Waterproof Bluetooth Speaker for Outdoors 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "靈敏度:": "≥75dB",
+        "尺寸:": "80 x 80 x 110mm",
+        "重量:": "0.36kg"
+    },
+    {
+        "names": "Marshall Kilburn II Bluetooth Speaker 藍牙喇叭 + Major III Bluetooth Headphone Bundle Set",
+        "rating": "",
+        "hon_price_min": "2,998",
+        "hon_price_max": "3,199",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Tivoli Audio Andiamo 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "使用方式:": "手提式",
+        "靈敏度:": "93dB",
+        "尺寸:": "1.0 x 0.77 x 0.77 in",
+        "重量:": "0.22kg"
+    },
+    {
+        "names": "WK Design 幻影燈便攜式卡拉OK音響 D19",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "588",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "230 x 100 x 180mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Havit Multi-Function Portable Bluetooth Speaker 多功能藍牙喇叭 M67",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "189",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-20kHz",
+        "尺寸:": "190 x 55 x 70mm",
+        "重量:": "0.465kg"
+    },
+    {
+        "names": "Borofone TWS 5.0藍牙喇叭 BR2",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "JBL  Professional EON ONE Compact 無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500",
+        "water_price_min": "4,980",
+        "water_price_max": "4,980",
+        "使用方式:": "手提式",
+        "靈敏度:": "112dBdB",
+        "尺寸:": "291 x 255 x 399mm",
+        "重量:": "8kg"
+    },
+    {
+        "names": "Havit Portable Wireless Speaker SF-101BT",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-18kHz"
+    },
+    {
+        "names": "Harman Kardon Neo Portable Bluetooth Speaker 便攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "780",
+        "water_price_min": "430",
+        "water_price_max": "480",
+        "使用方式:": "手提式",
+        "尺寸:": "110 x 110 x 34.1mm",
+        "重量:": "0.251kg"
+    },
+    {
+        "names": "Microlab 藍牙音響揚聲器 BP11",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "568",
+        "使用方式:": "手提式",
+        "靈敏度:": "65dB",
+        "尺寸:": "280 x 137 x 137mm"
+    },
+    {
+        "names": "Tronsmart Element Force SoundPulse Waterproof Portable Bluetooth Speaker 藍牙喇叭",
+        "rating": "10",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "使用方式:": "手提式",
+        "頻率:": "80Hz-18kHz",
+        "尺寸:": "204 x 64 x 80mm",
+        "重量:": "0.78kg"
+    },
+    {
+        "names": "Havit Magnetic Bluetooth Speaker 藍牙喇叭 E5",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "使用方式:": "手提式",
+        "尺寸:": "160 x 90 x 60mm",
+        "重量:": "0.393kg"
+    },
+    {
+        "names": "Pure Acoustics EdgeWater Wireless Stereo Speaker 無線立體聲揚聲器",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,998",
+        "使用方式:": "手提式",
+        "靈敏度:": "88dB",
+        "尺寸:": "43 x 30 x 22cm",
+        "重量:": "7.8kg"
+    },
+    {
+        "names": "JBL 便攜式藍牙喇叭 SD-12",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "重量:": "0.176kg"
+    },
+    {
+        "names": "Havit Alarm Clock Bluetooth Speaker 藍牙喇叭 M3",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "169",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "X-mini Click 3 迷你藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "111",
+        "hon_price_max": "280",
+        "使用方式:": "手提式",
+        "重量:": "0.92kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "X-MINI Click 2 迷你藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "230",
+        "使用方式:": "手提式",
+        "尺寸:": "50 x 30.5mm"
+    },
+    {
+        "names": "Lexon Mino T Bluetooth Speaker with Integrated Carabiner 藍牙喇叭連鎖扣",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "389",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Tribit MaxSound Plus 便攜式藍牙立體聲揚聲器",
+        "rating": "10",
+        "hon_price_min": "430",
+        "hon_price_max": "550",
+        "使用方式:": "手提式",
+        "尺寸:": "65 x 198 x 68mm",
+        "重量:": "0.8kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "SHIDU十度 擴音器 M400",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "輸入功率:": "10W",
+        "尺寸:": "114 x 84 x 46mm"
+    },
+    {
+        "names": "Sony 無線藍牙喇叭 SRS-XB30",
+        "rating": "10",
+        "hon_price_min": "870",
+        "hon_price_max": "870",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Anker SoundCore 藍牙喇叭 A3102",
+        "rating": "7.0",
+        "hon_price_min": "319",
+        "hon_price_max": "319",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Edifier 藍牙便攜音箱 M82",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "藍牙版本:": "5.0",
+        "重量:": "0.185kg"
+    },
+    {
+        "names": "Bogasing 藍牙喇叭 M10",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "使用方式:": "手提式",
+        "靈敏度:": "85dB",
+        "尺寸:": "100 x 100 x 58mm",
+        "重量:": "0.398kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Cambridge Audio Go 便攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400",
+        "使用方式:": "手提式",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Smalody Wooden High Quality Bluetooth Speaker 藍牙喇叭 SL-60",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "478",
+        "使用方式:": "手提式",
+        "尺寸:": "266 x 148 x 95mm",
+        "重量:": "1.72kg"
+    },
+    {
+        "names": "SOUL Storm 防水藍牙喇叭",
+        "rating": "6.5",
+        "hon_price_min": "199",
+        "hon_price_max": "250",
+        "使用方式:": "手提式",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Nakamichi Portable Bluetooth Speaker 便攜式藍牙喇叭 NBE-S1",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "阻抗:": "4Ω",
+        "尺寸:": "127 x 50 x 55mm",
+        "重量:": "220kg"
+    },
+    {
+        "names": "Anker SoundCore Nano 藍牙喇叭 A3104HB1",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "199",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Sony XB41 Extra Bass 可攜式藍牙揚聲器 SRS-XB41",
+        "rating": "7.0",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,590",
+        "使用方式:": "手提式",
+        "尺寸:": "291 x 104 x 105mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "MOMAX Piggy Bluetooth BST1B",
+        "rating": "8.0",
+        "hon_price_min": "238",
+        "hon_price_max": "238"
+    },
+    {
+        "names": "Hoco 運動型無線藍牙喇叭 HC3",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "尺寸:": "194.4 x 81 x 82mm",
+        "重量:": "0.598kg"
+    },
+    {
+        "names": "Sound Crush Roundo Portable Waterproof Wireless Shower Bluetooth Speaker 便攜式浴室防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "398",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "14 x 14 x 5.3 cm",
+        "重量:": "0.5kg"
+    },
+    {
+        "names": "Biaicom 藍牙喇叭接收+有線咪+擴音器+FM收音機+USB+TF W-1000",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "使用方式:": "手提式",
+        "產品特點:": "FM廣播,支援記憶卡"
+    },
+    {
+        "names": "HP 無線藍牙音箱 BT100",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2",
+        "頻率:": "50Hz-20kHz"
+    },
+    {
+        "names": "Sony h.ear go 無線藍牙喇叭 SRS-HG1",
+        "rating": "6.7",
+        "water_price_min": "1,090",
+        "water_price_max": "1,090",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "XPower 藍牙5.0喇叭 MBS1",
+        "rating": "2.0",
+        "hon_price_min": "124",
+        "hon_price_max": "148",
+        "使用方式:": "手提式",
+        "重量:": "0.194kg"
+    },
+    {
+        "names": "JAM Jamoji 無線藍牙喇叭 LOL",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "280",
+        "尺寸:": "4.5 x 11 x 10 cm",
+        "重量:": "141kg"
+    },
+    {
+        "names": "JBL Clip+ 掛勾可攜式藍牙喇叭",
+        "rating": "6.0",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Vertux Rumba 14W澎拜音樂藍牙揚聲器",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "499",
+        "使用方式:": "手提式",
+        "頻率:": "20Hz-20kHz",
+        "阻抗:": "4Ω",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "MOMAX Music Panda 熊貓藍牙喇叭 BSD1",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Creative Halo Portable Bluetooth Speaker 無線藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "699",
+        "water_price_min": "410",
+        "water_price_max": "410",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "Bose Portable Speaker with Bluetooth (8 speaker Driver) 可攜式藍牙喇叭 L1 Pro8",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "14,500",
+        "使用方式:": "手提式",
+        "重量:": "18kg"
+    },
+    {
+        "names": "Biaicom 藍牙喇叭接收+擴音器+FM收音機+USB+TF+錄音筆 HF-939",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "使用方式:": "手提式",
+        "產品特點:": "FM廣播,支援記憶卡,內置收音咪"
+    },
+    {
+        "names": "RoyQueen 無線藍牙喇叭 M400B",
+        "rating": "8.0",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "186 x 69mm"
+    },
+    {
+        "names": "Tronsmart Element Force+ SoundPulse 防水藍牙喇叭",
+        "rating": "8.0",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "使用方式:": "手提式",
+        "尺寸:": "209 x 64 x 83mm",
+        "重量:": "0.667kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Lenyes 重型低音便攜式15W IPX6防水藍牙喇叭 S805",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.2"
+    },
+    {
+        "names": "X-mini Kai X1 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "350",
+        "使用方式:": "手提式",
+        "尺寸:": "86 x 34mm",
+        "重量:": "150kg"
+    },
+    {
+        "names": "Havit Mini Wireless Speaker 藍牙喇叭 M89",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Promate Chill Portable Wireless Speaker",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω"
+    },
+    {
+        "names": "Pisen 便攜式無線藍牙音箱 SPK-B003",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "使用方式:": "手提式",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "Divoom Zooe Pixel Art LED Bluetooth Speaker 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "使用方式:": "手提式",
+        "尺寸:": "65.6 x 70.94 x 72.62mm",
+        "重量:": "0.165kg"
+    },
+    {
+        "names": "Sony 無線藍牙喇叭 SRS-X55",
+        "rating": "9.0",
+        "water_price_min": "20,000",
+        "water_price_max": "20,000",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "JBL Charge 2+ 便攜式藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,320",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Xiaomi 小米 小米方盒子藍牙音箱2",
+        "rating": "",
+        "water_price_min": "330",
+        "water_price_max": "330",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "mifa 便攜式藍牙無線音箱 A10",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "使用方式:": "手提式",
+        "尺寸:": "64 x 66 x 151mm"
+    },
+    {
+        "names": "Ampere Droplet Speaker 防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-20kHz",
+        "尺寸:": "74 x 91mm",
+        "重量:": "0.256kg"
+    },
+    {
+        "names": "JBL Go 便攜式無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "使用方式:": "手提式",
+        "尺寸:": "68.3  x 82.7 x 30.8mm",
+        "重量:": "0.13kg"
+    },
+    {
+        "names": "Remax 可攜式藍牙喇叭 RB-M6",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "尺寸:": "145 x 215 x 110mm",
+        "重量:": "0.8kg"
+    },
+    {
+        "names": "Techgear 防水藍牙喇叭 HR-686",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "尺寸:": "85 x 85 x 46mm"
+    },
+    {
+        "names": "RoyQueen 無線藍牙喇叭 T600",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250"
+    },
+    {
+        "names": "Xiaomi 小米 Mi Compact Bluetooth Speaker 小米隨身藍牙揚聲器2 MDZ28DI",
+        "rating": "",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "50 x 32mm",
+        "重量:": "0.054kg"
+    },
+    {
+        "names": "SHIDU十度 便攜式藍牙卡拉OK揚聲器 P9",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,499",
+        "使用方式:": "手提式",
+        "輸入功率:": "50W",
+        "尺寸:": "290 x 137 x 133mm",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "JBL Clip 2 掛勾可攜式藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "399",
+        "water_price_min": "188",
+        "water_price_max": "350",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "First Champion 藍牙4.0立體聲喇叭 NH380",
+        "rating": "6.0",
+        "hon_price_min": "198",
+        "hon_price_max": "238",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Divoom Trek4 便攜式藍牙音箱",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428",
+        "使用方式:": "手提式",
+        "靈敏度:": "85dB",
+        "尺寸:": "114 x 55 x 115.8mm",
+        "重量:": "0.295kg",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "OnePlus Mini Bluetooth Speaker Joltex, with LED Light, TWS 3W, FM/TF CARD/USB F6164",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Lenyes 360度立體聲環繞音樂低音炮藍牙USB Aux電纜音箱 S808",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "使用方式:": "手提式",
+        "輸入功率:": "2 x 8W",
+        "尺寸:": "110 x 197.5mm"
+    },
+    {
+        "names": "SHIDU十度 電吉他重低音戶外音箱 (雙手咪) A8",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "使用方式:": "手提式",
+        "尺寸:": "415 x 288 x 200mm"
+    },
+    {
+        "names": "Samsung 三星 Mini Scoop 防水藍牙喇叭 EO-SG510CDEGWW",
+        "rating": "10",
+        "hon_price_min": "5,399",
+        "hon_price_max": "5,399",
+        "water_price_min": "199",
+        "water_price_max": "299"
+    },
+    {
+        "names": "DOSS 無線藍牙喇叭 DS-1388",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Philips 飛利浦 無線便攜式喇叭 SB2000",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "Teckon 可攜式布藝藍牙TWS喇叭 GT-1LB",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "使用方式:": "手提式",
+        "頻率:": "100Hz-20kHz",
+        "輸入功率:": "5W",
+        "重量:": "0.38kg"
+    },
+    {
+        "names": "Remax 便攜式藍牙喇叭 RB-M15",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "使用方式:": "手提式",
+        "重量:": "0.125kg"
+    },
+    {
+        "names": "Havit 無線藍牙喇叭 HV-M16",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "使用方式:": "手提式",
+        "尺寸:": "70 x 70 x 188mm",
+        "重量:": "0.49kg"
+    },
+    {
+        "names": "Sound Crush Macaron MG Portable Waterproof TWS Bluetooth Speaker 真無線立體聲 便攜式防水藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "298",
+        "使用方式:": "手提式",
+        "阻抗:": "4Ω",
+        "尺寸:": "9.5 x 9.5 x 4.5cm",
+        "重量:": "0.2kg"
+    },
+    {
+        "names": "Samsung 三星 Level Box Slim 防水輕便藍牙喇叭 EO-SG930CREGWW",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "產品特點:": "防水",
+        "重量:": "0.236kg",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "EM-Tech My Theater 穿戴式藍牙揚聲器 EM-W100M",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "使用方式:": "穿戴式"
+    },
+    {
+        "names": "HP Roar Mini Wireless Speaker 無線藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "使用方式:": "手提式",
+        "靈敏度:": "88dB"
+    },
+    {
+        "names": "Lenyes 防水無線藍牙喇叭 S105",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "使用方式:": "手提式",
+        "輸入功率:": "5W",
+        "靈敏度:": "4dB"
+    },
+    {
+        "names": "Monster Adventurer Force Bluetooth Speaker 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,388",
+        "使用方式:": "手提式",
+        "藍牙版本:": "5.0"
+    },
+    {
+        "names": "Lenyes 無線藍牙喇叭 S806",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "使用方式:": "手提式",
+        "輸入功率:": "(RMS) 2 x 10W",
+        "尺寸:": "215 x 52 x 62.8mm",
+        "重量:": "0.626kg"
+    },
+    {
+        "names": "AIWA 愛華 便攜式藍牙喇叭 SB-X100",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "使用方式:": "手提式",
+        "尺寸:": "190 x 53 x 60mm",
+        "重量:": "960kg"
+    },
+    {
+        "names": "AIWA 愛華 Diviner Play 無線音箱 RS-X40",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "990",
+        "使用方式:": "手提式",
+        "尺寸:": "245 x 200 x 120mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "Huawei mini 藍牙音箱 nova 迷你小音箱",
+        "rating": "",
+        "water_price_min": "158",
+        "water_price_max": "158",
+        "使用方式:": "手提式",
+        "尺寸:": "50 x 50 x 56.3mm",
+        "重量:": "0.101kg"
+    },
+    {
+        "names": "AEC 迷你多合1 藍牙5.0喇叭+鬧鐘+收音機 BT511",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "使用方式:": "手提式",
+        "產品特點:": "FM廣播,支援記憶卡"
+    },
+    {
+        "names": "JBL Pulse 2 便攜式藍牙喇叭",
+        "rating": "10",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "使用方式:": "手提式"
+    },
+    {
+        "names": "Motorola Rokr 800 Wireless Portable Party Speaker",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "899",
+        "使用方式:": "手提式",
+        "重量:": "3.2kg",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "JBL JR POP Kids 便攜式藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "279",
+        "water_price_min": "145",
+        "water_price_max": "145",
+        "使用方式:": "手提式",
+        "重量:": "0.12kg",
+        "防塵/防水等級:": "IPX7"
+    }
+]

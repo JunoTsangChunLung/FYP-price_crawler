@@ -1,0 +1,2387 @@
+[
+    {
+        "names": "Daewoo 大宇 無煙燒烤爐 S19",
+        "rating": "9.6",
+        "hon_price_min": "860",
+        "hon_price_max": "1,680",
+        "water_price_min": "750",
+        "water_price_max": "890",
+        "功率:": "1500W",
+        "時間掣:": "0.-120分鐘",
+        "尺寸:": "510 x 305 x 137mm"
+    },
+    {
+        "names": "Daewoo 大宇 多功能雙層電煮鍋 DYZM-1266",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "368",
+        "water_price_min": "358",
+        "water_price_max": "358",
+        "容量:": "1.2L",
+        "尺寸:": "244 x 246 x 243mm"
+    },
+    {
+        "names": "Stéka 無煙燒烤爐 改良版 S19",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "功率:": "1500W",
+        "尺寸:": "495 x 200 x 322mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Mokkom 迷你多功能燉鍋 MK-377",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "容量:": "0.8L",
+        "尺寸:": "146 x 145 x 138mm",
+        "重量:": "0.7kg"
+    },
+    {
+        "names": "Daewoo 大宇 韓式無煙電燒烤爐 SK1 (升級款)",
+        "rating": "9.8",
+        "hon_price_min": "938",
+        "hon_price_max": "988",
+        "water_price_min": "678",
+        "water_price_max": "988",
+        "尺寸:": "510 x 305 x 137mm"
+    },
+    {
+        "names": "Daewoo 大宇 多功能料理鍋 S11",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "1,180",
+        "water_price_min": "368",
+        "water_price_max": "999",
+        "功率:": "1200W",
+        "尺寸:": "296 x 211 x 49mm",
+        "重量:": "4kg"
+    },
+    {
+        "names": "Yohome 家の逸 不粘易潔智能爆炒電炒鍋",
+        "rating": "8.0",
+        "hon_price_min": "199",
+        "hon_price_max": "399",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "容量:": "3L",
+        "尺寸:": "472 x 260 x 160mm"
+    },
+    {
+        "names": "Zojirushi 象印 220V 4合1鴛鴦燒烤火鍋多功能電鍋 EP-PVQ30",
+        "rating": "",
+        "hon_price_min": "1,410",
+        "hon_price_max": "1,449",
+        "容量:": "煮鍋 4.8L / 鴛鴦鍋 4.5L",
+        "重量:": "7.2kg"
+    },
+    {
+        "names": "Daewoo 大宇 無煙電燒烤爐 SK1 (別注升級版)",
+        "rating": "9.7",
+        "hon_price_min": "928",
+        "hon_price_max": "1,098",
+        "water_price_min": "788",
+        "water_price_max": "988",
+        "功率:": "1500W",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Bruno 多功能橢圓電熱鍋 BOE053",
+        "rating": "10",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,598",
+        "功率:": "1430W",
+        "尺寸:": "390 x 260 x 150mm",
+        "重量:": "2.8kg"
+    },
+    {
+        "names": "Yohome 家の逸 新煮意折疊萬用焗爐",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "659",
+        "容量:": "2L",
+        "時間掣:": "60分鐘定時"
+    },
+    {
+        "names": "Daewoo 大宇 無煙烤爐 SG13",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "1,180",
+        "功率:": "1350W",
+        "重量:": "5.3kg"
+    },
+    {
+        "names": "Bruno 多功能電熱鍋 BOE021",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "998",
+        "功率:": "1200W",
+        "尺寸:": "375 x 235 x 140mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "Blaupunkt 家用無煙燒烤爐 BP-SK01-BAI",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "998",
+        "功率:": "1350W",
+        "尺寸:": "343 x 204 x 129mm",
+        "重量:": "4.7kg"
+    },
+    {
+        "names": "Bear 小熊 火鍋燒烤一體鍋 DHG-C40D5",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "629",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "功率:": "1200W",
+        "尺寸:": "450 x 250 x 170mm"
+    },
+    {
+        "names": "Bruno 多功能電熱鍋 BOE021",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "998",
+        "功率:": "1200W",
+        "尺寸:": "375 x 235 x 140mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "MICHI Smolex 無煙燒烤爐",
+        "rating": "10",
+        "hon_price_min": "750",
+        "hon_price_max": "988",
+        "功率:": "1500W",
+        "重量:": "4.3kg"
+    },
+    {
+        "names": "Zojirushi 象印 220V 多功能鐵板燒烤板 EA-BNQ10",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "690",
+        "功率:": "1189-1300W",
+        "重量:": "3.7kg"
+    },
+    {
+        "names": "Daewoo 大宇 多功能料理鍋 S11",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "1,180",
+        "water_price_min": "368",
+        "water_price_max": "999",
+        "功率:": "1200W",
+        "尺寸:": "296 x 211 x 49mm",
+        "重量:": "4kg"
+    },
+    {
+        "names": "Panasonic 樂聲 多功能電熱盤 NF-M1",
+        "rating": "10",
+        "hon_price_min": "1,870",
+        "hon_price_max": "2,250",
+        "功率:": "2000W",
+        "時間掣:": "1 分鐘至 9 小時 30 分鐘烹調時間設定功能",
+        "尺寸:": "592 x 310 x 46.7mm"
+    },
+    {
+        "names": "Summe 德國卓爾 座檯式鐵板燒邊爐鍋 MG-S899",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "尺寸:": "660 x 260 x 180mm"
+    },
+    {
+        "names": "LIVEN 利仁 電火鍋 (5.5公升) DHG-40FK",
+        "rating": "",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "容量:": "5.5L",
+        "尺寸:": "410 x 305 x 88mm"
+    },
+    {
+        "names": "SENKI 千崎 多功能電煮鍋 JD-701D",
+        "rating": "7.0",
+        "hon_price_min": "199",
+        "hon_price_max": "288",
+        "容量:": "1.6L",
+        "時間掣:": "24小時智能預約和保溫功能"
+    },
+    {
+        "names": "Yohome 家の逸 智能觸屏不沾電煮鍋",
+        "rating": "4.0",
+        "hon_price_min": "199",
+        "hon_price_max": "259",
+        "容量:": "1.4L",
+        "尺寸:": "405 x 200 x 210mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Nathome 迷你多功能料理鍋 NDG1402",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "428",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "容量:": "0.8L",
+        "尺寸:": "250 x 130 x 170mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "GrandaZ 韓國無煙電烤爐 GD-SBG18",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "670",
+        "功率:": "1500W",
+        "尺寸:": "495 x 285 x 130mm"
+    },
+    {
+        "names": "Homey 家美牌 萬用邊爐鍋 HPW-40",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "278",
+        "容量:": "4L",
+        "火力調校:": "5段"
+    },
+    {
+        "names": "Bruno 多功能橢圓電熱鍋 BOE053",
+        "rating": "10",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,598",
+        "功率:": "1430W",
+        "尺寸:": "390 x 260 x 150mm",
+        "重量:": "2.8kg"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『白木』1000W燒烤電火鍋 (~3公升) IMC-FK30",
+        "rating": "",
+        "hon_price_min": "307",
+        "hon_price_max": "350",
+        "容量:": "3L",
+        "尺寸:": "305 x 255 x 200mm"
+    },
+    {
+        "names": "Future Lab UniversalPot 滿漢電火鍋",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "349",
+        "容量:": "3.6L",
+        "尺寸:": "300 x 300 x 80mm",
+        "重量:": "2.9kg"
+    },
+    {
+        "names": "Bruno Hot Plate Grande Size 多功能電熱鍋加大版 BOE026",
+        "rating": "6.0",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,498",
+        "功率:": "1400W",
+        "尺寸:": "480 x 280 x 155mm",
+        "重量:": "3.2kg"
+    },
+    {
+        "names": "Nathome 多功能分體鍋 NDG228",
+        "rating": "10",
+        "hon_price_min": "388",
+        "hon_price_max": "548",
+        "容量:": "2.2L",
+        "尺寸:": "250 x 177 x 217mm",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Iris Ohyama 兩手壓力鍋 5L NRAN-5L",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "容量:": "5L",
+        "重量:": "3.8kg"
+    },
+    {
+        "names": "Summe 德國卓爾 邊爐鍋 SMC-130A",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "258",
+        "容量:": "3.8L",
+        "尺寸:": "350 x 177 x 310mm"
+    },
+    {
+        "names": "recolte POT DUO Tanto 日式小電鍋 RPF-2",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "799",
+        "容量:": "1.9L"
+    },
+    {
+        "names": "Skyrun 智能升降邊爐鍋",
+        "rating": "",
+        "hon_price_min": "718",
+        "hon_price_max": "718",
+        "功率:": "2000-2190W",
+        "時間掣:": "31-60分鐘",
+        "尺寸:": "330 x 250 x 430mm"
+    },
+    {
+        "names": "Nathome 折疊多功能電煮鍋",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "278"
+    },
+    {
+        "names": "Homey 家美牌 iSmart 迷你多功能料理鍋 HPP-70G",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "498",
+        "功率:": "550-650W",
+        "火力調校:": "80-230°C"
+    },
+    {
+        "names": "recolte 日式小電鍋 fête RPD-3",
+        "rating": "10",
+        "hon_price_min": "658",
+        "hon_price_max": "688",
+        "容量:": "1.2L",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "Nathome 智能升降火鍋 NDG315",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "509",
+        "容量:": "3L",
+        "火力調校:": "7段"
+    },
+    {
+        "names": "Turbo Italy 韓式無煙電燒烤爐 TGP-816",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "848",
+        "火力調校:": "5段",
+        "尺寸:": "530 x 330 x 90mm"
+    },
+    {
+        "names": "飛利浦 Air Steam Cooker 空氣蒸鍋 NX0960/98",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,698",
+        "容量:": "7L",
+        "尺寸:": "438 x 345 x 232mm",
+        "重量:": "7.98kg"
+    },
+    {
+        "names": "Codes Codes 電燒烤爐 - 1300W 4合1多功能 Pizza Oven 披薩烤爐 CCRG002",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "功率:": "1300W",
+        "尺寸:": "495 x 221 x 122mm"
+    },
+    {
+        "names": "Gemini 雙子星 多功能無煙燒烤爐 GBG1500",
+        "rating": "",
+        "hon_price_min": "739",
+        "hon_price_max": "1,026",
+        "功率:": "1500W",
+        "尺寸:": "498 x 130 x 300mm"
+    },
+    {
+        "names": "Yohome 家の逸 多功能料理鍋",
+        "rating": "2.0",
+        "hon_price_min": "449",
+        "hon_price_max": "599",
+        "容量:": "3L",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "Gemini 雙子星 便攜式多功能迷你煮食鍋 GMC5V",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "386",
+        "容量:": "1L",
+        "尺寸:": "168 x 212 x 143mm"
+    },
+    {
+        "names": "Bruno Ceramic-coated Pot (Nabe) 陶瓷深鍋",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "300"
+    },
+    {
+        "names": "Nathome 多功能料理鍋 NDG134",
+        "rating": "8.0",
+        "hon_price_min": "680",
+        "hon_price_max": "780",
+        "容量:": "3L",
+        "尺寸:": "410 x 255 x 155mm",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『Living Style』電燒烤爐 IHP-1478",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "378",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "功率:": "1400W",
+        "火力調校:": "5段"
+    },
+    {
+        "names": "Hopewell Cool Touch Multi Steam Cooker 1.2L多功能蒸煮美食鍋 (雙層防燙) INC-812",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "368",
+        "容量:": "1.2L",
+        "尺寸:": "184 x 176 x 170mm"
+    },
+    {
+        "names": "Bruno Split Pot 鴛鴦陶瓷深鍋 BOE021-SPLIT (BOE021 適用)",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "338"
+    },
+    {
+        "names": "Longbank Electric Grill 多功能電燒烤盤 (1800W) LB-4525A",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "功率:": "1800W",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Yohome 家の逸 迷你速熱無火不粘鍋",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "259",
+        "容量:": "1.5L",
+        "火力調校:": "2段",
+        "尺寸:": "369 x 202 x 136mm"
+    },
+    {
+        "names": "Hyundai 現代 長柄陶瓷料理鍋 QC-DZ2712",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "water_price_min": "170",
+        "water_price_max": "170",
+        "容量:": "1.5L",
+        "尺寸:": "362 x 202 x 130mm"
+    },
+    {
+        "names": "OLAYKS 多功能元氣輕食電煮鍋 HK-84013502",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "容量:": "1.5L"
+    },
+    {
+        "names": "Techwood 無煙烤肉盤 GR-200A",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "850",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Famous 法國名家 2.5公升燒烤電火鍋 CDK-80C-BEL",
+        "rating": "",
+        "hon_price_min": "226",
+        "hon_price_max": "299",
+        "容量:": "2.5L",
+        "功率:": "800W"
+    },
+    {
+        "names": "MTOY Yummy Bird 多功能電熱鍋",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "699",
+        "容量:": "2.5L",
+        "功率:": "1000W"
+    },
+    {
+        "names": "recolte 雙面煎烤盤 RWG-1",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,380",
+        "功率:": "900W",
+        "重量:": "約2.2kg"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『元氣』無油煙派對電燒烤盤爐 IHP-1550",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "998",
+        "功率:": "1500W",
+        "時間掣:": "500 x 300 x 130mm"
+    },
+    {
+        "names": "Bear 小熊 多功能電煮鍋 (6L) DHG-C60F2",
+        "rating": "",
+        "water_price_min": "318",
+        "water_price_max": "318",
+        "容量:": "6L",
+        "火力調校:": "3段",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "Olayks 多功能料理一體鍋 OLK-MC01",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "528",
+        "容量:": "3.5L",
+        "尺寸:": "405 x 255 x 155mm",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "Nathome 分體式多功能電煮鍋 NDG01",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "298",
+        "water_price_max": "298"
+    },
+    {
+        "names": "Morphy Richards 多功能輕煮鍋 MR9089",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "1,080",
+        "water_price_min": "998",
+        "water_price_max": "998",
+        "功率:": "1400W",
+        "尺寸:": "358 x 265 x 225mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『Living Style』電燒烤爐 IHP-1478",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "378",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "功率:": "1400W",
+        "火力調校:": "5段"
+    },
+    {
+        "names": "Stylies 多功能三合一煮食鍋 STY-EB100",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "498",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Gemini 雙子星 便攜式多功能迷你煮食鍋 GMC5V",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "386",
+        "容量:": "1L",
+        "尺寸:": "168 x 212 x 143mm"
+    },
+    {
+        "names": "Zhenmi 4L智能升降電火鍋 H3",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "容量:": "4L",
+        "火力調校:": "5段"
+    },
+    {
+        "names": "Harrow 復刻版火烤兩用鍋 HT-GH338",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "2.5L",
+        "尺寸:": "540 x 230 x 210mm",
+        "重量:": "3.3kg"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能IH多功能料理鍋",
+        "rating": "",
+        "water_price_min": "998",
+        "water_price_max": "998",
+        "容量:": "4L",
+        "尺寸:": "402 x 248 x 220mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "Bruno Half Plates 鴛鴦烤盤 (BOE053 Oval適用)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Bruno Ceramic-coated Pot (Nabe) 陶瓷深鍋",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "300"
+    },
+    {
+        "names": "MITSUMARU 多功能養生壺 MT-18L",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "容量:": "1.8L",
+        "時間掣:": "24小時預約, 12小時保温"
+    },
+    {
+        "names": "Petrus 柏翠 多功能烤涮一體鍋 PE2320",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "功率:": "左右爐各 600W",
+        "尺寸:": "135 x 340 x 235mm",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "LIVEN 利仁 自動吸油煙雙烤盤韓式無煙燒烤爐 KL-D380",
+        "rating": "6.0",
+        "hon_price_min": "680",
+        "hon_price_max": "878",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "功率:": "1500W",
+        "重量:": "6.51kg"
+    },
+    {
+        "names": "Petrus 柏翠 多功能烤涮一體鍋 PE2320",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "功率:": "左右爐各 600W",
+        "尺寸:": "135 x 340 x 235mm",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Zhenmi 4L智能升降電火鍋 H3",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "容量:": "4L",
+        "火力調校:": "5段"
+    },
+    {
+        "names": "LIVEN 利仁 自動吸油煙雙烤盤韓式無煙燒烤爐 KL-D380",
+        "rating": "6.0",
+        "hon_price_min": "680",
+        "hon_price_max": "878",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "功率:": "1500W",
+        "重量:": "6.51kg"
+    },
+    {
+        "names": "Bruno Cupcake Plate 杯子蛋糕烤盤 (BOE021適用)",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "268"
+    },
+    {
+        "names": "Homey 家美牌 萬用邊爐鍋 HPW-40S",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "容量:": "4L",
+        "功率:": "1500-1780W"
+    },
+    {
+        "names": "Salav 多用途電火鍋 (4公升) HP-04",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "4L",
+        "尺寸:": "293 x 293 x 250mm",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "Bruno Half Plates 鴛鴦烤盤 (BOE053 Oval適用)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "WANMI 分體式多功能電火鍋 (5L) YK-DHG135U",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "容量:": "5L",
+        "火力調校:": "有"
+    },
+    {
+        "names": "GrandaZ 多功能電子煮食爐 GD-FMC1901",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "容量:": "1.2L",
+        "尺寸:": "173 x 173 x 100mm(摺疊後)",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "URINGO 多功能便攜預約電煮鍋 DG03",
+        "rating": "",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "容量:": "1L",
+        "尺寸:": "136 x 144 x 221mm",
+        "重量:": "0.9kg"
+    },
+    {
+        "names": "MTOY 升降分體式便攜式分離式火鍋電煮鍋 M-408 (4L)",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "599",
+        "water_price_min": "348",
+        "water_price_max": "418",
+        "容量:": "4L",
+        "尺寸:": "267 x 260 x 335mm"
+    },
+    {
+        "names": "Origo 無煙燒烤爐 EG7300",
+        "rating": "",
+        "hon_price_min": "869",
+        "hon_price_max": "1,187",
+        "water_price_min": "730",
+        "water_price_max": "1,150",
+        "功率:": "1500W",
+        "尺寸:": "495 x 285 x 125mm"
+    },
+    {
+        "names": "OLAYKS 家用迷你電烤盤燒烤爐 FST-28E",
+        "rating": "",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "功率:": "450W",
+        "尺寸:": "350 x 145 x 115mm",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Russell Hobbs Fiesta 8 Pan Multi Raclette 電石板燒烤爐  RH-21000",
+        "rating": "",
+        "hon_price_min": "1,019",
+        "hon_price_max": "1,019",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『Living Style』蒸煮火鍋 (3公升) IMC-3010LS",
+        "rating": "",
+        "hon_price_min": "264",
+        "hon_price_max": "399",
+        "容量:": "3L",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Zojirushi 象印 220V 燒烤火鍋兩用電鍋 EP-RAQ30",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,099",
+        "容量:": "(深鍋) 5.3L",
+        "尺寸:": "(煮鍋) 445 x 380 x 205mm / (煎鍋) 420 x 380 x 175mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Daewoo 大宇 復古旋轉煎烤機 P1",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "828",
+        "功率:": "1000W",
+        "尺寸:": "321.2 x 318 x 124.5mm",
+        "重量:": "4.1kg"
+    },
+    {
+        "names": "LIVEN 利仁 電燒烤盤 SK-J3201",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "water_price_min": "380",
+        "water_price_max": "399",
+        "尺寸:": "381 x 335 x 134mm"
+    },
+    {
+        "names": "Homey 家美牌 iSmart 迷你多功能料理鍋 HPP-80P",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "498",
+        "功率:": "550-650W",
+        "火力調校:": "80-230°C"
+    },
+    {
+        "names": "Morphy Richards 多功能料理鍋 MR9088",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "988",
+        "功率:": "1400W",
+        "尺寸:": "410 x 225 x 248mm"
+    },
+    {
+        "names": "Bruno 多功能電熱鍋 BOE021 (Line Friends版)",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,390",
+        "功率:": "1200W",
+        "尺寸:": "375 x 235 x 140mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "Zojirushi 象印 多功能萬用鍋 EL-CAQ60",
+        "rating": "",
+        "hon_price_min": "2,060",
+        "hon_price_max": "2,388",
+        "功率:": "1350W",
+        "尺寸:": "430 x 380 x 275mm",
+        "重量:": "8kg"
+    },
+    {
+        "names": "AKAI 雅佳 2合1鐵板涮涮鍋 XTS-1608",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "680",
+        "容量:": "1.8L",
+        "功率:": "800W"
+    },
+    {
+        "names": "Kusa 多功能煮食爐 KS-MFP100",
+        "rating": "10",
+        "hon_price_min": "988",
+        "hon_price_max": "1,198",
+        "容量:": "4L",
+        "尺寸:": "320 x 230 x 165mm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Bruno Grill Plate 坑紋烤盤 (BOE053 Oval適用)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Bruno Grill Plate 坑紋烤盤",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Morphy Richards 多功能輕食機 MR9086",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "699",
+        "water_price_min": "488",
+        "water_price_max": "588",
+        "功率:": "1100W",
+        "尺寸:": "248 x 221 x 133mm"
+    },
+    {
+        "names": "OCooker 圈廚 多功能鴛鴦一體式電火鍋 (4公升) CR-HG03",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "599",
+        "water_price_min": "388",
+        "water_price_max": "498",
+        "容量:": "4L",
+        "火力調校:": "3段",
+        "尺寸:": "400 x 350 x 156mm"
+    },
+    {
+        "names": "SURE 石崎秀兒 觸控多功能無煙料理鍋 SES-MT1201",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "820",
+        "容量:": "4L",
+        "重量:": "4kg"
+    },
+    {
+        "names": "OCooker 圈廚 多用途電煮鍋 CR-DR01",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "容量:": "2L",
+        "時間掣:": "24小時預約",
+        "尺寸:": "266 x 218 x 270mm"
+    },
+    {
+        "names": "Bear 小熊 多功能一體式早餐機 DSL-A13F1",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "698",
+        "water_price_min": "468",
+        "water_price_max": "480",
+        "容量:": "1.3L",
+        "尺寸:": "378 x 261 x 131mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "Bear 小熊 多功能料理鍋 DKL-C12",
+        "rating": "",
+        "water_price_min": "378",
+        "water_price_max": "399"
+    },
+    {
+        "names": "Comfee' 多功能料理鍋 CF-GM3020AH(Y)",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "419",
+        "功率:": "1300W",
+        "尺寸:": "393 x 231 x 188mm",
+        "重量:": "2.6kg"
+    },
+    {
+        "names": "Skyworth 多功能烤涮一體機 F901",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "功率:": "1500W",
+        "尺寸:": "250 x 290 x 100mm",
+        "重量:": "1.8kg"
+    },
+    {
+        "names": "Famous 法國名家 「桑拿」電火鍋 (7.5公升) CDK-200",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "399",
+        "容量:": "7.5L",
+        "功率:": "2000W"
+    },
+    {
+        "names": "Rasonic 樂信 多功能煮食鍋 RMC-Y8",
+        "rating": "",
+        "hon_price_min": "978",
+        "hon_price_max": "990",
+        "功率:": "1600W"
+    },
+    {
+        "names": "Miyamoto 多功能四合一早餐機 BM-400",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "399",
+        "功率:": "800W"
+    },
+    {
+        "names": "Gemini 雙子星 2.5公升智能自動升降火鍋蒸煮鍋 GUM15V",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "功率:": "1500W",
+        "尺寸:": "282 x 245x 280mm"
+    },
+    {
+        "names": "Russell Hobbs Cook@Home 三合一電燒烤爐 RH-17888",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "610"
+    },
+    {
+        "names": "Homey 家美牌 Multi-Function Healthy Cooker 多功能養生煮食寶 HPW-88",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "容量:": "1.5L",
+        "時間掣:": "30分鐘-12小時預約"
+    },
+    {
+        "names": "Iris Ohyama 章魚燒煎爐 ITY-18-W",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230"
+    },
+    {
+        "names": "Bear 小熊 家用多功能早餐機 DSL-A02H3",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "628",
+        "water_price_min": "298",
+        "water_price_max": "468",
+        "容量:": "1L"
+    },
+    {
+        "names": "OLAYKS 專業級多功能無煙速烤盤",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "849"
+    },
+    {
+        "names": "Turbo Italy 800W 二合一多功能涮烤煱 TMC-240",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "468",
+        "容量:": "2.4L",
+        "火力調校:": "3段"
+    },
+    {
+        "names": "Stylies 多功能煮食鍋 SSG-GB80",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "388",
+        "容量:": "2L",
+        "尺寸:": "275 x 235 x 180mm"
+    },
+    {
+        "names": "Bruno Grill Plate 坑紋烤盤",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Turbo Italy 摺疊式旅行煮食鍋 (1.2公升) TFC-120",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "368",
+        "容量:": "1.2L"
+    },
+    {
+        "names": "Bruno 多功能電熱鍋 動物造型手柄 豬 BOE021-KN-PIG (BOE021適用)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98"
+    },
+    {
+        "names": "Cuisinart 五合一數碼健康煎烤機 GR-5NHK",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "尺寸:": "400 x 250 x 220mm"
+    },
+    {
+        "names": "Vdada 多功能電熱鍋 VD-1200H",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "998",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "功率:": "1200W",
+        "重量:": "3kg"
+    },
+    {
+        "names": "Devon 全能涮烤一體鍋",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "功率:": "1200W",
+        "重量:": "2kg"
+    },
+    {
+        "names": "HANABISHI 無煙電燒烤爐",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "890"
+    },
+    {
+        "names": "Harrow 二合一火烤兩用鍋 HT-GH1200",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "368",
+        "容量:": "1L",
+        "尺寸:": "448 x 218 x 97mm",
+        "重量:": "2.4kg"
+    },
+    {
+        "names": "Thomson 多功能燒烤爐 TM-356",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "620"
+    },
+    {
+        "names": "Midea 美的 鴛鴦電煮鍋 (4.5公升) MC-WLHN32A",
+        "rating": "",
+        "water_price_min": "270",
+        "water_price_max": "280",
+        "容量:": "4.5L",
+        "功率:": "1500W"
+    },
+    {
+        "names": "recolte Home BBQ 日式電熱鍋 RBQ-1",
+        "rating": "8.0",
+        "hon_price_min": "599",
+        "hon_price_max": "888",
+        "功率:": "1200W",
+        "重量:": "2.95kg"
+    },
+    {
+        "names": "Right 無煙烤爐 HG-02",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "998"
+    },
+    {
+        "names": "URINGO 多功能一體電煮鍋",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "water_price_min": "220",
+        "water_price_max": "299",
+        "容量:": "3L",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Zhenmi 2.5L 智能升降電火鍋 H1",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "容量:": "2.5L",
+        "功率:": "1500W"
+    },
+    {
+        "names": "SURE 石崎秀兒 多功能料理鍋2.0 SES-MS202",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "容量:": "4.5L",
+        "時間掣:": "3-75分鐘",
+        "尺寸:": "392 x 255 x 181mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "recolte Home BBQ 日式電熱鍋 - 限量版櫻花粉紅色 RBQ-1(PK)",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "849",
+        "功率:": "1200W",
+        "重量:": "2.95kg"
+    },
+    {
+        "names": "WANMI 健康不粘鍋多功能電煮鍋 (1.5L) HK-DZG1510",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "容量:": "1.5L",
+        "火力調校:": "有",
+        "尺寸:": "370 x 204 x 168mm"
+    },
+    {
+        "names": "廚禾小生 多功能煮食鍋 電煮鍋 煎/炒/煮/炸/煲/蒸/火鍋",
+        "rating": "",
+        "water_price_min": "89",
+        "water_price_max": "89",
+        "容量:": "1.7L",
+        "功率:": "600W"
+    },
+    {
+        "names": "Midea 美的 多功能電煮鍋 MEC3020J",
+        "rating": "",
+        "hon_price_min": "515",
+        "hon_price_max": "575",
+        "功率:": "1300W",
+        "尺寸:": "380 x 146 x 230mm (不連配件)",
+        "重量:": "2.46kg"
+    },
+    {
+        "names": "Skyworth 元氣輕食料理鍋 F141",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "容量:": "1.5L",
+        "尺寸:": "390 x 233 x 132mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Bruno 流水麵機 BHK270",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "尺寸:": "240 x 85 x 180mm",
+        "重量:": "0.32kg"
+    },
+    {
+        "names": "recolte Home BBQ 日式電熱鍋 - 蒸盤+陶瓷深鍋套裝",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "250"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 「鮮。料理」蒸煮火鍋 (3公升) IMC-30D",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "430",
+        "容量:": "3L",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Nathome 涮烤一體燒烤爐 NSK20",
+        "rating": "8.8",
+        "hon_price_min": "598",
+        "hon_price_max": "880",
+        "容量:": "3L",
+        "尺寸:": "640 x 220 x 260mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "OLAYKS 多功能電火鍋帶蒸爐 (2公升)",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "容量:": "2L"
+    },
+    {
+        "names": "Bruno Double Steamer 雙層蒸隔 (BOE053 Oval 適用)",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368"
+    },
+    {
+        "names": "Blaupunkt 升降火鍋 BP-H1",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "容量:": "5L",
+        "功率:": "1800W"
+    },
+    {
+        "names": "SilverCrest 多用途燒烤架 三文治機 SKGE 2000 C3",
+        "rating": "",
+        "water_price_min": "780",
+        "water_price_max": "780"
+    },
+    {
+        "names": "LIVEN 利仁 綠洲系列涮烤一體可拆電煮鍋 G-1",
+        "rating": "",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "容量:": "4.3L",
+        "尺寸:": "363 x 328 x 150mm",
+        "重量:": "4.6kg"
+    },
+    {
+        "names": "Nathome 旅行折疊多功能電煮鍋 A6",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "290",
+        "water_price_min": "258",
+        "water_price_max": "258"
+    },
+    {
+        "names": "Bruno Grill Plate 坑紋烤盤 (BOE053 Oval適用)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Aoran 多功能電烤盤 R10",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "538"
+    },
+    {
+        "names": "Kusa 陶瓷不粘多功能電煮鍋 (附上層不銹鋼蒸鍋) NCP-100",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "容量:": "1.5L",
+        "功率:": "600W"
+    },
+    {
+        "names": "Nathome 多功能一體鍋 NDG814",
+        "rating": "10",
+        "hon_price_min": "328",
+        "hon_price_max": "398",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "容量:": "0.8L",
+        "重量:": "2.4kg"
+    },
+    {
+        "names": "Famous 法國名家 萬用煮食鍋 (0.8公升) FNC-086(FAM)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "248",
+        "容量:": "0.8L"
+    },
+    {
+        "names": "Airmate 艾美特 自動吸油煙無煙韓式燒烤爐 EG-02",
+        "rating": "",
+        "water_price_min": "850",
+        "water_price_max": "850",
+        "功率:": "1350W",
+        "重量:": "4.2kg"
+    },
+    {
+        "names": "Famous 法國名家 多功能電火鍋 (4公升) CDK-130A(FAM)",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "269"
+    },
+    {
+        "names": "Plus Minus Zero ±0 正負零 多功能料理鍋 XKH-E010",
+        "rating": "10",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,688",
+        "water_price_min": "899",
+        "water_price_max": "899",
+        "功率:": "1130-1350W",
+        "尺寸:": "160 x 460 x 262mm (不含溫度控制器)",
+        "重量:": "3.65kg"
+    },
+    {
+        "names": "Thomson 多用途料理壓鑄鋁鍋 TM-MCM002",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "容量:": "1.5L",
+        "功率:": "1200-1400W"
+    },
+    {
+        "names": "Iris Ohyama 章魚小丸子燒電煎板 ITY-24",
+        "rating": "10",
+        "water_price_min": "335",
+        "water_price_max": "335"
+    },
+    {
+        "names": "Gemini 雙子星 多功能煎煮蒸氣涮涮鍋 GMC7V",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "425",
+        "功率:": "700W",
+        "尺寸:": "255 x 250 x 210mm"
+    },
+    {
+        "names": "Bruno Grill & Flat Plate 坑紋及平面鴛鴦烤盤 (BOE053 Oval 適用)",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328"
+    },
+    {
+        "names": "Bear 小熊 家用小型早餐機 DSL-A13P3",
+        "rating": "",
+        "water_price_min": "436",
+        "water_price_max": "436"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『淡彩』 4公升多功能電熱鍋 IMC-CP40",
+        "rating": "10",
+        "hon_price_min": "438",
+        "hon_price_max": "648",
+        "容量:": "4L",
+        "時間掣:": "最大30分鐘時間設定",
+        "尺寸:": "460 x 240 x 235mm"
+    },
+    {
+        "names": "Bruno Miffy Compact Hot Plate 多功能電熱鍋 BOE059-BRR",
+        "rating": "",
+        "hon_price_min": "1,298",
+        "hon_price_max": "1,298",
+        "功率:": "1200W",
+        "尺寸:": "375 x 235 x 140mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "Golden Well 金樂 韓式滋味鍋 GW-Z151",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "180"
+    },
+    {
+        "names": "Comfee' 不銹鋼多功能迷你電煮鍋 CF-MP16AH(Y)",
+        "rating": "",
+        "hon_price_min": "224",
+        "hon_price_max": "224",
+        "容量:": "1.2L",
+        "尺寸:": "224 x 180 x 240mm",
+        "重量:": "1.08kg"
+    },
+    {
+        "names": "Homey 家美牌 迷你烤爐鍋 HPW-20",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "248"
+    },
+    {
+        "names": "Bruno Split Pot 鴛鴦陶瓷深鍋 (BOE026 Grande適用)",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "OLAYKS 多功能陶瓷秞內膽電煮鍋 (2L) HK-84013801",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "容量:": "2L"
+    },
+    {
+        "names": "MTOY Yumbo 三合一多功能電熱鍋",
+        "rating": "10",
+        "hon_price_min": "530",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "Tastec 多功能煮食鍋",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "Daewoo 大宇 復古旋轉煎烤機 P1",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "828",
+        "功率:": "1000W",
+        "尺寸:": "321.2 x 318 x 124.5mm",
+        "重量:": "4.1kg"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 多功能電火鍋 (1300W, 3.0公升) IMC-FK130",
+        "rating": "8.0",
+        "hon_price_min": "310",
+        "hon_price_max": "310"
+    },
+    {
+        "names": "Origo 多功能電熱鍋 MC93",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "580",
+        "功率:": "1200-1400W",
+        "尺寸:": "280 x 180 x 260mm"
+    },
+    {
+        "names": "Bruno BOE021 - Grill 坑紋烤盤",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Hydratech Bruno BOE021 多功能電熱鍋蒸架",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300"
+    },
+    {
+        "names": "Nathome 旅行便攜式多功能折疊電煮鍋 A5",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "容量:": "1L"
+    },
+    {
+        "names": "Bruno Waffle Plates 窩夫烤盤 (單片三文治機專用)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148"
+    },
+    {
+        "names": "Hyundai 現代 Multi Cooker 多功能烤薯機 HY-MC311",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "Bruno Fish Plates 鯛魚燒烤盤 (單片三文治機專用)",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "468"
+    },
+    {
+        "names": "Toshiba 東芝 多功能鐵板萬用鍋 HGN-6DIH",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "940",
+        "功率:": "1250W",
+        "尺寸:": "396 x 355 x 197mm",
+        "重量:": "5.1kg"
+    },
+    {
+        "names": "Bruno Grill Plate 坑紋烤盤 (BOE026 Grande適用)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Bruno BOE021 平面烤盤 BOE021-FLAT",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "1Chiban 萬用電力煮食火鍋 KT-12N",
+        "rating": "10",
+        "hon_price_min": "165",
+        "hon_price_max": "168",
+        "容量:": "1.2L",
+        "尺寸:": "210 x 170 x 180mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 「鮮。料理」蒸煮火鍋 (5公升) IMC-50D",
+        "rating": "10",
+        "hon_price_min": "419",
+        "hon_price_max": "550"
+    },
+    {
+        "names": "Nutzen 旅行方便煮電煮鍋 (1.3公升) NTC-1300",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "容量:": "1.3L",
+        "功率:": "450W"
+    },
+    {
+        "names": "Bear 小熊 多功能小電鍋 (1.2公升) DRG-C12U1",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "468",
+        "water_price_min": "318",
+        "water_price_max": "338",
+        "容量:": "1.2L",
+        "時間掣:": "9.5小時預約",
+        "尺寸:": "178 x 218 x 236mm"
+    },
+    {
+        "names": "Pacific 太平洋 萬用蒸煮鍋 PP16",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "容量:": "1.8L",
+        "尺寸:": "255 x 215 x 215mm"
+    },
+    {
+        "names": "Nutzen 多功能烤煮寶 NGP-10",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "1,260"
+    },
+    {
+        "names": "Bourgini Classic Magic Multi Pan Deluxe 36cm 多功能煮食鍋",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "容量:": "6L",
+        "尺寸:": "361 x 535mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 燒烤電火鍋 IMC-FK154E",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "容量:": "4.2L",
+        "功率:": "1500W"
+    },
+    {
+        "names": "SURE 石崎秀兒 多功能料理鍋2.0 SES-MS201",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "容量:": "4.5L"
+    },
+    {
+        "names": "坂口太太 4.5L 6合1多功能電烤鍋 LZW-1901",
+        "rating": "",
+        "water_price_min": "529",
+        "water_price_max": "529",
+        "容量:": "4.5L",
+        "火力調校:": "有",
+        "尺寸:": "380 x 235 x 180mm"
+    },
+    {
+        "names": "OCooker 圈廚 多功能鴛鴦一體式電火鍋 (4公升) CR-HG03",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "599",
+        "water_price_min": "388",
+        "water_price_max": "498",
+        "容量:": "4L",
+        "火力調校:": "3段",
+        "尺寸:": "400 x 350 x 156mm"
+    },
+    {
+        "names": "OLAYKS 多功能電煮鍋 (1.8L) PUE-HG02A",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "容量:": "1.8L"
+    },
+    {
+        "names": "Allocacoc FlipGrill 便攜桌面式BBQ燒烤爐",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "尺寸:": "612 x 216mm x 131mm"
+    },
+    {
+        "names": "Excel 1300W 電火鍋連鋁蒸籠 HP-120",
+        "rating": "",
+        "hon_price_min": "174",
+        "hon_price_max": "249",
+        "容量:": "3L",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Turbo Italy 座檯式電燒烤爐 TGP-862",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "499",
+        "功率:": "1200-1400W",
+        "火力調校:": "5段"
+    },
+    {
+        "names": "Famous 法國名家 不銹鋼電火鍋 (6公升) CDK-180",
+        "rating": "10",
+        "hon_price_min": "384",
+        "hon_price_max": "449",
+        "容量:": "6L",
+        "功率:": "1800W"
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能電煮鍋 (1.5公升) PSP501015G",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289"
+    },
+    {
+        "names": "Daewoo 大宇 任意多功能鍋 HG5",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "容量:": "1.5L",
+        "尺寸:": "收納前: 249 x 148 x 219mm / 收納後: 249 x 148 x 114mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『鮮料理』1.2公升迷你蒸煮火鍋 IMC-12K",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "278",
+        "容量:": "1.2L",
+        "火力調校:": "2段",
+        "尺寸:": "202 x 180 x 228mm"
+    },
+    {
+        "names": "Xiaomi 小米 傾廚多功能輕食鍋",
+        "rating": "",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "功率:": "650W",
+        "尺寸:": "228 x 194 x 185mm"
+    },
+    {
+        "names": "Bruno x MOOMIN Compact Hot Plate 多功能電熱鍋",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550"
+    },
+    {
+        "names": "Plus Minus Zero ±0 正負零 涮涮深鍋 XKH-E020",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "約 4.4L",
+        "重量:": "約 1.28kg"
+    },
+    {
+        "names": "recolte 日式電烤爐配件 - 火鍋盤 RBQ-HK21-HP",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260"
+    },
+    {
+        "names": "Origo BBQ 串燒石頭燒烤爐 BC-1207",
+        "rating": "9.3",
+        "hon_price_min": "445",
+        "hon_price_max": "468",
+        "尺寸:": "510 x 250 x 165mm"
+    },
+    {
+        "names": "Bruno BOE021 烤爐配件 - 烤盤套裝",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550"
+    },
+    {
+        "names": "Toffy Classic 調理鍋 K-HP3",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "599",
+        "容量:": "2.8L",
+        "尺寸:": "285 x 200 x 220mm",
+        "重量:": "1.72kg"
+    },
+    {
+        "names": "Midea 美的 多用途電煮鍋 (6公升) MC-LHN30D",
+        "rating": "",
+        "water_price_min": "289",
+        "water_price_max": "289",
+        "容量:": "6L",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Fagor 法格 多功能鍋 BBC-912P1",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,058",
+        "容量:": "3L",
+        "尺寸:": "440 x 290 x 350mm"
+    },
+    {
+        "names": "Turbo Italy 座檯式二合一電燒烤爐連迷你火鍋 THP-898",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "699",
+        "尺寸:": "660 x 260 x 180mm"
+    },
+    {
+        "names": "Iris Ohyama 多功能電磁爐盤 MHP-R103",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "功率:": "1000W",
+        "尺寸:": "325 x 243 x 155mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "Double Happiness 紅雙喜 電燒烤盤火鍋 鴛鴦鍋 燒烤 煎 炒  一爐二種享受 K8088D",
+        "rating": "",
+        "water_price_min": "159",
+        "water_price_max": "159"
+    },
+    {
+        "names": "Primada 多功能原味鍋 (4公升) PMC4800",
+        "rating": "",
+        "hon_price_min": "818",
+        "hon_price_max": "890"
+    },
+    {
+        "names": "Midea 美的 電火鍋 (6公升) MC-DY3030Easy101",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "water_price_min": "390",
+        "water_price_max": "398",
+        "容量:": "6L",
+        "尺寸:": "310 x 403 x 175mm"
+    },
+    {
+        "names": "OLAYKS 多功能電烤盤",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "功率:": "1200W"
+    },
+    {
+        "names": "recolte 日式雙面電烤爐 RBQ-HK21",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "容量:": "3L",
+        "尺寸:": "381 x 232 x 185mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "OLAYKS 多功能電煮鍋 (3L) YD-016",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "容量:": "3L",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Bruno 多功能電熱鍋 BOE021 (春夏限量版)",
+        "rating": "",
+        "hon_price_min": "1,498",
+        "hon_price_max": "1,498",
+        "功率:": "1200W",
+        "火力調校:": "65-220°C"
+    },
+    {
+        "names": "Hamilton Beach Dual Breakfast Sandwich Maker 25490",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550"
+    },
+    {
+        "names": "LIVEN 利仁 鴛鴦電火鍋 (6公升) DHG-600BY",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "398",
+        "容量:": "6L"
+    },
+    {
+        "names": "Thomson 多用途煮食煲 TM-MC120",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "Turbo Italy 三合一多功能萬用鍋 TMC-803",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "容量:": "1.6L",
+        "火力調校:": "4段"
+    },
+    {
+        "names": "Princess 多功能陶瓷煮食鍋 173030",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "955",
+        "容量:": "1.5L"
+    },
+    {
+        "names": "Princess Table Chef Pure Compact 多功能桌上陶瓷烤板 103035",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,098"
+    },
+    {
+        "names": "Bruno Multi Plate 多用途烤盤",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258"
+    },
+    {
+        "names": "Midea 美的 多功能小電熱鍋 MC-DY16Easy101",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "容量:": "1.2L",
+        "火力調校:": "2段"
+    },
+    {
+        "names": "Vdada 多功能電煮鍋 VDD-2106Z1",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "3L",
+        "火力調校:": "大小兩檔火力可調，另外設有70°C保溫",
+        "尺寸:": "320 x 283 x 190mm"
+    },
+    {
+        "names": "SilverCrest 家用韓式電烤爐 (連雪花石板)",
+        "rating": "",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "功率:": "1300W",
+        "尺寸:": "485 x 250 x 130mm"
+    },
+    {
+        "names": "Russell Hobbs Fiesta Fondue Maker 芝士火鍋爐 RH-22560",
+        "rating": "",
+        "hon_price_min": "778",
+        "hon_price_max": "778",
+        "容量:": "2L"
+    },
+    {
+        "names": "Sanrio 多功能電熱鍋 TS3338",
+        "rating": ""
+    },
+    {
+        "names": "Cucina Stoneware Black Marble 石材塗層家用韓燒爐 K0317",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "尺寸:": "600 x 290 x 95mm",
+        "重量:": "2.75kg"
+    },
+    {
+        "names": "Xiaomi 小米 silencare 無言家用多功能早餐機三明治機華夫餅機煎烤機輕食料理",
+        "rating": "",
+        "water_price_min": "360",
+        "water_price_max": "360"
+    },
+    {
+        "names": "Bruno Deep Pot 加深深鍋 (BOE026 Grande適用)",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "Hamilton Beach Breakfast Sandwich Maker 25475",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380"
+    },
+    {
+        "names": "Hydratech Bruno電熱鍋章魚小丸子專用燒烤棒",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "Bebay 多功能三合一煮食煲",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "容量:": "3L",
+        "尺寸:": "310x 240 x 240mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『鮮料理』迷你蒸煮火鍋 IMC-15K",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299",
+        "容量:": "1.5L",
+        "火力調校:": "2段"
+    },
+    {
+        "names": "Famous 法國名家 座檯式電燒烤爐 FTG-1400",
+        "rating": "8.0",
+        "hon_price_min": "269",
+        "hon_price_max": "308",
+        "尺寸:": "450 x 250mm"
+    },
+    {
+        "names": "小南瓜 多功能電煮鍋",
+        "rating": "",
+        "water_price_min": "160",
+        "water_price_max": "180"
+    },
+    {
+        "names": "Chigo 電燒烤盤 少油煙 燒烤 煎 炒 食物皆能 ZG-K01",
+        "rating": "",
+        "尺寸:": "680 x 280mm"
+    },
+    {
+        "names": "Primada 多功能原味鍋 (2公升) PMC2800",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "699",
+        "容量:": "2L"
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能電熱鍋 PHP501001",
+        "rating": "",
+        "功率:": "1200-1400W",
+        "尺寸:": "195 x 340 x 250mm"
+    },
+    {
+        "names": "Platinum Electric Oval Frypan 電煎鍋",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Russell Hobbs Classics Griddle 經典鐵板燒烤爐 RH-19800",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "678",
+        "功率:": "1500W",
+        "尺寸:": "500 x 260mm"
+    },
+    {
+        "names": "Wifer 韓式煮食鍋 CG-1912",
+        "rating": "6.0",
+        "容量:": "1L"
+    },
+    {
+        "names": "Syncs 新本 電燒烤盤火鍋 鴛鴦鍋 KWT8808",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "容量:": "1.5L",
+        "尺寸:": "510 x 245 x 100mm",
+        "重量:": "2.75kg"
+    },
+    {
+        "names": "Bello 多功能電火鍋 (2公升) CDK-80A(BEL)",
+        "rating": "2.0",
+        "hon_price_min": "199",
+        "hon_price_max": "239"
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能電煮鍋 (1.6公升) PSP500016B",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359",
+        "容量:": "1.6L"
+    },
+    {
+        "names": "Joyoung 迷​​你電煮鍋 (1.2L)",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "容量:": "1.2L",
+        "火力調校:": "2段"
+    },
+    {
+        "names": "Zhenmi 1500W 多功能一體式電熱鍋 ZM-ED4001",
+        "rating": "",
+        "water_price_min": "458",
+        "water_price_max": "458",
+        "容量:": "4L",
+        "火力調校:": "3段",
+        "尺寸:": "415 x 253 x 223mm"
+    },
+    {
+        "names": "Turbo Italy 座檯式電燒烤爐 TGP-878",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "398",
+        "尺寸:": "500 x 230 x 90mm"
+    },
+    {
+        "names": "Bruno 電陶爐炆燒鍋 BOE065",
+        "rating": "",
+        "hon_price_min": "1,098",
+        "hon_price_max": "1,098",
+        "容量:": "2L",
+        "火力調校:": "65-210°C"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 燒烤電火鍋 IMC-HP130",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "398",
+        "容量:": "3L",
+        "功率:": "1300W"
+    },
+    {
+        "names": "recolte POT DUO esprit 日式小電鍋 - 章魚燒烤盤",
+        "rating": ""
+    },
+    {
+        "names": "De'Longhi Livenza 5-in-1 Grill, Griddle, Panini Press 五合一室內電燒烤機 CGH912C",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999"
+    },
+    {
+        "names": "Bruno Snoopy 多功能電熱鍋",
+        "rating": ""
+    },
+    {
+        "names": "Cloer Raclette Grill 電煎烤盤 6454UK",
+        "rating": "",
+        "功率:": "750W",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能迷你電火鍋 (2公升) PHP003020",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "容量:": "2L",
+        "火力調校:": "3段"
+    },
+    {
+        "names": "Platinum 30cm Square Deep Frypan 電煎鍋",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "功率:": "1500W",
+        "尺寸:": "310 x 80 x 22mm"
+    },
+    {
+        "names": "Double Happiness 紅雙喜 Multi Function Pot 2合1 火鍋烤肉一體鍋",
+        "rating": ""
+    },
+    {
+        "names": "recolte Pot Duo qualité 日式小電鍋",
+        "rating": ""
+    },
+    {
+        "names": "Bruno 多功能電熱鍋 動物造型手柄 龍蝦 BOE021-KN-LOBSTER (BOE021適用)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98"
+    },
+    {
+        "names": "Bruno Donut Plates 迷你冬甩烤盤 (BOE043 單片三文治機專用)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "Bear 小熊 三合一迷你煮食鍋 BMC-GM12L",
+        "rating": "",
+        "容量:": "1.2L",
+        "尺寸:": "90 x 170 x 200mm",
+        "重量:": "1.32kg"
+    },
+    {
+        "names": "Bourgini One4all 四人烤板",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980"
+    },
+    {
+        "names": "ecHome 多功能夾扒機 BGC1200",
+        "rating": "",
+        "功率:": "1200W",
+        "尺寸:": "400 x 190 x 140mm"
+    },
+    {
+        "names": "膳廚藝 韓式多功能多功鍋 煎 炒 煮 炸 煲 蒸 火鍋 皆能 SCY-18A Blue / Pink",
+        "rating": ""
+    },
+    {
+        "names": "Ottimo Non-Stick Square Electric Frypan 電煎鍋",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Iris Ohyama 雙面摺疊電烤盤 DPO-133C",
+        "rating": "10",
+        "water_price_min": "468",
+        "water_price_max": "468",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Proluxury 普樂氏 日式電火鍋 PHP001038",
+        "rating": ""
+    },
+    {
+        "names": "Imarflex 伊瑪牌 多功能電火鍋 (1500W, 4.3公升) IMC-FK150",
+        "rating": "",
+        "hon_price_min": "385",
+        "hon_price_max": "385"
+    },
+    {
+        "names": "White Hippo  韓式多功能電熱鍋 WH-1788",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160"
+    },
+    {
+        "names": "Primada 多功能蒸烤寶 PMG3800",
+        "rating": "10",
+        "hon_price_min": "830",
+        "hon_price_max": "938"
+    },
+    {
+        "names": "Home Base 電火鍋連鋁蒸籠 (1300W) HMC-1300",
+        "rating": "10",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Princess 1300W 五合一多功能電鍋 171110",
+        "rating": ""
+    },
+    {
+        "names": "recolte POT DUO esprit 日式小電鍋 RPD-2",
+        "rating": "",
+        "功率:": "650W",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "recolte Home BBQ 專用多用途六格烤盤 RBQ-VP",
+        "rating": ""
+    },
+    {
+        "names": "Imarflex 伊瑪牌 多功能電火鍋 (1600W, 4.3公升) IMC-FK160",
+        "rating": "10",
+        "hon_price_min": "369",
+        "hon_price_max": "369"
+    },
+    {
+        "names": "TIGER 多用途電子鍋 (3.5公升) CQE-A11S",
+        "rating": ""
+    },
+    {
+        "names": "凱爾士 帶蒸格雙層速熱無火不粘鍋",
+        "rating": ""
+    },
+    {
+        "names": "Dazzi 多功能電熱鍋",
+        "rating": ""
+    },
+    {
+        "names": "Wakaii 萬家宜 座檯式鐵板燒連火鍋套裝 GSK-150B",
+        "rating": ""
+    },
+    {
+        "names": "Plus Minus Zero ±0 正負零 韓燒烤盤 XKH-E030",
+        "rating": "",
+        "容量:": "約 3L",
+        "重量:": "約 2kg"
+    },
+    {
+        "names": "TIGER 小型多用途電子鍋 (2.6公升) CRL-A30S",
+        "rating": "",
+        "尺寸:": "397 x 247 x 177mm",
+        "重量:": "5.4kg"
+    },
+    {
+        "names": "Bruno Grill Pot 多功能炆煮鍋 (閃粉粉紅色)",
+        "rating": ""
+    },
+    {
+        "names": "Smartech \"Mini Multi Chef\" 迷你多功能煮食鍋 SC-2668",
+        "rating": "",
+        "容量:": "1L",
+        "尺寸:": "202 x 154 x 225mm"
+    },
+    {
+        "names": "Origo BBQ Grill & Hot Pot 瑞士火鍋 BQ-1288",
+        "rating": ""
+    },
+    {
+        "names": "MITSUMARU 萬用煮食機 MC-130A",
+        "rating": ""
+    },
+    {
+        "names": "Turbo Italy 二合一多功能涮烤煱 TMC-100",
+        "rating": ""
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能電煮鍋 (1.6公升) PSP500016P",
+        "rating": ""
+    },
+    {
+        "names": "OCooker 圈廚 多功能涮烤鍋",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598"
+    },
+    {
+        "names": "TIGER 多用途電子鍋 (3.4公升) CPK-D13S",
+        "rating": ""
+    },
+    {
+        "names": "Zoueshoai 日象 萬用邊爐鍋 (3.5公升) ZM-735",
+        "rating": ""
+    },
+    {
+        "names": "Golden Well 金樂 微電腦蒸烤多用火鍋 GW-160HP",
+        "rating": ""
+    },
+    {
+        "names": "Turbo Italy 二合一多功能涮烤煱 TMC-80",
+        "rating": ""
+    },
+    {
+        "names": "Cloer Fondue 芝士 / 巧克力火鍋爐 6679UK",
+        "rating": "",
+        "容量:": "1.5L"
+    },
+    {
+        "names": "Akita 秋田 火鍋爐 FB-380",
+        "rating": ""
+    },
+    {
+        "names": "Origo 塔吉多用鍋 MC-T103",
+        "rating": ""
+    },
+    {
+        "names": "Famous 法國名家 多功能電火鍋 (4.5公升) CDK-160A(FAM)",
+        "rating": ""
+    },
+    {
+        "names": "Dazzi 多功能電熱鍋 (2個盤裝)",
+        "rating": ""
+    },
+    {
+        "names": "Origo 竹盤燒烤爐 BC1305",
+        "rating": "",
+        "功率:": "2200W",
+        "尺寸:": "585 x 295 x 58mm"
+    },
+    {
+        "names": "Denki 多功能快速煮食鍋 DMC-150",
+        "rating": "",
+        "容量:": "1.2L",
+        "功率:": "600W"
+    },
+    {
+        "names": "Dazzi 多功能電熱鍋 (5個盤裝)",
+        "rating": ""
+    },
+    {
+        "names": "Digway Sanrio Characters 多功能電熱鍋",
+        "rating": ""
+    },
+    {
+        "names": "Homey 家美牌 萬用邊爐鍋 HPW-30S",
+        "rating": ""
+    },
+    {
+        "names": "Bourgini Classic Gourmette/Raclette 4P 四人烤板連平底煎鑊",
+        "rating": ""
+    },
+    {
+        "names": "Rasonic 樂信 多功能電熱盤 RMP-TX130",
+        "rating": "",
+        "功率:": "1200W",
+        "尺寸:": "375 x 225 x 135mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 多功能電火鍋 XKL130-B",
+        "rating": ""
+    },
+    {
+        "names": "Smartech 多功能萬用鍋 SC-2268",
+        "rating": ""
+    },
+    {
+        "names": "Proluxury 普樂氏 個人迷你電火鍋 (1公升) PHP003010",
+        "rating": "",
+        "容量:": "1L",
+        "火力調校:": "3段"
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能電煮鍋 (1.5公升) PSP501015B",
+        "rating": ""
+    },
+    {
+        "names": "Sanyo 三洋 多功能健康燒烤爐 HR-S01",
+        "rating": "10",
+        "尺寸:": "185 x 286 x 468mm"
+    },
+    {
+        "names": "Bruno Mini Tart Plates 迷你撻皮烤盤 (單片三文治機專用)",
+        "rating": ""
+    },
+    {
+        "names": "Accurns 尚品 電火鍋連鋁蒸爐 AH-120(AC)",
+        "rating": ""
+    },
+    {
+        "names": "Princess 1000W 七合一萬用電鍋 172669",
+        "rating": "10"
+    },
+    {
+        "names": "Hyundai 現代 多功能早餐機 HY-A02Y",
+        "rating": "",
+        "功率:": "1230W",
+        "重量:": "2.4kg"
+    },
+    {
+        "names": "JNC 萬用煮食煲 JNC-MFC15L",
+        "rating": ""
+    },
+    {
+        "names": "Golden Well 金樂 微電腦蒸烤多用火鍋 GW-140HP",
+        "rating": "8.0"
+    },
+    {
+        "names": "Kambrook 方形不黏塗層電鍋 KEF120",
+        "rating": ""
+    },
+    {
+        "names": "Tescom 火鍋燒烤兩用鍋 GPF60",
+        "rating": ""
+    },
+    {
+        "names": "ShabuYaki 2in1鍋燒兩用電鍋 SY150",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "Toffy 多功能迷你電烤盤 K-HP1",
+        "rating": ""
+    },
+    {
+        "names": "Bruno Grill Pot 多功能炆煮鍋 BOE029",
+        "rating": ""
+    },
+    {
+        "names": "Origo 海鮮電烤爐 EG-805",
+        "rating": "",
+        "功率:": "1650-1950W",
+        "尺寸:": "470 x 350 x 85mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 百寶煮食鍋 (5公升) IMC-CP130",
+        "rating": "10",
+        "容量:": "5L",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Bruno BOE029 Grill Pot 配件 - French Crêpes 圓形煎盤工具",
+        "rating": ""
+    }
+]

@@ -1,0 +1,565 @@
+[
+    {
+        "names": "ITSU Suki 按摩椅 IS-6018",
+        "rating": "",
+        "hon_price_min": "5,678",
+        "hon_price_max": "5,811",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "Lenovo 全自動太空艙按摩椅",
+        "rating": "",
+        "water_price_min": "7,980",
+        "water_price_max": "7,980",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "ITSU PRIME Genki 按摩椅 IS-5008",
+        "rating": "",
+        "hon_price_min": "7,279",
+        "hon_price_max": "7,705",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "ITSU Sugoi 按摩椅 IS-8008",
+        "rating": "",
+        "hon_price_min": "12,088",
+        "hon_price_max": "13,519",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "OTO Esselence 按摩椅 ES-07",
+        "rating": "",
+        "hon_price_min": "15,000",
+        "hon_price_max": "15,000",
+        "種類:": "按摩椅",
+        "氣壓模式:": "肩部, 手臂, 座側及小腿均備有氣袋，為全身提供全面的氣壓按摩"
+    },
+    {
+        "names": "OTO GoGo鬆 VN-01",
+        "rating": "",
+        "hon_price_min": "7,992",
+        "hon_price_max": "7,992",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "OTO Cyber Lux 按摩椅 CL-01",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "10個自動按摩模式"
+    },
+    {
+        "names": "OSIM uDiva小天后",
+        "rating": "",
+        "hon_price_min": "13,328",
+        "hon_price_max": "13,328",
+        "種類:": "按摩梳化",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "OSIM 天王椅 App",
+        "rating": "8.0",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 EP-MP62",
+        "rating": "",
+        "hon_price_min": "19,800",
+        "hon_price_max": "19,800",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 EP-MA73",
+        "rating": "",
+        "hon_price_min": "46,600",
+        "hon_price_max": "46,600",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa Master Drive 御手溫感大師椅",
+        "rating": "6.0",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "ITSU Genki 別注版按摩椅 IS-5008A",
+        "rating": "",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "Panasonic 樂聲 溫感按摩椅 EP-MA70",
+        "rating": "6.0",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Maxcare 隨心椅",
+        "rating": "",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "OSIM 天王之王",
+        "rating": "7.3",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Cloris 凱倫詩 智能辦公按摩椅",
+        "rating": "",
+        "water_price_min": "2,980",
+        "water_price_max": "4,888",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "Ogawa Smart Joy 樂揉椅",
+        "rating": "",
+        "種類:": "按摩椅/ 搖擺睡眠模式",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa My Sofa OS-3118",
+        "rating": "7.2",
+        "種類:": "按摩椅",
+        "按摩模式:": "5種仿人手按摩模式"
+    },
+    {
+        "names": "OTO Optimus 亮點01 (OP-01)",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "5個力度、強度及速度可供調節, 折疊式小腿組件,"
+    },
+    {
+        "names": "FITTOP M-CHAIR 魔椅 智能按摩椅",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "8,999",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "OTO CYBER Wave",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "OSIM uJazz按摩工作椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Inada HCP-735D",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Ogawa Smart Space XD Tech",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Inada HCP-709D",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Inada HCP-WF30D",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Fujiiryoki EC-2700",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa estiloPRIME 小天王",
+        "rating": "",
+        "種類:": "按摩椅背"
+    },
+    {
+        "names": "BH Shiatsu M680 摩臀按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "OTO Adelle One",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Maxcare 窩心椅 (停產)",
+        "rating": "10",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Sinomax 4D 音樂按摩椅 (停產)",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa Smart Delight Plus",
+        "rating": "9.4",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "OTO Mini Bliss",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Life Power (生命動力) LP-580 按摩小沙發",
+        "rating": "",
+        "種類:": "按摩梳化",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Life Power (生命動力) LP-4600 甜心椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa Smart Edge Plus 按摩椅 OG-6368",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "BH Shiatsu MB1500P 極緻3D按摩椅 皇家款",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Life Power (生命動力) LP-7000 我的世界空間感按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "BH Shiatsu M600 BH沙發按摩椅",
+        "rating": "",
+        "種類:": "按摩梳化",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Life Power (生命動力) LP-5300i 我的力量 MyRobot按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "OSIM 天使二變",
+        "rating": "",
+        "種類:": "按摩梳化",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "BH Shiatsu M750 真手感按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Fujiiryoki EC-3800",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Tokuyo TC-626",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa iModa",
+        "rating": "6.0",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "BH Shiatsu M550 巧勁按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Sinomax 4D 皇冠按摩椅 (停產)",
+        "rating": "10",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "OTO CYBER Wave Plus",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa Loxa Sofa 叻叻椅2.0",
+        "rating": "",
+        "種類:": "按摩梳化"
+    },
+    {
+        "names": "Inada FML-3000D",
+        "rating": "10",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Inada HCP-S333",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "BH Shiatsu MB1500 極緻3D按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Maxcare 負氧離子摩幻椅 (停產)",
+        "rating": "10",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Tokuyo TC-680",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Inada HCP-R100D",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "BH Shiatsu MB1600 鑽石按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Inada HCP-708D",
+        "rating": "4.0",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Maxcare 零重力至尊椅 (停產)",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "OTO CYBER-Indulge Upgrade",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Tokuyo TC-470",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "COZY Health Care CM-801 摩寧 Morning",
+        "rating": "8.0",
+        "種類:": "按摩椅",
+        "按摩模式:": "揉 捏、捶 打、推 拿、指 壓 、揉 敲 及 瑞 典 式 按 摩"
+    },
+    {
+        "names": "Tokuyo TC-200",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Fujiiryoki EC-2800",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Tokuyo TC-530",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "OTO CYBER Indulge",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa Smart Lounge",
+        "rating": "",
+        "種類:": "按摩梳化",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Ogawa Smart Delight Plus 光療按摩椅 OG-7568",
+        "rating": "",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "BH Shiatsu MB1000S零重力按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa Smart Mate",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "ITSU Pandora + (Plus) 按摩椅 IS-6008",
+        "rating": "",
+        "種類:": "按摩椅",
+        "按摩模式:": "6項自動程式 (家居族,上班族,駕車族,美臀族,低頭族和購物族)"
+    },
+    {
+        "names": "Life Power (生命動力) LP-6300 無重拉松按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "BH Shiatsu M620 Magic摩法椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa OG-6018",
+        "rating": "",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "OTO 挨挨鬆 ii-zone (EV-01)",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "舒適溫熱按摩"
+    },
+    {
+        "names": "Ogawa Smart Elite",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Inada HCP-WG1000D",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Fujiiryoki EC-3700",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Life Power (生命動力) LP-5400i 無重之王",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Ogawa MASSAGE SOFA 按摩梳化",
+        "rating": "8.0",
+        "種類:": "按摩梳化"
+    },
+    {
+        "names": "Life Power (生命動力) LP-4100 無重拉伸按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "BH Shiatsu M580 股感按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Inada HCP-G900",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Ogawa SmartAire 3DPlus",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Ogawa Smart Delight",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Life Power (生命動力) LP-6100 無重拉松按摩椅",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "BH Shiatsu MB10 辦公按摩椅",
+        "rating": "8.0",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Ogawa 叻叻椅 OG-5238",
+        "rating": "9.5",
+        "種類:": "按摩椅"
+    },
+    {
+        "names": "Ogawa Smart Sense Trinity 3D",
+        "rating": "10",
+        "種類:": "按摩椅",
+        "氣壓模式:": "無"
+    },
+    {
+        "names": "Fujiiryoki EC-1700",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Tokuyo TC-700",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    },
+    {
+        "names": "Inada HCP-N333",
+        "rating": "",
+        "種類:": "按摩椅",
+        "氣壓模式:": "有"
+    }
+]

@@ -1,0 +1,991 @@
+[
+    {
+        "names": "Creative Sound Blaster GC7",
+        "rating": "10",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,168",
+        "聲道:": "Dolby Audio 5.1 channels"
+    },
+    {
+        "names": "Creative Sound BlasterX G6",
+        "rating": "7.3",
+        "hon_price_min": "1,188",
+        "hon_price_max": "1,188",
+        "介面:": "USB"
+    },
+    {
+        "names": "Creative Sound Blaster X3",
+        "rating": "6.0",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,088",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "ASUS ROG Clavis 外接式 USB-C 轉 3.5 mm DAC",
+        "rating": "10",
+        "hon_price_min": "688",
+        "hon_price_max": "820"
+    },
+    {
+        "names": "Epos GSX 300 外置音效卡",
+        "rating": "10",
+        "hon_price_min": "619",
+        "hon_price_max": "619",
+        "介面:": "USB",
+        "聲道:": "2.0 / 7.1"
+    },
+    {
+        "names": "Creative Sound BlasterX G1",
+        "rating": "4.7",
+        "hon_price_min": "350",
+        "hon_price_max": "399",
+        "介面:": "USB",
+        "連接性1:": "4-pole 3.5mm Jack"
+    },
+    {
+        "names": "Creative Sound Blaster X1 Hi-res USB DAC and Headphone Amplifier with Super X-Fi",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "599",
+        "water_price_max": "599"
+    },
+    {
+        "names": "Creative Sound BlasterX AE-5 PLUS RGB PCI-e DAC 電競音效卡",
+        "rating": "6.0",
+        "hon_price_min": "999",
+        "hon_price_max": "1,198",
+        "介面:": "PCI-e",
+        "連接性3:": "1 x TOSLINK Optical-out",
+        "連接性4:": "1 x 3.5 mm Headphone Out",
+        "連接性5:": "1 x 3.5 mm Mic / Line-in",
+        "連接性6:": "1 x Intel HD Audio Front Panel"
+    },
+    {
+        "names": "Creative Sound Blaster Z SE PCIe Sound Card",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "介面:": "PCI-e x 1",
+        "連接性3:": "3.5 毫米插孔 最大聲道輸出 5.1 聲道, 7.1虛擬",
+        "連接性4:": "線性 / 麥克風輸入",
+        "連接性5:": "3.5 毫米插孔"
+    },
+    {
+        "names": "Ugreen  USB 3.5mm External Stereo Sound Adapter for Headphone (30143)",
+        "rating": "10",
+        "hon_price_min": "89",
+        "hon_price_max": "130",
+        "介面:": "USB, 3.5mm"
+    },
+    {
+        "names": "ASUS AI Noise-Canceling Mic Adapter",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "449",
+        "介面:": "USB-C"
+    },
+    {
+        "names": "BOYA 3.5mm Microphone to USB Adapter EA2",
+        "rating": "10",
+        "hon_price_min": "80",
+        "hon_price_max": "100",
+        "介面:": "USB 2.0",
+        "連接性1:": "3.5mm TRS Female Microphone Input",
+        "連接性2:": "3.5mm TRS Headphone Jack"
+    },
+    {
+        "names": "Creative Sound Blaster X-Fi Surround 5.1 Pro",
+        "rating": "6.0",
+        "hon_price_min": "420",
+        "hon_price_max": "480",
+        "介面:": "USB接口",
+        "連接性3:": "立體聲線性輸入（3.5mm接口）",
+        "連接性4:": "耳機輸出（3.5mm接口",
+        "連接性5:": "後左/後右環繞喇叭輸出（3.5mm接口",
+        "連接性6:": "中置/低音輸出（3.5mm接口"
+    },
+    {
+        "names": "ASUS Xonar Essence STX II 7.1",
+        "rating": "10",
+        "hon_price_min": "1,640",
+        "hon_price_max": "1,750",
+        "介面:": "PCI Express",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "ASUS Xonar AE",
+        "rating": "10",
+        "hon_price_min": "430",
+        "hon_price_max": "550",
+        "介面:": "5 x 3.5 mm jack (1/8\") (Headphone out /Front out/Side out/Center-Subwoofer out/Rear out)"
+    },
+    {
+        "names": "Orico 多功能外置 USB Sound Adapter for PS4/WIN/MAC SC2",
+        "rating": "9.3",
+        "hon_price_min": "98",
+        "hon_price_max": "165",
+        "介面:": "USB"
+    },
+    {
+        "names": "ASUS Xonar Essence STX II",
+        "rating": "8.4",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,380",
+        "介面:": "PCI-E",
+        "連接性3:": "1 x 6.3 mm jack (1/4\") (Line-in/ Mic-in combo)",
+        "連接性4:": "1 x S/PDIF out (1 x Coaxial)",
+        "連接性5:": "1 x Front-Panel Header"
+    },
+    {
+        "names": "Creative Sound Blaster Audigy Fx PCI-Express Sound card",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "298",
+        "介面:": "PCI-E 1X",
+        "聲道:": "5.1"
+    },
+    {
+        "names": "ASUS Xonar U7 MKII",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "799",
+        "介面:": "USB",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "PLEXTONE GS3 MARK II 7.1 聲道 USB 外置音效卡含雙耳機孔及聲音放大器功能",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "139"
+    },
+    {
+        "names": "Creative Sound Blaster AE-7",
+        "rating": "10",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,699",
+        "介面:": "PCI-e",
+        "連接性2:": "1 x TOSLINK Optical-out",
+        "連接性3:": "1 x 3.5 mm HP-out",
+        "連接性4:": "1 x 3.5 mm Mic / Line-in"
+    },
+    {
+        "names": "Creative Blaster PLAY! 4 Portable Plug-and-play Hi-res USB DAC",
+        "rating": "10",
+        "water_price_min": "268",
+        "water_price_max": "298"
+    },
+    {
+        "names": "Creative Sound Blaster Z PCIe Sound Card",
+        "rating": "8.9",
+        "hon_price_min": "719",
+        "hon_price_max": "899",
+        "介面:": "PCIe",
+        "連接性1:": "3 x 1/8\" mini jacks",
+        "連接性2:": "TOSLINK"
+    },
+    {
+        "names": "ASUS Xonar SE",
+        "rating": "4.0",
+        "hon_price_min": "300",
+        "hon_price_max": "399",
+        "介面:": "PCI Express"
+    },
+    {
+        "names": "PLEXTONE GS3虛擬7.1游戲USB聲卡",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98"
+    },
+    {
+        "names": "ASUS Strix Soar",
+        "rating": "",
+        "hon_price_min": "709",
+        "hon_price_max": "820",
+        "介面:": "PCI Express",
+        "連接性2:": "1 x 3.5 mm jack (1/8\") (Line-in/ Mic-in combo)",
+        "連接性3:": "1 x S/PDIF out ((combo with side out))"
+    },
+    {
+        "names": "ASUS Strix Raid Pro",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,050",
+        "介面:": "PCI Express",
+        "連接性2:": "1 x 3.5 mm jack (1/8\") (Line-in/ Mic-in combo)",
+        "連接性3:": "1 x S/PDIF out ((combo with side out))"
+    },
+    {
+        "names": "Creative Sound Blaster Digital Music Premium HD",
+        "rating": "6.0",
+        "hon_price_min": "700",
+        "hon_price_max": "718",
+        "介面:": "USB 2.0",
+        "連接性3:": "Line in / Phono in* (2 x RCA jacks)",
+        "連接性4:": "Line out (2x RCA jacks)",
+        "連接性5:": "Optical SPDIF input and output (2 x optical connectors)"
+    },
+    {
+        "names": "ASUS Xonar U5",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "499",
+        "介面:": "USB",
+        "聲道:": "5.1"
+    },
+    {
+        "names": "ASUS Xonar DGX",
+        "rating": "8.3",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "介面:": "PCI",
+        "連接性2:": "Digital S/PDIF Output",
+        "連接性3:": "Front-Panel Header"
+    },
+    {
+        "names": "Creative Sound Blaster Audigy Rx",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "558",
+        "介面:": "PCIe",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "Creative Sound Blaster Omni Surround 5.1 Pro",
+        "rating": "6.0",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "介面:": "USB",
+        "聲道:": "5.1"
+    },
+    {
+        "names": "Creative Sound BlasterX AE-5",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,099",
+        "介面:": "PCI-E"
+    },
+    {
+        "names": "Tt esports BAHAMUT",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "介面:": "USB2.0",
+        "聲道:": "DTS 5.1"
+    },
+    {
+        "names": "Creative Sound Blaster Zx",
+        "rating": "9.4",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "介面:": "PCI Express",
+        "聲道:": "5.1"
+    },
+    {
+        "names": "CREATIVE Sound Blaster Recon3D PCIe",
+        "rating": ""
+    },
+    {
+        "names": "ASUS Xonar Essence One Muse Edition",
+        "rating": "2.0",
+        "hon_price_min": "6,990",
+        "hon_price_max": "6,990",
+        "連接性1:": "1 x 6.3 mm jack (1/4\") Headphone out",
+        "連接性3:": "2 x XLR (Balanced)",
+        "連接性4:": "2 x S/PDIF in (1 x Optical (Toslink)/1 x Coaxial)"
+    },
+    {
+        "names": "Creative X-Fi Titanium HD",
+        "rating": "8.3",
+        "介面:": "PCI-E",
+        "連接性3:": "Headphone (330Ohms)",
+        "連接性4:": "Aux In"
+    },
+    {
+        "names": "GC-system USB to 3.5mm Adapter 5.1聲道音效卡",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "40",
+        "介面:": "USB",
+        "聲道:": "5.1"
+    },
+    {
+        "names": "Onkyo SE-200PCI LTD",
+        "rating": "10",
+        "介面:": "PCI",
+        "連接性3:": "MIC",
+        "連接性4:": "2ch ANALOG OUT",
+        "連接性5:": "DIGITAL OUT",
+        "連接性6:": "7.1ch ANALOG OUT"
+    },
+    {
+        "names": "ASUS Strix Raid DLX",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "1,980",
+        "介面:": "PCI Express",
+        "連接性2:": "1 x Box Link"
+    },
+    {
+        "names": "E-MU PIPEline Wireless Transmitter/Receiver System",
+        "rating": "",
+        "hon_price_min": "494",
+        "hon_price_max": "494",
+        "連接性1:": "Mobile wireless transmit or receive",
+        "連接性4:": "Analog/Digital inputs or outputs",
+        "連接性5:": "Broadcast mode allows one transmitter and multiple receivers",
+        "連接性6:": "Pairing mode connects one transmitter to one receiver"
+    },
+    {
+        "names": "Onkyo SE-200PCI",
+        "rating": "10",
+        "介面:": "PCI",
+        "連接性3:": ".1ch ANALOG OUT",
+        "連接性4:": "ANALOG IN",
+        "連接性5:": "DIGITAL IN",
+        "連接性6:": "MIC"
+    },
+    {
+        "names": "Onkyo SE-90PCI",
+        "rating": "9.0",
+        "介面:": "PCI",
+        "連接性1:": "2ch ANALOG OUT",
+        "連接性2:": "DIGITAL OUT"
+    },
+    {
+        "names": "ASUS ROG Xonar Phoebus Sound Card",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "介面:": "PCI-E",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "Creative Sound Blaster Audigy Value PCI Sound Card",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "介面:": "PCI",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "Magic-Pro MP-V38",
+        "rating": "10",
+        "介面:": "PCI-E",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "Creative X-Fi XtremeGamer",
+        "rating": "",
+        "介面:": "PCI",
+        "連接性2:": "Line In / Microphone In / Optical Out* (shared 3.5mm FlexiJack)",
+        "連接性3:": "Auxiliary Line level Input (via 4-pin Molex connector)",
+        "連接性4:": "Intel HD Audio Compatible Front Panel Header (2x5pin)"
+    },
+    {
+        "names": "ASUS Xonar HDAV1.3 Deluxe",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "介面:": "PCI-E",
+        "連接性3:": "Other line-level analog input (for CD-IN/TV Tuner)",
+        "連接性4:": "Digital S/PDIF Output",
+        "連接性5:": "Digital S/PDIF Input",
+        "連接性6:": "HDMI Input/Outut"
+    },
+    {
+        "names": "ASUS Xonar DX",
+        "rating": "",
+        "介面:": "PCI-E",
+        "連接性2:": "Analog Input Jack",
+        "連接性3:": "Other line-level analog input (for CD-IN/TV Tuner)",
+        "連接性4:": "Digital S/PDIF Output"
+    },
+    {
+        "names": "Creative X-Fi Elite Pro",
+        "rating": "",
+        "介面:": "PCI",
+        "連接性2:": "Line level out (Front / Rear / Side / Center / Subwoofer)",
+        "連接性3:": "AUX_IN line-level analog input",
+        "連接性4:": "One AD_Link (26 pin) connector"
+    },
+    {
+        "names": "Creative X-Fi Titanium Fatal1ty Champion",
+        "rating": "",
+        "介面:": "PCI-E",
+        "連接性3:": "Optical In / Out",
+        "連接性4:": "Intel HD Audio Compatible Front Panel Header",
+        "連接性5:": "Creative proprietary AND_EXT connector",
+        "連接性6:": "Creative proprietary DID_EXT connector"
+    },
+    {
+        "names": "Creative X-Fi Titanium Fatal1ty Professional Series",
+        "rating": "10",
+        "介面:": "PCI-E",
+        "連接性3:": "Optical out (TOSLINK)*",
+        "連接性4:": "Optical in (TOSLINK)",
+        "連接性5:": "Intel HD Audio Compatible Front Panel Header (2x5pin)"
+    },
+    {
+        "names": "ASUS Xonar DS",
+        "rating": "",
+        "介面:": "PCI",
+        "連接性3:": "Other line-level analog input (for CD-IN/TV Tuner",
+        "連接性4:": "Digital S/PDIF Output",
+        "連接性5:": "Front-Panel Header",
+        "連接性6:": "S/PDIF Header"
+    },
+    {
+        "names": "SmarterWare USB Sound Card Hi-Fi Magic Voice 7.1 CH 外置音效卡 7.1聲道 DY-268",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "介面:": "USB"
+    },
+    {
+        "names": "GC-system USB to 3.5mm Adapter 7.1聲道音效卡",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "75",
+        "介面:": "USB",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "ASUS Xonar HDAV1.3 Slim",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "介面:": "PCI",
+        "連接性3:": "Digital S/PDIF Input",
+        "連接性4:": "HDMI Input/Outut",
+        "連接性5:": "Front-Panel Header"
+    },
+    {
+        "names": "ASUS Xonar HDAV1.3",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "介面:": "PCI-E",
+        "連接性3:": "Other line-level analog input (for CD-IN/TV Tuner)",
+        "連接性4:": "Digital S/PDIF Output",
+        "連接性5:": "Digital S/PDIF Input",
+        "連接性6:": "HDMI Input/Outut"
+    },
+    {
+        "names": "CE-LINK USB 聲卡 (2459)",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59"
+    },
+    {
+        "names": "CE-LINK External Sound Card, external soundcard, Type C to Mic + 3.5mm (4256)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118"
+    },
+    {
+        "names": "ASUS Xonar H6",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "介面:": "PCI-E",
+        "連接性3:": "RCA jack",
+        "連接性4:": "RCA jack",
+        "連接性5:": "RCA jack",
+        "連接性6:": "RCA jack"
+    },
+    {
+        "names": "ASUS Xonar Essence STX",
+        "rating": "10",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,390",
+        "介面:": "PCI-E",
+        "連接性4:": "Digital S/PDIF Output",
+        "連接性5:": "Front-Panel Header",
+        "連接性6:": "S/PDIF Header"
+    },
+    {
+        "names": "ICKB 多功能便攜式聲卡 SO8",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "1,250",
+        "water_price_max": "1,250"
+    },
+    {
+        "names": "ASUS Xonar U3",
+        "rating": "",
+        "hon_price_min": "266",
+        "hon_price_max": "299",
+        "介面:": "USB",
+        "連接性2:": "1 x 3.5mm RCA jack",
+        "連接性3:": "1 x Digital S/PDIF Output :"
+    },
+    {
+        "names": "Nanomesher NanoSound DAC",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "介面:": "i2s",
+        "連接性2:": "3.5mm line output",
+        "連接性3:": "Optional NanoSound Amp^2 Headphone + Speaker Amp module"
+    },
+    {
+        "names": "Creative Sound Blaster ZxR",
+        "rating": "8.9",
+        "hon_price_min": "1,860",
+        "hon_price_max": "1,899",
+        "介面:": "PCI Express",
+        "聲道:": "5.1"
+    },
+    {
+        "names": "Creative Sound Blaster Play!",
+        "rating": "8.0",
+        "介面:": "USB",
+        "連接性2:": "3.5mm"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 01 US",
+        "rating": "",
+        "介面:": "USB 2.0",
+        "連接性2:": "RCA"
+    },
+    {
+        "names": "Taidu USB 7.1 Gaming Upgrade Sound Card (7 effects) with Headset Amplifier TD-S1PRO",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "介面:": "USB",
+        "連接性1:": "4-pole 3.5mm Jack"
+    },
+    {
+        "names": "Nanomesher NanoSound DAC 2",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "介面:": "i2s",
+        "連接性1:": "Raspberry Pi 40pin IO"
+    },
+    {
+        "names": "E-MU 0202 USB",
+        "rating": "",
+        "介面:": "USB 2.0",
+        "連接性3:": "Ultra-low latency USB 2.0 drivers",
+        "連接性4:": "Hardware zero-latency direct monitoring",
+        "連接性5:": "Plug-and-play operation with hands-on control of all major functions"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-1955 2012",
+        "rating": "10",
+        "介面:": "USB",
+        "連接性2:": "光纖"
+    },
+    {
+        "names": "ASUS Xonar U7 USB Sound Card",
+        "rating": "8.0",
+        "hon_price_min": "648",
+        "hon_price_max": "799",
+        "介面:": "USB",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "Creative Audigy SE",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "介面:": "PCI",
+        "連接性2:": "Line In / Microphone In / *Digital I/O",
+        "連接性3:": "Aux Audio In",
+        "連接性4:": "Supports SPDIF Out for Stereo Digital Speakers or SPDIF In/Out with Creative Digital I/O Module (sold separately)"
+    },
+    {
+        "names": "ASUS Xonar D1 7.1",
+        "rating": "",
+        "介面:": "PCI",
+        "連接性3:": "1 x S/PDIF out (1 x Optical (Toslink)/(combo with analog in))",
+        "連接性4:": "1 x Front-Panel Header",
+        "連接性5:": "1 x Aux in (4-pin header)"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-192",
+        "rating": "",
+        "介面:": "蓮花（RCA）同軸/准方形光纖介面",
+        "連接性2:": "蓮花（RCA）類比介面"
+    },
+    {
+        "names": "Creative X-Fi Xtreme",
+        "rating": "4.0",
+        "介面:": "PCI-E",
+        "連接性3:": "Optical out (TOSLINK)*",
+        "連接性4:": "Optical in (TOSLINK)",
+        "連接性5:": "Intel HD Audio Compatible Front Panel Header (2x5pin)"
+    },
+    {
+        "names": "Creative Sound Blaster X7 Limited Edition",
+        "rating": "",
+        "hon_price_min": "3,670",
+        "hon_price_max": "3,670"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-022",
+        "rating": "",
+        "介面:": "USB to SPDIF",
+        "連接性2:": "Optical output",
+        "連接性3:": "Coaxial output"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-1955+",
+        "rating": "10",
+        "介面:": "同軸/光纖/USB(迴圈切換)"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 03 US",
+        "rating": "",
+        "介面:": "USB 2.0",
+        "連接性2:": "RCA"
+    },
+    {
+        "names": "ASUS Xonar DG",
+        "rating": "9.5",
+        "介面:": "PCI",
+        "連接性1:": "3.5MM",
+        "連接性2:": "SPDI/F"
+    },
+    {
+        "names": "Creative Sound Blaster Play! 2",
+        "rating": "",
+        "介面:": "USB",
+        "連接性1:": "3.5mm"
+    },
+    {
+        "names": "ASUS Xonar DSX",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "介面:": "PCI-E 1X",
+        "連接性3:": "1 x S/PDIF out (1 x Optical (Toslink)/(combo with rear out))",
+        "連接性4:": "1 x Front-Panel Header",
+        "連接性5:": "1 x Aux in (4-pin header)"
+    },
+    {
+        "names": "Auzentech X-Fi Bravura",
+        "rating": "",
+        "介面:": "PCI-E",
+        "連接性3:": "Speakers Output",
+        "連接性4:": "Digital Output",
+        "連接性5:": "Front Audio"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 01 USD",
+        "rating": "",
+        "連接性1:": "光纖",
+        "連接性3:": "BNC同軸"
+    },
+    {
+        "names": "MUSILAND 樂之邦 03 US Dragon",
+        "rating": "",
+        "連接性1:": "RCA線路輸出介面（身歷聲）",
+        "連接性4:": "12mm MULINK輸出介面",
+        "連接性5:": "方口光纖數位輸出介面",
+        "連接性6:": "B型USB輸入介面"
+    },
+    {
+        "names": "Creative X-Fi Titanium",
+        "rating": "8.0",
+        "介面:": "PCI-E",
+        "連接性3:": "Optical out (TOSLINK)*",
+        "連接性4:": "Optical in (TOSLINK)",
+        "連接性5:": "Intel HD Audio Compatible Front Panel Header (2x5pin)"
+    },
+    {
+        "names": "ASUS Xonar Essence ST",
+        "rating": "10",
+        "hon_price_min": "1,165",
+        "hon_price_max": "1,165",
+        "介面:": "PCI",
+        "連接性3:": "Other line-level analog input (for CD-IN/TV Tuner)",
+        "連接性4:": "Digital S/PDIF Output",
+        "連接性5:": "Front-Panel Header",
+        "連接性6:": "S/PDIF Header"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-793II DAC",
+        "rating": "",
+        "介面:": "USB/同軸/光纖"
+    },
+    {
+        "names": "TOPPING C1",
+        "rating": "",
+        "介面:": "USB",
+        "連接性2:": "光纖"
+    },
+    {
+        "names": "Auzentech X-MERIDIAN",
+        "rating": "",
+        "介面:": "PCI-E",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "Auzentech X-FI Hometheater HD",
+        "rating": "",
+        "介面:": "PCI-E 1X",
+        "連接性2:": "HDMI"
+    },
+    {
+        "names": "Creative Labs Sound Blaster X-FI Titanium FATAL1TY Champion",
+        "rating": "",
+        "介面:": "PCI-E 1X",
+        "連接性3:": "Optical out (TOSLINK)",
+        "連接性4:": "Optical in (TOSLINK)",
+        "連接性5:": "Intel HD Audio Compatible Front Panel Header (2x5pin)"
+    },
+    {
+        "names": "E-MU 1616M PCIe",
+        "rating": "",
+        "介面:": "PCI-E",
+        "連接性3:": "Two E-MU XTC™ Class-A, ultra-low noise preamps (-129.5dBu)",
+        "連接性4:": "PatchMix™ DSP zero-latency hardware mixing and monitoring",
+        "連接性5:": "Compatibility with most popular audio/sequencer applications"
+    },
+    {
+        "names": "SMSL(雙木三林) 音樂堡壘 FORT",
+        "rating": "",
+        "介面:": "USB 1.0",
+        "連接性1:": "3.5mm"
+    },
+    {
+        "names": "Auzentech X-Fi Forte 7.1 Low Profile Audio Card",
+        "rating": "",
+        "介面:": "PCI-E",
+        "連接性3:": "Front Audio",
+        "連接性4:": "Digital I/O",
+        "連接性5:": "•Creative proprietary AND_EXT, DID_EXE connector for X-Fi I/O driver"
+    },
+    {
+        "names": "Logitech USB Sound Card 音效卡 A-5572A",
+        "rating": "",
+        "介面:": "USB"
+    },
+    {
+        "names": "ASUS Xonar Essence One",
+        "rating": "10",
+        "介面:": "USB",
+        "連接性2:": "1 x 6.3mm RCA jack",
+        "連接性3:": "2 x 數位 S/PDIF 輸入"
+    },
+    {
+        "names": "aMagic ACC-USB71AU",
+        "rating": "10",
+        "介面:": "USB 2.0",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 04 MX",
+        "rating": "8.0",
+        "介面:": "USB/MicroSD",
+        "聲道:": "2"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 02 US mark2",
+        "rating": "10",
+        "介面:": "USB",
+        "聲道:": "2"
+    },
+    {
+        "names": "Creative Sound Blaster Recon3D Fatal1ty Champion PCIe Sound Card",
+        "rating": "10",
+        "介面:": "PCI-E 1X",
+        "連接性3:": "Speaker Out: 3 x 1/8\" mini jacks",
+        "連接性4:": "Optical Out: TOSLINK",
+        "連接性5:": "Optical In: TOSLINK"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-270",
+        "rating": "",
+        "連接性1:": "3.5mm",
+        "連接性3:": "光纖"
+    },
+    {
+        "names": "E-MU 1212M",
+        "rating": "",
+        "介面:": "PCI-E",
+        "連接性3:": "PatchMix™ DSP zero-latency hardware mixing and monitoring",
+        "連接性4:": "Comprehensive analog and digital I/O plus MIDI"
+    },
+    {
+        "names": "AIM X-TUBE",
+        "rating": "",
+        "介面:": "USB",
+        "連接性1:": "Stereo 3.5mm Jack 輸出/輸入"
+    },
+    {
+        "names": "ASUS Xonar Essence STU USB DAC and Headphone Amplifier",
+        "rating": "9.5",
+        "介面:": "USB",
+        "連接性3:": "2 x S/PDIF in (1 x Optical (Toslink)/1 x Coaxial)",
+        "連接性4:": "1 x Aux in 3.5mm jack (1/8”)"
+    },
+    {
+        "names": "Creative Recon3D Fatal1ty Professional",
+        "rating": "",
+        "介面:": "PCI Express (x1, x4 or x16) slot",
+        "連接性3:": "Speaker Out: 3x 1/8\" mini jacks",
+        "連接性4:": "Optical Out: TOSLINK",
+        "連接性5:": "Optical In: TOSLINK"
+    },
+    {
+        "names": "E-MU 0404 USB 2.0 White",
+        "rating": "",
+        "介面:": "USB 2.0",
+        "連接性3:": "Comprehensive digital I/O",
+        "連接性4:": "Ultra-low latency USB 2.0 drivers",
+        "連接性5:": "Hardware zero-latency direct monitoring"
+    },
+    {
+        "names": "EVGA NU Audio Pro 7.1 (712-P1-AN21-KR)",
+        "rating": "",
+        "介面:": "PCIe x1 , mini-DP",
+        "連接性3:": "Line-In (3.5mm)",
+        "連接性4:": "Mic-In (3.5mm)",
+        "連接性5:": "Optical Out (TOSLINK Passthrough)"
+    },
+    {
+        "names": "ASUS Xonar Xense",
+        "rating": "",
+        "介面:": "PCI-E",
+        "連接性3:": "High-bandwidth Coaxial/TOS-Link combo port supports 192KHz/24bit",
+        "連接性4:": "Shared by Headphone out / 2 channels out / Microphone in"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-022+",
+        "rating": "",
+        "介面:": "USB",
+        "連接性1:": "Audio"
+    },
+    {
+        "names": "ROCCAT JUKE VIRTUAL 7.1 + USB STEREO SOUNDCARD & HEADSET ADAPTER",
+        "rating": "",
+        "介面:": "USB",
+        "連接性1:": "3.5mm Headphone / Speaker out",
+        "連接性2:": "3.5mm Microphone In"
+    },
+    {
+        "names": "ASUS ROG Xonar Phoebus Solo",
+        "rating": "10",
+        "介面:": "PCI-E",
+        "連接性3:": "1 x S/PDIF out (1 x Optical (Toslink)/(combo with side out))",
+        "連接性4:": "1 x Front-Panel Header",
+        "連接性5:": "1 x Aux-in (4-pin header)"
+    },
+    {
+        "names": "TOPPING TP-23",
+        "rating": "",
+        "介面:": "USB",
+        "連接性2:": "Audio"
+    },
+    {
+        "names": "Auzentech X-Studio 5.1",
+        "rating": "",
+        "介面:": "PCI",
+        "聲道:": "5.1"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 06 MX",
+        "rating": "",
+        "介面:": "USB",
+        "連接性3:": "同軸輸出",
+        "連接性4:": "mulink輸出",
+        "連接性5:": "光纖輸出",
+        "連接性6:": "支援microSD card"
+    },
+    {
+        "names": "EVGA Nu Audio Card  712-P1-AN01-KR",
+        "rating": ""
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 02 US",
+        "rating": "",
+        "介面:": "USB 2.0",
+        "連接性2:": "RCA"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-1305A",
+        "rating": "",
+        "連接性1:": "准方形光纖",
+        "連接性3:": "同軸",
+        "連接性4:": "3.5mm"
+    },
+    {
+        "names": "ASUS Xonar Essemce STX",
+        "rating": "10",
+        "介面:": "PCI",
+        "聲道:": "2"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 02 US Dragon",
+        "rating": "",
+        "介面:": "USB 2.0",
+        "連接性1:": "數位輸出PCM/Dolby Digital/DTS格式"
+    },
+    {
+        "names": "Onkyo SE-300PCIE",
+        "rating": "10",
+        "介面:": "PCI-E 1X",
+        "聲道:": "7.1"
+    },
+    {
+        "names": "Creative Recon3D",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,388",
+        "介面:": "USB",
+        "連接性2:": "3.5mm Aux In",
+        "連接性3:": "3.5mm Analog Line Out"
+    },
+    {
+        "names": "Fostex PC-100USB",
+        "rating": "",
+        "介面:": "USB",
+        "連接性1:": "RCA",
+        "連接性2:": "3.5mm"
+    },
+    {
+        "names": "ASUS Xonar D2/PM",
+        "rating": "",
+        "介面:": "PCI",
+        "連接性3:": "1 x S/PDIF out (1 x Coaxial)",
+        "連接性4:": "1 x S/PDIF in (1 x Coaxial)",
+        "連接性5:": "1 x MIDI in/out",
+        "連接性6:": "1 x Aux in (4-pin header)"
+    },
+    {
+        "names": "Weiss INT202",
+        "rating": "",
+        "介面:": "Firewire",
+        "連接性2:": "Coaxial Output",
+        "連接性3:": "AES/EBU XLR Output"
+    },
+    {
+        "names": "SMSL(雙木三林) SD-793",
+        "rating": "",
+        "連接性1:": "RCA",
+        "連接性2:": "2聲道輸出"
+    },
+    {
+        "names": "MUSILAND 樂之邦 Monitor 01 US 2012",
+        "rating": "",
+        "連接性1:": "RCA",
+        "連接性4:": "方口光纖數位輸出介面",
+        "連接性5:": "12mm MULINK輸出介面"
+    },
+    {
+        "names": "Auzentech X-RAIDER 7.1 Channel Sound Card PCI",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,000",
+        "介面:": "PCI",
+        "聲道:": "7.1"
+    }
+]

@@ -1,0 +1,3552 @@
+[
+    {
+        "names": "Synology DiskStation DS723+",
+        "rating": "",
+        "hon_price_min": "3,839",
+        "hon_price_max": "3,880",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "Synology DiskStation DS1522+",
+        "rating": "",
+        "hon_price_min": "5,599",
+        "hon_price_max": "6,232",
+        "可裝置硬碟數量:": "5",
+        "Raid 支援:": "0/1/5/6/10"
+    },
+    {
+        "names": "Synology DiskStation DS923+",
+        "rating": "",
+        "hon_price_min": "4,830",
+        "hon_price_max": "4,980",
+        "最大支援容量:": "54TB",
+        "Raid 支援:": "0/1/5/6/10",
+        "外部連接埠:": "RJ-45 1GbE 網路埠 x 2, USB 3.2 Gen 1 埠 x 2, eSATA 連接埠 x 1"
+    },
+    {
+        "names": "Synology DiskStation DS220+",
+        "rating": "9.5",
+        "hon_price_min": "2,629",
+        "hon_price_max": "2,650",
+        "最大支援容量:": "108TB",
+        "Raid 支援:": "0/1",
+        "外部連接埠:": "RJ-45/USB 3.0"
+    },
+    {
+        "names": "Synology DiskStation DS720+",
+        "rating": "10",
+        "hon_price_min": "2,799",
+        "hon_price_max": "3,880",
+        "最大支援容量:": "108TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "Synology DiskStation DS220j",
+        "rating": "8.8",
+        "hon_price_min": "1,455",
+        "hon_price_max": "1,629",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1",
+        "USB 裝置支援:": "Yes"
+    },
+    {
+        "names": "QNAP TS-464-4G",
+        "rating": "10",
+        "hon_price_min": "3,840",
+        "hon_price_max": "4,499",
+        "最大支援容量:": "308TB",
+        "Raid 支援:": "Raid 0, 1, 5, 6, 10",
+        "外部連接埠:": "HDMI 2.0 x 1",
+        "USB 裝置支援:": "USB2.0  x 2, USB3.2 Gen 2  x 2"
+    },
+    {
+        "names": "Synology DiskStation DS420+",
+        "rating": "8.3",
+        "hon_price_min": "3,821",
+        "hon_price_max": "3,890",
+        "最大支援容量:": "108TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "QNAP TS-262-4G",
+        "rating": "",
+        "hon_price_min": "2,648",
+        "hon_price_max": "2,799",
+        "最大支援容量:": "308TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0,1"
+    },
+    {
+        "names": "Synology DiskStation DS1821+",
+        "rating": "10",
+        "hon_price_min": "8,462",
+        "hon_price_max": "8,562"
+    },
+    {
+        "names": "Synology DiskStation NAS DS1621+",
+        "rating": "10",
+        "hon_price_min": "6,799",
+        "hon_price_max": "7,580",
+        "water_price_min": "7,480",
+        "water_price_max": "7,480"
+    },
+    {
+        "names": "Synology DiskStation DS420j",
+        "rating": "",
+        "hon_price_min": "2,198",
+        "hon_price_max": "2,250",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "QNAP TS-664-4G",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "5,499",
+        "最大支援容量:": "308TB",
+        "Raid 支援:": "Raid 0, 1, 5, 6, 10, 50",
+        "外部連接埠:": "2.5 Gigabit 乙太網路埠 (2.5G/1G/100M) x 2, HDMI 2.0 x 1",
+        "USB 裝置支援:": "USB2.0 x 2 , USB3.2 Gen 2 x 2"
+    },
+    {
+        "names": "QNAP TS-253E-8G",
+        "rating": "",
+        "hon_price_min": "3,997",
+        "hon_price_max": "3,999",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0,1"
+    },
+    {
+        "names": "Synology DiskStation DS218play",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,880",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0, 1"
+    },
+    {
+        "names": "Synology DiskStation DS920+",
+        "rating": "9.8",
+        "hon_price_min": "3,797",
+        "hon_price_max": "4,699",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "Synology DiskStation DS620Slim",
+        "rating": "10",
+        "hon_price_min": "3,448",
+        "hon_price_max": "3,949",
+        "可裝置硬碟數量:": "6",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "Synology DiskStation NAS DS1621+",
+        "rating": "10",
+        "hon_price_min": "6,799",
+        "hon_price_max": "7,580",
+        "water_price_min": "7,480",
+        "water_price_max": "7,480"
+    },
+    {
+        "names": "Synology DS218",
+        "rating": "10",
+        "hon_price_min": "1,917",
+        "hon_price_max": "1,917"
+    },
+    {
+        "names": "QNAP 2-bay USB 3.1 Gen. 2 RAID 磁碟陣列外接盒 TR-002",
+        "rating": "7.5",
+        "hon_price_min": "1,074",
+        "hon_price_max": "1,260",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "QNAP TS-664-4G",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "5,499",
+        "最大支援容量:": "308TB",
+        "Raid 支援:": "Raid 0, 1, 5, 6, 10, 50",
+        "外部連接埠:": "2.5 Gigabit 乙太網路埠 (2.5G/1G/100M) x 2, HDMI 2.0 x 1",
+        "USB 裝置支援:": "USB2.0 x 2 , USB3.2 Gen 2 x 2"
+    },
+    {
+        "names": "QNAP 四核心NAS TS-233",
+        "rating": "10",
+        "hon_price_min": "1,496",
+        "hon_price_max": "1,549",
+        "可裝置硬碟數量:": "2",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Synology DiskStation DS220j",
+        "rating": "8.8",
+        "hon_price_min": "1,455",
+        "hon_price_max": "1,629",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1",
+        "USB 裝置支援:": "Yes"
+    },
+    {
+        "names": "Synology 12-Bay NAS DiskStation DS3622xs+",
+        "rating": "10",
+        "hon_price_min": "25,800",
+        "hon_price_max": "26,619",
+        "可裝置硬碟數量:": "12",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "QNAP 四核心 4-bay M.2 SATA SSD NASbook TBS-453DX-4G",
+        "rating": "",
+        "hon_price_min": "4,588",
+        "hon_price_max": "5,999",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "M.2 SATA"
+    },
+    {
+        "names": "QNAP 四核心1.7GHz NAS TS-231P3-4G",
+        "rating": "",
+        "hon_price_min": "2,429",
+        "hon_price_max": "2,699",
+        "可裝置硬碟數量:": "2",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Western Digital My Cloud Home 4TB WDBVXC0040HWT",
+        "rating": "4.0",
+        "hon_price_min": "1,208",
+        "hon_price_max": "1,300",
+        "最大支援容量:": "4TB"
+    },
+    {
+        "names": "QNAP 高效能四核心 1.7 GHz NAS TS-431K",
+        "rating": "",
+        "hon_price_min": "2,339",
+        "hon_price_max": "2,599",
+        "可裝置硬碟數量:": "4",
+        "USB 裝置支援:": "YES"
+    },
+    {
+        "names": "Synology DiskStation DS420+",
+        "rating": "8.3",
+        "hon_price_min": "3,821",
+        "hon_price_max": "3,890",
+        "最大支援容量:": "108TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "QNAP TS-264-8G",
+        "rating": "",
+        "hon_price_min": "3,676",
+        "hon_price_max": "3,699",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0,1"
+    },
+    {
+        "names": "Synology DiskStation DS918+",
+        "rating": "5.3",
+        "hon_price_min": "3,286",
+        "hon_price_max": "4,220",
+        "最大支援容量:": "40TB",
+        "Raid 支援:": "Synology Hybrid RAID / Basic JBOD RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "USB3.0 x2 / eSATA x1"
+    },
+    {
+        "names": "Synology DiskStation DS1520+",
+        "rating": "9.7",
+        "hon_price_min": "5,399",
+        "hon_price_max": "5,452",
+        "可裝置硬碟數量:": "5",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "Synology DiskStation DS1019+",
+        "rating": "",
+        "hon_price_min": "4,648",
+        "hon_price_max": "6,650",
+        "可裝置硬碟數量:": "5",
+        "Raid 支援:": "0/1/5/6/10",
+        "USB 裝置支援:": "Yes"
+    },
+    {
+        "names": "Synology DiskStation DS120j",
+        "rating": "8.0",
+        "hon_price_min": "770",
+        "hon_price_max": "859",
+        "可裝置硬碟數量:": "1",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP 家用 NAS TS-130",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "1,099",
+        "可裝置硬碟數量:": "1",
+        "Raid 支援:": "None"
+    },
+    {
+        "names": "Synology DX517",
+        "rating": "10",
+        "hon_price_min": "3,838",
+        "hon_price_max": "4,119",
+        "最大支援容量:": "50TB",
+        "硬碟介面:": "SATA 6Gb/s, 3Gb/s",
+        "外部連接埠:": "eSATA"
+    },
+    {
+        "names": "QNAP 四核心 NAS TS-453D-4G",
+        "rating": "",
+        "hon_price_min": "3,560",
+        "hon_price_max": "4,499",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "Dahua 大華 16 Channel 1U 16PoE 4K & H.265 Pro 網絡錄像機 DHI-NVR5216-16P-4KS2E(UK)",
+        "rating": "",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,365"
+    },
+    {
+        "names": "QNAP 四核心2.2 GHz 雙 2.5GbE NAS TS-673A-8G",
+        "rating": "10",
+        "hon_price_min": "5,780",
+        "hon_price_max": "7,199",
+        "可裝置硬碟數量:": "6",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP 四核心NAS TS-233",
+        "rating": "10",
+        "hon_price_min": "1,496",
+        "hon_price_max": "1,549",
+        "可裝置硬碟數量:": "2",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 DX1215II",
+        "rating": "10",
+        "hon_price_min": "9,580",
+        "hon_price_max": "10,159",
+        "可裝置硬碟數量:": "12",
+        "硬碟介面:": "3.5\" SATA HDD, 2.5\" SATA HDD, 2.5\" SATA SSD"
+    },
+    {
+        "names": "Synology 12-Bay NAS DiskStation DS3622xs+",
+        "rating": "10",
+        "hon_price_min": "25,800",
+        "hon_price_max": "26,619",
+        "可裝置硬碟數量:": "12",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "QNAP Intel Celeron J4025 雙核心 2.0GHz NAS TS-451D2-2G",
+        "rating": "",
+        "hon_price_min": "2,899",
+        "hon_price_max": "3,499",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "Synology Deep Learning NVR DVA3221",
+        "rating": "",
+        "hon_price_min": "22,499",
+        "hon_price_max": "24,649",
+        "可裝置硬碟數量:": "4",
+        "外部連接埠:": "RJ-45 1GbE LAN Port, eSATA Port, COM Port",
+        "USB 裝置支援:": "USB 3.0 Port"
+    },
+    {
+        "names": "QNAP NAS TS-133",
+        "rating": "",
+        "hon_price_min": "1,095",
+        "hon_price_max": "1,099",
+        "可裝置硬碟數量:": "1",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 RX1222sas",
+        "rating": "",
+        "hon_price_min": "24,059",
+        "hon_price_max": "25,479",
+        "可裝置硬碟數量:": "12",
+        "外部連接埠:": "SAS IN-port x 1, SAS OUT-port x 1"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 DX1222",
+        "rating": "10",
+        "hon_price_min": "9,810",
+        "hon_price_max": "10,389",
+        "可裝置硬碟數量:": "12",
+        "硬碟介面:": "3.5\" SATA HDD, 2.5\" SATA HDD, 2.5\" SATA SSD"
+    },
+    {
+        "names": "QNAP 9-Bay NAS TS-932PX-4G",
+        "rating": "",
+        "hon_price_min": "5,300",
+        "hon_price_max": "5,499",
+        "最大支援容量:": "308TB",
+        "Raid 支援:": "Raid 0, 1, 5, 6, 10",
+        "外部連接埠:": "2.5 Gigabit 乙太網路埠 (2.5G/1G/100M)  x 2 , 10GbE SFP+ x 2",
+        "USB 裝置支援:": "USB3.2 Gen 1  x 3"
+    },
+    {
+        "names": "Synology E10G18-T2 10 Gigabit Dual RJ45 port PCI Express x4 adapter",
+        "rating": "",
+        "hon_price_min": "1,994",
+        "hon_price_max": "2,050",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380"
+    },
+    {
+        "names": "Western Digital My Cloud Home 3TB WDBVXC0030HWT",
+        "rating": "6.3",
+        "hon_price_min": "874",
+        "hon_price_max": "948",
+        "最大支援容量:": "3TB"
+    },
+    {
+        "names": "Synology DiskStation DS1621xs+",
+        "rating": "10",
+        "hon_price_min": "13,870",
+        "hon_price_max": "14,310",
+        "最大支援容量:": "200TB",
+        "可裝置硬碟數量:": "6"
+    },
+    {
+        "names": "Imou H.265 Wi-Fi Network Video Recorder NVR1104HS-W-S2 (4-ch)",
+        "rating": "",
+        "hon_price_min": "508",
+        "hon_price_max": "658",
+        "最大支援容量:": "8TB",
+        "外部連接埠:": "HDMI, VGA",
+        "USB 裝置支援:": "有",
+        "支援檔案分享制式:": "WEB / GUI / Imou Life App"
+    },
+    {
+        "names": "Synology DiskStation DS1618+",
+        "rating": "",
+        "hon_price_min": "5,225",
+        "hon_price_max": "7,456",
+        "可裝置硬碟數量:": "6",
+        "Raid 支援:": "0/1/5/6/10"
+    },
+    {
+        "names": "Imou H.265 Wi-Fi Network Video Recorder NVR1108HS-W-S2 (8-ch)",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "828",
+        "最大支援容量:": "8TB",
+        "外部連接埠:": "HDMI, VGA",
+        "USB 裝置支援:": "有",
+        "支援檔案分享制式:": "WEB / GUI / Imou Life App"
+    },
+    {
+        "names": "QNAP 四核心1.7GHz NAS TS-432PXU-RP-2G",
+        "rating": "",
+        "hon_price_min": "9,396",
+        "hon_price_max": "9,499",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Hikvision 海康威視 8-ch 1U 8 PoE 4K NVR DS-7608NI-K2/8P",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,580",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "Front panel: 1 x USB 2.0; Rear panel: 1 x USB 3.0"
+    },
+    {
+        "names": "QNAP Intel 雙核心多媒體NAS TS-251D-4G",
+        "rating": "",
+        "hon_price_min": "2,390",
+        "hon_price_max": "2,899",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "QNAP Intel 雙核心多媒體NAS TS-251D-2G",
+        "rating": "",
+        "hon_price_min": "2,090",
+        "hon_price_max": "2,599",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1",
+        "USB 裝置支援:": "Yes"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 RX1217RP",
+        "rating": "",
+        "hon_price_min": "17,519",
+        "hon_price_max": "18,069",
+        "可裝置硬碟數量:": "12",
+        "硬碟介面:": "3.5\" SATA HDD, 2.5\" SATA HDD, 2.5\" SATA SSD"
+    },
+    {
+        "names": "Western Digital My Cloud Home 4TB WDBVXC0040HWT",
+        "rating": "4.0",
+        "hon_price_min": "1,208",
+        "hon_price_max": "1,300",
+        "最大支援容量:": "4TB"
+    },
+    {
+        "names": "Synology E10G18-T1 10 Gigabit single RJ45 port PCI Express x4 adapter",
+        "rating": "",
+        "hon_price_min": "1,159",
+        "hon_price_max": "1,220",
+        "water_price_min": "1,150",
+        "water_price_max": "1,150"
+    },
+    {
+        "names": "Hikvision 海康威視 4-ch 1080p 1U H.265 AcuSense DVR iDS-7204HQHI-M1/S",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "395",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP TS-251+ 2G",
+        "rating": "10",
+        "hon_price_min": "3,057",
+        "hon_price_max": "3,399",
+        "可裝置硬碟數量:": "2"
+    },
+    {
+        "names": "FOSCAM 8-channel 5MP NVR Network Video Recorder FN8108H",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "740",
+        "最大支援容量:": "6TB",
+        "外部連接埠:": "USB 2.0",
+        "USB 裝置支援:": "2.0"
+    },
+    {
+        "names": "Asustor Drivestor 2 四核心 NAS AS1102T",
+        "rating": "",
+        "hon_price_min": "1,386",
+        "hon_price_max": "1,399",
+        "最大支援容量:": "36TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1",
+        "外部連接埠:": "2.5 Gigabit Ethernet (2.5G/1G/100M) x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 2"
+    },
+    {
+        "names": "Netgear RN424",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "4,280"
+    },
+    {
+        "names": "Synology DiskStation DS218+",
+        "rating": "6.0",
+        "hon_price_min": "1,946",
+        "hon_price_max": "2,400",
+        "可裝置硬碟數量:": "2"
+    },
+    {
+        "names": "Synology DiskStation DS218j",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,300",
+        "Raid 支援:": "0, 1"
+    },
+    {
+        "names": "QNAP HS-453DX-8G",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,499",
+        "可裝置硬碟數量:": "2",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Imou NVR1104HS-W",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "658"
+    },
+    {
+        "names": "QNAP 四核心 1.7 GHz 10GbE SFP+ 商用 NAS TS-431KX-2G",
+        "rating": "",
+        "hon_price_min": "3,509",
+        "hon_price_max": "3,899",
+        "可裝置硬碟數量:": "4",
+        "USB 裝置支援:": "YES"
+    },
+    {
+        "names": "Hikvision 海康威視 8-ch 1U 8 PoE 4K NVR DS-7608NI-K2/8P",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,580",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "Front panel: 1 x USB 2.0; Rear panel: 1 x USB 3.0"
+    },
+    {
+        "names": "Western Digital My Cloud Home Duo 8TB WDBMUT0080JWT",
+        "rating": "2.0",
+        "hon_price_min": "2,673",
+        "hon_price_max": "3,078",
+        "最大支援容量:": "8TB"
+    },
+    {
+        "names": "Hikvision 海康威視 8-Ch 1080p Mini 1U H.265 DVR DS-7108HQHI-K1",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "USB 2.0 x 2"
+    },
+    {
+        "names": "QNAP 高效能四核心 1.7 GHz NAS TS-231K",
+        "rating": "",
+        "hon_price_min": "1,709",
+        "hon_price_max": "1,899",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "DIGIEVER 20 CH 4-Bay Standalone NVR DS-4220 UHD",
+        "rating": "",
+        "hon_price_min": "15,270",
+        "hon_price_max": "15,270",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet x 2 (2.5G/1G/100M), HDMI 2.0 x 2",
+        "USB 裝置支援:": "USB 3.2 x 3"
+    },
+    {
+        "names": "DIGIEVER 56 CH 8-Bay Linux-embedded Standalone NVR DS-8356-RM Pro+",
+        "rating": "",
+        "hon_price_min": "46,800",
+        "hon_price_max": "46,800",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Dahua 大華 16 Channel 1U 16PoE 2HDDs WizSense Network Video Recorder NVR2216-16P-I2",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "DIGIEVER 9 CH 1-Bay Linux-embedded Mobile NVR MN-1109 Pro+",
+        "rating": "",
+        "hon_price_min": "18,080",
+        "hon_price_max": "18,080",
+        "最大支援容量:": "2TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "Asustor Lockerstor Gen 2 (LCD Panel) 4-Bay NAS  AS6704T",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "4,780",
+        "最大支援容量:": "16TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet (2.5G/1G/100M) x 2 / HDMI 2.0b x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 2",
+        "支援檔案分享制式:": "內接磁碟: EXT4 ,Btrfs / 外接磁碟: FAT32, NTFS, EXT3, EXT4, HFS+, exFAT ,Btrfs"
+    },
+    {
+        "names": "TP-Link VIGI NVR1008H VIGI 8 Channel Network Video Recorder",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,800",
+        "最大支援容量:": "10TB",
+        "外部連接埠:": "1 RJ-45 10/100 Mbps Self-Adaptive Ethernet Interface",
+        "USB 裝置支援:": "2 x USB 2.0"
+    },
+    {
+        "names": "DIGIEVER 64 CH 16-Bay Linux-embedded Standalone NVR DS-16364-RM Pro+",
+        "rating": "",
+        "hon_price_min": "75,370",
+        "hon_price_max": "75,370",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "DIGIEVER 25 CH 4-Bay Standalone Rack-Mount NVR DS-4125-RM",
+        "rating": "",
+        "hon_price_min": "16,470",
+        "hon_price_max": "16,470",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, HDMI 1.4b x 1",
+        "USB 裝置支援:": "USB 3.0 x 4"
+    },
+    {
+        "names": "Hikvision 海康威視 HiWatch HWN-4104MH-4P",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "880",
+        "最大支援容量:": "6TB",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "DIGIEVER 16 CH 1-Bay Linux-embedded Mobile NVR MN-1116 Pro+",
+        "rating": "",
+        "hon_price_min": "21,680",
+        "hon_price_max": "21,680",
+        "最大支援容量:": "2TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "QNAP TS-453E-8G",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "4,999",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5"
+    },
+    {
+        "names": "Dahua 大華 8 Channels Penta-brid 5M-N/1080P Compact 1U 1HDD WizSense 網絡錄像機  DH-XVR5108HS-I3(UK)",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "650"
+    },
+    {
+        "names": "QNAP 4Bay NAS 網路儲存伺服器 TS-451D2-2G",
+        "rating": "",
+        "hon_price_min": "2,895",
+        "hon_price_max": "3,499",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 RX1216sas",
+        "rating": "",
+        "hon_price_min": "22,055",
+        "hon_price_max": "23,760",
+        "可裝置硬碟數量:": "12",
+        "外部連接埠:": "SAS IN x 2、SAS OUT x 2"
+    },
+    {
+        "names": "DIGIEVER 5 CH 1-Bay Linux-embedded Mobile NVR MN-1105 Pro+",
+        "rating": "",
+        "hon_price_min": "16,280",
+        "hon_price_max": "16,280",
+        "最大支援容量:": "2TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "Hikvision 海康威視 16-ch 1U 16 PoE 4K NVR DS-7616NI-K2/16P",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,480",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "TP-Link VIGI NVR1008 VIGI 8 Channel Network Video Recorder",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,655",
+        "最大支援容量:": "10TB",
+        "外部連接埠:": "1 RJ-45 10/100 Mbps Self-Adaptive Ethernet Interface",
+        "USB 裝置支援:": "2 x USB 2.0"
+    },
+    {
+        "names": "Synology DiskStation DS118",
+        "rating": "9.3",
+        "hon_price_min": "1,247",
+        "hon_price_max": "1,360",
+        "可裝置硬碟數量:": "1",
+        "Raid 支援:": "None"
+    },
+    {
+        "names": "Dahua 大華 16 Channels Penta-brid 720P 1U 2HDDs WizSense 視頻錄像機 DH-XVR4216AN-I",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180"
+    },
+    {
+        "names": "QNAP 四核心 1.7GHz NAS TS-431P3-4G",
+        "rating": "",
+        "hon_price_min": "3,239",
+        "hon_price_max": "3,599"
+    },
+    {
+        "names": "DIGIEVER 32 CH 2-Bay Linux-embedded Mobile NVR MN-2132 Pro+",
+        "rating": "",
+        "hon_price_min": "30,580",
+        "hon_price_max": "30,580",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "Hikvision 海康威視 HiWatch HWN-4104MH-4P",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "880",
+        "最大支援容量:": "6TB",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "QNAP 2-bay USB 3.1 Gen. 2 RAID 磁碟陣列外接盒 TR-002",
+        "rating": "7.5",
+        "hon_price_min": "1,074",
+        "hon_price_max": "1,260",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "DIGIEVER 20 CH 16-Bay Linux-embedded Standalone NVR DS-16320-RM Pro+",
+        "rating": "",
+        "hon_price_min": "56,270",
+        "hon_price_max": "56,270",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "DIGIEVER 16 CH 16-Bay Linux-embedded Standalone NVR DS-16316-RM Pro+",
+        "rating": "",
+        "hon_price_min": "54,370",
+        "hon_price_max": "54,370",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP 4-bay M.2 NVMe SSD NASbook 網絡儲存裝置 TBS-464-8G",
+        "rating": "",
+        "hon_price_min": "5,240",
+        "hon_price_max": "5,499",
+        "最大支援容量:": "308TB",
+        "外部連接埠:": "5",
+        "USB 裝置支援:": "USB 3.2 Gen 1 連接埠 x 2 , USB 2.0 連接埠 x 3",
+        "支援檔案分享制式:": "AFP, CIFS/SMB, FTP, and File Station"
+    },
+    {
+        "names": "QNAP TS-433-4G",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "2,999",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "RAID 0, 1, 5, 6, 10",
+        "USB 裝置支援:": "USB 2.0 x 2; USB 3.2 Gen 1 x 1"
+    },
+    {
+        "names": "Synology RackStation RS819",
+        "rating": "",
+        "hon_price_min": "5,750",
+        "hon_price_max": "5,789",
+        "最大支援容量:": "108TB",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "Netgear RN31200",
+        "rating": "",
+        "hon_price_min": "2,340",
+        "hon_price_max": "2,840",
+        "可裝置硬碟數量:": "2"
+    },
+    {
+        "names": "DIGIEVER 25 CH 4-Bay Standalone NVR DS-4025",
+        "rating": "",
+        "hon_price_min": "9,380",
+        "hon_price_max": "9,380"
+    },
+    {
+        "names": "Synology RXD1215sas",
+        "rating": "",
+        "hon_price_min": "26,331",
+        "hon_price_max": "28,379"
+    },
+    {
+        "names": "DIGIEVER 12 CH 4-Bay Standalone NVR DS-4012",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,680",
+        "最大支援容量:": "144TB",
+        "外部連接埠:": "1 x Gigabit RJ-45 Ethernet port",
+        "USB 裝置支援:": "3 x USB 2.0"
+    },
+    {
+        "names": "Hikvision 海康威視 8-Ch 1080p Mini 1U H.265 DVR DS-7108HQHI-K1",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "USB 2.0 x 2"
+    },
+    {
+        "names": "Western Digital My Cloud Expert Series EX4100 0TB (WDBWZE0000NBK)",
+        "rating": "",
+        "water_price_min": "2,960",
+        "water_price_max": "2,960",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "QNAP TS-351-2G",
+        "rating": "",
+        "hon_price_min": "2,090",
+        "hon_price_max": "2,599",
+        "可裝置硬碟數量:": "3",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "DIGIEVER 64 CH 16-Bay Linux-embedded Standalone NVR DS-16464-RM Pro+",
+        "rating": "",
+        "hon_price_min": "82,380",
+        "hon_price_max": "82,380",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "DIGIEVER 42 CH 8-Bay Linux-embedded Standalone NVR DS-8242-RM Pro+",
+        "rating": "",
+        "hon_price_min": "36,870",
+        "hon_price_max": "36,870",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Asustor Lockerstor 6 Gen2 網路儲存伺服器 AS6706T",
+        "rating": "10",
+        "hon_price_min": "5,878",
+        "hon_price_max": "6,488",
+        "可裝置硬碟數量:": "6",
+        "外部連接埠:": "USB 3.2 Gen 2 x 2, 2.5 Gigabit Ethernet (2.5G/1G/100M) x 2, PCIe 擴充槽 x 1, HDMI 2.0b x 1",
+        "支援檔案分享制式:": "內接磁碟: EXT4 ,Btrfs / 外接磁碟: FAT32, NTFS, EXT3, EXT4, HFS+, exFAT ,Btrfs"
+    },
+    {
+        "names": "Synology RackStation RS820+ 1U 機架式 NAS",
+        "rating": "",
+        "hon_price_min": "7,780",
+        "hon_price_max": "8,410",
+        "最大支援容量:": "64TB",
+        "Raid 支援:": "Synology Hybrid RAID, Basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "RJ-45 1GbE x 4, eSATA x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 2"
+    },
+    {
+        "names": "QNAP Intel 雙核心 2.0 GHz NAS TS-451D2-4G",
+        "rating": "",
+        "hon_price_min": "2,895",
+        "hon_price_max": "3,799",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "Synology DiskStation DS419slim 4-Bay Cube-Shaped NAS",
+        "rating": "",
+        "hon_price_min": "2,769",
+        "hon_price_max": "2,889",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "2.5\" SATA"
+    },
+    {
+        "names": "Western Digital My Cloud Home Duo 8TB WDBMUT0080JWT",
+        "rating": "2.0",
+        "hon_price_min": "2,673",
+        "hon_price_max": "3,078",
+        "最大支援容量:": "8TB"
+    },
+    {
+        "names": "Synology DS418J",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,390"
+    },
+    {
+        "names": "Synology RackStation RS1221+",
+        "rating": "",
+        "hon_price_min": "9,977",
+        "hon_price_max": "10,350"
+    },
+    {
+        "names": "Western Digital My Cloud Home 2TB WDBVXC0020HWT",
+        "rating": "",
+        "water_price_min": "1,245",
+        "water_price_max": "1,245",
+        "最大支援容量:": "2TB"
+    },
+    {
+        "names": "QNAP TS-963X-2G",
+        "rating": "",
+        "hon_price_min": "5,330",
+        "hon_price_max": "5,499",
+        "可裝置硬碟數量:": "9",
+        "硬碟介面:": "5 x 3.5 吋/2.5 吋 SATA 6Gbps + 4 x 2.5 吋 SATA 6Gbps"
+    },
+    {
+        "names": "DIGIEVER 49 CH 4K Ultra HD Hardware Decode Linux-embedded Video Decoder VD-0049",
+        "rating": "",
+        "hon_price_min": "9,080",
+        "hon_price_max": "9,080",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 1, HDMI x 1/DVI-I x 1",
+        "USB 裝置支援:": "USB 3.0 x 2, USB 2.0 x 4"
+    },
+    {
+        "names": "Dahua 大華 XVR5108HS-S2",
+        "rating": "10",
+        "hon_price_min": "595",
+        "hon_price_max": "800",
+        "最大支援容量:": "8TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "ViVoTek H.265 16-CH Embedded NVR ND9441",
+        "rating": "",
+        "hon_price_min": "4,960",
+        "hon_price_max": "4,970",
+        "可裝置硬碟數量:": "4",
+        "USB 裝置支援:": "前面板：2 (USB 2.0), 後面板：1 (USB 3.0)",
+        "支援檔案分享制式:": "FAT 格式"
+    },
+    {
+        "names": "ViVoTek H.265 Desktop 32-CH VAST 2 Station NS9521",
+        "rating": "",
+        "hon_price_min": "24,900",
+        "hon_price_max": "24,900",
+        "可裝置硬碟數量:": "2",
+        "外部連接埠:": "HDMI x 1, Display Port x 1, DVI x 1",
+        "USB 裝置支援:": "Front: USB 2.0 x 2, Back: USB 3.1 (type A) x 2, USB 3.1 (type C) x 2"
+    },
+    {
+        "names": "QNAP 四核心1.7 GHz NAS TS-131K",
+        "rating": "",
+        "hon_price_min": "1,359",
+        "hon_price_max": "1,599",
+        "可裝置硬碟數量:": "1",
+        "Raid 支援:": "NONE"
+    },
+    {
+        "names": "QNAP 四核心1.7GHz NAS TS-431P3-2G",
+        "rating": "",
+        "hon_price_min": "2,969",
+        "hon_price_max": "3,400",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "TP-Link VIGI NVR1016H VIGI 16 Channel Network Video Recorder",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,100",
+        "最大支援容量:": "10TB",
+        "外部連接埠:": "1 RJ-45 10/100 Mbps Self-Adaptive Ethernet Interface",
+        "USB 裝置支援:": "2 x USB 2.0"
+    },
+    {
+        "names": "DIGIEVER 36 CH 4K Ultra HD Hardware Decode Linux-embedded Video Decoder VD-0036",
+        "rating": "",
+        "hon_price_min": "7,580",
+        "hon_price_max": "7,580",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 1, HDMI x 1/DVI-I x 1",
+        "USB 裝置支援:": "USB 3.0 x 2, USB 2.0 x 4"
+    },
+    {
+        "names": "QNAP Intel Celeron J4125 四核心 2.0GHz NAS TS-453DU-RP-4G",
+        "rating": "",
+        "hon_price_min": "13,900",
+        "hon_price_max": "13,999",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Hikvision 海康威視 16-ch 1080p 1U H.265 AcuSense DVR iDS-7216HQHI-M2/S",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,280",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "DIGIEVER 16 CH 8-Bay Linux-embedded Standalone NVR DS-8216-RM Pro+",
+        "rating": "",
+        "hon_price_min": "24,070",
+        "hon_price_max": "24,070",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP 網絡儲存伺服器 TS-832PX-4G",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "6,999",
+        "可裝置硬碟數量:": "8"
+    },
+    {
+        "names": "DIGIEVER 20 CH 8-Bay Linux-embedded Standalone NVR DS-8220-RM Pro+",
+        "rating": "",
+        "hon_price_min": "25,570",
+        "hon_price_max": "25,570",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Hikvision 海康威視 32-ch 1.5U 4K NVR DS-7732NI-K4(UK)",
+        "rating": "",
+        "hon_price_min": "2,230",
+        "hon_price_max": "2,300",
+        "最大支援容量:": "10TB",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "QNAP TS-873-4G",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "7,759",
+        "可裝置硬碟數量:": "8",
+        "硬碟介面:": "8 x SATA 6 Gbps 3.5 or 2.5 , 2 x M.2 2260/2280 SATA 6Gb/s SSDs"
+    },
+    {
+        "names": "Dahua 大華 8 Channel Compact 1U 1HDD 4PoE Network Video Recorder NVR4108HS-P-4KS2/L",
+        "rating": "",
+        "hon_price_min": "940",
+        "hon_price_max": "990",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "LaCie 2big Dock Thunderbolt 3 20TB",
+        "rating": "",
+        "hon_price_min": "8,600",
+        "hon_price_max": "9,980"
+    },
+    {
+        "names": "FOSCAM PoE 8CH NVR Network Video Recorder FN8108HE",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "980",
+        "最大支援容量:": "6TB",
+        "外部連接埠:": "USB 2.0",
+        "USB 裝置支援:": "2.0"
+    },
+    {
+        "names": "Dahua 大華 4路POE 單硬碟4K NVR (NVR2104HS-P-4KS2)",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "799",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports (2 USB 2.0 )"
+    },
+    {
+        "names": "Asustor AS6302T",
+        "rating": "",
+        "hon_price_min": "2,487",
+        "hon_price_max": "2,899",
+        "最大支援容量:": "24TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1",
+        "外部連接埠:": "HDMI 2.0 x 1, S/PDIF x1,Type C x1"
+    },
+    {
+        "names": "QNAP 四核心NAS TS-653D-8G",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "5,999",
+        "可裝置硬碟數量:": "6",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "Synology RackStation ​RS820RP+ With Redundant Power Supply NAS",
+        "rating": "",
+        "hon_price_min": "10,898",
+        "hon_price_max": "10,999",
+        "最大支援容量:": "64TB",
+        "Raid 支援:": "Synology Hybrid RAID, Basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "RJ-45 1GbE x 4, eSATA x 1, PCIe Gen3 x8 slot (black, x4 link) x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 2"
+    },
+    {
+        "names": "QNAP 四核心 NAS TS-653D-4G",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "5,499",
+        "可裝置硬碟數量:": "6",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "QNAP TS-253B-4G",
+        "rating": "",
+        "hon_price_min": "3,199",
+        "hon_price_max": "3,899"
+    },
+    {
+        "names": "DIGIEVER 56 CH 8-Bay Linux-embedded Standalone NVR DS-8256-RM Pro+",
+        "rating": "",
+        "hon_price_min": "41,670",
+        "hon_price_max": "41,670",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Dahua 大華 8 Channel 1U 2HDDs 8PoE Network Video Recorder NVR4208-8P-4KS2/L",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,320",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "Hikvision 海康威視 8-ch 1U 8 PoE 4K NVR DS-7608NI-K1/8P",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,250",
+        "最大支援容量:": "8TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "Asustor AS6404T",
+        "rating": "10",
+        "hon_price_min": "3,699",
+        "hon_price_max": "4,999",
+        "最大支援容量:": "24TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1",
+        "外部連接埠:": "HDMI 2.0 x 1, S/PDIF x1,Type C x1"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 RX1217",
+        "rating": "",
+        "hon_price_min": "11,689",
+        "hon_price_max": "12,119",
+        "可裝置硬碟數量:": "12",
+        "硬碟介面:": "3.5\" SATA HDD, 2.5\" SATA HDD, 2.5\" SATA SSD"
+    },
+    {
+        "names": "DIGIEVER 20 CH 1-Bay Linux-embedded Mobile NVR MN-1120 Pro+",
+        "rating": "",
+        "hon_price_min": "23,480",
+        "hon_price_max": "23,480",
+        "最大支援容量:": "2TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "QNAP 四核心1.7GHz NAS TS-431X3-4G",
+        "rating": "",
+        "hon_price_min": "3,959",
+        "hon_price_max": "4,399",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP TS-453Be-4G",
+        "rating": "6.0",
+        "hon_price_min": "3,599",
+        "hon_price_max": "4,558",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/6"
+    },
+    {
+        "names": "QNAP 四核心NAS TS-453D-8G",
+        "rating": "10",
+        "hon_price_min": "4,140",
+        "hon_price_max": "4,999",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "DIGIEVER 20 CH 2-Bay Linux-embedded Mobile NVR MN-2120 Pro+",
+        "rating": "",
+        "hon_price_min": "25,280",
+        "hon_price_max": "25,280",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "QNAP TS-328",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "2,133",
+        "可裝置硬碟數量:": "3",
+        "Raid 支援:": "0/1/5"
+    },
+    {
+        "names": "Hikvision 海康威視 DS-7216HQHI-K2 16-ch 1080p H.265 DVR",
+        "rating": "2.0",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,880",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "DIGIEVER 12 CH 8-Bay Linux-embedded Standalone NVR DS-8212-RM Pro+",
+        "rating": "",
+        "hon_price_min": "22,870",
+        "hon_price_max": "22,870",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Dahua 大華 16 Channel 1U 2HDDs 16 PoE 網絡錄像機 DHI-NVR4216-16P-4KS2/L",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980"
+    },
+    {
+        "names": "Synology RackStation RS2421+ 12-Bay 2U Rackmount NAS",
+        "rating": "",
+        "hon_price_min": "18,800",
+        "hon_price_max": "18,800",
+        "最大支援容量:": "108TB",
+        "Raid 支援:": "Synology Hybrid RAID, Basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "RJ-45 1GbE x 1, PCIe Gen3 x8 slot (x4 link) x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 2"
+    },
+    {
+        "names": "Synology DS416slim",
+        "rating": "",
+        "hon_price_min": "2,488",
+        "hon_price_max": "2,619",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "Synology Hybrid RAID, Basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "2 x RJ-45 1GbE 網路孔, 2 x USB 3.0"
+    },
+    {
+        "names": "QNAP 16-Bay NAS TS-1635AX-8G",
+        "rating": "",
+        "hon_price_min": "12,200",
+        "hon_price_max": "12,499",
+        "可裝置硬碟數量:": "12個 3.5 吋 + 4個 2.5 吋 SATA 6Gb/s、3Gb/s",
+        "外部連接埠:": "Gigabit 乙太網路埠 x 2 , 10GbE SFP+ x 2",
+        "USB 裝置支援:": "USB3.2 Gen 1  x 3"
+    },
+    {
+        "names": "Synology DS1817",
+        "rating": "",
+        "hon_price_min": "6,665",
+        "hon_price_max": "6,912"
+    },
+    {
+        "names": "QNAP TS-873-8G",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "8,729"
+    },
+    {
+        "names": "QNAP TS-431P",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "2,499",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "RAID 0/1/5/6/10, + hot spare, single, JBOD",
+        "USB 裝置支援:": "USB 3.0 port (Front x1; Rear x 2)"
+    },
+    {
+        "names": "DIGIEVER 49 CH 16-Bay Linux-embedded Standalone NVR DS-16349-RM Pro+",
+        "rating": "",
+        "hon_price_min": "68,970",
+        "hon_price_max": "68,970",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Dahua 大華 DH-HCVR5216AN-V4",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850"
+    },
+    {
+        "names": "Netgear RN31400",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "3,980",
+        "最大支援容量:": "56TB",
+        "Raid 支援:": "XRAID2",
+        "外部連接埠:": "USB 2.0 x 1 / USB 3.0 x 2",
+        "USB 裝置支援:": "Flash / 硬碟"
+    },
+    {
+        "names": "DIGIEVER 42 CH 16-Bay Linux-embedded Standalone NVR DS-16442-RM Pro+",
+        "rating": "",
+        "hon_price_min": "72,380",
+        "hon_price_max": "72,380",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP TS-473A-8G",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "4,850",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/6/10"
+    },
+    {
+        "names": "Dahua 大華 DH-HCVR5108HS-V4",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "water_price_min": "316",
+        "water_price_max": "318"
+    },
+    {
+        "names": "DIGIEVER 64 CH 8-Bay Linux-embedded Standalone NVR DS-8264-RM Pro+",
+        "rating": "",
+        "hon_price_min": "44,370",
+        "hon_price_max": "44,370",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "FOSCAM 8-Channel 5MP PoE NVR Kits 網路攝影機儲存系統套裝 FN8108HE x1 + G4EP x8",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,800",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "外部連接埠:": "USB 2.0"
+    },
+    {
+        "names": "Dahua 大華 NVR1B08HS-8P",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "800",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP TS-253Be-4G",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "3,588",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "Netgear RN528X",
+        "rating": "",
+        "hon_price_min": "8,250",
+        "hon_price_max": "12,500"
+    },
+    {
+        "names": "QNAP TS-453E-8G",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "4,999",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5"
+    },
+    {
+        "names": "QNAP TVS-463-4G",
+        "rating": "10",
+        "hon_price_min": "6,999",
+        "hon_price_max": "6,999",
+        "最大支援容量:": "24TB",
+        "外部連接埠:": "GbE x 2, (10GbE Ready)",
+        "USB 裝置支援:": "USB3.0 x 5",
+        "支援檔案分享制式:": "CIFS,SMB,AFP,NFS,FTP,iSCSI,WebDAV"
+    },
+    {
+        "names": "Dahua 大華 DH-NVR2104HS-P-S1",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "water_price_min": "386",
+        "water_price_max": "388"
+    },
+    {
+        "names": "Drobo B810n",
+        "rating": "",
+        "hon_price_min": "12,630",
+        "hon_price_max": "12,800",
+        "可裝置硬碟數量:": "8",
+        "USB 裝置支援:": "2 x Gigabit Ethernet ports"
+    },
+    {
+        "names": "Dahua 大華 DH-NVR2108HS-8P-S1..",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "478",
+        "water_price_min": "468",
+        "water_price_max": "478"
+    },
+    {
+        "names": "Asustor Lockerstor 8 AS6508T",
+        "rating": "10",
+        "hon_price_min": "8,999",
+        "hon_price_max": "9,990",
+        "最大支援容量:": "128TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "10 Gigabit Ethernet x 2; 2.5 Gigabit Ethernet x 2",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 2"
+    },
+    {
+        "names": "Western Digital My Cloud Pro PR2100 12TB WDBBCL0120JBK",
+        "rating": "",
+        "hon_price_min": "5,609",
+        "hon_price_max": "5,662",
+        "最大支援容量:": "10TB",
+        "Raid 支援:": "0,1",
+        "外部連接埠:": "GIGALAN x 2",
+        "USB 裝置支援:": "HDD, Flash Drive"
+    },
+    {
+        "names": "QNAP TS-932X-2G",
+        "rating": "",
+        "hon_price_min": "5,334",
+        "hon_price_max": "5,499",
+        "可裝置硬碟數量:": "9",
+        "硬碟介面:": "5 x 3.5 吋 SATA 6 Gbps  , 4 x 2.5 吋 SATA 6 Gbps"
+    },
+    {
+        "names": "Asustor Lockerstor 2 Gen 2 (2-Bay NAS) AS6702T",
+        "rating": "",
+        "hon_price_min": "3,688",
+        "hon_price_max": "3,688",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1/5/6/10",
+        "外部連接埠:": "USB"
+    },
+    {
+        "names": "DIGIEVER 64 CH 8-Bay Linux-embedded Standalone NVR DS-8364-RM Pro+",
+        "rating": "",
+        "hon_price_min": "49,880",
+        "hon_price_max": "49,880",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Buffalo LinkStation 510D 2TB (LS510D)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "910",
+        "最大支援容量:": "2TB",
+        "硬碟介面:": "SATA II",
+        "外部連接埠:": "RJ-45 (Auto MDIX), USB3.0"
+    },
+    {
+        "names": "DIGIEVER 25 CH 2-Bay Linux-embedded Mobile NVR MN-2125 Pro+",
+        "rating": "",
+        "hon_price_min": "26,980",
+        "hon_price_max": "26,980",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "Western Digital My Cloud Pro PR2100 4TB WDBBCL0040JBK",
+        "rating": "",
+        "hon_price_min": "4,165",
+        "hon_price_max": "4,210",
+        "可裝置硬碟數量:": "2",
+        "外部連接埠:": "GIGALAN x 2",
+        "USB 裝置支援:": "HDD, Flash Drive"
+    },
+    {
+        "names": "Synology DS1517+ (2GB)",
+        "rating": "",
+        "hon_price_min": "5,707",
+        "hon_price_max": "5,900",
+        "可裝置硬碟數量:": "5",
+        "外部連接埠:": "RJ-45 1GbE 網路孔 x4 / USB3.0 x 4  / eSATA x 2",
+        "USB 裝置支援:": "3.0"
+    },
+    {
+        "names": "DIGIEVER 64 CH 4K Ultra HD Hardware Decode Linux-embedded Video Decoder VD-0064",
+        "rating": "",
+        "hon_price_min": "10,580",
+        "hon_price_max": "10,580",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 1, HDMI x 1/DVI-I x 1",
+        "USB 裝置支援:": "USB 3.0 x 2, USB 2.0 x 4"
+    },
+    {
+        "names": "Western Digital My Cloud Pro PR4100 0TB WDBNFA0000NBK",
+        "rating": "",
+        "hon_price_min": "3,508",
+        "hon_price_max": "3,509",
+        "water_price_min": "4,120",
+        "water_price_max": "4,120",
+        "可裝置硬碟數量:": "4",
+        "外部連接埠:": "2 x Gigabit",
+        "USB 裝置支援:": "3 x USB3.0"
+    },
+    {
+        "names": "Netgear RN422",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "3,450"
+    },
+    {
+        "names": "Western Digital My Cloud Home 8TB WDBVXC0080HWT",
+        "rating": "2.0",
+        "hon_price_min": "2,036",
+        "hon_price_max": "2,080",
+        "最大支援容量:": "8TB"
+    },
+    {
+        "names": "DIGIEVER 49 CH 8-Bay Linux-embedded Standalone NVR DS-8349-RM Pro+",
+        "rating": "",
+        "hon_price_min": "43,800",
+        "hon_price_max": "43,800",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP TVS-872XT",
+        "rating": "",
+        "hon_price_min": "22,499",
+        "hon_price_max": "22,999",
+        "可裝置硬碟數量:": "8"
+    },
+    {
+        "names": "Hikvision 海康威視 8-ch 5 MP 1U H.265 AcuSense DVR iDS-7208HUHI-M1/S",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,050",
+        "最大支援容量:": "10TB",
+        "USB 裝置支援:": "1 x USB 2.0；1 x USB 3.0"
+    },
+    {
+        "names": "Dahua 大華 4 Channel Penta-brid 1080N/720p Compact 1U 1HDD WizSense Digital Video Recorder XVR4104HS-I",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "340",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "LaCie 6big Thunderbolt 3 60TB",
+        "rating": "",
+        "hon_price_min": "35,400",
+        "hon_price_max": "35,850",
+        "最大支援容量:": "60TB",
+        "外部連接埠:": "2 × Thunderbolt 3 1 × USB 3.1",
+        "USB 裝置支援:": "USB 3.0 and USB 2.0 compatible using included USB-C to USB adapter cable"
+    },
+    {
+        "names": "ViVoTek H.265 64-CH 16Bay NVR NR9682-v2",
+        "rating": "",
+        "hon_price_min": "61,200",
+        "hon_price_max": "61,200",
+        "可裝置硬碟數量:": "16",
+        "外部連接埠:": "HDMI x 1, Display Port x 1, DVI x 1",
+        "USB 裝置支援:": "前面板: USB 3.0 x 2, 後面板: USB 3.0 x 6, USB2.0 x 2"
+    },
+    {
+        "names": "QNAP TS-673-4G",
+        "rating": "",
+        "hon_price_min": "5,720",
+        "hon_price_max": "6,789",
+        "可裝置硬碟數量:": "6",
+        "硬碟介面:": "6 x SATA 6 Gbps 3.5 or 2.5 , 2 x M.2 2260/2280 SATA 6Gb/s SSDs"
+    },
+    {
+        "names": "Synology DS414",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "3,990",
+        "最大支援容量:": "16TB",
+        "Raid 支援:": "Raid 0/1/5/6/10",
+        "外部連接埠:": "USB 2.0 / USB3.0 x 2",
+        "USB 裝置支援:": "硬碟"
+    },
+    {
+        "names": "QNAP TS-253Be-2G",
+        "rating": "3.0",
+        "hon_price_min": "2,799",
+        "hon_price_max": "3,200",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "RAID 0, 1, 5, 6, 10, JBOD, Single",
+        "外部連接埠:": "RJ45 gigalan X2  HDMI 1.4b X2"
+    },
+    {
+        "names": "DIGIEVER 36 CH 16-Bay Linux-embedded Standalone NVR DS-16336-RM Pro+",
+        "rating": "",
+        "hon_price_min": "63,170",
+        "hon_price_max": "63,170",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "DIGIEVER 9 CH 4-Bay Standalone NVR DS-4209 UHD",
+        "rating": "",
+        "hon_price_min": "10,270",
+        "hon_price_max": "10,270",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet x 2 (2.5G/1G/100M), HDMI 2.0 x 2",
+        "USB 裝置支援:": "USB 3.2 x 3"
+    },
+    {
+        "names": "Synology RackStation RS1219+",
+        "rating": "",
+        "hon_price_min": "7,590",
+        "hon_price_max": "8,201",
+        "最大支援容量:": "168TB",
+        "外部連接埠:": "RJ-45/USB 3.0/eSATA",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "DIGIEVER 5 CH 4-Bay Standalone NVR DS-4205 UHD",
+        "rating": "",
+        "hon_price_min": "8,970",
+        "hon_price_max": "8,970",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet x 2 (2.5G/1G/100M), HDMI 2.0 x 2",
+        "USB 裝置支援:": "USB 3.2 x 3"
+    },
+    {
+        "names": "QNAP TVS-873-8G",
+        "rating": "",
+        "hon_price_min": "11,750",
+        "hon_price_max": "11,800"
+    },
+    {
+        "names": "QNAP TS-473-4G",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "5,819",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "4 x SATA 6 Gbps 3.5 or 2.5 , 2 x M.2 2260/2280 SATA 6Gb/s SSDs"
+    },
+    {
+        "names": "FOSCAM 8-Channel 5MP PoE NVR Kits 網路攝影機儲存系統套裝 FN8108HE x1 + G4EP x4",
+        "rating": "",
+        "hon_price_min": "2,720",
+        "hon_price_max": "2,820",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "外部連接埠:": "USB 2.0"
+    },
+    {
+        "names": "Netgear ReadyNAS RN212",
+        "rating": "10",
+        "hon_price_min": "1,210",
+        "hon_price_max": "1,890",
+        "可裝置硬碟數量:": "2",
+        "硬碟介面:": "SATA/SSD 2.5” or 3.5”"
+    },
+    {
+        "names": "Western Digital My Cloud Home Duo 4TB WDBMUT0040JWT",
+        "rating": "2.0",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,102",
+        "water_price_min": "2,330",
+        "water_price_max": "2,330",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "QNAP TS-451+",
+        "rating": "",
+        "hon_price_min": "3,495",
+        "hon_price_max": "3,799",
+        "最大支援容量:": "32TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0,1, 5, 5 + hot spare, 6, 10, JBOD, Single"
+    },
+    {
+        "names": "Synology DS713+",
+        "rating": "",
+        "hon_price_min": "3,940",
+        "hon_price_max": "3,940",
+        "最大支援容量:": "8TB",
+        "Raid 支援:": "Synology Hybrid RAID, basic, JBOD, RAID 0, RAID 1",
+        "外部連接埠:": "USB 3.0連接埠 X 2, USB 2.0連接埠 X 1, eSATA連接埠 X 1",
+        "USB 裝置支援:": "Flash / 硬碟"
+    },
+    {
+        "names": "Thecus N4810 4-Bay NAS",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "4,060",
+        "最大支援容量:": "40TB",
+        "Raid 支援:": "RAID 0, 1,5,6,10 及 JBOD",
+        "外部連接埠:": "3個USB 3.0 主控模式接口(A Type)，USB 3.0主控模式接口(C Type)"
+    },
+    {
+        "names": "DIGIEVER 20 CH 4-Bay Standalone Rack-Mount NVR DS-4120-RM",
+        "rating": "",
+        "hon_price_min": "15,790",
+        "hon_price_max": "15,790",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, HDMI 1.4b x 1",
+        "USB 裝置支援:": "USB 3.0 x 4"
+    },
+    {
+        "names": "Hikvision 海康威視 HiWatch HWN-4216MH-16P",
+        "rating": "",
+        "hon_price_min": "1,149",
+        "hon_price_max": "1,580",
+        "最大支援容量:": "6TB",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "Western Digital My Cloud Home Duo 20TB WDBMUT0200JWT",
+        "rating": "2.0",
+        "hon_price_min": "4,988",
+        "hon_price_max": "5,097",
+        "最大支援容量:": "20TB",
+        "Raid 支援:": "0, 1"
+    },
+    {
+        "names": "HP HPE StoreEver LTO-5 Ultrium 3000 SAS Internal Tape Drive (EH957B)",
+        "rating": "",
+        "hon_price_min": "15,980",
+        "hon_price_max": "15,988"
+    },
+    {
+        "names": "Dahua 大華 XVR4116HS-S2",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "770",
+        "最大支援容量:": "8TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Level One Gemini 16-Ch Network Video Recorder,H.265 NVR-1316",
+        "rating": "",
+        "hon_price_min": "5,330",
+        "hon_price_max": "5,330",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "HP HPE StoreEver LTO-6 Ultrium 6650 SAS External Tape Drive (EH964A)",
+        "rating": "",
+        "hon_price_min": "25,900",
+        "hon_price_max": "25,940"
+    },
+    {
+        "names": "DIGIEVER 42 CH 8-Bay Linux-embedded Standalone NVR DS-8442-RM Pro+",
+        "rating": "",
+        "hon_price_min": "45,580",
+        "hon_price_max": "45,580",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Ezviz 螢石 NVR POE 8 Channels with HDMI & VGA Outputs X5S-8p",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "588",
+        "硬碟介面:": "SATA",
+        "外部連接埠:": "HDMI, VGA"
+    },
+    {
+        "names": "DIGIEVER 9 CH 2-Bay Linux-embedded Mobile NVR MN-2109 Pro+",
+        "rating": "",
+        "hon_price_min": "19,880",
+        "hon_price_max": "19,880",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "Synology DS1517",
+        "rating": "",
+        "hon_price_min": "5,499",
+        "hon_price_max": "5,499"
+    },
+    {
+        "names": "QNAP TS-453 Pro",
+        "rating": "8.0",
+        "hon_price_min": "5,280",
+        "hon_price_max": "5,280",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "ViVoTek H.265 8-CH Embedded NVR ND9312",
+        "rating": "",
+        "hon_price_min": "1,818",
+        "hon_price_max": "1,820",
+        "可裝置硬碟數量:": "1",
+        "USB 裝置支援:": "USB 2.0 x 2 (front x 1, back x 1)",
+        "支援檔案分享制式:": "FAT Format"
+    },
+    {
+        "names": "Asustor Lockerstor 10 AS6510T",
+        "rating": "10",
+        "hon_price_min": "9,999",
+        "hon_price_max": "10,990",
+        "最大支援容量:": "160TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "10 Gigabit Ethernet x 2; 2.5 Gigabit Ethernet x 2",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 2"
+    },
+    {
+        "names": "DIGIEVER 20 CH 4-Bay Standalone NVR DS-4020",
+        "rating": "",
+        "hon_price_min": "8,480",
+        "hon_price_max": "8,480"
+    },
+    {
+        "names": "ViVoTek H.265 2U 64-CH 8Bay NVR NR9681-v2",
+        "rating": "",
+        "hon_price_min": "51,060",
+        "hon_price_max": "51,070",
+        "可裝置硬碟數量:": "8",
+        "外部連接埠:": "HDMI x 1, Display Port x 1",
+        "USB 裝置支援:": "USB 3.0 Type- A x 3, USB 3.0 Type-C x 1"
+    },
+    {
+        "names": "QNAP TS-832X-8G",
+        "rating": "",
+        "hon_price_min": "7,299",
+        "hon_price_max": "7,759",
+        "可裝置硬碟數量:": "8",
+        "硬碟介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "QNAP TS-1685-D1521-16G",
+        "rating": "",
+        "hon_price_min": "24,100",
+        "hon_price_max": "24,198"
+    },
+    {
+        "names": "Synology DiskStation DS1819+",
+        "rating": "",
+        "hon_price_min": "6,890",
+        "hon_price_max": "8,051",
+        "最大支援容量:": "96TB",
+        "Raid 支援:": "Synology Hybrid RAID / Basic / JBOD / RAID 0 / RAID 1 / RAID 5 / RAID 6 / RAID 10",
+        "外部連接埠:": "RJ-45 1GbE 網路孔 x4 / USB3.0 x 4  / eSATA x 2",
+        "支援檔案分享制式:": "內接磁碟: EXT4 /Btrfs  外接磁碟: Btrfs / EXT4 / EXT3 / FAT / NTFS / HFS+ / exFAT (exFAT Access 需於套件中心另外購買)"
+    },
+    {
+        "names": "Synology Expansion Unit FX2421",
+        "rating": "",
+        "hon_price_min": "26,960",
+        "hon_price_max": "27,739",
+        "最大支援容量:": "92.16TB",
+        "可裝置硬碟數量:": "24"
+    },
+    {
+        "names": "DIGIEVER 5 CH 2-Bay Linux-embedded Mobile NVR MN-2105 Pro+",
+        "rating": "",
+        "hon_price_min": "18,080",
+        "hon_price_max": "18,080",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "G-Technology G-RAID with Thunderbolt 3 12TB",
+        "rating": "",
+        "hon_price_min": "5,220",
+        "hon_price_max": "6,480"
+    },
+    {
+        "names": "Synology RackStation ​RS1221RP+ With Redundant Power Supply NAS",
+        "rating": "",
+        "hon_price_min": "13,880",
+        "hon_price_max": "14,550",
+        "最大支援容量:": "128TB",
+        "Raid 支援:": "Synology Hybrid RAID, Basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "RJ-45 1GbE x 4, eSATA x 1, PCIe Gen3 x8 slot (x4 link) x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 2"
+    },
+    {
+        "names": "QNAP TVS-671-PT-4G",
+        "rating": "",
+        "hon_price_min": "11,349",
+        "hon_price_max": "11,349",
+        "最大支援容量:": "36TB",
+        "外部連接埠:": "GbE x 4, (10GbE Ready)",
+        "USB 裝置支援:": "USB3.0 x 3, USB2.0 x 2",
+        "支援檔案分享制式:": "CIFS,SMB,AFP,NFS,FTP,iSCSI,WebDAV"
+    },
+    {
+        "names": "QNAP Intel 雙核心 NAS TS-251B-4G",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,799",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "QNAP 高效能四核心 1.7 GHz NAS TS-231K",
+        "rating": "",
+        "hon_price_min": "1,709",
+        "hon_price_max": "1,899",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "Netgear RR4312X",
+        "rating": "",
+        "hon_price_min": "29,590",
+        "hon_price_max": "31,650"
+    },
+    {
+        "names": "DIGIEVER 9 CH 2-Bay Standalone NVR DS-2109 UHD",
+        "rating": "",
+        "hon_price_min": "6,670",
+        "hon_price_max": "6,670",
+        "最大支援容量:": "32TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, HDMI x 2 (HDMI 2.0 x 1, HDMI 1.4 x 1)",
+        "USB 裝置支援:": "USB 3.0 x 4 (Type A x 3, Type C x 1)"
+    },
+    {
+        "names": "Synology DS2419+",
+        "rating": "",
+        "hon_price_min": "13,438",
+        "hon_price_max": "15,131",
+        "可裝置硬碟數量:": "12",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP 4Bay NAS 網路儲存伺服器 TS-451D2-2G",
+        "rating": "",
+        "hon_price_min": "2,895",
+        "hon_price_max": "3,499",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/10"
+    },
+    {
+        "names": "QNAP TVS-871T-i5-16G",
+        "rating": "",
+        "hon_price_min": "20,530",
+        "hon_price_max": "20,560",
+        "最大支援容量:": "64TB",
+        "Raid 支援:": "RAID 0,1, 5, 6, 10, + hot spare",
+        "外部連接埠:": "2 x Thunderbolt 2 高速網路埠, 2 x 10 Gigabit Ethernet 埠 (10GBased-T), 4 x 1 Gigabit Ethernet 埠",
+        "USB 裝置支援:": "支援 USB 印表機、隨身碟、USB hub 及 USB UPS 等"
+    },
+    {
+        "names": "Cisco UCS E-Series Single-Wide Servers UCS-E160S-M3/K9",
+        "rating": "",
+        "hon_price_min": "80,000",
+        "hon_price_max": "80,000"
+    },
+    {
+        "names": "LaCie 6big Thunderbolt 3 24TB",
+        "rating": "",
+        "hon_price_min": "19,780",
+        "hon_price_max": "19,800",
+        "最大支援容量:": "60TB"
+    },
+    {
+        "names": "DIGIEVER 49 CH 16-Bay Linux-embedded Standalone NVR DS-16549-RM Pro+",
+        "rating": "",
+        "hon_price_min": "82,380",
+        "hon_price_max": "82,380",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "DIGIEVER 56 CH 16-Bay Linux-embedded Standalone NVR DS-16456-RM Pro+",
+        "rating": "",
+        "hon_price_min": "78,880",
+        "hon_price_max": "78,880",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP TS-453Bmini-4G",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,080",
+        "最大支援容量:": "40TB",
+        "外部連接埠:": "2 x Gigabit RJ45 Ethernet 網路埠",
+        "USB 裝置支援:": "3 x USB 3.0 埠 (正面：1，背面：2) 2 x USB 2.0埠 (背面：2",
+        "支援檔案分享制式:": "CIFS,SMB,AFP,NFS,FTP,iSCSI,WebDAV"
+    },
+    {
+        "names": "Panasonic 樂聲 4-channel Network Video Recorder w/PoE K-NL304K",
+        "rating": "",
+        "hon_price_min": "1,998",
+        "hon_price_max": "1,998"
+    },
+    {
+        "names": "Netgear RN214",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,730",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "Asustor AS4002T",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "2,099",
+        "最大支援容量:": "28TB",
+        "Raid 支援:": "Basic / JBOD / RAID 0 / RAID 1",
+        "外部連接埠:": "10GbE RJ-45 網路孔 x1 / RJ-45 1GbE 網路孔 x2 / USB3.1 x 2"
+    },
+    {
+        "names": "EasyN NVR-1A4",
+        "rating": "",
+        "hon_price_min": "708",
+        "hon_price_max": "800",
+        "最大支援容量:": "4TB",
+        "USB 裝置支援:": "Harddisk",
+        "支援檔案分享制式:": "FTP/WEB/PHOTO/DOWNLOAD/AUDIO"
+    },
+    {
+        "names": "Asustor AS5202T",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,699",
+        "最大支援容量:": "32TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "HDMI 2.0 x 1, USB 3.2 x3"
+    },
+    {
+        "names": "Buffalo TeraStation 51210RN Rackmount 2U 4TB x4",
+        "rating": "",
+        "hon_price_min": "30,510",
+        "hon_price_max": "30,610",
+        "最大支援容量:": "16TB"
+    },
+    {
+        "names": "QNAP HS-453DX-4G Fanless NAS",
+        "rating": "",
+        "hon_price_min": "5,797",
+        "hon_price_max": "5,999",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "Hikvision 海康威視 4路閉路電視錄影機 H265 DVR DS-7204HQHI-K1/E",
+        "rating": "10",
+        "hon_price_min": "349",
+        "hon_price_max": "399",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Synology DiskStation DS119J",
+        "rating": "",
+        "hon_price_min": "797",
+        "hon_price_max": "899",
+        "最大支援容量:": "14TB",
+        "外部連接埠:": "RJ-45 GbE",
+        "USB 裝置支援:": "USB 2.0 x 1",
+        "支援檔案分享制式:": "內部磁碟:EXT4 / 外接磁碟 : EXT4 / EXT3 / FAT / NTFS / HFS+ / exFAT*"
+    },
+    {
+        "names": "HP HPE StoreEasy 1650 Expanded 48TB SAS Storage (N9Y10A)",
+        "rating": "",
+        "hon_price_min": "80,970",
+        "hon_price_max": "80,990"
+    },
+    {
+        "names": "Eight EAR-H1008",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "Synology FS1018",
+        "rating": "",
+        "hon_price_min": "13,160",
+        "hon_price_max": "13,859",
+        "最大支援容量:": "48TB",
+        "Raid 支援:": "RAID 0/1/5/6/10/F1",
+        "外部連接埠:": "3 x USB 3.0, 2 x Expansion ,4 x Gigabit LAN , 1 x PCIe"
+    },
+    {
+        "names": "QNAP TS-131P",
+        "rating": "",
+        "hon_price_min": "1,454",
+        "hon_price_max": "4,154",
+        "可裝置硬碟數量:": "1",
+        "USB 裝置支援:": "3 x  (Front x1; Rear x 2)"
+    },
+    {
+        "names": "QNAP TS-253A 4G",
+        "rating": "",
+        "hon_price_min": "4,299",
+        "hon_price_max": "4,299",
+        "可裝置硬碟數量:": "2"
+    },
+    {
+        "names": "Western Digital My Cloud Home 6TB WDBVXC0060HWT",
+        "rating": "2.0",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,690",
+        "最大支援容量:": "6TB"
+    },
+    {
+        "names": "QNAP TS-453A-8G",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,599",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "RAID 0,1, 5, 6, 10",
+        "外部連接埠:": "4 x USB 3.0 埠 (正面：1，背面：3)"
+    },
+    {
+        "names": "QNAP Qnap TS-451",
+        "rating": "10",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,580",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "3.5” 或 2.5” SATA 6Gb/s, SATA 3Gb/s 硬碟 or SSD"
+    },
+    {
+        "names": "Netgear 4-Bay Rackmount ReadyNAS storage (RR2304)",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,880",
+        "可裝置硬碟數量:": "4"
+    },
+    {
+        "names": "DIGIEVER 42 CH 16-Bay Linux-embedded Standalone NVR DS-16542-RM Pro+",
+        "rating": "",
+        "hon_price_min": "78,880",
+        "hon_price_max": "78,880",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Synology DS115J",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "790",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA(3) / SATA(2)"
+    },
+    {
+        "names": "TerraMaster Storage Capacity F2-210",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "最大支援容量:": "32TB",
+        "外部連接埠:": "RJ-45 1GbE",
+        "USB 裝置支援:": "USB 3.0 x2",
+        "支援檔案分享制式:": "SAMBA/AFP/NFS/FTP/WebDAV"
+    },
+    {
+        "names": "DIGIEVER 16 CH 4-Bay Standalone NVR DS-4016",
+        "rating": "",
+        "hon_price_min": "7,480",
+        "hon_price_max": "7,480",
+        "最大支援容量:": "144TB",
+        "外部連接埠:": "1 x Gigabit RJ-45 Ethernet port",
+        "USB 裝置支援:": "3 x USB 2.0"
+    },
+    {
+        "names": "DIGIEVER 49 CH 8-Bay Linux-embedded Standalone NVR DS-8249-RM Pro+",
+        "rating": "",
+        "hon_price_min": "39,270",
+        "hon_price_max": "39,270",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "ViVoTek H.265 8-CH Embedded PoE NVR ND9322P",
+        "rating": "",
+        "hon_price_min": "3,120",
+        "hon_price_max": "3,130",
+        "可裝置硬碟數量:": "2",
+        "USB 裝置支援:": "Front: 1 (USB 2.0), Back: 1 (USB 3.0)",
+        "支援檔案分享制式:": "FAT Format"
+    },
+    {
+        "names": "QNAP 四核心 AMD RX-421ND NAS TS-673-8G",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "7,199"
+    },
+    {
+        "names": "Promise Pegasus2 R6 18TB (6 x 3TB) Thunderbolt 2 RAID 系統",
+        "rating": "",
+        "hon_price_min": "14,990",
+        "hon_price_max": "14,990"
+    },
+    {
+        "names": "LaCie 6big Thunderbolt 3 48TB",
+        "rating": "",
+        "hon_price_min": "25,008",
+        "hon_price_max": "30,900",
+        "最大支援容量:": "48TB",
+        "外部連接埠:": "2 × Thunderbolt 3 1 × USB 3.1",
+        "USB 裝置支援:": "USB 3.0 and USB 2.0 compatible using included USB-C to USB adapter cable"
+    },
+    {
+        "names": "Synology DiskStation DS216se",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "最大支援容量:": "16TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Asustor AS3102T V2",
+        "rating": "10",
+        "hon_price_min": "1,789",
+        "hon_price_max": "1,799",
+        "最大支援容量:": "28TB",
+        "Raid 支援:": "Basic / JBOD / RAID 0 / RAID 1",
+        "外部連接埠:": "RJ-45 1GbE 網路孔 x2 / USB3.0 x 3 / HDMI x 1"
+    },
+    {
+        "names": "ViVoTek H.265 32-CH Embedded PoE NVR ND9541P",
+        "rating": "",
+        "hon_price_min": "8,320",
+        "hon_price_max": "8,320",
+        "可裝置硬碟數量:": "4",
+        "USB 裝置支援:": "前面板：2 (USB 2.0), 後面板：1 (USB 3.0)",
+        "支援檔案分享制式:": "FAT 格式"
+    },
+    {
+        "names": "Promise Pegasus2 R8 32TB",
+        "rating": "",
+        "hon_price_min": "30,290",
+        "hon_price_max": "30,298"
+    },
+    {
+        "names": "Asustor AS3204T V2",
+        "rating": "",
+        "hon_price_min": "3,189",
+        "hon_price_max": "3,799",
+        "最大支援容量:": "56TB",
+        "Raid 支援:": "Basic / JBOD / RAID 0 / RAID 1 / RAID 5 / RAID 6 / RAID 10",
+        "外部連接埠:": "RJ-45 1GbE 網路孔 x2 / USB3.0 x 3 / HDMI x 1"
+    },
+    {
+        "names": "Dahua 大華 NVR4208-8P-4KS2 Network Video Recorder",
+        "rating": "",
+        "hon_price_min": "1,210",
+        "hon_price_max": "1,450"
+    },
+    {
+        "names": "Drobo B810i",
+        "rating": "",
+        "hon_price_min": "10,999",
+        "hon_price_max": "11,800",
+        "可裝置硬碟數量:": "8",
+        "外部連接埠:": "2 x Gigabit Ethernet ports for data,1 x Gigabit Ethernet port for management"
+    },
+    {
+        "names": "DIGIEVER 64 CH 16-Bay Linux-embedded Standalone NVR DS-16564-RM Pro+",
+        "rating": "",
+        "hon_price_min": "89,580",
+        "hon_price_max": "89,580",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Dahua 大華 DH-HCVR5104HS-V4",
+        "rating": "",
+        "hon_price_min": "256",
+        "hon_price_max": "265",
+        "water_price_min": "268",
+        "water_price_max": "268"
+    },
+    {
+        "names": "Netgear RN51600",
+        "rating": "",
+        "hon_price_min": "8,040",
+        "hon_price_max": "8,040"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 RX2417sas",
+        "rating": "",
+        "hon_price_min": "26,649",
+        "hon_price_max": "28,219",
+        "可裝置硬碟數量:": "24",
+        "外部連接埠:": "1 x SAS IN, 1 x SAS OUT"
+    },
+    {
+        "names": "Western Digital My Cloud Pro PR2100 0TB WDBBCL0000NBK",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,797",
+        "water_price_min": "3,110",
+        "water_price_max": "3,110",
+        "最大支援容量:": "10TB",
+        "Raid 支援:": "0,1",
+        "外部連接埠:": "GIGALAN x 2",
+        "USB 裝置支援:": "HDD, Flash Drive"
+    },
+    {
+        "names": "Hikvision 海康威視 8-ch 1080p 1U H.265 AcuSense DVR iDS-7208HQHI-M2/S",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "745",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "DIGIEVER 9 CH 8-Bay Linux-embedded Standalone NVR DS-8209-RM Pro+",
+        "rating": "",
+        "hon_price_min": "21,570",
+        "hon_price_max": "21,570",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP TS-231P2",
+        "rating": "10",
+        "hon_price_min": "2,036",
+        "hon_price_max": "2,099",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0, 1"
+    },
+    {
+        "names": "Synology Expansion Unit 擴充裝置 RX418",
+        "rating": "",
+        "hon_price_min": "4,476",
+        "hon_price_max": "4,659",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP TS-669 Pro",
+        "rating": "",
+        "hon_price_min": "8,507",
+        "hon_price_max": "8,507",
+        "最大支援容量:": "18TB",
+        "外部連接埠:": "eSATA x2, USB2.0 x5, USB3.0 x2",
+        "USB 裝置支援:": "printer, WLAN, cam",
+        "支援檔案分享制式:": "NFS, SMB/ CIFS, AFP"
+    },
+    {
+        "names": "Synology NVR216-9CH",
+        "rating": "",
+        "hon_price_min": "4,620",
+        "hon_price_max": "4,768",
+        "最大支援容量:": "16TB",
+        "硬碟介面:": "2.5\" / 3.5\" SATA II/ III or SSD"
+    },
+    {
+        "names": "Western Digital My Cloud Pro PR4100 8TB WDBNFA0080KBK",
+        "rating": "",
+        "hon_price_min": "5,662",
+        "hon_price_max": "5,662",
+        "最大支援容量:": "8TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Synology DS112+",
+        "rating": "9.3",
+        "hon_price_min": "2,130",
+        "hon_price_max": "2,130",
+        "最大支援容量:": "4TB",
+        "Raid 支援:": "否",
+        "外部連接埠:": "USB 3.0連接埠 X 2, eSATA連接埠 X 1",
+        "支援檔案分享制式:": "POP3, SMTP, IMAP , PHP , MySQL , FTP , HTTP"
+    },
+    {
+        "names": "QNAP TS-1635-4G",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "8,999"
+    },
+    {
+        "names": "Hikvision 海康威視 4-ch 1080p 1U H.265 AcuSense DVR iDS-7204HQHI-M1/S",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "395",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "DIGIEVER 32 CH 8-Bay Linux-embedded Standalone NVR DS-8232-RM Pro+",
+        "rating": "",
+        "hon_price_min": "33,070",
+        "hon_price_max": "33,070",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Dahua 大華 4 Channel Compact 1U 1HDD 4PoE 網絡錄像機 DHI-NVR4104HS-P-4KS2/L",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "880"
+    },
+    {
+        "names": "Buffalo TS5400D (HD-TS5400D)",
+        "rating": "",
+        "hon_price_min": "3,070",
+        "hon_price_max": "3,070"
+    },
+    {
+        "names": "Buffalo TeraStation 3410DN 4Bays 16TB",
+        "rating": "",
+        "hon_price_min": "7,520",
+        "hon_price_max": "7,545",
+        "最大支援容量:": "16TB",
+        "Raid 支援:": "JBOD, 0, 1, 5, 6, 10",
+        "外部連接埠:": "USB Type A, USB 3.0"
+    },
+    {
+        "names": "QNAP Thunderbolt 3 NAS TVS-672XT-i3-8G",
+        "rating": "",
+        "hon_price_min": "18,748",
+        "hon_price_max": "19,999"
+    },
+    {
+        "names": "QNAP TVS-471-PT-4G",
+        "rating": "",
+        "hon_price_min": "9,999",
+        "hon_price_max": "9,999",
+        "最大支援容量:": "24TB",
+        "外部連接埠:": "GbE x 4, (10GbE Ready)",
+        "USB 裝置支援:": "USB3.0 x 3, USB2.0 x 2",
+        "支援檔案分享制式:": "CIFS,SMB,AFP,NFS,FTP,iSCSI,WebDAV"
+    },
+    {
+        "names": "G-Technology G-RAID USB 12TB GRADRU3AB120002BDB",
+        "rating": "",
+        "hon_price_min": "5,840",
+        "hon_price_max": "6,000"
+    },
+    {
+        "names": "Huawei OceanStor Dorado 3000 V6 All-Flash Storage System",
+        "rating": "",
+        "hon_price_min": "198,000",
+        "hon_price_max": "198,000"
+    },
+    {
+        "names": "Synology VS360HD",
+        "rating": "",
+        "hon_price_min": "3,815",
+        "hon_price_max": "3,859"
+    },
+    {
+        "names": "Synology DS214",
+        "rating": "10",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480",
+        "最大支援容量:": "8TB",
+        "外部連接埠:": "USB 2.0 / USB3.0 x 2",
+        "USB 裝置支援:": "硬碟"
+    },
+    {
+        "names": "DIGIEVER 9 CH 4-Bay Standalone Rack-Mount NVR DS-4109-RM",
+        "rating": "",
+        "hon_price_min": "13,270",
+        "hon_price_max": "13,270",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, HDMI 1.4b x 1",
+        "USB 裝置支援:": "USB 3.0 x 4"
+    },
+    {
+        "names": "DIGIEVER 16 CH 2-Bay Linux-embedded Mobile NVR MN-2116 Pro+",
+        "rating": "",
+        "hon_price_min": "23,480",
+        "hon_price_max": "23,480",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "ViVoTek H.265 32-CH Embedded NVR ND9541",
+        "rating": "",
+        "hon_price_min": "6,760",
+        "hon_price_max": "6,760",
+        "可裝置硬碟數量:": "4",
+        "USB 裝置支援:": "前面板：2 (USB 2.0), 後面板：1 (USB 3.0)",
+        "支援檔案分享制式:": "FAT 格式"
+    },
+    {
+        "names": "QNAP 四核心1.7GHz NAS TS-231P3-2G",
+        "rating": "",
+        "hon_price_min": "2,159",
+        "hon_price_max": "2,399",
+        "可裝置硬碟數量:": "2",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Dahua 大華 DHI-NVR2108HS-8P-4KS2",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,080",
+        "最大支援容量:": "6TB",
+        "外部連接埠:": "1 HDMI, 1 VGA",
+        "USB 裝置支援:": "2 USB 2.0"
+    },
+    {
+        "names": "Hikvision 海康威視 4-ch 1U 4 PoE 4K NVR (DS-7604NI-K1/4P)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "790",
+        "最大支援容量:": "8TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Hikvision 海康威視 4-Ch 1080p Mini 1U H.265 DVR DS-7104HQHI-K1",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "USB 2.0 x 2"
+    },
+    {
+        "names": "Asustor AS6208T",
+        "rating": "",
+        "hon_price_min": "5,988",
+        "hon_price_max": "5,988",
+        "最大支援容量:": "64TB",
+        "硬碟介面:": "2.5\" / 3.5\" SATA II/ III or SSD"
+    },
+    {
+        "names": "DIGIEVER 9 CH 4-Bay Standalone NVR DS-4009",
+        "rating": "",
+        "hon_price_min": "5,820",
+        "hon_price_max": "5,820",
+        "最大支援容量:": "144TB",
+        "外部連接埠:": "1 x Gigabit RJ-45 Ethernet port",
+        "USB 裝置支援:": "3 x USB 2.0"
+    },
+    {
+        "names": "Hikvision 海康威視 HiWatch HWN-4208MH-8P",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,088",
+        "最大支援容量:": "6TB",
+        "USB 裝置支援:": "2"
+    },
+    {
+        "names": "Synology DiskStation DS3617xs",
+        "rating": "",
+        "hon_price_min": "18,497",
+        "hon_price_max": "20,559"
+    },
+    {
+        "names": "ViVoTek H.265 128-CH 16Bay NVR NR9782-v2",
+        "rating": "",
+        "hon_price_min": "71,700",
+        "hon_price_max": "71,700",
+        "可裝置硬碟數量:": "16",
+        "外部連接埠:": "HDMI x 1, Display Port x 1, DVI x 1",
+        "USB 裝置支援:": "前面板: USB 3.0 x 2, 後面板: USB 3.0 x 6, USB2.0 x 2"
+    },
+    {
+        "names": "DIGIEVER 25 CH 4K Ultra HD Hardware Decode Linux-embedded Video Decoder VD-0025",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "6,580",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 1, HDMI x 1/DVI-I x 1",
+        "USB 裝置支援:": "USB 3.0 x 2, USB 2.0 x 4"
+    },
+    {
+        "names": "Buffalo TeraStation 5410DN (HD-T541D)",
+        "rating": "",
+        "hon_price_min": "6,770",
+        "hon_price_max": "6,770",
+        "最大支援容量:": "32TB",
+        "Raid 支援:": "0 / 1 / 5 /6 / 10 / JBOD",
+        "外部連接埠:": "(10GBASE-T) x1 / (1000BASE-T) x2 / RJ-45",
+        "USB 裝置支援:": "2x USB3.0 / (10GBASE-T) x1 / (1000BASE-T) x2 / RJ-45"
+    },
+    {
+        "names": "Synology RS2416RP+",
+        "rating": "",
+        "hon_price_min": "19,280",
+        "hon_price_max": "19,280"
+    },
+    {
+        "names": "FOSCAM 8-Channel 5MP PoE NVR Kits 網路攝影機儲存系統套裝 FN8108HE x1 + D2EP x4",
+        "rating": "",
+        "hon_price_min": "2,720",
+        "hon_price_max": "2,720",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "外部連接埠:": "USB 2.0"
+    },
+    {
+        "names": "TerraMaster 4-Bay NAS F4-210",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "RJ-45 1GbE",
+        "USB 裝置支援:": "USB 3.0 x2",
+        "支援檔案分享制式:": "SAMBA/AFP/NFS/FTP/WebDAV"
+    },
+    {
+        "names": "DIGIEVER 12 CH 4-Bay Standalone NVR DS-4212 UHD",
+        "rating": "",
+        "hon_price_min": "11,870",
+        "hon_price_max": "11,870",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet x 2 (2.5G/1G/100M), HDMI 2.0 x 2",
+        "USB 裝置支援:": "USB 3.2 x 3"
+    },
+    {
+        "names": "Netgear RN10200",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,730",
+        "最大支援容量:": "8TB",
+        "外部連接埠:": "USB 2.0 x 1 / USB 3.0 x 2",
+        "USB 裝置支援:": "Flash / 硬碟"
+    },
+    {
+        "names": "Dahua 大華 4 Channel Penta-brid 5MP Compact 1U 1HDD WizSense Digital Video Recorder XVR5104HS-4KL-I3",
+        "rating": "",
+        "hon_price_min": "635",
+        "hon_price_max": "650",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "DIGIEVER 25 CH 4-Bay Standalone NVR DS-4225 UHD",
+        "rating": "",
+        "hon_price_min": "16,270",
+        "hon_price_max": "16,270",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet x 2 (2.5G/1G/100M), HDMI 2.0 x 2",
+        "USB 裝置支援:": "USB 3.2 x 3"
+    },
+    {
+        "names": "QNAP TS-531X-2G",
+        "rating": "",
+        "hon_price_min": "4,499",
+        "hon_price_max": "4,509",
+        "最大支援容量:": "50TB",
+        "Raid 支援:": "RAID 0/1/5/6/10, + hot spare, single, JBOD",
+        "外部連接埠:": "2 x 10 Gigabit SFP+ 網路埠, 2 x Gigabit RJ45 網路埠, 1 x PCIe Gen2 ( x2)",
+        "USB 裝置支援:": "3 x USB 3.0 埠"
+    },
+    {
+        "names": "ViVoTek H.265 8-CH Embedded PoE NVR ND9323P",
+        "rating": "",
+        "hon_price_min": "3,460",
+        "hon_price_max": "3,470",
+        "可裝置硬碟數量:": "2",
+        "USB 裝置支援:": "前面板：1 (USB 3.0), 後面板：1 (USB 2.0)",
+        "支援檔案分享制式:": "FAT 格式"
+    },
+    {
+        "names": "Asustor Drivestor 2 Pro 四核心 NAS AS3302T",
+        "rating": "8.0",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "最大支援容量:": "36TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1",
+        "外部連接埠:": "2.5 Gigabit Ethernet (2.5G/1G/100M) x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 3"
+    },
+    {
+        "names": "QNAP TAS-268 連 2TB HDD x 2",
+        "rating": "",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0,1"
+    },
+    {
+        "names": "Netgear RN626X",
+        "rating": "",
+        "hon_price_min": "11,330",
+        "hon_price_max": "14,300",
+        "可裝置硬碟數量:": "6"
+    },
+    {
+        "names": "DIGIEVER 56 CH 16-Bay Linux-embedded Standalone NVR DS-16356-RM Pro+",
+        "rating": "",
+        "hon_price_min": "72,370",
+        "hon_price_max": "72,370",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Synology DS115",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,330",
+        "最大支援容量:": "8TB",
+        "Raid 支援:": "NO",
+        "外部連接埠:": "USB X2 eSATA X1",
+        "USB 裝置支援:": "外接磁碟"
+    },
+    {
+        "names": "Netgear RN31600",
+        "rating": "",
+        "hon_price_min": "7,420",
+        "hon_price_max": "7,430",
+        "可裝置硬碟數量:": "6"
+    },
+    {
+        "names": "Dahua 大華 8路POE 單硬碟4K NVR (NVR4108HS-8P-4KS2)",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "980",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports (2 USB 2.0 )"
+    },
+    {
+        "names": "Buffalo TeraStation 3410RN 4bays 8TB",
+        "rating": "",
+        "hon_price_min": "7,030",
+        "hon_price_max": "7,060",
+        "最大支援容量:": "8TB",
+        "Raid 支援:": "JBOD, 0, 1, 5, 6, 10",
+        "外部連接埠:": "USB Type A, USB 3.0"
+    },
+    {
+        "names": "DIGIEVER 32 CH 4-Bay Standalone Rack-Mount NVR DS-4132-RM",
+        "rating": "",
+        "hon_price_min": "18,070",
+        "hon_price_max": "18,070",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, HDMI 1.4b x 1",
+        "USB 裝置支援:": "USB 3.0 x 4"
+    },
+    {
+        "names": "QNAP TS-569 Pro",
+        "rating": "",
+        "hon_price_min": "7,735",
+        "hon_price_max": "7,735",
+        "最大支援容量:": "15TB",
+        "外部連接埠:": "eSATA x2, USB2.0 x5, USB3.0 x2",
+        "USB 裝置支援:": "printer, WLAN, cam",
+        "支援檔案分享制式:": "NFS, SMB/ CIFS, AFP"
+    },
+    {
+        "names": "Synology DS213AIR",
+        "rating": "10",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550",
+        "最大支援容量:": "8TB",
+        "Raid 支援:": "Synology Hybrid RAID, basic, JBOD, RAID 0, RAID 1",
+        "外部連接埠:": "USB 3.0 x 2",
+        "USB 裝置支援:": "Flash / 硬碟"
+    },
+    {
+        "names": "ViVoTek H.265 2U 32-CH 8Bay NVR NR9581-v2",
+        "rating": "",
+        "hon_price_min": "42,420",
+        "hon_price_max": "42,430",
+        "可裝置硬碟數量:": "8",
+        "外部連接埠:": "HDMI x 1, Display Port x 1",
+        "USB 裝置支援:": "USB 3.0 Type- A x 3, USB 3.0 Type-C x 1"
+    },
+    {
+        "names": "Buffalo TeraStation 5410DN Deskstop 8TB",
+        "rating": "",
+        "hon_price_min": "6,770",
+        "hon_price_max": "6,770",
+        "最大支援容量:": "8TB",
+        "Raid 支援:": "JBOD, 0, 1, 5, 6, 10",
+        "外部連接埠:": "LAN, USB 3.0"
+    },
+    {
+        "names": "DIGIEVER 32 CH 4-Bay Standalone NVR DS-4232 UHD",
+        "rating": "",
+        "hon_price_min": "17,670",
+        "hon_price_max": "17,670",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet x 2 (2.5G/1G/100M), HDMI 2.0 x 2",
+        "USB 裝置支援:": "USB 3.2 x 3"
+    },
+    {
+        "names": "Buffalo TeraStation 5810DN Deskstop 4TB x8",
+        "rating": "",
+        "hon_price_min": "18,850",
+        "hon_price_max": "18,850",
+        "最大支援容量:": "32TB",
+        "Raid 支援:": "JBOD, 0, 1, 5, 6, 10",
+        "外部連接埠:": "LAN, USB 3.0"
+    },
+    {
+        "names": "Western Digital My Cloud Pro PR2100 16TB WDBBCL0160JBK",
+        "rating": "",
+        "hon_price_min": "6,860",
+        "hon_price_max": "6,860",
+        "最大支援容量:": "16TB",
+        "Raid 支援:": "0/1",
+        "外部連接埠:": "2 x Gigabit",
+        "USB 裝置支援:": "2 x USB3.0"
+    },
+    {
+        "names": "Ubiquiti Unifi Video Camera NVR",
+        "rating": "",
+        "hon_price_min": "2,690",
+        "hon_price_max": "3,100",
+        "water_price_min": "2,690",
+        "water_price_max": "2,690",
+        "外部連接埠:": "(1) 10/100/1000 Ethernet Port"
+    },
+    {
+        "names": "QNAP TS-332X-4G",
+        "rating": "",
+        "hon_price_min": "3,499",
+        "hon_price_max": "3,690",
+        "可裝置硬碟數量:": "3",
+        "硬碟介面:": "2280 SATA 6Gb/s"
+    },
+    {
+        "names": "DIGIEVER 36 CH 8-Bay Linux-embedded Standalone NVR DS-8236-RM Pro+",
+        "rating": "",
+        "hon_price_min": "34,470",
+        "hon_price_max": "34,470",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Hikvision 海康威視 4-ch 5 MP 1U H.265 AcuSense DVR iDS-7204HUHI-M1/S",
+        "rating": "",
+        "hon_price_min": "710",
+        "hon_price_max": "715",
+        "最大支援容量:": "10TB",
+        "USB 裝置支援:": "Front panel: 1 x USB 2.0, Rear panel: 1 x USB 2.0"
+    },
+    {
+        "names": "QNAP UX-500P",
+        "rating": "",
+        "hon_price_min": "3,509",
+        "hon_price_max": "3,509",
+        "最大支援容量:": "40TB",
+        "Raid 支援:": "0,1,5,6,10, JBOD",
+        "USB 裝置支援:": "USB3.0 x 3, USB2.0 x 2",
+        "支援檔案分享制式:": "CIFS,SMB,AFP,NFS,FTP,iSCSI,WebDAV"
+    },
+    {
+        "names": "Western Digital My Cloud EX2 8TB WDBVKW0080JCH NAS",
+        "rating": "10",
+        "hon_price_min": "3,337",
+        "hon_price_max": "3,337",
+        "最大支援容量:": "8TB",
+        "可裝置硬碟數量:": "2"
+    },
+    {
+        "names": "Synology DS1817+ (8GB)",
+        "rating": "",
+        "hon_price_min": "8,200",
+        "hon_price_max": "8,330",
+        "可裝置硬碟數量:": "8",
+        "外部連接埠:": "RJ-45 1GbE 網路孔 x4 / USB3.0 x 4  / eSATA x 2",
+        "USB 裝置支援:": "3.0"
+    },
+    {
+        "names": "QNAP TVS-473-8G",
+        "rating": "",
+        "hon_price_min": "8,750",
+        "hon_price_max": "8,780"
+    },
+    {
+        "names": "QNAP Intel Celeron J1900 四核心 2.0 NAS GHz TS-451+-2G",
+        "rating": "",
+        "hon_price_min": "3,260",
+        "hon_price_max": "3,799",
+        "可裝置硬碟數量:": "4",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP TS-EC1679U-RP",
+        "rating": "",
+        "hon_price_min": "45,000",
+        "hon_price_max": "45,000",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "eSATA x2, USB2.0 x5, USB3.0 x2",
+        "USB 裝置支援:": "printer, WLAN, cam",
+        "支援檔案分享制式:": "NFS, SMB/ CIFS, AFP"
+    },
+    {
+        "names": "ViVoTek H.265 16-CH Embedded PoE NVR ND9425P",
+        "rating": "",
+        "hon_price_min": "5,220",
+        "hon_price_max": "5,220",
+        "可裝置硬碟數量:": "2",
+        "USB 裝置支援:": "前面板：1 (USB 3.0), 後面板：1 (USB 2.0)",
+        "支援檔案分享制式:": "FAT 格式"
+    },
+    {
+        "names": "Synology RS3412RPxs",
+        "rating": "",
+        "hon_price_min": "31,500",
+        "hon_price_max": "31,500",
+        "最大支援容量:": "40TB",
+        "Raid 支援:": "Synology Hybrid RAID, basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 5+Spare, RAID 6, RAID 10",
+        "外部連接埠:": "USB 2.0連接埠 X 4, 擴充連接埠 X 2",
+        "USB 裝置支援:": "Flash / 硬碟"
+    },
+    {
+        "names": "Ezviz 螢石 Wireless NVR with HDMI & VGA Outputs X5S",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "899"
+    },
+    {
+        "names": "Synology RX1217sas",
+        "rating": "",
+        "hon_price_min": "20,758",
+        "hon_price_max": "22,310"
+    },
+    {
+        "names": "QNAP TS-451S",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,080",
+        "可裝置硬碟數量:": "4",
+        "USB 裝置支援:": "支援 USB 印表機、隨身碟及 USB UPS等。"
+    },
+    {
+        "names": "QNAP TVS-673-8G",
+        "rating": "",
+        "hon_price_min": "10,290",
+        "hon_price_max": "10,290"
+    },
+    {
+        "names": "Netgear RNDU2000",
+        "rating": "",
+        "hon_price_min": "2,460",
+        "hon_price_max": "2,465",
+        "最大支援容量:": "6TB",
+        "Raid 支援:": "0,1",
+        "外部連接埠:": "1 x USB 3.0 / 2 x USB 2.0"
+    },
+    {
+        "names": "Buffalo TeraStation 5810DN Deskstop 8TB x4",
+        "rating": "",
+        "hon_price_min": "19,235",
+        "hon_price_max": "19,235",
+        "最大支援容量:": "32TB",
+        "Raid 支援:": "JBOD, 0, 1, 5, 6, 10",
+        "外部連接埠:": "LAN, USB 3.0"
+    },
+    {
+        "names": "Buffalo TeraStation 5410RN Rackmount 1U 8TB",
+        "rating": "",
+        "hon_price_min": "9,180",
+        "hon_price_max": "9,180",
+        "最大支援容量:": "8TB"
+    },
+    {
+        "names": "DIGIEVER 16 CH 2-Bay Standalone NVR DS-2116 UHD",
+        "rating": "",
+        "hon_price_min": "8,370",
+        "hon_price_max": "8,370",
+        "最大支援容量:": "32TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, HDMI x 2 (HDMI 2.0 x 1, HDMI 1.4 x 1)",
+        "USB 裝置支援:": "USB 3.0 x 4 (Type A x 3, Type C x 1)"
+    },
+    {
+        "names": "FOSCAM FN7108HE POE",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,780",
+        "最大支援容量:": "4TB",
+        "可裝置硬碟數量:": "1"
+    },
+    {
+        "names": "Synology RS812+",
+        "rating": "",
+        "hon_price_min": "9,870",
+        "hon_price_max": "9,870",
+        "最大支援容量:": "16TB",
+        "Raid 支援:": "Synology Hybrid RAID, basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 5+Spare, RAID 6, RAID 10",
+        "外部連接埠:": "USB 2.0連接埠 X 2, eSATA連接埠 X 1",
+        "USB 裝置支援:": "Flash / 硬碟"
+    },
+    {
+        "names": "DIGIEVER 12 CH 2-Bay Standalone NVR DS-2112 UHD",
+        "rating": "",
+        "hon_price_min": "7,670",
+        "hon_price_max": "7,670",
+        "最大支援容量:": "32TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, HDMI x 2 (HDMI 2.0 x 1, HDMI 1.4 x 1)",
+        "USB 裝置支援:": "USB 3.0 x 4 (Type A x 3, Type C x 1)"
+    },
+    {
+        "names": "QNAP TS-832X-2G",
+        "rating": "",
+        "hon_price_min": "6,304",
+        "hon_price_max": "6,499",
+        "可裝置硬碟數量:": "8",
+        "外部連接埠:": "GbE Ports: 2 x GbE (RJ45), 2 x 10GbE (SFP+)"
+    },
+    {
+        "names": "QNAP TS-351-4G",
+        "rating": "",
+        "hon_price_min": "2,290",
+        "hon_price_max": "2,999",
+        "可裝置硬碟數量:": "3",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Synology DS415Play",
+        "rating": "6.0",
+        "hon_price_min": "4,149",
+        "hon_price_max": "4,149",
+        "最大支援容量:": "24TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0, 1, 5, 6, 10"
+    },
+    {
+        "names": "Western Digital My Cloud EX2 12TB WDBVBZ0120JCH NAS",
+        "rating": "",
+        "hon_price_min": "4,369",
+        "hon_price_max": "4,369",
+        "最大支援容量:": "12TB"
+    },
+    {
+        "names": "Synology RS815+",
+        "rating": "",
+        "hon_price_min": "7,380",
+        "hon_price_max": "7,380",
+        "最大支援容量:": "40TB",
+        "硬碟介面:": "2.5\" / 3.5\" SATA II/ III or SSD",
+        "Raid 支援:": "JBOD/RAID 0,1,5,6,10"
+    },
+    {
+        "names": "QNAP HS-210",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,300",
+        "可裝置硬碟數量:": "2",
+        "外部連接埠:": "USB",
+        "USB 裝置支援:": "硬碟"
+    },
+    {
+        "names": "DIGIEVER 16 CH 4-Bay Standalone Rack-Mount NVR DS-4116-RM",
+        "rating": "",
+        "hon_price_min": "14,970",
+        "hon_price_max": "14,970",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, HDMI 1.4b x 1",
+        "USB 裝置支援:": "USB 3.0 x 4"
+    },
+    {
+        "names": "Synology DS715",
+        "rating": "8.0",
+        "hon_price_min": "3,169",
+        "hon_price_max": "3,169",
+        "可裝置硬碟數量:": "2",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "G-Technology G-RAID USB 16TB GRADRU3AB160002BDB",
+        "rating": "",
+        "hon_price_min": "7,250",
+        "hon_price_max": "8,500"
+    },
+    {
+        "names": "Buffalo TeraStation 3410DN 4Bays 8TB",
+        "rating": "",
+        "hon_price_min": "5,120",
+        "hon_price_max": "5,130",
+        "最大支援容量:": "8TB",
+        "Raid 支援:": "JBOD, 0, 1, 5, 6, 10",
+        "外部連接埠:": "USB Type A, USB 3.0"
+    },
+    {
+        "names": "QNAP TS-269Pro",
+        "rating": "",
+        "最大支援容量:": "8TB",
+        "Raid 支援:": "0/1",
+        "外部連接埠:": "eSATA",
+        "USB 裝置支援:": "USB 3.0 Port X 2, USB 2.0 Port X 3"
+    },
+    {
+        "names": "QNAP TS-251C 連 4TB HDD X2",
+        "rating": "",
+        "可裝置硬碟數量:": "2",
+        "外部連接埠:": "Gigabit Lan, USB3.0",
+        "USB 裝置支援:": "HDD"
+    },
+    {
+        "names": "QNAP QNAP TVS-863+-8G",
+        "rating": "",
+        "hon_price_min": "12,799",
+        "hon_price_max": "12,799"
+    },
+    {
+        "names": "DIGIEVER 36 CH 2-Bay Linux-embedded Mobile NVR MN-2136 Pro+",
+        "rating": "",
+        "hon_price_min": "32,380",
+        "hon_price_max": "32,380",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 4, VGA x 1/ HDMI x 1 (for local display)",
+        "USB 裝置支援:": "4 x USB 2.0 for support pen drive, USB mouse, USB keyboard and USB UPS, etc."
+    },
+    {
+        "names": "Synology Expansion Unit RXD1219sas",
+        "rating": "",
+        "hon_price_min": "25,250",
+        "hon_price_max": "30,849",
+        "最大支援容量:": "192TB",
+        "Raid 支援:": "Yes"
+    },
+    {
+        "names": "DIGIEVER 25 CH 16-Bay Linux-embedded Standalone NVR  DS-16325-RM Pro+",
+        "rating": "",
+        "hon_price_min": "58,170",
+        "hon_price_max": "58,170",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP TS-653A-4G",
+        "rating": "",
+        "hon_price_min": "4,710",
+        "hon_price_max": "5,880",
+        "可裝置硬碟數量:": "6",
+        "Raid 支援:": "0,1, 5, 5 + hot spare, 6, 10, JBOD, Single"
+    },
+    {
+        "names": "DIGIEVER 36 CH 4-Bay Standalone NVR DS-4236 UHD",
+        "rating": "",
+        "hon_price_min": "18,970",
+        "hon_price_max": "18,970",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "2.5 Gigabit Ethernet x 2 (2.5G/1G/100M), HDMI 2.0 x 2",
+        "USB 裝置支援:": "USB 3.2 x 3"
+    },
+    {
+        "names": "QNAP TS-128",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "3.5\" SATA 6Gb/s, 3Gb/s HDDs"
+    },
+    {
+        "names": "Synology DS213j",
+        "rating": "7.4",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,570",
+        "最大支援容量:": "8TB",
+        "外部連接埠:": "USB2.0*2,GigaLan",
+        "USB 裝置支援:": "Storage, Printer, UPS",
+        "支援檔案分享制式:": "內接磁碟: EXT4, 外接磁碟: FAT32, NTFS, EXT3, EXT4, HFS+"
+    },
+    {
+        "names": "QNAP TS-563",
+        "rating": "8.0",
+        "hon_price_min": "4,909",
+        "hon_price_max": "4,909",
+        "可裝置硬碟數量:": "5",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "Buffalo TeraStation 5400D Desktop",
+        "rating": "",
+        "hon_price_min": "3,060",
+        "hon_price_max": "3,060"
+    },
+    {
+        "names": "Promise 4TB Apollo Cloud 個人雲端儲存空間",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,760",
+        "最大支援容量:": "4TB"
+    },
+    {
+        "names": "ZyXEL NAS-326",
+        "rating": "",
+        "hon_price_min": "1,012",
+        "hon_price_max": "1,059",
+        "最大支援容量:": "2TB",
+        "可裝置硬碟數量:": "2"
+    },
+    {
+        "names": "QNAP Intel Celeron J4125 四核心 2.0GHz NAS TS-853DU-RP-4G",
+        "rating": "",
+        "hon_price_min": "17,950",
+        "hon_price_max": "17,999",
+        "可裝置硬碟數量:": "8",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "FOSCAM 8-Channel 5MP PoE NVR Kits 網路攝影機儲存系統套裝 FN8108HE x1 + D2EP x8",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "4,780",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "外部連接埠:": "USB 2.0"
+    },
+    {
+        "names": "DIGIEVER 56 CH 8-Bay Linux-embedded Standalone NVR DS-8456-RM Pro+",
+        "rating": "",
+        "hon_price_min": "51,980",
+        "hon_price_max": "51,980",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP TS-869 Pro",
+        "rating": "",
+        "hon_price_min": "9,835",
+        "hon_price_max": "9,835",
+        "最大支援容量:": "24TB",
+        "外部連接埠:": "eSATA x2, USB2.0 x5, USB3.0 x2",
+        "USB 裝置支援:": "printer, WLAN, cam",
+        "支援檔案分享制式:": "NFS, SMB/ CIFS, AFP"
+    },
+    {
+        "names": "Dahua 大華 4 Channel Penta-brid 4K Mini 1U WizSense Digital Video Recorder XVR5104HE-4KL-I2",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "750",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "DIGIEVER 42 CH 16-Bay Linux-embedded Standalone NVR DS-16342-RM Pro+",
+        "rating": "",
+        "hon_price_min": "65,970",
+        "hon_price_max": "65,970",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "QNAP TS-459U-RP+",
+        "rating": "",
+        "hon_price_min": "11,435",
+        "hon_price_max": "11,435",
+        "可裝置硬碟數量:": "4",
+        "外部連接埠:": "5 x USB 2.0",
+        "USB 裝置支援:": "硬碟",
+        "支援檔案分享制式:": "CIFS/SMB, AFP (3.1), NFS, FTP, HTTP, HTTPS, Telnet, SSH, iSCSI and SNMP."
+    },
+    {
+        "names": "Hikvision 海康威視 8-ch 1080p H.265 DVR DS-7208HQHI-K2",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "799",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "Asustor AS6202T",
+        "rating": "",
+        "hon_price_min": "2,988",
+        "hon_price_max": "2,988",
+        "最大支援容量:": "16TB",
+        "硬碟介面:": "2.5\" / 3.5\" SATA 2/ 3 or SSD",
+        "USB 裝置支援:": "USB 3.0 x 3, USB2.0 x 2"
+    },
+    {
+        "names": "Synology DiskStation DS418play",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,530",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0/1/5/6/10"
+    },
+    {
+        "names": "QNAP 4 x 4 MU-MIMO 無線網路擴充卡 QWA-AC2600",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499"
+    },
+    {
+        "names": "Synology RX1217",
+        "rating": "",
+        "hon_price_min": "10,586",
+        "hon_price_max": "11,689"
+    },
+    {
+        "names": "AKITIO Cloud Hybrid",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "最大支援容量:": "3TB",
+        "外部連接埠:": "1 x RJ45",
+        "USB 裝置支援:": "USB 3.0"
+    },
+    {
+        "names": "Synology Network Video Recorder NVR1218",
+        "rating": "",
+        "hon_price_min": "1,897",
+        "hon_price_max": "1,996"
+    },
+    {
+        "names": "Dahua 大華 NVR4216-16P-4KS2",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,980"
+    },
+    {
+        "names": "Buffalo LinkStation 441DE (LS441DE)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,530",
+        "可裝置硬碟數量:": "4",
+        "Raid 支援:": "0, 1, 5,10,JBOD (Normal)",
+        "外部連接埠:": "RJ-45 (Auto MDIX), USB 2.0"
+    },
+    {
+        "names": "QNAP TS-431",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "最大支援容量:": "24TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0/1/5"
+    },
+    {
+        "names": "LaCie LC-355BN10T-301525",
+        "rating": "",
+        "最大支援容量:": "10TB",
+        "外部連接埠:": "2 x eSATA / 2 x USB",
+        "USB 裝置支援:": "Flash / Harddisk",
+        "支援檔案分享制式:": "FTP或HTTP"
+    },
+    {
+        "names": "DIGIEVER 42 CH 8-Bay Linux-embedded Standalone NVR DS-8342-RM Pro+",
+        "rating": "",
+        "hon_price_min": "40,480",
+        "hon_price_max": "40,480",
+        "最大支援容量:": "224TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "DIGIEVER 56 CH 16-Bay Linux-embedded Standalone NVR DS-16556-RM Pro+",
+        "rating": "",
+        "hon_price_min": "85,880",
+        "hon_price_max": "85,880",
+        "最大支援容量:": "384TB",
+        "外部連接埠:": "Gigabit RJ-45 Ethernet port x 2, VGA x 1/ HDMI x 1 (for local display)"
+    },
+    {
+        "names": "Netgear RN628X",
+        "rating": "",
+        "hon_price_min": "12,430",
+        "hon_price_max": "17,380"
+    },
+    {
+        "names": "Asustor Drivestor 4 Pro 四核心 NAS AS3304T",
+        "rating": "",
+        "hon_price_min": "2,799",
+        "hon_price_max": "2,799",
+        "最大支援容量:": "72TB",
+        "Raid 支援:": "Single disk, JBOD, RAID 0, RAID 1Single disk, JBOD, RAID 0, RAID 1, RAID 5, RAID 6, RAID 10",
+        "外部連接埠:": "2.5 Gigabit Ethernet (2.5G/1G/100M) x 1",
+        "USB 裝置支援:": "USB 3.2 Gen 1 x 3"
+    },
+    {
+        "names": "LaCie 2big Spare Hard Disk for 2big Thunderbolt 2 3TB",
+        "rating": "",
+        "最大支援容量:": "3TB"
+    },
+    {
+        "names": "G-Technology G-RAID 12TB GRARTH2AB120002BAB",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "6,950"
+    },
+    {
+        "names": "Synology DS1812+",
+        "rating": "10",
+        "hon_price_min": "8,420",
+        "hon_price_max": "8,420",
+        "最大支援容量:": "32TB",
+        "Raid 支援:": "Synology Hybrid RAID, Basic, JBOD, RAID 0, RAID 1, RAID 5, RAID 5+Spare, RAID 6, RAID 10",
+        "外部連接埠:": "USB 3.0 Port X 2, USB 2.0 Port X 4, eSATA Port X 2",
+        "USB 裝置支援:": "USB 3.0 Port X 2, USB 2.0 Port X 4"
+    },
+    {
+        "names": "Dahua 大華 4 Channel Penta-brid AI DVR XVR5104HS-I3",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "390",
+        "最大支援容量:": "6TB",
+        "硬碟介面:": "SATA",
+        "USB 裝置支援:": "2 USB Ports"
+    },
+    {
+        "names": "Level One Gemini 8-Ch PoE Network Video Recorder NVR-0508",
+        "rating": "",
+        "hon_price_min": "2,956",
+        "hon_price_max": "2,956",
+        "可裝置硬碟數量:": "2"
+    },
+    {
+        "names": "QNAP TVS-951X-2G",
+        "rating": "",
+        "hon_price_min": "5,700",
+        "hon_price_max": "5,729",
+        "硬碟介面:": "5個SATA 6Gbps/3Gbps , 2 個 2.5\" SSD",
+        "外部連接埠:": "1 x RJ45 , 1 x 10GBASE-T"
+    },
+    {
+        "names": "Western Digital My Cloud Mirror Gen 2 12TB WDBWVZ0120JWT",
+        "rating": "2.0",
+        "hon_price_min": "3,990",
+        "hon_price_max": "3,990",
+        "最大支援容量:": "12TB",
+        "硬碟介面:": "SATA",
+        "Raid 支援:": "0/1"
+    },
+    {
+        "names": "Synology RS217",
+        "rating": "",
+        "hon_price_min": "3,799",
+        "hon_price_max": "4,295",
+        "最大支援容量:": "10TB",
+        "硬碟介面:": "2.5\" / 3.5\" SATA II/ III or SSD",
+        "Raid 支援:": "JBOD/RAID0/RAID1"
+    },
+    {
+        "names": "Dahua 大華 16 Channel Penta-brid 5M-N/1080P Compact 1U 1HDD WizSense Digital Video Recorder XVR5116HS-I3",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "最大支援容量:": "16TB",
+        "硬碟介面:": "SATA"
+    },
+    {
+        "names": "QNAP TS-1679U-RP",
+        "rating": "",
+        "hon_price_min": "39,300",
+        "hon_price_max": "39,300",
+        "最大支援容量:": "64TB",
+        "外部連接埠:": "eSATA x2, USB2.0 x4, USB3.0 x2",
+        "USB 裝置支援:": "printer, WLAN, cam",
+        "支援檔案分享制式:": "NFS, SMB/ CIFS, AFP"
+    },
+    {
+        "names": "Western Digital My Cloud Expert Series EX2 Ultra 0TB WDBVBZ0000NCH",
+        "rating": "",
+        "water_price_min": "1,560",
+        "water_price_max": "1,560",
+        "可裝置硬碟數量:": "2",
+        "Raid 支援:": "0,1"
+    },
+    {
+        "names": "Synology DS209",
+        "rating": "10",
+        "最大支援容量:": "4TB",
+        "外部連接埠:": "USB 2.0 x 2 / Gigabit LAN",
+        "USB 裝置支援:": "印表機 / 硬碟",
+        "支援檔案分享制式:": "CIFS / ATP / FTP / NFS"
+    },
+    {
+        "names": "HP HPE StoreEver LTO-5 Ultrium 3000 SAS External Tape Drive (EH958B)",
+        "rating": "",
+        "hon_price_min": "18,580",
+        "hon_price_max": "18,588"
+    },
+    {
+        "names": "Level One GNS-1001",
+        "rating": "",
+        "hon_price_min": "635",
+        "hon_price_max": "635",
+        "可裝置硬碟數量:": "1",
+        "外部連接埠:": "LAN",
+        "USB 裝置支援:": "USB 2.0"
+    },
+    {
+        "names": "LaCie 2big NAS 6TB",
+        "rating": "",
+        "最大支援容量:": "6TB",
+        "外部連接埠:": "1 x eSATA ; 1 x USB 2.0"
+    },
+    {
+        "names": "Netgear RR3312",
+        "rating": "",
+        "hon_price_min": "21,990",
+        "hon_price_max": "21,990"
+    },
+    {
+        "names": "Synology RS2416+",
+        "rating": "",
+        "hon_price_min": "13,590",
+        "hon_price_max": "13,590",
+        "最大支援容量:": "120TB",
+        "硬碟介面:": "2.5\" / 3.5\" SATA II/ III or SSD",
+        "Raid 支援:": "JBOD/RAID 0,1,5,6,10"
+    }
+]

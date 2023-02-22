@@ -1,0 +1,1662 @@
+[
+    {
+        "names": "PAX Mobile Payment Terminal S90",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "處理器:": "32-bit ARM11",
+        "重量:": "0.485kg",
+        "尺寸:": "197 x 87 x 61.5mm"
+    },
+    {
+        "names": "GPD Pocket 3 (Intel i7-1195G7/16+1000GB)",
+        "rating": "",
+        "hon_price_min": "8,340",
+        "hon_price_max": "8,350",
+        "處理器:": "Intel i7-1195G7",
+        "硬碟:": "1000GB",
+        "重量:": "0.725kg",
+        "尺寸:": "198 x 137 x 20mm"
+    },
+    {
+        "names": "One-NetBook OnexPlayer Mini Pro 7吋 (2022) (R7-6800U, 32+2000GB SSD)",
+        "rating": "",
+        "hon_price_min": "10,250",
+        "hon_price_max": "10,750",
+        "處理器:": "AMD Ryzen 7 6800U",
+        "硬碟:": "2000GB",
+        "重量:": "0.599kg",
+        "尺寸:": "1260 x 106 x 23mm"
+    },
+    {
+        "names": "GPD Win Max",
+        "rating": "7.0",
+        "hon_price_min": "6,899",
+        "hon_price_max": "8,900",
+        "處理器:": "Intel i5-1035G7",
+        "硬碟:": "512GB",
+        "重量:": "0.79kg",
+        "尺寸:": "207 x 145 x 26mm"
+    },
+    {
+        "names": "GPD XP Plus (MediaTek Dimensity 1200, 6+256GB UFS 3.1)",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "3,599",
+        "處理器:": "MediaTek Dimensity 1200",
+        "硬碟:": "256GB",
+        "重量:": "0.37kg",
+        "尺寸:": "233 x 83 x 18mm"
+    },
+    {
+        "names": "GPD Micro PC (8+256GB)",
+        "rating": "10",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,783",
+        "處理器:": "M4120",
+        "硬碟:": "256GB",
+        "重量:": "0.44kg",
+        "尺寸:": "153 x 113 x 23.5mm"
+    },
+    {
+        "names": "GPD Pocket 3 (Intel Pentium Silver N6000/8+512GB)",
+        "rating": "",
+        "hon_price_min": "4,950",
+        "hon_price_max": "4,950",
+        "處理器:": "Intel Pentium Silver N6000",
+        "硬碟:": "512GB",
+        "重量:": "0.725kg",
+        "尺寸:": "198 x 137 x 20mm"
+    },
+    {
+        "names": "One-NetBook OnexPlayer 1S  8.4吋 (2021) (R7-5800U, 16+2000GB SSD)",
+        "rating": "10",
+        "hon_price_min": "8,350",
+        "hon_price_max": "8,350",
+        "處理器:": "AMD Ryzen 7 5800U",
+        "硬碟:": "2000GB",
+        "重量:": "0.619kg",
+        "尺寸:": "259 x 104.1 x 22.9mm"
+    },
+    {
+        "names": "GPD P2 MAX 高階版",
+        "rating": "7.0",
+        "hon_price_min": "5,998",
+        "hon_price_max": "5,998",
+        "處理器:": "INTEL Core M3-8100Y",
+        "硬碟:": "512GB",
+        "重量:": "1.095kg",
+        "尺寸:": "24.7 x 18.6 x 5.4 cm"
+    },
+    {
+        "names": "GPD Win Max 2021 (AMD Ryzen 7 4800U/16+1000GB)",
+        "rating": "",
+        "hon_price_min": "8,890",
+        "hon_price_max": "8,890",
+        "處理器:": "AMD Ryzen 7 4800U",
+        "硬碟:": "1000GB",
+        "重量:": "0.79kg",
+        "尺寸:": "207 x 145 x 26mm"
+    },
+    {
+        "names": "Zebra 移動無線數據採集器 MC330M-GL2HA2RW",
+        "rating": "",
+        "hon_price_min": "6,880",
+        "hon_price_max": "6,980",
+        "處理器:": "Qualcomm Snapdragon 660",
+        "記憶體:": "2GB",
+        "硬碟:": "16GB"
+    },
+    {
+        "names": "Aya Neo Next Pro (32GB+2TB) 版本",
+        "rating": "",
+        "處理器:": "AMD Ryzen 7 5825U",
+        "硬碟:": "SSD 2000GB",
+        "重量:": "0.72kg",
+        "尺寸:": "112 x 267 x 30mm"
+    },
+    {
+        "names": "Aya Neo AYANEO Next 2TB 版本",
+        "rating": "",
+        "處理器:": "AMD Ryzen 7 5825U",
+        "硬碟:": "SSD 2000GB",
+        "重量:": "0.72kg",
+        "尺寸:": "112 x 267 x 30mm"
+    },
+    {
+        "names": "Aya Neo Next 1TB 版本",
+        "rating": "",
+        "處理器:": "AMD Ryzen 7 5825U",
+        "硬碟:": "SSD 1000GB",
+        "重量:": "0.72kg",
+        "尺寸:": "112 x 267 x 30mm"
+    },
+    {
+        "names": "One-NetBook OnexPlayer Mini 7吋 (2021) (i7-1195G7, 16+1000GB SSD)",
+        "rating": "",
+        "處理器:": "Intel i7-1195G7",
+        "硬碟:": "1000GB",
+        "重量:": "0.589kg",
+        "尺寸:": "262 x 108 x 23 mm"
+    },
+    {
+        "names": "Lenovo Chromebook Duet (ZA6F0031US)",
+        "rating": "",
+        "water_price_min": "2,300",
+        "water_price_max": "2,300",
+        "處理器:": "MediaTek Helio P60T Processor",
+        "硬碟:": "64GB",
+        "重量:": "0.92kg",
+        "尺寸:": "244.87 x 169.31 x 18.2mm"
+    },
+    {
+        "names": "One-NetBook A1 Pro 7吋 (2022) (i5-1130G7, 16GB+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,700",
+        "hon_price_max": "6,700",
+        "處理器:": "Intel i5-1130G7",
+        "硬碟:": "512GB",
+        "重量:": "0.55kg",
+        "尺寸:": "173 x 136 x 19mm"
+    },
+    {
+        "names": "GPD P2 Max 2022 (Intel Pentium Silver N6000/16+1000GB)",
+        "rating": "",
+        "hon_price_min": "6,130",
+        "hon_price_max": "6,130",
+        "處理器:": "Intel Pentium Silver N6000",
+        "硬碟:": "1000GB",
+        "重量:": "0.65kg",
+        "尺寸:": "213 x 149.5 x 14.2mm"
+    },
+    {
+        "names": "Acer Chromebook 311 (CB311-9H-C0Z8)",
+        "rating": "10",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,399",
+        "water_price_min": "2,199",
+        "water_price_max": "2,199",
+        "處理器:": "Celeron N4000",
+        "顯示屏:": "11.6吋",
+        "記憶體:": "4GB"
+    },
+    {
+        "names": "One-NetBook OnexPlayer Mini Pro 7吋 (2022) (R7-6800U, 16+2000GB SSD)",
+        "rating": "",
+        "hon_price_min": "8,650",
+        "hon_price_max": "9,250",
+        "處理器:": "AMD Ryzen 7 6800U",
+        "硬碟:": "2000GB",
+        "重量:": "0.599kg",
+        "尺寸:": "1260 x 106 x 23mm"
+    },
+    {
+        "names": "One-NetBook OnexPlayer 1S 8.4吋 (i7-1195G7,16+2000GB)",
+        "rating": "",
+        "hon_price_min": "8,300",
+        "hon_price_max": "8,300",
+        "處理器:": "Intel i7-1195G7",
+        "記憶體:": "16GB",
+        "硬碟:": "2000GB"
+    },
+    {
+        "names": "Zebra Touch Mobile Computer TC26",
+        "rating": "",
+        "hon_price_min": "4,188",
+        "hon_price_max": "4,188",
+        "處理器:": "Qualcomm Snapdragon 660",
+        "記憶體:": "4GB",
+        "硬碟:": "64GB"
+    },
+    {
+        "names": "One-NetBook One Mix 4 迷你手提電腦 10.1吋 (i5-1130G7, 16GB+1000GB SSD)",
+        "rating": "",
+        "處理器:": "Intel i5-1130G7",
+        "硬碟:": "1000GB",
+        "重量:": "0.63kg",
+        "尺寸:": "227 x 157.3 x 11mm"
+    },
+    {
+        "names": "HP Stream 11-r005TU",
+        "rating": "8.0",
+        "hon_price_min": "1,870",
+        "hon_price_max": "1,870",
+        "處理器:": "Intel Celeron N3050",
+        "硬碟:": "eMMC 32GB",
+        "重量:": "1.18kg",
+        "尺寸:": "30 x 20.57 x 1.84 cm"
+    },
+    {
+        "names": "One-NetBook OnexPlayer Mini Pro 7吋 (2022) (R7-6800U, 16+1000GB SSD)",
+        "rating": "",
+        "hon_price_min": "7,900",
+        "hon_price_max": "8,350",
+        "處理器:": "AMD Ryzen 7 6800U",
+        "硬碟:": "1000GB",
+        "重量:": "0.599kg",
+        "尺寸:": "1260 x 106 x 23mm"
+    },
+    {
+        "names": "Lenovo IdeaPad S10-2",
+        "rating": "8.5",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,180",
+        "處理器:": "Intel Atom N280 1.66GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.2kg",
+        "尺寸:": "258 x 183 x 18mm"
+    },
+    {
+        "names": "GPD XP Plus (MediaTek Dimensity 1200, 6+128GB UFS 3.1)",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,400",
+        "處理器:": "MediaTek Dimensity 1200",
+        "硬碟:": "128GB",
+        "重量:": "0.37kg",
+        "尺寸:": "233 x 83 x 18mm"
+    },
+    {
+        "names": "Urovo Smart POS and Handheld Payment Terminal i9100",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "處理器:": "Quad-Core 1.3GHz",
+        "硬碟:": "8GB",
+        "重量:": "0.47kg",
+        "尺寸:": "188 x 81 x 35mm"
+    },
+    {
+        "names": "GPD XD PLUS 32GB",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,690",
+        "處理器:": "MT8176",
+        "硬碟:": "32GB",
+        "重量:": "0.3kg",
+        "尺寸:": "155 x 89 x 24 mm"
+    },
+    {
+        "names": "One-NetBook OnexPlayer 1S 8.4吋 (R5700U,16+2000GB)",
+        "rating": "",
+        "hon_price_min": "8,150",
+        "hon_price_max": "8,150",
+        "處理器:": "AMD Ryzen 5700U",
+        "記憶體:": "16GB",
+        "硬碟:": "2000GB"
+    },
+    {
+        "names": "iData 移動智能终端 i3",
+        "rating": "",
+        "hon_price_min": "2,020",
+        "hon_price_max": "2,020",
+        "處理器:": "Quad-core 2.0 GHz",
+        "硬碟:": "16GB",
+        "重量:": "0.185kg",
+        "尺寸:": "158 x 54 x 18.5mm"
+    },
+    {
+        "names": "Urovo 便攜式超高頻智能終端 DT50D",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500",
+        "處理器:": "ARM Cortex-A53 Octa-cores 1.4GHz",
+        "硬碟:": "16GB",
+        "重量:": "0.307kg",
+        "尺寸:": "162.8 x 76 x 13.6mm"
+    },
+    {
+        "names": "GPD XD 32GB",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "作業系統:": "Android",
+        "重量:": "0.325kg",
+        "尺寸:": "155 x 89 x 24mm"
+    },
+    {
+        "names": "One-NetBook OnexPlayer 1S 8.4吋 (2021) (i7-1195G7, 16+1000GB SSD)",
+        "rating": "",
+        "處理器:": "Intel i7-1195G7",
+        "硬碟:": "1000GB",
+        "重量:": "0.819kg",
+        "尺寸:": "288 x 130 x 21mm"
+    },
+    {
+        "names": "GPD Win2",
+        "rating": "",
+        "hon_price_min": "4,490",
+        "hon_price_max": "5,390",
+        "處理器:": "Intel Core m3-7y30",
+        "硬碟:": "256GB",
+        "重量:": "0.460kg",
+        "尺寸:": "162 x 99 x 25mm"
+    },
+    {
+        "names": "Lenovo TAB-YB1-X90F-ZA0V0004HK (金色)",
+        "rating": "",
+        "hon_price_min": "3,698",
+        "hon_price_max": "3,698",
+        "處理器:": "Intel Atom x5-Z8550",
+        "硬碟:": "64GB",
+        "重量:": "690kg",
+        "尺寸:": "257 x 171 x 9.6mm"
+    },
+    {
+        "names": "Fujitsu M2010",
+        "rating": "8.7",
+        "hon_price_min": "3,850",
+        "hon_price_max": "3,850",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.15kg",
+        "尺寸:": "258 x 289 x 32mm"
+    },
+    {
+        "names": "Sunmi V2 Pro 無線數據終端（帶4G功能）",
+        "rating": "",
+        "hon_price_min": "2,230",
+        "hon_price_max": "2,230",
+        "處理器:": "Qualcomm Snapdragon Quad-core 1.4GHz CPU",
+        "記憶體:": "1GB",
+        "硬碟:": "8GB",
+        "光碟機:": "Build in 1D Barcode Scanner"
+    },
+    {
+        "names": "Dell Inspiron Mini 9",
+        "rating": "10",
+        "hon_price_min": "2,260",
+        "hon_price_max": "2,260",
+        "處理器:": "Intel Atom N270",
+        "記憶體:": "1GB",
+        "重量:": "1kg",
+        "尺寸:": "31.7 x 232 x 172mm"
+    },
+    {
+        "names": "CipherLab BC-AC31",
+        "rating": "",
+        "hon_price_min": "5,590",
+        "hon_price_max": "5,590",
+        "處理器:": "Cortex A53 Quad-core 1.3GHz",
+        "記憶體:": "2GB",
+        "硬碟:": "16GB"
+    },
+    {
+        "names": "Toshiba 東芝 Smartbook AC100",
+        "rating": "9.5",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "處理器:": "nVIDIA Tegra 250 Mobile Processor 1.0GHz",
+        "硬碟:": "16GB",
+        "重量:": "0.87kg",
+        "尺寸:": "262 x 189.8 x 12mm"
+    },
+    {
+        "names": "Sony VAIO VPCP116KG",
+        "rating": "10",
+        "hon_price_min": "8,980",
+        "hon_price_max": "8,980",
+        "處理器:": "Intel Atom Z540 1.86GHz",
+        "硬碟:": "Flash Memory 128GB",
+        "重量:": "0.646kg",
+        "尺寸:": "245 x 19.8 x 120mm"
+    },
+    {
+        "names": "GPD P2 MAX 低階版",
+        "rating": "",
+        "hon_price_min": "4,998",
+        "hon_price_max": "4,998",
+        "處理器:": "Celeron 3965Y",
+        "硬碟:": "256GB",
+        "光碟機:": "沒",
+        "重量:": "1.095kg",
+        "尺寸:": "24.7 x 18.6 x 5.4 cm"
+    },
+    {
+        "names": "One-NetBook One Mix 4 Platinum 迷你手提電腦 10.1吋 (i7-1160G7, 16GB+1000GB SSD)",
+        "rating": "",
+        "處理器:": "Intel i7-1160G7",
+        "硬碟:": "1000GB",
+        "重量:": "0.63kg",
+        "尺寸:": "227 x 157.3 x 11mm"
+    },
+    {
+        "names": "Acer Aspire One 532h",
+        "rating": "7.5",
+        "water_price_min": "2,100",
+        "water_price_max": "2,100",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.3kg",
+        "尺寸:": "258.5 x 185 x 25.2mm"
+    },
+    {
+        "names": "CipherLab Android Mobile Computer RK25",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "6,900",
+        "作業系統:": "Android 7.1.2",
+        "記憶體:": "2GB",
+        "硬碟:": "16GB"
+    },
+    {
+        "names": "GPD Pocket 2 (Intel Celeron 3965Y)",
+        "rating": "",
+        "hon_price_min": "4,299",
+        "hon_price_max": "4,299",
+        "處理器:": "Intel Celeron 3965Y",
+        "硬碟:": "128GB",
+        "重量:": "0.515kg",
+        "尺寸:": "181 x 113 x 14mm"
+    },
+    {
+        "names": "Samsung 三星 N150 plus",
+        "rating": "9.5",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB",
+        "重量:": "1.24kg"
+    },
+    {
+        "names": "Lenovo Yoga Book (YB1-X90F) ZA150174HK",
+        "rating": "10",
+        "處理器:": "Intel X5-Z8550",
+        "記憶體:": "4GB",
+        "硬碟:": "eMMC 128GB"
+    },
+    {
+        "names": "GPD  XD 64GB",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "處理器:": "ARM Cortex-A17 core",
+        "顯示屏:": "5.5吋",
+        "硬碟:": "64GB"
+    },
+    {
+        "names": "Samsung 三星 N145 Plus",
+        "rating": "8.0",
+        "hon_price_min": "1,900",
+        "hon_price_max": "1,900",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB"
+    },
+    {
+        "names": "Lenovo IdeaPad S10-3 N455",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "處理器:": "Intel Atom N455 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "ASUS X202E-CT333H",
+        "rating": "",
+        "處理器:": "Intel 1007u",
+        "硬碟:": "500GB",
+        "重量:": "1.4kg",
+        "尺寸:": "30.3 x 2.17 x 20 cm"
+    },
+    {
+        "names": "Samsung 三星 NC10",
+        "rating": "8.9",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.33kg",
+        "尺寸:": "262 x 185 x 31mm"
+    },
+    {
+        "names": "Acer E3-111 N2830 4G",
+        "rating": "",
+        "處理器:": "Atom N2830",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "GPD Pocket 2 (Intel x7-8750)",
+        "rating": "",
+        "hon_price_min": "4,998",
+        "hon_price_max": "4,998",
+        "處理器:": "Intel x7-8750",
+        "硬碟:": "128GB",
+        "重量:": "0.465kg",
+        "尺寸:": "181 x 113 x 14mm"
+    },
+    {
+        "names": "Acer C7",
+        "rating": "6.0",
+        "處理器:": "Intel 847 1.1G Dual Core",
+        "硬碟:": "320GB",
+        "重量:": "1.38kg",
+        "尺寸:": "1.1x11.2x8吋"
+    },
+    {
+        "names": "Acer TM8172-6643",
+        "rating": "",
+        "處理器:": "Intel Core i3-380UM",
+        "記憶體:": "4GB",
+        "硬碟:": "320GB",
+        "重量:": "1.48kg"
+    },
+    {
+        "names": "Acer Aspire AO Happy",
+        "rating": "8.0",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "處理器:": "Intel Atom N550",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.35kg"
+    },
+    {
+        "names": "ASUS Eee PC 1015PX",
+        "rating": "",
+        "處理器:": "Intel Atom Dual Core N570",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Acer AO725",
+        "rating": "6.0",
+        "處理器:": "AMD C-60",
+        "記憶體:": "2GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Acer AOD257-N57DQBB",
+        "rating": "6.0",
+        "處理器:": "Intel Atom DualCore N570 1.6GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.3kg",
+        "尺寸:": "256.5 (W) x 184 (D) x 24.7 (H) mm"
+    },
+    {
+        "names": "MSI U250 Linux",
+        "rating": "",
+        "處理器:": "AMD Athlon II Neo Processor K125 1.70GHz",
+        "硬碟:": "320GB",
+        "重量:": "1.3kg",
+        "尺寸:": "29.7cm x 19.0cm x 2.4-3.1cm"
+    },
+    {
+        "names": "Acer AOA 150",
+        "rating": "7.9",
+        "water_price_min": "1,800",
+        "water_price_max": "1,800",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "硬碟:": "160GB",
+        "重量:": "0.99kg",
+        "尺寸:": "249 x 195 x 36mm"
+    },
+    {
+        "names": "Lenovo IdeaPad S10-3t",
+        "rating": "8.4",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "2GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "Acer Aspire One AOD270",
+        "rating": "9.0",
+        "處理器:": "Intel N2600",
+        "記憶體:": "1GB",
+        "硬碟:": "320GB"
+    },
+    {
+        "names": "Lenovo TAB-YB1-X90L-ZA0W0049HK (金色, Wifi/LTE)",
+        "rating": "",
+        "hon_price_min": "4,438",
+        "hon_price_max": "4,438",
+        "處理器:": "Intel Atom x5-Z8550",
+        "硬碟:": "64GB",
+        "重量:": "690kg",
+        "尺寸:": "257 x 171 x 9.6mm"
+    },
+    {
+        "names": "Lenovo IdeaPad S10",
+        "rating": "8.0",
+        "hon_price_min": "1,790",
+        "hon_price_max": "1,790",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "硬碟:": "80GB",
+        "重量:": "1.25kg",
+        "尺寸:": "250.2 x 183 x 22mm"
+    },
+    {
+        "names": "Mobin M.5x",
+        "rating": "8.0",
+        "hon_price_min": "1,700",
+        "hon_price_max": "1,700",
+        "處理器:": "Intel Atom N450 1.66 GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.1kg",
+        "尺寸:": "258mmx185mmx14-25.5mm"
+    },
+    {
+        "names": "Samsung 三星 N210",
+        "rating": "",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.34kg",
+        "尺寸:": "265 x 188.9 x 26.0mm"
+    },
+    {
+        "names": "Acer AS1410-232G25n",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "處理器:": "Intel Celeron SU2300 1.2GHz",
+        "記憶體:": "2GB",
+        "硬碟:": "250GB",
+        "重量:": "1.40kg"
+    },
+    {
+        "names": "Lenovo IdeaPad S10-3s",
+        "rating": "9.1",
+        "處理器:": "Intel Atom N470 1.83GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.25kg",
+        "尺寸:": "270 x 168 x 16mm"
+    },
+    {
+        "names": "Sony VPCW126AG",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "處理器:": "Intel Atom N280 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.19kg",
+        "尺寸:": "267.8 x 27.5 x 179.6mm"
+    },
+    {
+        "names": "Acer Chromebook 11 C740-C5U9",
+        "rating": "6.0",
+        "處理器:": "Intel 3205U",
+        "硬碟:": "16G FlashGB",
+        "重量:": "1.3kg",
+        "尺寸:": "20.1mmx288mmx204mm"
+    },
+    {
+        "names": "MSI Wind U135",
+        "rating": "8.7",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.3kg",
+        "尺寸:": "260 x 180 x 19mm"
+    },
+    {
+        "names": "Samsung 三星 N510",
+        "rating": "9.3",
+        "處理器:": "Intel® ATOM™ Processor N280 (1.66GHz, 667MHz, 512KB)",
+        "硬碟:": "160GB",
+        "重量:": "1.41kg",
+        "尺寸:": "289 x 199.5 x 26.5mm"
+    },
+    {
+        "names": "Lenovo IdeaPad 100s-11IBY (63HH)",
+        "rating": "",
+        "處理器:": "Atom Z3735F",
+        "記憶體:": "2GB",
+        "硬碟:": "Emmc 32GB"
+    },
+    {
+        "names": "Nokia Booklet 3G",
+        "rating": "8.8",
+        "處理器:": "Intel Atom Z530 1.6GHz",
+        "硬碟:": "120GB",
+        "重量:": "1.25kg",
+        "尺寸:": "264 x 185 x 19.9mm"
+    },
+    {
+        "names": "GPD Pocket",
+        "rating": "10",
+        "處理器:": "Intel Atom x7-z8750",
+        "硬碟:": "128GB",
+        "重量:": "0.48kg",
+        "尺寸:": "180 x 106 x 18.5mm"
+    },
+    {
+        "names": "Acer V5-171 i5-3317 Win8",
+        "rating": "",
+        "處理器:": "Intel Core i5-3317",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "ASUS Chromebook Flip Touchscreen C100PA",
+        "rating": "8.0",
+        "處理器:": "Rockchip Quad-Core RK3288C 1.8 GHz",
+        "硬碟:": "16 eMMCGB",
+        "重量:": "0.89kg",
+        "尺寸:": "262.8 x 182.4 x 15.6 mm (WxDxH)"
+    },
+    {
+        "names": "HP 1109TU",
+        "rating": "8.0",
+        "hon_price_min": "2,999",
+        "hon_price_max": "2,999",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "硬碟:": "80GB",
+        "重量:": "1.1kg",
+        "尺寸:": "262 x 167 x 25mm"
+    },
+    {
+        "names": "Sony VAIO VGN-P13GH",
+        "rating": "6.0",
+        "處理器:": "Intel Atom Processor Z520 1.33 GHz",
+        "硬碟:": "60GB",
+        "重量:": "0.620kg",
+        "尺寸:": "245 x 19.8 x 120mm"
+    },
+    {
+        "names": "MSI Wind U160",
+        "rating": "",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "Fujitsu M1010",
+        "rating": "6.0",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "硬碟:": "60GB",
+        "重量:": "1kg",
+        "尺寸:": "232.4 x 175 x 29mm"
+    },
+    {
+        "names": "Acer AO756",
+        "rating": "",
+        "處理器:": "Intel ULV967B",
+        "硬碟:": "500GB",
+        "重量:": "1.35kg",
+        "尺寸:": "285 (w) x 202 (D) x 25.9 mm"
+    },
+    {
+        "names": "Mobin m.5",
+        "rating": "8.7",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "處理器:": "Intel Atom N450",
+        "硬碟:": "160GB",
+        "重量:": "0.99kg",
+        "尺寸:": "258 x 185 x 14mm"
+    },
+    {
+        "names": "Samsung 三星 N135",
+        "rating": "9.4",
+        "處理器:": "Intel Atom N280 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Sony VAIO VPCP115KG",
+        "rating": "10",
+        "hon_price_min": "6,980",
+        "hon_price_max": "6,980",
+        "處理器:": "Intel Atom Z540 1.86GHz",
+        "硬碟:": "SSD 64GB",
+        "重量:": "0.618kg",
+        "尺寸:": "245 x 19.8 x 120mm"
+    },
+    {
+        "names": "Acer V3-371 i5-4210u",
+        "rating": "",
+        "處理器:": "Intel Core i5-4210u",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "BenQ Lite U105",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.05kg",
+        "尺寸:": "260(寬) x 186(深) x 18.5(前高)~26(後高) mm"
+    },
+    {
+        "names": "HP Pavilion 10-e009AU",
+        "rating": "",
+        "處理器:": "AMD Dual-Core A4-1200",
+        "記憶體:": "2GB",
+        "硬碟:": "500GB",
+        "重量:": "1.45kg"
+    },
+    {
+        "names": "Acer Timeline 1810T",
+        "rating": "9.5",
+        "hon_price_min": "3,450",
+        "hon_price_max": "3,450",
+        "處理器:": "Intel Core 2 Solo SU3500 1.4GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.35kg",
+        "尺寸:": "285 x 204 x 22.1mm"
+    },
+    {
+        "names": "Fujitsu LifeBook MH380",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.16kg",
+        "尺寸:": "270 x 189 x 34.3mm"
+    },
+    {
+        "names": "MSI U250",
+        "rating": "",
+        "hon_price_min": "3,098",
+        "hon_price_max": "3,098",
+        "處理器:": "AMD K325",
+        "記憶體:": "2GB",
+        "硬碟:": "320GB"
+    },
+    {
+        "names": "Fujitsu PH521UC",
+        "rating": "",
+        "處理器:": "AMD E450",
+        "記憶體:": "4GB",
+        "硬碟:": "320GB"
+    },
+    {
+        "names": "Acer V5-171 i3-2375",
+        "rating": "",
+        "處理器:": "Intel Core i3-2375",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "ASUS 1015CX",
+        "rating": "",
+        "hon_price_min": "2,288",
+        "hon_price_max": "2,288",
+        "處理器:": "Intel Atom N2600",
+        "記憶體:": "1GB",
+        "硬碟:": "320GB",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Acer AOD255 N570",
+        "rating": "7.0",
+        "處理器:": "Intel Atom N570 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.25kg",
+        "尺寸:": "2.41 x 25.83 x 18.49cm"
+    },
+    {
+        "names": "Acer TMB-113-E-2657",
+        "rating": "",
+        "處理器:": "Intel 1007",
+        "記憶體:": "4GB",
+        "硬碟:": "320GB",
+        "重量:": "138kg"
+    },
+    {
+        "names": "Acer AO756-B847X",
+        "rating": "",
+        "處理器:": "Intel B847",
+        "記憶體:": "2GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Acer V5-561PG-6819 TOUCH",
+        "rating": "",
+        "處理器:": "I5-4200U",
+        "記憶體:": "8GB",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP Mini 110-3542TU",
+        "rating": "",
+        "處理器:": "Intel Atom N550 1.5GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.55kg"
+    },
+    {
+        "names": "Samsung 三星 N120",
+        "rating": "9.0",
+        "處理器:": "Intel Atom N280 1.66GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.28kg",
+        "尺寸:": "272 x 188.5 x 29.8mm"
+    },
+    {
+        "names": "Fujitsu MH380",
+        "rating": "10",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "2GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "LG 樂金 X200",
+        "rating": "10",
+        "hon_price_min": "3,998",
+        "hon_price_max": "3,998",
+        "處理器:": "Intel Atom N470 1.83GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.34kg"
+    },
+    {
+        "names": "MSI U230 Wind12",
+        "rating": "8.0",
+        "處理器:": "AMD Yukon MV40 1.6G",
+        "硬碟:": "160GB",
+        "重量:": "1.4kg",
+        "尺寸:": "297 x 190 x 32.6mm"
+    },
+    {
+        "names": "Acer Switch 10e Z3735",
+        "rating": "",
+        "處理器:": "Intel Z3735",
+        "記憶體:": "2GB",
+        "硬碟:": "SSD 64GB + HDD 1000GB"
+    },
+    {
+        "names": "HP Mini 110",
+        "rating": "7.8",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,590",
+        "處理器:": "Intel Atom N280 1.66GHz",
+        "硬碟:": "160 - 250GB",
+        "重量:": "1.06kg",
+        "尺寸:": "261.6 x 168 x 30.5mm"
+    },
+    {
+        "names": "Acer AO721",
+        "rating": "10",
+        "處理器:": "AMD Athlon II Neo K125 1.7GHz",
+        "記憶體:": "2GB",
+        "硬碟:": "320GB",
+        "重量:": "1.32kg"
+    },
+    {
+        "names": "Acer V5-123-3883",
+        "rating": "8.0",
+        "處理器:": "AMD E1-2100 2core",
+        "硬碟:": "320GB",
+        "重量:": "1.2kg",
+        "尺寸:": "2.7x20.2x28.5cm"
+    },
+    {
+        "names": "Olevia X12V",
+        "rating": "9.8",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480",
+        "處理器:": "VIA Nano ULV 2250 1.3GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.45kg",
+        "尺寸:": "288 x 227 x 22.4mm"
+    },
+    {
+        "names": "Acer V3-111P N3530",
+        "rating": "4.0",
+        "處理器:": "Atom N3530",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "LG 樂金 X140",
+        "rating": "9.3",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,750",
+        "處理器:": "Intel Atom N470",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.19kg"
+    },
+    {
+        "names": "Acer ES1-131 N3150",
+        "rating": "",
+        "處理器:": "Intel N3150",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Lenovo S10-3 N550 CPU DDR3 RAM",
+        "rating": "8.4",
+        "處理器:": "Intel Atom N550 1.5GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.34kg"
+    },
+    {
+        "names": "Olevia X101",
+        "rating": "8.8",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "處理器:": "Intel Atom N280 1.66GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.1kg",
+        "尺寸:": "260 x 190 x 187mm"
+    },
+    {
+        "names": "GPD Win",
+        "rating": "",
+        "作業系統:": "Windows 10",
+        "硬碟:": "64 eMMCGB",
+        "重量:": "0.365kg",
+        "尺寸:": "15.5 x 9.7 x 2.3cm"
+    },
+    {
+        "names": "MSI Wind U130",
+        "rating": "8.0",
+        "處理器:": "Intel Atom N450",
+        "硬碟:": "160GB",
+        "重量:": "1.2kg",
+        "尺寸:": "260 x 180 x 19mm"
+    },
+    {
+        "names": "HP Mini 210",
+        "rating": "8.6",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB"
+    },
+    {
+        "names": "Gateway LT20-3G",
+        "rating": "7.0",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB",
+        "重量:": "1.38kg"
+    },
+    {
+        "names": "HP Mini 5103 - XW033PA",
+        "rating": "",
+        "處理器:": "Intel Atom N550",
+        "硬碟:": "250GB",
+        "重量:": "1.2kg",
+        "尺寸:": "26.2 x 18.0 x 2.3 cm"
+    },
+    {
+        "names": "Acer Aspire 1825PTZ",
+        "rating": "9.0",
+        "處理器:": "Intel Pentium Dual Core SU4100 1.3GHz",
+        "記憶體:": "2GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "HP Mini 210 Vivienne Tam Edition",
+        "rating": "10",
+        "處理器:": "Intel Atom N470 1.83GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.22kg",
+        "尺寸:": "268 x 178 x 22.9mm"
+    },
+    {
+        "names": "Olevia P12",
+        "rating": "8.7",
+        "hon_price_min": "3,499",
+        "hon_price_max": "3,499",
+        "處理器:": "Intel Dual Core T4200 2GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "HP Stream 11-r010nr",
+        "rating": "",
+        "處理器:": "Intel Celeron N3050",
+        "硬碟:": "eMMC 32GB",
+        "重量:": "1.18kg",
+        "尺寸:": "30 x 20.6 x 1.83 cm"
+    },
+    {
+        "names": "Lenovo S210-59384150",
+        "rating": "8.0",
+        "處理器:": "Intel Celeron 1007U",
+        "記憶體:": "2GB",
+        "硬碟:": "320GB",
+        "重量:": "1.32kg"
+    },
+    {
+        "names": "Acer V5-132-10192G50nss",
+        "rating": "",
+        "處理器:": "Intel Celeron 1019Y",
+        "記憶體:": "2GB",
+        "硬碟:": "500GB",
+        "重量:": "1.25kg"
+    },
+    {
+        "names": "Lenovo S110 59-32427x",
+        "rating": "10",
+        "處理器:": "Intel Atom N2600",
+        "記憶體:": "1GB",
+        "硬碟:": "320GB"
+    },
+    {
+        "names": "Toshiba 東芝 Libretto W100",
+        "rating": "8.0",
+        "處理器:": "Intel Pentium U5400",
+        "硬碟:": "SSD 62GB",
+        "重量:": "0.699kg",
+        "尺寸:": "202 x 123 x 25.4mm"
+    },
+    {
+        "names": "Samsung 三星 NC110-A06",
+        "rating": "",
+        "處理器:": "Intel Atom Dau Core N570 1.5GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.19kg"
+    },
+    {
+        "names": "Acer C720P-2600",
+        "rating": "",
+        "處理器:": "Intel 2955U",
+        "記憶體:": "2GB",
+        "硬碟:": "32 SSDGB",
+        "重量:": "1.27kg"
+    },
+    {
+        "names": "Lenovo IdeaPad 100s-11iby",
+        "rating": "2.0",
+        "處理器:": "Intel Atom Z3735F ( 1.33GHz 1333MHz 2MB)",
+        "記憶體:": "2GB",
+        "硬碟:": "32GB",
+        "重量:": "重量由 1 公斤 (2.2 磅)kg"
+    },
+    {
+        "names": "Lenovo S100",
+        "rating": "",
+        "hon_price_min": "1,998",
+        "hon_price_max": "1,998",
+        "處理器:": "Intel Atom 455",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "GPD Pocket 2 8100Y (8+256gb)",
+        "rating": "",
+        "處理器:": "Intel Core m3 8100Y",
+        "硬碟:": "256GB",
+        "重量:": "0.515kg",
+        "尺寸:": "181 x 113 x 14 mm"
+    },
+    {
+        "names": "Acer V5-171 i5-3317",
+        "rating": "7.7",
+        "處理器:": "Intel Core i5-3317",
+        "記憶體:": "8GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Acer C710-2615",
+        "rating": "",
+        "處理器:": "Intel 1007",
+        "硬碟:": "SSD 16GB",
+        "重量:": "1.38kg",
+        "尺寸:": "1.1x11.2x8\""
+    },
+    {
+        "names": "Lenovo S100 1G 250GB",
+        "rating": "",
+        "處理器:": "Intel Atom N455 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "ASUS X102BA-DF007H",
+        "rating": "6.0",
+        "處理器:": "AMD Temash A4-1200 1.0GHz (dual-core)",
+        "硬碟:": "HDD 500GB",
+        "重量:": "1.1kg",
+        "尺寸:": "26.6cm x 18.5cm x 2.3cm"
+    },
+    {
+        "names": "Acer C720-2832",
+        "rating": "",
+        "處理器:": "Intel 2955U",
+        "記憶體:": "2GB",
+        "硬碟:": "32g SSDGB",
+        "重量:": "1.27kg"
+    },
+    {
+        "names": "Samsung 三星 NC110-P03",
+        "rating": "",
+        "處理器:": "Intel Atom N2600 1.6GHz",
+        "硬碟:": "320GB",
+        "重量:": "1.17kg",
+        "尺寸:": "259 x 179.5 x 25.3 ~ 33.7mm"
+    },
+    {
+        "names": "Lenovo S206 P2117",
+        "rating": "",
+        "處理器:": "Intel P2117",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Acer AOD255-2BQCC",
+        "rating": "8.7",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "160GB",
+        "重量:": "1.25kg",
+        "尺寸:": "258.5 (W) x 185 (D) x 24 (H) mm"
+    },
+    {
+        "names": "Acer V3-371 i3-4030u",
+        "rating": "10",
+        "處理器:": "Intel Core i3-4030u",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Samsung 三星 NF310",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,880",
+        "處理器:": "Intel Atom N550 1.5 Dual Core",
+        "硬碟:": "250GB",
+        "重量:": "1.3kg",
+        "尺寸:": "275 x 187.5 x 25.3 ~ 30.9mm"
+    },
+    {
+        "names": "ASUS X205TA",
+        "rating": "7.2",
+        "處理器:": "Intel Bay Trail-T Quad Core Z3735 1.33 GHz",
+        "硬碟:": "64GB",
+        "重量:": "0.98kg",
+        "尺寸:": "286 x 193.3 x 17.5 mm (WxDxH)"
+    },
+    {
+        "names": "Lenovo S206 E2-1800",
+        "rating": "",
+        "處理器:": "AMD E2-1800 Accelerated 處理器 1.7GHz",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "HP Mini 110-3631TU",
+        "rating": "8.0",
+        "處理器:": "Intel Atom N570",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "Acer V3-111P-C0T9",
+        "rating": "10",
+        "處理器:": "Intel N2930 (4 Core)",
+        "硬碟:": "500GB",
+        "光碟機:": "無",
+        "重量:": "1.39kg",
+        "尺寸:": "21.7mmx291mmx211mm"
+    },
+    {
+        "names": "GPD Micro PC",
+        "rating": "",
+        "作業系統:": "Windows 10 pro 64bit",
+        "硬碟:": "128GB",
+        "重量:": "0.44kg",
+        "尺寸:": "153 x 113 x 23.5"
+    },
+    {
+        "names": "Samsung 三星 NC110-P02",
+        "rating": "",
+        "處理器:": "Intel Atom N2600 1.6GHz",
+        "硬碟:": "320GB",
+        "重量:": "1.17kg",
+        "尺寸:": "259 x 179.5 x 25.3 ~ 33.7mm"
+    },
+    {
+        "names": "Acer Travel Mate B113-M-6697",
+        "rating": "",
+        "處理器:": "Intel Core i5-3317 1.7G",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB",
+        "重量:": "1.48kg"
+    },
+    {
+        "names": "Acer AO756-987B2ss",
+        "rating": "",
+        "處理器:": "Intel Pentium ULV-987B 1.5GHz",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB",
+        "重量:": "1.35kg"
+    },
+    {
+        "names": "MSI Wind12 U250",
+        "rating": "",
+        "處理器:": "AMD Athlon II Neo Processor K125 1.70GHz",
+        "硬碟:": "320GB",
+        "重量:": "1.3kg",
+        "尺寸:": "29.7cm x 19.0cm x 2.4-3.1cm"
+    },
+    {
+        "names": "Acer V5-123-12102G32n",
+        "rating": "",
+        "處理器:": "AMD E1-2100",
+        "記憶體:": "2GB",
+        "硬碟:": "SSD 32GB"
+    },
+    {
+        "names": "Samsung 三星 N150",
+        "rating": "8.1",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.35kg",
+        "尺寸:": "264 x 188 x 25.3mm"
+    },
+    {
+        "names": "Lenovo S210T C1017",
+        "rating": "",
+        "處理器:": "Intel C1017",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Gateway LT2207h",
+        "rating": "10",
+        "處理器:": "Athlon II Neo K125 1.7GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.25kg"
+    },
+    {
+        "names": "WMP EHNB116A",
+        "rating": "",
+        "處理器:": "Intel Z3735F",
+        "記憶體:": "2GB",
+        "硬碟:": "eMMC 32GB + MicroSD 32GB"
+    },
+    {
+        "names": "Acer ASPIRE AOD257",
+        "rating": "7.0",
+        "處理器:": "Intel Atom N455 1.6GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.12kg"
+    },
+    {
+        "names": "Toshiba 東芝 NB550D",
+        "rating": "10",
+        "hon_price_min": "2,688",
+        "hon_price_max": "2,688",
+        "處理器:": "AMD APU C-30",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.32kg"
+    },
+    {
+        "names": "ASUS Eee PC 1025CE",
+        "rating": "",
+        "處理器:": "Intel Atom N2800",
+        "硬碟:": "320GB",
+        "重量:": "1.25kg",
+        "尺寸:": "262 x 178 x 20.7 ~34.4 mm (WxDxH)"
+    },
+    {
+        "names": "Acer Aspire One 722",
+        "rating": "10",
+        "處理器:": "AMD Fusion C-50",
+        "記憶體:": "2GB",
+        "硬碟:": "250GB",
+        "重量:": "1.36kg"
+    },
+    {
+        "names": "MSI NB-U250BP1",
+        "rating": "",
+        "hon_price_min": "3,888",
+        "hon_price_max": "3,888",
+        "處理器:": "AMD Athlon II Neo K325 1.3GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "320GB",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Lenovo IdeaPad S10-3",
+        "rating": "8.5",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB"
+    },
+    {
+        "names": "Fujitsu LifeBook MH330",
+        "rating": "7.1",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.1kg",
+        "尺寸:": "258 x 185 x 18mm"
+    },
+    {
+        "names": "Acer ASPIRE ONE AOD260",
+        "rating": "9.0",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Acer AO532h-2D",
+        "rating": "10",
+        "water_price_min": "2,050",
+        "water_price_max": "2,050",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB",
+        "重量:": "1.25kg"
+    },
+    {
+        "names": "HP Mini 5103 - XW034PA",
+        "rating": "",
+        "處理器:": "Intel Atom N550",
+        "硬碟:": "320GB",
+        "重量:": "1.2kg",
+        "尺寸:": "26.2 x 18.0 x 2.3 cm"
+    },
+    {
+        "names": "Acer E3-111 N2830",
+        "rating": "8.0",
+        "處理器:": "N2830",
+        "記憶體:": "2GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Lenovo IdeaPad 100s Z3735",
+        "rating": "6.9",
+        "處理器:": "Intel Z3735F",
+        "記憶體:": "2GB",
+        "硬碟:": "EMMC 32GB"
+    },
+    {
+        "names": "Acer V5-123-12102G32",
+        "rating": "",
+        "處理器:": "E1-2100",
+        "記憶體:": "2GB",
+        "硬碟:": "320GB"
+    },
+    {
+        "names": "Acer Happy 2",
+        "rating": "5.0",
+        "處理器:": "Intel Atom N570 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "HP Mini 210-2028tu",
+        "rating": "9.0",
+        "處理器:": "Intel Atom N550 1.5GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.3kg",
+        "尺寸:": "19.1 cmx 26.8 cmx 3.20 cm"
+    },
+    {
+        "names": "Acer V5-171 i7-3517",
+        "rating": "8.0",
+        "處理器:": "Intel Core i7-3517UM",
+        "記憶體:": "8GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Lenovo S210 C1017",
+        "rating": "",
+        "處理器:": "Intel C1017",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Toshiba 東芝 NB300",
+        "rating": "8.7",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,590",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.33kg",
+        "尺寸:": "263 x 192.3 x 25.4mm"
+    },
+    {
+        "names": "Samsung 三星 305U2A",
+        "rating": "",
+        "處理器:": "Intel B967",
+        "硬碟:": "500GB",
+        "重量:": "1.21kg",
+        "尺寸:": "277.6 x 196 x 23.1 ~ 27.5mm"
+    },
+    {
+        "names": "ASUS Eee PC X101CH",
+        "rating": "10",
+        "處理器:": "Intel Atom N2600",
+        "記憶體:": "1GB",
+        "硬碟:": "320GB",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "HP Mini 210-4000tu",
+        "rating": "",
+        "處理器:": "Intel Atom N2800 1.86GHz",
+        "硬碟:": "320GB",
+        "重量:": "1.38kg",
+        "尺寸:": "19.1 x 26.8 x 3.26 cm"
+    },
+    {
+        "names": "Lenovo S10-3C",
+        "rating": "8.0",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "處理器:": "Intel Atom N455 1.6GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.12kg"
+    },
+    {
+        "names": "Lenovo S210T C1037",
+        "rating": "",
+        "處理器:": "Intel Celeron 1037u",
+        "記憶體:": "4GB",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Acer AOD 257",
+        "rating": "",
+        "處理器:": "Intel Atom N570 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB"
+    },
+    {
+        "names": "Dell M101z",
+        "rating": "8.0",
+        "處理器:": "AMD Athlon II Neo K125",
+        "記憶體:": "2GB",
+        "硬碟:": "250GB",
+        "重量:": "1.58kg"
+    },
+    {
+        "names": "Fujitsu LifeBook MH330 Atom N455",
+        "rating": "5.0",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "處理器:": "Intel Atom N455 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.1kg",
+        "尺寸:": "258 x 185 x 18mm"
+    },
+    {
+        "names": "Lenovo S206 C1007",
+        "rating": "",
+        "處理器:": "Intel Celeron C1007",
+        "記憶體:": "2GB",
+        "硬碟:": "320GB"
+    },
+    {
+        "names": "Acer Aspire One AOD260-23Dkk",
+        "rating": "",
+        "hon_price_min": "2,298",
+        "hon_price_max": "2,298",
+        "處理器:": "Intel Atom N475 1.83GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.25kg"
+    },
+    {
+        "names": "Toshiba 東芝 NB305-02G007",
+        "rating": "8.0",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,699",
+        "處理器:": "Intel Atom N455 1.66GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.33kg",
+        "尺寸:": "263 x 192.3 x 24.2/36.4mm"
+    },
+    {
+        "names": "eMachines 350",
+        "rating": "8.0",
+        "處理器:": "Intel Atom N450 1.66GHz",
+        "記憶體:": "1GB",
+        "硬碟:": "160GB",
+        "重量:": "0.99kg"
+    },
+    {
+        "names": "Acer AOD255",
+        "rating": "9.1",
+        "處理器:": "Intel Atom N550 1.5GHz",
+        "硬碟:": "250GB",
+        "重量:": "1.25kg",
+        "尺寸:": "2.41 x 25.83 x 18.49cm"
+    },
+    {
+        "names": "Lenovo IdeaPad S10e",
+        "rating": "8.0",
+        "處理器:": "Intel Atom N270 1.6GHz",
+        "記憶體:": "1.5GB",
+        "硬碟:": "160GB",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "HP Mini 210-2109TU",
+        "rating": "8.0",
+        "處理器:": "Intel Atom N570",
+        "記憶體:": "1GB",
+        "硬碟:": "250GB",
+        "重量:": "1.44kg"
+    },
+    {
+        "names": "Acer Aspire 1551",
+        "rating": "10",
+        "處理器:": "AMD K325 1.3G",
+        "記憶體:": "3GB",
+        "硬碟:": "500GB",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Toshiba 東芝 NB200",
+        "rating": "8.2",
+        "hon_price_min": "1,995",
+        "hon_price_max": "1,995",
+        "處理器:": "Intel Atom N280 1.66Ghz",
+        "硬碟:": "160GB",
+        "重量:": "1.18kg",
+        "尺寸:": "263 x 192 x 25mm"
+    }
+]

@@ -1,0 +1,3370 @@
+[
+    {
+        "names": "Intel Core i5-12400F",
+        "rating": "10",
+        "hon_price_min": "1,078",
+        "hon_price_max": "1,600",
+        "water_price_min": "1,099",
+        "water_price_max": "1,199",
+        "時脈:": "2500MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "18MB"
+    },
+    {
+        "names": "Intel Core i5-13400",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,899",
+        "時脈:": "2500MHz",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Core i7-13700K",
+        "rating": "7.3",
+        "hon_price_min": "3,140",
+        "hon_price_max": "3,550",
+        "water_price_min": "3,290",
+        "water_price_max": "3,290",
+        "時脈:": "4200MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "30MB"
+    },
+    {
+        "names": "AMD Ryzen 9 7900X",
+        "rating": "",
+        "hon_price_min": "3,699",
+        "hon_price_max": "4,599",
+        "時脈:": "4700MHz",
+        "Cache:": "64MB"
+    },
+    {
+        "names": "Intel Core i7-12700",
+        "rating": "10",
+        "hon_price_min": "2,290",
+        "hon_price_max": "3,150",
+        "water_price_min": "2,430",
+        "water_price_max": "2,580",
+        "時脈:": "2100MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i7-12700F",
+        "rating": "9.0",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,890",
+        "water_price_min": "2,268",
+        "water_price_max": "2,268",
+        "時脈:": "2100MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i5-13400F",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,650",
+        "時脈:": "2500MHz",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "AMD Ryzen 5 5600G (6C12T)",
+        "rating": "8.6",
+        "hon_price_min": "980",
+        "hon_price_max": "1,499",
+        "water_price_min": "1,450",
+        "water_price_max": "1,450",
+        "時脈:": "3900MHz",
+        "Cache:": "總計 L2 快取 3MB; 總計 L3 快取 16MB"
+    },
+    {
+        "names": "AMD Ryzen 9 7950X",
+        "rating": "9.0",
+        "hon_price_min": "4,550",
+        "hon_price_max": "5,999",
+        "water_price_min": "4,360",
+        "water_price_max": "4,399",
+        "時脈:": "4500MHz",
+        "Cache:": "64MB"
+    },
+    {
+        "names": "AMD Ryzen 5 5600X (6C12T)",
+        "rating": "6.6",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,880",
+        "water_price_min": "1,690",
+        "water_price_max": "1,690",
+        "時脈:": "3700MHz",
+        "Cache:": "總計 L2 快取 3MB; 總計 L3 快取 32MB"
+    },
+    {
+        "names": "AMD Ryzen 7 5800X3D",
+        "rating": "10",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,390",
+        "water_price_min": "3,580",
+        "water_price_max": "3,580",
+        "時脈:": "3400MHz",
+        "Socket:": "AM4",
+        "Cache:": "總計 L2 快取: 4MB;  L3 快取: 96MB"
+    },
+    {
+        "names": "Intel Core i9-12900K",
+        "rating": "4.7",
+        "hon_price_min": "3,250",
+        "hon_price_max": "5,390",
+        "water_price_min": "4,130",
+        "water_price_max": "4,130",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "30MB"
+    },
+    {
+        "names": "Intel Core i3-12100",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "1,300",
+        "water_price_min": "970",
+        "water_price_max": "970",
+        "時脈:": "3300MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i9-13900K",
+        "rating": "4.0",
+        "hon_price_min": "4,330",
+        "hon_price_max": "4,999",
+        "water_price_min": "4,300",
+        "water_price_max": "4,499",
+        "時脈:": "4300MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "36MB"
+    },
+    {
+        "names": "Intel Core i9-13900KF",
+        "rating": "",
+        "hon_price_min": "4,199",
+        "hon_price_max": "4,880",
+        "water_price_min": "4,399",
+        "water_price_max": "4,399",
+        "時脈:": "4300MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "36MB"
+    },
+    {
+        "names": "AMD Ryzen 7 7700X",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "3,399",
+        "時脈:": "4500MHz",
+        "Cache:": "32MB"
+    },
+    {
+        "names": "Intel Core i5-12600K",
+        "rating": "8.7",
+        "hon_price_min": "1,899",
+        "hon_price_max": "2,599",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Core i5-12500",
+        "rating": "",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,950",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "18MB"
+    },
+    {
+        "names": "Intel Core i5-13600KF",
+        "rating": "10",
+        "hon_price_min": "2,220",
+        "hon_price_max": "2,699",
+        "water_price_min": "2,450",
+        "water_price_max": "2,450",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "24MB"
+    },
+    {
+        "names": "Intel Core i7-12700K",
+        "rating": "7.3",
+        "hon_price_min": "2,570",
+        "hon_price_max": "3,670",
+        "water_price_min": "2,699",
+        "water_price_max": "3,199",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "25MB"
+    },
+    {
+        "names": "Intel Core i7-13700KF",
+        "rating": "",
+        "hon_price_min": "2,910",
+        "hon_price_max": "3,380",
+        "water_price_min": "3,330",
+        "water_price_max": "3,330",
+        "時脈:": "4200MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "30MB"
+    },
+    {
+        "names": "AMD Ryzen 5 4500",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "899",
+        "時脈:": "3600MHz",
+        "Cache:": "總計 L2 快取: 3MB / 總計 L3 快取: 8MB"
+    },
+    {
+        "names": "Intel Core i9-13900",
+        "rating": "10",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,499",
+        "時脈:": "2000MHz",
+        "Cache:": "36MB"
+    },
+    {
+        "names": "Intel Core i5-11400",
+        "rating": "6.7",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,800",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "時脈:": "2600MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "AMD Ryzen 7 5700G CPU",
+        "rating": "6.0",
+        "hon_price_min": "2,000",
+        "hon_price_max": "3,280",
+        "water_price_min": "2,150",
+        "water_price_max": "2,150",
+        "時脈:": "3800MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i7-13700",
+        "rating": "10",
+        "hon_price_min": "2,950",
+        "hon_price_max": "3,199",
+        "時脈:": "2100MHz",
+        "Cache:": "30MB"
+    },
+    {
+        "names": "Intel Core i5-13500",
+        "rating": "4.0",
+        "hon_price_min": "1,960",
+        "hon_price_max": "2,099",
+        "時脈:": "2500MHz",
+        "Cache:": "24MB"
+    },
+    {
+        "names": "Intel Core i3-13100",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,150",
+        "時脈:": "3400MHz",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i5-13600K",
+        "rating": "8.8",
+        "hon_price_min": "2,320",
+        "hon_price_max": "2,750",
+        "water_price_min": "2,599",
+        "water_price_max": "2,599",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "24MB"
+    },
+    {
+        "names": "Intel Core i5-12400",
+        "rating": "9.1",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,799",
+        "water_price_min": "1,280",
+        "water_price_max": "1,400",
+        "時脈:": "2500MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "18MB"
+    },
+    {
+        "names": "Intel Core i7-11700K",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "3,299",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i9-13900KS",
+        "rating": "4.7",
+        "hon_price_min": "5,399",
+        "hon_price_max": "6,350",
+        "時脈:": "3200MHz",
+        "Cache:": "36MB"
+    },
+    {
+        "names": "AMD Ryzen 9 5950X (16C32T)",
+        "rating": "7.0",
+        "hon_price_min": "4,050",
+        "hon_price_max": "7,400",
+        "water_price_min": "3,980",
+        "water_price_max": "4,999",
+        "時脈:": "3400MHz",
+        "Cache:": "總計 L2 快取 8MB; 總計 L3 快取 64MB"
+    },
+    {
+        "names": "Intel Core i9-13900F",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,350",
+        "時脈:": "2000MHz",
+        "Cache:": "36MB"
+    },
+    {
+        "names": "AMD Ryzen 5 7600X",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,599",
+        "時脈:": "4700MHz",
+        "Cache:": "32MB"
+    },
+    {
+        "names": "Intel Pentium Gold G7400 Processor",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "720",
+        "時脈:": "3700MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper PRO 5995WX",
+        "rating": "",
+        "hon_price_min": "52,800",
+        "hon_price_max": "52,800",
+        "時脈:": "2700MHz",
+        "Cache:": "256MB"
+    },
+    {
+        "names": "AMD Ryzen 9 5900X (12C24T)",
+        "rating": "7.4",
+        "hon_price_min": "2,750",
+        "hon_price_max": "5,699",
+        "water_price_min": "2,750",
+        "water_price_max": "3,180",
+        "時脈:": "3700MHz",
+        "Cache:": "總計 L2 快取 6MB; 總計 L3 快取 64MB"
+    },
+    {
+        "names": "Intel Core i9-12900KS",
+        "rating": "2.0",
+        "hon_price_min": "3,950",
+        "hon_price_max": "6,099",
+        "water_price_min": "5,800",
+        "water_price_max": "6,080",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "30MB"
+    },
+    {
+        "names": "Intel Core i5-12600KF",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "2,450",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Core i5-12600",
+        "rating": "10",
+        "hon_price_min": "1,810",
+        "hon_price_max": "2,280",
+        "water_price_min": "1,860",
+        "water_price_max": "1,860",
+        "時脈:": "3300MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "18MB"
+    },
+    {
+        "names": "Intel Core i7-13700F",
+        "rating": "",
+        "hon_price_min": "2,760",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,790",
+        "water_price_max": "2,790",
+        "時脈:": "2100MHz",
+        "Cache:": "30MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper PRO 5965WX",
+        "rating": "",
+        "hon_price_min": "20,800",
+        "hon_price_max": "20,800",
+        "時脈:": "3800MHz",
+        "Cache:": "128MB"
+    },
+    {
+        "names": "Intel Core i9-12900KF",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "5,299",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "30MB"
+    },
+    {
+        "names": "Intel Core i7-12700KF",
+        "rating": "10",
+        "hon_price_min": "2,299",
+        "hon_price_max": "3,550",
+        "water_price_min": "2,780",
+        "water_price_max": "2,780",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "25MB"
+    },
+    {
+        "names": "AMD Ryzen 7 5700X",
+        "rating": "6.0",
+        "hon_price_min": "1,490",
+        "hon_price_max": "2,499",
+        "時脈:": "3400MHz",
+        "Socket:": "AM4",
+        "Cache:": "32MB"
+    },
+    {
+        "names": "AMD Ryzen 5 5500",
+        "rating": "",
+        "hon_price_min": "715",
+        "hon_price_max": "1,399",
+        "時脈:": "3600MHz",
+        "Socket:": "AM4",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i7-11700F Processor",
+        "rating": "",
+        "hon_price_min": "1,888",
+        "hon_price_max": "2,335",
+        "時脈:": "2500MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i3-12100F",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "1,080",
+        "時脈:": "3300MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i5-11500",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,830",
+        "時脈:": "2700MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Pentium Gold G6405",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "750",
+        "時脈:": "4100MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD Ryzen 7 5800X (8C16T)",
+        "rating": "6.0",
+        "hon_price_min": "2,080",
+        "hon_price_max": "3,350",
+        "water_price_min": "2,450",
+        "water_price_max": "3,190",
+        "時脈:": "3800MHz",
+        "Cache:": "總計 L2 快取 4MB; 總計 L3 快取 32MB"
+    },
+    {
+        "names": "AMD Ryzen 7 PRO 4750G",
+        "rating": "6.0",
+        "hon_price_min": "950",
+        "hon_price_max": "2,590",
+        "時脈:": "3600MHz",
+        "Socket:": "AM4"
+    },
+    {
+        "names": "AMD Ryzen 5 4600G",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "1,380",
+        "時脈:": "3700MHz",
+        "Cache:": "L3 8MB"
+    },
+    {
+        "names": "Intel Core i3-10105 CPU",
+        "rating": "10",
+        "hon_price_min": "755",
+        "hon_price_max": "1,220",
+        "water_price_min": "770",
+        "water_price_max": "770",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i9-12900",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "4,399",
+        "時脈:": "2400MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "14MB"
+    },
+    {
+        "names": "AMD Ryzen 5 5600",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "1,350",
+        "時脈:": "3500MHz",
+        "Socket:": "AM4",
+        "Cache:": "32MB"
+    },
+    {
+        "names": "Intel Core i5-11400F",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,650",
+        "時脈:": "2600MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i9-12900F",
+        "rating": "",
+        "hon_price_min": "3,660",
+        "hon_price_max": "4,190",
+        "water_price_min": "3,850",
+        "water_price_max": "3,850",
+        "時脈:": "2400MHz",
+        "Socket:": "LGA 1700",
+        "Cache:": "14MB"
+    },
+    {
+        "names": "AMD Ryzen 3 Pro 4350G",
+        "rating": "2.0",
+        "hon_price_min": "790",
+        "hon_price_max": "1,270",
+        "時脈:": "3800MHz",
+        "Socket:": "AM4"
+    },
+    {
+        "names": "Intel Core i9-10900K",
+        "rating": "8.4",
+        "hon_price_min": "2,499",
+        "hon_price_max": "4,090",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "AMD Ryzen 7 3700X",
+        "rating": "8.1",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,299",
+        "water_price_min": "1,999",
+        "water_price_max": "2,299",
+        "時脈:": "3600MHz",
+        "Cache:": "L3 32MB"
+    },
+    {
+        "names": "Intel Core i7-10700K",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,840",
+        "時脈:": "3800MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i5-9400F",
+        "rating": "6.0",
+        "hon_price_min": "1,045",
+        "hon_price_max": "1,499",
+        "water_price_min": "800",
+        "water_price_max": "800",
+        "時脈:": "2900MHz",
+        "Cache:": "9MB SmartCache"
+    },
+    {
+        "names": "AMD Ryzen Threadripper PRO 5975WX",
+        "rating": "",
+        "hon_price_min": "27,800",
+        "hon_price_max": "27,800",
+        "時脈:": "3600MHz",
+        "Cache:": "128MB"
+    },
+    {
+        "names": "Intel Celeron Processor G6900",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "520",
+        "時脈:": "3400MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD Ryzen 9 3900X",
+        "rating": "8.4",
+        "hon_price_min": "3,700",
+        "hon_price_max": "4,599",
+        "時脈:": "3300MHz",
+        "Cache:": "L3 64MB"
+    },
+    {
+        "names": "Intel Core i9-11900K",
+        "rating": "4.9",
+        "hon_price_min": "2,550",
+        "hon_price_max": "4,310",
+        "water_price_min": "2,680",
+        "water_price_max": "2,680",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i3-13100F",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "時脈:": "3400MHz",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "AMD Ryzen 5 3600X",
+        "rating": "2.0",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,750",
+        "water_price_min": "1,920",
+        "water_price_max": "1,920",
+        "時脈:": "3800MHz",
+        "Cache:": "L3 32MB"
+    },
+    {
+        "names": "AMD Ryzen 5 Pro 4650G",
+        "rating": "7.5",
+        "hon_price_min": "720",
+        "hon_price_max": "1,670",
+        "時脈:": "3300MHz",
+        "Socket:": "AM4"
+    },
+    {
+        "names": "AMD Ryzen 5 3600",
+        "rating": "9.0",
+        "hon_price_min": "850",
+        "hon_price_max": "999",
+        "時脈:": "3600MHz",
+        "Cache:": "L3 32MB"
+    },
+    {
+        "names": "Intel Core i5-10600K",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,299",
+        "時脈:": "4100MHz",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i9-10980XE 極致版處理器",
+        "rating": "",
+        "hon_price_min": "7,599",
+        "hon_price_max": "8,770",
+        "時脈:": "3300MHz",
+        "Cache:": "24.75MB Intel Smart Cache"
+    },
+    {
+        "names": "AMD Ryzen 5 3400G",
+        "rating": "4.7",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,260",
+        "時脈:": "3700MHz",
+        "Cache:": "L3 4MB"
+    },
+    {
+        "names": "Intel Core i3-10105F",
+        "rating": "10",
+        "hon_price_min": "530",
+        "hon_price_max": "899",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7-11700",
+        "rating": "10",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,950",
+        "時脈:": "2500MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "AMD Ryzen 3 3300X",
+        "rating": "6.7",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,180",
+        "時脈:": "3800MHz",
+        "Cache:": "L3 16MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 3990X",
+        "rating": "10",
+        "hon_price_min": "31,999",
+        "hon_price_max": "39,999",
+        "water_price_min": "49,800",
+        "water_price_max": "49,800",
+        "時脈:": "2900MHz",
+        "Socket:": "sTRX4",
+        "Cache:": "256MB"
+    },
+    {
+        "names": "Intel Core i9-10900F",
+        "rating": "10",
+        "hon_price_min": "2,599",
+        "hon_price_max": "3,230",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper PRO 5995WX 處理器",
+        "rating": "",
+        "hon_price_min": "52,800",
+        "hon_price_max": "54,880",
+        "water_price_min": "50,680",
+        "water_price_max": "50,800",
+        "時脈:": "2700MHz",
+        "Cache:": "256MB"
+    },
+    {
+        "names": "Intel Core i3-10100F",
+        "rating": "8.0",
+        "hon_price_min": "648",
+        "hon_price_max": "860",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i5-10400",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,460",
+        "時脈:": "2900MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i5-10400F",
+        "rating": "10",
+        "hon_price_min": "920",
+        "hon_price_max": "1,320",
+        "water_price_min": "888",
+        "water_price_max": "888",
+        "時脈:": "2900MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i7-10700KF",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,390",
+        "時脈:": "3800MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i5-6500",
+        "rating": "9.4",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "Socket:": "LGA 1155",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD Ryzen 3 4100",
+        "rating": "",
+        "hon_price_min": "565",
+        "hon_price_max": "750",
+        "時脈:": "3800MHz",
+        "Cache:": "總計 L2 快取: 2MB / 總計 L3 快取: 4MB"
+    },
+    {
+        "names": "Intel Core i7-10700F",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "2,200",
+        "時脈:": "2900MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i5+8400",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,600",
+        "時脈:": "2800MHz",
+        "Cache:": "9MB SmartCache"
+    },
+    {
+        "names": "Intel Core i9-11900",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "3,490",
+        "時脈:": "2500MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i5-8400",
+        "rating": "8.4",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,440",
+        "water_price_min": "800",
+        "water_price_max": "800",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 1151 v2",
+        "Cache:": "9 MB"
+    },
+    {
+        "names": "Intel Core i9-10900",
+        "rating": "4.0",
+        "hon_price_min": "2,699",
+        "hon_price_max": "3,499",
+        "water_price_min": "2,850",
+        "water_price_max": "2,850",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "AMD Ryzen 9 3950X",
+        "rating": "6.0",
+        "hon_price_min": "5,650",
+        "hon_price_max": "5,969",
+        "water_price_min": "5,650",
+        "water_price_max": "5,650",
+        "時脈:": "3500MHz",
+        "Cache:": "L3 64MB"
+    },
+    {
+        "names": "Intel Core i5-11600K",
+        "rating": "8.0",
+        "hon_price_min": "1,399",
+        "hon_price_max": "2,250",
+        "時脈:": "3900MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "AMD Ryzen 5 3500X",
+        "rating": "2.0",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,180",
+        "時脈:": "3600MHz",
+        "Cache:": "Total: L3 Cache 32MB"
+    },
+    {
+        "names": "Intel Core i7-9700F",
+        "rating": "",
+        "hon_price_min": "3,099",
+        "hon_price_max": "3,099",
+        "water_price_min": "1,999",
+        "water_price_max": "2,360",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Celeron G5925",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "520",
+        "water_price_min": "520",
+        "water_price_max": "520",
+        "時脈:": "3600MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i9-10900F",
+        "rating": "10",
+        "hon_price_min": "2,599",
+        "hon_price_max": "3,230",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Core i7-7700",
+        "rating": "9.0",
+        "water_price_min": "1,800",
+        "water_price_max": "1,800",
+        "時脈:": "3600MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i7-10700",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,420",
+        "時脈:": "2900MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i9-10850K",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,350",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Core i7-6800K",
+        "rating": "8.0",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 2011-3",
+        "Cache:": "15 MB"
+    },
+    {
+        "names": "Intel Core i5-9600K",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,299",
+        "時脈:": "3700MHz",
+        "Cache:": "9MB"
+    },
+    {
+        "names": "AMD Ryzen 9 3900XT",
+        "rating": "2.0",
+        "hon_price_min": "4,120",
+        "hon_price_max": "4,120",
+        "water_price_min": "4,010",
+        "water_price_max": "4,010",
+        "時脈:": "3800MHz",
+        "Cache:": "L3 64MB"
+    },
+    {
+        "names": "Intel Core i5-8500",
+        "rating": "10",
+        "hon_price_min": "1,619",
+        "hon_price_max": "1,619",
+        "water_price_min": "1,550",
+        "water_price_max": "1,550",
+        "時脈:": "3000MHz",
+        "Cache:": "9MB"
+    },
+    {
+        "names": "Intel Core i5-11600KF",
+        "rating": "",
+        "hon_price_min": "2,130",
+        "hon_price_max": "2,150",
+        "時脈:": "3900MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "AMD Ryzen 5 3600XT",
+        "rating": "",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,050",
+        "時脈:": "3800MHz",
+        "Cache:": "L3 32MB"
+    },
+    {
+        "names": "AMD Ryzen 3 3100",
+        "rating": "2.0",
+        "hon_price_min": "760",
+        "hon_price_max": "770",
+        "時脈:": "3600MHz",
+        "Cache:": "L3 16MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper PRO 3995WX",
+        "rating": "2.0",
+        "hon_price_min": "46,980",
+        "hon_price_max": "47,000",
+        "water_price_min": "41,000",
+        "water_price_max": "45,000",
+        "時脈:": "2700MHz",
+        "Socket:": "TR4",
+        "Cache:": "256MB"
+    },
+    {
+        "names": "Intel Celeron G4900",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "時脈:": "3110MHz",
+        "Cache:": "2 MB SmartCache"
+    },
+    {
+        "names": "Intel Core i3-8100",
+        "rating": "8.0",
+        "hon_price_min": "960",
+        "hon_price_max": "960",
+        "時脈:": "3600MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD Athlon 3000G",
+        "rating": "6.0",
+        "hon_price_min": "450",
+        "hon_price_max": "520",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "時脈:": "3500MHz",
+        "Cache:": "4MB L3"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 3970X 處理器",
+        "rating": "6.0",
+        "hon_price_min": "16,950",
+        "hon_price_max": "17,900",
+        "water_price_min": "18,500",
+        "water_price_max": "18,500",
+        "時脈:": "3700MHz",
+        "Cache:": "Total: L3 Cache 128MB"
+    },
+    {
+        "names": "Intel Core i9-11900F",
+        "rating": "",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,350",
+        "時脈:": "2500MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core 2 Duo E8400",
+        "rating": "9.0",
+        "water_price_min": "99",
+        "water_price_max": "150",
+        "時脈:": "3072MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i5-9400",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "2,099",
+        "時脈:": "2900MHz",
+        "Cache:": "9MB"
+    },
+    {
+        "names": "AMD RYZEN 3 3200G",
+        "rating": "8.3",
+        "hon_price_min": "850",
+        "hon_price_max": "999",
+        "時脈:": "3600MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i5-3470",
+        "rating": "9.2",
+        "water_price_min": "300",
+        "water_price_max": "380",
+        "時脈:": "3200MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i3-10100",
+        "rating": "10",
+        "hon_price_min": "840",
+        "hon_price_max": "1,159",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7-8700K",
+        "rating": "5.6",
+        "hon_price_min": "2,569",
+        "hon_price_max": "3,080",
+        "water_price_min": "2,800",
+        "water_price_max": "2,800",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper PRO 3975WX",
+        "rating": "",
+        "hon_price_min": "23,880",
+        "hon_price_max": "23,900",
+        "water_price_min": "23,000",
+        "water_price_max": "23,000",
+        "時脈:": "3500MHz",
+        "Socket:": "TR4",
+        "Cache:": "128MB"
+    },
+    {
+        "names": "Intel Core i5-10500",
+        "rating": "",
+        "hon_price_min": "1,465",
+        "hon_price_max": "1,900",
+        "時脈:": "3100MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i3 3220",
+        "rating": "8.7",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "時脈:": "3300MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i3-4170",
+        "rating": "8.0",
+        "water_price_min": "299",
+        "water_price_max": "399",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i7-11700KF Processor",
+        "rating": "2.0",
+        "hon_price_min": "2,420",
+        "hon_price_max": "2,580",
+        "時脈:": "3600MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "AMD A6 3670",
+        "rating": "10",
+        "water_price_min": "30",
+        "water_price_max": "30",
+        "時脈:": "2700MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i7-4770",
+        "rating": "8.5",
+        "water_price_min": "888",
+        "water_price_max": "888",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i5-3570 Ivy Bridge",
+        "rating": "9.0",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "時脈:": "3400MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i9-10900KF",
+        "rating": "8.0",
+        "hon_price_min": "2,350",
+        "hon_price_max": "3,580",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Core i7-6700K",
+        "rating": "9.6",
+        "water_price_min": "1,499",
+        "water_price_max": "1,680",
+        "時脈:": "4000MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Pentium Gold G6400",
+        "rating": "8.0",
+        "hon_price_min": "599",
+        "hon_price_max": "780",
+        "時脈:": "4000MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Pentium Gold G5420",
+        "rating": "",
+        "hon_price_min": "465",
+        "hon_price_max": "465",
+        "時脈:": "3800MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD Athlon II x4 640",
+        "rating": "9.2",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "時脈:": "3000MHz",
+        "Socket:": "AM3",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i5-10600",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,999",
+        "時脈:": "3300MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Celeron G4930",
+        "rating": "",
+        "water_price_min": "580",
+        "water_price_max": "800",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Xeon Silver 4110",
+        "rating": "",
+        "hon_price_min": "4,230",
+        "hon_price_max": "4,230",
+        "water_price_min": "4,230",
+        "water_price_max": "4,230",
+        "時脈:": "2100MHz",
+        "Socket:": "LGA 3647",
+        "Cache:": "11MB"
+    },
+    {
+        "names": "AMD Athlon 200GE APU",
+        "rating": "10",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "時脈:": "3200MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 2950X Processor",
+        "rating": "",
+        "hon_price_min": "6,790",
+        "hon_price_max": "6,790",
+        "時脈:": "4400MHz",
+        "Socket:": "TR4"
+    },
+    {
+        "names": "AMD A8-5600K Black Edition",
+        "rating": "10",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "時脈:": "3600MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD RYZEN Threadripper 3960X",
+        "rating": "4.0",
+        "hon_price_min": "11,599",
+        "hon_price_max": "11,998",
+        "water_price_min": "11,599",
+        "water_price_max": "11,599",
+        "時脈:": "3800MHz",
+        "Cache:": "L1:2.25MB L2:12MB L3:128MB"
+    },
+    {
+        "names": "Intel Pentium Gold G5400",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "530",
+        "時脈:": "3700MHz",
+        "Cache:": "4 MB SmartCache"
+    },
+    {
+        "names": "AMD A6 3500",
+        "rating": "8.0",
+        "water_price_min": "20",
+        "water_price_max": "20",
+        "時脈:": "2400MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i9-9900KF",
+        "rating": "",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i9-10900KA 復仇者聯盟聯限量版",
+        "rating": "7.0",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "AMD FX 6-Core Black Edition FX-6300",
+        "rating": "9.8",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "時脈:": "3500MHz",
+        "Cache:": "14MB"
+    },
+    {
+        "names": "Intel Core i7-4790",
+        "rating": "9.3",
+        "water_price_min": "888",
+        "water_price_max": "980",
+        "時脈:": "3600MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i5-750",
+        "rating": "9.4",
+        "water_price_min": "40",
+        "water_price_max": "40",
+        "時脈:": "2666MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Pentium G2030",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Athlon X2 AD5200",
+        "rating": "10",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "時脈:": "2300MHz",
+        "Socket:": "AM3",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Xeon E5-2620 v4 processor (817927-B21)",
+        "rating": "",
+        "hon_price_min": "8,990",
+        "hon_price_max": "8,990"
+    },
+    {
+        "names": "Intel Core i7-9700 處理器",
+        "rating": "",
+        "hon_price_min": "3,799",
+        "hon_price_max": "3,799",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i9-10920X",
+        "rating": "7.3",
+        "hon_price_min": "5,450",
+        "hon_price_max": "5,988",
+        "時脈:": "3500MHz",
+        "Cache:": "19.25MB"
+    },
+    {
+        "names": "Intel Pentium G4400",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600",
+        "時脈:": "3300MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i5-4440",
+        "rating": "9.2",
+        "water_price_min": "399",
+        "water_price_max": "600",
+        "時脈:": "3100MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Xeon E3-1240V2",
+        "rating": "10",
+        "water_price_min": "1,499",
+        "water_price_max": "1,499",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i7-10700KA Marvel Avengers Special Edition",
+        "rating": "",
+        "hon_price_min": "2,620",
+        "hon_price_max": "2,620",
+        "時脈:": "3800MHz",
+        "Socket:": "LGA 1200",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Xeon E3-1240 v3",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,180",
+        "時脈:": "3300MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i3-9100F Processor",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "1,199",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i3-9100",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,399",
+        "時脈:": "3600MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Pentium G4600",
+        "rating": "",
+        "water_price_min": "890",
+        "water_price_max": "890",
+        "時脈:": "3600MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i7-9700K",
+        "rating": "10",
+        "hon_price_min": "2,999",
+        "hon_price_max": "3,999",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "12 MB"
+    },
+    {
+        "names": "Intel Core i7-6700",
+        "rating": "10",
+        "water_price_min": "1,499",
+        "water_price_max": "1,499",
+        "Socket:": "LGA 1151",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 2990WX",
+        "rating": "2.0",
+        "hon_price_min": "14,030",
+        "hon_price_max": "14,030",
+        "時脈:": "4200MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 1900X (YD190XA8AEWOF)",
+        "rating": "",
+        "時脈:": "3800MHz",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Pentium G3430",
+        "rating": "",
+        "時脈:": "3300MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Ryzen 7 3800X",
+        "rating": "2.0",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "時脈:": "3900MHz",
+        "Cache:": "L3 32MB"
+    },
+    {
+        "names": "Intel Core i9-9900",
+        "rating": "",
+        "時脈:": "3100MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "AMD Athlon II x3 450",
+        "rating": "9.0",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "時脈:": "3200MHz",
+        "Socket:": "AM3",
+        "Cache:": "1.5MB"
+    },
+    {
+        "names": "AMD A4 3400",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "150",
+        "時脈:": "2700MHz",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "AMD A4-6300",
+        "rating": "",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "時脈:": "3700MHz",
+        "Socket:": "FM2",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Core i5-7500",
+        "rating": "",
+        "water_price_min": "850",
+        "water_price_max": "850",
+        "時脈:": "3800MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Celeron G1820",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "325",
+        "時脈:": "2700MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i5-4460",
+        "rating": "9.9",
+        "water_price_min": "490",
+        "water_price_max": "499",
+        "時脈:": "3400MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7-7700K",
+        "rating": "8.8",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "water_price_min": "1,800",
+        "water_price_max": "1,800",
+        "時脈:": "4200MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i7-8700",
+        "rating": "9.2",
+        "hon_price_min": "2,599",
+        "hon_price_max": "2,599",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel i3-4150",
+        "rating": "",
+        "water_price_min": "960",
+        "water_price_max": "960",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i9-9980XE Extreme Edition",
+        "rating": "9.3",
+        "hon_price_min": "7,399",
+        "hon_price_max": "8,899",
+        "water_price_min": "7,499",
+        "water_price_max": "7,499",
+        "時脈:": "3000MHz",
+        "Cache:": "24.75MB"
+    },
+    {
+        "names": "Intel Pentium G3260",
+        "rating": "5.3",
+        "water_price_min": "180",
+        "water_price_max": "300",
+        "時脈:": "3300MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i5-7400",
+        "rating": "8.0",
+        "water_price_min": "800",
+        "water_price_max": "800",
+        "時脈:": "3500MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD Ryzen 7 3800XT",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "3,180",
+        "時脈:": "3900MHz",
+        "Cache:": "L3 32MB"
+    },
+    {
+        "names": "AMD Phenom II X4 840",
+        "rating": "9.2",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "時脈:": "3200MHz",
+        "Socket:": "AM3",
+        "Cache:": "4 x 512KB"
+    },
+    {
+        "names": "Intel Celeron D 430",
+        "rating": "5.0",
+        "hon_price_min": "325",
+        "hon_price_max": "325",
+        "時脈:": "1800MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "512KB"
+    },
+    {
+        "names": "AMD Athlon II X2 270",
+        "rating": "10",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "時脈:": "2000MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Celeron G540",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "199",
+        "時脈:": "2500MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Phemon X4 9750",
+        "rating": "",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,088",
+        "時脈:": "2300MHz",
+        "Socket:": "AM2+",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i5 2400",
+        "rating": "9.2",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "時脈:": "2800MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Celeron G3930",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "時脈:": "2900MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 2920X",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Cache:": "32MB"
+    },
+    {
+        "names": "Intel Core i5-760",
+        "rating": "9.4",
+        "water_price_min": "60",
+        "water_price_max": "60",
+        "時脈:": "2800MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Athlon II x2 250",
+        "rating": "9.4",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "時脈:": "3000MHz",
+        "Socket:": "AM3",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Celeron D 326",
+        "rating": "7.0",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "時脈:": "2533MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "256KB"
+    },
+    {
+        "names": "AMD Ryzen 7 2700",
+        "rating": "10",
+        "時脈:": "3200MHz",
+        "Cache:": "L2 4MB, L3 16MB"
+    },
+    {
+        "names": "AMD Athlon II X4 645",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "時脈:": "3100MHz",
+        "Socket:": "AM3",
+        "Cache:": "4 x 512KB"
+    },
+    {
+        "names": "Intel Core i3-4160",
+        "rating": "9.5",
+        "water_price_min": "299",
+        "water_price_max": "300",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i5-8600k",
+        "rating": "5.3",
+        "hon_price_min": "1,819",
+        "hon_price_max": "1,819",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1151 v2",
+        "Cache:": "9 MB"
+    },
+    {
+        "names": "AMD Athlon 5350",
+        "rating": "6.0",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "時脈:": "2050MHz",
+        "Socket:": "AM1",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Ryzen 7 1700",
+        "rating": "10",
+        "時脈:": "3000MHz",
+        "Cache:": "Total L3 Cache 16MB"
+    },
+    {
+        "names": "AMD A10-7870K New Box",
+        "rating": "",
+        "時脈:": "3900MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD Ryzen 5 2400G",
+        "rating": "7.3",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "時脈:": "3600MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i5-6400",
+        "rating": "10",
+        "water_price_min": "599",
+        "water_price_max": "999",
+        "Socket:": "LGA 1155",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i3-530",
+        "rating": "8.3",
+        "water_price_min": "40",
+        "water_price_max": "40",
+        "時脈:": "2933MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i9-10940X X 系列處理器",
+        "rating": "",
+        "hon_price_min": "6,690",
+        "hon_price_max": "6,690",
+        "時脈:": "3300MHz",
+        "Cache:": "19.25 MB Intel Smart Cache"
+    },
+    {
+        "names": "Intel Core i7 7800X",
+        "rating": "10",
+        "Socket:": "LGA 2066",
+        "Cache:": "8.25 MB L3"
+    },
+    {
+        "names": "AMD Ryzen 5 1600",
+        "rating": "10",
+        "hon_price_min": "1,340",
+        "hon_price_max": "1,340",
+        "時脈:": "3200MHz",
+        "Cache:": "L3 Cache 16MB"
+    },
+    {
+        "names": "Intel Core i5-7600K",
+        "rating": "10",
+        "時脈:": "4200MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i5-9600KF 處理器",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799"
+    },
+    {
+        "names": "AMD Ryzen 7 2700X CPU 50th Anniversary Edition",
+        "rating": "",
+        "時脈:": "3700MHz",
+        "Cache:": "16MB L3"
+    },
+    {
+        "names": "Intel Celeron Processor G5900",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "時脈:": "3400MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i7-6850K",
+        "rating": "",
+        "時脈:": "3600MHz",
+        "Cache:": "15MB"
+    },
+    {
+        "names": "AMD A8-7600K",
+        "rating": "10",
+        "時脈:": "3900MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core 2 Duo E7600",
+        "rating": "8.0",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "時脈:": "3066MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Xeon E3-1230V6",
+        "rating": "",
+        "外頻:": "3500MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i5-3450 Ivy Bridge",
+        "rating": "8.3",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "時脈:": "3100MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Celeron 處理器 G5905",
+        "rating": "10",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "時脈:": "3500MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i9-7900X",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "4,500",
+        "Socket:": "LGA 2066",
+        "Cache:": "13.75 MB L3"
+    },
+    {
+        "names": "Intel Core i9-9820X",
+        "rating": "",
+        "時脈:": "3300MHz",
+        "Cache:": "16.5MB L3"
+    },
+    {
+        "names": "AMD Ryzen 3 3200",
+        "rating": "",
+        "hon_price_min": "753",
+        "hon_price_max": "753",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "時脈:": "3600MHz",
+        "Cache:": "L3 4MB"
+    },
+    {
+        "names": "AMD FX 4-Core Black Edition FX-4130",
+        "rating": "",
+        "時脈:": "3800MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Xeon E3-1230V2",
+        "rating": "9.8",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "時脈:": "3300MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD A8-9600 APU",
+        "rating": "",
+        "時脈:": "3400MHz",
+        "Cache:": "Total L2 Cache 2MB"
+    },
+    {
+        "names": "AMD Phenom II x4 905E OEM",
+        "rating": "10",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "時脈:": "2500MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Phenom II X4 955",
+        "rating": "9.8",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "時脈:": "3200MHz",
+        "Socket:": "AM3",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i9-7980XE",
+        "rating": "",
+        "時脈:": "2600MHz",
+        "Socket:": "LGA 2066",
+        "Cache:": "24.75 MB"
+    },
+    {
+        "names": "AMD Phenom II X4 840T",
+        "rating": "9.5",
+        "時脈:": "2900MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i5-4690",
+        "rating": "10",
+        "時脈:": "3500MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core G3250",
+        "rating": "",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 2970WX",
+        "rating": "",
+        "時脈:": "3000MHz",
+        "Cache:": "64MB"
+    },
+    {
+        "names": "Intel Dual Core Pentium G630",
+        "rating": "",
+        "時脈:": "2700MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Athlon II X4 641",
+        "rating": "",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "時脈:": "2800MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i3-6100",
+        "rating": "9.8",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "時脈:": "3700MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Pentium G2020",
+        "rating": "6.8",
+        "時脈:": "2900MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "VIA Nano L2100",
+        "rating": "8.0",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "時脈:": "1800MHz",
+        "Socket:": "nanoBGA2",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "AMD A10-9700 APU",
+        "rating": "",
+        "時脈:": "3800MHz",
+        "Cache:": "Total L2 Cache 2MB"
+    },
+    {
+        "names": "Intel Core i7 920",
+        "rating": "9.6",
+        "時脈:": "2666MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Ryzen 3 2200G",
+        "rating": "9.6",
+        "時脈:": "3500MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i7 950",
+        "rating": "10",
+        "時脈:": "3066MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel E3-1225 v2",
+        "rating": "",
+        "時脈:": "3200MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD A8 Trinity Quad 6600K",
+        "rating": "",
+        "時脈:": "3900MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD Athlon X4 631",
+        "rating": "10",
+        "時脈:": "2600MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Celeron G1620",
+        "rating": "",
+        "時脈:": "2700MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i7-9700KF",
+        "rating": "",
+        "hon_price_min": "3,099",
+        "hon_price_max": "3,099",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Pentium G840",
+        "rating": "",
+        "時脈:": "2800MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i9-9900X",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Cache:": "19.25MB"
+    },
+    {
+        "names": "AMD Phenom II X4 940",
+        "rating": "9.5",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "時脈:": "3000MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD FX-8150",
+        "rating": "9.2",
+        "時脈:": "3600MHz",
+        "Cache:": "L2 8M,L3 8M CACHE"
+    },
+    {
+        "names": "Intel Pentium G850",
+        "rating": "10",
+        "時脈:": "2900MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core 2 Duo E7500",
+        "rating": "9.7",
+        "時脈:": "2930MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i3 2100",
+        "rating": "8.6",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "時脈:": "3100MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Ryzen 7 1700X",
+        "rating": "9.3",
+        "時脈:": "3800MHz",
+        "Cache:": "Total L3 Cache 16MB"
+    },
+    {
+        "names": "Intel Core2 Quad Q8200",
+        "rating": "",
+        "時脈:": "2333MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "4096 KB"
+    },
+    {
+        "names": "Intel Core i7-8086K Limited Edition",
+        "rating": "",
+        "時脈:": "4000MHz",
+        "Cache:": "12 MB SmartCache"
+    },
+    {
+        "names": "AMD Athlon II x4 630",
+        "rating": "9.5",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "時脈:": "2800MHz",
+        "Socket:": "AM3",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD FX-6100",
+        "rating": "9.9",
+        "時脈:": "3300MHz",
+        "Cache:": "L2 6MB + L3 8MB"
+    },
+    {
+        "names": "Intel Core i7-4770s",
+        "rating": "",
+        "時脈:": "3100MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Dual Core Pentium G860",
+        "rating": "10",
+        "時脈:": "3000MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i5-3550 Ivy Bridge",
+        "rating": "8.4",
+        "時脈:": "3300MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7-4820k",
+        "rating": "10",
+        "hon_price_min": "2,520",
+        "hon_price_max": "2,520",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 2011",
+        "Cache:": "10MB"
+    },
+    {
+        "names": "Intel Core i5-6600",
+        "rating": "6.0",
+        "Socket:": "LGA 1155",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i3-8350K",
+        "rating": "2.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "時脈:": "4000MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i7-2600",
+        "rating": "8.4",
+        "時脈:": "3400MHz",
+        "Cache:": "8M"
+    },
+    {
+        "names": "AMD A10 6800K",
+        "rating": "10",
+        "時脈:": "4400MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i5-655k",
+        "rating": "10",
+        "時脈:": "3200MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i5-2500K",
+        "rating": "8.5",
+        "時脈:": "3400MHz",
+        "Cache:": "6"
+    },
+    {
+        "names": "Intel Celeron Dual-Core E3300",
+        "rating": "9.0",
+        "時脈:": "2500MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "AMD Athlon II x4 740",
+        "rating": "8.4",
+        "時脈:": "3700MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i5-2310",
+        "rating": "8.0",
+        "時脈:": "2900MHz",
+        "Cache:": "6M"
+    },
+    {
+        "names": "Intel Core i7-3770 Ivy Bridge",
+        "rating": "10",
+        "water_price_min": "899",
+        "water_price_max": "899",
+        "時脈:": "3400MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD A6-5400K",
+        "rating": "8.0",
+        "時脈:": "3800MHz",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "AMD FX-8370",
+        "rating": "",
+        "時脈:": "4000MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core G3420",
+        "rating": "",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "1150"
+    },
+    {
+        "names": "Intel Core i3-2120",
+        "rating": "9.0",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "時脈:": "2600MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core E5500",
+        "rating": "",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Athlon II X4 615e",
+        "rating": "",
+        "hon_price_min": "1,145",
+        "hon_price_max": "1,145",
+        "時脈:": "2500MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Dual Core Pentium G620",
+        "rating": "8.9",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "時脈:": "2600MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Phenom II X6 1100T",
+        "rating": "8.7",
+        "hon_price_min": "1,670",
+        "hon_price_max": "1,670",
+        "時脈:": "3000MHz",
+        "Cache:": "3MB + L3 6MB"
+    },
+    {
+        "names": "Intel Xeon E5603",
+        "rating": "",
+        "時脈:": "1600MHz",
+        "Socket:": "LGA 1155"
+    },
+    {
+        "names": "AMD Ryzen 5 1500X",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Cache:": "Total L3 Cache 16MB"
+    },
+    {
+        "names": "AMD Athlon II X3 445",
+        "rating": "8.8",
+        "時脈:": "3100MHz",
+        "Socket:": "AM3",
+        "Cache:": "1.5MB"
+    },
+    {
+        "names": "Intel Core i5-6600K",
+        "rating": "8.5",
+        "時脈:": "3500MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7-3770K Ivy Bridge",
+        "rating": "8.4",
+        "時脈:": "3500MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i3-2105",
+        "rating": "10",
+        "時脈:": "3100MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Celeron G440",
+        "rating": "",
+        "時脈:": "1600MHz",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Xeon Processor X3430",
+        "rating": "",
+        "時脈:": "2400MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Ryzen 5 1400",
+        "rating": "",
+        "時脈:": "3200MHz",
+        "Cache:": "L3 Cache 8MB"
+    },
+    {
+        "names": "Intel Core i3-6300",
+        "rating": "",
+        "Socket:": "LGA 1155",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core E6500K",
+        "rating": "9.7",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "時脈:": "2930MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Athlon x4 760K Black Edition",
+        "rating": "8.7",
+        "時脈:": "3800MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i7-5820K",
+        "rating": "7.4",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "water_price_min": "1,399",
+        "water_price_max": "1,399",
+        "時脈:": "3300MHz",
+        "Cache:": "15MB"
+    },
+    {
+        "names": "AMD Athlon II x2 280",
+        "rating": "",
+        "時脈:": "3600MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core E6600",
+        "rating": "9.5",
+        "時脈:": "3060MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Xeon E3-1245v3",
+        "rating": "",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i7-7740X",
+        "rating": "",
+        "時脈:": "4300MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i3-3240",
+        "rating": "10",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Xeon E3-1230V5",
+        "rating": "10",
+        "Socket:": "LGA 1151",
+        "Cache:": "8M"
+    },
+    {
+        "names": "AMD Ryzen 5 1600X",
+        "rating": "10",
+        "時脈:": "3600MHz",
+        "Cache:": "Total L3 Cache 16MB"
+    },
+    {
+        "names": "AMD Athlon II x2 255",
+        "rating": "8.0",
+        "時脈:": "3100MHz",
+        "Socket:": "AM3",
+        "Cache:": "L2: 2MB"
+    },
+    {
+        "names": "Intel Core i9-7940X",
+        "rating": "",
+        "時脈:": "3100MHz",
+        "Cache:": "19.25MB"
+    },
+    {
+        "names": "AMD A6 3670 Black Edition",
+        "rating": "10",
+        "時脈:": "2700MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i7-990X Extreme Edition",
+        "rating": "6.7",
+        "時脈:": "3460MHz",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i9-9900KS",
+        "rating": "6.0",
+        "時脈:": "4000MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Core i3-4360",
+        "rating": "",
+        "時脈:": "3700MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD A8-3850 (FM1)",
+        "rating": "9.1",
+        "時脈:": "2900MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7-6900K",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "4,700",
+        "時脈:": "3700MHz",
+        "Cache:": "20MB"
+    },
+    {
+        "names": "Intel Core i5-3340",
+        "rating": "",
+        "時脈:": "3100MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD A4-7300",
+        "rating": "",
+        "時脈:": "3800MHz",
+        "Socket:": "FM2"
+    },
+    {
+        "names": "Intel Celeron Dual Core E3500",
+        "rating": "",
+        "時脈:": "2700MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "AMD Phenom II x2 555",
+        "rating": "9.6",
+        "時脈:": "3200MHz",
+        "Socket:": "AM3",
+        "Cache:": "L2: 1MB + L3: 6MB"
+    },
+    {
+        "names": "Intel Pentium G4560",
+        "rating": "8.0",
+        "時脈:": "3500MHz"
+    },
+    {
+        "names": "AMD A6-3650 (FM1)",
+        "rating": "9.3",
+        "時脈:": "2600MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i3-550",
+        "rating": "8.0",
+        "時脈:": "3200MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Pentium G3420",
+        "rating": "10",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i7-3820",
+        "rating": "10",
+        "hon_price_min": "1,900",
+        "hon_price_max": "1,900",
+        "時脈:": "3600MHz",
+        "Cache:": "8M"
+    },
+    {
+        "names": "Intel Xeon E3-1230v3",
+        "rating": "",
+        "時脈:": "3300MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core 2 Duo E8500",
+        "rating": "10",
+        "時脈:": "3166MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7-4790K",
+        "rating": "9.6",
+        "water_price_min": "1,999",
+        "water_price_max": "1,999",
+        "時脈:": "4000MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Xeon E5-2620v3",
+        "rating": "",
+        "時脈:": "2400MHz",
+        "Cache:": "15MB"
+    },
+    {
+        "names": "AMD Sempron 3850",
+        "rating": "",
+        "時脈:": "1300MHz",
+        "Socket:": "AM1",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i3-540 (3.06GHz) Box",
+        "rating": "9.2",
+        "時脈:": "3066MHz",
+        "Cache:": "4M"
+    },
+    {
+        "names": "Intel Core i7-4960X Extreme Edition",
+        "rating": "7.0",
+        "時脈:": "4000MHz",
+        "Socket:": "LGA 2011",
+        "Cache:": "15MB"
+    },
+    {
+        "names": "AMD Ryzen 5 2600",
+        "rating": "10",
+        "時脈:": "3400MHz",
+        "Cache:": "L2 3MB, L3 16MB"
+    },
+    {
+        "names": "Intel Pentium Processor G2120",
+        "rating": "",
+        "時脈:": "3100MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i7 930",
+        "rating": "9.6",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 1366",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Xeon E3-1245 V2",
+        "rating": "7.0",
+        "時脈:": "3400MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i3-4130",
+        "rating": "10",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i9-7960X",
+        "rating": "",
+        "時脈:": "2800MHz",
+        "Cache:": "22MB"
+    },
+    {
+        "names": "Intel Celeron G1850",
+        "rating": "",
+        "時脈:": "2900MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Celeron G550",
+        "rating": "",
+        "時脈:": "2600MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core 2 Duo T9800",
+        "rating": "",
+        "時脈:": "2930MHz",
+        "Socket:": "BGA479, PGA478",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i5-4670",
+        "rating": "10",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i5-2500",
+        "rating": "8.8",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "時脈:": "3300MHz",
+        "Cache:": "6M"
+    },
+    {
+        "names": "Intel Core i3-7100",
+        "rating": "",
+        "時脈:": "3900MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD A10-7870K",
+        "rating": "",
+        "時脈:": "3900MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i3-7300",
+        "rating": "",
+        "時脈:": "4000MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i7-875K",
+        "rating": "9.3",
+        "時脈:": "2930MHz",
+        "Socket:": "LGA 1156",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i7 870",
+        "rating": "8.0",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "時脈:": "2930MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i5-4590S",
+        "rating": "10",
+        "時脈:": "3000MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Xeon E5-2620",
+        "rating": "10",
+        "時脈:": "2000MHz",
+        "Socket:": "LGA 2011"
+    },
+    {
+        "names": "AMD Phenom II x6 1055T",
+        "rating": "9.2",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "時脈:": "2800MHz",
+        "Socket:": "AM3",
+        "Cache:": "L2: 3MB + L3: 6MB"
+    },
+    {
+        "names": "AMD Phenom II X4 945",
+        "rating": "9.1",
+        "時脈:": "3000MHz",
+        "Socket:": "AM3",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core 2 Duo E7400",
+        "rating": "9.7",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Phenom II X6 1075T",
+        "rating": "8.0",
+        "時脈:": "3000MHz",
+        "Socket:": "AM3",
+        "Cache:": "6M"
+    },
+    {
+        "names": "Intel Core i7 2700K",
+        "rating": "9.2",
+        "時脈:": "3500MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD FX 4300",
+        "rating": "8.0",
+        "時脈:": "3800MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Celeron E3400",
+        "rating": "",
+        "時脈:": "2600MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "AMD Athlon x4 860K",
+        "rating": "8.0",
+        "時脈:": "3700MHz",
+        "Socket:": "FM2+"
+    },
+    {
+        "names": "Intel Core i5-2320",
+        "rating": "9.3",
+        "時脈:": "3000MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD Ryzen 3 1200",
+        "rating": "",
+        "Socket:": "AM4",
+        "Cache:": "L2 2MB, L3 8MB"
+    },
+    {
+        "names": "AMD Athlon II X3 405E",
+        "rating": "",
+        "時脈:": "2300MHz",
+        "Socket:": "AM3",
+        "Cache:": "1.5MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core E5300",
+        "rating": "9.3",
+        "時脈:": "2600MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Phenom II X6 1045T",
+        "rating": "10",
+        "hon_price_min": "810",
+        "hon_price_max": "810",
+        "時脈:": "2700MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Xeon Processor E5-2603",
+        "rating": "",
+        "時脈:": "1400MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Pentium E5800",
+        "rating": "9.0",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD FX-8120/BE",
+        "rating": "8.7",
+        "時脈:": "3100MHz",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Pentium G3258",
+        "rating": "10",
+        "時脈:": "3200MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i5-4670K",
+        "rating": "10",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i5-2300",
+        "rating": "10",
+        "時脈:": "2800MHz",
+        "Cache:": "6M"
+    },
+    {
+        "names": "AMD Sempron 145",
+        "rating": "8.0",
+        "時脈:": "2800MHz",
+        "Socket:": "AM3"
+    },
+    {
+        "names": "AMD A4-5400",
+        "rating": "10",
+        "時脈:": "3600MHz",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core G3220",
+        "rating": "8.0",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Ryzen 7 2700X",
+        "rating": "10",
+        "時脈:": "3700MHz",
+        "Cache:": "L2 4MB, L3 16MB"
+    },
+    {
+        "names": "Intel Core i5-3330 Ivy Bridge",
+        "rating": "8.0",
+        "時脈:": "3000MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD Ryzen 7 1800X",
+        "rating": "10",
+        "時脈:": "4000MHz",
+        "Cache:": "Total L3 Cache 16MB"
+    },
+    {
+        "names": "Intel E3-1225 v3",
+        "rating": "10",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Xeon E3-1220V2",
+        "rating": "",
+        "時脈:": "3100MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD ATHLON II X3 405",
+        "rating": "",
+        "時脈:": "2300MHz",
+        "Socket:": "AM3",
+        "Cache:": "1.5MB"
+    },
+    {
+        "names": "AMD FX-8350",
+        "rating": "9.9",
+        "時脈:": "4000MHz",
+        "Cache:": "16MB"
+    },
+    {
+        "names": "Intel Pentium G3240",
+        "rating": "8.0",
+        "時脈:": "3100MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Xeon E3-1270V2",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core 2 Quad Q9650",
+        "rating": "9.2",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "12288KB"
+    },
+    {
+        "names": "AMD FX 8-Core Black Edition FX-8320 (FD8320FRHKBOX)",
+        "rating": "9.4",
+        "時脈:": "3500MHz",
+        "Cache:": "1024MB"
+    },
+    {
+        "names": "Intel Core 2 Quad Q9400S",
+        "rating": "6.0",
+        "時脈:": "2666MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i7 980X Extreme",
+        "rating": "9.6",
+        "時脈:": "3333MHz",
+        "Socket:": "LGA 1366",
+        "Cache:": "1.5MB + L3 12MB"
+    },
+    {
+        "names": "Intel Core i3 560",
+        "rating": "7.0",
+        "時脈:": "3300MHz",
+        "Cache:": "4M"
+    },
+    {
+        "names": "Intel Xeon Processor E3-1220L",
+        "rating": "",
+        "時脈:": "2200MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i7 860",
+        "rating": "9.3",
+        "時脈:": "2800MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 1920X",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Socket:": "sTR4",
+        "Cache:": "32MB"
+    },
+    {
+        "names": "Intel Core i7-7820X",
+        "rating": "",
+        "時脈:": "3600MHz",
+        "Cache:": "11 MB L3"
+    },
+    {
+        "names": "Intel Celeron G1610",
+        "rating": "",
+        "時脈:": "2600MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Core i3-4350",
+        "rating": "",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD Phenom II x2 550",
+        "rating": "9.9",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "時脈:": "3100MHz",
+        "Socket:": "AM3",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Core i7-4771",
+        "rating": "10",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD A8-3870 Black Edition",
+        "rating": "9.5",
+        "時脈:": "2900MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Xeon E3-1275 v2",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Athlon 64 x2 7850",
+        "rating": "8.7",
+        "hon_price_min": "540",
+        "hon_price_max": "540",
+        "時脈:": "2800MHz",
+        "Socket:": "AM2",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Core i7-4770K",
+        "rating": "9.3",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i5-4570",
+        "rating": "8.8",
+        "時脈:": "3200MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core G640",
+        "rating": "",
+        "時脈:": "2800MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Athlon II x3 435",
+        "rating": "10",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "時脈:": "2900MHz",
+        "Socket:": "AM3",
+        "Cache:": "1.5MB"
+    },
+    {
+        "names": "Intel Core i3-3245",
+        "rating": "6.0",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Ryzen 5 2600X",
+        "rating": "10",
+        "時脈:": "3600MHz",
+        "Cache:": "L2 3MB, L3 16MB"
+    },
+    {
+        "names": "AMD Ryzen 3 1300X",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Cache:": "L2 2MB, L3 8MB"
+    },
+    {
+        "names": "Intel Core i5-7640X",
+        "rating": "",
+        "Socket:": "LGA 2066",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i3-4340",
+        "rating": "",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Xeon E3-1230",
+        "rating": "10",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,780",
+        "時脈:": "3200MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core i7-2600K",
+        "rating": "9.3",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "8M"
+    },
+    {
+        "names": "AMD Phoeom II X4 970 Black Edition",
+        "rating": "9.3",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400",
+        "時脈:": "3500MHz",
+        "Socket:": "AM3",
+        "Cache:": "4 x 512KB L2 + 6MB L3"
+    },
+    {
+        "names": "AMD A4-5300",
+        "rating": "10",
+        "時脈:": "3400MHz",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Core i5-4430",
+        "rating": "9.0",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core E5400",
+        "rating": "7.5",
+        "時脈:": "2700MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD A10-7850K",
+        "rating": "9.7",
+        "時脈:": "3700MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i5-3570K Ivy Bridge",
+        "rating": "9.2",
+        "時脈:": "3500MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Core i3-4330",
+        "rating": "",
+        "時脈:": "3500MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Pentium G3440",
+        "rating": "",
+        "時脈:": "3300MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD Phenom II x4 900E OEM",
+        "rating": "8.8",
+        "時脈:": "2400MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Core 2 Quad Q8400",
+        "rating": "9.3",
+        "時脈:": "2660MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "AMD A10-7870",
+        "rating": "",
+        "Socket:": "FM2",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core i7-4930K",
+        "rating": "9.2",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 2011",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i9-7920X",
+        "rating": "10",
+        "時脈:": "2900MHz",
+        "Cache:": "16.5 MB L3"
+    },
+    {
+        "names": "AMD FX 8-Core FX-8300",
+        "rating": "",
+        "時脈:": "3300MHz",
+        "Socket:": "AM3+"
+    },
+    {
+        "names": "Intel Core i9-9940X",
+        "rating": "",
+        "時脈:": "3300MHz",
+        "Cache:": "19.25MB"
+    },
+    {
+        "names": "Intel Pentium Dual Core E5700",
+        "rating": "10",
+        "時脈:": "3000MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Athlon II X4 640T",
+        "rating": "10",
+        "時脈:": "3000MHz",
+        "Socket:": "AM3",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Pentium G3450",
+        "rating": "",
+        "時脈:": "3400MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "AMD FX-9590",
+        "rating": "9.5",
+        "時脈:": "4700MHz",
+        "Socket:": "AM3+",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "AMD Athlon II x2 215",
+        "rating": "10",
+        "時脈:": "2700MHz",
+        "Socket:": "AM3",
+        "Cache:": "2M"
+    },
+    {
+        "names": "AMD Phenom II X6 1090T",
+        "rating": "9.7",
+        "時脈:": "3200MHz",
+        "Socket:": "AM3",
+        "Cache:": "L2 3MB, L3 6MB"
+    },
+    {
+        "names": "Intel Core i3 9100",
+        "rating": "",
+        "時脈:": "3600MHz",
+        "Socket:": "LGA 1151",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD A10-5700",
+        "rating": "",
+        "時脈:": "4000MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Celeron G1840",
+        "rating": "",
+        "時脈:": "2800MHz",
+        "Socket:": "LGA 1150",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD Phenom II X4 965",
+        "rating": "9.4",
+        "hon_price_min": "1,008",
+        "hon_price_max": "1,008",
+        "時脈:": "3400MHz",
+        "Socket:": "AM3",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "Intel Xeon Processor E3-1260L",
+        "rating": "",
+        "時脈:": "2400MHz",
+        "Cache:": "8MB"
+    },
+    {
+        "names": "Intel Pentium Gold G5600",
+        "rating": "",
+        "時脈:": "3900MHz",
+        "Cache:": "4MB"
+    },
+    {
+        "names": "Intel Core 2 Quad Q9400",
+        "rating": "8.6",
+        "時脈:": "2666MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "6144KB"
+    },
+    {
+        "names": "Intel Core i3-3225",
+        "rating": "7.0",
+        "時脈:": "3300MHz",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Core i7 3960X",
+        "rating": "7.6",
+        "時脈:": "3300MHz",
+        "Cache:": "12MB"
+    },
+    {
+        "names": "Intel Core i7-5930K",
+        "rating": "6.7",
+        "時脈:": "3500MHz",
+        "Cache:": "15MB"
+    },
+    {
+        "names": "Intel Core i5-4590",
+        "rating": "10",
+        "時脈:": "3300MHz",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "AMD Ryzen Threadripper 1950X",
+        "rating": "10",
+        "時脈:": "4000MHz",
+        "Cache:": "Total L3 Cache 32MB"
+    },
+    {
+        "names": "AMD Athlon II X4 610e",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "700",
+        "時脈:": "2400MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD FX-4100",
+        "rating": "9.6",
+        "時脈:": "3600MHz",
+        "Cache:": "L2 4MB + L3 8MB"
+    },
+    {
+        "names": "Intel Core 2 Duo E8600",
+        "rating": "10",
+        "時脈:": "3333MHz",
+        "Socket:": "LGA 775",
+        "Cache:": "6MB"
+    },
+    {
+        "names": "Intel Pentium Processor G2140",
+        "rating": "",
+        "時脈:": "3300MHz",
+        "Socket:": "LGA 1155",
+        "Cache:": "3MB"
+    },
+    {
+        "names": "Intel Celeron G530",
+        "rating": "9.0",
+        "時脈:": "2400MHz",
+        "Cache:": "2MB"
+    },
+    {
+        "names": "AMD A4 3300",
+        "rating": "",
+        "時脈:": "2500MHz",
+        "Cache:": "1MB"
+    },
+    {
+        "names": "Intel Core i7 940",
+        "rating": "8.7",
+        "時脈:": "2930MHz",
+        "Cache:": "8MB"
+    }
+]

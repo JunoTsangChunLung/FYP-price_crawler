@@ -1,0 +1,3315 @@
+[
+    {
+        "names": "Future Lab Visual Mask 喚眼儀",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "699",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Comforbot 4D 無線人體工學揉捏式溫感舒通放鬆按摩器",
+        "rating": "10",
+        "hon_price_min": "570",
+        "hon_price_max": "699",
+        "種類:": "肩頸按摩、背部按摩、足部按摩",
+        "力度調節:": "3檔強度"
+    },
+    {
+        "names": "Booster MaseTina 按摩槍",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Booster New Emotion 超迷你按摩槍",
+        "rating": "9.5",
+        "hon_price_min": "299",
+        "hon_price_max": "498",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "XPower XPowerPro MG9 迷你冷熱無線按摩槍",
+        "rating": "9.0",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "種類:": "按摩槍",
+        "力度調節:": "5種強度調較： 1-1650RPM /  2-2000RPM / 3-2300RPM/ 4-2600RPM / 5-3000RPM"
+    },
+    {
+        "names": "Philips 飛利浦 運動迷你按摩槍 PPM7501",
+        "rating": "10",
+        "hon_price_min": "938",
+        "hon_price_max": "998",
+        "種類:": "按摩槍",
+        "充電功能:": "USB Type-C，DC 5V 2A"
+    },
+    {
+        "names": "Booster Microbot 超迷你暖頭按摩槍",
+        "rating": "9.0",
+        "hon_price_min": "468",
+        "hon_price_max": "798",
+        "種類:": "按摩槍",
+        "力度調節:": "6mm 有效按摩深度，4檔變速，最高可達 3000rpm"
+    },
+    {
+        "names": "Philips 飛利浦 運動按摩槍 PPM7502BK",
+        "rating": "",
+        "hon_price_min": "2,298",
+        "hon_price_max": "2,298",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Booster MasePro 按摩槍",
+        "rating": "10",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "XPower x 罐頭豬Lulu 超迷你肌肉按摩槍 MG4",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "558",
+        "種類:": "按摩槍",
+        "力度調節:": "6種強度調較，強達3200次/分鐘"
+    },
+    {
+        "names": "Yohome 家の逸 3D電動殺菌智控摺疊恆溫足浴盆 YH-003",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Philips 飛利浦 按摩眼罩 PPM2301DB/90",
+        "rating": "",
+        "hon_price_min": "535",
+        "hon_price_max": "598",
+        "種類:": "眼部按摩",
+        "充電功能:": "磁吸電源線, 可拆式電池"
+    },
+    {
+        "names": "Future Lab 8D Plus 極手感按摩墊",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,299",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Eleeels 熱石按摩儀 S2",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "water_price_min": "1,399",
+        "water_price_max": "1,399",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Booster Pokebot 小型筋膜按摩槍",
+        "rating": "7.2",
+        "hon_price_min": "450",
+        "hon_price_max": "588",
+        "water_price_min": "390",
+        "water_price_max": "500",
+        "種類:": "按摩槍",
+        "力度調節:": "4檔變速, 最高可達 3200 rpm"
+    },
+    {
+        "names": "Mediness Ray Care 眼部按摩器 MVP-6000",
+        "rating": "8.0",
+        "hon_price_min": "358",
+        "hon_price_max": "488",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "TheraGun Pro 4 肌肉按摩槍",
+        "rating": "10",
+        "hon_price_min": "3,599",
+        "hon_price_max": "4,899",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Mediness 「四手神肩」SHIATSU指壓肩頸按摩器 MVP-884",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "588",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Booster Mattea 超迷你按摩槍",
+        "rating": "10",
+        "hon_price_min": "370",
+        "hon_price_max": "468",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Meresoy Mini 靜音筋膜按摩槍",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "659",
+        "種類:": "按摩槍",
+        "力度調節:": "3檔力度調節"
+    },
+    {
+        "names": "OTO 輕盈腰背鬆 Oval HS-900V",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,680",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Mediness Dr.Healing 膝蓋按摩器 MVP-7200W",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "1,188",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "XPower 超迷你鋁合金肌肉按摩槍 MG7",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "428",
+        "種類:": "按摩槍",
+        "力度調節:": "4種強度調較: 1750,2250,2800,3250次/分鐘"
+    },
+    {
+        "names": "XPower 2合1超迷你熱療按摩槍 MG11",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "538",
+        "種類:": "按摩槍",
+        "力度調節:": "3強度調較"
+    },
+    {
+        "names": "Nathome 凸點磨腳折疊足浴盆 NZY-950",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "468",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Breo Massagun S1 迷你按摩槍",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "599",
+        "種類:": "按摩槍",
+        "力度調節:": "4檔速度"
+    },
+    {
+        "names": "Infinity 深層迷你肌肉筋膜按摩槍 MFG22",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "428",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Odoyo Magic Punch Lite 超輕巧隨身按摩槍",
+        "rating": "9.8",
+        "hon_price_min": "470",
+        "hon_price_max": "550",
+        "種類:": "按摩槍",
+        "力度調節:": "4段轉速"
+    },
+    {
+        "names": "Odoyo Magic Punch Double 雙頭隨身按摩槍 MP2280",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,199",
+        "種類:": "按摩槍",
+        "力度調節:": "三檔調節"
+    },
+    {
+        "names": "XPower XPowerPro 超迷你鋁合金無線按摩槍 MG8",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "種類:": "按摩槍",
+        "力度調節:": "4種強度調較，強達3000次/分鐘"
+    },
+    {
+        "names": "TheraGun Prime 肌肉按摩槍",
+        "rating": "10",
+        "hon_price_min": "2,098",
+        "hon_price_max": "2,379",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "TheraGun Elite 肌肉按摩槍",
+        "rating": "10",
+        "hon_price_min": "2,960",
+        "hon_price_max": "3,499",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Yohome 家の逸 折疊遙控加熱高桶足浴盆 YH-001",
+        "rating": "",
+        "hon_price_min": "386",
+        "hon_price_max": "429",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "XPower x Sanrio 超迷你肌肉按摩槍 MG3",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "種類:": "按摩槍",
+        "力度調節:": "4種強度調較: 1000,1600, 2200,3000次/分鐘"
+    },
+    {
+        "names": "XPower 3合1拔罐刮痧熱敷治療按摩儀 CP1",
+        "rating": "",
+        "hon_price_min": "215",
+        "hon_price_max": "268",
+        "種類:": "其他按摩器材",
+        "力度調節:": "深層/舒緩2種模式,有12級吸力可調較,有12級加熱等級"
+    },
+    {
+        "names": "XPower 超迷你肌肉按摩槍 MG5",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "328",
+        "種類:": "按摩槍",
+        "充電功能:": "USB Type-C"
+    },
+    {
+        "names": "SABA 無線頸背部指壓式按摩器 SA-SNM811",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "598",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "XPower 智能頸椎按摩儀 NM3",
+        "rating": "10",
+        "hon_price_min": "145",
+        "hon_price_max": "198",
+        "種類:": "肩頸按摩",
+        "力度調節:": "6種智能模擬按摩模式，9種力度調較: 刮痧、針灸、推拿、拔罐、揼骨、脈衝"
+    },
+    {
+        "names": "Mediness 溫感手部按摩器 MVP-7790",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "989",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Meresoy 9° 深層肌肉靜音按摩槍",
+        "rating": "10",
+        "hon_price_min": "788",
+        "hon_price_max": "1,199",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Booster MasSelf 不求人按摩器",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,298",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Xiaomi 小米 有品 蒸氣足浴盆",
+        "rating": "",
+        "water_price_min": "830",
+        "water_price_max": "880",
+        "種類:": "足部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "OTO Ultra Back 3D頸背鬆 UB-68",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "種類:": "肩頸按摩, 背部按摩"
+    },
+    {
+        "names": "Booster T-One Smart Hit 專業運動按摩槍",
+        "rating": "9.6",
+        "hon_price_min": "750",
+        "hon_price_max": "1,088",
+        "種類:": "按摩槍",
+        "力度調節:": "手動, 自動, 智能"
+    },
+    {
+        "names": "Omron 電子脈衝按摩器 - 低頻電療法 HV-F128",
+        "rating": "9.5",
+        "hon_price_min": "328",
+        "hon_price_max": "360",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Infinity 掌心形肌肉筋膜按摩槍 MFG21",
+        "rating": "8.0",
+        "hon_price_min": "248",
+        "hon_price_max": "399",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Kusa 智能電動頸部按摩器 (帶APP) N200",
+        "rating": "10",
+        "hon_price_min": "358",
+        "hon_price_max": "398",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Booster PokeW 智能深層電動肌肉放鬆筋膜槍",
+        "rating": "10",
+        "hon_price_min": "590",
+        "hon_price_max": "878",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "種類:": "按摩槍",
+        "充電功能:": "TYPE-C快充"
+    },
+    {
+        "names": "Xiaomi 小米 筋膜按摩槍",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "880",
+        "種類:": "按摩槍",
+        "力度調節:": "1800rpm、2400rpm 和 3200rpm"
+    },
+    {
+        "names": "XPower 超迷你肌肉按摩槍 MG4",
+        "rating": "8.9",
+        "hon_price_min": "320",
+        "hon_price_max": "458",
+        "種類:": "按摩槍",
+        "力度調節:": "6種強度調較，強達3200次/分鐘"
+    },
+    {
+        "names": "Hyundai 現代 多功能3D氣囊腿部按摩器 FJ207 HY",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "種類:": "足部按摩 / 腿部按摩",
+        "力度調節:": "3種"
+    },
+    {
+        "names": "OTO Spinal Spa 無線腰脊鬆 SS-99",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,480",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Dr.Parent 全包裹氣囊三段式關節理療儀",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "599",
+        "種類:": "膝部按摩, 腿部按摩",
+        "充電功能:": "Type-C充電"
+    },
+    {
+        "names": "Beurer 肩頸專用保暖熱敷墊 (HK54)",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "969",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Xiaomi 小米 有品 金稻披掛式勁捶按摩披肩",
+        "rating": "",
+        "water_price_min": "490",
+        "water_price_max": "499",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "XPower Mini Massage Gun 迷你肌肉按摩槍 MG3",
+        "rating": "8.6",
+        "hon_price_min": "258",
+        "hon_price_max": "428",
+        "種類:": "按摩槍",
+        "力度調節:": "4種強度調較: 1000, 1600, 2200, 3000次/分鐘"
+    },
+    {
+        "names": "Daewoo 大宇 折疊滾輪按摩足浴盆 FM11",
+        "rating": "8.0",
+        "hon_price_min": "528",
+        "hon_price_max": "638",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "XPower XPowerPro 超迷你肌肉按摩槍 MG6",
+        "rating": "8.0",
+        "hon_price_min": "470",
+        "hon_price_max": "599",
+        "種類:": "按摩槍",
+        "力度調節:": "4種強度"
+    },
+    {
+        "names": "MYTREX EMS發熱頸部 按摩器",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "650",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Hyperice Hypervolt Go 2 震動按摩槍",
+        "rating": "10",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,599",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Kusa iRelax 眼部按摩器 EM500",
+        "rating": "9.0",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "OTO Power Knead 無線式錐錐爽 PK-808",
+        "rating": "2.0",
+        "hon_price_min": "509",
+        "hon_price_max": "889",
+        "種類:": "肩頸按摩",
+        "力度調節:": "3個按摩速度"
+    },
+    {
+        "names": "Future Lab 8D獨立恆溫式極手感按摩墊",
+        "rating": "10",
+        "hon_price_min": "658",
+        "hon_price_max": "1,299",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Zikko Dr.Rock Pad 石墨烯&砭石遠紅外線熱護睡墊 SP719",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,980",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "TheraGun Mini 肌肉按摩槍",
+        "rating": "9.3",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,699",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Booster RE:Pokebot 小型筋膜按摩槍",
+        "rating": "10",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "XPower 智能頸椎按摩儀 NM4",
+        "rating": "10",
+        "hon_price_min": "258",
+        "hon_price_max": "288",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Gemibee 砭石發熱按摩腰帶 GB0006",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Omron 低週波治療器 HV-F013",
+        "rating": "8.0",
+        "hon_price_min": "288",
+        "hon_price_max": "400",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Phiten 膝部氣墊按摩器 (進階版)",
+        "rating": "10",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,280",
+        "種類:": "其他按摩器材",
+        "力度調節:": "三級力度"
+    },
+    {
+        "names": "Hyundai 現代 眼部熱敷按摩器 FY-E11",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "眼部按摩",
+        "充電功能:": "有"
+    },
+    {
+        "names": "MYTREX EMS 二代溫熱頸部按摩器 MP-DHN20W",
+        "rating": "10",
+        "hon_price_min": "590",
+        "hon_price_max": "699",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Necksaviour Mini 頸椎矯正伸展器",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "379",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Comforbot 坐躺摺疊全身氣囊熱敷按摩墊 CF-002",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "999",
+        "種類:": "其他按摩器材",
+        "力度調節:": "18個氣囊，3級力度調節"
+    },
+    {
+        "names": "Kusa iRelax 溫感加熱手部按摩器 HM-300",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "798",
+        "種類:": "手部按摩",
+        "力度調節:": "2種強度按摩模式+2種熱度按摩模式"
+    },
+    {
+        "names": "Gemibee 氣囊式背部舒展床墊 GB0007",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Hiraki 摺疊加熱恆溫按摩足浴桶 FM-42",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "SKG 眼部按摩器 E3",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "658",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "OTO Eyetone 眼舒適 無線眼部按摩器 EN-98",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "SAMSUNG C&T ITFIT 二合一頸部按摩枕 ITFITEX14",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "288",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Kusa iRelax 膝部按摩器 KM-300",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "種類:": "腳部按摩",
+        "力度調節:": "3檔"
+    },
+    {
+        "names": "脊安適 頸椎按摩儀 G3",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "water_price_min": "388",
+        "water_price_max": "388",
+        "種類:": "肩頸按摩",
+        "力度調節:": "4大按摩手法配合10級力度選擇，必定有一組設定適合你的頸椎"
+    },
+    {
+        "names": "Xiaomi 小米 MINI 頸部按摩器 M1",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "498",
+        "water_price_min": "358",
+        "water_price_max": "368",
+        "種類:": "肩頸按摩",
+        "力度調節:": "3檔力道"
+    },
+    {
+        "names": "Zenox 舒適頸背按摩椅墊",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,999",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Future Lab 8D 按摩貼墊",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "349",
+        "種類:": "其他按摩器材",
+        "力度調節:": "3種模式"
+    },
+    {
+        "names": "OTO 3D頸背鬆 Plus UB-78",
+        "rating": "",
+        "hon_price_min": "3,684",
+        "hon_price_max": "3,684",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Nathome 可折疊按摩足浴盆",
+        "rating": "8.0",
+        "hon_price_min": "270",
+        "hon_price_max": "799",
+        "water_price_min": "288",
+        "water_price_max": "299",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Odoyo Magic Punch 迷你按摩槍",
+        "rating": "8.0",
+        "hon_price_min": "395",
+        "hon_price_max": "599",
+        "種類:": "按摩槍",
+        "力度調節:": "三檔調節"
+    },
+    {
+        "names": "Hyperice Hypervolt 2 肌肉震動舒緩裝置",
+        "rating": "",
+        "hon_price_min": "2,599",
+        "hon_price_max": "2,699",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "MICHI Reneckz 肩頸按摩器",
+        "rating": "10",
+        "hon_price_min": "648",
+        "hon_price_max": "699",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Comforbot 砭石熱溫灸罐刮痧機",
+        "rating": "8.8",
+        "hon_price_min": "288",
+        "hon_price_max": "599",
+        "種類:": "其他按摩器材",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Blaupunkt 摺疊足浴盆 BP-ZY01A",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "598",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Lourdes 膝部按摩器 AX-HX205",
+        "rating": "",
+        "hon_price_min": "1,269",
+        "hon_price_max": "1,269",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Phoenix A2E 按摩槍",
+        "rating": "10",
+        "hon_price_min": "430",
+        "hon_price_max": "498",
+        "water_price_min": "280",
+        "water_price_max": "450",
+        "種類:": "按摩槍",
+        "力度調節:": "3檔"
+    },
+    {
+        "names": "Eleeels Percussive Massage Device 深層肌肉振擊按摩儀 X4",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "water_price_min": "2,299",
+        "water_price_max": "2,299",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "KeepFit 膝蓋關節儀按摩器 KPF-knee02-YS",
+        "rating": "10",
+        "water_price_min": "2,580",
+        "water_price_max": "2,580",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Mediness 「睛神」眼部按摩器 MBE-8000",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "788",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "眼部按摩",
+        "充電功能:": "USB"
+    },
+    {
+        "names": "Eleeels 便攜式氣壓按腿儀 A1",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,399",
+        "water_price_min": "1,199",
+        "water_price_max": "1,199",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Booster Heat Hot W 溫暖按頭智能按摩槍",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "980",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Mediness Plabelle 等離子足療靴 MDM-902",
+        "rating": "",
+        "hon_price_min": "2,738",
+        "hon_price_max": "2,988",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Machino 可折疊氣囊按摩坐墊",
+        "rating": "7.3",
+        "hon_price_min": "550",
+        "hon_price_max": "899",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "TheraGun Hot & Cold Rings 冷熱治療環",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Zikko Dr.Rock Pad 石墨烯&砭石遠紅外線熱護坐墊 SP450",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "SKG 頸部按摩儀 H7",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380",
+        "種類:": "肩頸按摩",
+        "力度調節:": "三檔力度"
+    },
+    {
+        "names": "KeepFit 雙膝蓋關節按摩儀 KPF-knee02",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Renpho 足部按摩器",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "920",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "XPower 超迷你按摩槍 MG13",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "按摩槍",
+        "力度調節:": "4種強度調較，強達4000次/分鐘"
+    },
+    {
+        "names": "TheraGun Mini 2.0 迷你按摩槍",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Eleeels Knee Care Device 膝蓋按摩儀 R1",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,699",
+        "water_price_min": "1,699",
+        "water_price_max": "1,699",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Mediness 多功能U型按摩枕",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "388",
+        "種類:": "肩頸按摩",
+        "充電功能:": "USB 充電"
+    },
+    {
+        "names": "Hyperice Hypervolt GO輕巧震動按摩槍",
+        "rating": "10",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,599",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "ION 迷你輕便肌肉按摩槍 FUNLAB26",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "種類:": "按摩槍",
+        "力度調節:": "4檔轉速, 1600-3200轉/分鐘, 滿足不同人士需要"
+    },
+    {
+        "names": "Booster Pro3 可調式振動肌肉按摩槍",
+        "rating": "10",
+        "hon_price_min": "1,420",
+        "hon_price_max": "2,380",
+        "water_price_min": "1,330",
+        "water_price_max": "1,450",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "SAMSUNG C&T ITFIT Wirless Eye Massager 無線眼部按摩器 ITFITEX13",
+        "rating": "",
+        "water_price_min": "228",
+        "water_price_max": "228",
+        "種類:": "眼部按摩",
+        "充電功能:": "USB"
+    },
+    {
+        "names": "KeepFit 抖腿足部按摩機",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "ITSU 頸輕Zone IS-0115",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Naipo 頸肩揉捏按摩器 oCuddle-C1",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "種類:": "肩頸按摩, 背部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Lourdes Beauté 石墨烯無線循環溫灸儀 AX-HPL151",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "SKG 膝蓋關節儀 BK-3",
+        "rating": "",
+        "water_price_min": "1,068",
+        "water_price_max": "1,088",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "OTO Mini Jet 無線按摩槍 MT-700",
+        "rating": "",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "種類:": "按摩槍",
+        "力度調節:": "3個速度"
+    },
+    {
+        "names": "Kusa M300 Mini Cool 小型筋膜按摩槍",
+        "rating": "10",
+        "hon_price_min": "519",
+        "hon_price_max": "598",
+        "種類:": "筋模按摩，按摩槍",
+        "力度調節:": "6檔的轉速分別是：1500一1700一1900一2100一2300一2500rpm"
+    },
+    {
+        "names": "Lourdes 包裹按摩器 AX-HPL305",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "549",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Hyundai 現代 多功能掌腹按摩器 FJ101",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "種類:": "腹部按摩/腿部按摩/肩頸按摩/腿部按摩"
+    },
+    {
+        "names": "Eleeels 迷你按摩槍 P2",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "種類:": "按摩槍",
+        "力度調節:": "振動頻率：  1800rpm, 30Hz / 2200rpm, 37Hz / 2600rpm, 43Hz / 3000rpm, 50Hz"
+    },
+    {
+        "names": "Lourdes 煥采溫熱手部按摩器升級版 HXL-1805",
+        "rating": "10",
+        "hon_price_min": "798",
+        "hon_price_max": "1,099",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Omron HeatTens 溫熱低週波治療器 HV-F311",
+        "rating": "2.0",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "種類:": "其他按摩器材",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Quico 輕巧頸椎按摩儀 PC401",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "種類:": "肩頸按摩",
+        "力度調節:": "16檔強度 5大自選模式"
+    },
+    {
+        "names": "MYTREX EMS Heat Stretch 按摩器",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "899",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Philips 飛利浦 Eye Mask Massager 眼罩按摩器 PPM7101E",
+        "rating": "",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Samsung 三星 ITFIT 輕便肌肉按摩槍 ITFITEX05BK",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Gemibee 膝部熱感按摩器 - 一對裝 GB0009",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "SKG 頸部9D沉浸式環繞按摩器 G7 Pro",
+        "rating": "10",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,199",
+        "water_price_min": "998",
+        "water_price_max": "1,199",
+        "種類:": "肩頸按摩",
+        "力度調節:": "9段力度"
+    },
+    {
+        "names": "Meresoy Pocket 迷你靜音筋膜口袋按摩槍",
+        "rating": "10",
+        "hon_price_min": "448",
+        "hon_price_max": "599",
+        "種類:": "按摩槍",
+        "力度調節:": "三檔調節"
+    },
+    {
+        "names": "Booster Angle 按摩槍",
+        "rating": "10",
+        "hon_price_min": "990",
+        "hon_price_max": "1,488",
+        "種類:": "按摩槍",
+        "力度調節:": "五檔調節"
+    },
+    {
+        "names": "Feiyu Tech 飛宇 Kica K2 按摩槍",
+        "rating": "10",
+        "hon_price_min": "589",
+        "hon_price_max": "688",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Omron 低頻治療儀 HV-F021",
+        "rating": "9.2",
+        "hon_price_min": "348",
+        "hon_price_max": "430",
+        "water_price_min": "280",
+        "water_price_max": "330",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "JFT 3D通風可加熱氣囊式腰背墊 BP-291",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Eleeels 全方位舒緩肌肉按摩槍 X1T",
+        "rating": "8.0",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,800",
+        "water_price_min": "1,999",
+        "water_price_max": "2,380",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Booster X 按摩槍",
+        "rating": "10",
+        "hon_price_min": "648",
+        "hon_price_max": "1,358",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Lourdes Oyasumi Good Night MEME HOT 熱敷眼罩 AX-BNL801",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "439",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Mediness 眼舒鬆多頻震動眼部按摩器 MVP-4100",
+        "rating": "",
+        "hon_price_min": "728",
+        "hon_price_max": "788",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Doctor Air 3D無死角按摩精靈球",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "998",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "ITSU 輕足適 腳部按摩機 IS-1001",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 摺疊式按摩足浴盆 LF-ZP008",
+        "rating": "",
+        "water_price_min": "378",
+        "water_price_max": "598",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "ACK 摺疊恆溫足浴盆",
+        "rating": "10",
+        "hon_price_min": "248",
+        "hon_price_max": "359",
+        "water_price_min": "358",
+        "water_price_max": "358",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Comforbot 無煙電磁通絡溫灸盒",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 無線智能控溫負壓拔罐砭石刮痧器",
+        "rating": "10",
+        "hon_price_min": "698",
+        "hon_price_max": "699",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "OTO 3D 頸肩鬆 PW 302",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "699",
+        "種類:": "肩頸按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "HITH 智能足浴器 Q1 有線版觸控款",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "750",
+        "water_price_max": "799",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Booster Pro2 肌肉按摩槍",
+        "rating": "10",
+        "hon_price_min": "1,368",
+        "hon_price_max": "1,968",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "TickoLife 溫通經絡儀",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "KeepFit 暖宮腰帶 KAM-01",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480",
+        "water_price_min": "2,480",
+        "water_price_max": "2,480",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "OSIM uJolly 背樂樂 OS-260",
+        "rating": "9.0",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Mediness 千手神肩 MD-806 / MVP-705",
+        "rating": "10",
+        "hon_price_min": "698",
+        "hon_price_max": "700",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Comforbot 砭石恆溫電動刮痧板",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "269",
+        "種類:": "美容按摩機"
+    },
+    {
+        "names": "ION 第6代輕便肌肉筋膜按摩槍 J6M",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "種類:": "按摩槍",
+        "力度調節:": "5檔轉速, 1600-2700轉/分鍾, 滿足不同人士需要"
+    },
+    {
+        "names": "Infinity 氣囊按壓式溫熱腿部按摩器 FMA21",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "499",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Philips 飛利浦 頭部按摩器 PPM1301",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "700",
+        "種類:": "頭部按摩"
+    },
+    {
+        "names": "Booster V-Necz x Niplus 肩頸按摩器",
+        "rating": "10",
+        "hon_price_min": "690",
+        "hon_price_max": "988",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Lourdes 聲波頭部按摩器Sonic Head Spa AX-KXL3500",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "413",
+        "種類:": "頭部按摩"
+    },
+    {
+        "names": "Ohella Air Pressure Massager 氣動按摩器 - 360度無線氣壓按摩 AM01",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "種類:": "腿部按摩",
+        "力度調節:": "3檔強度"
+    },
+    {
+        "names": "GoRelax 「眼適康」4D溫感智能按摩眼罩 EMV-3000",
+        "rating": "10",
+        "hon_price_min": "528",
+        "hon_price_max": "538",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Lourdes Wpro 按摩抱枕 AX-HCL338",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,143",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Oreadex 運動防水按摩器 OD820",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "868",
+        "種類:": "其他按摩器材",
+        "力度調節:": "可多種力度調節.適合不同部位"
+    },
+    {
+        "names": "KeepFit 智能足療機 KFOOT-03",
+        "rating": "",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380",
+        "種類:": "足部按摩/腿部按摩"
+    },
+    {
+        "names": "COFO Neck Pro 頸部按摩儀",
+        "rating": "10",
+        "hon_price_min": "570",
+        "hon_price_max": "699",
+        "種類:": "肩頸按摩",
+        "力度調節:": "10"
+    },
+    {
+        "names": "HITH 智能足浴按摩器 X5 時尚款",
+        "rating": "",
+        "water_price_min": "788",
+        "water_price_max": "788",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-RAJ6 美腿按摩器",
+        "rating": "",
+        "water_price_min": "1,990",
+        "water_price_max": "1,990",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "TheraGun Pro Massage Gun (V4) 肌肉按摩槍",
+        "rating": "",
+        "hon_price_min": "3,899",
+        "hon_price_max": "4,899",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Eleeels 深層肌肉按摩槍 G1",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Dr. Pen Pro EMS 低頻脈衝按摩器",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "399",
+        "種類:": "按摩器",
+        "力度調節:": "3種按摩節奏+9檔力度"
+    },
+    {
+        "names": "Lourdes Double Momi 按摩抱枕 (大麗花造型)",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Meresoy Deft 靜音筋膜按摩槍",
+        "rating": "2.0",
+        "hon_price_min": "499",
+        "hon_price_max": "699",
+        "種類:": "按摩槍",
+        "力度調節:": "5度"
+    },
+    {
+        "names": "VONMIE 折疊足底按摩墊",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "499",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Renpho 溫感眼部按摩器",
+        "rating": "10",
+        "hon_price_min": "375",
+        "hon_price_max": "599",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Booster  X2 炫彩升級版可調式振動肌肉按摩槍",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,460",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Hyperice Venom Back 熱能震動器",
+        "rating": "",
+        "hon_price_min": "1,688",
+        "hon_price_max": "1,999",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 有品 PMA石墨烯鼠標手按摩神器",
+        "rating": "",
+        "water_price_min": "425",
+        "water_price_max": "449",
+        "種類:": "手部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "TheraGun G3 標準型肌肉按摩槍",
+        "rating": "10",
+        "hon_price_min": "1,899",
+        "hon_price_max": "3,099",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 錘擊按摩腰靠",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "water_price_min": "650",
+        "water_price_max": "659",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Booster 深層筋膜按摩槍 M2",
+        "rating": "8.0",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "種類:": "按摩槍",
+        "力度調節:": "900-3200頻率"
+    },
+    {
+        "names": "Philips 飛利浦 按摩眼罩 PPM2501",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "888",
+        "種類:": "眼部按摩",
+        "力度調節:": "4種按摩模式"
+    },
+    {
+        "names": "Oreadex 震動按摩棒OD291",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "298",
+        "種類:": "其他按摩器材",
+        "力度調節:": "8 檔"
+    },
+    {
+        "names": "Breo iBack 3 多功能按摩枕",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "背部按摩",
+        "充電功能:": "2200mAh"
+    },
+    {
+        "names": "Lourdes 3D Momi 按摩抱枕 AX-HCL310",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,319",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "SKG 迷你按摩槍 F5",
+        "rating": "8.0",
+        "hon_price_min": "439",
+        "hon_price_max": "460",
+        "種類:": "按摩槍",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Booster M 靜音版按摩槍",
+        "rating": "10",
+        "hon_price_min": "538",
+        "hon_price_max": "538",
+        "water_price_min": "537",
+        "water_price_max": "580",
+        "種類:": "按摩槍",
+        "力度調節:": "10段力度調節"
+    },
+    {
+        "names": "Hyperice Hypervolt Plus 按摩機",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "3,599",
+        "種類:": "按摩槍",
+        "力度調節:": "輸出力度比傳統加大 30%"
+    },
+    {
+        "names": "Xiaomi 小米 有品 摩摩噠按摩熱敷多功能頸枕",
+        "rating": "",
+        "water_price_min": "449",
+        "water_price_max": "499",
+        "種類:": "肩頸按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Booster LightSaber Mini 深層筋膜按摩槍",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "種類:": "按摩槍",
+        "力度調節:": "5 Scientifically Studied Speeds (1800-3000 Strokes/Min)"
+    },
+    {
+        "names": "Breo iSee 18 眼部按摩器",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "658",
+        "water_price_min": "599",
+        "water_price_max": "699",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Hyundai 現代 多功能全身溫熱按摩枕 HY-588",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "種類:": "(手﹑頸﹑腰﹑腹﹑腿) 按摩"
+    },
+    {
+        "names": "Xiaomi 小米 MINI 膝部按摩器 ULAP520",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "798",
+        "water_price_min": "538",
+        "water_price_max": "598",
+        "種類:": "其他按摩器材",
+        "力度調節:": "3檔力道"
+    },
+    {
+        "names": "SuperV x Vformula 第三代小鯨魚筋膜按摩槍 FG21",
+        "rating": "8.0",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Hyperice Hypervolt 按摩機",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,999",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Naipo 肩頸加熱揉捏按摩器 MGS-150D",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "698",
+        "種類:": "肩頸按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "To-bit 智能熱敷按摩眼罩",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Meavon 每物智能雙膜筋膜槍 MV-FG-0308",
+        "rating": "",
+        "water_price_min": "998",
+        "water_price_max": "998",
+        "種類:": "按摩槍",
+        "力度調節:": "5段"
+    },
+    {
+        "names": "Xiaomi 小米 有品 摩摩噠腿膝足按摩器",
+        "rating": "",
+        "water_price_min": "779",
+        "water_price_max": "838",
+        "種類:": "足部按摩",
+        "力度調節:": "4種模式 3種力度"
+    },
+    {
+        "names": "Lourdes 第二代小章魚音波紓壓頭皮按摩器 AX-KXL3510",
+        "rating": "",
+        "hon_price_min": "679",
+        "hon_price_max": "799",
+        "種類:": "頭部按摩"
+    },
+    {
+        "names": "Nathome 滾輪凸點磨腳折疊足浴盆 (2020升級版) NZY-755",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "398",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Dream 3D肩頸背穴位按摩枕",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Mediness 手部按摩器 HQ-110",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "838",
+        "種類:": "手部按摩",
+        "力度調節:": "3檔"
+    },
+    {
+        "names": "Micro Sun USB充電石墨稀發熱蒸氣眼罩",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Omron Total Power + Heat TENS Unit 溫熱低週波治療器 PM800",
+        "rating": "5.0",
+        "water_price_min": "778",
+        "water_price_max": "798",
+        "種類:": "其他按摩器材",
+        "力度調節:": "有"
+    },
+    {
+        "names": "HITH 智能足浴盆 ZMZ-H2",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "988",
+        "water_price_min": "988",
+        "water_price_max": "998",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Oreadex 章魚防水按摩器 OD380",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "iHomey Mini Plus 小型筋膜按摩槍",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "699",
+        "種類:": "按摩槍",
+        "力度調節:": "4檔變速"
+    },
+    {
+        "names": "Blaupunkt 按摩加熱足浴盤 BP-ZY02",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 家用可攜式低頻電療經絡按摩儀器 MBJ",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Eleeels 輕量型便攜按摩槍 X3",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,699",
+        "water_price_min": "1,499",
+        "water_price_max": "1,499",
+        "種類:": "按摩槍",
+        "力度調節:": "特強高速無刷馬達 (最高3200轉/秒), 4段變速模式 20Hz, 30Hz, 40Hz, 53Hz"
+    },
+    {
+        "names": "TheraGun liv 深層肌肉按摩槍",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,799",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "OTO 揼揼鬆",
+        "rating": "7.0",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "種類:": "肩頸按摩, 背部按摩, 腿部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Ziglite 節亮 掌上型滾輪夾脖頸椎按摩器 MBA",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Ziglite 節亮 電動全身頭部按摩器",
+        "rating": "",
+        "hon_price_min": "233",
+        "hon_price_max": "233",
+        "種類:": "頭部按摩"
+    },
+    {
+        "names": "Mediness Infinity Plasma 手部按摩機 MD-5508W",
+        "rating": "10",
+        "hon_price_min": "720",
+        "hon_price_max": "988",
+        "種類:": "手部按摩",
+        "力度調節:": "3"
+    },
+    {
+        "names": "GoRelax 4D溫感智能按摩眼罩 (藍牙版) EMV-3000",
+        "rating": "10",
+        "hon_price_min": "528",
+        "hon_price_max": "538",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Pangao 攀高智能護膝按摩器",
+        "rating": "",
+        "water_price_min": "868",
+        "water_price_max": "880",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Lourdes 日式輕巧多用途腳部按摩器 AX-HXL195",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "639",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 有品 摩摩噠腰臀一體按摩坐墊",
+        "rating": "",
+        "water_price_min": "770",
+        "water_price_max": "798",
+        "種類:": "背部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Workmate X-Uprise 3D智能溫感按摩腰靠",
+        "rating": "",
+        "water_price_min": "568",
+        "water_price_max": "568",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Lourdes 無線溫感手部按摩器 AX-HXL280",
+        "rating": "10",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,459",
+        "種類:": "手部按摩",
+        "力度調節:": "弱/中/強"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 EMS 腿部按摩部 LJ-FH001",
+        "rating": "",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 石墨烯熱敷按摩固定腰帶-L -MCB",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Ziglite 節亮 多功能滾輪頸椎按摩器 - 天鵝六輪 MBM",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Hyperice Hypervolt 2 Pro 肌肉震動舒緩裝置",
+        "rating": "",
+        "hon_price_min": "3,399",
+        "hon_price_max": "3,499",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Achedaway Cupper The Smart Cupping Therapy Massager 智能拔罐按摩器 (一個裝)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,399",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Xiaomi 小米 MINI頭部按摩器",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "頭部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "OTO e-Physio Plus 星級e足健 EY-900P",
+        "rating": "10",
+        "hon_price_min": "2,270",
+        "hon_price_max": "2,680",
+        "種類:": "足部按摩",
+        "力度調節:": "99個力段，配合不同需要"
+    },
+    {
+        "names": "Ziglite 節亮 護肩頸智能頸椎按摩儀 MBN",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "MICHI Belly Summer 暖宮機",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "450",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "KeepFit 電熱護膝保暖膝蓋關節按摩儀 KPF-knee03",
+        "rating": "10",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "SuperV Vformula Mini Power Fascial Gun 第二代迷你筋膜槍 FG11",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "298",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Zikko Dr.Rock Pro 砭石遠紅外線熱敷按摩槍",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Lourdes 頸部按摩抱枕 AX-HXL191",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "792",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Mediness Magic Relax 隨行式指壓推拿器 HSM-679",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Mcbazel 瑜伽健身矽膠按摩球",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "OTO Qseat 足部按摩器 (QS-88)",
+        "rating": "2.0",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,380",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "SKG 頸部緩衝按摩器 4098E",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "459",
+        "種類:": "肩頸按摩",
+        "力度調節:": "15個強度"
+    },
+    {
+        "names": "Ziglite 節亮 足底按摩器-粉色 MBU",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Lourdes 無線手臂按摩器 AX-HXL215",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "989",
+        "種類:": "手部按摩",
+        "力度調節:": "兩種按摩模式"
+    },
+    {
+        "names": "GKXK 4D 溫感魔法智能眼罩",
+        "rating": "",
+        "hon_price_min": "575",
+        "hon_price_max": "599",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "OTO Ultra Foot 足部按摩器 UF-830",
+        "rating": "",
+        "hon_price_min": "3,570",
+        "hon_price_max": "3,580",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 有品 摩摩噠小摩凳",
+        "rating": "",
+        "water_price_min": "1,040",
+        "water_price_max": "1,199",
+        "種類:": "足部按摩",
+        "力度調節:": "3種"
+    },
+    {
+        "names": "Doctor Air 3D按摩豆豆抱枕",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "1,188",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Xiaomi 小米 銳珀爾頸椎按摩躺枕",
+        "rating": "",
+        "water_price_min": "588",
+        "water_price_max": "590",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "LON10 集寶 智能呼吸拔罐按摩儀 - 12檔 VAK",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Mediness 多功能U型按摩枕 MD-003",
+        "rating": "8.0",
+        "hon_price_min": "360",
+        "hon_price_max": "398",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Mooyee Little Twin Stars EMS 按摩器",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "按摩槍",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Sayami Nano 超迷你運動筋膜按摩槍",
+        "rating": "5.2",
+        "hon_price_min": "490",
+        "hon_price_max": "899",
+        "種類:": "按摩槍",
+        "力度調節:": "3種力度調節"
+    },
+    {
+        "names": "Reathlete 減壓腿部按摩器",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Maxell MOTECARE Foot 腿用EMS運動器 MXES-FR230",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,280",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Omron HV-LLPAD long life pad可水洗按摩電極貼片",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "150",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "脊安適 頸部按摩器護頸儀 G2",
+        "rating": "",
+        "water_price_min": "320",
+        "water_price_max": "499",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "HITH 智能足浴按摩器 X5",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "1,180",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "HITH 智能足浴器 Q2 無線版",
+        "rating": "",
+        "water_price_min": "1,350",
+        "water_price_max": "1,350",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 隨充魔力按摩貼",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "water_price_min": "308",
+        "water_price_max": "320",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Xiaomi 小米 有品 科愛元素360無菸艾灸披肩",
+        "rating": "",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Redbox 多功能肩頸按摩貼 PM05",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Oreadex 章魚防水按摩器 (充電版) OD380A",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "168",
+        "種類:": "其他按摩器材",
+        "力度調節:": "有"
+    },
+    {
+        "names": "MEGIVO Cuidado 無線小腿按摩機",
+        "rating": "10",
+        "hon_price_min": "690",
+        "hon_price_max": "998",
+        "種類:": "腿部按摩",
+        "力度調節:": "3種模式按摩"
+    },
+    {
+        "names": "Mediness Pumping Hand Massager 手部按摩器 MVP-2500",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "833",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Lourdes Luxe 足腿按摩凳",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "4,047",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "XPower 迷你肌肉按摩槍 MG1",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "699",
+        "種類:": "按摩槍",
+        "力度調節:": "3種強度調較: 1600,2100,2600次/分鐘"
+    },
+    {
+        "names": "Ziglite 節亮 雞翅木瘦臉按摩器 MBB",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "MICHI H.I.T.A 手部按摩機",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "450",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 迷你脈衝指尖放鬆按摩儀 MBT",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "418",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 智能拔罐刮痧儀",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "water_price_min": "359",
+        "water_price_max": "369",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Ziglite 節亮 兩輪滾軸按摩棒 MBL",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "OSIM uVision Air 亮晶睛 OS-1202",
+        "rating": "",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Lourdes 抗菌溫感手部按摩器 AX-HXL1806",
+        "rating": "",
+        "hon_price_min": "968",
+        "hon_price_max": "1,099",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "HITH 智能足浴機器人S2",
+        "rating": "",
+        "water_price_min": "3,099",
+        "water_price_max": "3,099",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "XGEEK 電動腳部足療器 XF-102",
+        "rating": "",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 四輪車按摩器 MBD",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "145",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Lourdes EMS 腰帶 AX-FRL905",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Omron 低周波治療器 HV-F320",
+        "rating": "",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "種類:": "其他按摩器材",
+        "力度調節:": "20檔"
+    },
+    {
+        "names": "YUNMAI 雲麥 按摩筋膜槍",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,699",
+        "water_price_min": "1,199",
+        "water_price_max": "1,199",
+        "種類:": "按摩槍",
+        "充電功能:": "支援"
+    },
+    {
+        "names": "樂范 腿部氣壓按摩器 (雙腿) LF-TA013",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Naipo oPillow Plus 指壓按摩器",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "種類:": "肩頸按摩, 背部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 有品 左點砭石養生刮痧器 ZD-GS326",
+        "rating": "",
+        "water_price_min": "478",
+        "water_price_max": "498",
+        "種類:": "肩頸按摩, 背部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Zikko Dr. Rock Air 砭石遠紅外線溫敷理療儀",
+        "rating": "",
+        "hon_price_min": "2,379",
+        "hon_price_max": "2,379",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Ziglite 節亮 可攜式手動頸椎按摩器-紅色 MBY",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "KeepFit 艾灸盒隨身灸家用筒罐盒 KPF-Mobox-04-1",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "樂範 隨身按摩神器 (熊本熊)",
+        "rating": "",
+        "water_price_min": "179",
+        "water_price_max": "179",
+        "種類:": "其他按摩器材",
+        "力度調節:": "10種"
+    },
+    {
+        "names": "CINCOM 電動足底按摩器",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Micro Sun 筋膜槍架",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "SKG 腰部按摩器 W7",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "種類:": "腰部按摩",
+        "力度調節:": "6種按摩模式+9檔力度"
+    },
+    {
+        "names": "OTO 護脊按摩墊 BS-006R",
+        "rating": "2.0",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Phoenix A2 按摩槍",
+        "rating": "5.6",
+        "hon_price_min": "580",
+        "hon_price_max": "699",
+        "water_price_min": "450",
+        "water_price_max": "580",
+        "種類:": "按摩槍",
+        "力度調節:": "3檔"
+    },
+    {
+        "names": "KeepFit 氣囊按壓式無線溫熱腿部按摩器 (升級恆溫版｜單件裝)",
+        "rating": "",
+        "water_price_min": "759",
+        "water_price_max": "759",
+        "種類:": "腿部按摩",
+        "力度調節:": "3種按摩方式隨心切換，氣壓波動揉捏肌肉"
+    },
+    {
+        "names": "OTO Foot Hugger 足精靈 FH-62",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,180",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-0603",
+        "rating": "",
+        "hon_price_min": "125",
+        "hon_price_max": "156",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Ziglite 節亮 石墨烯加熱按摩暖宮帶-粉色 MBZ",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "618",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Machino 筋膜按摩槍 X8 mini",
+        "rating": "10",
+        "hon_price_min": "460",
+        "hon_price_max": "568",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Mcbazel 折疊式家用泡腳桶 耐熱大容量足浴盆",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 左點小艾2代無線智能艾灸盒",
+        "rating": "",
+        "water_price_min": "488",
+        "water_price_max": "488",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Lunon 聲波按摩洗頭儀",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "258",
+        "種類:": "頭部按摩"
+    },
+    {
+        "names": "樂范 按摩助眠頸枕",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "199",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "TheraGun RecoveryAir JetBoots 壓縮按摩靴",
+        "rating": "",
+        "hon_price_min": "7,699",
+        "hon_price_max": "7,709",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Breo iSee M 眼部按摩器",
+        "rating": "10",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "種類:": "眼部按摩",
+        "力度調節:": "內置3種不同按摩模式"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 可摺疊足浴高桶 LJF001",
+        "rating": "",
+        "water_price_min": "550",
+        "water_price_max": "768",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "XPower 2合1超迷你熱療按摩槍 MG12",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Imakara 小腿氣壓按摩器 K208",
+        "rating": "",
+        "種類:": "腿部按摩",
+        "力度調節:": "三檔力度調節"
+    },
+    {
+        "names": "Omron Max Power Relief TENS Unit 低周波治療器 PM500",
+        "rating": "",
+        "water_price_min": "568",
+        "water_price_max": "599",
+        "種類:": "其他按摩器材",
+        "力度調節:": "有"
+    },
+    {
+        "names": "俊派 智能輕巧纖薄穴位腳底按摩機 低頻脈衝 JT-2118",
+        "rating": "",
+        "water_price_min": "86",
+        "water_price_max": "86",
+        "種類:": "足部按摩",
+        "力度調節:": "YES"
+    },
+    {
+        "names": "Lourdes 迷你頸部按摩器 AX-HXL197",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "639",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "TheraGun RecoveryAir Pro 壓縮按摩靴",
+        "rating": "",
+        "hon_price_min": "10,999",
+        "hon_price_max": "10,999",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Lourdes 動物造型手枕 AX-KXL4100",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "499",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Beurer 背帶按摩儀 (EM38)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "背部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 頸椎按摩枕 MCG",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "SKG 肩頸按犘器 4042",
+        "rating": "",
+        "water_price_min": "248",
+        "water_price_max": "248",
+        "種類:": "肩頸按摩",
+        "力度調節:": "15種"
+    },
+    {
+        "names": "Mediness Tigress 按按虎氣壓腕部按摩器 MDM-302",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "499",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Booster X Booster Lite 輕量級 可調式振動肌肉按摩槍",
+        "rating": "",
+        "hon_price_min": "987",
+        "hon_price_max": "988",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Ziglite 節亮 EMS智能足底按摩墊 (MS-MB)",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "種類:": "足部按摩",
+        "力度調節:": "9"
+    },
+    {
+        "names": "Booster L7 肌肉筋膜按摩槍",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "798",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "種類:": "按摩槍",
+        "充電功能:": "有"
+    },
+    {
+        "names": "Breo NS5L 無線肩頸揉捏按摩器",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "種類:": "肩頸按摩",
+        "力度調節:": "三種按摩模式，一鍵簡單操作"
+    },
+    {
+        "names": "TheraGun G3pro 專業級深層肌肉治療按摩槍",
+        "rating": "10",
+        "hon_price_min": "3,899",
+        "hon_price_max": "4,899",
+        "種類:": "按摩槍",
+        "力度調節:": "雙轉速:1750RPM 或 2400RPM"
+    },
+    {
+        "names": "Tokuyo 煥眼冷熱眼部按摩器 TS-183",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 數顯高頻肌肉按摩槍 (MS-MC)",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Ziglite 節亮 迷你電動筋膜槍 (MAT)",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "種類:": "按摩槍",
+        "充電功能:": "USB充電"
+    },
+    {
+        "names": "LON10 集寶 筋膜球肌肉放鬆瑜伽按摩球 - 2個裝 UAM",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Airmate 艾美特 元氣膠囊蒸氣足浴盆 GT04-A01-F",
+        "rating": "",
+        "water_price_min": "998",
+        "water_price_max": "998",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Machino Pocket+ 輕巧迷你按摩槍",
+        "rating": "8.0",
+        "hon_price_min": "438",
+        "hon_price_max": "598",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Nathome 可折疊高桶足浴盆 NZY810",
+        "rating": "10",
+        "hon_price_min": "370",
+        "hon_price_max": "448",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "ACK 折疊足浴盆 泡腳鴨黃色款",
+        "rating": "",
+        "water_price_min": "378",
+        "water_price_max": "399",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "KeepFit 氣囊按壓式長者溫熱腿部按摩器 (升級恆溫版｜2件裝)",
+        "rating": "",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "HITH 智能足浴盆 H1",
+        "rating": "",
+        "water_price_min": "549",
+        "water_price_max": "549",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Keymark AKM-1027",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "310",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Eleeels 水療級熱石按摩儀 S1",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "2,299",
+        "water_price_min": "1,999",
+        "water_price_max": "1,999",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Philips 飛利浦 迷你靜音按摩槍 PPM3303G",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "按摩槍",
+        "力度調節:": "1-5檔"
+    },
+    {
+        "names": "Mediness Hand Therapy 手部按摩器 MD-5602",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "899",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 腳部揉捏按摩器",
+        "rating": "",
+        "water_price_min": "750",
+        "water_price_max": "798",
+        "種類:": "足部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Munchenx 筋膜肌肉按摩槍 (MG-007)",
+        "rating": "",
+        "hon_price_min": "407",
+        "hon_price_max": "499",
+        "種類:": "按摩槍",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 有品 摩摩噠頸椎按摩器",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "1,080",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Ziglite 節亮 EMS折疊便攜防滑加熱足部按摩器 MAV",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能升降足浴器 MIZ-Z1",
+        "rating": "",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "QUICO Mini Warm Massage Gun 迷你暖敷按摩槍 PC402",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "按摩槍",
+        "力度調節:": "4段轉速：1600-3000rpm"
+    },
+    {
+        "names": "Booster 方形降噪筋膜按摩槍 M2 (2500mAh豪華版連收藏盒)",
+        "rating": "",
+        "water_price_min": "1,059",
+        "water_price_max": "1,059",
+        "種類:": "按摩槍",
+        "力度調節:": "4重力度｜智能模式｜自動模式"
+    },
+    {
+        "names": "美足寶 足療機加熱穴位按摩器儀 JB-506",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "water_price_min": "1,099",
+        "water_price_max": "1,099",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Phoenix A1 按摩槍",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "1,099",
+        "water_price_min": "900",
+        "water_price_max": "980",
+        "種類:": "按摩槍",
+        "力度調節:": "3檔"
+    },
+    {
+        "names": "OTO Ultra Foot Plus足部按摩器 UF-838",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "種類:": "足部按摩",
+        "力度調節:": "5個按摩手法：揉搓、揉捏、氣壓、刮痧、抖動"
+    },
+    {
+        "names": "Xiaomi 小米 有品 PMA石墨烯手部按摩儀",
+        "rating": "10",
+        "water_price_min": "380",
+        "water_price_max": "598",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Hyperice Hypervolt Plus (With Bluetooth) 震動按摩槍",
+        "rating": "10",
+        "hon_price_min": "2,950",
+        "hon_price_max": "3,999",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Xiaomi 小米 有品 派蒙PMA石墨烯發熱遠紅外護膝",
+        "rating": "",
+        "water_price_min": "240",
+        "water_price_max": "298",
+        "種類:": "其他按摩器材",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Renpho R3 Active 便攜按摩槍",
+        "rating": "10",
+        "hon_price_min": "640",
+        "hon_price_max": "688",
+        "種類:": "按摩槍",
+        "充電功能:": "USB Type-C 充電"
+    },
+    {
+        "names": "Hexa SU+ Sugar 迷你按摩槍",
+        "rating": "2.0",
+        "hon_price_min": "299",
+        "hon_price_max": "490",
+        "種類:": "按摩槍",
+        "力度調節:": "3"
+    },
+    {
+        "names": "Ohella Neck Pillow Massager 無線頸部按摩器 NM01",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "種類:": "肩頸按摩",
+        "力度調節:": "3檔強度"
+    },
+    {
+        "names": "Panasonic 樂聲 EH-HE94",
+        "rating": "10",
+        "hon_price_min": "500",
+        "hon_price_max": "632",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "頭部按摩"
+    },
+    {
+        "names": "XPower 眼部熱敷按摩器 EM1",
+        "rating": "",
+        "hon_price_min": "203",
+        "hon_price_max": "268",
+        "種類:": "眼部按摩",
+        "力度調節:": "4級溫度調較"
+    },
+    {
+        "names": "ABKO Cordless Massage Gun 按摩槍 MG01",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "468",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "KeepFit 暖宮腰帶 KAM-02G",
+        "rating": "",
+        "hon_price_min": "848",
+        "hon_price_max": "848",
+        "water_price_min": "848",
+        "water_price_max": "848",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "HITH 電動折疊足浴按摩器 D3",
+        "rating": "",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 矽膠分指握力球 按摩康復訓練 2個裝 (MS-MW)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Yohome 家の逸 足底按摩儀",
+        "rating": "",
+        "hon_price_min": "529",
+        "hon_price_max": "799",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 迷你按摩筋膜搶 MBR",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-RAH6",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,598",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Sayami Mute 靜 運動筋膜按摩槍",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "699",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Ziglite 節亮 熱敷調理神器 - 暖宮腰帶 MAZ",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Yaman Medi Lift Eye 眼部按摩眼罩 EPE-10BB",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,230",
+        "water_price_max": "2,280",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Sayami A1 運動筋膜按摩槍",
+        "rating": "6.0",
+        "hon_price_min": "568",
+        "hon_price_max": "568",
+        "種類:": "按摩槍",
+        "力度調節:": "4種力度調節"
+    },
+    {
+        "names": "Ziglite 節亮 智能無線眼部按摩儀 (BP-MS206)",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "種類:": "眼部按摩",
+        "充電功能:": "USB"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 EMS 腰部按摩器",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "398",
+        "種類:": "背部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "OSIM uMoby Mini 迷你肩頸達人 OS-299",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "999",
+        "water_price_min": "1,090",
+        "water_price_max": "1,090",
+        "種類:": "肩頸按摩"
+    },
+    {
+        "names": "Dreamlight Heat Lite USB發熱助眠眼罩",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Alphax Tsuboretch 指壓按摩枕 AP-621201",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Lourdes Rilamingo 手提按摩器",
+        "rating": "",
+        "hon_price_min": "343",
+        "hon_price_max": "395",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Maxcare 電子拔罐器",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "599",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "LON10 集寶 實木刮痧板 VAI",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Hyundai 現代 便攜式頸椎按摩器 ST-301",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "種類:": "肩頸按摩",
+        "充電功能:": "有"
+    },
+    {
+        "names": "Almond Defends 眼部按摩器 EM-68",
+        "rating": "8.0",
+        "hon_price_min": "300",
+        "hon_price_max": "438",
+        "種類:": "眼部按摩",
+        "力度調節:": "五種模式  自動模式：氣壓按摩+震動按摩+溫感按摩+音樂播放  簡單模式：氣壓按摩+溫感按摩+音樂播放  睡眠模式：氣壓按摩  活力模式：氣壓按摩+震動按摩+音樂播放  智能模式：氣壓按摩+音樂播放"
+    },
+    {
+        "names": "Ziglite 節亮  暖宮熱敷護腰帶禮盒 (MS-MAA/MS-MAB)",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "種類:": "背部按摩",
+        "力度調節:": "3擋調溫 , 3擋震動按摩"
+    },
+    {
+        "names": "OTO Back Snuggle 頸膊鬆",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,680",
+        "種類:": "肩頸按摩, 背部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "ZDEER 智能熱敷電動拔罐器 ZD-G5",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "water_price_min": "368",
+        "water_price_max": "399",
+        "種類:": "其他按摩器材",
+        "力度調節:": "9檔負壓+控溫 (溫熱模式 磁波按摩 負壓刮痧)"
+    },
+    {
+        "names": "Booster 降噪筋膜按摩槍 M2 (2000mAh升級版連6種按摩頭)",
+        "rating": "",
+        "water_price_min": "650",
+        "water_price_max": "959",
+        "種類:": "按摩槍",
+        "力度調節:": "4重力度｜智能模式｜自動模式"
+    },
+    {
+        "names": "XPower 鋁合金迷你肌肉按摩槍 MG2",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "698",
+        "種類:": "按摩槍",
+        "力度調節:": "4種強度調較: 1800, 2100, 2500, 3200 次/分鐘"
+    },
+    {
+        "names": "Hyperice Normatec 3 Leg Recovery System (Standard Size) 氣壓式按摩系統",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "6,999",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 滾輪式⼿指按摩器 (MS-OE)",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Panasonic 樂聲 EH-SW50 「溫感」眼部按摩器",
+        "rating": "8.0",
+        "hon_price_min": "950",
+        "hon_price_max": "1,390",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "種類:": "眼部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Booster 方形降噪筋膜按摩槍 M2 (2000mAh標準版連4種按摩頭)",
+        "rating": "",
+        "water_price_min": "959",
+        "water_price_max": "959",
+        "種類:": "按摩槍",
+        "力度調節:": "4重力度｜智能模式｜自動模式"
+    },
+    {
+        "names": "Oreadex 振動按摩杖 OD270",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "478",
+        "種類:": "其他按摩器材",
+        "充電功能:": "有"
+    },
+    {
+        "names": "Beurer MG145",
+        "rating": "",
+        "hon_price_min": "745",
+        "hon_price_max": "745",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "ZOHO Mini-V 按摩槍",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "種類:": "按摩槍",
+        "力度調節:": "6段速"
+    },
+    {
+        "names": "Micro Sun 無線振動,熱敷,揉捏,遠紅外線膝部氣墊按摩器",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Ziglite 節亮 石墨烯加熱護膝 JDI",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Xiaomi 小米 有品 摩摩噠按摩抱枕",
+        "rating": "",
+        "water_price_min": "670",
+        "water_price_max": "680",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Yuwell 魚躍 低頻理療儀貼片按摩器 SDP-330",
+        "rating": "",
+        "water_price_min": "298",
+        "water_price_max": "299",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Booster Smart-Hit 燈光版深度筋膜按摩槍 (2000mAh國際版)",
+        "rating": "",
+        "water_price_min": "849",
+        "water_price_max": "849",
+        "種類:": "按摩槍",
+        "力度調節:": "5重力度｜智能模式｜自動模式"
+    },
+    {
+        "names": "Booster L7 Gear按摩器",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "898",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Ziglite 節亮 7.5cm 硬PVC刺蝟型全身按摩球 2個裝 (MS)",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Ziglite 節亮 柔軟矽膠拍打按摩錘 MBO",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Needs Labo EMS足底小腿按摩器",
+        "rating": "2.0",
+        "hon_price_min": "150",
+        "hon_price_max": "278",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Phoenix A2 基礎版筋膜按摩槍 (1500mAh｜6個按摩頭連盒｜國際版)",
+        "rating": "",
+        "water_price_min": "659",
+        "water_price_max": "659",
+        "種類:": "按摩槍",
+        "力度調節:": "開關方式：雙重開關、電源＋檔位 檔位調節：3檔可調、LED指示燈"
+    },
+    {
+        "names": "Lourdes 迷你腿部按摩器",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "511",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Micro Sun USB移動綠光、護眼丶震動穴位按摩器 (預防及改善近視)",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "768",
+        "種類:": "眼部按摩",
+        "充電功能:": "USB Type C 充電"
+    },
+    {
+        "names": "Lingcod 智能眼部按摩儀",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "248",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Beurer MG520",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "1,480",
+        "種類:": "肩頸按摩, 背部按摩, 足部按摩",
+        "力度調節:": "4 rotating massage heads"
+    },
+    {
+        "names": "OTO Muscle Jet 深層肌肉按摩槍 MJ-900",
+        "rating": "",
+        "hon_price_min": "1,970",
+        "hon_price_max": "1,980",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Mediness Smart Shoes 腳部按摩儀 MDM",
+        "rating": "10",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,588",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Lourdes 手部按摩器 AX-HPL281",
+        "rating": "",
+        "hon_price_min": "1,313",
+        "hon_price_max": "1,313",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Mediness 手部按摩器 MVP-5501",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "830",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 紫檀木質手掌按摩器 (2個一套) MBE",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Panasonic 樂聲 眼部蒸氣按摩器 EH-SW67",
+        "rating": "",
+        "water_price_min": "1,750",
+        "water_price_max": "1,750",
+        "種類:": "眼部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Feiyu Tech 飛宇 Kica K2 mini 迷你智能按摩槍",
+        "rating": "10",
+        "hon_price_min": "589",
+        "hon_price_max": "609",
+        "種類:": "按摩槍",
+        "力度調節:": "四檔"
+    },
+    {
+        "names": "Therabody RecoveryAir PRO 腿部按摩器",
+        "rating": "10",
+        "hon_price_min": "10,999",
+        "hon_price_max": "11,039",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Mediness 「元氣補充機」 小型手部按摩器",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "688",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "UNPO 輕便專業按摩槍",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "種類:": "按摩槍",
+        "力度調節:": "6檔位震速, 四款專業按摩頭"
+    },
+    {
+        "names": "Lourdes Beauté 溫熱 EMS 腰腹按摩器 AX-FRL914",
+        "rating": "",
+        "hon_price_min": "839",
+        "hon_price_max": "839",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Lourdes VW 按摩抱枕",
+        "rating": "",
+        "hon_price_min": "1,038",
+        "hon_price_max": "1,169",
+        "種類:": "其他按摩器材",
+        "力度調節:": "Yes"
+    },
+    {
+        "names": "Lourdes A4 按摩抱枕 AX-HCL146",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "799",
+        "種類:": "背部按摩, 足部按摩"
+    },
+    {
+        "names": "Sayami A5 筋膜按摩槍",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "648",
+        "種類:": "按摩槍",
+        "力度調節:": "30檔"
+    },
+    {
+        "names": "Lourdes 溫感手部按摩器 AX-HXL180",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "890",
+        "種類:": "手部按摩"
+    },
+    {
+        "names": "Omron  HV-F1200",
+        "rating": "10",
+        "water_price_min": "828",
+        "water_price_max": "899",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Xiaomi 小米 左點小仙智能蒸氣足浴盆 Z8",
+        "rating": "",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Flow Mini 筋膜按摩槍",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "種類:": "按摩槍",
+        "力度調節:": "四檔 - 1800RPM，2400RPM，3200RPM，綜合"
+    },
+    {
+        "names": "MICHI Ninety Zero 變型按摩槍",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "598",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "KeepFit 氣囊按壓式無線長者腿部按摩器 (2件裝)",
+        "rating": "",
+        "water_price_min": "798",
+        "water_price_max": "959",
+        "種類:": "腿部按摩"
+    },
+    {
+        "names": "Tronext Viper X 肌肉筋膜按摩槍",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "1,099",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "TheraGun G2PRO 振動按摩肌肉治療器",
+        "rating": "",
+        "hon_price_min": "3,400",
+        "hon_price_max": "3,400",
+        "種類:": "其他按摩器材",
+        "力度調節:": "錘頭可調較4個角度4種捶頭自行更換，根據身體不同部位，方便使用"
+    },
+    {
+        "names": "Oreadex iRotate Cordless Body Massager 柔和夜燈舒緩按摩器 OD1315",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "698",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "VONMIE EMS微電流足部按摩器",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "429",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Xiaomi 小米 有品 PMA石墨烯發熱真絲頸部按摩器",
+        "rating": "",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "種類:": "肩頸按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Meresoy 無線深層肌肉按摩槍 Pro 30",
+        "rating": "",
+        "hon_price_min": "594",
+        "hon_price_max": "1,198",
+        "種類:": "按摩槍",
+        "力度調節:": "1-30"
+    },
+    {
+        "names": "Hyperice Hypervolt (with Bluetooth) 震動按摩槍",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "3,080",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Capezio 輕便按摩槍(輕觸式) DC01",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "按摩槍",
+        "力度調節:": "30檔變速"
+    },
+    {
+        "names": "ABKO Pink Cordless Massage Gun 按摩槍 MG03",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "種類:": "按摩槍"
+    },
+    {
+        "names": "Oreadex 頭部按摩器 OD860",
+        "rating": "",
+        "hon_price_min": "408",
+        "hon_price_max": "478",
+        "種類:": "頭部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Omron 振動式小腿按摩器 HM-252",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "種類:": "腿部按摩",
+        "力度調節:": "有"
+    },
+    {
+        "names": "Lourdes 溫熱眼罩 (充電式) AX-KX511",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "water_price_min": "130",
+        "water_price_max": "179",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "ITSU Pandora 座椅式多功能腳部按摩機 IS-3008",
+        "rating": "",
+        "hon_price_min": "2,801",
+        "hon_price_max": "2,801",
+        "種類:": "足部按摩"
+    },
+    {
+        "names": "Ziglite 節亮 菱形七珠磁石滾珠按摩器 MBK",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "種類:": "其他按摩器材"
+    },
+    {
+        "names": "Panasonic 樂聲 EH-SW65 溫感眼部蒸氣按摩器",
+        "rating": "",
+        "water_price_min": "1,590",
+        "water_price_max": "1,590",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "Dr Rock Air 砭石遠紅外線熱敷理療按摩槍",
+        "rating": "10",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "種類:": "按摩槍",
+        "力度調節:": "13"
+    },
+    {
+        "names": "GXA 專業級深層冷熱敷高頻筋膜槍 M1 (2600mAh｜6個按摩頭連收藏盒)",
+        "rating": "",
+        "water_price_min": "3,058",
+        "water_price_max": "3,058",
+        "種類:": "按摩槍",
+        "力度調節:": "機身重量：1.2kg 能耗：9.6Wh 頻率：3200RPM"
+    },
+    {
+        "names": "Xiaomi 小米 Hi+ 智能舒壓蒸氣護眼儀",
+        "rating": "",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "種類:": "眼部按摩"
+    },
+    {
+        "names": "HITH 氣囊按摩足浴器 M1",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "種類:": "足部按摩"
+    }
+]

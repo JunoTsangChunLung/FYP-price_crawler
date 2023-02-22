@@ -1,0 +1,2085 @@
+[
+    {
+        "names": "Philips 飛利浦 Daily Collection 手提式打蛋器 HR3705",
+        "rating": "8.0",
+        "hon_price_min": "210",
+        "hon_price_max": "319",
+        "類型:": "手提式",
+        "重量:": "0.852kg"
+    },
+    {
+        "names": "Panasonic 樂聲 手提式打蛋器 MK-GH3",
+        "rating": "9.4",
+        "hon_price_min": "165",
+        "hon_price_max": "278",
+        "類型:": "手提式",
+        "尺寸:": "151 x 93 x 195mm",
+        "重量:": "1.08kg"
+    },
+    {
+        "names": "Kenwood 五段速手提打蛋機 HMP30.A0WH",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "458",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH MUM5 1000 W 專業廚師機 MUM58M59",
+        "rating": "9.5",
+        "hon_price_min": "2,388",
+        "hon_price_max": "2,705",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "Kenwood Chef 廚師機 KVC3100W",
+        "rating": "",
+        "hon_price_min": "2,329",
+        "hon_price_max": "3,490",
+        "類型:": "座檯式",
+        "尺寸:": "300 x 380 x 280mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "Kenwood Titanium XL 鈦金系列廚師機 KVL8300S",
+        "rating": "",
+        "hon_price_min": "5,370",
+        "hon_price_max": "7,590",
+        "類型:": "座檯式",
+        "尺寸:": "356 x 380 x 285mm",
+        "重量:": "10.4kg"
+    },
+    {
+        "names": "BOSCH Styline Colour 手提式攪拌器 MFQ40302",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "570",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Kenwood Titanium Chef Patissier XL 廚師機 KWL90.004SI",
+        "rating": "",
+        "hon_price_min": "6,148",
+        "hon_price_max": "7,380",
+        "類型:": "座檯式",
+        "尺寸:": "395 x 200 x 385mm",
+        "重量:": "8.5kg (with no bowl)"
+    },
+    {
+        "names": "BOSCH MUM5 1000W 廚師機 MUM58K20",
+        "rating": "9.1",
+        "hon_price_min": "1,738",
+        "hon_price_max": "2,200",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm",
+        "重量:": "6.364kg"
+    },
+    {
+        "names": "BOSCH MUM5 900 W 廚師機 MUM54P00",
+        "rating": "10",
+        "hon_price_min": "1,668",
+        "hon_price_max": "1,668",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "KitchenAid Heavy Duty Bowl-Lift Stand Mixer 4.8L 升降式廚師機 5KPM5",
+        "rating": "10",
+        "hon_price_min": "3,860",
+        "hon_price_max": "3,950",
+        "類型:": "座檯式",
+        "功率:": "315W",
+        "尺寸:": "411 x 338 x 264mm"
+    },
+    {
+        "names": "Kenwood Chef XL 廚師機 KVL4100",
+        "rating": "",
+        "hon_price_min": "2,898",
+        "hon_price_max": "3,890",
+        "類型:": "座檯式",
+        "容量:": "6.7公升"
+    },
+    {
+        "names": "KitchenAid Artisan Mini 抬頭式廚師機 5KSM3311XB",
+        "rating": "9.0",
+        "hon_price_min": "2,758",
+        "hon_price_max": "3,418",
+        "類型:": "座檯式",
+        "變速設置:": "10段",
+        "尺寸:": "312 x 312 x 198mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "BOSCH Styline 手提式攪拌器 MFQ4020GB",
+        "rating": "",
+        "hon_price_min": "324",
+        "hon_price_max": "498",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.099kg"
+    },
+    {
+        "names": "Kenwood Titanium 鈦金系列廚師機 KVC7300S",
+        "rating": "",
+        "hon_price_min": "4,825",
+        "hon_price_max": "6,590",
+        "類型:": "座檯式",
+        "尺寸:": "380 x 285 x 305mm",
+        "重量:": "9.2kg"
+    },
+    {
+        "names": "BOSCH MUM Serie 2 700 W 廚師機 MUMS2EW30",
+        "rating": "10",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,770",
+        "類型:": "座檯式",
+        "變速設置:": "4段",
+        "尺寸:": "266 x 266 x 277mm"
+    },
+    {
+        "names": "Kenwood MultiOne 廚師機 KHH326",
+        "rating": "",
+        "hon_price_min": "2,245",
+        "hon_price_max": "3,090",
+        "類型:": "座檯式",
+        "尺寸:": "290 x 247 x 400mm",
+        "重量:": "5.28kg"
+    },
+    {
+        "names": "BOSCH MUM5 900 W 廚師機 MUM54D00",
+        "rating": "10",
+        "hon_price_min": "1,620",
+        "hon_price_max": "1,650",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "KitchenAid Artisan Series 5 Quart Tilt-Head 抬頭式廚師機 5KSM150PSE",
+        "rating": "",
+        "hon_price_min": "3,960",
+        "hon_price_max": "4,580",
+        "類型:": "座檯式",
+        "變速設置:": "10段"
+    },
+    {
+        "names": "Heinzelmann CHEF-X Professional Kitchen Machine 廚師機",
+        "rating": "10",
+        "hon_price_min": "12,888",
+        "hon_price_max": "12,888",
+        "類型:": "座檯式",
+        "尺寸:": "423 x 265 x 330mm",
+        "重量:": "12.6kg"
+    },
+    {
+        "names": "BOSCH Styline Colour 手提式攪拌器 MFQ4030L",
+        "rating": "9.5",
+        "hon_price_min": "399",
+        "hon_price_max": "570",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "BOSCH MUM Serie 2 700 W 廚師機 MUMS2EB01",
+        "rating": "",
+        "hon_price_min": "1,445",
+        "hon_price_max": "2,180",
+        "類型:": "座檯式",
+        "變速設置:": "4段",
+        "尺寸:": "266 x 266 x 277mm"
+    },
+    {
+        "names": "Rasonic 樂信 手提式打蛋器 RHM-BB5",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "198",
+        "類型:": "手提式",
+        "尺寸:": "165 x 80 x 260mm",
+        "重量:": "0.78kg"
+    },
+    {
+        "names": "KitchenAid Artisan 抬頭式廚師機 5KSM150PSB",
+        "rating": "",
+        "hon_price_min": "3,660",
+        "hon_price_max": "5,200",
+        "類型:": "座檯式",
+        "尺寸:": "360 x 220 x 340mm",
+        "重量:": "11.02kg"
+    },
+    {
+        "names": "Sunmix Sun10 螺旋式攪拌機",
+        "rating": "10",
+        "hon_price_min": "15,680",
+        "hon_price_max": "15,680",
+        "類型:": "座檯式",
+        "容量:": "10公升"
+    },
+    {
+        "names": "Kenwood Chef XL 廚師機 KVL4100S",
+        "rating": "8.0",
+        "hon_price_min": "3,590",
+        "hon_price_max": "4,490",
+        "類型:": "座檯式",
+        "尺寸:": "345 x 385 x 280mm",
+        "重量:": "7.658kg"
+    },
+    {
+        "names": "BioloMix 家用廚師機 BM785LB",
+        "rating": "",
+        "water_price_min": "729",
+        "water_price_max": "729",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "重量:": "5.5kg"
+    },
+    {
+        "names": "Gorenje 廚師機 MMC1000RL",
+        "rating": "",
+        "hon_price_min": "2,048",
+        "hon_price_max": "2,520",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "360 x 372 x 270mm",
+        "重量:": "9.3kg"
+    },
+    {
+        "names": "BOSCH OptiMUM 廚師機 MUMPC33S00",
+        "rating": "",
+        "hon_price_min": "4,190",
+        "hon_price_max": "4,267",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "317 x 222 x 395mm"
+    },
+    {
+        "names": "KitchenAid 抬頭式廚師機 5KSM3311",
+        "rating": "",
+        "hon_price_min": "2,758",
+        "hon_price_max": "3,485",
+        "類型:": "座檯式",
+        "容量:": "3.3公升"
+    },
+    {
+        "names": "Bruno 便攜式無線打蛋器",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "238",
+        "類型:": "手提式",
+        "尺寸:": "100 x 100 x 209mm",
+        "重量:": "0.5kg"
+    },
+    {
+        "names": "Panasonic 樂聲 座檯式打蛋器 MK-GB1",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "335",
+        "類型:": "座檯式,手提式",
+        "變速設置:": "5段",
+        "尺寸:": "331 x 201 x 278mm",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Hunting Adventure Set MUZ9HA1",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "類型:": "配件"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Plastic Mixing Bowl MUZ9KR1",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "類型:": "配件"
+    },
+    {
+        "names": "KitchenAid Pasta Cutter Set 切面器2件裝組合 KSMPCA",
+        "rating": "",
+        "hon_price_min": "918",
+        "hon_price_max": "1,650",
+        "類型:": "配件"
+    },
+    {
+        "names": "Panasonic 樂聲 手提式打蛋器 MK-GH1",
+        "rating": "8.0",
+        "hon_price_min": "204",
+        "hon_price_max": "225",
+        "類型:": "手提式",
+        "尺寸:": "134 x 88 x 184mm",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "Waring Immersion Blender 手提打蛋器 WSBPPWE",
+        "rating": "",
+        "hon_price_min": "3,640",
+        "hon_price_max": "3,640",
+        "類型:": "手提式"
+    },
+    {
+        "names": "BOSCH ErgoMixx 手提式攪拌器 MFQ364V0",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "710",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.573kg"
+    },
+    {
+        "names": "BOSCH OptiMUM 廚師機 MUM9GX5S21",
+        "rating": "",
+        "hon_price_min": "6,615",
+        "hon_price_max": "7,200",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "337 x 222 x 433mm"
+    },
+    {
+        "names": "Mcbazel 手持電動無線攪拌器/打蛋器",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "70",
+        "類型:": "手提式"
+    },
+    {
+        "names": "KitchenAid 5.7L Bowl-Lift Stand Mixer 5KSM6585",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "類型:": "座檯式",
+        "容量:": "5.7公升"
+    },
+    {
+        "names": "Proluxury 普樂氏 3.5公升廚師機  PKM001035",
+        "rating": "",
+        "類型:": "座檯式",
+        "功率:": "1200W",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Kenwood 廚房機配件 - 金屬麵條造型器 KAX910ME",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "995",
+        "類型:": "配件"
+    },
+    {
+        "names": "JNC Beautiful 時尚家廚打蛋器 TIFHM-TU",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "390",
+        "water_price_min": "198",
+        "water_price_max": "280",
+        "類型:": "手提式",
+        "尺寸:": "189 x 87 x 168mm",
+        "重量:": "1.03kg"
+    },
+    {
+        "names": "BOSCH MUM5 900 W 廚師機 MUM54I00",
+        "rating": "",
+        "hon_price_min": "1,470",
+        "hon_price_max": "1,850",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "BOSCH MUM5 1000 W 廚師機 MUM58020",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,250",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Tagliatelle Attachment MUZ5NV2",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "類型:": "配件",
+        "重量:": "0.727kg"
+    },
+    {
+        "names": "BOSCH MUM Serie 2 900 W 廚師機 MUMS2VM00",
+        "rating": "8.0",
+        "hon_price_min": "1,445",
+        "hon_price_max": "2,458",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "266 x 266 x 277mm"
+    },
+    {
+        "names": "Comfee 手提式打蛋器 CF-HM30AH(Y)",
+        "rating": "",
+        "hon_price_min": "164",
+        "hon_price_max": "164",
+        "類型:": "手提式",
+        "尺寸:": "185 x 77 x 138mm",
+        "重量:": "0.745kg"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - 意粉配件 MUZ5NV3",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "類型:": "配件",
+        "重量:": "0.719kg"
+    },
+    {
+        "names": "Sunmix Sun6 螺旋式攪拌機",
+        "rating": "10",
+        "hon_price_min": "13,580",
+        "hon_price_max": "13,580",
+        "類型:": "座檯式",
+        "功率:": "370W"
+    },
+    {
+        "names": "BioloMix 家用廚師機 BM601",
+        "rating": "",
+        "water_price_min": "789",
+        "water_price_max": "789",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "351 x 321 x 258mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "Kenwood 廚房機配件 - Fettuccine Pasta Cutter 麵條切割器 KAX981ME",
+        "rating": "",
+        "hon_price_min": "653",
+        "hon_price_max": "658",
+        "類型:": "配件"
+    },
+    {
+        "names": "Bear 小熊 無線充電式打蛋器 DDQ-B01R2",
+        "rating": "",
+        "water_price_min": "208",
+        "water_price_max": "220",
+        "類型:": "手提式",
+        "尺寸:": "170 x 142 x 68mm",
+        "重量:": "0.39kg"
+    },
+    {
+        "names": "Kenwood 廚師機配件- Meat Grinder 食物攪碎配件 KAX950ME",
+        "rating": "",
+        "hon_price_min": "575",
+        "hon_price_max": "595",
+        "類型:": "配件",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "SilverCrest 家用廚師機",
+        "rating": "",
+        "water_price_min": "600",
+        "water_price_max": "600",
+        "類型:": "座檯式",
+        "變速設置:": "4段",
+        "尺寸:": "250 x 260 x 310mm",
+        "重量:": "4.8kg"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Citrus Press MUZ5ZP1",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "類型:": "配件"
+    },
+    {
+        "names": "BOSCH 手提式攪拌器 MFQ3030GB",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "380",
+        "water_price_min": "219",
+        "water_price_max": "219",
+        "類型:": "手提式",
+        "變速設置:": "4段",
+        "重量:": "0.875kg"
+    },
+    {
+        "names": "KitchenAid 4.8 升 升降式廚師機拋光不銹鋼攪拌碗 (帶扁平手柄) K5ASBP",
+        "rating": "",
+        "hon_price_min": "345",
+        "hon_price_max": "350",
+        "類型:": "配件",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Stainless Steel Mixing Bowl MUZ5ER2",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "類型:": "配件",
+        "重量:": "0.719kg"
+    },
+    {
+        "names": "German Pool 德國寶 手提電動攪拌器 HMX-351",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "568",
+        "類型:": "手提式",
+        "尺寸:": "82 x 152 x 189mm",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "KitchenAid 4.8公升抬頭式拋光型不鏽鋼攪拌盆 (附有把手)",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "480",
+        "類型:": "配件",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "Kenwood 廚師機配件- Continuous Slicer / Grate AT340",
+        "rating": "",
+        "hon_price_min": "757",
+        "hon_price_max": "776",
+        "類型:": "配件",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Russell Hobbs 打蛋器 RH-25892",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Cuisinart 無線手持式攪拌機 RHM100U",
+        "rating": "",
+        "hon_price_min": "792",
+        "hon_price_max": "792",
+        "類型:": "手提式",
+        "尺寸:": "193 x 76 x 275mm"
+    },
+    {
+        "names": "German Pool 德國寶 手提電動攪拌器 HMX-151",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "352",
+        "類型:": "手提式",
+        "尺寸:": "125 x 75 x 170 mm",
+        "重量:": "0.8kg"
+    },
+    {
+        "names": "Donlim 電動打蛋器 (迷你式) HM-955",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "698",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "尺寸:": "120 x 170mm"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - BakingSensation Set MUZ9BS1",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "類型:": "配件"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 不銹鋼手提打蛋器 IHM-300S",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "299",
+        "類型:": "手提式",
+        "尺寸:": "218 x 178 x 106mm",
+        "重量:": "1.26kg"
+    },
+    {
+        "names": "Kenwood Chef XL Sense 專業廚師機 KVL6000T",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,200",
+        "類型:": "座檯式",
+        "尺寸:": "350 x 410 x 295mm",
+        "重量:": "9.4kg"
+    },
+    {
+        "names": "KitchenAid Ice Cream Maker Attachment for 4.8L Stand Mixer 製冰淇淋桶 5KICAOWH",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "類型:": "配件"
+    },
+    {
+        "names": "Russell Hobbs 打蛋器 RH-25893",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "KitchenAid 廚師機附件 - Tilt Head 1-Piece Pouring Shield 4.5 & 5QT 防濺罩 KN1PS",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "類型:": "配件"
+    },
+    {
+        "names": "Mokkom 無線電動打蛋器 HM902",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類型:": "手提式"
+    },
+    {
+        "names": "KitchenAid 壓面器切面器組合套裝 KSMPRA",
+        "rating": "10",
+        "hon_price_min": "1,638",
+        "hon_price_max": "2,480",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood kMix Barcelona 專業廚師機 KMX80",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,250",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "BioloMix 全自動家用廚師機",
+        "rating": "",
+        "water_price_min": "689",
+        "water_price_max": "998",
+        "類型:": "座檯式",
+        "功率:": "1200W",
+        "變速設置:": "6段"
+    },
+    {
+        "names": "Nutzen 強力打蛋器 NMX-20",
+        "rating": "",
+        "hon_price_min": "174",
+        "hon_price_max": "237",
+        "類型:": "手提式",
+        "變速設置:": "6段"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - 轉換器 MUZ9AD1",
+        "rating": "",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "類型:": "配件"
+    },
+    {
+        "names": "BOSCH Styline Colour 手提式攪拌器 MFQ4030K",
+        "rating": "10",
+        "hon_price_min": "449",
+        "hon_price_max": "570",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "BOSCH OptiMUM 廚師機 MUM9Y35S12",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "5,288",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "317 x 222 x 395mm"
+    },
+    {
+        "names": "KitchenAid Ravioli Roller Attachment 製義大利餃子機 KRAV",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "2,550",
+        "類型:": "配件"
+    },
+    {
+        "names": "Tower Stand Mixer 多功能座檯攪拌器 CCSM001",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "座檯式",
+        "功率:": "1000W",
+        "變速設置:": "6段"
+    },
+    {
+        "names": "KitchenAid Artisan Tilt-Head Mixer 抬頭式廚師機 5KSM150PS",
+        "rating": "10",
+        "hon_price_min": "3,960",
+        "hon_price_max": "4,068",
+        "類型:": "座檯式",
+        "變速設置:": "10段"
+    },
+    {
+        "names": "Kenwood Cooking Chef XL 座檯式廚師機 KCL95.004SI",
+        "rating": "",
+        "hon_price_min": "9,408",
+        "hon_price_max": "11,500",
+        "類型:": "座檯式",
+        "尺寸:": "510 x 365 x 665mm",
+        "重量:": "10.4kg (without bowl)"
+    },
+    {
+        "names": "Kenwood Titanium Timer Chef 專業廚師機 KMC030",
+        "rating": "",
+        "hon_price_min": "4,560",
+        "hon_price_max": "4,560",
+        "類型:": "座檯式",
+        "尺寸:": "300 x 235 x 395mm",
+        "重量:": "9.4kg"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - 蔬果榨汁器 KAX644ME",
+        "rating": "",
+        "hon_price_min": "830",
+        "hon_price_max": "832",
+        "類型:": "配件",
+        "重量:": "1.03kg"
+    },
+    {
+        "names": "Kenwood Lasagne Roller, Fettuccine and Spaghetti Cutter Multipack MAX980ME",
+        "rating": "",
+        "hon_price_min": "1,737",
+        "hon_price_max": "1,757",
+        "類型:": "配件"
+    },
+    {
+        "names": "OCooker 圈廚 全自動家用和麵廚師機 (3.5L)",
+        "rating": "",
+        "water_price_min": "690",
+        "water_price_max": "690",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "260 x 328 x 205mm"
+    },
+    {
+        "names": "KitchenAid 壓面皮器 KSMPSA",
+        "rating": "10",
+        "hon_price_min": "638",
+        "hon_price_max": "1,030",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - Citrus Press 榨柳丁器 AT312",
+        "rating": "",
+        "hon_price_min": "323",
+        "hon_price_max": "342",
+        "類型:": "配件",
+        "尺寸:": "165 x 190 x 220mm",
+        "重量:": "0.9kg"
+    },
+    {
+        "names": "Mcbazel 無線打蛋器 電動家用手持式小型奶油攪拌器 大功率 3款可更換攪拌頭",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類型:": "手提式"
+    },
+    {
+        "names": "S.M.E.G. 4.8公升 50's Style 廚師機 SMF02",
+        "rating": "",
+        "hon_price_min": "3,189",
+        "hon_price_max": "3,189",
+        "類型:": "座檯式",
+        "變速設置:": "10段",
+        "尺寸:": "378 (490 with head up) x 402 x 221mm",
+        "重量:": "8.81kg"
+    },
+    {
+        "names": "KitchenAid 手提攪拌機 5KHM9212B",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,349",
+        "類型:": "手提式",
+        "變速設置:": "9段"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - Mini Chopper / Mill AT320A",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "419",
+        "類型:": "配件",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - Tagliatelle Pasta Cutter KAX971ME",
+        "rating": "",
+        "類型:": "配件",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "KitchenAid 廚師機配件 - 切絲切片器組合",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "930",
+        "類型:": "配件"
+    },
+    {
+        "names": "BOSCH OptiMUM 廚師機 MUM9GT4S00",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "6,580",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "337 x 222 x 433mm"
+    },
+    {
+        "names": "Kenwood Premier Major 廚師機 KMM770",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,350",
+        "類型:": "座檯式",
+        "尺寸:": "340 x 230 x 390mm",
+        "重量:": "10.2kg"
+    },
+    {
+        "names": "Kenwood 手提打蛋機 HM327",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "類型:": "手提式",
+        "尺寸:": "190 x 80 x 140mm",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Donlim 手持式家用電動小型打蛋器 HM-955",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "尺寸:": "120 x 170mm"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - 免治碎肉器配件 KAX950ME",
+        "rating": "",
+        "hon_price_min": "575",
+        "hon_price_max": "615",
+        "類型:": "配件",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "KitchenAid 6 Quart Ceramic Bowl 4.8L白色陶瓷碗 KSMCB5LW",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "類型:": "配件",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "Kenwood kMix 專業廚師機 KMX99",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "KitchenAid Artisan 升降式廚師機 5KSM6583",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "類型:": "座檯式",
+        "功率:": "500W",
+        "尺寸:": "290 x 370 x 420mm"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - 磨穀器 KAX941PL",
+        "rating": "",
+        "hon_price_min": "832",
+        "hon_price_max": "995",
+        "類型:": "配件",
+        "重量:": "0.8kg"
+    },
+    {
+        "names": "Kenwood Cooking Chef 廚師機 KM080",
+        "rating": "",
+        "hon_price_min": "12,490",
+        "hon_price_max": "12,490",
+        "類型:": "座檯式",
+        "功率:": "1150W",
+        "變速設置:": "8段"
+    },
+    {
+        "names": "Kenwood Chefette Lite 手提打蛋器連不銹鋼攪拌碗 HMP34.A0WH",
+        "rating": "10",
+        "hon_price_min": "509",
+        "hon_price_max": "688",
+        "類型:": "座檯式",
+        "功率:": "450W"
+    },
+    {
+        "names": "Kenwood Chef Classic Astro Blue 廚師機 KM353",
+        "rating": "",
+        "hon_price_min": "2,860",
+        "hon_price_max": "2,860",
+        "類型:": "座檯式",
+        "尺寸:": "290 x 235 x 390mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "KitchenAid Artisan 抬頭式廚師機 5KSM175PS",
+        "rating": "",
+        "hon_price_min": "4,886",
+        "hon_price_max": "4,985",
+        "類型:": "座檯式",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - 亞洲蔬菜切片 MUZ45AG1",
+        "rating": "",
+        "water_price_min": "210",
+        "water_price_max": "210",
+        "類型:": "配件"
+    },
+    {
+        "names": "Ankarsrum Original Mixer 瑞典全功能廚師機 AKM6230",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,480",
+        "類型:": "座檯式",
+        "功率:": "1500W",
+        "尺寸:": "400 x 260 x 360mm"
+    },
+    {
+        "names": "KitchenAid Heavy Duty Blanca 220V 廚師機 5KSM7591",
+        "rating": "10",
+        "hon_price_min": "5,750",
+        "hon_price_max": "5,750",
+        "類型:": "座檯式",
+        "變速設置:": "10段",
+        "重量:": "12.5kg"
+    },
+    {
+        "names": "Ariete Vintage Kitchen Machine 復古系列廚師機 1588",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,520",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "425 x 285 x 385mm",
+        "重量:": "6.16kg"
+    },
+    {
+        "names": "KitchenAid Worm Gear 攪拌機齒輪 W10112253",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "類型:": "配件"
+    },
+    {
+        "names": "KANGDIAN Electric Hand Mixers 電動打蛋器 / 攪拌器 KD-133",
+        "rating": "",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "類型:": "手提式",
+        "變速設置:": "7段"
+    },
+    {
+        "names": "SilverCrest 多功能帶碗攪拌機 SHMS 300 C2",
+        "rating": "",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "類型:": "座檯式,手提式",
+        "功率:": "300W"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Cube Cutter MUZ9CC1",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood kMix 專業廚師機 KMX51",
+        "rating": "",
+        "hon_price_min": "3,570",
+        "hon_price_max": "3,570",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "KitchenAid Artisan 抬頭式廚師機 4.8L - Artisan Color Of The Year 2022 (紺紫色) 5KSM195PSGBE",
+        "rating": "",
+        "hon_price_min": "4,599",
+        "hon_price_max": "4,599",
+        "類型:": "座檯式",
+        "尺寸:": "360 x 406 x 370mm",
+        "重量:": "10.4kg"
+    },
+    {
+        "names": "BOSCH OptiMUM 廚師機 MUM9A66N00",
+        "rating": "",
+        "hon_price_min": "4,830",
+        "hon_price_max": "4,905",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "317 x 222 x 395mm",
+        "重量:": "9.466kg"
+    },
+    {
+        "names": "Kenwood kMix 廚師機 KMX50",
+        "rating": "",
+        "hon_price_min": "4,130",
+        "hon_price_max": "4,130",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "BOSCH Full Metal Housing 廚師機 MUMXL10TGB",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,000",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "308 x 338 x 369mm"
+    },
+    {
+        "names": "KitchenAid 6 Quart Bowl Lift Stand Mixer 廚師機 5KSM6583ES",
+        "rating": "",
+        "hon_price_min": "5,680",
+        "hon_price_max": "5,680",
+        "類型:": "座檯式",
+        "容量:": "5.7公升"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Blender Attachment (Plastic) MUZ5MX1",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "配件",
+        "尺寸:": "235 x 130 x 130 mm",
+        "重量:": "0.424kg"
+    },
+    {
+        "names": "Bear 小熊 雙棒五檔打蛋器 DDQ-A01G1",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170",
+        "water_price_min": "159",
+        "water_price_max": "170",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "尺寸:": "250 x 180 x 85mm"
+    },
+    {
+        "names": "KitchenAid Classic Tilt-Head 抬頭式廚師機 5K45SS",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,300",
+        "類型:": "座檯式",
+        "尺寸:": "353 x 358 x 221mm",
+        "重量:": "10.5kg"
+    },
+    {
+        "names": "BOSCH 廚師機配件 -  Kneading Hook 00080060",
+        "rating": "",
+        "water_price_min": "215",
+        "water_price_max": "215",
+        "類型:": "配件"
+    },
+    {
+        "names": "Tefal 特福 Prep'line 手提打蛋器 HT4101",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "330",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Cuisinart Precision Master 5.2公升廚師機 SM-50HK",
+        "rating": "",
+        "hon_price_min": "2,463",
+        "hon_price_max": "2,463",
+        "類型:": "座檯式",
+        "變速設置:": "12段",
+        "尺寸:": "359 x 358 x 220mm"
+    },
+    {
+        "names": "KitchenAid Metal Food Grinder Attachment 合金攪肉機配件 KSMMGA",
+        "rating": "10",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "類型:": "配件"
+    },
+    {
+        "names": "Midea 美的 多功能食物料理廚師機 MKM45",
+        "rating": "",
+        "hon_price_min": "1,104",
+        "hon_price_max": "1,298",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "365 x 220 x 340mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "KitchenAid Heavy Duty Bowl-Lift Stand Mixer 商用升降式廚師機 5KSM7590",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,880",
+        "類型:": "座檯式",
+        "變速設置:": "10段",
+        "尺寸:": "290 x 390 x 420mm"
+    },
+    {
+        "names": "Braun 百靈 MultiMix 3手持式打蛋器 HM 3000",
+        "rating": "",
+        "hon_price_min": "421",
+        "hon_price_max": "440",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH Home Professional 廚師機 MUM57830GB",
+        "rating": "10",
+        "hon_price_min": "3,899",
+        "hon_price_max": "3,899",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "Famous 法國名家 手提打蛋器 EM638(FAM)",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "189",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH Full Metal Housing 廚師機 MUMXX40GGB",
+        "rating": "",
+        "hon_price_min": "4,998",
+        "hon_price_max": "4,998",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "308 x 338 x 369mm"
+    },
+    {
+        "names": "Kenwood kMix 專業廚師機 KMX98",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - 連續切絲切片器 KAX643ME",
+        "rating": "",
+        "hon_price_min": "776",
+        "hon_price_max": "925",
+        "類型:": "配件",
+        "重量:": "1.55kg"
+    },
+    {
+        "names": "Tre-Spade 糕點搓揉機 F75050",
+        "rating": "",
+        "hon_price_min": "12,880",
+        "hon_price_max": "12,880",
+        "類型:": "座檯式",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Summe 德國卓爾 手提打蛋器 HM-S1228",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH Full Metal Housing 廚師機 MUMXL40G",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "3,990",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "308 x 338 x 369mm"
+    },
+    {
+        "names": "KitchenAid 5QT Hilt Head Coated Flat Head Beater 攪拌槳 (攪拌機配件)",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "250",
+        "類型:": "配件"
+    },
+    {
+        "names": "BOSCH VeggieLove 配件套裝 MUZ9VLP1",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "Leego 利高牌 Dough Mixer 廚師機 PM-10",
+        "rating": "",
+        "hon_price_min": "12,580",
+        "hon_price_max": "13,100",
+        "類型:": "座檯式",
+        "變速設置:": "3段",
+        "尺寸:": "395 x 395 x 610mm",
+        "重量:": "30kg"
+    },
+    {
+        "names": "KitchenAid 廚師機玻璃攪拌碗 (帶把手和碗蓋) KSM5GB",
+        "rating": "",
+        "類型:": "配件",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - 碎肉器 MUZ9FW1",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "類型:": "配件"
+    },
+    {
+        "names": "KitchenAid Sausage Stuffer Attachment 廚師機做香腸配件",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "200",
+        "類型:": "配件"
+    },
+    {
+        "names": "KitchenAid 4.7L磨砂玻璃碗",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "配件",
+        "容量:": "4.7公升"
+    },
+    {
+        "names": "Kenwood kMix Woodland Kiwi 專業廚師機 KMX81",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Kenwood Chef Sense 專業廚師機 KVC5000T",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "300 x 390 x 295mm",
+        "重量:": "8.68kg"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - Potato Fritter Disc MUZ45KP1",
+        "rating": "",
+        "water_price_min": "130",
+        "water_price_max": "130",
+        "類型:": "配件"
+    },
+    {
+        "names": "Russell Hobbs Swirl Hand Mixer Onyx 電動打蛋器 RH-25890",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Breville the Scraper Mixer Pro 專業座檯攪拌機 BEM800",
+        "rating": "",
+        "hon_price_min": "2,650",
+        "hon_price_max": "3,010",
+        "類型:": "座檯式",
+        "變速設置:": "12段",
+        "尺寸:": "275 x 430 x 430mm"
+    },
+    {
+        "names": "KitchenAid Brush Nickel Artisan Stand Mixer 5QT 抬頭式廚師機 5KSM150PSENK",
+        "rating": "",
+        "hon_price_min": "3,860",
+        "hon_price_max": "4,039",
+        "類型:": "座檯式",
+        "變速設置:": "10段"
+    },
+    {
+        "names": "KitchenAid Fruit & Vegetable Strainer Parts 蔬果研磨過濾器 FVSP",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kada 禾田 手提式打蛋器 KD-HM150",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "150",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "KitchenAid Artisan 抬頭式廚師機 5KSM175",
+        "rating": "",
+        "hon_price_min": "4,439",
+        "hon_price_max": "4,890",
+        "類型:": "座檯式",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "KitchenAid Mixer 攪拌機蝸輪 - 適用於 4.8 / 5QT 型號",
+        "rating": "",
+        "water_price_min": "210",
+        "water_price_max": "210",
+        "類型:": "配件"
+    },
+    {
+        "names": "Braun 百靈 MultiMix 3 手持式攪拌機 HM 3135WH",
+        "rating": "",
+        "hon_price_min": "582",
+        "hon_price_max": "601",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Kenwood 手提攪拌器 HM220",
+        "rating": "10",
+        "hon_price_min": "208",
+        "hon_price_max": "210",
+        "類型:": "手提式",
+        "尺寸:": "135 x 190 x 80mm",
+        "重量:": "0.75kg"
+    },
+    {
+        "names": "German Pool 德國寶 B.Duck 手提電動攪拌器 HMX-151BD",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "480",
+        "類型:": "手提式",
+        "尺寸:": "125 x 75 x 170mm",
+        "重量:": "0.8kg"
+    },
+    {
+        "names": "Kenwood 桌上型攪拌器 KM093",
+        "rating": "",
+        "類型:": "座檯式",
+        "容量:": "5公升"
+    },
+    {
+        "names": "KitchenAid 2-Piece Pasta Cutter Set",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,700",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood 廚師機配件- 蔬果榨汁器 AT641",
+        "rating": "",
+        "hon_price_min": "813",
+        "hon_price_max": "832",
+        "類型:": "配件",
+        "重量:": "2.74kg"
+    },
+    {
+        "names": "BOSCH TastyMoments 5合1研磨機配件組 MUZ45XTM1",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood 手提攪拌器 HM791",
+        "rating": "",
+        "hon_price_min": "868",
+        "hon_price_max": "868",
+        "類型:": "手提式",
+        "尺寸:": "178 x 170 x 220mm",
+        "重量:": "1.51kg"
+    },
+    {
+        "names": "Frigidaire 北極 廚師機打蛋器連攪伴盆 FD5121",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "5段",
+        "尺寸:": "210 x 210 x 300mm"
+    },
+    {
+        "names": "Kenwood 廚師機配件- ThermoResist Blender KAH359GL",
+        "rating": "",
+        "hon_price_min": "566",
+        "hon_price_max": "580",
+        "類型:": "配件",
+        "尺寸:": "265 x 195 x 140mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Kenwood kMix 英國國旗限量版廚師機 KMX50GUJF",
+        "rating": "",
+        "類型:": "座檯式"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - 食物處理器 KAH647PL",
+        "rating": "",
+        "hon_price_min": "645",
+        "hon_price_max": "664",
+        "類型:": "配件",
+        "尺寸:": "178 x 250 x 246mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "KitchenAid 抬頭式 6 線地球",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "380",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood Patissier 廚師機 MX311",
+        "rating": "",
+        "hon_price_min": "2,210",
+        "hon_price_max": "2,210",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "430 x 431 x 271mm",
+        "重量:": "7.9kg"
+    },
+    {
+        "names": "SIGMA 手提打蛋器 EM-683(SIG)",
+        "rating": "",
+        "hon_price_min": "121",
+        "hon_price_max": "189",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Baumatic 手提攪拌器 BHM250",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "KitchenAid 4.8L Bowl-Lift 6-Wire Whip 打蛋網 K5AWW",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "200",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - 切粒器 KAX400PL",
+        "rating": "",
+        "hon_price_min": "1,044",
+        "hon_price_max": "1,063",
+        "類型:": "配件",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Kenwood Prospero 廚師機 KM283",
+        "rating": "",
+        "hon_price_min": "2,245",
+        "hon_price_max": "2,245",
+        "類型:": "座檯式",
+        "尺寸:": "292 x 243 x 313mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "Russell Hobbs Swirl Hand Mixer Turquoise 電動打蛋器 RH-25891",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH Styline Colour 廚師機 MUM54920GB",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "Kenwood Classic Chef 經典廚師機 KM355",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "290 x 235 x 390mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "Kenwood kMix 專業廚師機 KMX93",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Kenwood 手提攪拌機 HM530",
+        "rating": "",
+        "hon_price_min": "264",
+        "hon_price_max": "264",
+        "類型:": "手提式",
+        "尺寸:": "180 x 90 x 210mm",
+        "重量:": "1.105kg"
+    },
+    {
+        "names": "Russell Hobbs Desire Hand Mixer 手提攪拌器 RH-24670",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1032g"
+    },
+    {
+        "names": "Kenwood kMix 手提打蛋器 HM803",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "220 x 170 x 178mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "BOSCH MUM5 1000W 專業廚師機 MUM58200GB",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "Kenwood Classic Chef Calypso Orange 桌上型攪拌器 KM357",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "290 x 235 x 390mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "Homey 家美牌 套裝打蛋器 HM-82B",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類型:": "座檯式",
+        "功率:": "200W",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "KitchenAid 4.5 Quart Tilt-Head Stand Mixer 廚師機",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "類型:": "座檯式",
+        "容量:": "4.25公升"
+    },
+    {
+        "names": "Kenwood 直立式打蛋器 HM-400",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "類型:": "座檯式,手提式",
+        "變速設置:": "5段",
+        "尺寸:": "320 x 275 x 175mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Philips 飛利浦 直立式攪拌器 HR1565/41",
+        "rating": "",
+        "類型:": "座檯式,手提式",
+        "功率:": "400W",
+        "變速設置:": "3段"
+    },
+    {
+        "names": "Braun 百靈 MultiMix 3 手提式攪拌機 HM 3100",
+        "rating": "",
+        "hon_price_min": "421",
+        "hon_price_max": "440",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Cuisinart Precision Master 廚師機 SM-50BCHK",
+        "rating": "",
+        "hon_price_min": "2,698",
+        "hon_price_max": "2,698",
+        "類型:": "座檯式",
+        "功率:": "500W",
+        "變速設置:": "12段"
+    },
+    {
+        "names": "Midea 美的 廚師機附加配件組合：攪拌杯+碎肉器+食物處理器 KM-PARTS-SET",
+        "rating": "",
+        "hon_price_min": "371",
+        "hon_price_max": "518",
+        "類型:": "配件"
+    },
+    {
+        "names": "Frigidaire 手提打蛋器連轉動攪拌盆 FD5122",
+        "rating": "",
+        "類型:": "座檯式,手提式",
+        "變速設置:": "5段",
+        "尺寸:": "310 x 210 x 360mm"
+    },
+    {
+        "names": "KitchenAid FGA Food Grinder Attachment for Kitchen Aid Stand Mixer 配件",
+        "rating": "",
+        "hon_price_min": "595",
+        "hon_price_max": "610",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - Pasta Roller KAX970ME",
+        "rating": "",
+        "類型:": "配件",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Tefal 特福 Prep'line 手提打蛋器 HT4121",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "440",
+        "類型:": "手提式",
+        "功率:": "450W",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Braun 百靈 MultiMix 1 Hand Mixer HM 1010",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "4段"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - Pasta Maker Attachment AT936A",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "Frigidaire 北極 手提打蛋器 FD5101",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "類型:": "手提式",
+        "變速設置:": "6段"
+    },
+    {
+        "names": "Kenwood Classic Major 廚師機 KM636",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "335 x 205 x 370mm",
+        "重量:": "9.1kg"
+    },
+    {
+        "names": "Kenwood kMix Fire Cracker 專業廚師機 KMX84",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Kenwood 手提打蛋機 HM320",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "類型:": "手提式",
+        "尺寸:": "190 x 80 x 140mm",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Kenwood kMix 專業廚用機 KMX54",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "223 x 361 x 349mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "BOSCH MUM5 1000W 廚師機 MUM59340GB",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "Kenwood Chef Titanium 專業廚師機 KMC015",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "297 x 227 x 400mm",
+        "重量:": "7.7kg"
+    },
+    {
+        "names": "KitchenAid 抬頭式廚師機 5KSM150PSC",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,068",
+        "類型:": "座檯式",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "Kenwood Major Size Dessert Maker A957",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "260 x 300 x 240mm",
+        "重量:": "2.14kg"
+    },
+    {
+        "names": "Kenwood kMix 專業廚師機 KMX97",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "349 x 223 x 361mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Arima 強力打蛋器 HM-82",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "198",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH MUM4 550 W 廚師機 MUM46A1GB",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "4段",
+        "尺寸:": "265 x 265 x 305mm"
+    },
+    {
+        "names": "KitchenAid Bowl-Lift Burnished C-Dough Hook 不鏽鋼攪拌鉤 4.8L K5BDH",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood 手持攪拌器 HM620",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "類型:": "手提式",
+        "尺寸:": "195 x 205 x 230mm",
+        "重量:": "1.38kg"
+    },
+    {
+        "names": "Proluxury 普樂氏 4段速手提攪拌器 PHM001001",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "4段"
+    },
+    {
+        "names": "Kenwood Cooking Chef 專業超級廚師機 KM070",
+        "rating": "",
+        "類型:": "座檯式",
+        "功率:": "1500W",
+        "尺寸:": "380 x 410 x 335mm"
+    },
+    {
+        "names": "KitchenAid Tilt Head 1-Piece Pouring Shield (3.5 Quart)",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood kMix 手提攪拌機 HM809",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "178 x 170 x 220mm",
+        "重量:": "1.51kg"
+    },
+    {
+        "names": "Summe 德國卓爾 座檯 / 手提打蛋器 HM-S1229S",
+        "rating": "",
+        "類型:": "座檯式,手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH OptiMUM 廚師機 MUM9YX5S12",
+        "rating": "",
+        "hon_price_min": "7,680",
+        "hon_price_max": "7,680",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "337 x 222 x 433mm"
+    },
+    {
+        "names": "BOSCH MUM5 1000 W 廚師機 MUM58720",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "Nutzen 五段速度強力打蛋器 NMX-10",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "BOSCH MUM5 900 W 廚師機 MUM54251",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "BOSCH OptiMUM 廚師機 MUM9Y43S00",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "317 x 222 x 395mm"
+    },
+    {
+        "names": "Kenwood kMix 手提攪拌機 HM790",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "220 x 170 x 178mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - 碎肉器 MUZ5FW1",
+        "rating": "",
+        "類型:": "配件",
+        "重量:": "0.697kg"
+    },
+    {
+        "names": "Kenwood Chefette 桌上型廚師機 HM670",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "5段",
+        "尺寸:": "270 x 345 x 390mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "KitchenAid Bowl-Lift Burnished C-Dough Hook 攪拌鉤 4.8L K5ADH",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "BOSCH Styline Colour 手提式攪拌器 MFQ40303GB",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.098kg"
+    },
+    {
+        "names": "Kenwood Patissier Food Mixer 桌上型廚師機 MX271",
+        "rating": "",
+        "hon_price_min": "2,140",
+        "hon_price_max": "2,140",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "430 x 271 x 431mm",
+        "重量:": "7.9kg"
+    },
+    {
+        "names": "Kenwood Chef Sized Frozen Dessert Maker A956",
+        "rating": "",
+        "類型:": "配件",
+        "尺寸:": "280 x 255 x 225mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "KitchenAid 廚師機套",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "KitchenAid 100週年紀念版廚師機 (霧迷藍) 5KSM180RPBMB",
+        "rating": "",
+        "類型:": "座檯式",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "KitchenAid Tilt head flex edge beater (3.5 Quart)",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "Bosch ErgoMixx 手提攪拌棒 MFQ36300GB",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.059kg"
+    },
+    {
+        "names": "AKAI 雅佳 Super Slim 電動手提打蛋器 XE-01BL",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "175 x 130 x 80mm",
+        "重量:": "799g"
+    },
+    {
+        "names": "BOSCH MCM4 Styline 廚師機 MCM4100GB",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "2段",
+        "尺寸:": "390 x 240 x 215mm"
+    },
+    {
+        "names": "BOSCH MUM5 1000W 廚師機 MUM58L20",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "7段",
+        "尺寸:": "282 x 280 x 271mm"
+    },
+    {
+        "names": "BOSCH Styline Colour 手提式攪拌器 MFQ40303",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "5段",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Kenwood kMix 手提攪拌機 HM808",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "220 x 170 x 178mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 Love Your Day Collection 抬頭式廚師機 EKM3407R",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "380 x 250 x 330mm",
+        "重量:": "5.3kg"
+    },
+    {
+        "names": "BOSCH 廚師機配件 - 千層麵配件 MUZ5NV1",
+        "rating": "",
+        "類型:": "配件",
+        "重量:": "0.756kg"
+    },
+    {
+        "names": "KitchenAid Snfga Pasta Maker Attachment For Stand Mixers 配件",
+        "rating": "",
+        "類型:": "配件"
+    },
+    {
+        "names": "Kenwood 專業廚師機 KCC9040S",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "400 x 370 x 345mm",
+        "重量:": "12.88kg"
+    },
+    {
+        "names": "Dretec 手提攪拌器 HM-706",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "190 x 77 x 200mm",
+        "重量:": "532g"
+    },
+    {
+        "names": "Kenwood kMix 手提打蛋器 HM805",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "220 x 170 x 178mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Kenwood 廚師機配件- ThermoResist Blender KAH358GL",
+        "rating": "",
+        "類型:": "配件",
+        "尺寸:": "265 x 195 x 140mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Kenwood 廚師機配件 - Dicing Attachment MGX400",
+        "rating": "",
+        "類型:": "配件",
+        "尺寸:": "300 x 380 x 280mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "Russell Hobbs 手提式攪拌機 RH-18966",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Kenwood kMix 手提攪拌機 HM794",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "220 x 170 x 178mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Kenwood kMix 手提攪拌機 HM807",
+        "rating": "",
+        "類型:": "手提式",
+        "尺寸:": "220 x 170 x 178mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Philips 飛利浦 手持式攪拌器 HR1561",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "3段"
+    },
+    {
+        "names": "Cloer 廚師機 7001UK",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "300 x 320 x 315mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Tefal 特福 廚用機 QB405",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "6段",
+        "尺寸:": "340 x 260 x 300mm",
+        "重量:": "4.4kg"
+    },
+    {
+        "names": "BOSCH 廚師機 MCM68861GB",
+        "rating": "",
+        "類型:": "座檯式",
+        "功率:": "1250W",
+        "尺寸:": "430 x 250 x 300mm"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 打蛋器 HR1459/00",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Proluxury 普樂氏 4段速座枱攪拌器 PSM001022",
+        "rating": "",
+        "類型:": "座檯式",
+        "功率:": "350W",
+        "變速設置:": "4段"
+    },
+    {
+        "names": "KAI 貝印 手提型五段速打蛋器",
+        "rating": "",
+        "類型:": "手提式",
+        "變速設置:": "5段"
+    },
+    {
+        "names": "Kenwood Titanium Timer Major 專業廚師機 KMM040",
+        "rating": "",
+        "類型:": "座檯式",
+        "尺寸:": "385 x 240 x 340mm",
+        "重量:": "9.5kg"
+    },
+    {
+        "names": "Kenwood Chefette 桌上型攪拌器 HM680",
+        "rating": "",
+        "類型:": "座檯式",
+        "變速設置:": "5段",
+        "尺寸:": "320 x 220 x 310mm",
+        "重量:": "2.542kg"
+    },
+    {
+        "names": "Kitchenaid Professional 5 Plus 5-Quart Stand Mixer 專業版廚師機 KV25GOX",
+        "rating": "10",
+        "類型:": "座檯式",
+        "功率:": "450W",
+        "變速設置:": "10段"
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "names": "Philips 飛利浦 電子保險櫃 SBX301P5WC/93",
+        "rating": "",
+        "water_price_min": "6,980",
+        "water_price_max": "6,980"
+    },
+    {
+        "names": "Xiaomi 小米 智能垃圾桶",
+        "rating": "",
+        "water_price_min": "360",
+        "water_price_max": "360"
+    },
+    {
+        "names": "Heat2Wear Vest 智能發熱背心",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "1,488"
+    },
+    {
+        "names": "Xiaomi 小米 Five 智能消毒殺菌燈",
+        "rating": "9.5",
+        "hon_price_min": "290",
+        "hon_price_max": "398",
+        "water_price_min": "230",
+        "water_price_max": "380"
+    },
+    {
+        "names": "SuperV USB Heating Vest 第4代九區智能發熱背心",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "229"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能保管箱",
+        "rating": "7.0",
+        "water_price_min": "960",
+        "water_price_max": "1,050"
+    },
+    {
+        "names": "SmarterWare USB Heating Vest 第4代九區智能發熱背心 (Slim Cut 貼身版）",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "Freedom 智能發熱背心",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188"
+    },
+    {
+        "names": "Heat2Wear 無領 - 智能發熱 Dupont Sorona 羽絨背心",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "Xiaomi 小米 CRMCR 卡嘜復古機械智能保管箱",
+        "rating": "",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180"
+    },
+    {
+        "names": "LifeSmart Smart Station work w/Zigbee 3.0",
+        "rating": "8.0",
+        "hon_price_min": "637",
+        "hon_price_max": "999"
+    },
+    {
+        "names": "Govee Music Sync Box 音樂同步盒 H1162",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "268"
+    },
+    {
+        "names": "UKG 智能藍牙無線上網指紋防雨淋掛鎖 USL-PL3BT",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548"
+    },
+    {
+        "names": "SmarterWare 第2代 智能發熱背心",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "269"
+    },
+    {
+        "names": "JABERT 嘉佰特 可樂易拉罐型智能感應垃圾桶 (9L)",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680"
+    },
+    {
+        "names": "JNC 智能真空密封玻璃樽 (600ml)",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238"
+    },
+    {
+        "names": "Townew 拓牛 智慧垃圾桶 T3",
+        "rating": "",
+        "water_price_min": "880",
+        "water_price_max": "950"
+    },
+    {
+        "names": "Townew 拓牛 智慧垃圾桶升級版 T1S",
+        "rating": "10",
+        "water_price_min": "588",
+        "water_price_max": "609"
+    },
+    {
+        "names": "Xiaomi 小米 有品 全格感應分類垃圾桶 GA1",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198"
+    },
+    {
+        "names": "Turbo Italy Smart Heating Vest APP控熱能背心 FHV-009",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "ZOHO 升級版智能發熱背心 [6尺寸]",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "M-Plus 智能感應酒精噴霧機 X6",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "138",
+        "water_price_min": "98",
+        "water_price_max": "98"
+    },
+    {
+        "names": "GEMONIC 智能UVC紫外線排水門 DRX-19",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "560"
+    },
+    {
+        "names": "Turbo Italy Smart Heating Vest APP控熱能背心 FHV-008FM",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Xiaomi 小米 crmcr智能密碼指紋防盜WiFi保險箱 (支持米家APP)",
+        "rating": "",
+        "water_price_min": "899",
+        "water_price_max": "899"
+    },
+    {
+        "names": "Hupai 虎牌 領克系列保管箱 HP-HW30 黑色 58 (支持HUAWEI HiLink)",
+        "rating": "",
+        "water_price_min": "2,080",
+        "water_price_max": "2,080"
+    },
+    {
+        "names": "UKG 智能藍牙無線上網密碼掛鎖 USL-PL1BT",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348"
+    },
+    {
+        "names": "Flexwarm 加厚電熱保暖外套",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280"
+    },
+    {
+        "names": "Ninestars 防水智慧感應垃圾桶 (10升) DZT-10-35S",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338"
+    },
+    {
+        "names": "HidrateSpark PRO STEEL 智能水樽 32oz",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "628"
+    },
+    {
+        "names": "Xiaomi 小米 Five 智能殺菌牙刷架",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199"
+    },
+    {
+        "names": "Ninestars 不銹鋼防水智能感應垃圾桶 (12L) DZT-12-5",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "338",
+        "water_price_min": "328",
+        "water_price_max": "328"
+    },
+    {
+        "names": "Rocketbook Wave Smart Notebook",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "370"
+    },
+    {
+        "names": "RTI Control Processor XP-8v",
+        "rating": "",
+        "hon_price_min": "25,787",
+        "hon_price_max": "25,787"
+    },
+    {
+        "names": "Oclean 智能 UV-C 紫外線牙刷消毒掛座 S1",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "298",
+        "water_price_max": "298"
+    },
+    {
+        "names": "吻吻魚 輕智能隨行保溫杯 430ml",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "water_price_min": "209",
+        "water_price_max": "209"
+    },
+    {
+        "names": "JABERT 嘉佰特 可樂易拉罐型智能感應垃圾桶 (9L)",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680"
+    },
+    {
+        "names": "Flexwarm 電熱保暖長袖外套運動風衣衛衣連帽",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "Townew 拓牛 智能垃圾桶垃圾袋 (6盒裝)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "138",
+        "water_price_min": "129",
+        "water_price_max": "129"
+    },
+    {
+        "names": "4D Bios Flowerjoy 無土水栽 室內智能育花小管家",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380"
+    },
+    {
+        "names": "JNC 智能真空密封玻璃樽 (950ml)",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278"
+    },
+    {
+        "names": "LifeSmart SmartTag",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "160"
+    },
+    {
+        "names": "EQURA 暖在心中智能保溫保冷杯",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "428"
+    },
+    {
+        "names": "Zivix Jamstik+ 小巧便攜智能電結他",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,198"
+    },
+    {
+        "names": "Heat2Wear 智能發熱 Dupont Sorona 羽絨背心",
+        "rating": "10",
+        "hon_price_min": "998",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "Ninestars 防水感應垃圾桶",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "389",
+        "water_price_min": "250",
+        "water_price_max": "250"
+    },
+    {
+        "names": "Elfinbook Mini 智能紙質筆記本",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109"
+    },
+    {
+        "names": "Anytek P4",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "AKSO 坐便器UV智能感應殺菌器",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "Ninestars 智慧感應垃圾桶 (15升) DZT-15-10",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "water_price_min": "299",
+        "water_price_max": "299"
+    },
+    {
+        "names": "JNC 智能真空密封玻璃樽 (1350ml)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Xiaomi 小米 DDLMI 兒童智能顯微鏡",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799"
+    },
+    {
+        "names": "Noerden Liz Big Bottle 智能消毒殺菌水樽 480ml",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "449"
+    },
+    {
+        "names": "Townew 拓牛 智慧垃圾桶 T1",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "890",
+        "water_price_min": "578",
+        "water_price_max": "598"
+    },
+    {
+        "names": "Anytek L3 智能指紋鎖",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "MCOHome MH6-HP-EU 熱泵溫控",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "Vion Auto-Detection Bluetooth Smartphone App Multimeter",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "648",
+        "water_price_min": "448",
+        "water_price_max": "448"
+    },
+    {
+        "names": "Aqara 智能電動晾衣架 Lite",
+        "rating": "",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680"
+    },
+    {
+        "names": "Micro Sun USB桌面智能恆溫加熱杯墊",
+        "rating": "2.0",
+        "hon_price_min": "168",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "Mahaton UVC-LED 智能馬桶消毒",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "MCOHome MH7-WH-EU 水采暖溫控器",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "Noerden Liz Small Bottle 智能消毒殺菌水樽 350ml",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "LON10 集寶 智能感應垃圾桶-12L藍色單模式優質 (充電版) PEH",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248"
+    },
+    {
+        "names": "FOOXMET 智能溫控發熱背心3.0 2020升級款",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "1,198"
+    },
+    {
+        "names": "MCOHome MH8-FC-EU 風機盤管溫控器 (兼容新風系統)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "Xiaomi 小米 小莔智能消毒牙刷架 MKKJ01",
+        "rating": "",
+        "water_price_min": "278",
+        "water_price_max": "278"
+    },
+    {
+        "names": "OPUS ONE Jonas Smart Umbrella 天氣先生智能雨傘",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "549"
+    },
+    {
+        "names": "MCOHome MH7-EH-EU 電采暖溫控器",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "AGERU USB智能恆溫杯墊",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138"
+    },
+    {
+        "names": "Sail Technology P3 Fingerprint Lock 智能指紋鎖",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "250",
+        "water_price_max": "250"
+    },
+    {
+        "names": "FOOXMET 智能溫控發熱外套4.0",
+        "rating": "",
+        "hon_price_min": "1,498",
+        "hon_price_max": "1,498"
+    },
+    {
+        "names": "Ziglite 節亮 多功能智能紫外線殺菌燈 (AS-L-CZ)",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258"
+    },
+    {
+        "names": "Anytek P3 智能指紋鎖",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "UKG 智能藍牙無線上網密碼防雨淋掛鎖 USL-PL2BT",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448"
+    },
+    {
+        "names": "Tile Mate 智能追踪器",
+        "rating": ""
+    },
+    {
+        "names": "Wokesmart 智能淨鞋寶",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328"
+    },
+    {
+        "names": "Xiaomi 小米 咱家感應節水器",
+        "rating": "",
+        "water_price_min": "128",
+        "water_price_max": "198"
+    },
+    {
+        "names": "Petoneer 智能滅菌除臭器",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "268"
+    },
+    {
+        "names": "ALOK 智能恆溫發熱背心男女同款自由尺寸H3",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "369"
+    },
+    {
+        "names": "Xiaomi 小米 小米花花草草智能花盆",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260"
+    },
+    {
+        "names": "Rock Space Smart Vacuum Bottle 智能隨行杯 420ml",
+        "rating": "",
+        "hon_price_min": "372",
+        "hon_price_max": "372"
+    },
+    {
+        "names": "Veritable Connect Garden",
+        "rating": "",
+        "hon_price_min": "2,599",
+        "hon_price_max": "2,599"
+    },
+    {
+        "names": "GoLife Smart Cup 觸控顯示智能保溫杯",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390"
+    },
+    {
+        "names": "Anytek Anylock P1 隨身智能指紋鎖",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "Anytek L1 智能指紋鎖",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Ninestars 感應式掀蓋垃圾桶 DZT-10-29S",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599"
+    },
+    {
+        "names": "Wujiexiaoai 智能暖杯墊 WJ-NB03",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59"
+    },
+    {
+        "names": "Samsung 三星 電子匙卡 (匙扣款) SAM-SHSAKT200R",
+        "rating": ""
+    },
+    {
+        "names": "Nokelock FB50 智能指紋藍牙掛鎖",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Nest Tag",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359"
+    },
+    {
+        "names": "Townew 拓牛 T Air 智能垃圾桶",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380"
+    },
+    {
+        "names": "Acer Smart Travel Lock (ASL-T10-001)",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200"
+    },
+    {
+        "names": "Anytek Anylock B3 隨身智能指紋鎖",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "449"
+    },
+    {
+        "names": "Rollova 智能滾動量度尺",
+        "rating": ""
+    },
+    {
+        "names": "IB Intelligent Power Protector & Tester 智能電力斷電保護和多功能測試器",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260"
+    },
+    {
+        "names": "Nest Secure",
+        "rating": "",
+        "water_price_min": "4,980",
+        "water_price_max": "4,980"
+    },
+    {
+        "names": "BACtrack Smartphone Keychain Breathalyzer C6",
+        "rating": ""
+    },
+    {
+        "names": "Rockubot Pro 智能UVC殺菌音樂機械人",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199"
+    },
+    {
+        "names": "FarmerGotChi FGC智能農夫 FGC2 桌上智能水耕機",
+        "rating": ""
+    },
+    {
+        "names": "YAHEY Fingerprint Lock",
+        "rating": ""
+    },
+    {
+        "names": "Tile Slim 藍牙智能追踪器",
+        "rating": "4.0"
+    },
+    {
+        "names": "Puretta 智能控制牙刷消毒器 LZ-ZY",
+        "rating": ""
+    },
+    {
+        "names": "4D Bios Greenjoy 無土水栽 室內智能種植機",
+        "rating": ""
+    },
+    {
+        "names": "Exped Smart 超迷你自動垃圾桶",
+        "rating": ""
+    },
+    {
+        "names": "SmarterWare Smart Music Flower Pot 智能音樂花盆 K3",
+        "rating": ""
+    },
+    {
+        "names": "Micro Sun 藍牙防掉失器",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Netatmo Rain Gauge for Netatmo Weather Station",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980"
+    },
+    {
+        "names": "Ozmo Active 智能水杯",
+        "rating": ""
+    },
+    {
+        "names": "MirrorGotchi MGC 智能鏡子",
+        "rating": ""
+    },
+    {
+        "names": "PureNine 智能轉鹼水樽",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "BACtrack 個人酒精測定儀 C8",
+        "rating": ""
+    },
+    {
+        "names": "Moski 智能發熱背心",
+        "rating": ""
+    },
+    {
+        "names": "Eco-Lamps Home Hydroponic Farming 水耕種植系統",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "688"
+    },
+    {
+        "names": "HidrateSpark PRO Tritan 智能塑膠水樽 24oz",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468"
+    },
+    {
+        "names": "PushLL 智能遙控收件箱 P85",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500"
+    },
+    {
+        "names": "PiTraveler TSA 海關鎖藍牙智能行李帶 K200",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198"
+    },
+    {
+        "names": "Netatmo Personal Weather Station",
+        "rating": "",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880"
+    },
+    {
+        "names": "ARKY 香草與魚 2.0 智能版",
+        "rating": "",
+        "hon_price_min": "1,089",
+        "hon_price_max": "1,089"
+    },
+    {
+        "names": "Moikit Cuptime2 智能水杯",
+        "rating": ""
+    },
+    {
+        "names": "Parrot Pot 智能澆水花盆",
+        "rating": ""
+    },
+    {
+        "names": "Rachio Smart WiFi Sprinkler Controller",
+        "rating": ""
+    },
+    {
+        "names": "Ziglite 節亮 智能UVC紫外線消毒保溫杯 480ml (CAT)",
+        "rating": ""
+    },
+    {
+        "names": "AGT Mosquito Repellent 智能驅蚊手環 F8",
+        "rating": ""
+    },
+    {
+        "names": "Noke Padlock 藍牙智能鎖",
+        "rating": ""
+    },
+    {
+        "names": "IB 智能骨瓷水杯 Ceramic CloudCUP",
+        "rating": "10"
+    },
+    {
+        "names": "FOOXMET 智能溫控發熱外套",
+        "rating": ""
+    },
+    {
+        "names": "Keisue 垂直農場 KES 1.0",
+        "rating": ""
+    },
+    {
+        "names": "Click and Grow Smart Garden 3 智能盆栽",
+        "rating": ""
+    },
+    {
+        "names": "Click and Grow The Smart Garden 3 - White",
+        "rating": ""
+    },
+    {
+        "names": "Sinomax OCup 智能水杯 (停產)",
+        "rating": ""
+    },
+    {
+        "names": "MOKA 輕智能冷熱咖啡杯",
+        "rating": ""
+    },
+    {
+        "names": "Keisue 桌面種植機 KES 3.0",
+        "rating": ""
+    },
+    {
+        "names": "Remax 未來系列智能保溫杯 (340ml) RT-IG02",
+        "rating": ""
+    }
+]

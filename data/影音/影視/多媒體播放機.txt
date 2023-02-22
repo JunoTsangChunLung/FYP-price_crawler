@@ -1,0 +1,3142 @@
+[
+    {
+        "names": "BossTV 博視 V4 語音版 (4+128GB)",
+        "rating": "7.0",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "操作系統:": "Android 10",
+        "網路連接:": "LAN / 雙頻Wi-Fi"
+    },
+    {
+        "names": "BossTV 博視 V4 Mini PC (4+128GB)",
+        "rating": "10",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "操作系統:": "Android 10",
+        "網路連接:": "雙頻WIFI / LAN"
+    },
+    {
+        "names": "安博 安博盒子 第9代 UBOX 9 PRO MAX OS 國際版 (4+64GB)",
+        "rating": "9.3",
+        "hon_price_min": "980",
+        "hon_price_max": "1,680",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "介面:": "HDMI+USB+LAN"
+    },
+    {
+        "names": "EVPAD 6P 智能語音電視盒 (4+64GB)",
+        "rating": "6.5",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "介面:": "HDMI+USB+LAN"
+    },
+    {
+        "names": "EVPAD 6S AI 助理 6K 智能語音電視盒 (2+32GB)",
+        "rating": "10",
+        "hon_price_min": "988",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI+USB+LAN"
+    },
+    {
+        "names": "realme 4K Google TV Stick 電視棒",
+        "rating": "9.3",
+        "hon_price_min": "519",
+        "hon_price_max": "599",
+        "操作系統:": "Android",
+        "尺寸:": "90 x 28.6 x 14.5mm"
+    },
+    {
+        "names": "Nvidia Shield TV Pro 4K HDR",
+        "rating": "9.3",
+        "hon_price_min": "1,479",
+        "hon_price_max": "2,399",
+        "water_price_min": "1,350",
+        "water_price_max": "1,550",
+        "操作系統:": "Android 9.0",
+        "尺寸:": "98 x 159 x 25.93mm"
+    },
+    {
+        "names": "Xiaomi 小米 Mi TV Stick 4K",
+        "rating": "8.5",
+        "hon_price_min": "388",
+        "hon_price_max": "498",
+        "water_price_min": "328",
+        "water_price_max": "389",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "安博 安博盒子 第9代 UBOX (4+64GB)",
+        "rating": "8.7",
+        "hon_price_min": "980",
+        "hon_price_max": "1,480"
+    },
+    {
+        "names": "Google Chromecast with Google TV",
+        "rating": "9.6",
+        "hon_price_min": "350",
+        "hon_price_max": "659",
+        "water_price_min": "308",
+        "water_price_max": "649",
+        "介面:": "HDMI",
+        "網路連接:": "Wifi"
+    },
+    {
+        "names": "HKE360 MAX 8K",
+        "rating": "6.7",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,580"
+    },
+    {
+        "names": "SVI Cloud 小雲盒子 8P",
+        "rating": "9.5",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "操作系統:": "Android 10",
+        "網路連接:": "LAN / WIFI"
+    },
+    {
+        "names": "Amazon Fire TV Stick 4K Max",
+        "rating": "9.4",
+        "hon_price_min": "408",
+        "hon_price_max": "580",
+        "water_price_min": "295",
+        "water_price_max": "599",
+        "介面:": "HDMI",
+        "尺寸:": "38 x 142 x 16mm"
+    },
+    {
+        "names": "博視 BossTV V4 SE Mini PC (2+64GB)",
+        "rating": "6.0",
+        "hon_price_min": "938",
+        "hon_price_max": "939",
+        "操作系統:": "Android",
+        "網路連接:": "Wifi, Lan Port"
+    },
+    {
+        "names": "UNBOTV Super TV Box (4+64GB)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,680",
+        "操作系統:": "Android 12",
+        "網路連接:": "LAN / WIFI",
+        "尺寸:": "110 x 110 x 18.5mm"
+    },
+    {
+        "names": "Amazon Fire TV Stick 4K Max",
+        "rating": "9.4",
+        "hon_price_min": "408",
+        "hon_price_max": "580",
+        "water_price_min": "295",
+        "water_price_max": "599",
+        "介面:": "HDMI",
+        "尺寸:": "38 x 142 x 16mm"
+    },
+    {
+        "names": "UNBOTV Super TV Box (4+64GB)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,680",
+        "操作系統:": "Android 12",
+        "網路連接:": "LAN / WIFI",
+        "尺寸:": "110 x 110 x 18.5mm"
+    },
+    {
+        "names": "Amazon Fire TV Stick 4K (3rd Gen)",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "398",
+        "water_price_min": "260",
+        "water_price_max": "479",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "EVPAD 5P 智能語音電視盒 (4+32GB)",
+        "rating": "6.7",
+        "hon_price_min": "850",
+        "hon_price_max": "1,480",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "EVPAD EPLAY 3R (2+16GB)",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "1,680",
+        "介面:": "HDMI+USB+LAN"
+    },
+    {
+        "names": "Google Chromecast 3",
+        "rating": "9.8",
+        "hon_price_min": "235",
+        "hon_price_max": "368",
+        "water_price_min": "177",
+        "water_price_max": "320",
+        "操作系統:": "Android",
+        "硬碟支援:": "N/A"
+    },
+    {
+        "names": "SVI Cloud 小雲電視盒 8S (2+16GB)",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "操作系統:": "Android 10",
+        "網路連接:": "2.4G/5.G Dual Band Wi-Fi / RJ45 Lan"
+    },
+    {
+        "names": "SVI Cloud 小雲電視盒 3Pro",
+        "rating": "6.6",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,380",
+        "介面:": "HDMI",
+        "網路連接:": "2.4G/5.G Dual Band Wi-Fi / RJ45 Lan"
+    },
+    {
+        "names": "Magic TV MTV10000D-1TB",
+        "rating": "8.8",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,950",
+        "介面:": "HDMI",
+        "尺寸:": "325 x 230 x 62mm"
+    },
+    {
+        "names": "EVPAD 3 MAX Plus 易播電視盒 (4+64GB, 高配香港定制版)",
+        "rating": "2.0",
+        "hon_price_min": "699",
+        "hon_price_max": "1,380"
+    },
+    {
+        "names": "安博 安博盒子 第七代 UPROS - HK 香港版",
+        "rating": "6.0",
+        "hon_price_min": "700",
+        "hon_price_max": "1,180",
+        "介面:": "HDMI+USB3.0+AV+LAN"
+    },
+    {
+        "names": "Magic TV MTV9100D",
+        "rating": "7.1",
+        "hon_price_min": "1,710",
+        "hon_price_max": "1,900"
+    },
+    {
+        "names": "安博 安博盒子 第8代 UBOX 8 PRO MAX 國際版",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "Xiaomi 小米 Mi TV Stick",
+        "rating": "8.0",
+        "hon_price_min": "308",
+        "hon_price_max": "390",
+        "water_price_min": "255",
+        "water_price_max": "598"
+    },
+    {
+        "names": "安博 網路機頂盒",
+        "rating": "7.4",
+        "hon_price_min": "369",
+        "hon_price_max": "418",
+        "water_price_min": "288",
+        "water_price_max": "288"
+    },
+    {
+        "names": "安博 安博盒子PRO 2018 香港版",
+        "rating": "3.5",
+        "hon_price_min": "588",
+        "hon_price_max": "850"
+    },
+    {
+        "names": "Dream 夢想數位 DreamTV 夢想盒子 5代 Overlord 霸主",
+        "rating": "7.3",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,480",
+        "操作系統:": "Android 11",
+        "網路連接:": "Wifi, Gigalan"
+    },
+    {
+        "names": "ZIDOO NEO S 4K Hi-end Media Player",
+        "rating": "",
+        "hon_price_min": "10,800",
+        "hon_price_max": "10,930",
+        "操作系統:": "Android",
+        "硬碟支援:": "內置256GB SSD",
+        "尺寸:": "213 x 292 x 101mm"
+    },
+    {
+        "names": "EVPAD 5S 6K 智能語音電視盒 (2+16GB)",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Google Chromecast 3",
+        "rating": "9.8",
+        "hon_price_min": "235",
+        "hon_price_max": "368",
+        "water_price_min": "177",
+        "water_price_max": "320",
+        "操作系統:": "Android",
+        "硬碟支援:": "N/A"
+    },
+    {
+        "names": "安博 安博盒子 第六代 UPRO2 2019 香港版",
+        "rating": "7.1",
+        "hon_price_min": "580",
+        "hon_price_max": "1,080",
+        "介面:": "藍牙4.0, HDMI, USB, 3.5mm, RJ45 LAN埠, MicroSD(TF) Slot, Wifi"
+    },
+    {
+        "names": "ZIDOO Z9X 4K Media Player",
+        "rating": "9.3",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "操作系統:": "Android",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "MyTV Super Anywhere電視盒子",
+        "rating": "",
+        "hon_price_min": "1,497",
+        "hon_price_max": "2,099"
+    },
+    {
+        "names": "ZIDOO NEO X HI-FI Media Player",
+        "rating": "",
+        "hon_price_min": "15,750",
+        "hon_price_max": "16,800",
+        "介面:": "HDMI",
+        "硬碟支援:": "3.5\" HDD",
+        "尺寸:": "395 x 291 x 110mm"
+    },
+    {
+        "names": "Apple TV 4K 32GB",
+        "rating": "10",
+        "hon_price_min": "960",
+        "hon_price_max": "1,280",
+        "water_price_min": "980",
+        "water_price_max": "1,360",
+        "介面:": "HDMI, Wi‑Fi, Gigabit Ethernet, 藍牙 5.0, IR 接收器"
+    },
+    {
+        "names": "Google Chromecast with Google TV (HD)",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "299",
+        "water_price_min": "238",
+        "water_price_max": "238",
+        "介面:": "HDMI",
+        "網路連接:": "Wifi"
+    },
+    {
+        "names": "Google Chromecast Ultra",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "638",
+        "water_price_min": "200",
+        "water_price_max": "650",
+        "操作系統:": "Android 4.1 and higher, iOS 8.0 and higher, Mac OS X 10.9 and higher, Windows 7 and higher",
+        "尺寸:": "58.20 x 13.70 x 58.20 mm"
+    },
+    {
+        "names": "MyTV Super 電視盒子",
+        "rating": "6.5",
+        "hon_price_min": "350",
+        "hon_price_max": "650",
+        "water_price_min": "299",
+        "water_price_max": "480"
+    },
+    {
+        "names": "EVPAD 5 MAX 6K (4+128GB)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,780",
+        "介面:": "HDMI+USB+AV+LAN"
+    },
+    {
+        "names": "普視 PVBOX P5 Pro (4G+128G) 語音旗艦",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,680",
+        "操作系統:": "Android 10",
+        "網路連接:": "雙頻WiFi/LAN"
+    },
+    {
+        "names": "Magic TV MTV10000D-1TB",
+        "rating": "8.8",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,950",
+        "介面:": "HDMI",
+        "尺寸:": "325 x 230 x 62mm"
+    },
+    {
+        "names": "Now E Android TV 盒子 (星級足球版)",
+        "rating": "8.8",
+        "hon_price_min": "330",
+        "hon_price_max": "540"
+    },
+    {
+        "names": "ZIDOO NEO Alpha 4K Hi-End Media player",
+        "rating": "",
+        "hon_price_min": "18,800",
+        "hon_price_max": "18,800",
+        "操作系統:": "Android",
+        "硬碟支援:": "內置512GB SSD, 支援 2.5\"HDD及SSD / 3.5\"HDD",
+        "尺寸:": "430 x 300 x 105mm"
+    },
+    {
+        "names": "普視 PVBOX P5 (2G+32G+語音) STD",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,280",
+        "操作系統:": "Android 10",
+        "網路連接:": "雙頻WIF / LAN"
+    },
+    {
+        "names": "ZIDOO 4K HI-FI Media Player UHD3000",
+        "rating": "",
+        "hon_price_min": "8,380",
+        "hon_price_max": "8,380",
+        "操作系統:": "Android",
+        "尺寸:": "520 x 390 x 170mm"
+    },
+    {
+        "names": "Xiaomi 小米 Mi TV Stick",
+        "rating": "8.0",
+        "hon_price_min": "308",
+        "hon_price_max": "390",
+        "water_price_min": "255",
+        "water_price_max": "598"
+    },
+    {
+        "names": "ZIDOO 4K Media Player Z10 Pro",
+        "rating": "8.0",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,580",
+        "操作系統:": "Android",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Goovis D3 藍光播放器",
+        "rating": "10",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "操作系統:": "Android",
+        "網路連接:": "Wifi",
+        "尺寸:": "148.1 x 61 x 17.9 mm"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子國際版",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "410",
+        "water_price_min": "390",
+        "water_price_max": "698"
+    },
+    {
+        "names": "SVI Cloud 小雲電視盒 3Plus",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,280",
+        "操作系統:": "Android 10",
+        "網路連接:": "2.4G/5.G Dual Band Wi-Fi / RJ45 Lan"
+    },
+    {
+        "names": "安博 安博盒子2019 第六代 UPRO2 國際版",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "1,380",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "EVPAD 3 MAX 智能電視盒",
+        "rating": "2.0",
+        "hon_price_min": "699",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "BossTV 博視 全球直播盒子",
+        "rating": "3.1",
+        "hon_price_min": "490",
+        "hon_price_max": "1,080",
+        "介面:": "Android 5.1.1"
+    },
+    {
+        "names": "Dream 夢想數位 DreamTV Revolution 夢想盒子革命 國際版",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,380",
+        "操作系統:": "Android 9",
+        "網路連接:": "雙頻Wi-Fi, 1000MB Gigabit LAN"
+    },
+    {
+        "names": "Magic TV MTV9600D 4TB",
+        "rating": "2.5",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,899",
+        "介面:": "USB"
+    },
+    {
+        "names": "Magic TV MTV9600D 1TB",
+        "rating": "7.3",
+        "hon_price_min": "2,610",
+        "hon_price_max": "2,880"
+    },
+    {
+        "names": "Amazon Fire TV Stick (3rd Gen)",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "450",
+        "介面:": "HDMI",
+        "網路連接:": "WIFI"
+    },
+    {
+        "names": "安博 安博盒子 第七代  UPRO3 2019 高配版",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "1,380",
+        "介面:": "藍牙, HDMI, USB, 3.5mm, MicroSD (TF) Slot, Wifi"
+    },
+    {
+        "names": "EVPAD 3S 智能電視盒",
+        "rating": "2.0",
+        "hon_price_min": "670",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "BossTV 博視 V3X 語音版 (4+64GB)",
+        "rating": "6.0",
+        "hon_price_min": "980",
+        "hon_price_max": "1,480",
+        "操作系統:": "Android 7",
+        "網路連接:": "WIFI / LAN"
+    },
+    {
+        "names": "EVPAD EPLAY 6G (2+32GB)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "介面:": "HDMI+USB+LAN"
+    },
+    {
+        "names": "Roku Steaming Stick+",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "550",
+        "water_price_min": "368",
+        "water_price_max": "460",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "ZIDOO X20 Pro",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "4,999",
+        "操作系統:": "Android + OpenWRT(NAS) dual system run simultaneously",
+        "硬碟支援:": "SATA 3.0 X2",
+        "尺寸:": "43 x 30.5 x 7cm"
+    },
+    {
+        "names": "普視 PVBOX3",
+        "rating": "5.0",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,080",
+        "操作系統:": "Android",
+        "網路連接:": "雙頻WIFI/ Lan線"
+    },
+    {
+        "names": "安博 安博盒子 第4代 UBOX Gen.4 PRO BT",
+        "rating": "4.4",
+        "hon_price_min": "410",
+        "hon_price_max": "860",
+        "介面:": "Android 5.1"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子 增強版",
+        "rating": "6.7",
+        "hon_price_min": "470",
+        "hon_price_max": "500",
+        "water_price_min": "369",
+        "water_price_max": "390",
+        "介面:": "AV / HDMI"
+    },
+    {
+        "names": "Magic TV MTV10000D-4TB",
+        "rating": "5.0",
+        "hon_price_min": "4,540",
+        "hon_price_max": "4,750",
+        "介面:": "HDMI",
+        "尺寸:": "325 x 230 x 62mm"
+    },
+    {
+        "names": "HKE360 PLUS 8K 語音版",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,490",
+        "操作系統:": "Android",
+        "網路連接:": "5GWIFI+LAN"
+    },
+    {
+        "names": "Roku Express Streaming Media Player",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "329",
+        "water_price_min": "258",
+        "water_price_max": "258"
+    },
+    {
+        "names": "MyTV Super MyTV Gold 電視盒子",
+        "rating": "8.0",
+        "hon_price_min": "1,400",
+        "hon_price_max": "2,380",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "HKE360 6KPRO",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,160"
+    },
+    {
+        "names": "LeBOXTV Model X 媒體播放器",
+        "rating": "7.3",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,990",
+        "操作系統:": "Android",
+        "網路連接:": "雙頻Wifi / LAN",
+        "尺寸:": "96 x 96 x 19mm"
+    },
+    {
+        "names": "ZIDOO Z10 4K Media Player",
+        "rating": "",
+        "hon_price_min": "1,970",
+        "hon_price_max": "19,980",
+        "操作系統:": "Android / Openwrt",
+        "網路連接:": "WIFI / LAN",
+        "硬碟支援:": "SATA External / 3.5HDD 內置"
+    },
+    {
+        "names": "HKE360 Plus 多媒體數位盒",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "980",
+        "操作系統:": "Android"
+    },
+    {
+        "names": "TurboTV 騰播 Turbo 5代",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "操作系統:": "Android",
+        "網路連接:": "雙頻WIFI/LAN"
+    },
+    {
+        "names": "Amazon Fire TV Stick",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "380",
+        "water_price_min": "290",
+        "water_price_max": "498",
+        "網路連接:": "WIFI",
+        "尺寸:": "84.9 x 25.0 x 11.5 mm"
+    },
+    {
+        "names": "MyTV Super Anywhere 心連心限量版禮盒裝",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799"
+    },
+    {
+        "names": "TVB Anywhere",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "2,099"
+    },
+    {
+        "names": "Amazon Fire TV Stick Lite 及Alexa語音遙控器Lite(不包括電視控件)",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "water_price_min": "168",
+        "water_price_max": "349"
+    },
+    {
+        "names": "安博 網路機頂盒",
+        "rating": "7.4",
+        "hon_price_min": "369",
+        "hon_price_max": "418",
+        "water_price_min": "288",
+        "water_price_max": "288"
+    },
+    {
+        "names": "EVPAD 3 智能電視盒",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "1,180"
+    },
+    {
+        "names": "Amazon All-New Fire TV Stick (Alexa 語音遙控器)",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "water_price_min": "290",
+        "water_price_max": "410",
+        "網路連接:": "Wifi"
+    },
+    {
+        "names": "Amazon Fire TV Stick with Alexa built in (2nd Gen)",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "449",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "TurboTV 騰播 Turbo 5+",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,080",
+        "操作系統:": "Android 10",
+        "網路連接:": "WIFI/LAN"
+    },
+    {
+        "names": "ZIDOO UHD2000 4K HI-FI Media Player",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "6,980",
+        "操作系統:": "Android 7",
+        "硬碟支援:": "内置獨立2*SATA3.0 3.5寸硬盤倉",
+        "尺寸:": "312 x 430 x 72mm"
+    },
+    {
+        "names": "千尋影視 千尋盒子5 香港定制版 (QBox5 HK)",
+        "rating": "2.0",
+        "hon_price_min": "499",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "BossTV 博視 V3 Pro 國際版",
+        "rating": "2.0",
+        "hon_price_min": "880",
+        "hon_price_max": "1,380",
+        "操作系統:": "Android 7",
+        "網路連接:": "2.4G+5G WIFI + LAN"
+    },
+    {
+        "names": "Hanson Digital Signage Player HS-EP40",
+        "rating": "",
+        "hon_price_min": "8,700",
+        "hon_price_max": "8,700",
+        "操作系統:": "Android 5.1",
+        "尺寸:": "227.10 x 129.04 x 31.50 mm"
+    },
+    {
+        "names": "EVPAD 5P 智能語音電視盒 (4+32GB, VPN 中國限定版)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "MediaCube X96 X4 8K Android TV Box",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "操作系統:": "Android 11",
+        "網路連接:": "2.4+5G Wifi, 1000M Lan Port",
+        "尺寸:": "105 x 105 x 22mm"
+    },
+    {
+        "names": "Apple TV 4K 64GB",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,018",
+        "water_price_max": "1,598",
+        "介面:": "HDMI, Wi‑Fi, Gigabit Ethernet, 藍牙 5.0, IR 接收器"
+    },
+    {
+        "names": "ZIDOO Z9S 4K Media Player",
+        "rating": "10",
+        "hon_price_min": "990",
+        "hon_price_max": "1,380",
+        "操作系統:": "Android + OpenWRT",
+        "網路連接:": "WIFI / LAN",
+        "硬碟支援:": "Extenal SATA Port 2* SATA3.0"
+    },
+    {
+        "names": "安博 安博盒子 第3代 TV BOX3 Gen3 S900BT Pro 藍牙版",
+        "rating": "6.0",
+        "hon_price_min": "400",
+        "hon_price_max": "680",
+        "介面:": "Android 5.1"
+    },
+    {
+        "names": "Amazon Fire TV Cube",
+        "rating": "10",
+        "water_price_min": "698",
+        "water_price_max": "1,057"
+    },
+    {
+        "names": "HKE360 Pro 第三代",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "1,080",
+        "操作系統:": "Android 7.1",
+        "網路連接:": "LAN/Wifi"
+    },
+    {
+        "names": "ZIDOO X20",
+        "rating": "",
+        "hon_price_min": "2,780",
+        "hon_price_max": "3,690",
+        "操作系統:": "Android + OpenWRT(NAS) dual system run simultaneously",
+        "硬碟支援:": "SATA 3.0 X2",
+        "尺寸:": "43 x 30.5 x 7cm"
+    },
+    {
+        "names": "安博 安博盒子 二代 S800",
+        "rating": "7.5",
+        "hon_price_min": "410",
+        "hon_price_max": "450",
+        "介面:": "USB X1"
+    },
+    {
+        "names": "EVBOX 國際版系列 3R+",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,190",
+        "操作系統:": "Android 7",
+        "網路連接:": "5G+2.4G wifi+100MB LAN"
+    },
+    {
+        "names": "MediaCube K7 4K Media Player",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "操作系統:": "Android",
+        "尺寸:": "72 x 82 x 19mm"
+    },
+    {
+        "names": "安博 UPRO I900 TW升級版",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "Google Chromecast 2",
+        "rating": "7.5",
+        "hon_price_min": "180",
+        "hon_price_max": "329",
+        "water_price_min": "120",
+        "water_price_max": "268",
+        "操作系統:": "Android"
+    },
+    {
+        "names": "BossTV 博視 V3 電視盒子",
+        "rating": "2.0",
+        "hon_price_min": "680",
+        "hon_price_max": "1,080",
+        "操作系統:": "Android 7.0",
+        "網路連接:": "雙頻WIFI/ Lan線",
+        "硬碟支援:": "2G RAM + 16GB ROM"
+    },
+    {
+        "names": "MediaCube H96 Mini 6K Ultra Android TV Box",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "620",
+        "water_price_min": "400",
+        "water_price_max": "400",
+        "操作系統:": "Android 9.0",
+        "網路連接:": "2.4+5G WI-FI, 10/100 Mbp",
+        "尺寸:": "100 x 100 x 18mm"
+    },
+    {
+        "names": "EVPAD Plus",
+        "rating": "10",
+        "hon_price_min": "697",
+        "hon_price_max": "1,090"
+    },
+    {
+        "names": "Apple TV (第4代) 32GB",
+        "rating": "10",
+        "water_price_min": "780",
+        "water_price_max": "980"
+    },
+    {
+        "names": "Hyundai 現代 藍光機 HYB-822",
+        "rating": "",
+        "hon_price_min": "475",
+        "hon_price_max": "598",
+        "介面:": "HDMI",
+        "尺寸:": "260 x 180 x 33mm"
+    },
+    {
+        "names": "ZIDOO X9S Smart TV Box",
+        "rating": "10",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "操作系統:": "Android 6.0 + OpenWRT(NAS) dual system run simultaneously",
+        "硬碟支援:": "16GB eMMC",
+        "尺寸:": "187 x 127 x 27mm"
+    },
+    {
+        "names": "Zappiti Mini 4K HDR Media Player",
+        "rating": "",
+        "hon_price_min": "2,490",
+        "hon_price_max": "2,980",
+        "介面:": "HDMI 2.0",
+        "硬碟支援:": "Yes",
+        "尺寸:": "161 x 100 x 27.5mm"
+    },
+    {
+        "names": "Magic TV MTV9000",
+        "rating": "5.0",
+        "hon_price_min": "1,800",
+        "hon_price_max": "1,860"
+    },
+    {
+        "names": "HKE360 360BOX",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "998",
+        "操作系統:": "Android 6.0",
+        "尺寸:": "3.58 x 3.58 x 0.71\""
+    },
+    {
+        "names": "普視 PVBOX P5 Mini (2G+16G)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,390",
+        "操作系統:": "Android 10",
+        "網路連接:": "WiFi/LAN"
+    },
+    {
+        "names": "Xiaomi 小米 小米小盒子",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "介面:": "MIUI TV"
+    },
+    {
+        "names": "Gerhantech 8K UHD Display Android 11 Smart TV Box 智能電視盒 – H96Max",
+        "rating": "",
+        "water_price_min": "589",
+        "water_price_max": "589",
+        "操作系統:": "Android 11",
+        "網路連接:": "2.4G/5.8G WiFi, Gigabit LAN",
+        "硬碟支援:": "支持128GB TF卡"
+    },
+    {
+        "names": "HiMedia 4K UHD Android TV Box S500",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "599",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "操作系統:": "Android TV",
+        "網路連接:": "2.4G/5.G Dual Band Wi-Fi",
+        "硬碟支援:": "109 x 109 x 21mm"
+    },
+    {
+        "names": "Lingcod TV ZS5",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "499",
+        "操作系統:": "Android 6.0",
+        "硬碟支援:": "芯片Amlogic S905X  RAM1G ROM8G"
+    },
+    {
+        "names": "ZIDOO 4K UHD Media player Z1000 PRO",
+        "rating": "10",
+        "hon_price_min": "3,950",
+        "hon_price_max": "3,980",
+        "操作系統:": "Android",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Nvidia Shield TV 4K HDR",
+        "rating": "10",
+        "hon_price_min": "940",
+        "hon_price_max": "1,799",
+        "water_price_min": "880",
+        "water_price_max": "1,190",
+        "操作系統:": "Android TV",
+        "硬碟支援:": "NO",
+        "尺寸:": "4 x 4 x 16.5 cm"
+    },
+    {
+        "names": "Blackmagic Design Video Assist 4K",
+        "rating": "",
+        "hon_price_min": "7,500",
+        "hon_price_max": "7,550"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子4",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "429",
+        "water_price_min": "380",
+        "water_price_max": "430",
+        "介面:": "WiFi, Bluetooth 4.1+ EDR, HDMI, USB, AV"
+    },
+    {
+        "names": "Blackmagic Design Video Assist",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,300"
+    },
+    {
+        "names": "ATV BOX 電視盒子",
+        "rating": "10",
+        "hon_price_min": "40",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "安博 JBOX",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "Zappiti PRO 4K HDR Media Player",
+        "rating": "",
+        "hon_price_min": "9,950",
+        "hon_price_max": "9,950",
+        "介面:": "HDMI 2.0 Out x 2, HDMI In x 1",
+        "硬碟支援:": "Yes",
+        "尺寸:": "430 x 330 x 85mm"
+    },
+    {
+        "names": "安博 安博盒子二代增強版",
+        "rating": "6.0",
+        "hon_price_min": "365",
+        "hon_price_max": "470",
+        "介面:": "USB x2 RJ45 x1 MicroSD Slot x1"
+    },
+    {
+        "names": "BossTV 博視 V3 國際版",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "1,280",
+        "操作系統:": "Android 7",
+        "尺寸:": "96 x 96 x 19mm"
+    },
+    {
+        "names": "ZIDOO Z1000 4K UHD Media Player",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,980",
+        "操作系統:": "Android",
+        "硬碟支援:": "內置X1 , 外置SATA X1,USBX2",
+        "尺寸:": "350 x 240 x 75mm"
+    },
+    {
+        "names": "Wecast 5G WI-FI Display Dongle",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "介面:": "HDMI",
+        "尺寸:": "9.50 x 4 x 0.5cm"
+    },
+    {
+        "names": "Egreat A11",
+        "rating": "",
+        "hon_price_min": "3,900",
+        "hon_price_max": "3,900",
+        "操作系統:": "Google Android 5.1.1",
+        "硬碟支援:": "8TB",
+        "尺寸:": "310 x 240 x 70mm"
+    },
+    {
+        "names": "BestV (Pro) Media Player 高配版",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "操作系統:": "Android 7",
+        "網路連接:": "雙頻wifi+Lan",
+        "硬碟支援:": "2GB+16GB"
+    },
+    {
+        "names": "MediaCube H96 Max 4K Ultra Android TV Box",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "操作系統:": "Android 9.0",
+        "網路連接:": "2.4+5G WI-FI, 10/100 Mbp",
+        "尺寸:": "100 x 100 x 18mm"
+    },
+    {
+        "names": "HiMedia M7",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "870",
+        "操作系統:": "Android V5.1",
+        "網路連接:": "100MB",
+        "硬碟支援:": "1TB Hard Disk"
+    },
+    {
+        "names": "Apple TV HD 32GB",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "900",
+        "water_price_min": "680",
+        "water_price_max": "980"
+    },
+    {
+        "names": "千尋影視 千尋盒子2 Q-box 2-iii 尊貴版",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "1,870",
+        "介面:": "AV/HDMI"
+    },
+    {
+        "names": "BossTV 博視 V2 全球直播盒子",
+        "rating": "3.2",
+        "hon_price_min": "498",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "MINIX 4K Ultra HD Android Media Hub NEO U22-XJ",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,280",
+        "操作系統:": "Android 9.0",
+        "網路連接:": "802.11ac 2x2 MIMO Dual-Band Wi-Fi / RJ-45 Gigabit Ethernet"
+    },
+    {
+        "names": "安博 安博盒子 UBOX4 C800Plus",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "780",
+        "介面:": "HDMI AV USBX2 TFSLOT"
+    },
+    {
+        "names": "安博 安博盒子 第七代 UPROS 4+64GB K9P 高配香港版",
+        "rating": "8.0",
+        "hon_price_min": "820",
+        "hon_price_max": "1,380",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Roku Express 4K+ Streaming Media Player",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "water_price_min": "288",
+        "water_price_max": "360"
+    },
+    {
+        "names": "安博 安博盒子 第3代 TV BOX3 Gen3 S900 Pro",
+        "rating": "7.1",
+        "hon_price_min": "410",
+        "hon_price_max": "980",
+        "介面:": "Android 5.1"
+    },
+    {
+        "names": "Apple TV (第4代) 64GB",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,560",
+        "water_price_min": "950",
+        "water_price_max": "998"
+    },
+    {
+        "names": "ZIDOO X8 Smart TV Box",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "操作系統:": "Android 6.0 + OpenWRT(NAS) dual system run simultaneously",
+        "硬碟支援:": "8GB eMMC",
+        "尺寸:": "152 x 152 x 25mm"
+    },
+    {
+        "names": "SVI Cloud M8S Pro 小雲電視盒",
+        "rating": "9.8",
+        "hon_price_min": "880",
+        "hon_price_max": "960",
+        "介面:": "HDMI+USB+AV+LAN"
+    },
+    {
+        "names": "FUNTV BT 4K 網路機頂盒",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "操作系統:": "Android 6.0",
+        "介面:": "1080P / 4K@60fps"
+    },
+    {
+        "names": "小七科技 小七盒子4代 SBOX4",
+        "rating": "6.0",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "介面:": "USB X 2 / Micro Sd X 1 / RJ45 Lan /Wifi 5G+2.4"
+    },
+    {
+        "names": "MediaCube X96 Air 8K Ultra Android TV Box",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "380",
+        "操作系統:": "Android 9.0",
+        "網路連接:": "2.4+5G WI-FI, 10/100 Mbp",
+        "尺寸:": "104 x 104 x 20mm"
+    },
+    {
+        "names": "CoolBox 高清網絡盒子",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "960"
+    },
+    {
+        "names": "Magic TV MTV8000D-4TB",
+        "rating": "",
+        "介面:": "USB"
+    },
+    {
+        "names": "EVPAD PRO 4K (停產)",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "AVerMedia c283s",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "1,290",
+        "介面:": "Component, Audio L/R",
+        "尺寸:": "164 x 124 x 57 mm"
+    },
+    {
+        "names": "Cambridge Audio AZUR 851N",
+        "rating": "9.1",
+        "hon_price_min": "10,800",
+        "hon_price_max": "14,000",
+        "尺寸:": "115 x 430 x 360mm"
+    },
+    {
+        "names": "AV LINK HDMI/ AV in 高清硬盤錄影機 HD60",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "1,700"
+    },
+    {
+        "names": "HiMedia Q5-四代",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "860",
+        "操作系統:": "Android 5.1",
+        "硬碟支援:": "4TB",
+        "尺寸:": "170x155x24.5mm"
+    },
+    {
+        "names": "Apple TV Remote MQGE2ZA/A",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370"
+    },
+    {
+        "names": "TurboTV KK-200",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "399",
+        "操作系統:": "Android 4.4",
+        "網路連接:": "LAN 10M/100M"
+    },
+    {
+        "names": "AJA Pak Dock",
+        "rating": "",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,650"
+    },
+    {
+        "names": "HiMedia M6",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "660",
+        "操作系統:": "Android",
+        "網路連接:": "WIFI / LAN 100Mb"
+    },
+    {
+        "names": "CoralStar XGA TV Box (AV to VGA) TV3860E",
+        "rating": "",
+        "water_price_min": "188",
+        "water_price_max": "188"
+    },
+    {
+        "names": "Zappiti One SE 4K HDR Media Player",
+        "rating": "",
+        "hon_price_min": "3,490",
+        "hon_price_max": "3,980",
+        "介面:": "HDMI 2.0 Out x 2, HDMI Input x 1",
+        "硬碟支援:": "Yes",
+        "尺寸:": "281 x 188 x 50mm"
+    },
+    {
+        "names": "HKE360 360BOX Gen.2 BT",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "操作系統:": "Android 7.1",
+        "介面:": "1080P / 4K@60fps"
+    },
+    {
+        "names": "Google Chromecast",
+        "rating": "9.6",
+        "hon_price_min": "128",
+        "hon_price_max": "298",
+        "water_price_min": "70",
+        "water_price_max": "128",
+        "操作系統:": "Android",
+        "網路連接:": "Wi-Fi"
+    },
+    {
+        "names": "MediaCube H96 Max+ 4K Ultra Android TV Box",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "操作系統:": "Android 8.1",
+        "網路連接:": "2.4+5G WI-FI, 10/100 Mbp",
+        "尺寸:": "100 x 100 x 18mm"
+    },
+    {
+        "names": "MINIX NEO A3",
+        "rating": "",
+        "操作系統:": "Android / Windows / Mac",
+        "介面:": "2.4Ghz"
+    },
+    {
+        "names": "SmarterWare Android 10 TV Stick X96 S400 (A53 2GB RAM+16GB Flash)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "操作系統:": "Android",
+        "網路連接:": "WiFi"
+    },
+    {
+        "names": "AJA PAK512-R1",
+        "rating": "",
+        "hon_price_min": "9,580",
+        "hon_price_max": "9,580"
+    },
+    {
+        "names": "Magic TV MTV9500",
+        "rating": "5.5",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,840"
+    },
+    {
+        "names": "MoonBox TV",
+        "rating": "",
+        "hon_price_min": "878",
+        "hon_price_max": "878",
+        "操作系統:": "Android 6.0",
+        "網路連接:": "LAN , 2.4GHz 802.11a/b/g/n/ac WiFi , 藍牙4.0"
+    },
+    {
+        "names": "Hiraki 全高清藍光讀碟機 HY-BD102",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "498",
+        "介面:": "HDMI",
+        "尺寸:": "260 x 193 x 33mm"
+    },
+    {
+        "names": "Magic-Pro igogo tv MP-188",
+        "rating": "10",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "介面:": "Wi-Fi / Ethernet / HDMI"
+    },
+    {
+        "names": "AJA Ki Pro Ultra Plus",
+        "rating": "",
+        "hon_price_min": "25,000",
+        "hon_price_max": "25,000"
+    },
+    {
+        "names": "TurboTV 騰播 2代 KK-200BT 藍牙版",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "560"
+    },
+    {
+        "names": "Amazon All-New Fire TV with 4K Ultra HD and Alexa Voice Remote",
+        "rating": "",
+        "water_price_min": "336",
+        "water_price_max": "498",
+        "介面:": "HDMI",
+        "網路連接:": "Wi-Fi"
+    },
+    {
+        "names": "TechGear MB935",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "操作系統:": "Android 4.2",
+        "硬碟支援:": "USB / SATA"
+    },
+    {
+        "names": "HiMedia Q5 PLUS",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "網路連接:": "Wifi",
+        "尺寸:": "170 x 155 x 24.5mm"
+    },
+    {
+        "names": "10moons D6",
+        "rating": "",
+        "操作系統:": "Android 4.1.2",
+        "網路連接:": "WiFi / LAN Port",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "Roku Streaming Stick 4K (3820EU)",
+        "rating": "",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "介面:": "HDMI, USB for Power & Long-range Wi-Fi receiver",
+        "尺寸:": "94.5 x 21.1 x 11.5mm"
+    },
+    {
+        "names": "EVPAD PRO+",
+        "rating": "6.0",
+        "hon_price_min": "630",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "千尋影視 千尋盒子2 Q-box 2-i",
+        "rating": "7.3",
+        "hon_price_min": "399",
+        "hon_price_max": "480",
+        "介面:": "AV/HDMI"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子4c",
+        "rating": "10",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "介面:": "WiFi, HDMI, USB, AV"
+    },
+    {
+        "names": "Eaget M880",
+        "rating": "",
+        "介面:": "USB2.0, LAN"
+    },
+    {
+        "names": "VDiGi IMP-102",
+        "rating": "10",
+        "操作系統:": "Android 4.0",
+        "硬碟支援:": "USB x3 (支援1TB HDD)",
+        "尺寸:": "130 x 130 x 30 (mm)"
+    },
+    {
+        "names": "HiMedia Q10",
+        "rating": "9.0",
+        "操作系統:": "Android",
+        "網路連接:": "LAN/WIFI"
+    },
+    {
+        "names": "Olevia OleBox Mini",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "操作系統:": "Android 2.2",
+        "網路連接:": "Wi-Fi",
+        "尺寸:": "125(W)32(H)125(D)mm"
+    },
+    {
+        "names": "HiMedia HD910A 3D WIFI",
+        "rating": "10",
+        "操作系統:": "Android 2.2",
+        "網路連接:": "100MB",
+        "尺寸:": "170 x 155 x 24.5mm"
+    },
+    {
+        "names": "EVBOX PLUS國際版",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,280",
+        "操作系統:": "Android 7",
+        "網路連接:": "雙頻WIFI/ Lan線"
+    },
+    {
+        "names": "Vontar 8K UHD Android 11 Smart TV Box – X4",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "操作系統:": "Android 11",
+        "網路連接:": "Wifi, Gigabit LAN",
+        "硬碟支援:": "USB 3.0"
+    },
+    {
+        "names": "HiMedia HD560B",
+        "rating": "5.3",
+        "介面:": "HDMI / 色差 / USB 3.0",
+        "硬碟支援:": "抽取式硬碟"
+    },
+    {
+        "names": "Magic-Pro iGoGoTV MP238",
+        "rating": "",
+        "操作系統:": "Android 4.0",
+        "硬碟支援:": "USB 2.0",
+        "尺寸:": "245 x 47 x 29mm"
+    },
+    {
+        "names": "Nvidia SHIELD 4K HDR Android TV (2017)",
+        "rating": ""
+    },
+    {
+        "names": "MINIX NEO U9-H",
+        "rating": "",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,180",
+        "操作系統:": "Android Marshmallow 6.0.1",
+        "網路連接:": "802.11ac 2x2MIMO Dual-Band Wi-fi"
+    },
+    {
+        "names": "EVPAD 易播平板 EPLAY TV Table i8",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,980",
+        "上市日期:": "2019年4月"
+    },
+    {
+        "names": "SmarterWare Android 11 TV Stick (Quadcore, 2GB +16GB) X98",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "319",
+        "操作系統:": "Android",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "HiMedia H6",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "操作系統:": "Android",
+        "網路連接:": "10/100 LAN,Wifi",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "HiMedia H300A",
+        "rating": "8.7",
+        "介面:": "HDMI、AV out、色差輸出",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "NEXBOX A95X A2",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "操作系統:": "ANDROID 6.0",
+        "硬碟支援:": "USB",
+        "尺寸:": "150 x 96 x 25mm"
+    },
+    {
+        "names": "小七科技 小七盒子3代 終極版",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "1,570"
+    },
+    {
+        "names": "QBOX2 QBOX2",
+        "rating": "9.0",
+        "hon_price_min": "499",
+        "hon_price_max": "770"
+    },
+    {
+        "names": "ZIDOO X10 Smart TV Box",
+        "rating": "10",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,560",
+        "操作系統:": "Android 6.0 + OpenWRT(NAS) dual system run simultaneously",
+        "硬碟支援:": "16GB eMMC",
+        "尺寸:": "197 x 197 x 65mm"
+    },
+    {
+        "names": "LEADSTAR 768S",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "AV-in、USB、SD Card",
+        "網路連接:": "沒有"
+    },
+    {
+        "names": "Magic TV MTV3800D",
+        "rating": "9.3",
+        "hon_price_min": "2,540",
+        "hon_price_max": "2,540",
+        "介面:": "USB"
+    },
+    {
+        "names": "Koogold 1080P Dual Band Wireless Display Dongle Miracast Airplay",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "操作系統:": "ANDROID",
+        "網路連接:": "WIFI",
+        "尺寸:": "17.2 x 52 x 13mm"
+    },
+    {
+        "names": "安博 S800 Plus 16GB 海外版",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "Gadmei TV-2830",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "Cambridge Audio CXC",
+        "rating": "10",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500"
+    },
+    {
+        "names": "HiMedia Q3",
+        "rating": "8.0",
+        "操作系統:": "Android",
+        "網路連接:": "LAN/WIFI"
+    },
+    {
+        "names": "FAMIBOX F1 Media Player",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "操作系統:": "Android 7",
+        "網路連接:": "wifi+Lan",
+        "尺寸:": "96x96x19"
+    },
+    {
+        "names": "Magic-Pro iGOGO TV MP168",
+        "rating": "10",
+        "介面:": "HDMI / USB / LAN"
+    },
+    {
+        "names": "小七科技 小七盒子 二代黑鑽版",
+        "rating": "10",
+        "hon_price_min": "58",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "HiMedia HD900A",
+        "rating": "10",
+        "介面:": "HDMI / 色差 / 光纖 / 同軸",
+        "硬碟支援:": "外置"
+    },
+    {
+        "names": "DT Research Signage Appliance Android Media Player SA101A-26B",
+        "rating": "",
+        "hon_price_min": "2,410",
+        "hon_price_max": "2,410",
+        "操作系統:": "Android 4.4",
+        "硬碟支援:": "Not Suppot",
+        "尺寸:": "35 x 140 x 130mm"
+    },
+    {
+        "names": "Apple TV Remote MG2Q2ZA/A",
+        "rating": "10",
+        "hon_price_min": "330",
+        "hon_price_max": "398",
+        "water_price_min": "320",
+        "water_price_max": "320"
+    },
+    {
+        "names": "RealPlay RP44",
+        "rating": "",
+        "操作系統:": "ROS系統及 Android 4.0 雙系統",
+        "網路連接:": "LAN , WIFI"
+    },
+    {
+        "names": "MediaCube X96 Mini",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "280",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "操作系統:": "Android 7.1",
+        "網路連接:": "10/100 Mbps , 2.4G WI-FI",
+        "尺寸:": "17 x 82 x 82mm"
+    },
+    {
+        "names": "Koogold 4K Dual Band Wireless Display Dongle Miracast Airplay G4K",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "操作系統:": "ANDROID",
+        "網路連接:": "WIFI",
+        "尺寸:": "17.2 x 52 x 13mm"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子3c",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "介面:": "HDMI, USB, 3.5mm輸出"
+    },
+    {
+        "names": "Vontar 8K UHD Android 11 Smart TV Box 智能電視盒 X88Pro",
+        "rating": "",
+        "water_price_min": "615",
+        "water_price_max": "615",
+        "操作系統:": "Android 11",
+        "網路連接:": "Wifi, Gigabit LAN",
+        "硬碟支援:": "USB 3.0"
+    },
+    {
+        "names": "Beelink GS1",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "操作系統:": "Android 7.1",
+        "硬碟支援:": "USB 3.0",
+        "尺寸:": "96 x 96 x 17mm"
+    },
+    {
+        "names": "EVPAD 2S+",
+        "rating": "10",
+        "hon_price_min": "468",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "HiMedia H8 Pro",
+        "rating": "4.0",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "操作系統:": "Android 5.1",
+        "網路連接:": "10/100M LAN,Wifi",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "HKE360 360 Cool CoolBox",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "操作系統:": "Android 6.0",
+        "網路連接:": "Lan & WiFi"
+    },
+    {
+        "names": "小七科技 小七盒子3代八核心 4K 白銀版",
+        "rating": "7.0",
+        "hon_price_min": "408",
+        "hon_price_max": "408",
+        "介面:": "USB x 2"
+    },
+    {
+        "names": "NEXBOX A95X QUAD CORE ANDROID BOX 8GB",
+        "rating": "10",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "操作系統:": "ANDROID 6.0",
+        "硬碟支援:": "USB",
+        "尺寸:": "93 x 93 x 11mm"
+    },
+    {
+        "names": "HiMedia HD600A WiFi版",
+        "rating": "4.0",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "介面:": "HDMI",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "HiMedia HD910B Wifi",
+        "rating": "",
+        "hon_price_min": "1,049",
+        "hon_price_max": "1,049",
+        "介面:": "HDMI / 色差 / 光纖 / 同軸",
+        "硬碟支援:": "外置"
+    },
+    {
+        "names": "Zoho H1 Android 高清TV Tuner",
+        "rating": "7.0",
+        "操作系統:": "Android 4.2.2",
+        "網路連接:": "Wifi 802.11 b/g/n"
+    },
+    {
+        "names": "Apple Remote Loop MLFQ2ZA/A",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "Magic TV Magic 2",
+        "rating": "10",
+        "hon_price_min": "750",
+        "hon_price_max": "750"
+    },
+    {
+        "names": "HiMedia 300B",
+        "rating": "8.0",
+        "介面:": "HDMI、AV out、色差輸出",
+        "網路連接:": "Ethernet"
+    },
+    {
+        "names": "HiMedia HD610B",
+        "rating": "8.0",
+        "介面:": "HDMI / 色差 / 光纖 / 同軸",
+        "硬碟支援:": "內置3.5吋硬盤"
+    },
+    {
+        "names": "Roku Ultra HDR 4K UHD Streaming Media Player",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "899",
+        "water_price_min": "798",
+        "water_price_max": "980",
+        "介面:": "USB, HDMI, Ethernet",
+        "尺寸:": "127 x 124.4 x 25.4mm"
+    },
+    {
+        "names": "EVPAD T2",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "609",
+        "介面:": "USB X 2 / Micro Sd X 1 / RJ45 Lan /Wifi"
+    },
+    {
+        "names": "安博 安博盒子 UPRO2 TW",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "Xtreamer SideWinder 3",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "操作系統:": "Linux / Android 2.2",
+        "網路連接:": "Gigabit Lan",
+        "硬碟支援:": "內置2.5吋SATA"
+    },
+    {
+        "names": "HiMedia 600C",
+        "rating": "6.0",
+        "介面:": "HDMI / 色差 / 光纖",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "Roku Streaming Stick (3600R)",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "489",
+        "網路連接:": "802.11 (a/b/g/n compatible) with WEP, WPA, and WPA2 support",
+        "尺寸:": "0.8 x 1.6 x 5.5 inches"
+    },
+    {
+        "names": "千尋影視 千尋盒子 (影視版)",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "380"
+    },
+    {
+        "names": "MediaCube K510",
+        "rating": "8.0",
+        "操作系統:": "Android 4.1.1",
+        "硬碟支援:": "USB HDD up to 2TB",
+        "尺寸:": "96mm x 42mm x 20mm"
+    },
+    {
+        "names": "HiMedia HD900B",
+        "rating": "9.0",
+        "操作系統:": "Android 2.2",
+        "網路連接:": "Wi-Fi / Ethernet",
+        "硬碟支援:": "內置體碟"
+    },
+    {
+        "names": "Egreat A5",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "操作系統:": "Android",
+        "硬碟支援:": "2TB",
+        "尺寸:": "189 x 150 x 33mm"
+    },
+    {
+        "names": "NEXBOX T95Z PLUS",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "操作系統:": "Android 6.0",
+        "硬碟支援:": "USB",
+        "尺寸:": "12cm x 12cm x 2.5cm"
+    },
+    {
+        "names": "10moons 電視大師5 (TM5)",
+        "rating": "",
+        "操作系統:": "Android 4.1.2",
+        "網路連接:": "WiFi / LAN Port",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "HiMedia Q16 雙核",
+        "rating": "2.0",
+        "hon_price_min": "670",
+        "hon_price_max": "670",
+        "操作系統:": "Android 4.2.2",
+        "硬碟支援:": "YES",
+        "尺寸:": "170X 155X 24.5MM"
+    },
+    {
+        "names": "HiMedia TT盒子",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "介面:": "多國語言,簡體中文,繁體中文,英語"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子3 增強版",
+        "rating": "9.0",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "介面:": "MIUI, HDMI, USB 2.0 x 2"
+    },
+    {
+        "names": "Magic 4K Tvbox /魔術盒子",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750"
+    },
+    {
+        "names": "HiMedia H8 四核",
+        "rating": "8.0",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "操作系統:": "Android 4.22",
+        "網路連接:": "WIFI / LAN",
+        "尺寸:": "170X155X24.5"
+    },
+    {
+        "names": "MediaCube MediaCube K7",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "介面:": "SD CARD READER , USB , HDMI , AV , YPbPr",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "安博 安博盒子 第4代  UBOX Gen.4 C800",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "980",
+        "介面:": "Android 4.4"
+    },
+    {
+        "names": "Miso Miso-M1",
+        "rating": "7.5",
+        "hon_price_min": "689",
+        "hon_price_max": "689",
+        "介面:": "1080P /Android 4.2.2"
+    },
+    {
+        "names": "SmarterWare Android 電視盒子 R96",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "小七科技 小七盒子3代 鑽石版",
+        "rating": "2.0",
+        "hon_price_min": "58",
+        "hon_price_max": "280"
+    },
+    {
+        "names": "BestV (STD) Media Player 標準版",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "操作系統:": "Android 7",
+        "網路連接:": "雙頻wifi+Lan",
+        "硬碟支援:": "2GB+16GB"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子3",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "介面:": "AV / HDMI"
+    },
+    {
+        "names": "AOV HW1800HD",
+        "rating": "10",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "介面:": "HDMI",
+        "尺寸:": "127.5 x 127.5 x 25mm"
+    },
+    {
+        "names": "HiMedia Q2",
+        "rating": "9.3",
+        "操作系統:": "Android",
+        "網路連接:": "LAN/WIFI"
+    },
+    {
+        "names": "MyTV Super 電視盒子 【至尊版】",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,610"
+    },
+    {
+        "names": "ATV A1 PRO HDTV BOX 高清正版電視盒子",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "699",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Ematic Quad Core 4K (UltraHD) Android TV Box AGT419",
+        "rating": "",
+        "操作系統:": "Android",
+        "網路連接:": "Wifi, LAN port",
+        "尺寸:": "100 x 100 x 23.5mm"
+    },
+    {
+        "names": "魔術盒子 Magic Plus (X-PLUS)",
+        "rating": "",
+        "hon_price_min": "829",
+        "hon_price_max": "970"
+    },
+    {
+        "names": "Lingcod TV YS5",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "497",
+        "操作系統:": "Android 6.0",
+        "硬碟支援:": "芯片Amlogic S905X  RAM1G ROM8G"
+    },
+    {
+        "names": "Tanix TX3 MAX Android TV Box",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "操作系統:": "Android 7.1",
+        "網路連接:": "wifi,LAN"
+    },
+    {
+        "names": "HiMedia HD560B-TH+",
+        "rating": "5.7",
+        "介面:": "HDMI / 色差 / USB 3.0",
+        "網路連接:": "Ethernet"
+    },
+    {
+        "names": "EVPAD 2S",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "540",
+        "介面:": "HDMI, CVBS"
+    },
+    {
+        "names": "SmarterWare Android 9.0 4K TV Stick (S905Y2 4GB RAM) X96S",
+        "rating": "",
+        "操作系統:": "Android 9.0",
+        "網路連接:": "Wifi"
+    },
+    {
+        "names": "HiMedia Q6II",
+        "rating": "8.0",
+        "操作系統:": "Android",
+        "網路連接:": "Lan / Wi-Fi"
+    },
+    {
+        "names": "Bose SoundTouch 30 III",
+        "rating": "8.0",
+        "water_price_min": "3,850",
+        "water_price_max": "3,850"
+    },
+    {
+        "names": "Apple TV (第 3 代)",
+        "rating": "10",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "介面:": "HDMI / Micro-USB / Optical Audio"
+    },
+    {
+        "names": "HiMedia Q5 四代 (香港版) 4KHDR/2GB/8GB",
+        "rating": "8.0",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "操作系統:": "通過GOOGLE CTS認證的 Android 5.1系統",
+        "網路連接:": "10/100/1000MB/2.4GHz 802.11a/b/g/n WiFi",
+        "尺寸:": "170x155x24.5mm"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子",
+        "rating": "7.4",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "安博 安博盒子第3代 8GB 標配版黑色",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "498",
+        "介面:": "USB X 2 / Micro Sd X 1 / RJ45 Lan /Wifi"
+    },
+    {
+        "names": "Roku Premiere",
+        "rating": "",
+        "water_price_min": "710",
+        "water_price_max": "710"
+    },
+    {
+        "names": "Nvidia SHIELD Pro Android TV Box",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "water_price_min": "2,399",
+        "water_price_max": "2,399",
+        "操作系統:": "Android 5.1",
+        "硬碟支援:": "USB 3.0 /Micro SD",
+        "尺寸:": "13cm x 2.5cm x 21cm"
+    },
+    {
+        "names": "千尋影視 千尋盒子3 Q-Boxiii",
+        "rating": "8.0",
+        "hon_price_min": "499",
+        "hon_price_max": "970",
+        "介面:": "AV/HDMI"
+    },
+    {
+        "names": "HiMedia Q3 四核",
+        "rating": "9.4",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "操作系統:": "Android",
+        "網路連接:": "LAN/WIFI"
+    },
+    {
+        "names": "Arena Scientific MP-G7",
+        "rating": "10",
+        "介面:": "HDMI / USB / LAN / Audio"
+    },
+    {
+        "names": "AVIO HDMI無線影音傳送器 1080P AV-512",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "2,999",
+        "water_price_min": "2,780",
+        "water_price_max": "2,780"
+    },
+    {
+        "names": "Xiaomi 小米 新小米盒子",
+        "rating": "7.9",
+        "hon_price_min": "460",
+        "hon_price_max": "560",
+        "water_price_min": "450",
+        "water_price_max": "698",
+        "介面:": "AV / HDMI"
+    },
+    {
+        "names": "Xtreamer SideWinder 3 ( Special Edition )",
+        "rating": "",
+        "操作系統:": "Linux / Android 2.2",
+        "硬碟支援:": "內置2.5吋SATA ( max. 1TB )",
+        "尺寸:": "171mm(W) x 110.5mm(H) x 36mm(D)"
+    },
+    {
+        "names": "MINIX NEO G4 Android TV 手指",
+        "rating": "",
+        "hon_price_min": "529",
+        "hon_price_max": "529",
+        "操作系統:": "Android 4.1.1",
+        "硬碟支援:": "USB HDD",
+        "尺寸:": "94 x 38 x 14 mm"
+    },
+    {
+        "names": "Android UG007 USB Mini PC",
+        "rating": "",
+        "操作系統:": "Android 4.1.1",
+        "尺寸:": "10.1 x 3.8 x 1.3cm"
+    },
+    {
+        "names": "Nvidia SHIELD Pro 4K HDR Android TV (2017)",
+        "rating": "",
+        "操作系統:": "Android"
+    },
+    {
+        "names": "DigiMANSION DM-V6",
+        "rating": "10",
+        "操作系統:": "Android 4.4.2",
+        "網路連接:": "1000GB"
+    },
+    {
+        "names": "HiMedia Q5",
+        "rating": "8.9",
+        "操作系統:": "Android",
+        "網路連接:": "LAN/WIFI"
+    },
+    {
+        "names": "10moons DMP560 WIFI",
+        "rating": "",
+        "操作系統:": "Android 2.2",
+        "網路連接:": "WiFi / LAN Port",
+        "硬碟支援:": "USB & SATA"
+    },
+    {
+        "names": "MyGica Enjoy TV V585",
+        "rating": "",
+        "操作系統:": "Android 4.4",
+        "硬碟支援:": "USB / MicroSD",
+        "尺寸:": "10cm x 10cm x 1.5cm"
+    },
+    {
+        "names": "Lingcod JS5",
+        "rating": "8.7",
+        "hon_price_min": "498",
+        "hon_price_max": "1,688",
+        "操作系統:": "Android 5.1",
+        "硬碟支援:": "1G運行內存 8G閃存",
+        "尺寸:": "160 x 160 x 28mm"
+    },
+    {
+        "names": "Western Digital WD TV Media Player Palmulti-City WDBPUF0000NBK",
+        "rating": "",
+        "尺寸:": "Height: 30 mm Depth: 100 mm Width: 125 mm"
+    },
+    {
+        "names": "千尋影視 千尋盒子 (增強版)",
+        "rating": "8.8",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Huawei 華為悅盒 EC6108V9-8G",
+        "rating": "",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "操作系統:": "Android 4.4.2",
+        "硬碟支援:": "Not Support",
+        "尺寸:": "17 x 100 x 100mm"
+    },
+    {
+        "names": "SmallHD FOCUS",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680"
+    },
+    {
+        "names": "HiMedia Q10 四代 (2016香港版)",
+        "rating": "2.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "操作系統:": "通過 Google CTS 認證的 Android 5.1 OS",
+        "硬碟支援:": "最高支援6TB",
+        "尺寸:": "226×180×50mm"
+    },
+    {
+        "names": "Thomson TMS-889",
+        "rating": "",
+        "介面:": "支援USB2.0介面.支援外罝硬碟進行錄影",
+        "尺寸:": "148 x 100 x 35mm"
+    },
+    {
+        "names": "Google Chromecast Audio",
+        "rating": "",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "操作系統:": "Apple iOS | Android | Windows | Mac | Chrome",
+        "尺寸:": "51.9 x 51.9 x 13.49 mm"
+    },
+    {
+        "names": "HiMedia HD500B-TH",
+        "rating": "6.8",
+        "介面:": "HDMI1.3 / VPBPR  / CVBS",
+        "尺寸:": "23x180x72mm"
+    },
+    {
+        "names": "小七科技 小七盒子2代暢玩版 16GB",
+        "rating": "10",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "介面:": "USB x 2"
+    },
+    {
+        "names": "MyGica Enjoy TV V1800E",
+        "rating": "10",
+        "操作系統:": "Android 4.4",
+        "網路連接:": "LAN / WiFi 802.11n",
+        "硬碟支援:": "USB / SD"
+    },
+    {
+        "names": "TechGear MB936",
+        "rating": "8.0",
+        "hon_price_min": "1,298",
+        "hon_price_max": "1,298",
+        "操作系統:": "Android 4.2",
+        "硬碟支援:": "USB / SATA",
+        "尺寸:": "14.9cm(w) X 3.5cm(h) X 10.3(d)"
+    },
+    {
+        "names": "Measy A2C 5G",
+        "rating": "",
+        "介面:": "HDMI",
+        "尺寸:": "28.3 x 81.34 x 10.3mm"
+    },
+    {
+        "names": "Apple AppleCare Protection Plan for Apple TV MC264FE/A",
+        "rating": ""
+    },
+    {
+        "names": "SUPER S108",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "介面:": "AV-in/out、USB、Micro SD、咪、RF 天線",
+        "硬碟支援:": "支援",
+        "尺寸:": "310(W) x 175(H) x 60(D)mm"
+    },
+    {
+        "names": "TELKEN TKAD40",
+        "rating": "",
+        "操作系統:": "Android  4.0",
+        "尺寸:": "85*40*15mm"
+    },
+    {
+        "names": "Akai 雅佳 S800",
+        "rating": "",
+        "操作系統:": "Android 4.4",
+        "硬碟支援:": "compatible to 64GB external memory card,",
+        "尺寸:": "950(W)*214(H)*655(D)(mm)"
+    },
+    {
+        "names": "MTVBox External TV Box (AV to VGA) 1920i",
+        "rating": ""
+    },
+    {
+        "names": "Measy B4T",
+        "rating": "",
+        "操作系統:": "Android 5.1",
+        "網路連接:": "RJ45, 1000M",
+        "硬碟支援:": "8GB flash"
+    },
+    {
+        "names": "MyGica MYV510",
+        "rating": "",
+        "操作系統:": "Android 4.0",
+        "網路連接:": "LAN"
+    },
+    {
+        "names": "SmarterWare H96 Pro plus Android 7.1 TV BOX",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "操作系統:": "Android 7.1",
+        "網路連接:": "AC wifi ,Gigabit LAN",
+        "硬碟支援:": "32gb"
+    },
+    {
+        "names": "Bluetimes BT201",
+        "rating": "10",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "操作系統:": "Linux 及 Android",
+        "網路連接:": "Ethernet / Wi-Fi",
+        "硬碟支援:": "抽取式硬碟"
+    },
+    {
+        "names": "10moons T3",
+        "rating": "",
+        "hon_price_min": "673",
+        "hon_price_max": "673",
+        "操作系統:": "Linux",
+        "網路連接:": "WiFi / LAN Port",
+        "硬碟支援:": "USB & SATA"
+    },
+    {
+        "names": "Skyworth Android Dongle",
+        "rating": "",
+        "操作系統:": "Android OS 4.0.3",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "10moons D8",
+        "rating": "",
+        "操作系統:": "Android 4.2.2",
+        "網路連接:": "WIFI /LAN Port"
+    },
+    {
+        "names": "MXQ Ott TV Box S805",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "299",
+        "介面:": "Android 4.4"
+    },
+    {
+        "names": "Olevia OleBox",
+        "rating": "5.0",
+        "操作系統:": "Android 2.3",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "Huawei M210",
+        "rating": "",
+        "操作系統:": "Android",
+        "介面:": "Huawei UI"
+    },
+    {
+        "names": "Slingbox 500",
+        "rating": "",
+        "hon_price_min": "3,260",
+        "hon_price_max": "3,260",
+        "操作系統:": "OS X, Windows",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Eaget H9",
+        "rating": "",
+        "操作系統:": "Android",
+        "硬碟支援:": "不支援",
+        "尺寸:": "210.8*115.6*29.2mm"
+    },
+    {
+        "names": "MediaCube K520",
+        "rating": "10",
+        "操作系統:": "Android 4.1.1",
+        "網路連接:": "WIFI",
+        "硬碟支援:": "USB HDD up to 2TB"
+    },
+    {
+        "names": "Xtreamer Wonder Plus",
+        "rating": "",
+        "操作系統:": "Android KitKat 4.4 (soon upgrade to Android Lollipop)",
+        "尺寸:": "13.8 x 16.6 x 2.8cm"
+    },
+    {
+        "names": "DUNE HD BASE 3D",
+        "rating": "10",
+        "操作系統:": "Linux",
+        "硬碟支援:": "3.5\"",
+        "尺寸:": "429 mm (width) x 299 mm (depth) x 56 mm (height)"
+    },
+    {
+        "names": "WODRAGON BDP-1100",
+        "rating": ""
+    },
+    {
+        "names": "Sony FMP-X10",
+        "rating": "",
+        "介面:": "HDMI 2.0/HDCP 2.2",
+        "硬碟支援:": "1TB",
+        "尺寸:": "250mmX50mmX250mm"
+    },
+    {
+        "names": "Archos TV Connect",
+        "rating": "",
+        "操作系統:": "ANDROID 4.1 Jelly Bean",
+        "硬碟支援:": "內置8GB, 支援microSDHC, USB HDD",
+        "尺寸:": "235 x 105 x 34 mm"
+    },
+    {
+        "names": "Magic TV MTV1000",
+        "rating": "8.0"
+    },
+    {
+        "names": "Western Digital WDTV Live Hub HD Network 1TB",
+        "rating": "",
+        "介面:": "USB 2.0 / Ethernet / HDMI / 複合視頻"
+    },
+    {
+        "names": "MediaCube K500",
+        "rating": "8.0",
+        "操作系統:": "Android 4.0",
+        "網路連接:": "Wi-Fi",
+        "硬碟支援:": "USB 2.0 uo to 2TB"
+    },
+    {
+        "names": "HKE360 360C Pro",
+        "rating": "",
+        "hon_price_min": "1,160",
+        "hon_price_max": "1,160",
+        "操作系統:": "Android 6.0"
+    },
+    {
+        "names": "10moons T5",
+        "rating": "",
+        "操作系統:": "Linux & Android",
+        "網路連接:": "WiFi / LAN Port",
+        "硬碟支援:": "USB & SATA"
+    },
+    {
+        "names": "E-Box Android TV Finger PC D05",
+        "rating": "",
+        "操作系統:": "Android 4.0.3",
+        "網路連接:": "802.11n WiFi",
+        "硬碟支援:": "USB / 32GB MicroSD"
+    },
+    {
+        "names": "Measy MK802III TVbox",
+        "rating": "10",
+        "操作系統:": "Android 4.1",
+        "介面:": "USB / HDMI"
+    },
+    {
+        "names": "AJA PAK1000",
+        "rating": "",
+        "hon_price_min": "15,400",
+        "hon_price_max": "15,400"
+    },
+    {
+        "names": "HiMedia HD600A",
+        "rating": "8.1",
+        "介面:": "HDMI",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "Egreat A10",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "操作系統:": "Android",
+        "硬碟支援:": "4TB",
+        "尺寸:": "31 x 6.6 x 25.5cm"
+    },
+    {
+        "names": "MINIX NEO X5mini",
+        "rating": "",
+        "操作系統:": "Android 4.2",
+        "網路連接:": "LAN",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 HMP4000",
+        "rating": "",
+        "介面:": "SD Card, USB flash drive",
+        "尺寸:": "91 x 54 x 160mm"
+    },
+    {
+        "names": "MGTVBOX F24",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "介面:": "HDMI,光纖，USBX2"
+    },
+    {
+        "names": "10moons DMP560",
+        "rating": "",
+        "操作系統:": "Android 2.2",
+        "網路連接:": "LAN Port",
+        "硬碟支援:": "USB & SATA"
+    },
+    {
+        "names": "MyGica V6",
+        "rating": "",
+        "介面:": "HDMI",
+        "網路連接:": "Wi-Fi"
+    },
+    {
+        "names": "Amazon Fire TV Gaming Edition",
+        "rating": ""
+    },
+    {
+        "names": "DUNE HD Max",
+        "rating": "",
+        "操作系統:": "Linux OS",
+        "硬碟支援:": "3TB Hardisk",
+        "尺寸:": "429 x 299 x 56mm"
+    },
+    {
+        "names": "Bluetimes BT203",
+        "rating": "9.5",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "操作系統:": "Linux 及 Android",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "WADIA M330",
+        "rating": ""
+    },
+    {
+        "names": "Magic-Pro igogo tv PM-188 (8GB)",
+        "rating": "10",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "介面:": "Wi-Fi / Ethernet / HDMI"
+    },
+    {
+        "names": "AKI TV93",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "操作系統:": "Android 4.4.2",
+        "網路連接:": "有線 / WiFi"
+    },
+    {
+        "names": "Meizu 魅族 天貓魔盒 M11_MEIZU/魅族專版",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "操作系統:": "YunOS for TV",
+        "硬碟支援:": "標準USB 2.0接口",
+        "尺寸:": "100 X 100 X 25mm"
+    },
+    {
+        "names": "RealPlay RP43",
+        "rating": "",
+        "操作系統:": "ROS系統及 Android 4.0 雙系統",
+        "網路連接:": "LAN"
+    },
+    {
+        "names": "MINIX NEO X5 Mini Android TV Box w/Remote",
+        "rating": "",
+        "操作系統:": "Android",
+        "網路連接:": "LAN"
+    },
+    {
+        "names": "自由影視 Free.TV TV BOX (F-01)",
+        "rating": "2.0"
+    },
+    {
+        "names": "LeEco樂視 樂視盒子2 增強版 (停產)",
+        "rating": "",
+        "介面:": "HDMI 1.4a/USB 2.0 x 2/ 乙太網路接口 (RJ45) /SD卡槽"
+    },
+    {
+        "names": "Amazon Fire TV",
+        "rating": "10",
+        "water_price_min": "999",
+        "water_price_max": "1,280",
+        "尺寸:": "115 mm x 115 mm x 17.5 mm"
+    },
+    {
+        "names": "MINIX NEO T5 4K Ultra HD Android Media Hub",
+        "rating": "8.0",
+        "hon_price_min": "709",
+        "hon_price_max": "709",
+        "操作系統:": "Android TV 9.0 Pie",
+        "網路連接:": "RJ-45 Gigabit Ethernet, 802.11ac Dual-Band Wi-Fi (2.4GHz/5.0GHz",
+        "硬碟支援:": "16GB eMMC"
+    },
+    {
+        "names": "Philips 飛利浦 AJ6000/12",
+        "rating": "",
+        "尺寸:": "195 x 99.3 x 97 毫米"
+    },
+    {
+        "names": "10moons DMP460T",
+        "rating": "",
+        "操作系統:": "Linux",
+        "網路連接:": "WiFi / LAN Port",
+        "硬碟支援:": "USB & SATA"
+    },
+    {
+        "names": "HiMedia H10 四代",
+        "rating": ""
+    },
+    {
+        "names": "MyGica V1000",
+        "rating": "8.0",
+        "操作系統:": "Android",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "HiMedia HD900A Wifi",
+        "rating": "",
+        "介面:": "HDMI / 色差 / 光纖 / 同軸",
+        "硬碟支援:": "外置"
+    },
+    {
+        "names": "Cambridge Audio TOPAZ SR20",
+        "rating": ""
+    },
+    {
+        "names": "HiMedia Q10 四核",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "操作系統:": "Android 4.2",
+        "硬碟支援:": "SATA HDD,最大支援4TB",
+        "尺寸:": "226X180X50MM"
+    },
+    {
+        "names": "MyGica Enjoy TV V510 (OS4.0)",
+        "rating": "6.6",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Measy A2W Miracast TV Dongle",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "操作系統:": "Android",
+        "網路連接:": "WIFI"
+    },
+    {
+        "names": "MELE M9 Quad Core Android TV Box",
+        "rating": "",
+        "操作系統:": "Android",
+        "網路連接:": "Wi-Fi"
+    },
+    {
+        "names": "MoonBox M3S",
+        "rating": "",
+        "操作系統:": "Android 4.4.2",
+        "網路連接:": "LAN/WIFI"
+    },
+    {
+        "names": "Magic TV MTV3200S",
+        "rating": "9.5",
+        "介面:": "HDMI / S-Video / 色差 / 數碼 / USB x 2 / LAN"
+    },
+    {
+        "names": "VIBE 威霸盒子",
+        "rating": "",
+        "介面:": "HDMI / AV Out, USB 2.0, TF Card Slot, Optical Sound Out"
+    },
+    {
+        "names": "Android UG007 II",
+        "rating": "",
+        "操作系統:": "Android 4.1.1",
+        "尺寸:": "10.1 x 3.8 x 1.3cm"
+    },
+    {
+        "names": "Magic TV MTV5000",
+        "rating": "9.8",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,280",
+        "介面:": "HDMI / 色差 / S-Video / AV / 同軸 / 光纖"
+    },
+    {
+        "names": "HiMedia Q3II",
+        "rating": "10",
+        "操作系統:": "Android",
+        "網路連接:": "Lan / Wi-Fi"
+    },
+    {
+        "names": "吉盒GUTS V1.2",
+        "rating": "",
+        "操作系統:": "Android 4.4"
+    },
+    {
+        "names": "VDiGi IMP-001",
+        "rating": "8.0",
+        "操作系統:": "Android 2.3",
+        "網路連接:": "Ethernet / Wi-Fi",
+        "尺寸:": "130 x 130 x 30mm"
+    },
+    {
+        "names": "Huawei MediaQ M310",
+        "rating": "8.0",
+        "操作系統:": "Android",
+        "網路連接:": "WIFI"
+    },
+    {
+        "names": "MediaCube K3 1080",
+        "rating": "8.0",
+        "介面:": "HDMI / AV /YPbPr/USB2.0/Card Reader",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "Cayin C5",
+        "rating": "",
+        "硬碟支援:": "136x63x15mm",
+        "尺寸:": "185g"
+    },
+    {
+        "names": "千尋影視 千尋盒子",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "1080P(1920×1080)"
+    },
+    {
+        "names": "Magic TV MTV3100",
+        "rating": "9.6",
+        "介面:": "USB 2.0 x 2 / LAN / HDMI / 色差 / AV / S-Video"
+    },
+    {
+        "names": "DUNE HD Pro 4K Plus 高畫質多媒體播放機",
+        "rating": "",
+        "操作系統:": "Unique hybrid Linux + Android 7.1 software from Dune HD",
+        "硬碟支援:": "3.5\" SATA HDD rack",
+        "尺寸:": "200 x 55 x 143mm"
+    },
+    {
+        "names": "VSmart TV-D468",
+        "rating": "",
+        "操作系統:": "Android 4.0.3",
+        "網路連接:": "Wifi 802.11 b/g/n",
+        "尺寸:": "90.5 x 34.0 x 15.1 (mm)"
+    },
+    {
+        "names": "Blue TV 網路電視機頂盒",
+        "rating": "",
+        "操作系統:": "Android 5.1",
+        "網路連接:": "LAN / Wi-FI"
+    },
+    {
+        "names": "Speed AB-1",
+        "rating": "",
+        "操作系統:": "Android 4.4.2 (KitKat)",
+        "硬碟支援:": "備有4個USB插口(3個USB , 1個OTG), Micro SDHC卡 (最高32GB)",
+        "尺寸:": "115x115x30mm (171g)"
+    },
+    {
+        "names": "Magic TV MTV8000D",
+        "rating": "7.3",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,350",
+        "介面:": "USB"
+    },
+    {
+        "names": "MINIX NEO X7 Android Media Hub with Remote",
+        "rating": "",
+        "操作系統:": "Android",
+        "網路連接:": "LAN"
+    },
+    {
+        "names": "Bluetimes BT202",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "操作系統:": "Linux 及 Android",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "HiMedia Q5四核",
+        "rating": "4.4",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "操作系統:": "Android 4.4",
+        "硬碟支援:": "Support"
+    },
+    {
+        "names": "DUNE HD Solo 4K",
+        "rating": "8.0"
+    },
+    {
+        "names": "PiPO 品鉑 X5S",
+        "rating": "",
+        "操作系統:": "Android",
+        "網路連接:": "802.11a/b/g/n (2.4Ghz/5Ghz) WiFi"
+    },
+    {
+        "names": "FunTV 4K網路機頂盒",
+        "rating": "2.0",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "介面:": "Android 5.1"
+    },
+    {
+        "names": "Amazon Fire TV (2016版)",
+        "rating": "",
+        "water_price_min": "999",
+        "water_price_max": "999"
+    },
+    {
+        "names": "Giec GK-HD300",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "介面:": "HDMI / 色差",
+        "網路連接:": "Ethernet / Wi-Fi"
+    },
+    {
+        "names": "TEAC TDQ8111",
+        "rating": "9.0",
+        "操作系統:": "Android 4.2.2",
+        "網路連接:": "LAN , WIFI",
+        "尺寸:": "W106 X D106 X H22mm"
+    },
+    {
+        "names": "Magic TV MTV3700D",
+        "rating": "8.8",
+        "介面:": "HDMI / S-Video / 色差 / 數碼 / USB x 2 / LAN"
+    },
+    {
+        "names": "OKE LX-3 (BBP)",
+        "rating": "",
+        "尺寸:": "460 x 410 x 130mm"
+    },
+    {
+        "names": "MELE A100",
+        "rating": "",
+        "操作系統:": "Android",
+        "網路連接:": "Ethernet / Wi-Fi",
+        "尺寸:": "140 x 112 x 43mm"
+    },
+    {
+        "names": "PROBOX2 Z",
+        "rating": "10",
+        "操作系統:": "ANDROID 5.1.1",
+        "尺寸:": "110mm * 110mm * 17.5mm"
+    },
+    {
+        "names": "Magic TV MTV3200D",
+        "rating": "8.5",
+        "介面:": "HDMI / S-Video / 色差 / 數碼 / USB x 2 / LAN"
+    },
+    {
+        "names": "Magic-Pro iGoGoTV MP228",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "操作系統:": "Android",
+        "硬碟支援:": "USB 2.0",
+        "尺寸:": "245 x 47 x 29mm"
+    },
+    {
+        "names": "MyGica Enjoy TV V582-BT",
+        "rating": "10",
+        "操作系統:": "Android 4.4",
+        "硬碟支援:": "USB / MicroSD",
+        "尺寸:": "10cm x 10cm x 1.5cm"
+    },
+    {
+        "names": "MyGica MP725",
+        "rating": "8.0"
+    },
+    {
+        "names": "Magic TV MTV3000",
+        "rating": "9.0",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "介面:": "HDMI / 色差 / S-Video / AV / 同軸 / 光纖"
+    },
+    {
+        "names": "MediaCube QT-900 Android Dongle",
+        "rating": "8.0",
+        "操作系統:": "Android 4.2.2",
+        "網路連接:": "2.4/5GHz WIFI"
+    },
+    {
+        "names": "HiMedia Q5 II",
+        "rating": "5.6",
+        "操作系統:": "Linux OS",
+        "網路連接:": "100/1000Mbps",
+        "硬碟支援:": "USB / E-SATA"
+    },
+    {
+        "names": "Giec R11",
+        "rating": "",
+        "網路連接:": "HDMI LAN AV"
+    },
+    {
+        "names": "TSK SB009 (國際版)四核智能網絡電視盒",
+        "rating": "2.0",
+        "操作系統:": "獨家Air Share Play 技術, 兼容IOS & Android OS(iPhone, Samsung, ASK, HTC 等手機適用)",
+        "硬碟支援:": "支援32GB SD卡 OTG外掛流動存儲手指硬盘(4GB~160GB)",
+        "尺寸:": "180 x 110 x 99mm"
+    },
+    {
+        "names": "Evening Star TV Box ES1000",
+        "rating": "10",
+        "操作系統:": "Android 4.2.2",
+        "硬碟支援:": "USB2.0",
+        "尺寸:": "215 x 138 x 43mm"
+    },
+    {
+        "names": "Skyworth Android Dongle D71",
+        "rating": "",
+        "操作系統:": "Android 4.2",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Philips 飛利浦 HMP3000/98",
+        "rating": "7.5",
+        "介面:": "USB / SD/SDHC / HDMI"
+    },
+    {
+        "names": "MyGica Enjoy TV V1000",
+        "rating": "10",
+        "介面:": "HDMI / WiFi / Lan / 色差 / 體感"
+    },
+    {
+        "names": "Pioneer DVD RDS AV接收機 AVH-X5850BT",
+        "rating": "",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880"
+    },
+    {
+        "names": "HiMedia Q16 四代 4KHDR/2GB/16GB",
+        "rating": "8.0",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150"
+    },
+    {
+        "names": "Kaiboer k350i",
+        "rating": "",
+        "操作系統:": "KIUI",
+        "硬碟支援:": "外置",
+        "尺寸:": "180*140*50mm"
+    },
+    {
+        "names": "Egreat R100",
+        "rating": "8.0",
+        "介面:": "HDMI",
+        "網路連接:": "Wi-Fi / Ethernet"
+    },
+    {
+        "names": "Huawei M330 增強版",
+        "rating": "",
+        "操作系統:": "Android 4.4",
+        "尺寸:": "88.8 x 88.8 x 15.5mm"
+    },
+    {
+        "names": "TVPAD TVpad 3",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "介面:": "HDMI / AV",
+        "硬碟支援:": "USB 2.0"
+    },
+    {
+        "names": "MyGica Enjoy TV V1200",
+        "rating": "9.1",
+        "操作系統:": "Android 4.1.2 (體感操控)",
+        "網路連接:": "11n WiFi + Lan",
+        "硬碟支援:": "USB HDD"
+    },
+    {
+        "names": "Naim Audio UnitiLite",
+        "rating": "10",
+        "尺寸:": "70 x 432 x 301 mm"
+    },
+    {
+        "names": "TVPAD TVpad 4",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "操作系統:": "Android",
+        "網路連接:": "Lan / Wi-Fi",
+        "硬碟支援:": "USB 2.0"
+    },
+    {
+        "names": "Color bar TVA10",
+        "rating": "10",
+        "操作系統:": "Android 4.0",
+        "硬碟支援:": "4GB"
+    },
+    {
+        "names": "TSK SB881 (極速4K版)八核智能電視盒",
+        "rating": "",
+        "操作系統:": "獨家Air Share Play 技術, 兼容IOS & Android OS(iPhone, Samsung, ASK, HTC 等手機適用)",
+        "網路連接:": "特強WiFi 802.11上網功能, 仲可直插Lan RJ45線上網",
+        "硬碟支援:": "8GB內存, 雙USB OTG"
+    },
+    {
+        "names": "FlexiView FV-1",
+        "rating": "",
+        "介面:": "LAN / HDMI / USB"
+    },
+    {
+        "names": "Kaiboer K210i",
+        "rating": "",
+        "介面:": "HDMI / 色差 / 光纖",
+        "硬碟支援:": "外置",
+        "尺寸:": "172x120x32mm"
+    },
+    {
+        "names": "Arena Scientific HD-505 COMBO",
+        "rating": "7.3",
+        "操作系統:": "Android 4.1.1",
+        "網路連接:": "Wifi"
+    },
+    {
+        "names": "LeEco樂視 Box (4K標準版) (停產)",
+        "rating": "",
+        "操作系統:": "Android 4.4",
+        "網路連接:": "RJ45 / Wifi",
+        "尺寸:": "110 x 110 x 21.5mm"
+    },
+    {
+        "names": "HiMedia HD900C",
+        "rating": "10",
+        "操作系統:": "Linux",
+        "網路連接:": "Wi-Fi / Gigabit Lan"
+    },
+    {
+        "names": "MyGica MP833",
+        "rating": "8.0"
+    },
+    {
+        "names": "Magic TV MTV7000D mini",
+        "rating": "7.8",
+        "介面:": "HDMI / S-Video / 色差 / 數碼 / USB x 2 / LAN"
+    },
+    {
+        "names": "MyGica Enjoy TV V100",
+        "rating": "10",
+        "操作系統:": "Android 4.0.4",
+        "網路連接:": "WiFi / Lan",
+        "硬碟支援:": "USB / MicroSD"
+    },
+    {
+        "names": "Okcast HDMI TV/Projector stick",
+        "rating": "8.5",
+        "操作系統:": "Android , ios",
+        "網路連接:": "2.4/5.0 wifi"
+    },
+    {
+        "names": "MediaCube Z4 OCTA CORE ANDROID BOX",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "操作系統:": "ANDROID 5.1",
+        "網路連接:": "10/100/1000Mbps , 2.4G, 5G WI-FI",
+        "硬碟支援:": "USB"
+    },
+    {
+        "names": "Eight AD812 - Fun TV Dongle",
+        "rating": "10",
+        "操作系統:": "Android 4.0",
+        "硬碟支援:": "4GB NANDFlash",
+        "尺寸:": "89×34×16毫米"
+    },
+    {
+        "names": "MINIX NEO X7mini",
+        "rating": "8.0",
+        "hon_price_min": "770",
+        "hon_price_max": "770",
+        "操作系統:": "Android 4.2",
+        "網路連接:": "Lan"
+    },
+    {
+        "names": "Xtreamer Wonder Pro",
+        "rating": "",
+        "操作系統:": "Android Lollipop 5.1 (with OTA upgrades)",
+        "尺寸:": "13.8 x 16.6 x 2.8cm"
+    },
+    {
+        "names": "Western Digital WDTV Live Plus HD Network Media Player",
+        "rating": "",
+        "介面:": "HDMI / LAN / Component / Composite / 2 x USB"
+    },
+    {
+        "names": "Xtreamer eXpress",
+        "rating": "",
+        "硬碟支援:": "Supporting upto 4TB",
+        "尺寸:": "3.5"
+    },
+    {
+        "names": "Honor 榮耀 盒子Pro",
+        "rating": ""
+    },
+    {
+        "names": "HiMedia Q6",
+        "rating": "10",
+        "操作系統:": "Android 4.0.3",
+        "網路連接:": "LAN / WIFI",
+        "硬碟支援:": "是"
+    }
+]

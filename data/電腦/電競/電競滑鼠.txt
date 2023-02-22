@@ -1,0 +1,4322 @@
+[
+    {
+        "names": "Razer DeathAdder V3 Pro 無線電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,195",
+        "DPI/CPI:": "30000",
+        "巨集鍵:": "有",
+        "淨重量:": "63g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G G502 X Plus RGB Lightspeed 無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,399",
+        "DPI/CPI:": "25600",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 或更高版本 / MAC 10.14 或更高版本",
+        "淨重量:": "106g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G G502 Lightspeed 無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "730",
+        "hon_price_max": "1,139",
+        "water_price_min": "600",
+        "water_price_max": "799",
+        "DPI/CPI:": "16,000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 或更新版本, Mac OS X 10.11 或更新版本, Chrome OSTM",
+        "淨重量:": "114g",
+        "法碼:": "有",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G Pro 無線遊戲滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "699",
+        "hon_price_max": "1,187",
+        "water_price_min": "599",
+        "water_price_max": "990",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac",
+        "淨重量:": "80g",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Logitech G G502 X 遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "520",
+        "hon_price_max": "649",
+        "water_price_min": "440",
+        "water_price_max": "500",
+        "DPI/CPI:": "25600",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 或更高版本 / MAC 10.14 或更高版本",
+        "淨重量:": "89",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Viper V2 Pro 超輕量無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,249",
+        "DPI/CPI:": "30000",
+        "RGB:": "沒有",
+        "淨重量:": "58",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G G304 Lightspeed KDA 無線遊戲滑鼠 910-006055",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "DPI/CPI:": "200-12000 DPI",
+        "RGB:": "沒有",
+        "適用系統:": "Windows 7 或更新版本， macOS 10.13 或更新版本， Chrome OS",
+        "淨重量:": "99g"
+    },
+    {
+        "names": "Razer Viper Mini 超輕量級遊戲滑鼠",
+        "rating": "8.8",
+        "hon_price_min": "199",
+        "hon_price_max": "349",
+        "water_price_min": "138",
+        "water_price_max": "349",
+        "DPI/CPI:": "8500",
+        "RGB:": "有",
+        "淨重量:": "61"
+    },
+    {
+        "names": "Logitech G Pro X Superlight 超輕量無線遊戲滑鼠",
+        "rating": "8.3",
+        "hon_price_min": "949",
+        "hon_price_max": "1,299",
+        "water_price_min": "770",
+        "water_price_max": "870",
+        "DPI/CPI:": "25600",
+        "RGB:": "沒有",
+        "淨重量:": "63g",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "ASUS ROG Spatha X Wireless Gaming Mouse 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,280",
+        "DPI/CPI:": "19000 DPI",
+        "RGB:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "168g"
+    },
+    {
+        "names": "Logitech G G502 X Lightspeed 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "1,059",
+        "hon_price_max": "1,399",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "DPI/CPI:": "25600",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 或更高版本 / MAC 10.14 或更高版本",
+        "淨重量:": "99.7g (黑色) / 101.5g (白色)",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "HyperX Pulsefire Haste RGB Wireless 超輕量無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "699",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "6",
+        "RGB:": "有",
+        "淨重量:": "58g"
+    },
+    {
+        "names": "Razer Basilisk V3 Customizable RGB 人體工學遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "425",
+        "hon_price_max": "569",
+        "water_price_min": "559",
+        "water_price_max": "559",
+        "DPI/CPI:": "26000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "101g"
+    },
+    {
+        "names": "Pulsar 無線遊戲滑鼠 X2",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "DPI/CPI:": "26000",
+        "巨集鍵:": "有",
+        "適用系統:": "USB Port Operating System (Windows, Mac, Linux) Internet connection (to download software) Windows 7 or higher (for Pulsar Software)",
+        "淨重量:": "56",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Basilisk V3 Pro 無線遊戲滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,299",
+        "DPI/CPI:": "30000",
+        "RGB:": "有",
+        "淨重量:": "112g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G G604 Lightspeed 無線遊戲滑鼠 910-005651",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "759",
+        "water_price_min": "530",
+        "water_price_max": "620",
+        "DPI/CPI:": "100 – 16,000",
+        "巨集鍵:": "有",
+        "適用系統:": "LIGHTSPEED 模式：Windows 7 或更新版本、macOS 10.12 或更新版本、Chrome OS 、或 Android 3.2 或更新版本, 藍牙模式：Windows 8 或更新版本、macOS 10.12 或更新版本、Chrome OS 、或 Android 5.0 或更新版本",
+        "淨重量:": "135 公克，含1 x AA電池"
+    },
+    {
+        "names": "Logitech G Pro 無線遊戲滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "699",
+        "hon_price_max": "1,187",
+        "water_price_min": "599",
+        "water_price_max": "990",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac",
+        "淨重量:": "80g",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Razer Basilisk V3 Pro 無線遊戲滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,299",
+        "DPI/CPI:": "30000",
+        "RGB:": "有",
+        "淨重量:": "112g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Viper Ultimate 無線遊戲滑鼠搭配充電座",
+        "rating": "8.9",
+        "hon_price_min": "699",
+        "hon_price_max": "1,390",
+        "water_price_min": "653",
+        "water_price_max": "1,190",
+        "DPI/CPI:": "20000",
+        "按鍵數:": "6",
+        "RGB:": "有",
+        "淨重量:": "74g"
+    },
+    {
+        "names": "ASUS ROG Keris Wireless 三模無線滑鼠",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "799",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10"
+    },
+    {
+        "names": "Razer Orochi V2 超輕量無線遊戲滑鼠",
+        "rating": "9.3",
+        "hon_price_min": "445",
+        "hon_price_max": "549",
+        "water_price_min": "549",
+        "water_price_max": "549",
+        "DPI/CPI:": "18000",
+        "無線/有線:": "無線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "ASUS ROG Strix Impact II Wireless RGB 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "699",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "93g"
+    },
+    {
+        "names": "Razer Pro Click 光學無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "660",
+        "hon_price_max": "799",
+        "water_price_min": "599",
+        "water_price_max": "628",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "8",
+        "RGB:": "沒有",
+        "淨重量:": "106g"
+    },
+    {
+        "names": "ROCCAT Roccat Kone XP AIR Wireless 無線滑鼠",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "DPI/CPI:": "19000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 以上版本 (軟體支援需求) / USB 2.0 (或更高版本) / 網路連線 (以安裝驅動程式軟體)",
+        "淨重量:": "99"
+    },
+    {
+        "names": "Logitech G G402 Hyperion Fury 高速追蹤遊戲滑鼠",
+        "rating": "9.8",
+        "hon_price_min": "253",
+        "hon_price_max": "349",
+        "water_price_min": "209",
+        "water_price_max": "289",
+        "DPI/CPI:": "4000",
+        "適用系統:": "Windows 8.1 / 8 / 7 / Vista",
+        "淨重量:": "108g"
+    },
+    {
+        "names": "ASUS ROG Chakram X Origin RGB 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "DPI/CPI:": "36000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 或更高版本",
+        "淨重量:": "123g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Corsair Sabre RGB Pro Wireless Champion Series 超輕盈 FPS / MOBA 電競滑鼠 CH-9313211",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "799",
+        "DPI/CPI:": "26000",
+        "按鍵數:": "7",
+        "RGB:": "有",
+        "淨重量:": "79g"
+    },
+    {
+        "names": "Cooler Master Gaming Mouse 有線電競滑鼠 MM310",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "295",
+        "DPI/CPI:": "400, 800, 1200 (Default), 1600, 3200, 6200, 12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 8+、macOS",
+        "淨重量:": "50g"
+    },
+    {
+        "names": "Logitech G G903 Lightspeed 無線遊戲滑鼠 (感應器: Hero 16K) 910-005674",
+        "rating": "10",
+        "hon_price_min": "790",
+        "hon_price_max": "1,199",
+        "water_price_min": "599",
+        "water_price_max": "890",
+        "DPI/CPI:": "100-16000",
+        "適用系統:": "Windows 7 或更新版本, macOS 10.11 或更新版本, Chrome OS",
+        "淨重量:": "110g",
+        "法碼:": "有",
+        "模組化:": "半模組",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Glorious Model O Pro Wireless 超輕量無線滑鼠",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "DPI/CPI:": "19000",
+        "按鍵數:": "6",
+        "巨集鍵:": "有",
+        "淨重量:": "55"
+    },
+    {
+        "names": "Logitech G G502 Hero 高效能遊戲滑鼠",
+        "rating": "8.3",
+        "hon_price_min": "360",
+        "hon_price_max": "699",
+        "water_price_min": "260",
+        "water_price_max": "604",
+        "DPI/CPI:": "16000",
+        "適用系統:": "Windows 7 或更新版本,macOS 10.11 或更新版本",
+        "淨重量:": "121g",
+        "法碼:": "有",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Viper Mini 超輕量級遊戲滑鼠",
+        "rating": "8.8",
+        "hon_price_min": "199",
+        "hon_price_max": "349",
+        "water_price_min": "138",
+        "water_price_max": "349",
+        "DPI/CPI:": "8500",
+        "RGB:": "有",
+        "淨重量:": "61"
+    },
+    {
+        "names": "Glorious Model O- Wireless 超輕量無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "769",
+        "DPI/CPI:": "19000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux.",
+        "淨重量:": "65g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "Glorious Forge Series One Pro Wireless Mouse 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "DPI/CPI:": "100-19000",
+        "按鍵數:": "6",
+        "巨集鍵:": "有",
+        "淨重量:": "50g"
+    },
+    {
+        "names": "Logitech G G304 Lightspeed 無線遊戲滑鼠",
+        "rating": "7.8",
+        "hon_price_min": "258",
+        "hon_price_max": "499",
+        "water_price_min": "225",
+        "water_price_max": "349",
+        "DPI/CPI:": "12000",
+        "適用系統:": "Windows 7 或更新版本,macOS 10.11 或更新版本",
+        "淨重量:": "99G",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Logitech G G502 Proteus Core 可調校遊戲滑鼠",
+        "rating": "9.4",
+        "hon_price_min": "369",
+        "hon_price_max": "459",
+        "DPI/CPI:": "12000",
+        "適用系統:": "Windows 8.1 / 8 / 7 / Vista",
+        "淨重量:": "168g"
+    },
+    {
+        "names": "Glorious Model O 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "499",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux. USB port required",
+        "淨重量:": "Matte: 67g, Glossy: 68g"
+    },
+    {
+        "names": "Pulsar 無線遊戲滑鼠 X2 Mini",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "DPI/CPI:": "26000",
+        "巨集鍵:": "有",
+        "適用系統:": "USB Port, Operating System (Windows, Mac, Linux) Internet connection (to download software) Windows 7 or higher (for Pulsar Software)",
+        "淨重量:": "52g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer DeathAdder Essential 簡約遊戲滑鼠 (雷蛇蝰蛇標準版)",
+        "rating": "10",
+        "hon_price_min": "150",
+        "hon_price_max": "399",
+        "water_price_min": "106",
+        "water_price_max": "249",
+        "DPI/CPI:": "6400",
+        "按鍵數:": "5",
+        "淨重量:": "96g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Lamzu Atlantis 無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "感應器類型:": "Pixart 光學感應器 3395",
+        "巨集鍵:": "有",
+        "淨重量:": "55g"
+    },
+    {
+        "names": "NZXT Lift Lightweight Ambidextrous Mouse 輕量化電競滑鼠",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "460",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "適用系統:": "PC / Windows 10, Windows 11",
+        "淨重量:": "67g"
+    },
+    {
+        "names": "ROCCAT Kone Pro 遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "449",
+        "hon_price_max": "639",
+        "感應器類型:": "光學",
+        "適用系統:": "Windows 7, 8 and 10",
+        "淨重量:": "66g"
+    },
+    {
+        "names": "Razer DeathAdder V2 Mini 人體工學無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "399",
+        "water_price_min": "115",
+        "water_price_max": "199",
+        "DPI/CPI:": "8500",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "Fnatic Gear Bolt Wireless Gaming Mouse 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "748",
+        "感應器類型:": "光學",
+        "巨集鍵:": "有",
+        "淨重量:": "白色 69 克，黑色 67 克"
+    },
+    {
+        "names": "Steelseries Aerox 3 Wireless 超輕量無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "899",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required.",
+        "淨重量:": "66g"
+    },
+    {
+        "names": "Logitech G Pro Wireless 英雄聯盟限定款無線滑鼠",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,099",
+        "DPI/CPI:": "100-25,600",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows7, macOS 10.11 或更新版本,Chrome OS",
+        "淨重量:": "80g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "Steelseries Aerox 3 Wireless Snow 超輕量無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "899",
+        "DPI/CPI:": "100-18000 以 100 CPI 增量單位",
+        "RGB:": "有",
+        "適用系統:": "Windows、Mac、Xbox 與 Linux。需 USB 連接埠。",
+        "淨重量:": "68g"
+    },
+    {
+        "names": "ASUS ROG Chakram X 無線電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,280",
+        "DPI/CPI:": "100-36000DPI",
+        "RGB:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "127g"
+    },
+    {
+        "names": "Corsair Dark Core RGB Pro SE Wireless Gaming Mouse 無線電競滑鼠 CH-9315511-AP",
+        "rating": "8.0",
+        "hon_price_min": "599",
+        "hon_price_max": "740",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "淨重量:": "142g"
+    },
+    {
+        "names": "Logitech G G502 Hero 高效能遊戲滑鼠 - Star Guardian Edition",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "599",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "ASUS ROG Gladius III Wireless 右手型無線電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "1,099",
+        "DPI/CPI:": "19000",
+        "RGB:": "有",
+        "淨重量:": "89g (without cable)"
+    },
+    {
+        "names": "Razer DeathAdder V2 X HyperSpeed 無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "329",
+        "hon_price_max": "499",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "DPI/CPI:": "14000",
+        "RGB:": "沒有",
+        "巨集鍵:": "有",
+        "淨重量:": "103g"
+    },
+    {
+        "names": "Razer Basilisk X HyperSpeed 無線遊戲滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "300",
+        "hon_price_max": "480",
+        "water_price_min": "225",
+        "water_price_max": "470",
+        "DPI/CPI:": "16000",
+        "RGB:": "沒有",
+        "巨集鍵:": "有",
+        "淨重量:": "83g"
+    },
+    {
+        "names": "Logitech G Pro X Superlight 超輕量無線遊戲滑鼠 (紅色特別版)",
+        "rating": "",
+        "hon_price_min": "910",
+        "hon_price_max": "999",
+        "DPI/CPI:": "25600",
+        "RGB:": "沒有",
+        "淨重量:": "63"
+    },
+    {
+        "names": "Razer DeathAdder V2 Pro 人體工學無線遊戲滑鼠 - Genshin Impact Edition",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,169",
+        "water_price_min": "1,169",
+        "water_price_max": "1,169",
+        "DPI/CPI:": "20000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "88g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G G402 Hyperion Fury 高速追蹤遊戲滑鼠",
+        "rating": "9.8",
+        "hon_price_min": "253",
+        "hon_price_max": "349",
+        "water_price_min": "209",
+        "water_price_max": "289",
+        "DPI/CPI:": "4000",
+        "適用系統:": "Windows 8.1 / 8 / 7 / Vista",
+        "淨重量:": "108g"
+    },
+    {
+        "names": "Steelseries Aerox 5 Wireless 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,199",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 8.1 or newer, MacOS 10.13 or newer, Xbox, and Linux",
+        "淨重量:": "74g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer DeathAdder V2 有線人體工學遊戲滑鼠",
+        "rating": "9.0",
+        "hon_price_min": "250",
+        "hon_price_max": "540",
+        "water_price_min": "255",
+        "water_price_max": "599",
+        "DPI/CPI:": "20000",
+        "無線/有線:": "有線",
+        "淨重量:": "82g"
+    },
+    {
+        "names": "ASUS ROG Keris Wireless EVA Edition RGB 三模無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "799",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "淨重量:": "79g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Glorious Model D Wireless 超輕量無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "769",
+        "DPI/CPI:": "19000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux. USB Port Required，Windows (7 or Newer)",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "ASUS ROG Keris Wireless AimPoint RGB 三模無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "DPI/CPI:": "36000",
+        "RGB:": "有",
+        "淨重量:": "75g"
+    },
+    {
+        "names": "Logitech G G502 Hero KDA 遊戲滑鼠 910-006099",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "599",
+        "water_price_min": "338",
+        "water_price_max": "338",
+        "DPI/CPI:": "100-25600",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7, macOS 10.11或更新版本",
+        "淨重量:": "121g"
+    },
+    {
+        "names": "Logitech G G403 Prodigy 遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "474",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "DPI/CPI:": "12000",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "87.3g",
+        "法碼:": "有"
+    },
+    {
+        "names": "Zowie EC系列無線電競滑鼠 EC3-CW",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "DPI/CPI:": "400-3200",
+        "按鍵數:": "5",
+        "淨重量:": "76g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Glorious Model O Wireless 超輕量無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "699",
+        "DPI/CPI:": "19000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux. USB port required",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "XPower LED有線光學電競滑鼠 GM20",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "DPI/CPI:": "1200/1600/2400/3200",
+        "按鍵數:": "6",
+        "淨重量:": "127g"
+    },
+    {
+        "names": "Steelseries Prime Mini 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "DPI/CPI:": "100-18000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required.",
+        "淨重量:": "61g"
+    },
+    {
+        "names": "Corsair M65 RGB Ultra Tunable FPS Gaming Mouse 電競滑鼠 CH-9309411-EU",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "888",
+        "DPI/CPI:": "26000",
+        "RGB:": "有",
+        "淨重量:": "97g"
+    },
+    {
+        "names": "Logitech G Pro 遊戲滑鼠 (感應器: Hero)",
+        "rating": "",
+        "hon_price_min": "375",
+        "hon_price_max": "499",
+        "water_price_min": "358",
+        "water_price_max": "358",
+        "DPI/CPI:": "16000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 或更新版本, macOS 10.11 或更新版本, Chrome OS",
+        "淨重量:": "83g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Machenike M7 2.4G無線遊戲滑鼠 M700",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "199",
+        "DPI/CPI:": "2400",
+        "按鍵數:": "7",
+        "RGB:": "有",
+        "淨重量:": "85g"
+    },
+    {
+        "names": "Logitech G G102 Prodigy 遊戲滑鼠 910-004849",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "water_price_min": "119",
+        "water_price_max": "185",
+        "DPI/CPI:": "8000",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "Corsair Sabre Pro Champion Series Gaming Mouse 電競滑鼠 CH-9303101",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "458",
+        "DPI/CPI:": "18000",
+        "無線/有線:": "有線",
+        "RGB:": "沒有"
+    },
+    {
+        "names": "Logitech G G402 Hyperion Fury 高速追蹤遊戲滑鼠",
+        "rating": "9.8",
+        "hon_price_min": "253",
+        "hon_price_max": "349",
+        "water_price_min": "209",
+        "water_price_max": "289",
+        "DPI/CPI:": "4000",
+        "適用系統:": "Windows 8.1 / 8 / 7 / Vista",
+        "淨重量:": "108g"
+    },
+    {
+        "names": "Razer Mamba Elite 光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "729",
+        "water_price_min": "395",
+        "water_price_max": "729",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10, Windows 8, Windows 7",
+        "淨重量:": "96g"
+    },
+    {
+        "names": "Corsair Ironclaw RGB Wireless Gaming Mouse (AP) 無線電競滑鼠 CH-9317011-AP",
+        "rating": "",
+        "hon_price_min": "585",
+        "hon_price_max": "660",
+        "DPI/CPI:": "18000",
+        "無線/有線:": "無線",
+        "淨重量:": "130g"
+    },
+    {
+        "names": "Steelseries Aerox 9 Wireless 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,299",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 8.1 or newer, Mac OS 10.13 or newer, Xbox, and Linux",
+        "淨重量:": "89g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS TUF Gaming M4 Air Wireless 輕量無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "520",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10, Windows 11",
+        "淨重量:": "62g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "ASUS ROG Pugio II 輕量無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "899",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "DPI/CPI:": "16000",
+        "巨集鍵:": "有",
+        "淨重量:": "102",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "Logitech G G903 Lightspeed 無線遊戲滑鼠 (感應器: Hero 16K) 910-005674",
+        "rating": "10",
+        "hon_price_min": "790",
+        "hon_price_max": "1,199",
+        "water_price_min": "599",
+        "water_price_max": "890",
+        "DPI/CPI:": "100-16000",
+        "適用系統:": "Windows 7 或更新版本, macOS 10.11 或更新版本, Chrome OS",
+        "淨重量:": "110g",
+        "法碼:": "有",
+        "模組化:": "半模組",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Razer Viper 8KHz 雙手通用設計電競遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "649",
+        "water_price_min": "465",
+        "water_price_max": "649",
+        "DPI/CPI:": "20000",
+        "適用系統:": "Windows 8 64-bit (or higher)",
+        "淨重量:": "71g"
+    },
+    {
+        "names": "Zowie FK系列對稱型右手專用電競滑鼠 FK2-B",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "淨重量:": "80g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS ROG Gladius III Wireless AimPoint RGB 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "DPI/CPI:": "36000",
+        "RGB:": "有",
+        "淨重量:": "79g"
+    },
+    {
+        "names": "Steelseries Aerox 3 Wireless Ghost 限量版超輕量無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "689",
+        "hon_price_max": "899",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows、Mac、Xbox 與 Linux。需 USB 連接埠，Windows（7 或以上版本）與 Mac OSX（10.12 或以上版本）",
+        "淨重量:": "68g"
+    },
+    {
+        "names": "Razer Basilisk Ultimate 無線遊戲滑鼠搭配充電座",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "1,330",
+        "water_price_min": "1,390",
+        "water_price_max": "1,390",
+        "DPI/CPI:": "20000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "107g"
+    },
+    {
+        "names": "Logitech G G604 Lightspeed 無線遊戲滑鼠 910-005651",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "759",
+        "water_price_min": "530",
+        "water_price_max": "620",
+        "DPI/CPI:": "100 – 16,000",
+        "巨集鍵:": "有",
+        "適用系統:": "LIGHTSPEED 模式：Windows 7 或更新版本、macOS 10.12 或更新版本、Chrome OS 、或 Android 3.2 或更新版本, 藍牙模式：Windows 8 或更新版本、macOS 10.12 或更新版本、Chrome OS 、或 Android 5.0 或更新版本",
+        "淨重量:": "135 公克，含1 x AA電池"
+    },
+    {
+        "names": "Elementz Racez Type-C RGB Gaming Mouse 電競滑鼠 RGB-CM",
+        "rating": "",
+        "hon_price_min": "146",
+        "hon_price_max": "158",
+        "DPI/CPI:": "800/1600/2400/3200",
+        "RGB:": "有",
+        "淨重量:": "125g"
+    },
+    {
+        "names": "Corsair Katar Pro Ultra-Light 遊戲滑鼠 CH-930C011-AP",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "199",
+        "DPI/CPI:": "12400",
+        "無線/有線:": "有線",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "Corsair M55 RGB Pro Ambidextrous Multi-Grip Gaming Mouse (AP) 電競滑鼠 CH-9308011-AP",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "325",
+        "DPI/CPI:": "12400",
+        "無線/有線:": "有線",
+        "淨重量:": "86g"
+    },
+    {
+        "names": "Pulsar X2 Mini 無線遊戲滑鼠 (Bruce Lee Edition)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "DPI/CPI:": "26000",
+        "適用系統:": "Windows, Mac, Linux",
+        "淨重量:": "52g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G G203 Lightsync RGB 6 鍵遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "313",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "DPI/CPI:": "8000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 或更新版本, macOS 10.10 或更新版本",
+        "淨重量:": "85g",
+        "左右手通用:": "yes"
+    },
+    {
+        "names": "Corsair Katar Pro Ultra-Light 遊戲滑鼠 CH-930C011-AP",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "199",
+        "DPI/CPI:": "12400",
+        "無線/有線:": "有線",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "Corsair M55 RGB Pro Ambidextrous Multi-Grip Gaming Mouse (AP) 電競滑鼠 CH-9308011-AP",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "325",
+        "DPI/CPI:": "12400",
+        "無線/有線:": "有線",
+        "淨重量:": "86g"
+    },
+    {
+        "names": "Pulsar X2 Mini 無線遊戲滑鼠 (Bruce Lee Edition)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "DPI/CPI:": "26000",
+        "適用系統:": "Windows, Mac, Linux",
+        "淨重量:": "52g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Corsair M65 RGB Elite Tunable FPS Gaming Mouse (AP) 電競滑鼠 CH-9309011-AP",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "550",
+        "DPI/CPI:": "18000",
+        "無線/有線:": "有線",
+        "淨重量:": "97g"
+    },
+    {
+        "names": "Corsair Harpoon RGB Wireless Gaming Mouse (AP) 無線電競滑鼠 CH-9311011-AP",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "450",
+        "DPI/CPI:": "10000",
+        "無線/有線:": "無線+有線",
+        "淨重量:": "99g"
+    },
+    {
+        "names": "Zowie EC系列無線電競滑鼠 EC2-CW",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "DPI/CPI:": "400-3200",
+        "按鍵數:": "5",
+        "淨重量:": "77g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Corsair Katar Elite Wireless 無線遊戲滑鼠 (CH-931C111)",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "DPI/CPI:": "26000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "Endgame Gear 電競遊戲滑鼠 XM1r",
+        "rating": "4.0",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "DPI/CPI:": "19000",
+        "按鍵數:": "5",
+        "淨重量:": "70g"
+    },
+    {
+        "names": "ASUS ROG Pugio II 輕量無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "899",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "DPI/CPI:": "16000",
+        "巨集鍵:": "有",
+        "淨重量:": "102",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "ROCCAT Kain 100 AIMO Titan-Click RGB Gaming Mouse",
+        "rating": "10",
+        "hon_price_min": "379",
+        "hon_price_max": "430",
+        "DPI/CPI:": "8500",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10, Windows 7, Windows 8",
+        "淨重量:": "89g",
+        "法碼:": "無",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Glorious Model D- Wireless 超輕量無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "769",
+        "DPI/CPI:": "19000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux",
+        "淨重量:": "67g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ROCCAT Burst Core 超輕量化光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299",
+        "DPI/CPI:": "8500",
+        "適用系統:": "Windows 10, Windows 7, Windows 8",
+        "淨重量:": "68g",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "Gigabyte Aorus M2 電競專用輕量化滑鼠",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "199",
+        "DPI/CPI:": "6200",
+        "適用系統:": "Windows 10",
+        "淨重量:": "76g"
+    },
+    {
+        "names": "Razer Naga V2 Pro MMO無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,499",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "DPI/CPI:": "30000",
+        "巨集鍵:": "有",
+        "淨重量:": "134g",
+        "左右手通用:": "右手專用"
+    },
+    {
+        "names": "Razer DeathAdder Essential + Goliathus Speed Pikachu Limited Edition 皮卡丘限定版滑鼠 + 滑鼠墊組合包",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "DPI/CPI:": "6400",
+        "淨重量:": "96g",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "Steelseries Rival 3 有線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "319",
+        "DPI/CPI:": "8500",
+        "RGB:": "有",
+        "淨重量:": "77g"
+    },
+    {
+        "names": "Glorious Model I 超輕量遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "488",
+        "DPI/CPI:": "100 - 19000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux (USB Port Required)",
+        "淨重量:": "69 g ± 2.5 g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "MSI Clutch GM41 輕量無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "799",
+        "DPI/CPI:": "20000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "74"
+    },
+    {
+        "names": "Corsair Katar PRO Wireless Gaming Mouse 無線電競滑鼠 CH-931C011-AP",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "349",
+        "DPI/CPI:": "10000",
+        "無線/有線:": "無線",
+        "RGB:": "有"
+    },
+    {
+        "names": "Razer Pro Click Mini 人體工學無線滑鼠",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "659",
+        "water_price_min": "659",
+        "water_price_max": "659",
+        "DPI/CPI:": "12000",
+        "RGB:": "沒有",
+        "巨集鍵:": "有",
+        "淨重量:": "111g"
+    },
+    {
+        "names": "HyperX Pulsefire Dart 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "799",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows vista, 7 , 10",
+        "淨重量:": "150g"
+    },
+    {
+        "names": "Corsair Scimitar RGB Elite Optical MOBA/MMO Gaming Mouse 電競滑鼠 CH-9304211-AP",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "699",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "淨重量:": "122g"
+    },
+    {
+        "names": "Altec Lansing Gaming Mouse ALGM9525",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "DPI/CPI:": "800-2400",
+        "RGB:": "有",
+        "淨重量:": "138g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "T-DAGGER Senior Gaming Mouse 有線電競滑鼠 T-TGM205",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "149",
+        "DPI/CPI:": "400-4800",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "MSI Clutch GM08 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "199",
+        "DPI/CPI:": "max. 4200 by software",
+        "RGB:": "沒有",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "103g"
+    },
+    {
+        "names": "Corsair Nightsword RGB Tunable FPS/MOBA Gaming Mouse (AP) 電競滑鼠 CH-9306011-AP",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "640",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "淨重量:": "119g"
+    },
+    {
+        "names": "Dell Alienware 有線遊戲專用滑鼠 AW320M",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "628",
+        "DPI/CPI:": "19000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 或更高版本",
+        "淨重量:": "74g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Pulsar Xlite Wired Gaming Mouse 有線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "DPI/CPI:": "50-20000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, Linux",
+        "淨重量:": "48.9g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS ROG STRIX Impact II GUNDAM Edition Gaming Mouse",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "499",
+        "DPI/CPI:": "6200",
+        "RGB:": "有",
+        "淨重量:": "79g"
+    },
+    {
+        "names": "Corsair Ironclaw RGB 無線遊戲滑鼠",
+        "rating": "4.0",
+        "hon_price_min": "597",
+        "hon_price_max": "658",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10, Windows 8, Windows 7",
+        "淨重量:": "130g"
+    },
+    {
+        "names": "Razer Basilisk 有線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "107g"
+    },
+    {
+        "names": "ROCCAT Kone XP 光學滑鼠 (黑)",
+        "rating": "10",
+        "hon_price_min": "549",
+        "hon_price_max": "749",
+        "DPI/CPI:": "19000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "104g"
+    },
+    {
+        "names": "Dell Alienware TRI-MODE 無線遊戲專用滑鼠 AW720M",
+        "rating": "",
+        "hon_price_min": "1,538",
+        "hon_price_max": "1,538",
+        "DPI/CPI:": "26000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 或更高版本",
+        "淨重量:": "86g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Basilisk Ultimate 無線遊戲滑鼠 (僅滑鼠)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "1,069",
+        "water_price_min": "538",
+        "water_price_max": "1,390",
+        "DPI/CPI:": "20000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "107g"
+    },
+    {
+        "names": "ASUS TUF Gaming M3 人體工學 RGB 有線電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "155",
+        "hon_price_max": "238",
+        "DPI/CPI:": "7000",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Razer Basilisk V2 有線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "699",
+        "water_price_min": "300",
+        "water_price_max": "560",
+        "DPI/CPI:": "20000",
+        "RGB:": "有",
+        "淨重量:": "92g"
+    },
+    {
+        "names": "Machenike M7 Gen2 USB-C連接/無線RGB遊戲滑鼠 M721",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299",
+        "DPI/CPI:": "10000",
+        "按鍵數:": "5",
+        "RGB:": "有",
+        "淨重量:": "95g"
+    },
+    {
+        "names": "Corsair Ironclaw RGB FPS/MOBA Gaming Mouse (AP) 電競滑鼠 CH-9307011-AP",
+        "rating": "10",
+        "hon_price_min": "485",
+        "hon_price_max": "560",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "105g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Naga X MMO 人體工學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "579",
+        "hon_price_max": "649",
+        "water_price_min": "390",
+        "water_price_max": "649",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Steelseries Rival 5 RGB Gaming Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "DPI/CPI:": "100-18000",
+        "RGB:": "有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required.",
+        "淨重量:": "85g"
+    },
+    {
+        "names": "Steelseries Prime+ 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required.",
+        "淨重量:": "71g"
+    },
+    {
+        "names": "T-DAGGER Lieutenant Gaming Mouse 有線電競滑鼠 T-TGM301",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "299",
+        "DPI/CPI:": "8000",
+        "按鍵數:": "10",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Zowie FK系列對稱型電競滑鼠 FK1+-C",
+        "rating": "",
+        "hon_price_min": "579",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "巨集鍵:": "有",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "Razer Viper Ultimate 無線遊戲滑鼠 (僅滑鼠)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "1,049",
+        "water_price_min": "1,190",
+        "water_price_max": "1,190",
+        "DPI/CPI:": "20000",
+        "RGB:": "有",
+        "淨重量:": "74g",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "ROCCAT Burst Pro Air 超輕量化無線藍牙光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "DPI/CPI:": "19000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 and above (Software support), USB 2.0 (or higher), Internet connection (for driver software)",
+        "淨重量:": "81"
+    },
+    {
+        "names": "Razer DeathAdder Essential & Goliathus Mouse Mat Bundle 滑鼠與滑鼠墊 - Hello Kitty and Friends Edition",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "499",
+        "DPI/CPI:": "6400",
+        "按鍵數:": "5",
+        "淨重量:": "96",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "HyperX Pulsefire Surge RGB 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "599",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "淨重量:": "100g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "Zowie ZA系列高背電競滑鼠 ZA12-C",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Abkoncore Professional Gaming Mouse 高階光學電競滑鼠 A660",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "199",
+        "DPI/CPI:": "10000",
+        "按鍵數:": "8",
+        "RGB:": "有"
+    },
+    {
+        "names": "ASUS ROG Chakram Qi 無線電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,399",
+        "DPI/CPI:": "100-16000",
+        "適用系統:": "Windows 10",
+        "淨重量:": "121.6g (不含編織線)"
+    },
+    {
+        "names": "Zowie EC系列白色光面特別版遊戲滑鼠 EC2 White",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "DPI/CPI:": "400/800/1600/3200",
+        "RGB:": "沒有",
+        "巨集鍵:": "有",
+        "適用系統:": "USB 2.0 / 3.0 隨插即用",
+        "淨重量:": "90g"
+    },
+    {
+        "names": "Razer Mamba Wireless Gears 5 Edition 光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "999",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "7",
+        "淨重量:": "106g"
+    },
+    {
+        "names": "Corsair M65 RGB Elite Tunable FPS Gaming Mouse (AP) 電競滑鼠 CH-9309111-AP",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "590",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "97",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Abyssus Essential 光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "DPI/CPI:": "7200",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac",
+        "淨重量:": "78g",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Zowie EC系列遊戲滑鼠 EC2-C",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "淨重量:": "73g"
+    },
+    {
+        "names": "Redragon Griffin RGB 無線滑鼠 M602-KS",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "219",
+        "DPI/CPI:": "4000",
+        "RGB:": "有",
+        "適用系統:": "PC with USB port Windows 10, Windows 8, Windows 7, Windows Vista and Windows XP or above",
+        "淨重量:": "280g"
+    },
+    {
+        "names": "Meetion 可編程有線專業遊戲滑鼠 GM230",
+        "rating": "10",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "DPI/CPI:": "12800",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows / Mac OS / Linux",
+        "淨重量:": "129",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G 光學遊戲滑鼠 G300S",
+        "rating": "8.0",
+        "hon_price_min": "185",
+        "hon_price_max": "299",
+        "water_price_min": "119",
+        "water_price_max": "169",
+        "DPI/CPI:": "2500",
+        "適用系統:": "Windows 8 / 7 / Vista",
+        "淨重量:": "109g"
+    },
+    {
+        "names": "Steelseries Sensei 310 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "459",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux",
+        "淨重量:": "92.1g",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "ROCCAT Kone Aimo 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows",
+        "淨重量:": "130g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS ROG Gladius II Core 人體工學輕量有線光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "369",
+        "DPI/CPI:": "6200",
+        "適用系統:": "Windows 10, Windows 10 64-bit",
+        "淨重量:": "92.5g (不含編織線)"
+    },
+    {
+        "names": "Steelseries Sensei Ten 光學滑鼠",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "599",
+        "DPI/CPI:": "50-18000",
+        "按鍵數:": "8",
+        "RGB:": "有",
+        "淨重量:": "92"
+    },
+    {
+        "names": "ROCCAT Kone Pro Air 光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "999",
+        "DPI/CPI:": "19000",
+        "RGB:": "有",
+        "適用系統:": "Windows 7, 8 and 10",
+        "淨重量:": "75g"
+    },
+    {
+        "names": "Cougar AirBlader 超輕量滑鼠",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "6",
+        "巨集鍵:": "有",
+        "淨重量:": "62g"
+    },
+    {
+        "names": "Ninjutso Origin One X Wireless 超輕量無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 or later, Linux, Mac",
+        "淨重量:": "66g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Corsair Dark Core RGB Pro SE Wireless Gaming Mouse 無線電競滑鼠 CH-9315511-NA",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "790",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10, Windows 8, or Windows 7",
+        "淨重量:": "142g"
+    },
+    {
+        "names": "Xtrfy RGB 輕量級遊戲滑鼠 M42",
+        "rating": "",
+        "hon_price_min": "509",
+        "hon_price_max": "509",
+        "DPI/CPI:": "400–16000",
+        "無線/有線:": "有線",
+        "淨重量:": "59g"
+    },
+    {
+        "names": "infothink 鋼鐵人系列 Pro 電競滑鼠 - 限量版",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "338",
+        "DPI/CPI:": "1200-7200 dpi",
+        "RGB:": "有",
+        "適用系統:": "Windows XP/7/8/10/VISTA / MacOS 10.x",
+        "淨重量:": "93.9g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "Razer Naga V2 HyperSpeed 無線MMO遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "829",
+        "hon_price_max": "829",
+        "DPI/CPI:": "30000",
+        "巨集鍵:": "有",
+        "淨重量:": "95g",
+        "左右手通用:": "右手專用"
+    },
+    {
+        "names": "ASUS Strix Impact II Electro Punk 限量版 RGB 電競光學滑鼠",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "350",
+        "DPI/CPI:": "6200",
+        "適用系統:": "Windows 10/Windows 10 64-bit",
+        "淨重量:": "79g",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "T-DAGGER Roadmaster RGB Backlighting Gaming Mouse 有線電競滑鼠 T-TGM307",
+        "rating": "8.0",
+        "hon_price_min": "168",
+        "hon_price_max": "288",
+        "DPI/CPI:": "8000",
+        "按鍵數:": "8",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Zowie FK系列電競滑鼠 FK1+-B",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Corsair M65 RGB Ultra Wireless 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "1,049",
+        "DPI/CPI:": "26000",
+        "按鍵數:": "8",
+        "RGB:": "有",
+        "淨重量:": "110g"
+    },
+    {
+        "names": "Lenovo Wired Gaming Mouse 電競滑鼠 M105",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "125",
+        "DPI/CPI:": "3200",
+        "按鍵數:": "6",
+        "淨重量:": "103g"
+    },
+    {
+        "names": "Gigabyte Aorus M3 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "428",
+        "DPI/CPI:": "6400",
+        "RGB:": "有",
+        "適用系統:": "Windows 10/8/7",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Vertux Cobalt 有線光學電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "299",
+        "DPI/CPI:": "1200-2000-3200-4800",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Steelseries Rival 700 電競滑鼠",
+        "rating": "4.0",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "DPI/CPI:": "16000",
+        "無線/有線:": "有線",
+        "按鍵數:": "7"
+    },
+    {
+        "names": "Ninjutso Katana Superlight Wireless Professional Gaming Mouse 無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "DPI/CPI:": "50-19000",
+        "巨集鍵:": "有",
+        "適用系統:": "需 USB 連接埠，Windows（7 或以上版本）",
+        "淨重量:": "60g"
+    },
+    {
+        "names": "ASUS ROG Gladius II Wireless 人體工學 RGB 電競滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "599",
+        "hon_price_max": "790",
+        "DPI/CPI:": "100-16000",
+        "巨集鍵:": "有",
+        "適用系統:": "Win 7/8/10",
+        "淨重量:": "130g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G G903 Lightspeed 無線遊戲滑鼠 (感應器: PMW3366) 910-005087",
+        "rating": "8.7",
+        "hon_price_min": "799",
+        "hon_price_max": "1,199",
+        "water_price_min": "699",
+        "water_price_max": "890",
+        "DPI/CPI:": "200-12000",
+        "適用系統:": "Windows 10、Windows 8.1、Windows 8、Windows 7 Mac OS X 10.10 或更新版本",
+        "淨重量:": "110g",
+        "法碼:": "有",
+        "模組化:": "半模組",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Zowie EC系列無線電競滑鼠 EC1-CW",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "DPI/CPI:": "400-3200",
+        "按鍵數:": "5",
+        "淨重量:": "79g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Dragon War Phoenix Honeycomb 蜂窩形RGB燈效超輕電競滑鼠 G25",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "298",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "65g"
+    },
+    {
+        "names": "Zowie FK系列對稱型遊戲滑鼠 FK1-C",
+        "rating": "",
+        "hon_price_min": "579",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "RGB:": "沒有",
+        "淨重量:": "74g"
+    },
+    {
+        "names": "ROCCAT Kone Air Wireless 無線人體工學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "DPI/CPI:": "最小DPI：50 / 最大DPI：19000",
+        "按鍵數:": "9",
+        "淨重量:": "96g"
+    },
+    {
+        "names": "iMICE RGB背光重量調節電競滑鼠 T96",
+        "rating": "",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "DPI/CPI:": "7200",
+        "按鍵數:": "7",
+        "淨重量:": "170g",
+        "法碼:": "有"
+    },
+    {
+        "names": "Corsair Katar Pro Ultra-Light 遊戲滑鼠 CH-930C011-NA",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "DPI/CPI:": "12400",
+        "RGB:": "沒有",
+        "淨重量:": "69g",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "MSI Clutch GM11 流線型電競滑鼠",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "249",
+        "DPI/CPI:": "5000",
+        "RGB:": "有",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "T-DAGGER Major Gaming Mouse 有線電競滑鼠 T-TGM303",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "299",
+        "DPI/CPI:": "8000",
+        "按鍵數:": "10",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "ASUS ROG Keris RGB 遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "550",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "淨重量:": "62g (without cable) / 65g (with cable)",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Havit RGB Backlit Programmable Gaming Mouse MS1031",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "DPI/CPI:": "7200",
+        "RGB:": "有"
+    },
+    {
+        "names": "Lenovo Legion M300 RGB 遊戲滑鼠 GY50X79384",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "DPI/CPI:": "最高達 8,000 DPI",
+        "RGB:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "88g",
+        "左右手通用:": "雙手通用"
+    },
+    {
+        "names": "Steelseries Rival 5 Destiny Edition 電競滑鼠 (62552)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "DPI/CPI:": "100-18,000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required.",
+        "淨重量:": "85g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "AULA USB Wired Gaming Mouse 電競滑鼠 S13",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "DPI/CPI:": "3600",
+        "無線/有線:": "有線",
+        "按鍵數:": "5"
+    },
+    {
+        "names": "Razer Naga Pro MMO / MOBA / FPS 無線遊戲滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,199",
+        "water_price_min": "899",
+        "water_price_max": "1,199",
+        "DPI/CPI:": "20000",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Glorious Model D- 超輕量遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "459",
+        "DPI/CPI:": "12000",
+        "適用系統:": "Windows 7 或以上",
+        "淨重量:": "61g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Zowie Divina 電競滑鼠 FK2-B",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "579",
+        "DPI/CPI:": "3200",
+        "按鍵數:": "5",
+        "RGB:": "沒有"
+    },
+    {
+        "names": "Xtrfy White Rail RGB 超輕量遊戲滑鼠 MZ1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "DPI/CPI:": "400-16000",
+        "巨集鍵:": "有",
+        "淨重量:": "56g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "POLAR Professional Gaming Mouse 專業有線電競滑鼠 PGM-816",
+        "rating": "10",
+        "hon_price_min": "148",
+        "hon_price_max": "199",
+        "DPI/CPI:": "2800",
+        "適用系統:": "Window 10, 8, 7, XP and Mac",
+        "淨重量:": "138g"
+    },
+    {
+        "names": "Corsair Nightsword RGB 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "699",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "windows 10",
+        "淨重量:": "119g (w/out cable and accessories)",
+        "法碼:": "有"
+    },
+    {
+        "names": "Jedel Wired Mouse 有線電競滑鼠 GM1160",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "DPI/CPI:": "7200",
+        "RGB:": "有",
+        "適用系統:": "Windows 11",
+        "淨重量:": "20g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Zowie 電競滑鼠 FK2 (2016)",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "490",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "5"
+    },
+    {
+        "names": "MSI Clutch GM41 Lightweight 輕量電競滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "499",
+        "DPI/CPI:": "16000",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "65",
+        "法碼:": "無",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Vertux Kryptonite 有線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488",
+        "DPI/CPI:": "1000/1500/2000/3000/5000/10000DPI",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Razer DeathAdder V2 遊戲滑鼠 - Halo Infinite",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "649",
+        "water_price_min": "649",
+        "water_price_max": "649",
+        "DPI/CPI:": "20000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "82g",
+        "左右手通用:": "右手專用"
+    },
+    {
+        "names": "Razer Atheris 無線光學滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "water_price_min": "289",
+        "water_price_max": "399",
+        "DPI/CPI:": "7200",
+        "無線/有線:": "無線",
+        "淨重量:": "66g"
+    },
+    {
+        "names": "Razer Lancehead 無線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "1,099",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "9",
+        "RGB:": "有",
+        "淨重量:": "111g"
+    },
+    {
+        "names": "ASUS ROG Pugio 光學有線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "599",
+        "DPI/CPI:": "5000",
+        "適用系統:": "Windows 10 / 8.1 / 7",
+        "淨重量:": "103g",
+        "模組化:": "半模組",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "T-DAGGER Second Lieutenant Gaming Mouse 有線電競滑鼠 T-TGM300",
+        "rating": "8.0",
+        "hon_price_min": "190",
+        "hon_price_max": "219",
+        "DPI/CPI:": "8000",
+        "按鍵數:": "10",
+        "RGB:": "有"
+    },
+    {
+        "names": "Zowie 電競滑鼠 S2 Divina Version (Small)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "HP Gaming Mouse 有線電競光學滑鼠 G100",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "125",
+        "DPI/CPI:": "800-1200-2000",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Steelseries Prime Mini Wireless 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,299",
+        "DPI/CPI:": "100-18000",
+        "RGB:": "有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required.",
+        "淨重量:": "73g"
+    },
+    {
+        "names": "Dell Alienware 有線/無線遊戲專用滑鼠 AW610M",
+        "rating": "",
+        "hon_price_min": "1,028",
+        "hon_price_max": "1,028",
+        "DPI/CPI:": "16000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 或更高版本",
+        "淨重量:": "117g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS ROG Strix Carry 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "599",
+        "DPI/CPI:": "7200",
+        "適用系統:": "Windows 10",
+        "淨重量:": "72.9g"
+    },
+    {
+        "names": "Keychron Ultra-Light Optical Mouse 超輕光學電競滑鼠 M1",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "399",
+        "DPI/CPI:": "100-1600",
+        "RGB:": "有",
+        "適用系統:": "Windows 11, 10, 7 / macOS 11 or later",
+        "淨重量:": "68g"
+    },
+    {
+        "names": "HP USB Gaming Mouse 有線電競滑鼠 M160",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "75",
+        "DPI/CPI:": "1000",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "Corsair Sabre RGB Pro Champion Series Optical Gaming Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "499",
+        "DPI/CPI:": "18000",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "Dragon War Heptaestus 蜂窩形RGB燈效電競滑鼠 G26",
+        "rating": "2.0",
+        "hon_price_min": "148",
+        "hon_price_max": "198",
+        "DPI/CPI:": "max. 6400",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Onikuma RGB USB Gaming Mouse 有線機械電競滑鼠 CW905",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "128",
+        "DPI/CPI:": "800-6400",
+        "按鍵數:": "7",
+        "RGB:": "有",
+        "淨重量:": "132g"
+    },
+    {
+        "names": "ASUS Cerberus Fortus RGB 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "350",
+        "DPI/CPI:": "4000",
+        "巨集鍵:": "沒有",
+        "適用系統:": "Windows",
+        "淨重量:": "114",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Meetion Classic Gaming Mouse 有線電競滑鼠 MT-GM30",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "DPI/CPI:": "4000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Win XP / Vista / 7 / 8 / 10 MAC OS",
+        "淨重量:": "131±5g"
+    },
+    {
+        "names": "Marvo Scorpion 魔蠍人體工學無線滑鼠 M703W",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "199",
+        "DPI/CPI:": "2400",
+        "無線/有線:": "無線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "ROCCAT Kain 202 Aimo 遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "699",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "Gigabyte Aorus M5 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "539",
+        "DPI/CPI:": "1000",
+        "RGB:": "有",
+        "淨重量:": "118g~130.5g+- 5%",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Corsair Katar Pro XT Ultra-Light Gaming Mouse 電競滑鼠 CH-930C111-NA",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299",
+        "DPI/CPI:": "18000",
+        "按鍵數:": "6",
+        "RGB:": "有"
+    },
+    {
+        "names": "ASUS ROG Gladius III 右手型電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "DPI/CPI:": "19000",
+        "RGB:": "有",
+        "淨重量:": "79g (without cable)"
+    },
+    {
+        "names": "Dream Digital RGB背光電競滑鼠 長度調節 PG6",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "DPI/CPI:": "7200",
+        "按鍵數:": "9",
+        "RGB:": "有",
+        "淨重量:": "138g"
+    },
+    {
+        "names": "T-DAGGER Corporal Wireless Gaming Mouse 無線電競滑鼠 T-TGWM100",
+        "rating": "8.0",
+        "hon_price_min": "75",
+        "hon_price_max": "88",
+        "DPI/CPI:": "800-2400",
+        "按鍵數:": "6",
+        "巨集鍵:": "沒有"
+    },
+    {
+        "names": "Abkoncore Professional Gaming Mouse 高階光學電競滑鼠 A900",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "259",
+        "DPI/CPI:": "5000",
+        "按鍵數:": "8",
+        "RGB:": "有"
+    },
+    {
+        "names": "Fantech UX2 Hive 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "368",
+        "DPI/CPI:": "400-12000 dpi",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Corsair Glaive RGB Pro 遊戲滑鼠 CH-9302211-AP",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "559",
+        "DPI/CPI:": "18000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows10",
+        "淨重量:": "115",
+        "模組化:": "半模組",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "AULA USB Wired Gaming Mouse 電競滑鼠 F808",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "248",
+        "DPI/CPI:": "800-4200",
+        "無線/有線:": "有線",
+        "按鍵數:": "10"
+    },
+    {
+        "names": "MSI Clutch GM50 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "599",
+        "DPI/CPI:": "7200",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "87g"
+    },
+    {
+        "names": "Vertux Mustang GameCharged 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "DPI/CPI:": "1000/1600/3200/5000/10000DPI",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Logitech G G900 Chaos Spectrum 專業級有線/無線遊戲滑鼠",
+        "rating": "8.7",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "DPI/CPI:": "12000",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "107g",
+        "模組化:": "半模組",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "ASUS ROG Gladius II Origin PNK LTD 人體工學旗艦電競滑鼠",
+        "rating": "",
+        "hon_price_min": "622",
+        "hon_price_max": "730",
+        "DPI/CPI:": "12000 DPI",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "Lamzu Atlantis Mini 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "DPI/CPI:": "26000",
+        "巨集鍵:": "有",
+        "淨重量:": "49g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Pulsar Gaming Gear Xlite Wireless V2 Mini 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "699",
+        "DPI/CPI:": "20000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, Linux",
+        "淨重量:": "55",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Havit RGB Backlit Gaming Mouse 電競滑鼠 MS1017",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "DPI/CPI:": "800/1600/2400/3200/4800/6400",
+        "按鍵數:": "7",
+        "RGB:": "有"
+    },
+    {
+        "names": "Steelseries Rival 110 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "259",
+        "DPI/CPI:": "7200",
+        "RGB:": "有",
+        "淨重量:": "87.5g"
+    },
+    {
+        "names": "HP Pavilion 300 電競滑鼠 4PH30AA",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "DPI/CPI:": "5000",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Meetion Professional Gaming Mouse Hades 可編程專業電競滑鼠 MT-G3325",
+        "rating": "10",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "DPI/CPI:": "5000",
+        "巨集鍵:": "有",
+        "適用系統:": "Win XP / Vista / 7 / 8 / 10 MAC OS",
+        "淨重量:": "160±5g",
+        "左右手通用:": "右手用"
+    },
+    {
+        "names": "Havit RGB Backlit Progamming Gaming Mouse 電競滑鼠 MS814",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "DPI/CPI:": "1000-2000-3000-4000-6000-7000",
+        "無線/有線:": "有線",
+        "按鍵數:": "7"
+    },
+    {
+        "names": "Logitech G G502 Proteus Spectrum RGB 可調校遊戲滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "368",
+        "hon_price_max": "459",
+        "water_price_min": "339",
+        "water_price_max": "450",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "168g"
+    },
+    {
+        "names": "Tt eSPORTS Iris RGB 電競光學滑鼠",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "270",
+        "DPI/CPI:": "5000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Zowie 電競滑鼠 S2",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "DPI/CPI:": "400/800/1600/3200",
+        "按鍵數:": "5",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Cherry MC 9620 FPS RGB 遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "377",
+        "hon_price_max": "499",
+        "DPI/CPI:": "12000 DPI",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7, 10",
+        "淨重量:": "145g",
+        "法碼:": "3 x 5g"
+    },
+    {
+        "names": "Fantech X17 Blake 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "218",
+        "DPI/CPI:": "10,000",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Xtrfy M42 RGB Wireless Mouse 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "DPI/CPI:": "400-19000",
+        "RGB:": "有",
+        "適用系統:": "Win XP/Mac OSX 10.1 or later",
+        "淨重量:": "67g"
+    },
+    {
+        "names": "Zowie EC系列白色光面特別版遊戲滑鼠 EC1 White",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "DPI/CPI:": "400/800/1600/3200",
+        "RGB:": "沒有",
+        "巨集鍵:": "有",
+        "適用系統:": "USB 2.0 / 3.0 隨插即用",
+        "淨重量:": "97g"
+    },
+    {
+        "names": "Logitech G G302 Daedalus Prime Moba 遊戲滑鼠",
+        "rating": "2.0",
+        "hon_price_min": "193",
+        "hon_price_max": "299",
+        "water_price_min": "165",
+        "water_price_max": "245",
+        "DPI/CPI:": "4000",
+        "適用系統:": "Windows 8.1 / 8 / 7 / Vista",
+        "淨重量:": "127g"
+    },
+    {
+        "names": "Fantech X11 DareDevil 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "248",
+        "DPI/CPI:": "8000",
+        "按鍵數:": "8",
+        "RGB:": "有"
+    },
+    {
+        "names": "HP Gaming Mouse 電競滑鼠 M100s",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "Razer Abyssus V2 有線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "369",
+        "DPI/CPI:": "5000",
+        "按鍵數:": "4",
+        "適用系統:": "Windows 10 / 8 /  7 / Mac OS X 10.8 - 10.11",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Havit LED Optical Programmable Gaming Mouse 電競滑鼠 MS749",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "800-1200-2000-3200DPI",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Xtrfy RGB 輕量級遊戲光學滑鼠 M4",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "449",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "DPI/CPI:": "400/800/1200/1600/3200/4000/7200/16000",
+        "RGB:": "有",
+        "適用系統:": "Win XP/Mac OSX 10.1 or later",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "Cooler Master MasterMouse 電競滑鼠 CM310",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "295",
+        "DPI/CPI:": "500, 1000, 2000, 3000, 4000, 5000, 10000",
+        "RGB:": "有",
+        "淨重量:": "135g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "EagleTec USB Wired Gaming Mouse 有線電競滑鼠 MG030",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "DPI/CPI:": "2400",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Zowie FK White系列電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "DPI/CPI:": "400/800/1600/3200",
+        "RGB:": "沒有",
+        "巨集鍵:": "沒有",
+        "適用系統:": "Windows, Mac",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Havit RGB Backlit Programmable Gaming Mouse 電競滑鼠 (Pink) MS1026",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "105",
+        "DPI/CPI:": "4800",
+        "按鍵數:": "7",
+        "RGB:": "有"
+    },
+    {
+        "names": "Lenovo Legion M500 RGB 遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "569",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Steelseries Prime Wireless 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "DPI/CPI:": "100-18000",
+        "RGB:": "有",
+        "適用系統:": "Windows、Mac、Xbox 與 Linux。需 USB 連接埠。",
+        "淨重量:": "80g"
+    },
+    {
+        "names": "Cougar 700M Superior 雷射電競滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows",
+        "淨重量:": "110g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Dragon War Caster RGB 光效自動壓槍功能電競滑鼠 G21",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "169",
+        "DPI/CPI:": "7000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10/ Windows 8/ Windows 7/ Window Vista/ Window XP"
+    },
+    {
+        "names": "ASUS ROG Chakram Core RGB 有線光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "599",
+        "DPI/CPI:": "100-16000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "111g"
+    },
+    {
+        "names": "Steelseries Rival 600 電競滑鼠",
+        "rating": "5.0",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux",
+        "淨重量:": "96",
+        "法碼:": "有",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS Cerberus Mouse 對稱設計光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "195",
+        "DPI/CPI:": "2500",
+        "按鍵數:": "6",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "GALAX Gaming Mouse 電競滑鼠 SLD-01",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "DPI/CPI:": "7200",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "316g"
+    },
+    {
+        "names": "Zowie FK系列對稱型右手專用遊戲滑鼠 FK1-B",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Steelseries Rival 3 Wireless 無線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "599",
+        "DPI/CPI:": "18000",
+        "按鍵數:": "6",
+        "適用系統:": "Windows、Mac、Xbox 與 Linux。需 USB 連接埠。",
+        "淨重量:": "106g (two batteries), 96g (one battery)"
+    },
+    {
+        "names": "Redragon RGB Gaming Mouse 電競滑鼠 M601-RGB",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "DPI/CPI:": "7200",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "法碼:": "8 x 2.4g"
+    },
+    {
+        "names": "Steelseries Prime Pro Series Gaming Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "599",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "巨集鍵:": "沒有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "Zowie 電競滑鼠 ZA11",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "490",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "適用系統:": "Win2000/XP/VISTA/7/8; Mac OS X v10.2 after"
+    },
+    {
+        "names": "Tt eSPORTS Level 10 M Advanced 進階版雷射引擎電競滑鼠",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "660",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "Tt eSPORTS 塔龍 Talon X 滑鼠與滑鼠墊組合包",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "240",
+        "DPI/CPI:": "3050",
+        "按鍵數:": "6",
+        "RGB:": "有"
+    },
+    {
+        "names": "T-WOLF RGB Macro Programming Gaming Mouse 有線電競滑鼠 V9",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "DPI/CPI:": "500-3200",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "146-170G"
+    },
+    {
+        "names": "Fantech Leblanc WG8 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "DPI/CPI:": "2000",
+        "無線/有線:": "無線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "Steelseries Rival 105 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "299",
+        "感應器類型:": "光學",
+        "RGB:": "有"
+    },
+    {
+        "names": "Razer Naga Trinity MOBA / MMO 有線遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "640",
+        "hon_price_max": "799",
+        "water_price_min": "550",
+        "water_price_max": "799",
+        "DPI/CPI:": "16000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac",
+        "淨重量:": "120g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Havit RGB Backlit Gaming Mouse 電競滑鼠 MS1006",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "感應器類型:": "光學",
+        "RGB:": "有"
+    },
+    {
+        "names": "ROCCAT Lua 電競遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "99",
+        "DPI/CPI:": "2000",
+        "適用系統:": "Windows 10 / 8 / 7 / Vista / XP",
+        "淨重量:": "68g",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "ASUS Strix Impact II Moonlight White 月光版RGB遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "297",
+        "hon_price_max": "399",
+        "DPI/CPI:": "6200",
+        "無線/有線:": "有線",
+        "淨重量:": "79"
+    },
+    {
+        "names": "Tt eSPORTS 夜襲 Ventus 左右手通用蜂巢式雷射引擎電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "5700",
+        "按鍵數:": "7",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Ninjutso Sora Wireless Gaming Mouse 超輕量無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "DPI/CPI:": "50-26000",
+        "按鍵數:": "5",
+        "適用系統:": "Windows 7 或更高版本",
+        "淨重量:": "45g"
+    },
+    {
+        "names": "Razer Mamba + Firefly Hyperflux Wireless Power 滑鼠 + 滑鼠墊組合包",
+        "rating": "",
+        "hon_price_min": "1,659",
+        "hon_price_max": "1,830",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10, Windows 8, Windows 7",
+        "淨重量:": "96g"
+    },
+    {
+        "names": "Vertux Phoenix 極致性能專業 LumiFlux 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "DPI/CPI:": "800/1600/2400/3200/4000/6000/12000dpi",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Redragon Griffin 7200 DPI RGB Gaming Mouse M607",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "198",
+        "DPI/CPI:": "7200",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10, Windows 8, Windows 7, Windows Vista, or Windows XP, Limited Mac OS support"
+    },
+    {
+        "names": "Ducky Feather RGB 輕量化遊戲滑鼠 DMFE20O",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "399",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "淨重量:": "65g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "GTR Gaming 1 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "215",
+        "感應器類型:": "光學",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Vertux Dominator 有線光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "DPI/CPI:": "1000/1600/2400/3200",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "HP Gaming Mouse 有線電競光學滑鼠 G200",
+        "rating": "",
+        "hon_price_min": "123",
+        "hon_price_max": "215",
+        "DPI/CPI:": "500 / 1000 / 1500 / 2000 / 3000 / 4000",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "ASUS ROG Strix Evolve 人體工學有線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "450",
+        "DPI/CPI:": "7200",
+        "適用系統:": "Windows 10 / 8.1 / 7",
+        "模組化:": "全模組",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Fantech X5s Zues RGB 燈效金屬滾輪專業電競遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "DPI/CPI:": "4800",
+        "按鍵數:": "7",
+        "RGB:": "有",
+        "淨重量:": "30G"
+    },
+    {
+        "names": "Tecware Pulse Elite 無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "499",
+        "DPI/CPI:": "19000",
+        "按鍵數:": "5",
+        "RGB:": "有",
+        "淨重量:": "70g"
+    },
+    {
+        "names": "Fantech Crypto VX7 電競滑鼠 (日本櫻花限定版)",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "158",
+        "感應器類型:": "光學",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Cougar Minos X5 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows",
+        "淨重量:": "88G",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Corsair Harpoon RGB Wireless 無線電競滑鼠",
+        "rating": "6.0",
+        "hon_price_min": "350",
+        "hon_price_max": "499",
+        "DPI/CPI:": "10000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "99",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS TUF Gaming M4 Air 輕量電競滑鼠",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "499",
+        "DPI/CPI:": "800/1600/2400/3200",
+        "RGB:": "沒有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "47g"
+    },
+    {
+        "names": "Gamdias Zeus M2 RGB 電競滑鼠",
+        "rating": "",
+        "DPI/CPI:": "1200-10800",
+        "按鍵數:": "8",
+        "RGB:": "有",
+        "淨重量:": "約140g"
+    },
+    {
+        "names": "Nacon Gaming Mouse 有線電競滑鼠 GM-105",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "189",
+        "DPI/CPI:": "2400",
+        "按鍵數:": "6",
+        "適用系統:": "Windows XP/Vista /7/8/10",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "T-WOLF RGB Gaming Mouse 有線電競滑鼠 V11 8D",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "DPI/CPI:": "6400",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Havit USB Optical Mouse 電競滑鼠 MS675",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "感應器類型:": "光學",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Marvo RGB Gaming Mouse 電競滑鼠 G960",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Endgame Gear 電競遊戲滑鼠 XM1",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "530",
+        "DPI/CPI:": "50-16000",
+        "無線/有線:": "有線",
+        "按鍵數:": "5"
+    },
+    {
+        "names": "Ninjutso Katana Ultralight Esports Gaming Mouse 超輕量遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "DPI/CPI:": "16000",
+        "適用系統:": "Windows、Mac 與 Linux",
+        "淨重量:": "58g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Fantech Thor X9 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "168",
+        "感應器類型:": "光學",
+        "按鍵數:": "7",
+        "RGB:": "有"
+    },
+    {
+        "names": "Tt eSPORTS Iris RGB 電競光學滑鼠 - 初音限定版",
+        "rating": "2.0",
+        "hon_price_min": "390",
+        "hon_price_max": "399",
+        "DPI/CPI:": "5000",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Glorious Model O 電競滑鼠 (Pink Edition)",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "499",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux. USB port required"
+    },
+    {
+        "names": "Gamdias Zues E3 Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "3600",
+        "按鍵數:": "7",
+        "淨重量:": "107g"
+    },
+    {
+        "names": "Havit RGB Gaming Mouse 電競滑鼠 MS1018",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "DPI/CPI:": "1000-1600-2400-3200",
+        "按鍵數:": "6",
+        "RGB:": "有"
+    },
+    {
+        "names": "HP Gaming Mouse 電競滑鼠 M220",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "139",
+        "感應器類型:": "光學",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Corsair Harpoon 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "280",
+        "DPI/CPI:": "6000",
+        "按鍵數:": "6",
+        "淨重量:": "85g"
+    },
+    {
+        "names": "Corsair Dark Core RGB Pro Wireless Gaming Mouse (AP) 無線電競滑鼠 CH-9315411-AP",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "670",
+        "DPI/CPI:": "18000",
+        "無線/有線:": "無線+有線",
+        "淨重量:": "133g"
+    },
+    {
+        "names": "Razer Viper 光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "628",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "69g",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Tt eSPORTS 黑者 Black V2 雷射引擎電競滑鼠",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "288",
+        "DPI/CPI:": "5700",
+        "按鍵數:": "7",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Xtrfy Gaming Mouse 電競滑鼠 M1",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "DPI/CPI:": "400/800/1600/3200/4000",
+        "按鍵數:": "5",
+        "適用系統:": "Win XP或更高版本，Mac OSX 10.1或更高版本",
+        "淨重量:": "95克（不含電纜）"
+    },
+    {
+        "names": "HyperX Pulsefire Core RGB 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "299",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "DPI/CPI:": "6200",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 或更新版本",
+        "淨重量:": "123",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Havit 4NI1 Gaming Combo 電競套裝 KB501CM",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "DPI/CPI:": "800-1200-1600-2400",
+        "無線/有線:": "有線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "ThunderX3 有線電競滑鼠 AM7",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "470",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows",
+        "淨重量:": "118g",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Zowie 電競滑鼠 EC-2A (2016)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "5"
+    },
+    {
+        "names": "Cooler Master 輕量無線遊戲滑鼠 MM712",
+        "rating": "10",
+        "hon_price_min": "445",
+        "hon_price_max": "445",
+        "DPI/CPI:": "400, 800, 1200(default), 1600, 3200, 8000, 19000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 8+ / MacOS / Android / iOS",
+        "淨重量:": "58"
+    },
+    {
+        "names": "Zowie Divina 電競滑鼠 FK1+-B",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "579",
+        "DPI/CPI:": "3200",
+        "按鍵數:": "5",
+        "RGB:": "沒有"
+    },
+    {
+        "names": "Steelseries Aerox 3 超輕量遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "599",
+        "DPI/CPI:": "200-8500",
+        "RGB:": "有",
+        "適用系統:": "Windows, Mac, Xbox, and Linux. USB port required.",
+        "淨重量:": "59g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Steelseries Sensei Raw 電競滑鼠 (停產)",
+        "rating": "",
+        "hon_price_min": "409",
+        "hon_price_max": "409",
+        "DPI/CPI:": "5670",
+        "按鍵數:": "8",
+        "淨重量:": "90g"
+    },
+    {
+        "names": "Pulsar X2 無線遊戲滑鼠 (Bruce Lee Edition)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "DPI/CPI:": "26000",
+        "適用系統:": "Windows, Mac, Linux",
+        "淨重量:": "56g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Fantech X15 Phantom 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "148",
+        "DPI/CPI:": "4800",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "Corsair M65 RGB 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "580",
+        "DPI/CPI:": "8200",
+        "按鍵數:": "8",
+        "淨重量:": "135.5g"
+    },
+    {
+        "names": "ROCCAT Burst Pro 超輕量化光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "469",
+        "DPI/CPI:": "16000",
+        "適用系統:": "Windows 10, Windows 7, Windows 8",
+        "淨重量:": "68g"
+    },
+    {
+        "names": "Zowie ZA系列高背電競滑鼠 ZA13-C",
+        "rating": "",
+        "hon_price_min": "579",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "淨重量:": "65g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ASUS ROG Strix Impact 輕量有線電競滑鼠",
+        "rating": "7.0",
+        "hon_price_min": "186",
+        "hon_price_max": "280",
+        "DPI/CPI:": "5000",
+        "適用系統:": "Windows 10 / 8.1 / 7",
+        "淨重量:": "112",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Corsair Scimitar RGB Optical MOBA/MMO Gaming Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "DPI/CPI:": "12000",
+        "按鍵數:": "17",
+        "淨重量:": "147g"
+    },
+    {
+        "names": "Dream Machine Gaming Mouse 電競滑鼠 DM1 S2",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "DPI/CPI:": "12000",
+        "按鍵數:": "7",
+        "巨集鍵:": "有",
+        "淨重量:": "85"
+    },
+    {
+        "names": "AULA USB Wired Gaming Mouse 電競滑鼠 F805",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "198",
+        "DPI/CPI:": "5000",
+        "按鍵數:": "7",
+        "RGB:": "有"
+    },
+    {
+        "names": "Fantech Z2 Batrider 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Philips G200 系列有線游戲滑鼠 SPK9201",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "3500",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "149g"
+    },
+    {
+        "names": "Philips G413 有線遊戲滑鼠 SPK9413",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "water_price_min": "168",
+        "water_price_max": "168",
+        "DPI/CPI:": "1000-1500-2500-3000-4000-5500",
+        "RGB:": "有",
+        "適用系統:": "Microsoft Windows XP、Windows Vista、Windows 7、Windows 8、Windows 10 或以上、Linux、Mac OS",
+        "淨重量:": "130±5"
+    },
+    {
+        "names": "Meetion Professional Macro Gaming Mouse Poseidon 有線電競滑鼠 MT-G3360",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Win XP / Vista / 7 / 8 / 10 / MAC OS",
+        "淨重量:": "160±5g"
+    },
+    {
+        "names": "Corsair Dark Core RGB Pro Wireless Gaming Mouse 無線電競滑鼠 CH-9315411-NA",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "670",
+        "DPI/CPI:": "18000",
+        "按鍵數:": "8",
+        "RGB:": "有",
+        "淨重量:": "133g"
+    },
+    {
+        "names": "Cougar 雷射電競滑鼠 600M",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "449",
+        "DPI/CPI:": "8200",
+        "按鍵數:": "8",
+        "淨重量:": "85g"
+    },
+    {
+        "names": "Redragon Perdition LED RGB Wired Gaming Mouse 電競滑鼠 M901",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "229",
+        "DPI/CPI:": "16400",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "PC with USB port Windows 8, Windows 7, Windows 10, Windows Vista and Windows XP",
+        "淨重量:": "150g"
+    },
+    {
+        "names": "Zowie EC系列遊戲滑鼠 EC1-C",
+        "rating": "",
+        "hon_price_min": "579",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "淨重量:": "80g"
+    },
+    {
+        "names": "Zowie ZA White系列電競滑鼠",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "RGB:": "沒有",
+        "巨集鍵:": "沒有",
+        "適用系統:": "Windows, Mac",
+        "左右手通用:": "左右手"
+    },
+    {
+        "names": "Havit Optical Gaming Mouse 電競滑鼠 MS1005",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "800-1200-2400-3200",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Tt eSPORTS 閃獵 Theron 雷射引擎電競滑鼠",
+        "rating": "9.3",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "DPI/CPI:": "5600",
+        "按鍵數:": "8",
+        "RGB:": "有"
+    },
+    {
+        "names": "Sades Musket Gaming Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "DPI/CPI:": "250-4000",
+        "無線/有線:": "有線",
+        "淨重量:": "142g"
+    },
+    {
+        "names": "Xtrfy 無線極輕型遊戲滑鼠 M4 RGB Wireless",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "DPI/CPI:": "400-19000",
+        "巨集鍵:": "有",
+        "適用系統:": "Win XP/Mac OSX 10.1 or later",
+        "淨重量:": "71g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "ROCCAT Kova Aimo Ambidextrous RGB 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "349",
+        "DPI/CPI:": "7000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 8, Windows 7, Windows 10",
+        "淨重量:": "99g",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Havit RGB Gaming Hole Mouse 電競滑鼠 MS885",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "感應器類型:": "光學",
+        "RGB:": "有"
+    },
+    {
+        "names": "Fantech UX1 Hero RGB 終極戰士專業電競遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "338",
+        "DPI/CPI:": "50-16000",
+        "RGB:": "有",
+        "淨重量:": "143g"
+    },
+    {
+        "names": "Redragon Centrophorus 電競滑鼠 M601",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "AULA USB Wired Gaming Mouse 電競滑鼠 H512",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "289",
+        "DPI/CPI:": "6200",
+        "按鍵數:": "14",
+        "RGB:": "有"
+    },
+    {
+        "names": "AULA USB Wired Gaming Mouse 弑魂II 經典遊戲滑鼠 S12",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "DPI/CPI:": "200-4800",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Dragon War Chaos 可編程光學電競滑鼠 G7",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "248",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "7"
+    },
+    {
+        "names": "Motospeed Programmable RGB Backlight Gaming Mouse 專業電競遊戲滑鼠 V70",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "DPI/CPI:": "12000",
+        "按鍵數:": "7",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Dragon War S.W.A.P Ambidextrous 左右手適用靜音電競滑鼠 G18",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "DPI/CPI:": "3400",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10/ Windows 8/ Windows 7/ Window Vista/ Window XP",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "Nordic Exo Zero Ultralight RGB Gaming Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "379",
+        "hon_price_max": "379",
+        "DPI/CPI:": "6200",
+        "RGB:": "有",
+        "淨重量:": "66g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Dragon War Lancer RGB 重量可調電競滑鼠 G22",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "199",
+        "DPI/CPI:": "7000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10/ Windows 8/ Windows 7/ Window Vista/ Window XP",
+        "法碼:": "有"
+    },
+    {
+        "names": "Corsair Katar PRO Wireless Gaming Mouse 無線電競滑鼠 CH-931C011-NA",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "430",
+        "DPI/CPI:": "10000",
+        "RGB:": "有",
+        "淨重量:": "96g"
+    },
+    {
+        "names": "Vertux Indium 有線光學電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "DPI/CPI:": "1200-1600-2400-3200",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Piranha Ultralight RGB Gaming Mouse 超輕型電競滑鼠 M500",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "DPI/CPI:": "5000",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "T-WOLF Rechargeable Wireless Mouse 無線電競滑鼠 Q13",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "感應器類型:": "光學",
+        "RGB:": "有"
+    },
+    {
+        "names": "Cherry MC3.1 RGB 遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "380",
+        "DPI/CPI:": "400-3200",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Apple iOS",
+        "淨重量:": "117g"
+    },
+    {
+        "names": "Meetion Lightweight Honeycomb Gaming Mouse 蜂窩狀中空電競滑鼠 MT-GM015",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "DPI/CPI:": "6400",
+        "RGB:": "有",
+        "適用系統:": "Win XP / Vista / 7 / 8 / 10 / MAC OS",
+        "淨重量:": "122±5g"
+    },
+    {
+        "names": "Dragon War Zodiac12 比賽專用電競滑鼠 G13",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "398",
+        "DPI/CPI:": "800/3200/6400/10000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10/8/7/Vista/XP",
+        "法碼:": "有"
+    },
+    {
+        "names": "iRocks 艾芮克 光學電競滑鼠 M39 Pro",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "420",
+        "DPI/CPI:": "100-16000",
+        "RGB:": "有",
+        "適用系統:": "Windows 7, Windows 8.1, Windows 10",
+        "淨重量:": "約102g (不含纜線)",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Razer Mamba 2015 有線遊戲滑鼠 - Tournament Edition",
+        "rating": "9.6",
+        "hon_price_min": "599",
+        "hon_price_max": "750",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "適用系統:": "Windows 10 / 8 / 7 / Mac OS X 10.8 - 10.11",
+        "淨重量:": "133g"
+    },
+    {
+        "names": "Meetion Entry Level PC Backlit Gamer Mouse 光學背光電競滑鼠 MT-M915",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "DPI/CPI:": "2400",
+        "適用系統:": "Windows XP/Vista/7/8/10",
+        "淨重量:": "140g",
+        "左右手通用:": "左右手用"
+    },
+    {
+        "names": "AULA USB Wired Gaming Mouse 電競滑鼠 F809",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "DPI/CPI:": "1200-3200",
+        "按鍵數:": "7",
+        "RGB:": "有"
+    },
+    {
+        "names": "Corsair Harpoon RGB Pro FPS/MOBA Gaming Mouse 電競滑鼠 CH-9301111-AP",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "299",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "淨重量:": "85g"
+    },
+    {
+        "names": "Zowie 電競滑鼠 ZA12",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "HP 有線電競滑鼠 G160",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "129",
+        "感應器類型:": "光學",
+        "淨重量:": "144g"
+    },
+    {
+        "names": "Zowie 電競滑鼠 FK1 (2016)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "490",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "5"
+    },
+    {
+        "names": "Razer DeathAdder Elite 有線遊戲滑鼠",
+        "rating": "6.8",
+        "hon_price_min": "378",
+        "hon_price_max": "569",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "7",
+        "RGB:": "有",
+        "淨重量:": "105g"
+    },
+    {
+        "names": "Gamdias Zeus E2 電競滑鼠",
+        "rating": "",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Tecware EXO+ Plus Competition Grade Gaming Mouse 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "349",
+        "DPI/CPI:": "10000",
+        "RGB:": "有",
+        "淨重量:": "69g"
+    },
+    {
+        "names": "AULA USB Wired Gaming Mouse 電競滑鼠 G502",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "3500",
+        "無線/有線:": "有線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "Havit Wireless Mouse 無線電競滑鼠 MS980GT",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "DPI/CPI:": "1000",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "iMICE Programmable Gaming Mouse 電競滑鼠 V9",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "DPI/CPI:": "4000",
+        "按鍵數:": "7",
+        "淨重量:": "165g"
+    },
+    {
+        "names": "T-WOLF Macro Definition Gaming Mouse 有線電競滑鼠 V10",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "800-6400",
+        "按鍵數:": "7",
+        "淨重量:": "135g"
+    },
+    {
+        "names": "T-DAGGER Aircraftman Wireless Gaming Mouse 無線電競滑鼠 T-TGWM101",
+        "rating": "6.0",
+        "hon_price_min": "99",
+        "hon_price_max": "129",
+        "DPI/CPI:": "800-2400",
+        "按鍵數:": "6",
+        "巨集鍵:": "沒有"
+    },
+    {
+        "names": "MSI Interceptor DS B1 有線電競滑鼠",
+        "rating": "10",
+        "hon_price_min": "130",
+        "hon_price_max": "138",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "DPI/CPI:": "1600",
+        "按鍵數:": "6",
+        "淨重量:": "108g",
+        "法碼:": "有"
+    },
+    {
+        "names": "Steelseries Rival 710 光學滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "775",
+        "DPI/CPI:": "100-12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "135g"
+    },
+    {
+        "names": "T-DAGGER Private Gaming Mouse 有線電競滑鼠 T-TGM106",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "178",
+        "DPI/CPI:": "1000-3200",
+        "按鍵數:": "6",
+        "RGB:": "有",
+        "巨集鍵:": "沒有"
+    },
+    {
+        "names": "Meetion USB Wired Backlit Mouse 有線電競滑鼠 MT-M371",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "DPI/CPI:": "1600",
+        "適用系統:": "Windows XP / Vista / 7 / 8 / 10",
+        "淨重量:": "130±5g",
+        "左右手通用:": "左右手通用"
+    },
+    {
+        "names": "Cooler Master 電競滑鼠 MM720",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "385",
+        "DPI/CPI:": "400, 800, 1200 (default), 1600, 3200, 6400, 16000",
+        "按鍵數:": "6",
+        "RGB:": "有",
+        "淨重量:": "49g"
+    },
+    {
+        "names": "PC HOME 有線電競滑鼠 (靜音版) WE-518",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Redragon Sniper Pro 有線+無線充電式 電競滑鼠 M801P RGB",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "DPI/CPI:": "16400",
+        "按鍵數:": "9",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Zowie ZA系列電競滑鼠 ZA11-C",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "579",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200",
+        "按鍵數:": "5",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "T-DAGGER Detective Gaming Mouse 有線電競滑鼠 T-TGM109",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "DPI/CPI:": "1000-3200",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Steelseries Rival 650 無線光學滑鼠",
+        "rating": "9.0",
+        "hon_price_min": "499",
+        "hon_price_max": "1,099",
+        "DPI/CPI:": "100-12000",
+        "巨集鍵:": "有",
+        "淨重量:": "121g",
+        "法碼:": "有",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Philips G314 RGB 有線遊戲滑鼠 SPK9314",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75",
+        "water_price_min": "60",
+        "water_price_max": "60",
+        "DPI/CPI:": "1200",
+        "適用系統:": "Microsoft Windows XP、Windows Vista、Windows 7、Windows 8、Windows 11 或更新版本、Linux、Mac OS",
+        "淨重量:": "110g"
+    },
+    {
+        "names": "Dragon War Warlord 專業級電競滑鼠 G5",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "368",
+        "DPI/CPI:": "800/ 1600/ 2400/ 4000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10/ Windows 8/ Windows 7/ Window Vista/ Window XP"
+    },
+    {
+        "names": "Epicgear ZorA 魔拉 IR LED 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "DPI/CPI:": "3500",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "MSI Interceptor DS200 有線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "DPI/CPI:": "16400",
+        "RGB:": "有",
+        "適用系統:": "Win8 /7 / Vista / XP",
+        "法碼:": "有"
+    },
+    {
+        "names": "ROCCAT Kone XTD 光學電競滑鼠",
+        "rating": "9.3",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "DPI/CPI:": "8200",
+        "RGB:": "有",
+        "適用系統:": "Windows 10 /8 / 7 / Vista / XP"
+    },
+    {
+        "names": "ROCCAT Nyth 電競遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "DPI/CPI:": "12000",
+        "適用系統:": "Windows 10 / 8 / 7",
+        "淨重量:": "120g",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master Mizar 電競滑鼠",
+        "rating": "7.0",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "DPI/CPI:": "8200",
+        "RGB:": "有",
+        "淨重量:": "100g"
+    },
+    {
+        "names": "Steelseries Rival 95 Mouse & Qck Mini Mat Bundle 滑鼠 + 滑鼠墊組合包 (66012)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "DPI/CPI:": "4000",
+        "按鍵數:": "6",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows、Mac、Xbox 與 Linux"
+    },
+    {
+        "names": "Zowie 電競滑鼠 ZA12 (2016)",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "490",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "5"
+    },
+    {
+        "names": "Zowie EC1-B Divina 電競滑鼠 (L)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "DPI/CPI:": "3200",
+        "淨重量:": "97g"
+    },
+    {
+        "names": "ROCCAT Kone Aimo Remastered 重製版電競滑鼠",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "590",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10",
+        "淨重量:": "130g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Sharkoon DarkGlider 夜行者電競滑鼠",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "DPI/CPI:": "6000",
+        "按鍵數:": "10",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 7 / 8"
+    },
+    {
+        "names": "T-DAGGER Recruit 2 Gaming Mouse 有線電競滑鼠 T-TGM108",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "109",
+        "DPI/CPI:": "1000-3200",
+        "RGB:": "有",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Mad Catz R.A.T. 6+ 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "799",
+        "DPI/CPI:": "12000",
+        "無線/有線:": "有線",
+        "淨重量:": "120g"
+    },
+    {
+        "names": "黑鯊 Black Shark 無線雙模RGB遊戲滑鼠 BS-M1",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "299",
+        "DPI/CPI:": "10000",
+        "按鍵數:": "6",
+        "RGB:": "有",
+        "左右手通用:": "左手"
+    },
+    {
+        "names": "ADATA XPG Primer Gaming Mouse 有線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "98g ± 5%"
+    },
+    {
+        "names": "Cooler Master 無線電競滑鼠 MM311",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "335",
+        "DPI/CPI:": "400, 800, 1200(Default), 1600, 3200, 6400, 10000",
+        "RGB:": "沒有",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 8+, macOS",
+        "淨重量:": "54g"
+    },
+    {
+        "names": "Cooler Master MasterMouse 電競滑鼠 MM520",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "DPI/CPI:": "12000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "135g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Xtrfy Zy's Rail RGB 超輕量遊戲滑鼠 MZ1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "DPI/CPI:": "400-16000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "淨重量:": "56g"
+    },
+    {
+        "names": "CLiPtec Stenaco USB RGB 4000dpi Pro-Gaming Mouse 電競滑鼠 RGS623",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "DPI/CPI:": "4000",
+        "RGB:": "有",
+        "適用系統:": "Win98, 98SE, ME, 2000, XP, Vista, Win7, Win8 and Win10",
+        "淨重量:": "157g"
+    },
+    {
+        "names": "Mionix Avior 8200 雷射電竸滑鼠",
+        "rating": "6.0",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "DPI/CPI:": "8200",
+        "無線/有線:": "有線",
+        "RGB:": "有"
+    },
+    {
+        "names": "FD 富德 Silent Wireless Gaming Mouse 電競滑鼠 720",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "DPI/CPI:": "2400",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Redragon MIRAGE Wireless Programmable Gaming Mouse M690",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "DPI/CPI:": "4800",
+        "按鍵數:": "8",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10, Windows 8, Windows 7, Windows Vista, or Windows XP, Limited Mac OS support"
+    },
+    {
+        "names": "AULA Wired Gaming Mouse 鬼鮫二代電競滑鼠 S18",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "DPI/CPI:": "4000",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Meetion RGB Programmable Gaming Mouse 可編程有線電競滑鼠 MT-M990S",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "DPI/CPI:": "4000",
+        "巨集鍵:": "有",
+        "適用系統:": "Win XP / Vista / 7 / 8 / 10 / MAC OS",
+        "淨重量:": "160g",
+        "左右手通用:": "右手用"
+    },
+    {
+        "names": "Gamdias Zeus P1 RGB Optical 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows 10/7",
+        "淨重量:": "125"
+    },
+    {
+        "names": "AULA Wired Gaming Mouse 狼蛛鬼鮫電競滑鼠 989",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "DPI/CPI:": "2500",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "AULA Wired Gaming Mouse 狼蛛弒魂電競滑鼠 928",
+        "rating": "10",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "DPI/CPI:": "3500",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "MSI Clutch GM30 高性能舒適電競滑鼠",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "399",
+        "DPI/CPI:": "400 / 800 / 1600 / 3200 / 6200",
+        "RGB:": "有",
+        "適用系統:": "Windows 10 / 8.1 / 8 / 7",
+        "淨重量:": "98g (without cable) / 280g"
+    },
+    {
+        "names": "HP 電競滑鼠 G260",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "110",
+        "DPI/CPI:": "5500",
+        "無線/有線:": "有線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "HyperX Pulsefire Haste RGB 超輕量遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "DPI/CPI:": "16000",
+        "RGB:": "有",
+        "淨重量:": "80g",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "Razer Naga 2014 有線遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "DPI/CPI:": "8200",
+        "按鍵數:": "19",
+        "適用系統:": "Windows 10 / 8 / 7 / Mac OS X (v10.8 - 10.11)",
+        "淨重量:": "135g"
+    },
+    {
+        "names": "AULA Wired Gaming Mouse 狼蛛滅神電競滑鼠 980",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "DPI/CPI:": "2000",
+        "無線/有線:": "有線",
+        "按鍵數:": "7"
+    },
+    {
+        "names": "Razer Imperator 人體工學遊戲滑鼠",
+        "rating": "10",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "DPI/CPI:": "6400",
+        "適用系統:": "Windows 8/ 7 / Mac OS X (v10.8-10.11)",
+        "法碼:": "有"
+    },
+    {
+        "names": "Corsair Glaive RGB 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "599",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "6",
+        "淨重量:": "122g"
+    },
+    {
+        "names": "iMICE Programmable Gaming Mouse 電競滑鼠 V5",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "7"
+    },
+    {
+        "names": "Mad Catz R.A.T. 4 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "DPI/CPI:": "5000",
+        "RGB:": "有",
+        "巨集鍵:": "有",
+        "適用系統:": "Win 7/8/10",
+        "淨重量:": "90g"
+    },
+    {
+        "names": "ROCCAT Kone Pure Optical 光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "DPI/CPI:": "4000",
+        "無線/有線:": "有線",
+        "按鍵數:": "7"
+    },
+    {
+        "names": "Vertux Glider 高性能人體工學無線電競滑鼠",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "DPI/CPI:": "1000/1200/1600",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Razer Krait 金環蛇遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "345",
+        "hon_price_max": "345",
+        "DPI/CPI:": "6400",
+        "淨重量:": "85g",
+        "左右手通用:": "是"
+    },
+    {
+        "names": "Ajazz 黑爵 無線有線雙模遊戲滑鼠 AJ302 Pro",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470"
+    },
+    {
+        "names": "Steelseries Rival 310 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "459",
+        "DPI/CPI:": "12000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows, Mac, and Linux",
+        "淨重量:": "88.3g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Zowie 電競滑鼠 ZA11 (2016)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "490",
+        "DPI/CPI:": "3200",
+        "無線/有線:": "有線",
+        "按鍵數:": "5"
+    },
+    {
+        "names": "Razer Mamba Wireless 光學遊戲滑鼠",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "799",
+        "DPI/CPI:": "16000",
+        "巨集鍵:": "有",
+        "淨重量:": "106g",
+        "左右手通用:": "右手專用人體工學設計"
+    },
+    {
+        "names": "Cooler Master MasterMouse 電競滑鼠 MM531",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "319",
+        "DPI/CPI:": "4 Levels (100~12000dpi)",
+        "RGB:": "有",
+        "淨重量:": "92",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Logitech G 傳奇遊戲滑鼠 MX518",
+        "rating": "",
+        "hon_price_min": "266",
+        "hon_price_max": "266",
+        "water_price_min": "268",
+        "water_price_max": "348",
+        "DPI/CPI:": "16000",
+        "適用系統:": "WINDOWS 7 OR LATER  , MAC OS 10.11OR LATER",
+        "淨重量:": "101g"
+    },
+    {
+        "names": "POLAR 有線電競滑鼠 PGM-807",
+        "rating": "7.0",
+        "DPI/CPI:": "2400",
+        "適用系統:": "Window 8 / 7 / Vista / XP / and Mac"
+    },
+    {
+        "names": "HyperX Pulsefire FPS Pro RGB 電競滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "239",
+        "hon_price_max": "399",
+        "DPI/CPI:": "16000",
+        "巨集鍵:": "有",
+        "適用系統:": "Windows",
+        "淨重量:": "130g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "Zowie ZA系列電競滑鼠 ZA13-B",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "579",
+        "DPI/CPI:": "3200",
+        "RGB:": "沒有",
+        "淨重量:": "75g",
+        "左右手通用:": "右手"
+    },
+    {
+        "names": "MSI Interceptor DS300 電競滑鼠",
+        "rating": "",
+        "hon_price_min": "365",
+        "hon_price_max": "399",
+        "DPI/CPI:": "8200DPI",
+        "RGB:": "有",
+        "適用系統:": "Windows XP / Vista / 7 / 8 / 8.1 / 10",
+        "法碼:": "有"
+    },
+    {
+        "names": "Steelseries Sensei Ten Neon Rider 限量版光學電競滑鼠",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "649",
+        "DPI/CPI:": "18000",
+        "RGB:": "有",
+        "適用系統:": "Windows、Mac、Xbox 與 Linux",
+        "淨重量:": "92g",
+        "左右手通用:": "有"
+    },
+    {
+        "names": "ADATA XPG Alpha Wireless Gaming Mouse 無線電競滑鼠",
+        "rating": "",
+        "DPI/CPI:": "100-16,000",
+        "RGB:": "有",
+        "適用系統:": "Windows",
+        "淨重量:": "98±5g (不含線材)"
+    },
+    {
+        "names": "James Donkey 電競滑鼠 MOU-125M",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "DPI/CPI:": "5000",
+        "無線/有線:": "有線",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "Havit Gaming Mouse 電競滑鼠 MS878",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "感應器類型:": "光學",
+        "按鍵數:": "6"
+    },
+    {
+        "names": "Havit RGB Gaming Mouse 電競滑鼠 MS1002",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "DPI/CPI:": "1000-1600-3200-6400DPI",
+        "按鍵數:": "7",
+        "RGB:": "有",
+        "適用系統:": "Windows 2000/XP/Vista/7/8/10/linus/ Mac"
+    },
+    {
+        "names": "ThunderX3 Pro eSports Laser Gaming Mouse 電競滑鼠 TM60",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "DPI/CPI:": "16000",
+        "按鍵數:": "6",
+        "巨集鍵:": "有"
+    }
+]

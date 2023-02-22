@@ -1,0 +1,3558 @@
+[
+    {
+        "names": "Nanoleaf Lines Starter Kit 智能燈條套裝 (9條)",
+        "rating": "10",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,599",
+        "款式:": "燈條, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "One Home Elite 智能月球燈",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "款式:": "月球燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Nanoleaf Essentials A60 E27 智能燈膽 (3個裝)",
+        "rating": "9.6",
+        "hon_price_min": "299",
+        "hon_price_max": "499",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Sync Box Hue HDMI Hue Play HDMI 同步調整器",
+        "rating": "7.0",
+        "hon_price_min": "1,990",
+        "hon_price_max": "2,350"
+    },
+    {
+        "names": "Philips 飛利浦 Philips Hue Play Gradient Lightstrip 55\" 智能燈帶 -‎ 560409",
+        "rating": "10",
+        "hon_price_min": "1,930",
+        "hon_price_max": "2,150",
+        "款式:": "燈帶",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Govee Neon LED Strip Light 霓虹LED燈帶 3m H61A0",
+        "rating": "8.0",
+        "hon_price_min": "480",
+        "hon_price_max": "549",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Govee Envisual TV Backlight T2 電視背光燈帶 (55-65吋電視適用) H605C",
+        "rating": "10",
+        "hon_price_min": "989",
+        "hon_price_max": "1,098",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Nanoleaf Shapes Hexagons Starter Kit (9PK) 六角形智能燈板入門套裝 (9塊)",
+        "rating": "10",
+        "hon_price_min": "1,275",
+        "hon_price_max": "1,599",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Govee Lyra RGBICWW Corner Floor Lamp 轉角落地牆燈 H6072",
+        "rating": "",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,199",
+        "款式:": "座地燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "MOMAX Bright IoT 智能檯燈連無線充電 QL6S",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "398",
+        "water_price_min": "388",
+        "water_price_max": "388",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Yeelight LED Screen Light Bar Pro 顯示器掛燈 YLTD0003",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "798",
+        "款式:": "屏幕燈",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 卡若拉米家智控天花吊燈 (小款)",
+        "rating": "",
+        "water_price_min": "3,408",
+        "water_price_max": "3,408",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "WiZ Adria 17W 4000K 可調光天花燈",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "WiZ Wi-Fi智能LED燈泡- 11W / E27螺頭 / G95 (黃白光+彩光)",
+        "rating": "9.0",
+        "hon_price_min": "149",
+        "hon_price_max": "168",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Govee DreamView T1 Pro TV Backlight 電視燈光套裝 H605B",
+        "rating": "",
+        "hon_price_min": "1,049",
+        "hon_price_max": "1,169",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Govee RGBIC Wi-Fi + 藍牙LED燈帶 (5米) H619A",
+        "rating": "8.0",
+        "hon_price_min": "259",
+        "hon_price_max": "288",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ Wi-Fi智能LED燈泡- 8W / E27螺頭 / A60 (黃白光+彩光)",
+        "rating": "10",
+        "hon_price_min": "139",
+        "hon_price_max": "158",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "WiZ Wi-Fi Squire 可攜式白色情境燈 (White and colour ambiance 黃白光+彩光 連火牛)",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "438",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Essentials 智能燈帶入門套裝 (2米)",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "389",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 冰玉S 米家智控正方形天花燈",
+        "rating": "",
+        "water_price_min": "1,038",
+        "water_price_max": "1,038",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Govee Flow Pro Wi-Fi 電視燈條 H6054",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "659",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ Wi-Fi LED Strip Starter kit  智能LED燈帶基本版 2m (黃白光+彩光 連火牛)",
+        "rating": "10",
+        "hon_price_min": "385",
+        "hon_price_max": "428",
+        "款式:": "燈帶",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Govee RGBIC Neon TV Backlight 霓虹電視背光燈帶 H61B2",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "549",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Xiaomi 小米 米家吸頂燈450 Smart LED Ceiling Light #BHR4118GL",
+        "rating": "10",
+        "hon_price_min": "460",
+        "hon_price_max": "469",
+        "款式:": "天花燈",
+        "燈頭:": "LED",
+        "特點:": "可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Gradient Lightstrip Extension 1m 智能漸變彩色燈帶 1米延伸版",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "680",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Xiaomi 小米 米家感應夜燈 2 藍牙版",
+        "rating": "10",
+        "hon_price_min": "65",
+        "hon_price_max": "88",
+        "water_price_min": "65",
+        "water_price_max": "80",
+        "款式:": "檯燈, 感應燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗,感應開關"
+    },
+    {
+        "names": "Philips 飛利浦 Philips Hue Gradient 2m 智能燈帶 ‎929002994901",
+        "rating": "",
+        "hon_price_min": "1,332",
+        "hon_price_max": "1,332",
+        "款式:": "燈帶",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White and Color Ambiance Play Light Bar Double Pack 78202",
+        "rating": "9.0",
+        "hon_price_min": "960",
+        "hon_price_max": "1,300",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White And Color Ambiance Starter Kit 11W A60 E27 Bulb (Bluetooth) 白光+彩光入門套件",
+        "rating": "",
+        "hon_price_min": "1,498",
+        "hon_price_max": "1,798",
+        "款式:": "燈膽套裝",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White and Color Ambiance Play Light Bar Single Pack",
+        "rating": "8.0",
+        "hon_price_min": "419",
+        "hon_price_max": "580",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Xiaomi 小米 米家LED智能檯燈1S",
+        "rating": "9.0",
+        "hon_price_min": "190",
+        "hon_price_max": "439",
+        "water_price_min": "189",
+        "water_price_max": "259",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "SwitchBot LED Strip Light 智能燈帶",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "290",
+        "款式:": "燈帶",
+        "特點:": "APP控制,遙控器,可調節色彩"
+    },
+    {
+        "names": "Nanoleaf Shapes Hexagons Starter Kit (5PK) 六角形智能燈板入門套裝 (5塊)",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "999",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 悅和 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "3,858",
+        "water_price_max": "3,858",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Govee RGBIC Wi-Fi + Bluetooth LED Strip Lights With Protective Coating Wi-Fi + 藍牙LED燈帶 (10米) H619C",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "488",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Nanoleaf Elements Hexagons Starter Kit (7PK) 木紋六角形智能燈板入門套裝 (7塊)",
+        "rating": "",
+        "hon_price_min": "1,359",
+        "hon_price_max": "1,859",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 AA級護眼檯燈 Table Lamp LED 66136",
+        "rating": "10",
+        "hon_price_min": "1,139",
+        "hon_price_max": "1,280",
+        "water_price_min": "868",
+        "water_price_max": "868",
+        "款式:": "枱燈",
+        "燈座數量:": "1",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "Govee Immersion Wi-Fi TV Backlights 影院感Wi-Fi 電視背光燈帶 (55\"-65\"電視適用) H6199",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ Whites Wifi 智能調光 LED 燈絲燈泡 - 60W A60 E27 螺頭 - 冷暖白光",
+        "rating": "10",
+        "hon_price_min": "169",
+        "hon_price_max": "188",
+        "款式:": "燈膽",
+        "特點:": "可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Bridge 橋接器",
+        "rating": "8.9",
+        "hon_price_min": "300",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "WiZ Wi-Fi智能LED燈泡 - 8W / E27螺頭 / A60 (Tunable White 黃白光)",
+        "rating": "10",
+        "hon_price_min": "115",
+        "hon_price_max": "128",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Yeelight LED Lightstrip Pro Standard Pack 智慧幻彩燈帶 (2m) YLDD005",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "398",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ SuperSlim 32W Ceiling Lamp 天花燈",
+        "rating": "",
+        "hon_price_min": "1,488",
+        "hon_price_max": "1,488",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Xiaomi 小米 米家 Philips 飛利浦智睿吸頂燈",
+        "rating": "2.0",
+        "hon_price_min": "550",
+        "hon_price_max": "610",
+        "water_price_min": "445",
+        "water_price_max": "470",
+        "款式:": "天花燈",
+        "燈頭:": "LED"
+    },
+    {
+        "names": "Philips 飛利浦 HUE White Ambiance Bluetooth Bulb Single Pack GU10",
+        "rating": "10",
+        "hon_price_min": "260",
+        "hon_price_max": "466",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White 及 Color Ambiance LightStrip Plus APR 延伸版燈帶 1m 71902 (停產)",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "318",
+        "款式:": "燈帶",
+        "特點:": "可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 White and Color Ambiance Hue Go Bluetooth 可攜式燈具",
+        "rating": "10",
+        "hon_price_min": "498",
+        "hon_price_max": "880",
+        "款式:": "檯燈, 床頭燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "TP-Link Tapo L530E 智能燈泡 (白光+彩光)",
+        "rating": "10",
+        "hon_price_min": "118",
+        "hon_price_max": "125",
+        "款式:": "智能燈泡",
+        "特點:": "可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Lightstrip Plus version4 2m Base Kit (藍牙版)",
+        "rating": "8.5",
+        "hon_price_min": "610",
+        "hon_price_max": "928",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Box Fan 天花鴻運扇燈 18-9 V3 (第三代 DC款)",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Xiaomi 小米 米家檯燈 Pro",
+        "rating": "10",
+        "hon_price_min": "420",
+        "hon_price_max": "499",
+        "water_price_min": "350",
+        "water_price_max": "499",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 HUE E27 White Ambiance Bluetooth 11W Smart Light Bulbs (1100lm) (黃白調光) 智能燈泡",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "298",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "BenQ WiT MindDuo 光學升級版 親子共讀護眼檯燈",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,060",
+        "款式:": "檯燈",
+        "燈座數量:": "1",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Canvas 智能燈板入門套裝 (9塊)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,599",
+        "款式:": "壁燈, 氣氛燈"
+    },
+    {
+        "names": "WiZ Smart Button 便攜式燈光按鈕",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "特點:": "可調節光暗,遙控器"
+    },
+    {
+        "names": "Nanoleaf Essentials A19 E27 智能燈泡",
+        "rating": "10",
+        "hon_price_min": "119",
+        "hon_price_max": "169",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Xiaomi 小米 米家LED智能吸頂燈",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "475",
+        "water_price_min": "428",
+        "water_price_max": "469",
+        "款式:": "天花燈",
+        "燈頭:": "LED"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White 及 Color Ambiance LightStrip Plus APR 基本版 燈帶 2m 71901 (停產)",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "838",
+        "款式:": "燈帶",
+        "特點:": "可調節色彩"
+    },
+    {
+        "names": "Govee Glide RGBIC Wall Light 智慧型牆壁燈條 (8+4) H6062",
+        "rating": "",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,199",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Govee Glide RGBIC Wall Light 智慧型牆壁燈條 (6+1) H6062",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ RGBW LED 燈條套件 4m Type-G",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 9W E27 White & Color Ambiance Bulb Starter Kit (Bluetooth) 入門套件 A60",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,798"
+    },
+    {
+        "names": "MOMAX Smart Fancy IoT LED Bulb - Radiant 智能閃耀造型燈泡 - 幻彩 IB8S",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "238",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 9W E27 智能燈泡 (白光+彩光) Bluetooth",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "498",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "MOMAX Smart Classic IoT LED Bulb (Globe) 智能 Wi-Fi LED 復古燈泡 (球體) IB3SY",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "218",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "MOMAX Smart 智能 Wi-Fi LED 復古燈泡 (蠟燭型) IB1SY",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "178",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Nanoleaf Shapes Mini Triangles Expansion Pack (10PK) 迷你三角形智能燈板擴充裝 (10塊)",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "799",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 11W E27 A60 White & Color Ambiance 彩光藍牙智能燈泡 (1100lm)",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "548",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩,可調節色溫"
+    },
+    {
+        "names": "VisionKids HappiRAITO LED 智能護眼螢幕掛燈 JP2014",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "款式:": "螢幕掛燈",
+        "特點:": "可調節色溫"
+    },
+    {
+        "names": "Yeelight Smart LED Filament Bulb (E27) YLDP12YL",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "128",
+        "款式:": "燈膽",
+        "燈頭:": "E27",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White ambiance Being 吸頂燈 32610/30/P6",
+        "rating": "",
+        "hon_price_min": "1,785",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Nanoleaf Light Panels - Rhythm Edition Smarter Kit",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,599",
+        "款式:": "壁燈, 氣氛燈"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White & Color Ambiance Xamento M Hue Ceiling Lamp White 天花燈",
+        "rating": "",
+        "hon_price_min": "2,065",
+        "hon_price_max": "2,780",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "TP-Link Tapo L900-10 Smart Wi-Fi Light Strip 彩光智能燈帶 (10米)",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Yeelight 智能LED吸頂燈",
+        "rating": "6.7",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "water_price_min": "425",
+        "water_price_max": "450",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "TP-Link Tapo L510E Dimmable Smart Light Bulb",
+        "rating": "9.0",
+        "hon_price_min": "79",
+        "hon_price_max": "98",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "MOMAX Moon IoT 智能月球燈 IL2",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "398",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "款式:": "氣氛燈",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 悅然Pro 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "5,368",
+        "water_price_max": "5,368",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 幻花若蝶米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,838",
+        "water_price_max": "1,838",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "WiZ Rune 21W Ceiling Lamp 天花燈",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,388",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 芙若拉米家智控天花吊燈 (大款)",
+        "rating": "",
+        "water_price_min": "5,188",
+        "water_price_max": "5,188",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Govee Glide Triangle Light Panels 三角形拼接燈板 H6067",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,559",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "LifeSmart ColoLight Strip Set (30LEDs/m) 智能燈帶 - 2米套裝",
+        "rating": "",
+        "hon_price_min": "372",
+        "hon_price_max": "378",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Xiaomi 小米 米家 LED 智能檯燈",
+        "rating": "10",
+        "hon_price_min": "190",
+        "hon_price_max": "280",
+        "water_price_min": "160",
+        "water_price_max": "218",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Twinkly Squares 智能LED牆板(5+1)套裝",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White Ambiance Enrave 吊燈 41162/31/P6",
+        "rating": "",
+        "hon_price_min": "3,978",
+        "hon_price_max": "4,680",
+        "款式:": "吊燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Shapes Triangles Expansion Pack (3PK) 三角形智能燈板擴充裝 (3塊)",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ Whites Wifi 智能可調光 LED 燈絲燈泡 - 40W C35 E14 螺頭 - 冷暖白光",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "188",
+        "款式:": "燈膽",
+        "特點:": "可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 動態感應器",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "398",
+        "款式:": "感應器"
+    },
+    {
+        "names": "OPPLE 歐普 悅樂 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "4,298",
+        "water_price_max": "4,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Pearl Garden 鋁合金 太陽能花園燈 人體感應 黑夜自動亮燈 可調色溫 model LS04",
+        "rating": "",
+        "water_price_min": "370",
+        "water_price_max": "370",
+        "款式:": "感應燈",
+        "特點:": "可調節色溫,感應開關,遙控器"
+    },
+    {
+        "names": "Nanoleaf Aurora Expansion Kit (3塊)",
+        "rating": "8.0",
+        "hon_price_min": "250",
+        "hon_price_max": "499",
+        "款式:": "壁燈"
+    },
+    {
+        "names": "MOMAX Smart Rainbow IoT 智能LED燈泡 14W (RGB) IB9S",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "148",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Philips Hue v2 Smart Dimmer Switch and Remote",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "218",
+        "款式:": "遙控器",
+        "特點:": "可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 HUE White Ambiance Bluetooth Bulb Single Pack E27",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "348",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Meross Apple HomeKit 5M Smart Wi-Fi Light Strip 燈帶 MSL320HK",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "568",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Govee Glide Hexa Pro Light Panels 六角型3D燈效拼接燈板 H6066",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,999",
+        "款式:": "壁燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ Wi-Fi智能LED燈泡 - 11W / E27螺頭 / G95 (Tunable White 黃白光)",
+        "rating": "10",
+        "hon_price_min": "129",
+        "hon_price_max": "149",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "OPPLE 歐普 品見S 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,478",
+        "water_price_max": "1,478",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "TP-Link Tapo L920-5 Smart Wi-Fi Light Strip 彩光智能燈帶, RGB走馬燈 (5米)",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "469",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Xiaomi 小米 米家吸頂燈350",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "400",
+        "water_price_min": "380",
+        "water_price_max": "399",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 品見S 遙控調光調色長方形天花燈",
+        "rating": "",
+        "water_price_min": "3,038",
+        "water_price_max": "3,038",
+        "款式:": "天花燈",
+        "特點:": "可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "MOMAX Smart 智能護眼檯燈連無線充電 QL8",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "698",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White ambiance Enrave L (EU) 大型吸頂燈 41160",
+        "rating": "",
+        "hon_price_min": "2,812",
+        "hon_price_max": "3,880",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Shapes Hexagons Expansion Pack (3PK) 六角形智能燈板擴充套裝 (3塊)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "款式:": "壁燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "WiZ Wi-Fi LED Strip Extension 智能LED燈帶延長版 1m (黃白光+彩光)",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "148",
+        "款式:": "燈帶",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Nanoleaf Shapes Mini Triangles Starter Kit (5PK) 迷你三角形智能燈板入門套裝 (5塊)",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "799",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Yeelight x Razer LED Smart Lamp 智能情境燈 D2 (LT-DYSISRZ)",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "398",
+        "款式:": "床頭燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "LifeSmart ColoLight Strip Set (60LEDs/m) 智能燈帶 - 2米套裝",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "459",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Xiaomi 小米 米家 LED 智慧燈泡 (彩光版) 10W MJDP02YL",
+        "rating": "10",
+        "hon_price_min": "98",
+        "hon_price_max": "99",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "OPPLE 歐普 星夜米家智控天花吊燈 (8頭)",
+        "rating": "",
+        "water_price_min": "4,078",
+        "water_price_max": "4,078",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "LifeSmart ColoLight Pro Kit 智能量子燈套裝 (3-pack)",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "279",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "AduroSmart ERIA Dimmable Warm White Spotlight 智能燈泡 Smart Light Bulbs GU10",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "款式:": "燈膽",
+        "燈頭:": "GU10"
+    },
+    {
+        "names": "Govee Glide Hexa Light Panels 六角型拼接燈板 H6061",
+        "rating": "",
+        "hon_price_min": "1,349",
+        "hon_price_max": "1,499",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Govee Ambient Portable Table Lamp 氣氛便攜式枱燈 (藍牙&Wi-Fi版) H6058",
+        "rating": "10",
+        "hon_price_min": "459",
+        "hon_price_max": "519",
+        "款式:": "氣氛燈",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Shapes Triangles Starter Kit (9PK) 三角形智能燈板入門套裝 (9塊)",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,599",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 悅然Pro 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "2,258",
+        "water_price_max": "2,258",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Govee DreamView G1 Pro Gaming Light 遊戲燈 H604A",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,399",
+        "款式:": "檯燈, 燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Govee Neon LED Strip Light 霓虹LED燈帶 5m H61A2",
+        "rating": "",
+        "hon_price_min": "719",
+        "hon_price_max": "799",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "MOMAX Smart 智能 Wi-Fi LED 復古燈泡 (愛迪生) IB2SY",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "178",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Govee RGBIC Interior Car Lights With Remote Control 車內燈條 H6119",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "288",
+        "款式:": "燈條",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩,可調節色溫,遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Lightstrip Plus version4 1m Extension (藍牙版)",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "348",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "MOMAX Smart Classic IoT LED Bulb (RGB Color) 智能 Wi-Fi LED 復古燈泡 (RGB彩光) IB5SR",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "218",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Yeelight Smart LED Light Bulb 1S (Dimmable) LED智能燈泡白光版 1S (YLDP15YL)",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "138",
+        "款式:": "燈膽",
+        "燈頭:": "E26 / E27",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "WiZ Wi-Fi Mobile Portable Light 便攜燈",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "788",
+        "款式:": "便攜燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 品見 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "3,188",
+        "water_price_max": "3,188",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Wiz Wi-Fi智能LED燈泡 – 4.7W / GU10 (Tunable White 黃白光)",
+        "rating": "",
+        "hon_price_min": "214",
+        "hon_price_max": "238",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 天花燈-廳燈 PHILIPS HUE 40340 /31 PHILIPS HUE FAIR 33.5W LED 22k-65k White Ceiling Light Bluetooth*Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "2,234",
+        "hon_price_max": "3,312",
+        "款式:": "天花燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "OPPLE 歐普 冰玉S 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,098",
+        "water_price_max": "1,098",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "AduroSmart ERIA Build-In Multi Dimmer 內置多功能調光器",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "489",
+        "款式:": "內置多功能調光器",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Yeelight Smart LED Filament Bulb ST64 (YLDP23YL)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "128",
+        "款式:": "燈膽",
+        "燈頭:": "E27",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "BenQ MindDuo Smart Light 光學升級版親子共讀護眼檯燈",
+        "rating": "",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,060",
+        "款式:": "檯燈",
+        "特點:": "可調節光暗,感應開關"
+    },
+    {
+        "names": "SwitchBot Color Bulb 智能彩色燈泡",
+        "rating": "8.0",
+        "hon_price_min": "180",
+        "hon_price_max": "199",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 迷域II 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "2,298",
+        "water_price_max": "2,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『Wisdom』無線充電播音LED護眼檯燈 ITL-A16",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "298",
+        "款式:": "檯燈",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 天花燈-房燈 PHILIPS HUE 32610 /31 PHILIPS HUE BEING 27W LED 22k-65k White Ceiling Light Bluetooth*Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "1,785",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "OPPLE 歐普 璇風 36吋米家智控風扇燈",
+        "rating": "",
+        "water_price_min": "2,998",
+        "water_price_max": "2,998",
+        "款式:": "風扇燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 凝月S 滿天星米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "15,858",
+        "water_price_max": "15,858",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White Ambiance Starter Kit 11W A60 E27 Bulb (Bluetooth) Hue White 入門套件 B22",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,498",
+        "款式:": "燈泡",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "Nanoleaf Limited Edition Ultra Black Triangles Smarter Kit (9pk) 限量版極致黑三角形智能燈板入門套裝 (9塊)",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩,遙控器"
+    },
+    {
+        "names": "Allocacoc LightStrip Touch 觸控燈",
+        "rating": "",
+        "hon_price_min": "509",
+        "hon_price_max": "509",
+        "款式:": "檯燈",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "Govee Wi-Fi LED 彩光燈泡 E27 H6001",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "129",
+        "款式:": "燈泡",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Nanoleaf Light Panels Rhythm Expansion Pack (3塊)",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "479"
+    },
+    {
+        "names": "AduroSmart ERIA Dimmable Warm White Bulb 智能燈泡 Smart Light Bulbs E27",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "款式:": "燈膽",
+        "燈頭:": "E27"
+    },
+    {
+        "names": "OPPLE 歐普 星宇S天花吊燈 (4頭)",
+        "rating": "",
+        "water_price_min": "3,298",
+        "water_price_max": "3,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Reolink Floodlight PoE - Motion-Activated Security Floodlight (PoE)",
+        "rating": "",
+        "hon_price_min": "669",
+        "hon_price_max": "669",
+        "款式:": "戶外防水泛光燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Mcbazel 一體式太陽能防水LED感應燈 戶外庭院天台壁燈感應燈",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Yeelight Motion Sensor Closet Light A40 (40cm) YLCG004",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "158",
+        "款式:": "燈條",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "WiZ Colors A60 E27 Gen2 1pk 智慧 Wi-Fi LED 燈泡 (停產)",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "LifeSmart ColoLight Triangle Kit 擴展套裝 (3件裝) LS165E3",
+        "rating": "",
+        "hon_price_min": "527",
+        "hon_price_max": "529",
+        "款式:": "壁燈, 氣氛燈"
+    },
+    {
+        "names": "OPPLE 歐普 清風S滿天星 36吋米家智控風扇燈",
+        "rating": "",
+        "water_price_min": "3,058",
+        "water_price_max": "3,058",
+        "款式:": "風扇燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "TP-Link Tapo L510E 可調光智能燈泡 (2件裝)",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "755",
+        "款式:": "智能燈泡",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 悅然S 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "4,298",
+        "water_price_max": "4,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Xiaomi 小米 Yeelight 彩光燈帶",
+        "rating": "10",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "water_price_min": "158",
+        "water_price_max": "188",
+        "款式:": "燈帶",
+        "燈頭:": "LED"
+    },
+    {
+        "names": "OPPLE 歐普 月疏影 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,638",
+        "water_price_max": "1,638",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "AduroSmart ERIA Extended Color Spotlight 智能燈泡 Smart Light Bulbs GU10",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "330",
+        "款式:": "燈膽",
+        "燈頭:": "GU10"
+    },
+    {
+        "names": "TP-Link Tapo L900-5 Smart Wi-Fi Light Strip 彩光智能燈帶 (5米)",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "298",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Lightstrip Outdoor 5m",
+        "rating": "",
+        "hon_price_min": "1,410",
+        "hon_price_max": "2,080",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Nanoleaf Aurora Smarter Kit",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,599",
+        "款式:": "壁燈, 氣氛燈"
+    },
+    {
+        "names": "Philips 飛利浦 Lighting FC560 48W+36W RC 01Pln LED Ceiling Fan 42",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,880",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 星宇S天花吊燈 (6頭)",
+        "rating": "",
+        "water_price_min": "3,798",
+        "water_price_max": "3,798",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "TP-Link Tapo L900-20 Smart Wi-Fi Light Strip 彩光智能燈帶 (20米)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "LifeSmart BLEND Light Strip Set 2米套裝",
+        "rating": "",
+        "hon_price_min": "356",
+        "hon_price_max": "468",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Play Gradient Lightstrip for PC 32-34 inches 電競燈帶",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,598",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Geagood 78cm手掃開關USB充電燈 GD-V3 (78)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Yeelight Motion Sensor Closet Light A20 (20cm) YLCG002",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "128",
+        "款式:": "燈條",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "Xiaomi 小米 Yeelight LED智能燈泡彩光版",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "125",
+        "water_price_min": "110",
+        "water_price_max": "128",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 HUE White and Color Ambiance Bluetooth RGB Bulb Single Pack 智能燈泡 (白光+彩光) GU10",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "548",
+        "款式:": "智能燈泡",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ Starry Night RD 36W 27-65K 星夜天花燈 CL913",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,388",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "Nanoleaf Light Panel Rhythm 模組",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "OPPLE 歐普 迷域II 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "4,528",
+        "water_price_max": "4,528",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "AduroSmart ERIA Dimmable Warm White Candle 智能燈泡 Smart Light Bulbs E14",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "款式:": "燈膽",
+        "燈頭:": "E14"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Retractable Blades Ceiling Fan 伸縮開合風扇燈 TYL241022F1H",
+        "rating": "",
+        "hon_price_min": "1,701",
+        "hon_price_max": "1,701",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "QEE 多功能LED燈帶磁鐵及感應燈套裝 MDLSD020",
+        "rating": "10",
+        "hon_price_min": "138",
+        "hon_price_max": "168",
+        "款式:": "感應燈",
+        "燈頭:": "LED",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 智能控制天花燈 070922L20_350_3C",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Panasonic 樂聲 36W Ceiling Lamp 智月星月遙控天花燈 HHXN4060",
+        "rating": "",
+        "water_price_min": "2,280",
+        "water_price_max": "2,280",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Twinkly Squares Extension Pack 智能燈板擴展套裝 (3塊)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "款式:": "壁燈, 氣氛燈, 智能燈板",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Xiaomi 小米 智能彩光燈帶",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "LifeSmart ColoLight MIX",
+        "rating": "",
+        "hon_price_min": "344",
+        "hon_price_max": "349",
+        "款式:": "氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Panasonic 樂聲 100W LED Ceiling Lamp 智能天花燈 HHXSX045",
+        "rating": "",
+        "water_price_min": "8,910",
+        "water_price_max": "8,910",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 木邊遙控天花燈 CLW1-R-36W",
+        "rating": "",
+        "hon_price_min": "928",
+        "hon_price_max": "928",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "LifeSmart BLEND Light Bulb",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "220",
+        "款式:": "燈膽"
+    },
+    {
+        "names": "rgb 奇光板量子燈 (三角形 12件)",
+        "rating": "",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "款式:": "壁燈, 裝飾燈"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 白邊遙控天花燈 CLA1-R-60W",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Retractable Blades Ceiling Fan 伸縮開合風扇燈 TYL221022F3H",
+        "rating": "",
+        "hon_price_min": "1,771",
+        "hon_price_max": "1,771",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Play Gradient Lightstrip for PC 24-27 inches 電競燈帶",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,398",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Sunshine 陽光照明 Lumi LED 智能燈帶 (1米)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "LifeSmart ColoLight MIX Extension",
+        "rating": "",
+        "hon_price_min": "233",
+        "hon_price_max": "238",
+        "款式:": "氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Tap Dial Switch 遙控器",
+        "rating": "",
+        "hon_price_min": "357",
+        "hon_price_max": "398",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 智能控制天花燈 T.Y.L 060922L4_350_4C",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Box Fan 天花鴻運扇燈 吸頂鴻運扇燈 TM-2",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "AduroSmart ERIA Extended Color Candle 智能燈泡 Smart Light Bulbs E14",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "款式:": "燈膽",
+        "燈頭:": "E14"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White and colour ambience Lightstrip Outdoor 2m",
+        "rating": "",
+        "hon_price_min": "885",
+        "hon_price_max": "1,180",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Buckram 5.5W 雙頭射燈連調光器 50472",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈 / 射燈",
+        "燈座數量:": "Hue 5.5W / GU10 燈泡 X 2",
+        "特點:": "APP控制,遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 星宇S天花吊燈 (8頭)",
+        "rating": "",
+        "water_price_min": "4,298",
+        "water_price_max": "4,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "ADELOT Smart Solar Spot Light 智能太陽能單頭聯排射燈 RGB (壁裝) DST-12",
+        "rating": "",
+        "hon_price_min": "826",
+        "hon_price_max": "826",
+        "款式:": "射燈, 壁燈, 智能太陽能路軌燈",
+        "燈頭:": "LED",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "ADELOT Smart Solar 4 Spot Light 智能太陽能四頭聯排射燈 CW (壁裝) DST-13",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "款式:": "壁燈, 智能太陽能路軌燈",
+        "燈座數量:": "4",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Govee Aura Smart Table Lamp 枱燈 H6052",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "519",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 智能控制天花燈 070922L12_350_3C",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Panasonic 樂聲 36W LED Ceiling Lamp 遙控天花燈 HHXZ3582",
+        "rating": "",
+        "water_price_min": "1,380",
+        "water_price_max": "1,380",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 銘宇S 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "2,148",
+        "water_price_max": "2,148",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Essentials A60 E27 智能燈膽",
+        "rating": "10",
+        "hon_price_min": "130",
+        "hon_price_max": "169",
+        "water_price_min": "169",
+        "water_price_max": "169",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Panasonic 樂聲 36W Ceiling Lamp 遙控天花燈 HHXZ4051",
+        "rating": "",
+        "water_price_min": "2,690",
+        "water_price_max": "2,690",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 智能控制天花燈 070922L24_350_3C",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 幻希米家智控三圈環形吊燈 (80cm)",
+        "rating": "",
+        "water_price_min": "4,548",
+        "water_price_max": "4,548",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 悅芳 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "4,748",
+        "water_price_max": "4,748",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 花樣年華 米家智控長方形天花燈 (加大版)",
+        "rating": "",
+        "water_price_min": "3,858",
+        "water_price_max": "3,858",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Panasonic 樂聲 55W Ceiling Lamp 遙控天花燈 HHXZ5053",
+        "rating": "",
+        "water_price_min": "3,140",
+        "water_price_max": "3,140",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Panasonic 樂聲 Ceiling Lamp 遙控天花燈 HHLAZ6066A",
+        "rating": "",
+        "water_price_min": "3,550",
+        "water_price_max": "3,550",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Nanoleaf Canvas 智能燈板擴充裝 (4塊)",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "499",
+        "款式:": "壁燈, 氣氛燈"
+    },
+    {
+        "names": "MOMAX Smart Atom IoT 智能幻彩圓球燈串 IB10",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "499",
+        "款式:": "氣氛燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "ADELOT 太陽能智慧RGB炫彩燈帶 DCS-01A",
+        "rating": "",
+        "hon_price_min": "2,226",
+        "hon_price_max": "2,226",
+        "款式:": "燈帶",
+        "燈頭:": "LED",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 悅清 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "5,638",
+        "water_price_max": "5,638",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Panasonic 樂聲 36W Ceiling Lamp 智月貓咪遙控天花燈 HHXN4061",
+        "rating": "",
+        "water_price_min": "2,160",
+        "water_price_max": "2,160",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Yeelight Sunset Projection Lamp",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "款式:": "檯燈",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 9.5W E27 智能燈泡 ( 白光 ) (停產)",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "268",
+        "款式:": "燈膽"
+    },
+    {
+        "names": "Magic-Pro ProMini LEDWS 多功能護目LED檯燈，無線喇叭",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "308",
+        "款式:": "檯燈",
+        "特點:": "可調節色溫,可調節光暗"
+    },
+    {
+        "names": "WiZ Whites GU10 Gen2 1pk 智慧 Wi-Fi LED 燈泡 (停產)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Box Fan 天花鴻運扇燈 吸頂鴻運扇燈 1065",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "TP-Link Tapo L920-5 Smart Wi-Fi Light Strip 彩光智能燈帶 (5米)",
+        "rating": "10",
+        "hon_price_min": "369",
+        "hon_price_max": "468",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Reolink Floodlight Wi-Fi - Motion-Activated Security Floodlight (Wi-Fi)",
+        "rating": "",
+        "hon_price_min": "729",
+        "hon_price_max": "729",
+        "款式:": "戶外防水泛光燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "OPPLE 歐普 悅思 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "5,168",
+        "water_price_max": "5,168",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "MOMAX Smart D 智能護眼檯燈連無線充電 (小熊維尼款) QL8SUKWD1",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "788",
+        "款式:": "檯燈",
+        "特點:": "可調節光暗,可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Ambiance 白色/彩色無線入門套裝 A19 E27 (停產)",
+        "rating": "",
+        "hon_price_min": "829",
+        "hon_price_max": "1,528",
+        "特點:": "可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 53092 /30 PHILIPS HUE RUNNER 5.5Wx2 GU10 LED 22k-65k Black Double Spotlight(Bluetooth) *Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "1,424",
+        "hon_price_max": "1,513",
+        "款式:": "軌道燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "TP-Link Kasa Filament Smart Light Bulb - KL50",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "188",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "MOMAX Smart Classic IoT LED Bulb (Cylinder) 智能 Wi-Fi LED 復古燈泡 (圓柱) IB6SY",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "178",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 HUE White and Color Ambiance Bluetooth RGB Bulb Starter Kit B22",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,698",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Box Fan 天花鴻運扇燈 吸頂鴻運扇燈 10-8 Swing",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Mcbazel 免打孔智能LED感應燈 USB充電磁吸便携 可當迷你小電筒",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "OPPLE 歐普 悅家 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "4,298",
+        "water_price_max": "4,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Aqara LED Bulb T1",
+        "rating": "10",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Box Mutli Colour Fan 天花鴻運扇燈 吸頂鴻運扇燈 10-9",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 可怡 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,878",
+        "water_price_max": "1,878",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Meross Apple HomeKit 5m Smart Wi-Fi Light Strip 額外燈帶 MSL320HK",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "240",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White and Color Ambiance Xamento L (EU) Ceiling Lamp 大型吸頂燈 41168/31/P9",
+        "rating": "",
+        "hon_price_min": "2,608",
+        "hon_price_max": "3,480",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Ambiance 白光入門套裝 E27 (停產)",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "988"
+    },
+    {
+        "names": "OPPLE 歐普 清風 36吋米家智控風扇燈",
+        "rating": "",
+        "water_price_min": "2,698",
+        "water_price_max": "2,698",
+        "款式:": "風扇燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Retractable Blades Ceiling Fan 伸縮開合風扇燈 TYL221022F4H",
+        "rating": "",
+        "hon_price_min": "1,414",
+        "hon_price_max": "1,414",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Yeelight 皓石吸頂燈Mini",
+        "rating": "8.0",
+        "water_price_min": "148",
+        "water_price_max": "158",
+        "款式:": "吸頂燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 遙控調較天花燈 T.Y.L 050922L9_350_3C",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 悅然Pro 米家智控正方形天花燈",
+        "rating": "",
+        "water_price_min": "2,298",
+        "water_price_max": "2,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "LIFX Color E27 1000 Lumens Wi-Fi LED Smart Light",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 灰色邊天花燈 (智能控制) 210822L8",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 42吋LED伸縮扇葉遙控風扇燈 CFCS-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Box Fan 天花鴻運扇燈 吸頂鴻運扇燈 10-5",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 幻希米家智控二圈環形吊燈 (60cm)",
+        "rating": "",
+        "water_price_min": "2,548",
+        "water_price_max": "2,548",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 2.0 Dimmer Switch 散裝 Bulk Pack",
+        "rating": "8.0",
+        "hon_price_min": "144",
+        "hon_price_max": "218"
+    },
+    {
+        "names": "Yeelight 充電感應夜燈 YLYD01YL",
+        "rating": "8.0",
+        "water_price_min": "78",
+        "water_price_max": "108",
+        "款式:": "感應燈",
+        "燈頭:": "LED",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Sunshine 陽光照明 42吋LED伸縮扇葉遙控風扇燈 CFCT-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "LIFX Z Lightstrip Extension 1m",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "款式:": "燈帶"
+    },
+    {
+        "names": "AVANT Smart Solar Bollard Light with Wall Mounted 智能追日型太陽能壁燈 AWM-01",
+        "rating": "",
+        "hon_price_min": "2,162",
+        "hon_price_max": "2,162",
+        "款式:": "壁燈, 智能太陽能波燈",
+        "燈頭:": "LED",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Essentials 智能燈帶擴充裝 (1米)",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "199",
+        "款式:": "燈帶",
+        "燈頭:": "LED",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Panasonic 樂聲 70W Ceiling Lamp 遙控天花燈 HHXZ7050",
+        "rating": "",
+        "water_price_min": "3,290",
+        "water_price_max": "3,290",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Sunshine LUMI Smart Series LED 30W 吸頂燈 SCLY-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "LifeSmart ColoLight Strip Set (60LEDs/m) 智能燈帶 - 2米補充裝",
+        "rating": "",
+        "hon_price_min": "284",
+        "hon_price_max": "288",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Geagood 58cm 手掃開關 USB 充電燈 GD-V3 (58)",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "SensePlus LED 彩光燈泡 (E14) MX-LB-02R / MX-LB-02WV",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "款式:": "燈泡",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Aurora 5W GU10 智能黃白光燈膽套裝 (AU-PGU-UK-003)",
+        "rating": "",
+        "hon_price_min": "738",
+        "hon_price_max": "738",
+        "款式:": "燈膽套裝",
+        "特點:": "可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 白邊遙控天花燈 CLA2-R-48W",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Govee DreamView G1 Gaming Light 遊戲燈 (適合24'-29'電腦螢幕) H604B",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "899",
+        "款式:": "檯燈, 燈帶",
+        "特點:": "APP控制,可調節色彩,感應開關"
+    },
+    {
+        "names": "Helvar Imagine 950 Lighting Control Router 智能燈具主控制器",
+        "rating": "",
+        "hon_price_min": "13,081",
+        "hon_price_max": "13,081"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 灰色邊天花燈 (遙控) 210822L7",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "AVANT 24 inch Smart Solar Bollard Light 智能追日型太陽能柱燈 ABL-01",
+        "rating": "",
+        "hon_price_min": "2,162",
+        "hon_price_max": "2,162",
+        "款式:": "戶外燈, 智能太陽能波燈",
+        "燈頭:": "LED",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 木邊遙控天花燈 CLW1-R-60W",
+        "rating": "",
+        "hon_price_min": "1,588",
+        "hon_price_max": "1,588",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 LED燈帶 31059 18W/3K",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "款式:": "燈帶"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 遙控調較天花燈 T.Y.L 060922L3_350_4C",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 遙控天花燈 070922L11_350_3C",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "VELOUR 床頭可變色檯燈 YW-003",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "款式:": "床頭燈",
+        "特點:": "可調節色彩,遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 水晶遙控天花燈 CLC2-R-48W",
+        "rating": "",
+        "hon_price_min": "1,488",
+        "hon_price_max": "1,488",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 水晶天花燈 CLC2-R-60W",
+        "rating": "",
+        "hon_price_min": "1,788",
+        "hon_price_max": "1,788",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 36吋LED伸縮扇葉遙控風扇燈 CFCP-24W",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,180",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "MOMAX Smart Beam IoT 智能影音同步燈帶 IB11",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "499",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Limited Edition Ultra Black Triangles Expansion Pack (3pk) 限量版極致黑三角形智能燈板擴充裝 (3塊)",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩,遙控器"
+    },
+    {
+        "names": "Jisulife 幾素 智能屏幕護眼燈 LA02",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "款式:": "屏幕燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 白色邊天花燈 (遙控) 210822L11",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "Pearl Garden LED 氣氛投影燈 16圖案",
+        "rating": "",
+        "water_price_min": "240",
+        "water_price_max": "240",
+        "款式:": "氣氛燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 61083 HARAZ Smart Ceiling Light",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "1,500",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Xiaomi 小米 Yeelight 床頭燈",
+        "rating": "8.0",
+        "hon_price_min": "275",
+        "hon_price_max": "380",
+        "water_price_min": "275",
+        "water_price_max": "279",
+        "款式:": "床頭燈"
+    },
+    {
+        "names": "Xiaomi 小米 米家感應夜燈",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "100",
+        "water_price_min": "65",
+        "water_price_max": "100",
+        "款式:": "床頭燈",
+        "特點:": "可調節光暗,感應開關"
+    },
+    {
+        "names": "Panasonic 樂聲 36W Ceiling Lamp 多拉A夢遙控天花燈 HHXZ4665",
+        "rating": "",
+        "water_price_min": "3,180",
+        "water_price_max": "3,180",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Sunshine LUMI Smart Series LED 30W 吸頂燈 SCLQ-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 書怡 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,928",
+        "water_price_max": "1,928",
+        "款式:": "天花燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Sunshine 陽光照明 36吋LED伸縮扇葉遙控風扇燈 CFCL-24W",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 智能控制天花燈 T.Y.L 050922L14_350_4C",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "UKGPro 白冷光智能紅外及光控自動感應LED壁燈 (U-7136BC)",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "款式:": "感應燈, 壁燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "WiZ Wi-Fi 智能燈泡 4.9W (Eq.40W) P45 E27",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "款式:": "燈膽",
+        "燈頭:": "E27",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 HUE White and Color Ambiance Bluetooth RGB Bulb Starter Kit E27",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,698",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 50474 /30 “PHILIPS HUE BUCKRAM quadruple -Bluetooth” 5Wx4 LED 22k-65k White Spotlight *Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "2,278",
+        "hon_price_max": "2,680",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White Ambiance Cher 天花板燈附調光開關 40967/30",
+        "rating": "",
+        "hon_price_min": "2,234",
+        "hon_price_max": "3,480",
+        "款式:": "天花燈"
+    },
+    {
+        "names": "Imakara 動物智能小夜燈",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Sunshine 陽光照明 42吋LED伸縮扇葉遙控風扇燈 CFCD(T)-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 42吋LED伸縮扇葉遙控風扇燈 CFCV-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "Panasonic 樂聲 LED Ceiling Lamp 人體感應天花燈 HHXG1215",
+        "rating": "",
+        "water_price_min": "900",
+        "water_price_max": "900",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Xiaomi 小米 米家床頭燈",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "380",
+        "water_price_min": "269",
+        "water_price_max": "279",
+        "款式:": "床頭燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 悅晨米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "4,298",
+        "water_price_max": "4,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White 及 Color Ambiance Flourish 天花板燈 40905",
+        "rating": "",
+        "hon_price_min": "3,042",
+        "hon_price_max": "3,880",
+        "款式:": "天花燈"
+    },
+    {
+        "names": "Mcbazel 30cm LED 感應燈 無線磁吸小夜燈",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "款式:": "感應燈",
+        "特點:": "可調節光暗,感應開關"
+    },
+    {
+        "names": "Philips 飛利浦 40233 HUE Amaze Suspension Light",
+        "rating": "",
+        "hon_price_min": "2,230",
+        "hon_price_max": "2,980",
+        "款式:": "吊燈"
+    },
+    {
+        "names": "Sunshine 陽光照明 充電式衣櫃感應燈 LCB-D",
+        "rating": "10",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "款式:": "感應燈",
+        "燈頭:": "LED",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "EASTLIKE 東欐 多功能LED光控小夜燈 (人體感應, LA-LA)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "款式:": "床頭燈, 感應燈, 檯燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Yeelight Smart LED Bulb 1S (Color) LED智能燈泡彩光版 1S",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "158",
+        "water_price_min": "135",
+        "water_price_max": "169",
+        "款式:": "燈膽",
+        "燈頭:": "E27",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Sunshine LED 38W 天花燈 Ceiling Lamp LRCLT-38W",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "788",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "LifeSmart ColoLight Pro Gift Box 六角拼接智能量子燈Pro禮盒裝 (6-pack)",
+        "rating": "",
+        "hon_price_min": "493",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Sunshine 陽光照明 42吋LED伸縮扇葉遙控風扇燈 CFCU-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 Smart 開關調節色溫LED燈 61351/40W",
+        "rating": "",
+        "hon_price_min": "1,275",
+        "hon_price_max": "1,280",
+        "款式:": "天花燈",
+        "特點:": "可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 連線燈泡入門套裝 (停產)",
+        "rating": "6.0",
+        "hon_price_min": "920",
+        "hon_price_max": "1,599",
+        "款式:": "燈膽"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 水晶遙控天花燈 CLC3-R-36W",
+        "rating": "",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,088",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 品見S 42吋米家智控風扇燈",
+        "rating": "",
+        "water_price_min": "3,558",
+        "water_price_max": "3,558",
+        "款式:": "風扇燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 冰月S 420 滿天星米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,258",
+        "water_price_max": "1,258",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 凝月S 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "15,858",
+        "water_price_max": "15,858",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 10W 820lumen 5 Inch Downlight (Connected by Wiz)",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "款式:": "天花燈 / 暗裝燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White 及 Color Ambiance Flourish 吊燈 40906",
+        "rating": "",
+        "hon_price_min": "3,808",
+        "hon_price_max": "4,480",
+        "款式:": "吊燈"
+    },
+    {
+        "names": "Helvar RoomSet Lighting Control Kit (Standard Version)",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 白邊遙控天花燈 CLA4-R-48W",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 BVP172 IP65 SmartBright LED 防水 泛光燈 (3000/4000/5700K)",
+        "rating": "",
+        "hon_price_min": "305",
+        "hon_price_max": "460",
+        "款式:": "戶外燈",
+        "特點:": "可調節色溫"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Box Fan 天花鴻運扇燈 吸頂鴻運扇燈 02-2",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Nanoleaf Lines Expansion Pack 智能燈條擴充套裝 (3條)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "款式:": "燈條, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "AVANT Smart Solar Wallpack With Wall Mount 智能太陽能大型泛光燈 (牆裝) AWM-02",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "款式:": "戶外燈, 智能太陽能泛光燈",
+        "燈頭:": "LED",
+        "特點:": "APP控制,可調節色溫,可調節光暗,感應開關"
+    },
+    {
+        "names": "OPPLE 歐普 品見S 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "3,328",
+        "water_price_max": "3,328",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "LifeSmart ColoLight 智能量子燈 QL-LIT-6",
+        "rating": "",
+        "hon_price_min": "456",
+        "hon_price_max": "498",
+        "款式:": "壁燈, 氣氛燈"
+    },
+    {
+        "names": "Sunshine 陽光照明 30W Ceiling Lamp (遙控) 麵包款吸頂天花燈 LRCLU",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "658",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 Hue Intelligent Motion Sensor Smart Wireless Lighting Accessory",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "818"
+    },
+    {
+        "names": "Sunshine 42寸 LED 伸縮扇葉遙控風扇燈 CFBD(W)-36W",
+        "rating": "",
+        "hon_price_min": "1,785",
+        "hon_price_max": "1,785",
+        "款式:": "吊扇燈",
+        "燈座數量:": "1",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 50471 /30 “PHILIPS HUE BUCKRAM-Bluetooth” 5Wx1 LED 22k-65k Black Spotlight *Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "735",
+        "hon_price_max": "980",
+        "燈頭:": "1",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Yeelight Lightstrip Pro Extension 智慧幻彩燈帶 (1m 補充包) YLDD007",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "158",
+        "款式:": "燈帶",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 智能控制天花燈 070922L8_350_3C",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 53090 /31 PHILIPS HUE RUNNER 5.5W LED GU10 22k-65k White Single Spotlight(Bluetooth) *Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "954",
+        "hon_price_max": "1,003",
+        "燈頭:": "1",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "OPPLE 歐普 幻希米家智控三圈環形吊燈 (60cm)",
+        "rating": "",
+        "water_price_min": "4,048",
+        "water_price_max": "4,048",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Sunshine LUMI Smart Series LED 30W 吸頂燈 SCLU-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "WiZ Whites A60 E27 Gen2 1pk 智慧 Wi-Fi LED 燈泡 (停產)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 金邊遙控天花燈 CLA3-R-48W",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 智能控制天花燈 070922L4_350_3C",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Xiaomi 小米 米家 LED 智慧燈泡 (白光版) 7.5W XMBGDP03YLK",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "79",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 WL008C SmartBright IP65 LED 防水燈 (圓型)",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170",
+        "款式:": "壁燈"
+    },
+    {
+        "names": "OPPLE 歐普 冰月S 4040 滿天星米家智控正方形",
+        "rating": "",
+        "water_price_min": "2,298",
+        "water_price_max": "2,298",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Lumen TABU TLS100",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "AVANT 51 inch Smart Solar Bollard Light 智能追日型太陽能柱燈 ABL-03",
+        "rating": "",
+        "hon_price_min": "3,312",
+        "hon_price_max": "3,312",
+        "款式:": "戶外燈, 智能太陽能波燈",
+        "燈頭:": "LED",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "TP-Link Smart Wi-Fi LED Bulb with Dimmable Light LB110 (停產)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "239",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "Govee LED Strip Light M1 燈帶 (5m) H61E1",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "778",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 星夜米家智控天花吊燈 (10頭)",
+        "rating": "",
+        "water_price_min": "4,748",
+        "water_price_max": "4,748",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 45036 HUE Muscari Big Ceiling",
+        "rating": "",
+        "hon_price_min": "3,495",
+        "hon_price_max": "5,382",
+        "款式:": "天花燈",
+        "燈頭:": "LED 68w (2200K-6500K)"
+    },
+    {
+        "names": "Terncy 小燕 智能燈膽插座",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 56330 /31 PHILIPS HUE PILLAR 5.5W LED GU10 22k-65k White Single Spotlight(Bluetooth) *Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "918",
+        "hon_price_max": "972",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "AduroSmart ERIA Extended Color Lamp 智能燈泡 Smart Light Bulbs E27",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "款式:": "燈膽",
+        "燈頭:": "E27"
+    },
+    {
+        "names": "OPPLE 歐普 星夜米家智控天花吊燈 (6頭)",
+        "rating": "",
+        "water_price_min": "3,408",
+        "water_price_max": "3,408",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 木邊遙控天花燈 CLW2-R-60W",
+        "rating": "",
+        "hon_price_min": "1,588",
+        "hon_price_max": "1,588",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "WiZ Wi-Fi智能LED燈泡– 4.7W / GU10 (黃白光+彩光)",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "388",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "UKGPro 24cm 白冷光LED燈內置RF無線訊號接收端 U-7138RF-24C (需要額外配置分體式人體感應器)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "款式:": "感應燈"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 2.0 22k-65k+RGB Lightstrip PLUS 2 Meter 71901 (停產)",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "650",
+        "款式:": "燈帶"
+    },
+    {
+        "names": "UKGPro PIR 90cm 長3000mAh超高電量三合一白光/自然光/暖光自由選可調光紅外人體感應燈 U-6111-PIR-90-3000",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "款式:": "感應燈",
+        "特點:": "可調節色溫,可調節光暗"
+    },
+    {
+        "names": "AduroSmart ERIA Extended Color Led Strip 3M Extension (加長帶) 智能燈泡 Smart Light Bulbs",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "款式:": "燈帶",
+        "燈座數量:": "1",
+        "特點:": "可調節色彩,可調節色溫"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 50472 /30 PHILIPS HUE BUCKRAM 5.5Wx2 GU10 LED 22k-65k Black Spotlight(Bluetooth) *Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "1,428",
+        "hon_price_max": "1,680",
+        "款式:": "軌道燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White ambiance Fair 吊燈 40339/30/P6",
+        "rating": "",
+        "hon_price_min": "2,179",
+        "hon_price_max": "4,212",
+        "款式:": "吊燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Sunshine 陽光照明 36吋LED伸縮扇葉遙控風扇燈 CFCW-24W",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,180",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "Xiaomi 小米 飛利浦智睿檯燈 2S",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "water_price_min": "288",
+        "water_price_max": "390",
+        "款式:": "檯燈",
+        "特點:": "APP控制,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 LED燈帶 30732 60W/4500K白光",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "790",
+        "款式:": "燈帶"
+    },
+    {
+        "names": "LifeSmart ColoLight Triangle Kit 入門套裝 (6件裝) LS165A6",
+        "rating": "",
+        "hon_price_min": "889",
+        "hon_price_max": "1,159",
+        "款式:": "壁燈, 氣氛燈"
+    },
+    {
+        "names": "LifeSmart ColoLight MIX Kit (3-Pack)",
+        "rating": "",
+        "hon_price_min": "773",
+        "hon_price_max": "797",
+        "款式:": "氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "ADELOT 智能太陽能RGB LED燈帶 DCS-01",
+        "rating": "",
+        "hon_price_min": "396",
+        "hon_price_max": "396",
+        "款式:": "燈條",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 白邊遙控天花燈 CLA4-R-36W",
+        "rating": "",
+        "hon_price_min": "928",
+        "hon_price_max": "928",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "WiZ Adria 17W 2700K 可調光天花燈",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Pearl Garden 太陽能花園燈 露台燈 人體感應 黑夜自動亮燈 可調照明角度 model TY076",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "ADELOT Smart Solar 4 Spot Light 智能太陽能四頭聯排射燈 RGB (壁裝) DST-14",
+        "rating": "",
+        "hon_price_min": "1,960",
+        "hon_price_max": "1,960",
+        "款式:": "壁燈, 射燈, 智能太陽能路軌燈",
+        "燈座數量:": "4",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Nanoleaf Elements Hexagons Expansion Pack (3PK) 木紋六角形智能燈板擴充裝 (3塊)",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "659",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Aurora 5W GU10 智能彩色燈膽 (AU-EGU-B2-D03)",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "款式:": "智能彩色燈",
+        "特點:": "可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Newest Living Smart Switch 智能燈制",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "530",
+        "款式:": "智能開關",
+        "產地:": "中國",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Philips 飛利浦 HUE PAR16 GU10 6.5W HUE Bulb Single Pack (停產)",
+        "rating": "",
+        "hon_price_min": "306",
+        "hon_price_max": "449"
+    },
+    {
+        "names": "OPPLE 歐普 銘宇S 米家智控圓形天花燈",
+        "rating": "",
+        "water_price_min": "1,148",
+        "water_price_max": "1,148",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Xiaomi 小米 Yeelight 智能燈泡 (白光版)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "water_price_min": "80",
+        "water_price_max": "86",
+        "款式:": "燈膽",
+        "燈頭:": "E27"
+    },
+    {
+        "names": "Panasonic 樂聲 36W Ceiling Lamp 遙控天花燈 HHXZ4050",
+        "rating": "",
+        "water_price_min": "2,580",
+        "water_price_max": "2,580",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Ziglite 節亮 便攜式多功能智能LED燈 (ILIGHTING-AF)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "款式:": "便攜式多功能智能LED燈",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "Yeelight Motion Sensor Closet Light A60 (60cm) YLCG006",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "188",
+        "款式:": "燈條",
+        "特點:": "可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 冰玉S 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "2,148",
+        "water_price_max": "2,148",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 天花燈 吸頂燈 (遙控調光暗,調色溫) LED Ceiling Light 30W / 42W / 54W DJS460A01B",
+        "rating": "",
+        "hon_price_min": "858",
+        "hon_price_max": "858",
+        "款式:": "天花燈",
+        "特點:": "遙控器,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 33345 M.Ceiling-Smart ceiling lamp LED white 60W 230V",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "款式:": "天花燈",
+        "燈頭:": "LED"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 天花燈 吸頂燈 (遙控調光暗,調色溫) LED Ceiling Light 20W / 30W DJ-MX",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "款式:": "天花燈",
+        "特點:": "遙控器,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "OPPLE 歐普 品風 36吋三段調光風扇燈",
+        "rating": "",
+        "water_price_min": "1,888",
+        "water_price_max": "1,888",
+        "款式:": "風扇燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Panasonic 樂聲 LED櫥櫃感應燈 HHJG2500",
+        "rating": "",
+        "water_price_min": "890",
+        "water_price_max": "890",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "LifeSmart Bluetooth Light Bulb E27 6W 智能燈泡 LS030UN",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "款式:": "燈膽",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Panasonic 樂聲 100W Ceiling Lamp 智能天花燈 HHXSX342",
+        "rating": "",
+        "water_price_min": "5,800",
+        "water_price_max": "5,800",
+        "款式:": "天花燈",
+        "特點:": "APP控制,遙控器"
+    },
+    {
+        "names": "OPPLE 歐普 沁怡 米家智控正方形天花燈",
+        "rating": "",
+        "water_price_min": "1,988",
+        "water_price_max": "1,988",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "UKGPro PIR 40cm 長 3000mAh 超高電量三合一白光/自然光/暖光自由選可調光紅外人體感應燈 U-6111-PIR-40-3000",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "款式:": "感應燈",
+        "特點:": "可調節色溫,可調節光暗,感應開關"
+    },
+    {
+        "names": "Wai Lung Lighting 三圈吸頂天花燈飾 2609-24",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 天花燈 吸頂燈 (遙控調光暗,調色溫) LED Ceiling Light 65W MX-D21-1",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,370",
+        "款式:": "天花燈",
+        "特點:": "遙控器,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Panasonic 樂聲 36W Ceiling Lamp 遙控天花燈 HHXZ3530",
+        "rating": "",
+        "water_price_min": "2,280",
+        "water_price_max": "2,280",
+        "款式:": "天花燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Sunshine Lumi 彩光黃白光 智能LED Wifi 燈膽 SGA-5.5W-E27",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Yeelight 米家床頭燈",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "380",
+        "water_price_min": "278",
+        "water_price_max": "288",
+        "款式:": "床頭燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 61356/30W Smart 搖控LED吸頂燈 (附搖控)",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,140",
+        "款式:": "天花燈",
+        "特點:": "搖控器"
+    },
+    {
+        "names": "Meross Smart WiFi Ambient Light 智能氣氛燈/枱燈 MSL430HK",
+        "rating": "10",
+        "hon_price_min": "368",
+        "hon_price_max": "388",
+        "款式:": "氣氛燈, 檯燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Sunshine LUMI Smart Series LED 30W 吸頂燈 SCLS-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White and Colour Ambiance Mini Starter Kit, B22 白色/彩色無線套裝 (停產)",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "850",
+        "款式:": "燈膽",
+        "燈頭:": "B22"
+    },
+    {
+        "names": "UKGPro IR 25cm 長 3000mAh 超高電量三合一白光/自然光/暖光自由選可調光手掃開燈感應燈 U-6111-IR-25-3000",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "款式:": "感應燈",
+        "特點:": "可調節色溫,可調節光暗,感應開關"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 木邊遙控天花燈 CLW1-R-48W",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 42吋LED伸縮扇葉遙控風扇燈 CFCP-36W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "款式:": "吊扇燈",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 遙控天花燈 070922L19_350_3C",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "LifeSmart Quantum Light Set (六角拼接智能量子燈 + 智能控制器 + 底座) [QL-SET]",
+        "rating": "",
+        "hon_price_min": "116",
+        "hon_price_max": "128",
+        "款式:": "壁燈, 氣氛燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "OPPLE 歐普 書怡 米家智控長方形天花燈",
+        "rating": "",
+        "water_price_min": "3,858",
+        "water_price_max": "3,858",
+        "款式:": "天花燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "WiZ Whites G95 E27 Gen2 1pk  智慧 Wi-Fi LED 燈泡 (停產)",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Sunshine Lumi 彩光黃白光 智能LED Wifi 燈膽 (射膽) SGU10A-5.5W",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "款式:": "射燈",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 32610 HUE Being Ceilling Light",
+        "rating": "",
+        "hon_price_min": "1,775",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈"
+    },
+    {
+        "names": "WiZ LED Strip 1m Extension (停產)",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "180",
+        "款式:": "燈帶",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Sothing 小明感應小夜燈",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "228",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Philips 飛利浦 Hue A60E27 (停產)",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "449"
+    },
+    {
+        "names": "MOMAX Smart Fancy IoT LED Bulb - Star 智能閃耀造型燈泡 - 星星",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "238",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "Newest Living Smart RGB Bulb 智能彩色燈泡 (E27)",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "款式:": "燈膽",
+        "燈頭:": "E27",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 Hue White Ambiance Bluetooth E14 B39 Bulb 5.2W",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "248",
+        "款式:": "燈膽",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 白邊遙控天花燈 CLA1-R-36W",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "748",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "UKGPro IR 40cm 長 3000mAh 超高電量三合一白光/自然光/暖光自由選可調光手掃開燈感應燈 U-6111-IR-40-3000",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "款式:": "感應燈",
+        "特點:": "可調節色溫,可調節光暗,感應開關"
+    },
+    {
+        "names": "OPPLE 歐普 悅然S 米家智控正方形天花燈",
+        "rating": "",
+        "water_price_min": "1,748",
+        "water_price_max": "1,748",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 天花燈-房燈 PHILIPS HUE 32610 /48 PHILIPS HUE BEING 27W LED 22k-65k Aluminium Ceiling Light Bluetooth*Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "1,785",
+        "hon_price_max": "2,380",
+        "款式:": "天花燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "LIFX Candle White to Warm E14 Edison Screw",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色溫"
+    },
+    {
+        "names": "Newest Living Smart RGB Bulb 智能彩色燈泡 (E14)",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "款式:": "燈膽",
+        "燈頭:": "E14",
+        "特點:": "APP控制,可調節色彩,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Pearl Garden 太陽能花園燈 露台燈 分體式 黑夜自動亮燈",
+        "rating": "",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "款式:": "戶外燈",
+        "燈頭:": "LED"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 6W E14 智能燈泡 (白光) (停產)",
+        "rating": "10",
+        "hon_price_min": "138",
+        "hon_price_max": "228",
+        "款式:": "燈膽",
+        "燈頭:": "E14"
+    },
+    {
+        "names": "Wai Lung Lighting LED Ceiling Lamp 五角形吸頂天花燈飾 2607-35",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "TP-Link Tapo L530E 彩光智能燈泡 (2件裝)",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "款式:": "智能燈泡",
+        "特點:": "可調節色彩,可調節光暗"
+    },
+    {
+        "names": "Philips 飛利浦 33349 M.Ceiling-Smart RGB RD LED ceiling 75W",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,580",
+        "款式:": "天花燈",
+        "燈頭:": "LED"
+    },
+    {
+        "names": "One Home 智能喚醒燈連收音機",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "款式:": "氣氛燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "Sunshine 42寸 LED 伸縮扇葉遙控風扇燈 CFBD(T)-36W",
+        "rating": "",
+        "hon_price_min": "1,785",
+        "hon_price_max": "1,785",
+        "款式:": "吊扇燈",
+        "燈座數量:": "1",
+        "特點:": "可調節色溫,遙控器"
+    },
+    {
+        "names": "UKGPro 智能UVC紫外線消毒殺菌 白光LED人體感應燈 (U-7138Z-A)",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "EASTLIKE 東欐 LED長條形多功能人體感應小夜燈 (150MM兩個裝, LA-LI)",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "款式:": "感應燈",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Micro Sun LED太陽能欄杆,樓梯,台階燈 (一盒四個)",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "特點:": "感應開關"
+    },
+    {
+        "names": "Panasonic 樂聲 遙控天花燈 HHXZ3583",
+        "rating": "",
+        "water_price_min": "1,080",
+        "water_price_max": "1,180",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "SmartDGM 智能LED射燈 (5.5W/頭型:GU10) LS-WT5W5G",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "款式:": "射燈",
+        "燈頭:": "GU10",
+        "特點:": "可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Yeelight 皎月LED智能吸頂燈450版",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "water_price_min": "630",
+        "water_price_max": "680",
+        "款式:": "天花燈"
+    },
+    {
+        "names": "OPPLE 歐普 銘宇S 米家智控正方形天花燈",
+        "rating": "",
+        "water_price_min": "1,038",
+        "water_price_max": "1,038",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗"
+    },
+    {
+        "names": "Pearl Garden 32m 300燈LED太陽能軟管燈 遙控版",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "款式:": "氣氛燈",
+        "燈頭:": "LED"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 53吋 LED Ceiling Fan 風扇燈 TYL271022F2H",
+        "rating": "",
+        "hon_price_min": "3,118",
+        "hon_price_max": "3,118",
+        "款式:": "吊扇燈",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Yeelight LED 吸頂燈 (兒童版) YLXD01YL",
+        "rating": "",
+        "water_price_min": "458",
+        "water_price_max": "590",
+        "款式:": "兒童燈, 天花燈",
+        "燈頭:": "95 LED燈珠",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Panasonic 樂聲 36W LED Ceiling Lamp 智能天花燈 HHXS4045",
+        "rating": "",
+        "water_price_min": "4,710",
+        "water_price_max": "4,710",
+        "款式:": "天花燈",
+        "特點:": "APP控制,可調節色溫,可調節光暗,遙控器"
+    },
+    {
+        "names": "Sunshine 陽光照明 Ceiling Lamp 水晶遙控天花燈 CLC3-R-60W",
+        "rating": "",
+        "hon_price_min": "1,788",
+        "hon_price_max": "1,788",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    },
+    {
+        "names": "Philips 飛利浦 Wiz Connected Full Color White Wi-Fi LED 8W E27 彩色智能燈膽",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "款式:": "燈膽",
+        "特點:": "APP控制,可調節色彩"
+    },
+    {
+        "names": "Philips 飛利浦 HUE 天花燈-廳燈 40340 /30 FAIR 33.5W LED 22k-65k Black Ceiling Light Bluetooth*Dimmer Switch Inclu.",
+        "rating": "",
+        "hon_price_min": "2,234",
+        "hon_price_max": "2,980",
+        "款式:": "天花燈",
+        "特點:": "APP控制"
+    },
+    {
+        "names": "T.Y.L 天怡燈飾 Ceiling Lamp 深木邊天花燈 (遙控) 210822L3",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "款式:": "天花燈",
+        "燈座數量:": "1",
+        "特點:": "遙控器"
+    }
+]

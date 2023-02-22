@@ -1,0 +1,3933 @@
+[
+    {
+        "names": "Lenovo ThinkCentre M70s G3 SFF (i5-12500, 8+512GB SSD) 11T8S02W00",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "5,690",
+        "作業系統:": "Windows 11 downgrade Windows 10",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre neo 50s (i5-12500, 16+512GB SSD) 11SXS01000",
+        "rating": "10",
+        "hon_price_min": "5,490",
+        "hon_price_max": "6,000",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Intel UHD Graphics 770"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70t Gen 3 (i7-12700, 8+512GB SSD) 11T6S01B00",
+        "rating": "",
+        "hon_price_min": "7,250",
+        "hon_price_max": "7,530",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR650 (V2) 2U Rack Mount Server (Intel Xeon Silver 4309Y 8C 2.8GHz 105W) 3yrs warranty",
+        "rating": "",
+        "hon_price_min": "26,850",
+        "hon_price_max": "26,900",
+        "作業系統:": "Windows Server",
+        "硬碟:": "1200 + 1200GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Lenovo ThinkCentre neo 50s (i5-12500, 8+512GB SSD) 11SXS00M00",
+        "rating": "",
+        "hon_price_min": "5,190",
+        "hon_price_max": "5,799",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Intel UHD Graphics 770"
+    },
+    {
+        "names": "Lenovo 10.1 Inch Touch Display ThinkSmart Hub For Microsoft Teams Rooms (i5-8365U,8+128GB SSD) 1H10002HC",
+        "rating": "",
+        "hon_price_min": "12,749",
+        "hon_price_max": "14,749",
+        "作業系統:": "Windows 10 IoT Enterprise",
+        "硬碟:": "128GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s Gen 3 (11T8003KHH)",
+        "rating": "",
+        "hon_price_min": "8,450",
+        "hon_price_max": "8,520",
+        "作業系統:": "預載 Windows 10 Pro 64 (可升級至 Windows 11 Pro 64)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Intel UHD Graphics 770"
+    },
+    {
+        "names": "Lenovo ThinkCentre Neo 50s Gen 3 (i5-12500, 8+1000GB SSD) 11SXS00S00",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "6,060",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkPad X13 G2 13.3吋 (2022) (i7-1165G7, 32+512GB SSD) 20WKCTO1WW",
+        "rating": "",
+        "hon_price_min": "11,450",
+        "hon_price_max": "11,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Micro 迷你桌上電腦 (i5-12500T,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,240",
+        "hon_price_max": "6,399",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3090MT (i5-10505, 8GB RAM, 256GB SSD+1000GB HDD)",
+        "rating": "",
+        "hon_price_min": "4,888",
+        "hon_price_max": "4,888",
+        "water_price_min": "4,888",
+        "water_price_max": "4,888",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256+1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe Graphics"
+    },
+    {
+        "names": "ASUS Pro E500 G6 Workstation (1190K014P)",
+        "rating": "",
+        "hon_price_min": "39,999",
+        "hon_price_max": "39,999",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "2000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA RTX A5000 with 24GB"
+    },
+    {
+        "names": "ASUS ExpertCenter PN52 Mini PC (R5-5600H, 8+512GB SSD) PN52-R58G512",
+        "rating": "",
+        "hon_price_min": "5,550",
+        "hon_price_max": "5,698",
+        "作業系統:": "Windows 11",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Radeon Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS0WT00)",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "5,090",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS0W800)",
+        "rating": "",
+        "hon_price_min": "4,870",
+        "hon_price_max": "5,324",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "M.2 PCIe SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR550 2U Rack Mount Server (Intel Xeon 4216 16C, 8+2000GB SAS)",
+        "rating": "",
+        "hon_price_min": "21,100",
+        "hon_price_max": "21,200",
+        "作業系統:": "Windows Server (Option)",
+        "硬碟:": "2000GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Asus Mini PC PN50 (R78G512)",
+        "rating": "",
+        "hon_price_min": "4,588",
+        "hon_price_max": "7,300",
+        "作業系統:": "Windows 10",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ASUS Mini PC PN40-BC530ZV/EP",
+        "rating": "",
+        "hon_price_min": "1,988",
+        "hon_price_max": "2,590",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "64GB",
+        "硬碟類型:": "eMMC"
+    },
+    {
+        "names": "Dell OptiPlex 7000 Micro Form Factor (i5-12500T,16+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "7,950",
+        "hon_price_max": "7,980",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M75s Gen 2 (11R80027HH)",
+        "rating": "",
+        "hon_price_min": "6,798",
+        "hon_price_max": "7,398",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon Graphics"
+    },
+    {
+        "names": "Lenovo ThinkSystem ST50 (Gen2) Tower Server (Intel Xeon E-2224G 4C 3.5GHz 71W) 3yrs Warranty",
+        "rating": "",
+        "hon_price_min": "5,830",
+        "hon_price_max": "6,980",
+        "作業系統:": "Windows Server",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SATA HDD",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS2BR00)",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "5,600",
+        "作業系統:": "Windows 11 DG Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Dell Inspiron 27 Dell All-in-One 多合一桌上電腦 7710A-R1700-W11",
+        "rating": "",
+        "hon_price_min": "9,799",
+        "hon_price_max": "10,298",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512 + 1000GB",
+        "硬碟類型:": "SSD+HD",
+        "顯示卡:": "Intel Iris Xe Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS2BV00)",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "7,620",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Lenovo ThinkCentre Neo 50s Gen 3 (i7-12700, 16+512GB SSD) 11SXS01100",
+        "rating": "",
+        "hon_price_min": "6,990",
+        "hon_price_max": "7,290",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Pro Mini 260 G9 (i5-1235U,8+512SSD+2000GB HDD) 6N0Y6PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,080",
+        "hon_price_max": "6,120",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512+2000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Pro Mini 400 G9 (i5-12500T,8+512GB SSD) 6N133PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,890",
+        "hon_price_max": "7,900",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "ASUS Mini PC PN63-S1 (i5-1135G7,8+1000GB SSD) PN63-S1-I58G1T",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,580",
+        "作業系統:": "Windows 11",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics or Intel UHD Graphics for 11th Gen Intel Processors"
+    },
+    {
+        "names": "HP Pro Tower 280 G9 (i5-12500,8+512GB SSD) 6N137PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "6,000",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS2BS00)",
+        "rating": "",
+        "hon_price_min": "5,990",
+        "hon_price_max": "7,491",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "HP ProOne 440 G9 23.8 inch Touch Panel All-In-One PC (i5-12500T,16+512GB SSD) 6N0Y1PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,920",
+        "hon_price_max": "8,940",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Gen 3 (i5-12500T, 8+512GB SSD) 11T3S04S00",
+        "rating": "",
+        "hon_price_min": "5,550",
+        "hon_price_max": "6,090",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS2BU00)",
+        "rating": "",
+        "hon_price_min": "5,240",
+        "hon_price_max": "5,580",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "M.2 PCIe SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "HP Pro Micro Tower 400 G9 (i7-12700,8+1000GB SSD) 6N101PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,090",
+        "hon_price_max": "8,120",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Pro SFF 400 G9 (i5-12500,8+512GB SSD) 6N0Y8PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,270",
+        "hon_price_max": "6,320",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70t Gen 3 (i5-12500, 8+512GB SSD) 11T6S01900",
+        "rating": "",
+        "hon_price_min": "5,850",
+        "hon_price_max": "6,090",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP 280Pro G5 SFF (i5-10400,8+512GB SSD) 208Y1PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,451",
+        "hon_price_max": "6,451",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Micro Form Factor (i7-12700T,8+256GB SSD,WIFI6)",
+        "rating": "",
+        "hon_price_min": "7,300",
+        "hon_price_max": "7,499",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s Gen 3 (i5-12500, 8GB RAM, 512GB SSD+1000 GB HDD) 11T8S01B00",
+        "rating": "",
+        "hon_price_min": "6,140",
+        "hon_price_max": "6,460",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512+1000GB",
+        "硬碟類型:": "SSD+HDD"
+    },
+    {
+        "names": "ASUS Expert Centre 桌上型電腦 (D700SC-511400059R)",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "6,650",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS00C00)",
+        "rating": "",
+        "hon_price_min": "4,770",
+        "hon_price_max": "5,270",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Pro Tower 280 G9 (i7-12700,16+512GB SSD) 7K1S5PA#AB5",
+        "rating": "",
+        "hon_price_min": "10,200",
+        "hon_price_max": "10,300",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 7000 Small Form Factor (i7-12700,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "9,760",
+        "hon_price_max": "9,980",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "HP ProOne 440 G9 23.8inch Non-Touch Panel All-In-One PC (i7-12700T,16+1000GB SSD) 6N0Y0PA#AB5",
+        "rating": "",
+        "hon_price_min": "9,920",
+        "hon_price_max": "9,940",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3060 SFF (i5-8400/8GB RAM/256GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "5,220",
+        "處理器:": "Intel i5-8400 (6 Cores/9MB/6T/up to 4.0GHz/65W);",
+        "硬碟:": "256GB",
+        "顯示卡:": "集顯"
+    },
+    {
+        "names": "Dell OptiPlex 7000 Small Form Factor (i5-12500,16+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "7,550",
+        "hon_price_max": "7,600",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3000 Micro Form Factor (i5-12500T,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,580",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3000 Small Form Factor (i5-12500,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "6,050",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "HP Elite SFF 600 G9 (i7-12700,16+1000GB SSD) 6D9Q5PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,970",
+        "hon_price_max": "9,020",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 7070 Micro",
+        "rating": "",
+        "hon_price_min": "4,920",
+        "hon_price_max": "4,930",
+        "處理器:": "Intel Core i5-9500T (6 核/9MB/6T/2.2GHz 至 3.7GHz/35W)",
+        "硬碟:": "256GB",
+        "顯示卡:": "集成顯卡"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Small Form Factor (i5-12500,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "6,950",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70t Gen 3 (i5-12500, 8+1000GB SSD) 11T6S01C00",
+        "rating": "",
+        "hon_price_min": "6,350",
+        "hon_price_max": "6,590",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ASUS Mini PC PB62 (i5-11400,8+512GB SSD,Windows 11 Home) PB62-I58G512PROHD",
+        "rating": "",
+        "hon_price_min": "5,580",
+        "hon_price_max": "5,580",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 630"
+    },
+    {
+        "names": "Dell Optiplex 5090 MFF (i7-11700T, 8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,399",
+        "hon_price_max": "6,399",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Elite SFF 600 G9 (i5-12500,8+512GB SSD) 6D9Q2PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "7,220",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Elite SFF 800 G9 (i5-12500,8+512GB SSD) 6N0X7PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,180",
+        "hon_price_max": "7,220",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Elite Mini 800 G9 (i5-12500T, 16+1000GB SSD) 7K1S7PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,790",
+        "hon_price_max": "7,800",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre Neo 50s Gen 3 (i7-12700, 8+512GB SSD) 11SXS00P00",
+        "rating": "",
+        "hon_price_min": "5,990",
+        "hon_price_max": "6,970",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Pro SFF 400 G9 (i5-12500,8+512GB SSD) 6N0Z0PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,270",
+        "hon_price_max": "6,320",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP 280 Pro G5 SFF (i3-10100,8+512GB SSD) 7K1S4PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS0WH00)",
+        "rating": "",
+        "hon_price_min": "5,970",
+        "hon_price_max": "6,220",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "HP Pro Tower 280 G9 (i7-12700,8+512GB SSD) 6N152PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,890",
+        "hon_price_max": "8,120",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkStation P360 (i7-12700,16+1000GB HDD)",
+        "rating": "",
+        "hon_price_min": "9,880",
+        "hon_price_max": "9,900",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s Gen 3 (i7-12700, 8+512GB SSD) 11T8S01700",
+        "rating": "",
+        "hon_price_min": "7,240",
+        "hon_price_max": "7,530",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (227Y4PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "6,251",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70t Gen 3 (i7-12700, 8+1000GB SSD) 11T6S01400",
+        "rating": "",
+        "hon_price_min": "7,750",
+        "hon_price_max": "7,990",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Pro SFF 400 G9 (i7-12700,8+512GB SSD) 6N0Z1PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,280",
+        "hon_price_max": "7,320",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 7090 Small Form Factor XCTO",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "6,800",
+        "作業系統:": "Windows10 pro",
+        "硬碟:": "500GB",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "AMD RX 640 4GB LP (DP/mDP/mDP)"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS06U00)",
+        "rating": "",
+        "hon_price_min": "5,700",
+        "hon_price_max": "5,720",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟:": "256 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD"
+    },
+    {
+        "names": "HPE ProLiant DL360 Gen10 server (Xeon B-3204/16GB RAM/1.2TB x2)",
+        "rating": "",
+        "hon_price_min": "19,950",
+        "hon_price_max": "19,980",
+        "作業系統:": "Windows Server 2019",
+        "硬碟:": "1200 + 1200GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Micro Form Factor (i5-12500T,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "7,150",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "ASUS Expert Centre 桌上型電腦 D700SC-711700101R",
+        "rating": "",
+        "hon_price_min": "8,600",
+        "hon_price_max": "9,198",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s Gen 3 (i5-12500, 8+1000GB SSD) 11T8S01900",
+        "rating": "",
+        "hon_price_min": "6,350",
+        "hon_price_max": "6,590",
+        "作業系統:": "Win11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M75s Gen 2 (11R80028HH)",
+        "rating": "",
+        "hon_price_min": "6,298",
+        "hon_price_max": "6,998",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon Graphics"
+    },
+    {
+        "names": "iMin 15.6吋 智能台式POS設備 (4+32GB) SWAN 1",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "作業系統:": "Android 11",
+        "硬碟:": "32GB"
+    },
+    {
+        "names": "Dell Precision 3660 Tower (i7-12700,16+512GB SSD+1000GB HDD)",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "13,000",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512+1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "HP EliteOne 840 G9 23.8inch Non-Touch Panel All-In-One PC (i5-12500,16+1000GB SSD) 6N0X5PA#AB5",
+        "rating": "",
+        "hon_price_min": "9,980",
+        "hon_price_max": "10,040",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70t Gen 3 (i5-12500, 8GB RAM 512GB SSD+1000GB HDD) 11T6S01800",
+        "rating": "",
+        "hon_price_min": "6,250",
+        "hon_price_max": "6,460",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512+1000GB",
+        "硬碟類型:": "SSD+HDD"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IAB7 (i5-12400,16+1000GB SSD) 90SM009AHH",
+        "rating": "",
+        "hon_price_min": "6,198",
+        "hon_price_max": "6,199",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR350 1U Rack Mount Server (Intel Xeon Silver 4208 8C, 16+1200GB SAS)",
+        "rating": "",
+        "hon_price_min": "17,980",
+        "hon_price_max": "19,880",
+        "作業系統:": "Windows Server (Option)",
+        "硬碟:": "1200GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Dell OptiPlex 3000 Tower (i3-12100,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,300",
+        "hon_price_max": "5,450",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3000 Small Form Factor (i3-12100,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,500",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "HP ProDesk 600 G6 (46Q64PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,610",
+        "hon_price_max": "6,700",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90s Series - SFF (11D1S00E00)",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "7,370",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre neo 50s (i3-12100, 8+512GB SSD) 11SXS00L00",
+        "rating": "",
+        "hon_price_min": "4,670",
+        "hon_price_max": "4,980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Intel UHD Graphics 730"
+    },
+    {
+        "names": "ASUS ExpertCenter E5 AIO (i7-11700B, 16+1000GB SSD) E5402WHAT-BA061R",
+        "rating": "",
+        "hon_price_min": "9,080",
+        "hon_price_max": "9,900",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "M.2 NVMe PCIe 3.0 SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Microsoft Surface Laptop Go 12.4\" (i5/256GB/16GB)",
+        "rating": "",
+        "hon_price_min": "6,980",
+        "hon_price_max": "7,680",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP EliteOne 840 G9 23.8inch Touch Panel All-In-One PC (i7-12700,16+1000GB SSD) 6N0Z3PA#AB5",
+        "rating": "",
+        "hon_price_min": "12,320",
+        "hon_price_max": "13,200",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS00B00)",
+        "rating": "",
+        "hon_price_min": "4,290",
+        "hon_price_max": "4,580",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Micro 迷你桌上電腦 (i7-12700T,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "8,210",
+        "hon_price_max": "8,399",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Graphics"
+    },
+    {
+        "names": "HP Z2 Mini G5 Workstation (4Y411PA)",
+        "rating": "",
+        "hon_price_min": "12,900",
+        "hon_price_max": "12,999",
+        "作業系統:": "Windows 10 專業版",
+        "硬碟:": "512GB",
+        "硬碟類型:": "HP Z Turbo Drive PCIe NVMe TLC SSD",
+        "顯示卡:": "NVIDIA Quadro P620 (4 GB GDDR5 dedicated)"
+    },
+    {
+        "names": "Dell OptiPlex 3080 Micro 桌上型電腦 (i5-8GB-512GB-AXWIFI)",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,390",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "HP Pro Micro Tower 400 G9 (i5-12500,8+512GB SSD) 6N0Z9PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,590",
+        "hon_price_max": "6,620",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3060 Micro",
+        "rating": "",
+        "hon_price_min": "3,180",
+        "hon_price_max": "3,180",
+        "處理器:": "Intel Celeron G4900T",
+        "硬碟:": "500GB",
+        "顯示卡:": "集顯"
+    },
+    {
+        "names": "ASUS ExpertCenter E5 AIO (i5-11500B, 16+512GB SSD) E5402WHAK-BA220R",
+        "rating": "",
+        "hon_price_min": "8,000",
+        "hon_price_max": "8,600",
+        "作業系統:": "Windows 10 PRO",
+        "硬碟:": "512GB",
+        "硬碟類型:": "M.2 NVMe PCIe 3.0 SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Gen 3 (i7-12700T, 16+1000GB SSD) 11T3S04Q00",
+        "rating": "8.0",
+        "hon_price_min": "8,198",
+        "hon_price_max": "8,350",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR650 (Gen2) Rack Mount Server (Intel Xeon Silver 4210 10C 85W 2.2GHz)",
+        "rating": "",
+        "hon_price_min": "24,300",
+        "hon_price_max": "24,450",
+        "作業系統:": "Windows Server",
+        "硬碟:": "1200 + 1200GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Dell Precision 3460 Small Form Factor (i5-12600,16+512GB SSD,NVIDIA T600)",
+        "rating": "",
+        "hon_price_min": "13,800",
+        "hon_price_max": "14,000",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA T600 FH, 3660T"
+    },
+    {
+        "names": "HP 280 Pro G5 SFF (i7-10700, 8+512GB SSD) 641L3PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "6,900",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 630"
+    },
+    {
+        "names": "HP Elite Mini 600 G9 (i5-12500T,16+512GB SSD) 6D9Q9PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,190",
+        "hon_price_max": "9,190",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Z2 G8 SFF Workstation (4D9A0PA#AB5)",
+        "rating": "",
+        "hon_price_min": "11,780",
+        "hon_price_max": "11,790",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 750 Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS00D00)",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "5,550",
+        "作業系統:": "Windows 10",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP 280 Pro G6 小型直立式個人電腦 (i7, 8+512GB)",
+        "rating": "",
+        "hon_price_min": "7,180",
+        "hon_price_max": "7,299",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Elite SFF 600 G9 (i7-12700,16+512GB SSD) 6D9Q6PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,390",
+        "hon_price_max": "8,420",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre Neo 50s Gen 3 (i7-12700, 8+1000GB SSD) 11SXS00T00",
+        "rating": "",
+        "hon_price_min": "6,690",
+        "hon_price_max": "7,380",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP ProDesk 600 G6 桌上電腦 (2N8P4PA#AB5)",
+        "rating": "",
+        "hon_price_min": "8,400",
+        "hon_price_max": "8,999",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Fujitsu Desktop ESPRIMO G9010 Tiny PC (i5-10500T,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,799",
+        "hon_price_max": "7,999",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (i5, 8+256GB)",
+        "rating": "",
+        "hon_price_min": "5,390",
+        "hon_price_max": "5,699",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkPad T14S G1 (20T0S01T00)",
+        "rating": "",
+        "hon_price_min": "9,250",
+        "hon_price_max": "9,980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Elite SFF 600 G9 (i5-12500,16+1000GB SSD) 6D9Q4PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,660",
+        "hon_price_max": "7,670",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Pro Mini 400 G9 (i7-12700T,8+1000GB SSD) 6N104PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,690",
+        "hon_price_max": "7,720",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Pro SFF 280 G9 (i7-12700,8+512GB SSD) 6N136PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,670",
+        "hon_price_max": "6,800",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkBook 14 Gen 2 (Intel) (20VD0018HH)",
+        "rating": "",
+        "hon_price_min": "5,694",
+        "hon_price_max": "6,398",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s Gen 3 (i7-12700, 8+1000GB SSD) 11T8S01A00",
+        "rating": "",
+        "hon_price_min": "7,740",
+        "hon_price_max": "7,990",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (46Q73PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,000",
+        "hon_price_max": "5,450",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 630 Graphics"
+    },
+    {
+        "names": "Dell PowerEdge R740 Server",
+        "rating": "",
+        "hon_price_min": "22,300",
+        "hon_price_max": "23,800",
+        "處理器:": "Intel Xeon Bronze 3104 1.7G, 6C/6T, 9.6GT/s , 8M Cache, No Turbo, No HT (85W) DDR4- 2133",
+        "硬碟:": "4000 + 4000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS00E00)",
+        "rating": "",
+        "hon_price_min": "5,690",
+        "hon_price_max": "5,830",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon 520 2GB"
+    },
+    {
+        "names": "HP Elite SFF 600 G9 (i5-12500,8+512GB SSD) 6D9Q3PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,090",
+        "hon_price_max": "6,670",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Elite SFF 800 G9 (i5-12500, 16+1000GB SSD) 7K1S8PA#AB5",
+        "rating": "",
+        "hon_price_min": "9,199",
+        "hon_price_max": "9,999",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "ASUS 獵鷹A5 23.8吋 (i5-11500B, 16G+512GB SSD)",
+        "rating": "",
+        "water_price_min": "6,980",
+        "water_price_max": "6,980",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphic"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Tower (i5-12500,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,470",
+        "hon_price_max": "6,990",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Dell XPS Desktop 8950 (i7-12700,16+512GB SSD, RTX3060)",
+        "rating": "",
+        "hon_price_min": "16,100",
+        "hon_price_max": "16,290",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 3060 12GB"
+    },
+    {
+        "names": "HP Pro SFF 400 G9 (i7-12700,8+512GB SSD) 6N0Y9PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,270",
+        "hon_price_max": "7,320",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP ProDesk 600 G6 (2N8P2PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,450",
+        "hon_price_max": "6,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Pro SFF 400 G9 (i5-12500,8+512GB SSD) 6N0Z6PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,970",
+        "hon_price_max": "8,000",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M83 SFF Pro 10ANA00100",
+        "rating": "",
+        "hon_price_min": "6,520",
+        "hon_price_max": "6,520",
+        "處理器:": "Intel Core i7-4770",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Gen 3 (i5-12500T, 8+1000GB SSD) 11T3S04T00",
+        "rating": "",
+        "hon_price_min": "6,350",
+        "hon_price_max": "6,590",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre neo 50s (i5-12500, 8GB RAM, 512GB SSD+1000GB HDD) 11SXS00Q00",
+        "rating": "",
+        "hon_price_min": "5,650",
+        "hon_price_max": "6,000",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512+1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Integrated Intel UHD Graphics 770"
+    },
+    {
+        "names": "Dell OptiPlex 3080 Micro 桌上型電腦 (i3-8GB-256GB-AXWIFI)",
+        "rating": "",
+        "hon_price_min": "4,210",
+        "hon_price_max": "4,280",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "ASUS Expert Centre D700SA-710700048R",
+        "rating": "",
+        "hon_price_min": "7,590",
+        "hon_price_max": "8,200",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre Nano M90n Fanless (11ADS01000)",
+        "rating": "",
+        "hon_price_min": "5,390",
+        "hon_price_max": "5,699",
+        "處理器:": "Intel i5-8265U",
+        "硬碟:": "512GB"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (2S6V7PA#AB5)",
+        "rating": "",
+        "hon_price_min": "8,050",
+        "hon_price_max": "8,150",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "ASUS Expert Centre D700SA-71070018T",
+        "rating": "",
+        "hon_price_min": "9,950",
+        "hon_price_max": "9,980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Geforce GT1030 2GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Gen 3 (i7-12700T, 16+512GB SSD) 11T3S04U00",
+        "rating": "",
+        "hon_price_min": "7,600",
+        "hon_price_max": "7,978",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (20L71PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "7,180",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Z2 Tower G5 Workstation #3V2J2PA",
+        "rating": "",
+        "hon_price_min": "9,980",
+        "hon_price_max": "9,988",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Dell OptiPlex 7010 Ultra SFF (i5/8GB+1TB)",
+        "rating": "4.0",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel HD Graphics 2500"
+    },
+    {
+        "names": "HP 280Pro G6 MT (1W3H9PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,399",
+        "hon_price_max": "4,410",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Tower (i7-12700,16+512GB SSD+1000GB HDD)",
+        "rating": "",
+        "hon_price_min": "7,700",
+        "hon_price_max": "7,800",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512+1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo V50s SFF (11EFS00M00)",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "4,800",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Fujitsu Desktop ESPRIMO G5010 Tiny PC (i5-10400T,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,799",
+        "hon_price_max": "6,799",
+        "處理器:": "Intel i5-10400T",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR630 (Gen2) 1U Rack Mount Server (Intel Xeon Silver 4208 8C 85W 2.1GHz) 3yrs NBD",
+        "rating": "",
+        "hon_price_min": "24,600",
+        "hon_price_max": "24,850",
+        "作業系統:": "Windows Server",
+        "硬碟:": "1200 + 1200GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "HP ProDesk 400 G4 3AK17PT#AB5",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "4,850",
+        "處理器:": "Intel i5-6500",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP EliteDesk 800 G6 (2S7E3PA#AB5)",
+        "rating": "",
+        "hon_price_min": "7,680",
+        "hon_price_max": "7,700",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 2000GB",
+        "硬碟類型:": "SSD+HDD"
+    },
+    {
+        "names": "HP Elite Mini 600 G9 (i7-12700T,16+512GB SSD) 6D9R0PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,890",
+        "hon_price_max": "8,920",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell Precision 3460 Small Form Factor (i7-12700,16+256GB SSD+1000GB HDD)",
+        "rating": "",
+        "hon_price_min": "13,500",
+        "hon_price_max": "13,700",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "256+1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR650 Rack Mount Server (Intel Xeon Silver 4110)",
+        "rating": "",
+        "hon_price_min": "24,000",
+        "hon_price_max": "24,000",
+        "處理器:": "Intel Xeon Silver 4110 8C 2.1GHz",
+        "硬碟:": "600 + 600GB"
+    },
+    {
+        "names": "Lenovo V530s SSF 10TXA00BHC",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "5,210",
+        "處理器:": "Intel Core i5-8400",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS06V00)",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "5,000",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟:": "256 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD"
+    },
+    {
+        "names": "HP Pro Mini 260 G9 (i5-1235U,8+512GB SSD) 6N0Y5PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "5,620",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP ProOne 440 G9 23.8inch Touch Panel All-In-One PC (i7-12700T,16+1000GB SSD) 6N0Y3PA#AB5",
+        "rating": "",
+        "hon_price_min": "10,620",
+        "hon_price_max": "10,640",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkPad T14S Gen 1 (20T0S01U00)",
+        "rating": "",
+        "hon_price_min": "9,980",
+        "hon_price_max": "10,080",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP ProDesk 400 G5 SFF(4WR90PT#AB5)",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "4,780",
+        "處理器:": "Intel i5-8500",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (i3, 8+512GB) 208D5PA#AB5",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "5,280",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 7000 Tower (i7-12700,16+1000GB SSD)",
+        "rating": "",
+        "hon_price_min": "8,300",
+        "hon_price_max": "8,500",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720t 10SQA00CHC",
+        "rating": "",
+        "hon_price_min": "4,720",
+        "hon_price_max": "4,750",
+        "處理器:": "Intel Core i5-8500",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkStation P520c Tower 30BXS00D00",
+        "rating": "",
+        "hon_price_min": "17,000",
+        "hon_price_max": "17,700",
+        "處理器:": "Intel Xeon W-2123",
+        "硬碟:": "512 + 1000GB",
+        "顯示卡:": "Nvidia Quadro P2000 5GB 4*mDP"
+    },
+    {
+        "names": "HP Elite Tower 600 G9 (i5-12500,16+512GB SSD) 6D9Q7PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,270",
+        "hon_price_max": "7,290",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s 10STA006HC",
+        "rating": "",
+        "hon_price_min": "4,150",
+        "hon_price_max": "4,610",
+        "處理器:": "Intel Core i5-8500",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre Nano M90n Fanless (11ADS00Y00)",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "5,299",
+        "處理器:": "Intel i5-8265U",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Dell PowerEdge T440 Server",
+        "rating": "",
+        "hon_price_min": "29,300",
+        "hon_price_max": "29,800",
+        "處理器:": "Intel Xeon Bronze 3106 1.7G, 8C/8T, 9.6GT/s , 11M Cache, No Turbo, No HT (85W) DDR4- 2133",
+        "硬碟:": "1000 + 1000GB"
+    },
+    {
+        "names": "HPE ProLiant DL360 Gen10 3104 1.7GHz 6C 85W 1P 8SFF",
+        "rating": "",
+        "hon_price_min": "23,700",
+        "hon_price_max": "23,900",
+        "處理器:": "Intel Xeon Bronze 3104 6C 1.7GHz",
+        "硬碟:": "1000 + 1000GB"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (2S6U8PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "4,800",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP EliteOne 870 G9 27inch Touch Panel All-In-One PC (i7-12700,16+1000GB SSD) 6N0X6PA#AB5",
+        "rating": "",
+        "hon_price_min": "14,100",
+        "hon_price_max": "14,140",
+        "作業系統:": "Wincows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP ProDesk 600 G4 SFF(4WQ72PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "7,310",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "16 + 1000GB"
+    },
+    {
+        "names": "HP ProLiant DL380 Gen9 Server",
+        "rating": "",
+        "hon_price_min": "14,890",
+        "hon_price_max": "14,898",
+        "處理器:": "E5 2603V4",
+        "硬碟:": "300GB"
+    },
+    {
+        "names": "HP ProDesk 600 G6 (2N8P5PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "6,700",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Dell OptiPlex 7060 SFF (i7-8700/8GB RAM/1TB HDD)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,700",
+        "處理器:": "i7-8700 (6 Cores/12MB/12T/up to 4.6GHz/65W);",
+        "硬碟:": "1000GB",
+        "顯示卡:": "集顯"
+    },
+    {
+        "names": "HP EliteDesk 800 G6 (2S7E7PA#AB5)",
+        "rating": "",
+        "hon_price_min": "8,830",
+        "hon_price_max": "8,850",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 2000GB",
+        "硬碟類型:": "SSD+HDD"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR550 2U Rack Mount Server (Intel Xeon 4210 10C, 8+1200GB SAS)",
+        "rating": "",
+        "hon_price_min": "17,100",
+        "hon_price_max": "17,200",
+        "作業系統:": "Windows Server (Option)",
+        "硬碟:": "1200GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M920s(10SJS00D00)",
+        "rating": "",
+        "hon_price_min": "6,290",
+        "hon_price_max": "6,300",
+        "處理器:": "Intel Core i5-8500",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP Pro SFF 280 G9 (i5-12500,8+512GB SSD) 6N135PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,770",
+        "hon_price_max": "5,900",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 7090 (i7-11700, 32GB RAM, 512GB SSD+4000GB HDD) 210-AYVL",
+        "rating": "",
+        "hon_price_min": "9,380",
+        "hon_price_max": "9,380",
+        "作業系統:": "Windows 10 Pro (Includes Windows 11 Pro License)",
+        "硬碟:": "512 + 4000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon 550 2GB"
+    },
+    {
+        "names": "HP EliteDesk 800 G3 SFF 1AY38PT#AB5",
+        "rating": "",
+        "hon_price_min": "5,910",
+        "hon_price_max": "5,910",
+        "處理器:": "i5-6500",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel"
+    },
+    {
+        "names": "HPE ProLiant DL380 Gen10 2U RM Server (40GB ram, 2x15K SAS 300)",
+        "rating": "",
+        "hon_price_min": "30,000",
+        "hon_price_max": "30,275",
+        "處理器:": "Xeon-Silver 4114 (2.2 GHz10-core)",
+        "硬碟:": "300 + 300GB"
+    },
+    {
+        "names": "Dell OptiPlex 3070 Small Form Factor",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "3,998",
+        "處理器:": "Intel i3-9100 (4 Cores/6MB/4T/3.6GHz to 4.2GHz/65W)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Lenovo ThinkBook 14 Gen 2 (Intel) (20VD0017HH)",
+        "rating": "",
+        "hon_price_min": "6,310",
+        "hon_price_max": "8,740",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "256 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (i5, 8+512GB)",
+        "rating": "",
+        "hon_price_min": "5,560",
+        "hon_price_max": "6,170",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP Pro SFF 400 G9 (i7-12700,8+1000GB SSD) 6N0Z5PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,870",
+        "hon_price_max": "7,920",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP ProDesk 400 G6 SFF (8EN55PA#AB5)",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "4,280",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "NA"
+    },
+    {
+        "names": "Dell OptiPlex 7070 Micro 桌上型電腦 AO7070MFFI5-B-W10P",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "6,399",
+        "作業系統:": "Windows 10 Profession",
+        "硬碟:": "256 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD 顯示卡"
+    },
+    {
+        "names": "Lenovo ThinkCentre V530 SFF 10TXS02V00",
+        "rating": "",
+        "hon_price_min": "4,160",
+        "hon_price_max": "4,360",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP ProOne 440 G9 23.8inch Non-Touch Panel All-In-One PC (i5-12500T,16+512GB SSD) 6N0X8PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,220",
+        "hon_price_max": "8,240",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Pro SFF 280 G9 (i3-12100,8+512GB SSD) 6N134PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,170",
+        "hon_price_max": "5,200",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90t Series - Tower (11CYS00D00)",
+        "rating": "",
+        "hon_price_min": "7,330",
+        "hon_price_max": "7,650",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s 10STA005HC",
+        "rating": "",
+        "hon_price_min": "3,330",
+        "hon_price_max": "3,330",
+        "處理器:": "Intel Pentium Gold G5400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkSystem ThinkSystem ST550 (4U) Tower Server (Intel Xeon Bronze 3204 6C 1.9GHz 85W) 3yrs NBD",
+        "rating": "",
+        "hon_price_min": "21,700",
+        "hon_price_max": "21,850",
+        "作業系統:": "Windows Server",
+        "硬碟:": "2000 + 2000GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s 10STA004HC",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,760",
+        "處理器:": "Intel Core i7-8700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s SFF (10STS13N00)",
+        "rating": "",
+        "hon_price_min": "5,820",
+        "hon_price_max": "6,000",
+        "處理器:": "Intel Core i7-9700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP ProDesk 400 G5 SFF(4WQ75PT#AB5)",
+        "rating": "",
+        "hon_price_min": "4,190",
+        "hon_price_max": "4,190",
+        "處理器:": "Intel i3-8100",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s 10STA008HC",
+        "rating": "",
+        "hon_price_min": "6,300",
+        "hon_price_max": "6,570",
+        "處理器:": "Intel Core i7-8700",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Dell Vostro 3881-R1720",
+        "rating": "",
+        "hon_price_min": "6,298",
+        "hon_price_max": "6,298",
+        "作業系統:": "Windows 10",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "GT730 2G GDDR5"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Gen 3 (i7-12700T, 8+512GB SSD) 11T3S04R00",
+        "rating": "",
+        "hon_price_min": "7,350",
+        "hon_price_max": "7,570",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (D700SA-510400149T)",
+        "rating": "",
+        "hon_price_min": "5,799",
+        "hon_price_max": "5,800",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "桌上型"
+    },
+    {
+        "names": "Dell PowerEdge T640 Server",
+        "rating": "",
+        "hon_price_min": "30,500",
+        "hon_price_max": "31,200",
+        "處理器:": "Intel Xeon Silver 4108 1.8G, 8C/16T, 9.6GT/s , 11M Cache, Turbo, HT (85W) DDR4-2400",
+        "硬碟:": "1000 + 1000GB"
+    },
+    {
+        "names": "HP Elite Tower 600 G9 (i7-12700,16+1000GB SSD) 6D9Q8PA#AB5",
+        "rating": "",
+        "hon_price_min": "11,870",
+        "hon_price_max": "11,920",
+        "作業系統:": "Windows 11 Pro DG",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Elite Tower 800 G9 (i5-12500,16+1000GB SSD) 7K1S6PA#AB5",
+        "rating": "",
+        "hon_price_min": "9,800",
+        "hon_price_max": "10,200",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "ASUS Expert Centre (D700SA-710700263R)",
+        "rating": "",
+        "hon_price_min": "7,600",
+        "hon_price_max": "8,198",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell Vostro 3881-R1502",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,598",
+        "作業系統:": "Windows 10",
+        "硬碟:": "256 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD 630"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720q 10T7S0JE00",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,200",
+        "處理器:": "Intel i5-9500T",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Dell PowerEdge R230 Rack Mount Server",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "14,710",
+        "處理器:": "Intel Xeon E3-1220 v6 3.0GHz, 8M cache, 4C/4T, turbo (72W)",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720 Tower (10SQS0RR00)",
+        "rating": "",
+        "hon_price_min": "5,829",
+        "hon_price_max": "6,099",
+        "處理器:": "Intel Core i7-9700",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP EliteDesk 800 G1 迷你型 (SFF) 電腦 (i5,4+500GB)",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "500GB",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel HD Graphics 4600"
+    },
+    {
+        "names": "Dell XPS Desktop 8950 (i5-12400,16+512GB SSD, GTX1660 SUPER)",
+        "rating": "10",
+        "hon_price_min": "9,999",
+        "hon_price_max": "12,300",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce GTX 1660 SUPER 6GB GDDR6"
+    },
+    {
+        "names": "HPE ML110 Gen9 E5-2620v4 LFF 8GB AP Svr",
+        "rating": "",
+        "hon_price_min": "12,040",
+        "hon_price_max": "13,667",
+        "處理器:": "Intel Xeon processor E5-2620v4 (2.1GHz/8-core/20MB/85W) Processor Kit",
+        "記憶體:": "8GB"
+    },
+    {
+        "names": "Lenovo ThinkSystem ThinkSystem ST550 (4U) Tower Server (Intel Xeon Silver 4208 8C 85W 2.1GHz 85W) 3yrs NBD",
+        "rating": "",
+        "hon_price_min": "23,200",
+        "hon_price_max": "23,900",
+        "作業系統:": "Windows Server",
+        "硬碟:": "2000 + 2000GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "HP Z2 直立式 G5 工作站 (384N2PA)",
+        "rating": "",
+        "hon_price_min": "11,980",
+        "hon_price_max": "12,580",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "intel"
+    },
+    {
+        "names": "HP 280G3 SFF (4SC22PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,040",
+        "hon_price_max": "5,040",
+        "處理器:": "Intel i5-8400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "ASUS Expert Centre D700SA-510400050R",
+        "rating": "",
+        "hon_price_min": "6,240",
+        "hon_price_max": "6,480",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 5260 AIO i5-8400",
+        "rating": "",
+        "hon_price_min": "6,260",
+        "hon_price_max": "6,260",
+        "處理器:": "i5-8400 (6 Cores/9MB/6T/up to 4.0GHz/65W)",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3000 Micro Form Factor (i7-12700T,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "8,100",
+        "hon_price_max": "8,180",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Small Form Factor (i7-12700,32+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "9,280",
+        "hon_price_max": "9,400",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkStation P520 Tower (Xeon W-2223,16+1000GB SSD)",
+        "rating": "",
+        "hon_price_min": "13,990",
+        "hon_price_max": "14,000",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP ProDesk 600 G4 MT(4WQ73PA#AB5)",
+        "rating": "",
+        "hon_price_min": "7,190",
+        "hon_price_max": "7,190",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "16 + 1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M920s (10SJS00C00)",
+        "rating": "",
+        "hon_price_min": "5,700",
+        "hon_price_max": "5,810",
+        "處理器:": "Intel Core i5-8500",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720 Tower (10SQS11N00)",
+        "rating": "",
+        "hon_price_min": "5,190",
+        "hon_price_max": "5,250",
+        "處理器:": "Intel Core i5-9500",
+        "硬碟:": "512GB"
+    },
+    {
+        "names": "Dell OptiPlex 5060 SFF (i5-8500/16GB RAM/1512GB HDD)",
+        "rating": "",
+        "hon_price_min": "6,480",
+        "hon_price_max": "6,490",
+        "處理器:": "Intel Core i5-8500",
+        "硬碟:": "512GB",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "HPE DL380 Gen10 3106 1P 16G 8SFF Svr",
+        "rating": "",
+        "hon_price_min": "35,100",
+        "hon_price_max": "36,200",
+        "處理器:": "Intel Xeon-Bronze 3106 (1.7GHz/8-core/85W) Processor Kit",
+        "記憶體:": "16GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre neo P780 商用電腦 (i5-12400F,16+512GB SSD) 07CD",
+        "rating": "",
+        "hon_price_min": "8,380",
+        "hon_price_max": "8,400",
+        "water_price_min": "8,380",
+        "water_price_max": "8,380",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 3060"
+    },
+    {
+        "names": "Lenovo V530 Tower 10TVA003HC",
+        "rating": "",
+        "hon_price_min": "4,860",
+        "hon_price_max": "5,210",
+        "處理器:": "Intel Core i5-8400",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Dell OptiPlex 7060 Mini Tower (i7-8700/4GB RAM/1TB HDD)",
+        "rating": "",
+        "hon_price_min": "6,040",
+        "hon_price_max": "6,040",
+        "處理器:": "i7-8700 (6 Cores/12MB/12T/up to 4.6GHz/65W);",
+        "硬碟:": "1000GB",
+        "顯示卡:": "集顯"
+    },
+    {
+        "names": "HPE ProLiant DL360 Gen10 4114 2.2GHz 10C 85W 1P 8SFF",
+        "rating": "",
+        "hon_price_min": "34,300",
+        "hon_price_max": "34,500",
+        "處理器:": "Xeon-S 4114 2.2GHz 10C 85W",
+        "硬碟:": "1000 + 1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720q 10T7A002HC",
+        "rating": "",
+        "hon_price_min": "6,460",
+        "hon_price_max": "6,730",
+        "處理器:": "Intel Core i7-8700T",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo V530s SFF 10TXA008HC",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,459",
+        "處理器:": "Intel Core i5-8400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP ProDesk 400 G5 MT(4WQ80PT#AB5)",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "4,700",
+        "處理器:": "Intel i5-8500",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkPad T14 Gen 1 (20S0S01T00)",
+        "rating": "",
+        "hon_price_min": "8,780",
+        "hon_price_max": "8,990",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkStation P920 TWR 30BCS04F00",
+        "rating": "",
+        "hon_price_min": "27,200",
+        "hon_price_max": "27,510",
+        "處理器:": "2*Intel Xeon SILVER 4108 Processor",
+        "硬碟:": "1000GB",
+        "顯示卡:": "NVIDIA Quadro P2000 5GB 4*DP"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (i7, 8+512GB)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "7,299",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HPE ProLiant ML110 Gen10 XEON-BROZE 3104 FIO Kit (32GB ram, HDD 2000GBx2)",
+        "rating": "",
+        "hon_price_min": "17,780",
+        "hon_price_max": "17,780",
+        "處理器:": "Xeon-Broze 3104 FIO Kit (1.7GHz/6-core/85W)",
+        "硬碟:": "1000 + 1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720t 10SQA00EHC",
+        "rating": "",
+        "hon_price_min": "6,090",
+        "hon_price_max": "6,090",
+        "處理器:": "Intel Core i7-8700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Dell OptiPlex 7070 Small Form Factor (Intel Core i7-9700)",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "5,999",
+        "處理器:": "Intel Core i7-9700 (8 核/12MB/8T/3.0GHz 至 4.8GHz/65W)",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel 整合式顯示卡"
+    },
+    {
+        "names": "HPE ProLiant ML350 Gen10 4U Tower Server (16GB ram, 2x10k SAS 300GB)",
+        "rating": "",
+        "hon_price_min": "19,700",
+        "hon_price_max": "19,700",
+        "處理器:": "Xeon-Bronze 3106 (1.7GHz/8-core)",
+        "硬碟:": "300 + 300GB"
+    },
+    {
+        "names": "HP HPE ProLiant Server ML350 Gen9 (Tower) (Xeon e5-2603v4)",
+        "rating": "",
+        "hon_price_min": "21,390",
+        "hon_price_max": "21,390",
+        "處理器:": "Xeon e5-2603v4"
+    },
+    {
+        "names": "HP ProDesk G7 SFF (20M97PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,450",
+        "hon_price_max": "6,530",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 5060 SFF (i5-8400/4GB RAM/1TB HDD)",
+        "rating": "",
+        "hon_price_min": "4,660",
+        "hon_price_max": "4,680",
+        "處理器:": "Intel Core i5-8400",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "HP ProDesk 400 G5纖巧式個人電腦 (6HP25PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,200",
+        "處理器:": "Intel i3-8100",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (2S6V1PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,350",
+        "hon_price_max": "5,690",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "On-board"
+    },
+    {
+        "names": "HP ProLiant DL360 Gen9 1U Server",
+        "rating": "",
+        "hon_price_min": "12,560",
+        "hon_price_max": "12,600",
+        "處理器:": "E5-2603v3",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Dell PowerEdge T340 立式伺服器",
+        "rating": "",
+        "hon_price_min": "15,800",
+        "hon_price_max": "15,900",
+        "處理器:": "Intel Xeon E-2144G 3.6GHz, 8M cache, 4C/8T",
+        "硬碟:": "1000 + 1000GB"
+    },
+    {
+        "names": "Asus Chromebox 3-N7164U",
+        "rating": "",
+        "hon_price_min": "7,550",
+        "hon_price_max": "7,550",
+        "作業系統:": "Chrome OS",
+        "硬碟:": "32GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ASUS Mini PC PN62 (i7-1165G7,16+1000GB SSD) PN63-S1-i716G1T",
+        "rating": "",
+        "hon_price_min": "6,980",
+        "hon_price_max": "6,980",
+        "作業系統:": "Windows 11",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics or Intel UHD Graphics for 11th Gen Intel Processors"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (G7400, 8+512GB SSD) D700SD-0G7400017W",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,380",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s 10STS1AY00",
+        "rating": "",
+        "hon_price_min": "5,100",
+        "hon_price_max": "5,299",
+        "處理器:": "Intel i5-9500",
+        "硬碟:": "256 + 1000GB"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (2S6U9PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,920",
+        "hon_price_max": "4,950",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkPad X1 Yoga 第 4 代 (20QFS01100)",
+        "rating": "",
+        "hon_price_min": "12,500",
+        "hon_price_max": "12,850",
+        "處理器:": "Intel i5-8265U",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HPE ProLiant DL360 Gen10 4114 2.2GHz 10C 85W 2P 8SFF",
+        "rating": "",
+        "hon_price_min": "53,300",
+        "hon_price_max": "53,500",
+        "處理器:": "Xeon-S 4114 2.2GHz 10C 85W",
+        "硬碟:": "4800GB"
+    },
+    {
+        "names": "HPE ProLiant DL360 Gen10 4108 1.8GHz 8C 85W 1P 8SFF",
+        "rating": "",
+        "hon_price_min": "28,700",
+        "hon_price_max": "28,900",
+        "處理器:": "Intel Xeon Silver 4108 8C 1.8GHz",
+        "硬碟:": "300 + 300 + 300GB"
+    },
+    {
+        "names": "Lenovo ThinkStation P920 (30BCS0L000)",
+        "rating": "",
+        "hon_price_min": "33,900",
+        "hon_price_max": "34,000",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 2000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA Quadro P2200 5GB 4*DP"
+    },
+    {
+        "names": "ZOTAC VR GO 3.0 with Windows 10 (ZBOX-VR7N73)",
+        "rating": "",
+        "hon_price_min": "17,280",
+        "hon_price_max": "17,280",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "240GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 2070 8GB GDDR6"
+    },
+    {
+        "names": "HP 280G4 MT (4QM65PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "處理器:": "Intel i5-8400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP 280 G3 Small Form Factor PC (7WZ87PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,800",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 3050 SFF (i5-7500/4GB RAM/500GB HDD)",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,200",
+        "處理器:": "Intel Core i5-7500",
+        "硬碟:": "500GB",
+        "顯示卡:": "集顯"
+    },
+    {
+        "names": "HPE SY 480 Gen10 2P Perf Cmpt Mdl",
+        "rating": "",
+        "hon_price_min": "106,200",
+        "hon_price_max": "106,200",
+        "處理器:": "2 x Intel Xeon-Gold 6130 (2.1GHz/16-core/125W) Processor Kit",
+        "記憶體:": "64GB"
+    },
+    {
+        "names": "Dell PowerEdge T630 Server",
+        "rating": "",
+        "hon_price_min": "24,800",
+        "hon_price_max": "25,510",
+        "處理器:": "Intel Xeon E5-2630 v3 2.4GHz",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (20M98PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "7,599",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo System x3100 M5 Tower Servers",
+        "rating": "",
+        "hon_price_min": "8,870",
+        "hon_price_max": "8,870",
+        "處理器:": "Intel Xeon E3-1220 v3 3.1GHz 8MB 1600MHz 4C (80W)",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkStation P330ty Tiny-Form Workstation (30CFs0AF00)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "整合式圖形卡"
+    },
+    {
+        "names": "Dell PowerEdge R240 機架式伺服器",
+        "rating": "",
+        "hon_price_min": "10,500",
+        "hon_price_max": "10,800",
+        "處理器:": "Intel Core i3 8100 3.6GHz, 6M cache, 4C/4T, no turbo (65W)",
+        "硬碟:": "1000 + 1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710s 10M7A05HHH",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,480",
+        "處理器:": "Intel Core i5-6400",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo ThinkStation P320 TWR 30BHA00DHP",
+        "rating": "",
+        "hon_price_min": "10,350",
+        "hon_price_max": "10,350",
+        "處理器:": "i7-7700",
+        "硬碟:": "256 + 1000GB",
+        "顯示卡:": "Nvidia Quadro P600 2GB 4 x mini DP"
+    },
+    {
+        "names": "Fujitsu Fujitsu ESPRIMO D9010 SFF PC (i7-10700,32+1000GB SSD)",
+        "rating": "",
+        "hon_price_min": "9,450",
+        "hon_price_max": "9,459",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "HP HPE ProLiant Gen9 Server ML350 (Tower) (Xeon e5-2609v3)",
+        "rating": "",
+        "hon_price_min": "26,900",
+        "hon_price_max": "26,900",
+        "處理器:": "Xeon e5-2609v3"
+    },
+    {
+        "names": "Dell OptiPlex 5000 Micro 迷你桌上電腦 (i5-12500T,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "7,240",
+        "hon_price_max": "7,399",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Graphics"
+    },
+    {
+        "names": "HP HPE StoreEasy 1450 NAS Storage Entry Package (16TB HDD Raw)",
+        "rating": "",
+        "hon_price_min": "47,890",
+        "hon_price_max": "48,000"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90t Series - Tower (11CYS00C00)",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "6,190",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HPE ProLiant DL380 Gen10 server (Xeon-Silver 4214/16GB/HPE 600GB SAS x3)",
+        "rating": "",
+        "hon_price_min": "27,750",
+        "hon_price_max": "27,800",
+        "作業系統:": "Windows Server 2019",
+        "硬碟:": "600 + 600 + 600GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP ProDesk 600 G6 (46Q63PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "6,650",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP HPE MSA2040 SAN Storage Basic Package (5.4TB HDD Raw)",
+        "rating": "",
+        "hon_price_min": "88,900",
+        "hon_price_max": "89,000",
+        "硬碟:": "5400GB"
+    },
+    {
+        "names": "HP 280 G3 Small Form Factor PC (7WZ93PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "4,800",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90q Series Tiny (11CRS00K00)",
+        "rating": "",
+        "hon_price_min": "7,260",
+        "hon_price_max": "7,590",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell XPS Desktop 8950 (i7-12700,16+512GB SSD, RTX3060Ti)",
+        "rating": "",
+        "hon_price_min": "14,999",
+        "hon_price_max": "15,990",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 3060 Ti 8GB (LHR)"
+    },
+    {
+        "names": "HP Z2 Tower G8 Workstation (i7-11700/16+512GB/RTX3080)",
+        "rating": "",
+        "hon_price_min": "21,400",
+        "hon_price_max": "21,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 3080 10GB GDDR6X FH PCIe x16 Graphics"
+    },
+    {
+        "names": "ASUS Expert Centre D700SA-510400052T",
+        "rating": "",
+        "hon_price_min": "4,399",
+        "hon_price_max": "5,700",
+        "作業系統:": "Windows 10",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR250 1U Rack Mount Server (Intel Xeon E-2234 4C, 8+1200GB SAD)",
+        "rating": "",
+        "hon_price_min": "15,890",
+        "hon_price_max": "15,990",
+        "作業系統:": "Windows Server",
+        "硬碟:": "1200GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "Lenovo ThinkPad T14S Gen 1 (20T0S01V00)",
+        "rating": "",
+        "hon_price_min": "10,700",
+        "hon_price_max": "11,780",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HP Z2 G8 Tower Workstation (4D4B8PA#AB5)",
+        "rating": "",
+        "hon_price_min": "12,350",
+        "hon_price_max": "12,380",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics"
+    },
+    {
+        "names": "HPE ProLiant DL20 Gen9 1U Rack Server",
+        "rating": "",
+        "hon_price_min": "9,300",
+        "hon_price_max": "9,388",
+        "處理器:": "E3-1220v6 FIO Kit",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M800 SFF 10FYA00CHC",
+        "rating": "10",
+        "hon_price_min": "5,180",
+        "hon_price_max": "5,180",
+        "處理器:": "Intel Core i5-6400",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel HD graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710e 10UR003KHC",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,280",
+        "處理器:": "Intel Core i5-7400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo System x3650 M5 Rack Server (Intel Xeon E5-2620 v4)",
+        "rating": "",
+        "hon_price_min": "18,990",
+        "hon_price_max": "18,990",
+        "處理器:": "Intel Xeon E5-2620 v4 8C 2.1GHz 20MB Cache 2133MHz 85W",
+        "硬碟:": "600 + 600GB"
+    },
+    {
+        "names": "HP ProDesk 400 G5 SFF (4WQ74PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,250",
+        "hon_price_max": "6,250",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "16 + 1000GB"
+    },
+    {
+        "names": "HP ProDesk 600 G4 SFF(4WQ78PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,590",
+        "hon_price_max": "5,790",
+        "處理器:": "Intel i5-8500",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo V530s SSF (10TXS00100)",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lenovo ThinkPad E450 20DCA071HH",
+        "rating": "",
+        "hon_price_min": "5,970",
+        "hon_price_max": "5,970",
+        "處理器:": "Intel i5-5200U CPU",
+        "硬碟:": "1000GB",
+        "顯示卡:": "AMD Radeon R7 M260 2GB"
+    },
+    {
+        "names": "HP ProDesk 400 G5 SFF(5HF07PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "4,850",
+        "處理器:": "Intel i5-8500",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s SFF (10STS0RW00)",
+        "rating": "",
+        "hon_price_min": "6,240",
+        "hon_price_max": "6,420",
+        "處理器:": "Intel Core i7-9700",
+        "硬碟:": "512GB"
+    },
+    {
+        "names": "Dell Vostro 3668-D5720 MT",
+        "rating": "",
+        "hon_price_min": "6,299",
+        "hon_price_max": "6,299",
+        "處理器:": "Intel Core i7-7700",
+        "硬碟:": "1000GB",
+        "顯示卡:": "NVIDIA GeForce GT 1030 含 2GB GDDR5"
+    },
+    {
+        "names": "HP ProDesk 400 G6 小型商用電腦 (8EN74PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,100",
+        "hon_price_max": "4,150",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo THINKCENTRE M800 TOWER (10FWA00CHC)",
+        "rating": "",
+        "hon_price_min": "6,080",
+        "hon_price_max": "6,080",
+        "處理器:": "Intel Core i7-6700 (8M Cache, up to 4.00 GHz)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Integrated Intel Graphics"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (20M90PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,390",
+        "hon_price_max": "5,399",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M75q Gen 2 (11JN002YHH)",
+        "rating": "",
+        "hon_price_min": "3,998",
+        "hon_price_max": "3,998",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon 顯示卡"
+    },
+    {
+        "names": "Lenovo ThinkPad P50 20ENS00E00",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,980",
+        "處理器:": "Intel i7-6820HQ",
+        "硬碟:": "256GB",
+        "顯示卡:": "nVidia Quadro M2000M 4GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M910s 10MKA01NHC",
+        "rating": "",
+        "hon_price_min": "5,920",
+        "hon_price_max": "5,920",
+        "處理器:": "Intel Core i5-6400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP 280G3 SFF (4QM68PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,489",
+        "hon_price_max": "6,489",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "128GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710e 10UR003MHC",
+        "rating": "",
+        "hon_price_min": "5,160",
+        "hon_price_max": "5,160",
+        "處理器:": "Intel Core i5-7400",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP ProDesk 400 G4 3AK20PT#AB5",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,300",
+        "處理器:": "Intel i3-7100",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkSystem SR250 1U Rack Mount Server (Intel Xeon E-2224G 4C, 8+2000GB SAS)",
+        "rating": "",
+        "hon_price_min": "15,400",
+        "hon_price_max": "15,500",
+        "作業系統:": "Windows Server",
+        "硬碟:": "2000GB",
+        "硬碟類型:": "SAS",
+        "顯示卡:": "ONBOARD"
+    },
+    {
+        "names": "HP ProDesk 600 G6 (2N8P3PA#AB5)",
+        "rating": "",
+        "hon_price_min": "12,750",
+        "hon_price_max": "12,800",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 2000GB",
+        "硬碟類型:": "SSD+HDD"
+    },
+    {
+        "names": "HP ProLiant ML350 Gen9 Server (E5-2603v4)",
+        "rating": "",
+        "hon_price_min": "15,900",
+        "hon_price_max": "15,900",
+        "處理器:": "Intel Xeon E5-2603v4 (6-core)",
+        "硬碟:": "300GB"
+    },
+    {
+        "names": "HP 280 Pro G5 SFF (i5-10400, 8+512GB SSD) 641L2PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,700",
+        "hon_price_max": "5,800",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell PowerEdge T30 Server 塔式伺服器",
+        "rating": "",
+        "hon_price_min": "5,100",
+        "hon_price_max": "5,189",
+        "處理器:": "Intel Xeon E3-1225v5 CPU,3.3GHz 8M 缓存,4C/4T,80W",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP HPE StoreEasy 1450 NAS Storage Entry Package (8TB HDD Raw)",
+        "rating": "",
+        "hon_price_min": "44,890",
+        "hon_price_max": "45,000"
+    },
+    {
+        "names": "Lenovo THINKCENTRE M800 SSF (10FHA003HC)",
+        "rating": "",
+        "hon_price_min": "5,460",
+        "hon_price_max": "5,460",
+        "處理器:": "Intel Core i5-6400 (6M Cache, up to 3.30 GHz)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Integrated Intel Graphics"
+    },
+    {
+        "names": "Lenovo THINKCENTRE M900 SSF (10FHA002HC)",
+        "rating": "",
+        "hon_price_min": "6,390",
+        "hon_price_max": "6,390",
+        "處理器:": "Intel Core i7-6700 (8M Cache, up to 4.00 GHz)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Integrated Intel Graphics"
+    },
+    {
+        "names": "Dell OptiPlex 3070 Micro (i3-9100T/8GB/1TB)",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "3,900",
+        "處理器:": "Intel Core i3-9100T (4 Cores/6MB/4T/3.1GHz to 3.7GHz/35W)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "集顯"
+    },
+    {
+        "names": "Dell OptiPlex 3046 Mini Tower",
+        "rating": "",
+        "處理器:": "Intel Core i5-6500",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel HD Graphics 530"
+    },
+    {
+        "names": "Lenovo V520s SFF 10NMS00C00",
+        "rating": "",
+        "hon_price_min": "3,560",
+        "hon_price_max": "3,560",
+        "處理器:": "Intel Core i3-6100",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo AIO V310z 10QGA003HC",
+        "rating": "",
+        "hon_price_min": "5,050",
+        "hon_price_max": "5,050",
+        "處理器:": "i3-7100",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP EliteDesk 705 G5 Small Form Factor Business PC (9ZG04PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,200",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon R7 430 2GB"
+    },
+    {
+        "names": "Lenovo ThinkStation P410 TWR 30B3A00200",
+        "rating": "",
+        "hon_price_min": "12,880",
+        "hon_price_max": "12,880",
+        "處理器:": "Intel Xeon E5-1620 v4",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Nvidia Quadro M2000 (DP x 4)  4GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710q 10MRA02EHC",
+        "rating": "",
+        "hon_price_min": "5,530",
+        "hon_price_max": "5,530",
+        "處理器:": "Intel Core i5-7400T",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP 400PD G3 SFF V6G23PA#AB5",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "處理器:": "i3-6100",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "HP ProDesk 400 G4 i5 Win10Pro 1AY75PT#AB5",
+        "rating": "",
+        "hon_price_min": "4,320",
+        "hon_price_max": "4,320",
+        "處理器:": "i5-7500",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel"
+    },
+    {
+        "names": "HP ProDesk 400 G4 2ZV32PT#AB5",
+        "rating": "",
+        "hon_price_min": "6,570",
+        "hon_price_max": "6,570",
+        "處理器:": "Intel i5-7500",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo ThinkStation P340mt (30DHS04G00)",
+        "rating": "",
+        "hon_price_min": "13,780",
+        "hon_price_max": "13,990",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "P2200 4G"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (2S6V2PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,850",
+        "hon_price_max": "6,090",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (D700SA-510400293R)",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "6,998",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 7050 SFF (Intel i7-7700/8GB/1TB)",
+        "rating": "",
+        "hon_price_min": "7,950",
+        "hon_price_max": "7,950",
+        "處理器:": "Intel Core i7-7700 處理器",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel 整合式顯示卡"
+    },
+    {
+        "names": "HP 280G3 SFF (4SC27PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,700",
+        "hon_price_max": "5,700",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP ProDesk 600 G6 (2D1G2PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,390",
+        "hon_price_max": "6,750",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP ProDesk 400 G5纖巧式個人電腦 (6HP23PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,099",
+        "hon_price_max": "6,099",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP ProDesk 600 G3 SFF 1AY35PT#AB5",
+        "rating": "",
+        "hon_price_min": "6,550",
+        "hon_price_max": "6,550",
+        "處理器:": "i7-6700",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel"
+    },
+    {
+        "names": "Lenovo 10GTS01X00",
+        "rating": "",
+        "hon_price_min": "3,840",
+        "hon_price_max": "3,840",
+        "處理器:": "Intel Core i5-640",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA005HH",
+        "rating": "",
+        "hon_price_min": "13,870",
+        "hon_price_max": "13,870",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710s 10M7A05LHH",
+        "rating": "",
+        "hon_price_min": "6,040",
+        "hon_price_max": "6,040",
+        "處理器:": "Intel Core i7-6700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M920q 10RSA003HC",
+        "rating": "",
+        "hon_price_min": "7,460",
+        "hon_price_max": "8,288",
+        "處理器:": "Intel Core i7-8700T",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo ThinkPad E550 20DFA05NHH",
+        "rating": "",
+        "hon_price_min": "7,098",
+        "hon_price_max": "7,098",
+        "處理器:": "Intel i5-5200U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "AMD Radeon R7 M265 2GB"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (20M96PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,600",
+        "hon_price_max": "5,799",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA015HH",
+        "rating": "",
+        "hon_price_min": "11,249",
+        "hon_price_max": "11,249",
+        "處理器:": "Intel i5-5200U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "NVIADIA GeForce 940M 1GB Graphics"
+    },
+    {
+        "names": "Asus Mini PC PN62 (I38G256TB3)",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "4,998",
+        "作業系統:": "Windows 10",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M73 Mini-Tower (10B0A02KHC)",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,550",
+        "處理器:": "Intel Core i3-4170",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel"
+    },
+    {
+        "names": "Dell PowerEdge R7300XD Rack Mount Server",
+        "rating": "",
+        "hon_price_min": "22,500",
+        "hon_price_max": "22,780",
+        "處理器:": "Intel Xeon E5-2630 v3 2.4GHz",
+        "硬碟:": "300 + 300GB"
+    },
+    {
+        "names": "HP ProOne 600 G3 2ZV14PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,560",
+        "hon_price_max": "8,560",
+        "處理器:": "Intel i5-7500",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP V8N70PT",
+        "rating": "",
+        "hon_price_min": "4,030",
+        "hon_price_max": "4,030",
+        "處理器:": "Core-i5 (6500)",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "HP ProDesk 400 G5 迷你桌面個人電腦",
+        "rating": "",
+        "hon_price_min": "4,270",
+        "hon_price_max": "4,270",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Dell OptiPlex 3000 Tower (i5-12500,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,700",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "HP 400PD G3 MT V1G46PA#AB5",
+        "rating": "",
+        "hon_price_min": "4,230",
+        "hon_price_max": "4,230",
+        "處理器:": "i5-6500",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Lenovo V530 Tower 10TVA002HC",
+        "rating": "",
+        "hon_price_min": "3,240",
+        "hon_price_max": "3,580",
+        "處理器:": "Intel Pentium Gold G5400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA02LHH",
+        "rating": "",
+        "hon_price_min": "10,950",
+        "hon_price_max": "10,950",
+        "處理器:": "Intel i5-5200U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "Lenovo ThinkCentre M910t 10MMS00500",
+        "rating": "",
+        "hon_price_min": "6,440",
+        "hon_price_max": "6,440",
+        "處理器:": "i7-6700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "ASUS Expert Centre (D700SA-310100031T)",
+        "rating": "",
+        "hon_price_min": "4,600",
+        "hon_price_max": "4,650",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP 280Pro G6 MT (1W3G4PA#AB5)",
+        "rating": "",
+        "hon_price_min": "3,650",
+        "hon_price_max": "3,680",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710e 10UR003JHC",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "處理器:": "Intel Core i3-7100",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Dell OptiPlex 7000 Tower (i5-12500,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "7,300",
+        "hon_price_max": "7,500",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo System x3650 M5 Rack Server (8871PBJ)",
+        "rating": "",
+        "hon_price_min": "15,990",
+        "hon_price_max": "15,990",
+        "處理器:": "Intel Xeon E5-2620v4",
+        "記憶體:": "8GB"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA000HH",
+        "rating": "",
+        "hon_price_min": "11,030",
+        "hon_price_max": "11,030",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "HP ProDesk 400 G6 SFF (PLEF22AV-43046756)",
+        "rating": "",
+        "hon_price_min": "5,350",
+        "hon_price_max": "5,350",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HPE ML150 Gen9 E5-2603v4 Ety AP Svr",
+        "rating": "",
+        "hon_price_min": "12,400",
+        "hon_price_max": "14,142",
+        "處理器:": "Intel Xeon E5-2603v4 (1.7GHz/6-core/15MB/85W) Processor Kit",
+        "記憶體:": "8GB"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA003HH",
+        "rating": "",
+        "hon_price_min": "9,555",
+        "hon_price_max": "9,555",
+        "處理器:": "Intel i5-5200U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "Dell Precision T3620 MT",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,200",
+        "處理器:": "Intel Core i7-6700",
+        "硬碟:": "1000GB",
+        "顯示卡:": "NVIDIA Quadro K620 2GB"
+    },
+    {
+        "names": "Dell OptiPlex 3050 AIO",
+        "rating": "",
+        "hon_price_min": "8,300",
+        "hon_price_max": "8,300",
+        "處理器:": "Intel Core i5-7500T",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710t 10M9A00JHC",
+        "rating": "",
+        "hon_price_min": "6,270",
+        "hon_price_max": "6,270",
+        "處理器:": "i7-7700",
+        "硬碟:": "1000GB",
+        "顯示卡:": "NVIDIA GEFORCE GT730 2GB DDR5"
+    },
+    {
+        "names": "Lenovo ThinkStation P410 TWR 30B3A00300",
+        "rating": "",
+        "hon_price_min": "19,130",
+        "hon_price_max": "19,130",
+        "處理器:": "Xeon E5-1630 v4",
+        "硬碟:": "512GB",
+        "顯示卡:": "Nvidia Quadro M2000 (DP x 4) - 4GB"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA02JHH",
+        "rating": "",
+        "hon_price_min": "16,588",
+        "hon_price_max": "16,588",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "NVIADIA GeForce 940M 1GB Graphics"
+    },
+    {
+        "names": "HPE DL380G10 (Xeon-Bronze 3104/8GB/300GB SAS/DVD-ROM/P408i-a/500W PS)",
+        "rating": "",
+        "hon_price_min": "17,500",
+        "hon_price_max": "17,800",
+        "處理器:": "Xeon-Bronze 3104",
+        "硬碟:": "300GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720t 10SQA00GHC",
+        "rating": "",
+        "hon_price_min": "3,330",
+        "hon_price_max": "3,490",
+        "處理器:": "Intel Pentium Gold G5400",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP ProDesk 400 G4迷你桌面個人電腦 (6HP22PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,400",
+        "hon_price_max": "6,400",
+        "處理器:": "Intel i7-8700T",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre X1 AIO, 23.8\" FHD Non-Touch Panel-10JXS00100",
+        "rating": "",
+        "hon_price_min": "10,300",
+        "hon_price_max": "10,300",
+        "處理器:": "i7-6600U",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel HD Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M900 SFF 10FHA001HC",
+        "rating": "10",
+        "hon_price_min": "7,130",
+        "hon_price_max": "7,130",
+        "處理器:": "Intel Core i7-6700",
+        "硬碟:": "1000GB",
+        "顯示卡:": "nVidia GT720 2GB with HDMI"
+    },
+    {
+        "names": "HP ProDesk 400 G6 DM (20N18PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,899",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP ProDesk 400 G5 迷你桌面個人電腦 (8DQ77PA)",
+        "rating": "",
+        "hon_price_min": "6,880",
+        "hon_price_max": "6,890",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Dell OptiPlex 5040 SFF",
+        "rating": "",
+        "hon_price_min": "5,050",
+        "hon_price_max": "5,050",
+        "處理器:": "Intel i5-6500 處理器",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel 整合式顯示卡"
+    },
+    {
+        "names": "HP ProOne 400 G6 (230U5PA#AB5)",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,850",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 3050 Minitower",
+        "rating": "",
+        "hon_price_min": "4,670",
+        "hon_price_max": "4,690",
+        "處理器:": "i5-8400 (6 Cores/9MB/6T/up to 4.0GHz/65W)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "集顯"
+    },
+    {
+        "names": "Lenovo ThinkStation P910 TWR (30B9S00A00)",
+        "rating": "",
+        "hon_price_min": "18,980",
+        "hon_price_max": "18,980",
+        "處理器:": "2*Intel Xeon E5-2609 v4",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Nvidia NVS310 (DP x 2) - 1GB DDR3"
+    },
+    {
+        "names": "Lenovo ThinkPad T450 20BVA030HH",
+        "rating": "",
+        "hon_price_min": "12,810",
+        "hon_price_max": "12,810",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710t 10M9A00HHC",
+        "rating": "",
+        "hon_price_min": "5,850",
+        "hon_price_max": "5,850",
+        "處理器:": "i7-7700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP 280G3 SFF (4QM69PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "6,580",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "256GB",
+        "顯示卡:": "GTX1060 3GB with DPx3"
+    },
+    {
+        "names": "HP 400 G4 SFF Y5W43AV",
+        "rating": "",
+        "hon_price_min": "3,460",
+        "hon_price_max": "3,460",
+        "處理器:": "Intel i3-6100",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Dell OptiPlex 5050 Mini Tower",
+        "rating": "",
+        "hon_price_min": "10,000",
+        "hon_price_max": "10,000",
+        "處理器:": "Intel Core i7-7700 處理器",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel 整合式顯示卡"
+    },
+    {
+        "names": "HP ProDesk 400 G6 Desktop Mini PC (20P63PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "7,099",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630"
+    },
+    {
+        "names": "Lenovo ThinkPad Yoga 12 20DLS01E00",
+        "rating": "",
+        "hon_price_min": "8,238",
+        "hon_price_max": "8,238",
+        "處理器:": "Intel Core i5-5200U CPU",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "Lenovo ThinkCentre m83 MT 10AKA00000",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "處理器:": "Intel Core-i5(4570)3.2Ghz",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel HD Graphic 4600"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720q Tiny (10T7S19Q00)",
+        "rating": "",
+        "hon_price_min": "6,490",
+        "hon_price_max": "6,660",
+        "處理器:": "Intel Core i7-9700T",
+        "硬碟:": "512GB"
+    },
+    {
+        "names": "Lenovo ThinkPad 13 - 20GJS00400",
+        "rating": "",
+        "hon_price_min": "8,190",
+        "hon_price_max": "8,190",
+        "處理器:": "Intel i5-6200U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel HD graphics 520"
+    },
+    {
+        "names": "Lenovo 10KQS00100",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "處理器:": "Intel Core i5-6400",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel HD graphics"
+    },
+    {
+        "names": "Lenovo ThinkPad X260 - 20F6A03BHH",
+        "rating": "",
+        "hon_price_min": "11,380",
+        "hon_price_max": "11,380",
+        "處理器:": "Intel i5-6200U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel HD graphics 520"
+    },
+    {
+        "names": "HP 280 G4 微型直立式商用電腦 (6HP31PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "4,350",
+        "處理器:": "Intel i3-8100",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo ThinkStation P520c Tower 30BXS05R00",
+        "rating": "",
+        "hon_price_min": "17,000",
+        "hon_price_max": "18,290",
+        "處理器:": "Intel Xeon W-2123 CPU",
+        "硬碟:": "512 + 1000GB",
+        "顯示卡:": "Nvidia Quadro P2000 5GB 4*mDP"
+    },
+    {
+        "names": "Lenovo ThinkPad T550 20CKS03600",
+        "rating": "",
+        "hon_price_min": "14,370",
+        "hon_price_max": "14,370",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "HPE BL660c Gen9 E5-4610v4 64GB 2P Svr",
+        "rating": "",
+        "hon_price_min": "104,000",
+        "hon_price_max": "104,100",
+        "處理器:": "2 x Intel Xeon E5-4610 v4 (1.8GHz/10-core/25MB/6.4GT-s QPI/105W, DDR4-1866, HT)",
+        "記憶體:": "64GB"
+    },
+    {
+        "names": "HPE DL360 Gen9 E5-2640v4 1P 16G 8SFF Svr",
+        "rating": "",
+        "hon_price_min": "37,530",
+        "hon_price_max": "37,900",
+        "處理器:": "Intel Xeon E5-2640v4 (2.4GHz/10-core/25MB/90W) Processor Kit",
+        "記憶體:": "16GB"
+    },
+    {
+        "names": "HP ProDesk 400 G3 3AK24PT#AB5",
+        "rating": "",
+        "hon_price_min": "5,070",
+        "hon_price_max": "5,070",
+        "處理器:": "Intel i3-6100T",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP EliteDesk 800 G6 (2S7E4PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,880",
+        "hon_price_max": "6,899",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Dell OptiPlex 3000 Small Form Factor (i5-12500,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,730",
+        "hon_price_max": "6,800",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA02PHH",
+        "rating": "",
+        "hon_price_min": "16,288",
+        "hon_price_max": "16,288",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "HP EliteDesk 800 Desktop J4K90PT#AB5",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "5,600",
+        "處理器:": "i5-4590",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel"
+    },
+    {
+        "names": "Lenovo ThinkStation P300 SFF #30AKS00Q00",
+        "rating": "",
+        "hon_price_min": "9,730",
+        "hon_price_max": "9,730",
+        "處理器:": "Intel Core i7-4790 3.6 GHz (quad-core, 8 threads)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "NVIDIA Quadro K620"
+    },
+    {
+        "names": "HP ProDesk 400 G6 微型桌上電腦 (i5-10500T,8+512GB SSD) 641L4PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,500",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Q470"
+    },
+    {
+        "names": "HP ProDesk 600 G3 MT 1AY33PT#AB5",
+        "rating": "",
+        "hon_price_min": "5,880",
+        "hon_price_max": "5,880",
+        "處理器:": "i5-6500",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel"
+    },
+    {
+        "names": "Lenovo ThinkCentre Nano M90n Fanless (11ADS01100)",
+        "rating": "",
+        "hon_price_min": "7,180",
+        "hon_price_max": "7,620",
+        "處理器:": "Intel i7-8665U",
+        "硬碟:": "512GB"
+    },
+    {
+        "names": "HP Pavilion 14-AL106TU",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "處理器:": "i3-7100U",
+        "硬碟:": "128GB",
+        "顯示卡:": "Intel HD Graphics 620"
+    },
+    {
+        "names": "HP EliteOne 1000 2ZV16PA#AB5",
+        "rating": "",
+        "處理器:": "Intel i7-7700",
+        "硬碟:": "256 + 1000GB"
+    },
+    {
+        "names": "HPE DL380 Gen9 E5-2630v4 1P 16G Base Svr",
+        "rating": "",
+        "hon_price_min": "37,730",
+        "hon_price_max": "37,900",
+        "處理器:": "Intel Xeon E5-2630v4 (2.2GHz/10-core/20MB/85W) Processor Kit",
+        "記憶體:": "16GB"
+    },
+    {
+        "names": "HP ProDesk 400 G6(MT) (i7, 8+512GB)",
+        "rating": "",
+        "hon_price_min": "5,790",
+        "hon_price_max": "5,890",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "整合式圖形卡"
+    },
+    {
+        "names": "Lenovo ThinkCentre M910q 10MVA004HC",
+        "rating": "",
+        "hon_price_min": "5,810",
+        "hon_price_max": "5,810",
+        "處理器:": "i5-7500T",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Dell PowerEdge T330 Server",
+        "rating": "",
+        "hon_price_min": "9,600",
+        "hon_price_max": "9,760",
+        "處理器:": "Intel Xeon E3-1220 v6 3.0GHz",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Sunmi  智能觸控螢幕收銀機 T2 單屏 15.6吋",
+        "rating": "",
+        "hon_price_min": "4,028",
+        "hon_price_max": "4,028",
+        "處理器:": "高通驍龍8核處理器",
+        "硬碟:": "16GB"
+    },
+    {
+        "names": "HPE DL380 Gen9 E5-2660v4 2P 64G Perf Svr",
+        "rating": "",
+        "hon_price_min": "88,900",
+        "hon_price_max": "88,950",
+        "處理器:": "2 x Intel Xeon E5-2660v4 (2.0GHz/14-core/35MB/105W) Processor Kit",
+        "記憶體:": "64GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M73 Mini-Tower 10B0S00K00",
+        "rating": "",
+        "water_price_min": "900",
+        "water_price_max": "900",
+        "處理器:": "Intel Core i5-4460 CPU",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720s SFF (10STS0S300)",
+        "rating": "",
+        "hon_price_min": "8,090",
+        "hon_price_max": "8,269",
+        "處理器:": "Intel Core i9-9900",
+        "硬碟:": "512GB"
+    },
+    {
+        "names": "HP ProDesk 400 G6 SFF (8EN67PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,170",
+        "hon_price_max": "4,170",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA02SHH",
+        "rating": "",
+        "hon_price_min": "13,990",
+        "hon_price_max": "13,990",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "NVIADIA GeForce 940M 1GB Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M73 Mini-Tower pn:10B0A01THC",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "處理器:": "Intel Pentium G3250",
+        "硬碟:": "500GB"
+    },
+    {
+        "names": "HP EliteDesk 800 G3 2YV80PA#AB5",
+        "rating": "",
+        "hon_price_min": "8,030",
+        "hon_price_max": "8,030",
+        "處理器:": "Intel i5-6500",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HPE DL360 Gen9 E5-2650v4 2P 32G 8SFF Svr",
+        "rating": "",
+        "hon_price_min": "67,000",
+        "hon_price_max": "67,100",
+        "處理器:": "2 x Intel Xeon E5-2650v4 (2.2GHz/12-core/30MB/105W) Processor Kit",
+        "記憶體:": "32GB"
+    },
+    {
+        "names": "ASUS Expert Centre D700SA-510500013T",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "5,780",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 5050 SFF (i5-7500)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "處理器:": "Intel Core i5-7500 處理器",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel 整合式顯示卡"
+    },
+    {
+        "names": "HP ProDesk 400 G5 SFF(5HF04PA#AB5)",
+        "rating": "",
+        "hon_price_min": "7,190",
+        "hon_price_max": "7,190",
+        "處理器:": "Intel i7-8700",
+        "硬碟:": "512GB"
+    },
+    {
+        "names": "Dell OptiPlex 7760 AIO i5-8500",
+        "rating": "",
+        "hon_price_min": "8,900",
+        "hon_price_max": "8,990",
+        "處理器:": "i5-8500 (6 Cores/9MB/6T/up to 4.1GHz/65W)",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel Integrated Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre m73 MT PD(g3220) 10B30027HC",
+        "rating": "",
+        "hon_price_min": "3,486",
+        "hon_price_max": "3,486",
+        "處理器:": "Intel Pentium Dual Core (G3220)3.0Ghz",
+        "硬碟:": "500GB",
+        "顯示卡:": "Intel HD Graphic"
+    },
+    {
+        "names": "ASUS ASUSPRO D830SF SFF (D830SF-I77700022R)",
+        "rating": "",
+        "hon_price_min": "6,890",
+        "hon_price_max": "6,890",
+        "處理器:": "Intel i7-7700 3.6GHz",
+        "硬碟:": "1000GB",
+        "顯示卡:": "Intel HD Graphics 630"
+    },
+    {
+        "names": "ASUS Expert Centre D700SA-71070049R",
+        "rating": "",
+        "hon_price_min": "10,350",
+        "hon_price_max": "10,380",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Geforce GT1030 2GB"
+    },
+    {
+        "names": "Lenovo ThinkPad T460s 20FHS00P00",
+        "rating": "",
+        "hon_price_min": "13,380",
+        "hon_price_max": "13,380",
+        "處理器:": "Intel i7-6600U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel HD graphics 520"
+    },
+    {
+        "names": "HP ProLiant Gen9 Server - DL380 (Rack) (6Cores 12Threads)",
+        "rating": "",
+        "hon_price_min": "32,470",
+        "hon_price_max": "32,580"
+    },
+    {
+        "names": "Lenovo ThinkPad T450s 20BXA014HH",
+        "rating": "",
+        "hon_price_min": "14,370",
+        "hon_price_max": "14,370",
+        "處理器:": "Intel i7-5600U CPU",
+        "硬碟:": "500GB",
+        "顯示卡:": "NVIADIA GeForce 940M 1GB Graphics"
+    },
+    {
+        "names": "Lenovo ThinkCentre M93p SFF Pro PN:10A9S02600",
+        "rating": "",
+        "hon_price_min": "5,199",
+        "hon_price_max": "5,199",
+        "處理器:": "Intel Core i5-4590",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710e 10UR003PHC",
+        "rating": "",
+        "hon_price_min": "6,300",
+        "hon_price_max": "6,300",
+        "處理器:": "Intel Core i7-7700",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP 280 G4 微型直立式商用電腦 (6HP32PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,000",
+        "hon_price_max": "5,000",
+        "處理器:": "Intel i5-8400",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP ProDesk 400 G3 2YV45PT#AB5",
+        "rating": "",
+        "hon_price_min": "5,760",
+        "hon_price_max": "5,760",
+        "處理器:": "Intel i5-6500T",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "HP ProDesk 400 G4迷你桌面個人電腦 (6HP17PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "4,500",
+        "處理器:": "Intel i3-8100T",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Dell PowerEdge T130 Tower Server",
+        "rating": "",
+        "hon_price_min": "16,500",
+        "hon_price_max": "16,700"
+    },
+    {
+        "names": "Lenovo ThinkPad Yoga 14 20DMA023HH",
+        "rating": "",
+        "hon_price_min": "8,990",
+        "hon_price_max": "8,990",
+        "處理器:": "Intel Core i7-5500U CPU",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel HD graphics 5500"
+    },
+    {
+        "names": "Dell OptiPlex 5050 SFF XCTO (CPU I7, 8 GB Ram, 256 SSD)",
+        "rating": "",
+        "hon_price_min": "7,360",
+        "hon_price_max": "7,400",
+        "處理器:": "Intel Core i7-7700 (QC/8MB/8T/3.6GHz/65W)",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "ASUS B8230UA-GH0087E i7-6500U 12.5\"",
+        "rating": "",
+        "hon_price_min": "11,890",
+        "hon_price_max": "11,890",
+        "處理器:": "i7-6500U",
+        "硬碟:": "512GB",
+        "顯示卡:": "Integrated Intel HD Graphic"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710e 10UR003NHC",
+        "rating": "",
+        "hon_price_min": "5,660",
+        "hon_price_max": "5,660",
+        "處理器:": "Intel Core i7-7700",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo THINKSTATION P310 (30AT0003HH) Tower",
+        "rating": "",
+        "hon_price_min": "15,760",
+        "hon_price_max": "15,760",
+        "處理器:": "Intel Core i7-6700 (3.4G 4C 8M CACHE)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "NVIDIA QUADRO K2200 - 4GB GDDR5"
+    },
+    {
+        "names": "HP ProDesk 400 G7 (2S6V4PA#AB5)",
+        "rating": "",
+        "hon_price_min": "6,700",
+        "hon_price_max": "6,730",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Dell OptiPlex 3020 SFF i5-4590",
+        "rating": "",
+        "hon_price_min": "4,788",
+        "hon_price_max": "4,788",
+        "處理器:": "Intel Core i5-4590 處理器",
+        "硬碟:": "500GB",
+        "顯示卡:": "四核心, 6MB, 3.30GHz w/HD4600 顯示卡"
+    },
+    {
+        "names": "Lenovo ThinkStation P310 (30AV0001HH)",
+        "rating": "",
+        "hon_price_min": "11,270",
+        "hon_price_max": "11,270",
+        "處理器:": "Intel Core i7-6700 (3.4G 4C 8M CACHE)",
+        "硬碟:": "1000GB",
+        "顯示卡:": "NVIDIA QUADRO K620- 2GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M910q 10MVA00JHC",
+        "rating": "",
+        "hon_price_min": "5,990",
+        "hon_price_max": "5,990",
+        "處理器:": "Intel Core i5-7400T",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo Thinkserver TS140",
+        "rating": "",
+        "hon_price_min": "7,180",
+        "hon_price_max": "7,180",
+        "處理器:": "Intel Xeon Processor E3-1226v3 4C 3.3GHz 8MB Cache (84W)",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "HP ProDesk 400 G5 Microtower PC (6HP26PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,250",
+        "處理器:": "Intel i3-8100",
+        "硬碟:": "256GB"
+    },
+    {
+        "names": "Lenovo V520 Tower 10NKA022HC",
+        "rating": "",
+        "hon_price_min": "3,770",
+        "hon_price_max": "3,770",
+        "處理器:": "Intel Core i3-6100",
+        "硬碟:": "1000GB"
+    },
+    {
+        "names": "Lenovo ThinkCentre M710t 10M9S00100",
+        "rating": "",
+        "處理器:": "i3-6100",
+        "硬碟:": "1000GB"
+    }
+]

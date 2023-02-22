@@ -1,0 +1,3517 @@
+[
+    {
+        "names": "Anker PowerConf 會議用藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "790",
+        "hon_price_max": "1,039",
+        "water_price_min": "699",
+        "water_price_max": "850",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Sony 玻璃揚聲器 LSPX-S3",
+        "rating": "",
+        "hon_price_min": "2,149",
+        "hon_price_max": "2,799",
+        "有線/無線:": "無線",
+        "尺寸:": "94 x 289mm",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "Sony Wireless Neckband Speaker 無線掛頸式揚聲器 SRS-NB10",
+        "rating": "9.6",
+        "hon_price_min": "850",
+        "hon_price_max": "1,199",
+        "有線/無線:": "無線",
+        "尺寸:": "191 x 49 x 185mm",
+        "重量:": "0.113kg"
+    },
+    {
+        "names": "Sony Wireless Neckband Speaker 無線頸掛式揚聲器 SRS-NS7",
+        "rating": "9.3",
+        "hon_price_min": "1,900",
+        "hon_price_max": "2,499",
+        "water_price_min": "1,920",
+        "water_price_max": "1,980",
+        "有線/無線:": "無線",
+        "尺寸:": "244 x 53 x 186mm",
+        "重量:": "0.318kg"
+    },
+    {
+        "names": "Jabra Speak 710 會議無線藍牙電話揚聲器",
+        "rating": "8.7",
+        "hon_price_min": "2,035",
+        "hon_price_max": "2,443",
+        "water_price_min": "1,799",
+        "water_price_max": "2,108",
+        "有線/無線:": "無線",
+        "尺寸:": "131 x 38mm",
+        "重量:": "0.3kg"
+    },
+    {
+        "names": "Jabra Speak 510 UC 會議電話揚聲器",
+        "rating": "9.0",
+        "hon_price_min": "1,030",
+        "hon_price_max": "14,000",
+        "water_price_min": "990",
+        "water_price_max": "1,045"
+    },
+    {
+        "names": "Sony 總功率 180W 內置電池額外無線後置揚聲器 SA-RS5",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "4,695",
+        "有線/無線:": "無線",
+        "重量:": "(每件) 2.4kg"
+    },
+    {
+        "names": "Monster Boomerang Petite Wireless Speaker 掛頸藍牙喇叭",
+        "rating": "9.3",
+        "hon_price_min": "698",
+        "hon_price_max": "798",
+        "尺寸:": "180 x 23 x 34m",
+        "重量:": "0.175kg"
+    },
+    {
+        "names": "Anker PowerConf speakerphone 會議藍牙喇叭擴音器 S500",
+        "rating": "",
+        "hon_price_min": "1,790",
+        "hon_price_max": "1,899",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Sony 100W Additional Wireless Rear Speakers 無線後置喇叭 SA-RS3S",
+        "rating": "8.0",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,790",
+        "有線/無線:": "無線",
+        "尺寸:": "100 x 187 x 100mm",
+        "重量:": "1.1 kgkg"
+    },
+    {
+        "names": "Jabra Speak 750 Speaker Phone",
+        "rating": "",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,560",
+        "water_price_min": "2,200",
+        "water_price_max": "2,350",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Shure Stem Speaker - Networked Speaker",
+        "rating": "",
+        "hon_price_min": "7,400",
+        "hon_price_max": "7,410",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL CONTROL X",
+        "rating": "10",
+        "hon_price_min": "2,340",
+        "hon_price_max": "2,880",
+        "water_price_min": "1,990",
+        "water_price_max": "2,100",
+        "頻率:": "90Hz ～ 20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "165 × 235 × 159mm",
+        "重量:": "2.6kg"
+    },
+    {
+        "names": "B&O Beosound Edge 無線揚聲器",
+        "rating": "",
+        "hon_price_min": "29,800",
+        "hon_price_max": "29,800",
+        "water_price_min": "22,800",
+        "water_price_max": "22,880",
+        "有線/無線:": "無線",
+        "尺寸:": "502 x 130mm",
+        "重量:": "13kg"
+    },
+    {
+        "names": "Bose S1 Pro",
+        "rating": "10",
+        "hon_price_min": "5,299",
+        "hon_price_max": "5,600",
+        "water_price_min": "4,980",
+        "water_price_max": "4,980",
+        "有線/無線:": "無線",
+        "靈敏度:": "103 dB (109 dB Peak)dB",
+        "尺寸:": "332 x 282 x 240mm",
+        "重量:": "7.1kg"
+    },
+    {
+        "names": "Jabra Connect 4s",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "Anker PowerConf+ 會議藍牙喇叭 (連USB藍牙接收器)",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,199",
+        "有線/無線:": "無線",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Maono UHF 30W Wireless Microphone and Speaker with Remote AU-C04H",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL EON715 15-inch Powered PA Speaker with Bluetooth",
+        "rating": "",
+        "hon_price_min": "5,540",
+        "hon_price_max": "5,540",
+        "有線/無線:": "無線",
+        "尺寸:": "716 x 438 x 358mm",
+        "重量:": "17kg"
+    },
+    {
+        "names": "B&O Beosound 1 無線喇叭",
+        "rating": "",
+        "hon_price_min": "12,680",
+        "hon_price_max": "13,500",
+        "water_price_min": "8,800",
+        "water_price_max": "8,888",
+        "有線/無線:": "無線",
+        "尺寸:": "162 x 327 x 162mm",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "JBL Ki08",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,790",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H245 mm x W435 mm x D285 mm",
+        "重量:": "8.8kg"
+    },
+    {
+        "names": "Transparent Transparent Speaker 藍牙音響",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "11,800",
+        "有線/無線:": "無線",
+        "尺寸:": "431 × 333 × 118mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Jabra Speak 510 UC+MS 雙兼容版 會議藍牙電話揚聲器",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,400",
+        "water_price_min": "1,130",
+        "water_price_max": "1,130",
+        "有線/無線:": "有線",
+        "尺寸:": "120 x 120 x 22.6mm",
+        "重量:": "0.2kg"
+    },
+    {
+        "names": "Jabra Speak 410 Portable USB Conference Speakerphone - Unified Communication",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "1,004"
+    },
+    {
+        "names": "eMeet OfficeCore Luna Smart Speakerphone",
+        "rating": "10",
+        "hon_price_min": "739",
+        "hon_price_max": "1,199",
+        "water_price_min": "799",
+        "water_price_max": "799"
+    },
+    {
+        "names": "Maono Portable Voice Amplifier with Waistband and LED Display AU-C01",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "299",
+        "有線/無線:": "有線",
+        "靈敏度:": "126dB"
+    },
+    {
+        "names": "Jabra SPEAK 510+ MS 會議揚聲器 (7510-309)",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,430",
+        "water_price_min": "999",
+        "water_price_max": "999"
+    },
+    {
+        "names": "JBL Passive 15\" 2-Way, Full-Range Karaoke Loudspeaker KP8055",
+        "rating": "",
+        "hon_price_min": "11,298",
+        "hon_price_max": "11,298",
+        "有線/無線:": "無線",
+        "阻抗:": "8Ω",
+        "尺寸:": "684 x 430 x 445mm",
+        "重量:": "23.7kg"
+    },
+    {
+        "names": "Jabra Speak 510 MS 會議用藍牙揚聲器",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,430",
+        "water_price_min": "999",
+        "water_price_max": "1,045",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Tivoli Audio Music System Home (Gen. 2) Smart Hi-Fi System",
+        "rating": "10",
+        "hon_price_min": "6,848",
+        "hon_price_max": "6,848",
+        "有線/無線:": "無線",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "W-KING 掛腰擴音器 KS02",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "250",
+        "water_price_min": "210",
+        "water_price_max": "218",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL Powered 8” Portable Speaker with Bluetooth 主動式藍牙喇叭 IRX108 BT",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "4,000",
+        "有線/無線:": "無線",
+        "阻抗:": "10kΩ",
+        "尺寸:": "258 x 313 x 486mm",
+        "重量:": "7.9kg"
+    },
+    {
+        "names": "B&O Beosound 2 無線喇叭",
+        "rating": "",
+        "hon_price_min": "16,800",
+        "hon_price_max": "23,800",
+        "water_price_min": "14,900",
+        "water_price_max": "18,999",
+        "有線/無線:": "無線",
+        "尺寸:": "200 x 431 x 200mm",
+        "重量:": "4.1kg"
+    },
+    {
+        "names": "CC&JBL 透翅蝶 油畫壁掛壁畫歌詞音響",
+        "rating": "",
+        "water_price_min": "4,980",
+        "water_price_max": "6,780",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "AVerMedia USB Conferencing Speakerphone FONE540",
+        "rating": "",
+        "hon_price_min": "4,640",
+        "hon_price_max": "4,800"
+    },
+    {
+        "names": "JBL 6.5” 2-Way Passive Surface-Mount Speaker 被動式喇叭 CV1610",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,250",
+        "有線/無線:": "無線",
+        "阻抗:": "8Ω",
+        "尺寸:": "510 × 206 × 234mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "eMeet OfficeCore M2 Smart Speakerphone",
+        "rating": "10",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,790",
+        "尺寸:": "125 x 125 x 35mm"
+    },
+    {
+        "names": "Behringer B1200D-Pro 主動式喇叭",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL Passive 12\" 2-Way Full-Range Karaoke Loudspeaker KP8052",
+        "rating": "6.0",
+        "hon_price_min": "9,978",
+        "hon_price_max": "9,978",
+        "有線/無線:": "無線",
+        "阻抗:": "8Ω",
+        "尺寸:": "604 x 350 x 397mm",
+        "重量:": "17.7kg"
+    },
+    {
+        "names": "B&O BeoSound Core 藍牙無線高清音樂播放器",
+        "rating": "",
+        "water_price_min": "8,680",
+        "water_price_max": "8,890",
+        "有線/無線:": "無線",
+        "重量:": "0.29kg"
+    },
+    {
+        "names": "JBL MK10",
+        "rating": "",
+        "hon_price_min": "4,390",
+        "hon_price_max": "4,400",
+        "頻率:": "48Hz-17kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "290 x 505 x 320mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "JBL Control X Wireless",
+        "rating": "10",
+        "hon_price_min": "2,380",
+        "hon_price_max": "5,368",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Sennheiser SP 30+ Portable Wireless Speakerphone with dongle 藍牙喇叭",
+        "rating": "10",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,988"
+    },
+    {
+        "names": "Jabra Speak 510 會議電話揚聲器",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,400"
+    },
+    {
+        "names": "Epos Audio Expand SP 30  Portable Bluetooth Speakerphone (1000223)",
+        "rating": "10",
+        "hon_price_min": "1,304",
+        "hon_price_max": "1,640",
+        "有線/無線:": "無線",
+        "尺寸:": "120 x 120 x 37mm"
+    },
+    {
+        "names": "BMB Speaker System 卡拉OK音箱 CSE-310",
+        "rating": "",
+        "hon_price_min": "6,980",
+        "hon_price_max": "6,980",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "520 x 301 x 326mm",
+        "重量:": "14.3kg"
+    },
+    {
+        "names": "JBL 5.25” 2-Way Surface-Mount Speaker 被動式喇叭 CV1510",
+        "rating": "",
+        "hon_price_min": "3,780",
+        "hon_price_max": "3,780",
+        "有線/無線:": "無線",
+        "阻抗:": "8Ω",
+        "尺寸:": "380 x 179 x 205mm",
+        "重量:": "5.05kg"
+    },
+    {
+        "names": "Behringer Active 2-Way 12\" PA Speaker System 外場表演喇叭 B112MP3",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "有線/無線:": "有線",
+        "尺寸:": "568 x 342 x 370mm",
+        "重量:": "12.5kg"
+    },
+    {
+        "names": "Bose FreeSpace DS 40F",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "300 x 162mm",
+        "重量:": "3.7kg"
+    },
+    {
+        "names": "Poly Calisto 5300 Personal Bluetooth Speakerphone",
+        "rating": "",
+        "hon_price_min": "1,378",
+        "hon_price_max": "1,415",
+        "有線/無線:": "無線",
+        "阻抗:": "4Ω",
+        "尺寸:": "31.1 x 108.6mm"
+    },
+    {
+        "names": "AVerMedia AI Speakerphone 智慧微型會議電話揚聲器 AS311",
+        "rating": "10",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,580",
+        "有線/無線:": "有線",
+        "尺寸:": "120 x 80 x 40mm",
+        "重量:": "0.195kg"
+    },
+    {
+        "names": "Transparent Light Speaker 便攜式無線燈喇叭",
+        "rating": "",
+        "hon_price_min": "3,900",
+        "hon_price_max": "3,900",
+        "有線/無線:": "無線",
+        "尺寸:": "105 x 160 ~ (with handle) 214mm",
+        "重量:": "0.6kg"
+    },
+    {
+        "names": "SDRD 無線K歌神器 雙人對唱版 SD-315",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "599",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "BMB Speaker System 卡拉OK音箱 CSN-510",
+        "rating": "",
+        "hon_price_min": "5,880",
+        "hon_price_max": "5,880",
+        "有線/無線:": "有線",
+        "尺寸:": "509 x 296 x 291mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Xiaomi 小米 會議寶mini",
+        "rating": "",
+        "water_price_min": "1,380",
+        "water_price_max": "1,380"
+    },
+    {
+        "names": "Hoco 無線揚聲器 BS37 Dancer",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "有線/無線:": "無線",
+        "重量:": "1.9kg"
+    },
+    {
+        "names": "MORRORART 壁畫歌詞藍牙音箱 T2",
+        "rating": "",
+        "water_price_min": "5,780",
+        "water_price_max": "5,780",
+        "有線/無線:": "無線",
+        "尺寸:": "640 x 491 x 52mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Poly Sync 40+ Smart Speakerphone for Flexible/Huddle Rooms",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,427",
+        "頻率:": "75Hz - 20kHz",
+        "重量:": "0.61kg"
+    },
+    {
+        "names": "eMeet OfficeCore M2+ Smart Speakerphone",
+        "rating": "10",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999"
+    },
+    {
+        "names": "Logitech Mobile Speakerphone P710e",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,250"
+    },
+    {
+        "names": "UB+ Eupho Alphorn S2 質感球型藍牙立體聲音箱",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,545",
+        "有線/無線:": "無線",
+        "阻抗:": "4Ω",
+        "尺寸:": "248 x 250 x 250mm",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "Behringer High-Performance, Active 80 Watt Commercial Sound Speaker System CE500A",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,690",
+        "有線/無線:": "有線",
+        "尺寸:": "318 x 195 x 197mm",
+        "重量:": "7kg"
+    },
+    {
+        "names": "eMeet OfficeCore Luna Smart Speakerphone Bundle with Webcam C960",
+        "rating": "10",
+        "hon_price_min": "1,229",
+        "hon_price_max": "1,299"
+    },
+    {
+        "names": "Lyiew Pro 3 Smart Lyrics Speaker 投屏歌詞音箱",
+        "rating": "",
+        "water_price_min": "4,588",
+        "water_price_max": "4,588",
+        "有線/無線:": "無線",
+        "尺寸:": "575 x 140 x 355mm"
+    },
+    {
+        "names": "Wharfedale D300 3D Black Surround Speaker",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "頻率:": "100Hz-20kHz",
+        "阻抗:": "4Ω",
+        "尺寸:": "265 x 155 x (165+5)mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "JBL Passive 10” Full-Range Karaoke Loudspeaker - Pasion 10",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,300",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "292 x 521 x 320mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "JBL 12\" 2-Way Speaker System XS12",
+        "rating": "",
+        "hon_price_min": "4,600",
+        "hon_price_max": "4,600",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "600 x 359 x 38mm",
+        "重量:": "21kg"
+    },
+    {
+        "names": "Epos Audio Expand SP 30 + Bluetooth Speakerphone with Dongle (1000224)",
+        "rating": "",
+        "hon_price_min": "1,616",
+        "hon_price_max": "2,020",
+        "有線/無線:": "無線",
+        "重量:": "0.452kg"
+    },
+    {
+        "names": "Sonus faber Omnia 無線喇叭",
+        "rating": "",
+        "hon_price_min": "18,800",
+        "hon_price_max": "18,800",
+        "有線/無線:": "無線",
+        "尺寸:": "130 x 650 x 280mm",
+        "重量:": "7.6kg"
+    },
+    {
+        "names": "Poly Sync 20 Personal, USB/Bluetooth Smart Speakerphone",
+        "rating": "",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,330",
+        "頻率:": "80Hz-20kHz",
+        "重量:": "0.36kg"
+    },
+    {
+        "names": "Poly Sync 20+ Personal, USB/Bluetooth Smart Speakerphone (with USB Dongle)",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,570",
+        "尺寸:": "34 x 95 x 182mm",
+        "重量:": "0.36kg"
+    },
+    {
+        "names": "Sennheiser Portable Wireless Speakerphone with dongle  藍牙/USB/ Type C 會議收音咪喇叭  SP 30+",
+        "rating": "10",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,988"
+    },
+    {
+        "names": "Behringer 40W Handheld PA System with XM1800S Microphone, Wireless Microphone Option and Rechargeable Battery HPA40",
+        "rating": "9.8",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "有線/無線:": "無線",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "KEF R8a",
+        "rating": "",
+        "hon_price_min": "8,960",
+        "hon_price_max": "12,800",
+        "water_price_min": "8,960",
+        "water_price_max": "8,960",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "173.8 x 174.6 x 259mm",
+        "重量:": "4.45kg"
+    },
+    {
+        "names": "Lenovo Wireless Bluetooth 5.0 Conference Speakerphone Speak 會議用藍牙收音咪喇叭 MCP01",
+        "rating": "",
+        "hon_price_min": "495",
+        "hon_price_max": "495",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Epos Audio Expand 80 Mic Expansion Speakerphone (1000229)",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,629"
+    },
+    {
+        "names": "Soundpeats Frame S 無線藍牙喇叭太陽眼鏡",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "499",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Epos Audio Expand SP 30T Bluetooth Speakerphone (1000225)",
+        "rating": "",
+        "hon_price_min": "1,616",
+        "hon_price_max": "2,020",
+        "有線/無線:": "無線",
+        "重量:": "0.314kg"
+    },
+    {
+        "names": "ITC 4\" Ceiling Speaker 天花喇叭 (1W-2W-3W) T-104U",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "185",
+        "有線/無線:": "有線",
+        "尺寸:": "134 x 84mm",
+        "重量:": "0.5kg"
+    },
+    {
+        "names": "Poly Sync 40 Smart Speakerphone for Flexible/Huddle Rooms",
+        "rating": "",
+        "hon_price_min": "2,060",
+        "hon_price_max": "2,199",
+        "頻率:": "75Hz-20kHz",
+        "重量:": "0.61kg"
+    },
+    {
+        "names": "Poly Calisto 5200 Portable Personal Speakerphone With 360˚ Audio USB-A+3.5mm",
+        "rating": "",
+        "hon_price_min": "1,177",
+        "hon_price_max": "1,177",
+        "有線/無線:": "有線",
+        "尺寸:": "31.1 x 108.6mm",
+        "重量:": "0.2145kg"
+    },
+    {
+        "names": "eMeet M2 Max Professional Speakerphone",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,590"
+    },
+    {
+        "names": "Facebook Portal 10\" Smart Display with Alexa and Video Calling",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "有線/無線:": "有線",
+        "尺寸:": "179 x 260 x 141.2mm"
+    },
+    {
+        "names": "Konftel Ego Personal Conferencing",
+        "rating": "8.0",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "PMC Twenty5.ci Centre Loudspeaker 中央聲道喇叭",
+        "rating": "",
+        "hon_price_min": "20,300",
+        "hon_price_max": "20,300",
+        "有線/無線:": "有線",
+        "阻抗:": "6Ω",
+        "尺寸:": "174 x 554 x 314mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Turbosound 15\" Powered Loudspeaker iQ15",
+        "rating": "",
+        "hon_price_min": "11,000",
+        "hon_price_max": "11,080",
+        "有線/無線:": "有線",
+        "尺寸:": "711 x 450 x 381mm",
+        "重量:": "26.1kg"
+    },
+    {
+        "names": "Turbosound 8\" Powered Loudspeaker iQ8",
+        "rating": "",
+        "hon_price_min": "6,960",
+        "hon_price_max": "6,980",
+        "有線/無線:": "有線",
+        "尺寸:": "457 x 279 x 279mm",
+        "重量:": "14.7kg"
+    },
+    {
+        "names": "eMeet OfficeCore M1 Smart Speakerphone + Logitech PTZ PRO 2 Combo",
+        "rating": "",
+        "hon_price_min": "9,950",
+        "hon_price_max": "9,988"
+    },
+    {
+        "names": "JBL KPS1",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "4,380",
+        "頻率:": "50Hz-20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "537 x 300 x 340mm",
+        "重量:": "15.6kg"
+    },
+    {
+        "names": "Facebook 10\" Portal Go Wireless Video Calling Device",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "2,399",
+        "water_price_min": "1,699",
+        "water_price_max": "1,699",
+        "有線/無線:": "無線",
+        "尺寸:": "173.7 x 256.5 x 78.7mm"
+    },
+    {
+        "names": "JBL Powered 12” Karaoke Subwoofer - Pasion 12SP",
+        "rating": "10",
+        "hon_price_min": "4,830",
+        "hon_price_max": "4,850",
+        "有線/無線:": "有線",
+        "尺寸:": "396 x 464 x 430mm",
+        "重量:": "22.7kg"
+    },
+    {
+        "names": "JBL KP6052",
+        "rating": "10",
+        "hon_price_min": "8,920",
+        "hon_price_max": "8,930",
+        "water_price_min": "7,990",
+        "water_price_max": "7,990",
+        "頻率:": "80 Hz - 20 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "604 x 350 x 397mm",
+        "重量:": "17.7kg"
+    },
+    {
+        "names": "Behringer Active 150 Watt 6.5\" PA/Monitor Speaker System with MP3 Player PA/監聽揚聲器 B207MP3",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "Facebook Portal Mini Smart Video Calling 8\" Display with Alexa",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "1,599",
+        "water_price_min": "665",
+        "water_price_max": "1,388",
+        "有線/無線:": "無線",
+        "尺寸:": "5.91 x 8.45 x 5”"
+    },
+    {
+        "names": "Edifier 藍牙戶外拉桿移動式喇叭 A3-8s",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "990",
+        "有線/無線:": "無線",
+        "尺寸:": "290 x 415 x 272mm",
+        "重量:": "6.6kg"
+    },
+    {
+        "names": "Cambridge Audio C165",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "頻率:": "50Hz - 20kHz",
+        "尺寸:": "97 x Ø 240mm",
+        "重量:": "1.28kg"
+    },
+    {
+        "names": "Epos Audio Expand 80 Bluetooth Speakerphone (1000202)",
+        "rating": "",
+        "hon_price_min": "4,719",
+        "hon_price_max": "5,899",
+        "有線/無線:": "無線",
+        "重量:": "0.98kg"
+    },
+    {
+        "names": "W-KING Amplifier Speaker KS13",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "219",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Bowers & Wilkins Center Channel Speaker 中置喇叭 HTM72 S3",
+        "rating": "",
+        "hon_price_min": "8,820",
+        "hon_price_max": "8,830",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "477 x 302 x 165mm",
+        "重量:": "9.7kg"
+    },
+    {
+        "names": "Transparent Small Transparent Speaker 藍牙音響",
+        "rating": "",
+        "hon_price_min": "5,400",
+        "hon_price_max": "5,400",
+        "有線/無線:": "無線",
+        "尺寸:": "268 x 203 x 95mm",
+        "重量:": "3.3kg"
+    },
+    {
+        "names": "Behringer Active 200 Watt 2-Way PA Speaker System 主動式喇叭 B210D",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480",
+        "有線/無線:": "有線",
+        "尺寸:": "464 x 292 x 244mm",
+        "重量:": "8.5kg"
+    },
+    {
+        "names": "Shure Stem Wall - Wall Mount Array Speakerphone",
+        "rating": "",
+        "hon_price_min": "15,200",
+        "hon_price_max": "15,200",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL RM8",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,030",
+        "頻率:": "60Hz ~ 20k Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "270 x 450 x 240mm",
+        "重量:": "8kg"
+    },
+    {
+        "names": "Xiaomi 小米 有品 悅米無線藍牙會議音箱 X-A1",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "有線/無線:": "無線",
+        "尺寸:": "150 x 150 x 42mm",
+        "重量:": "0.356kg"
+    },
+    {
+        "names": "Facebook 15.6” Portal Plus with Alexa",
+        "rating": "",
+        "hon_price_min": "3,899",
+        "hon_price_max": "4,299",
+        "water_price_min": "3,399",
+        "water_price_max": "3,699",
+        "有線/無線:": "無線",
+        "重量:": "3.107kg"
+    },
+    {
+        "names": "W-KING 無線擴音喇叭 KS16",
+        "rating": "10",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "water_price_min": "328",
+        "water_price_max": "328",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "KEF Q50a",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "輸入功率:": "100W",
+        "尺寸:": "174 x 180 x 259mm",
+        "重量:": "4.25kg"
+    },
+    {
+        "names": "Pioneer XW-BTSP1",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "680",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Jabra Speak 810 會議用揚聲器",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,660",
+        "water_price_min": "3,750",
+        "water_price_max": "4,200"
+    },
+    {
+        "names": "BOYA 全向會議麥克風揚聲器 BY-BMM300",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "有線/無線:": "有線",
+        "尺寸:": "95 x 35mm",
+        "重量:": "0.2kg"
+    },
+    {
+        "names": "eMeet OfficeCore M0 Smart Speakerphone",
+        "rating": "10",
+        "hon_price_min": "498",
+        "hon_price_max": "800"
+    },
+    {
+        "names": "JBL KP-4015",
+        "rating": "",
+        "hon_price_min": "7,580",
+        "hon_price_max": "7,580",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H680,W410,D440mm",
+        "重量:": "23kg"
+    },
+    {
+        "names": "JBL EON712 12-inch Powered PA Speaker with Bluetooth",
+        "rating": "",
+        "hon_price_min": "4,910",
+        "hon_price_max": "4,910",
+        "有線/無線:": "無線",
+        "尺寸:": "670 x 381 x 328mm",
+        "重量:": "14.6kg"
+    },
+    {
+        "names": "Behringer All-in-One Portable 200-Watt Speaker with Wireless Microphone MPA200BT",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,980",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL Control Now",
+        "rating": "10",
+        "hon_price_min": "5,799",
+        "hon_price_max": "5,800",
+        "頻率:": "80 - 30,000 Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "364W x 127H x 251D (262D) mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "TEV 6.5\" 60W 手提式無線擴音機 TA-300",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "有線/無線:": "無線",
+        "靈敏度:": "3dB",
+        "尺寸:": "313 x 220 x 215 mm",
+        "重量:": "4kg"
+    },
+    {
+        "names": "B&O Beosound Palatial 整合型牆用揚聲器",
+        "rating": "",
+        "water_price_min": "48,000",
+        "water_price_max": "48,000",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "Porsche Design Wireless Speaker 無線藍牙喇叭 PDS50",
+        "rating": "",
+        "water_price_min": "5,980",
+        "water_price_max": "5,980",
+        "有線/無線:": "無線",
+        "重量:": "0.5kg"
+    },
+    {
+        "names": "BMB Speaker System 卡拉OK音箱 CSN-300 (SE)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "458 x 265 x 270mm",
+        "重量:": "7.7kg"
+    },
+    {
+        "names": "JBL 10 Inch 2-Way Full Range Loudspeaker System KP6010",
+        "rating": "",
+        "hon_price_min": "7,250",
+        "hon_price_max": "7,250",
+        "water_price_min": "5,900",
+        "water_price_max": "5,900",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "524 x 300 x 340mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "JBL KI310",
+        "rating": "",
+        "hon_price_min": "4,490",
+        "hon_price_max": "4,600",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H290 mm x W525 mm x D320 mm",
+        "重量:": "12.1kg"
+    },
+    {
+        "names": "JBL MK08",
+        "rating": "",
+        "hon_price_min": "4,150",
+        "hon_price_max": "4,150",
+        "頻率:": "53Hz-17kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "245 x 435 x 285mm",
+        "重量:": "8.5kg"
+    },
+    {
+        "names": "Klipsch RP-502S",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "7,200",
+        "有線/無線:": "有線",
+        "尺寸:": "13.85 x 11.88 x 7.49”",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "JBL Passive 8” Full-Range Karaoke Loudspeaker - Pasion 8",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,600",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "253 x 452 x 277mm",
+        "重量:": "8.7kg"
+    },
+    {
+        "names": "Sennheiser SP 20 Speakerphone",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "1,270"
+    },
+    {
+        "names": "Definitive Technology SR9040",
+        "rating": "",
+        "hon_price_min": "4,160",
+        "hon_price_max": "4,880",
+        "有線/無線:": "有線",
+        "尺寸:": "24.13 x 19.84 x 13.67cm"
+    },
+    {
+        "names": "JBL Ki110",
+        "rating": "",
+        "hon_price_min": "4,100",
+        "hon_price_max": "4,220",
+        "有線/無線:": "有線",
+        "阻抗:": "8 OhmsΩ",
+        "尺寸:": "290 mm x 506 mm x 320 mm",
+        "重量:": "12.4kg"
+    },
+    {
+        "names": "Epos Audio Expand 80T Bluetooth Speakerphone (1000203)",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,899",
+        "有線/無線:": "無線",
+        "重量:": "0.98kg"
+    },
+    {
+        "names": "dB Technologies Column PA system ES 802",
+        "rating": "",
+        "hon_price_min": "5,920",
+        "hon_price_max": "5,920",
+        "有線/無線:": "有線",
+        "靈敏度:": "124dB",
+        "尺寸:": "Top: 95 x 360 x 137mm / Subwoofer: 465 x 400 x 430mm",
+        "重量:": "Top: 1.9kg / Subwoofer: 16.4kg"
+    },
+    {
+        "names": "Shure Stem Table - Table Array Speakerphone",
+        "rating": "",
+        "hon_price_min": "8,180",
+        "hon_price_max": "8,180",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "eMeet OfficeCore M2 Smart Speakerphone + Logitech PTZ PRO 2 Combo",
+        "rating": "10",
+        "hon_price_min": "6,450",
+        "hon_price_max": "6,470"
+    },
+    {
+        "names": "TTF 懸浮歌詞字幕透明藍牙音箱 FS1",
+        "rating": "",
+        "water_price_min": "3,299",
+        "water_price_max": "4,588",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL EON208P",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,980"
+    },
+    {
+        "names": "BM Audio WJ1-S66V4",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "658",
+        "輸入功率:": "330W",
+        "尺寸:": "6.5 寸"
+    },
+    {
+        "names": "Dali Opticon LCR",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,680",
+        "有線/無線:": "有線",
+        "重量:": "8.3kg"
+    },
+    {
+        "names": "GoldenEar Invisa 525",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "頻率:": "27 Hz - 35 kHz",
+        "靈敏度:": "89dB",
+        "尺寸:": "7-3/16˝ diameter x 3-7/16˝ depth"
+    },
+    {
+        "names": "Bose FreeSpace FS2C In-Ceiling Loudspeaker",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,760",
+        "有線/無線:": "有線",
+        "阻抗:": "16Ω",
+        "尺寸:": "182 x 132mm",
+        "重量:": "1.63kg"
+    },
+    {
+        "names": "Klipsch RP-250S",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "6,300",
+        "有線/無線:": "有線",
+        "尺寸:": "13.5” x 12” x 7.92\""
+    },
+    {
+        "names": "Plantronics USB & Bluetooth Speakerphone Calisto 7200",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "2,560"
+    },
+    {
+        "names": "Behringer MPA40BT-PRO",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,750",
+        "有線/無線:": "有線",
+        "輸入功率:": "40W"
+    },
+    {
+        "names": "JBL KP051",
+        "rating": "",
+        "hon_price_min": "6,450",
+        "hon_price_max": "6,499",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "533 x 300 x 370mm",
+        "重量:": "16.6kg"
+    },
+    {
+        "names": "Mission M-CUBE+SE satellite 的骰衛星喇叭",
+        "rating": "",
+        "hon_price_min": "830",
+        "hon_price_max": "980",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "100 x100 x 103mm",
+        "重量:": "0.52kg"
+    },
+    {
+        "names": "Poly Calisto 3200 Personal, Corded Speakerphone USB-A",
+        "rating": "",
+        "hon_price_min": "785",
+        "hon_price_max": "785",
+        "有線/無線:": "有線",
+        "尺寸:": "31.1 x 108.6mm",
+        "重量:": "0.194kg"
+    },
+    {
+        "names": "JBL Control 67 P/T",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "輸入功率:": "75W",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "JBL RM10 II",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "頻率:": "40Hz - 20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "335 x 530 x 245mm",
+        "重量:": "13.5kg"
+    },
+    {
+        "names": "Bose 161 揚聲器系統",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,260",
+        "尺寸:": "10.6 厘米 x 28 厘米 x 12.7 厘米",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Teledevice MS-515",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "339",
+        "有線/無線:": "有線",
+        "重量:": "0.218kg"
+    },
+    {
+        "names": "JBL EON710 10-inch Powered PA Speaker with Bluetooth",
+        "rating": "",
+        "hon_price_min": "4,460",
+        "hon_price_max": "4,460",
+        "有線/無線:": "無線",
+        "尺寸:": "587 x 332 x 305mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "dB Technologies Column PA Stereo System ES 503",
+        "rating": "",
+        "hon_price_min": "9,040",
+        "hon_price_max": "9,040",
+        "有線/無線:": "有線",
+        "靈敏度:": "121dB",
+        "尺寸:": "Top: 95 x 360 x 137mm / Subwoofer: 465 x 400 x 430mm",
+        "重量:": "Top: 1.9kg / Subwoofer: 16.4kg"
+    },
+    {
+        "names": "Definitive Technology A90",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,880",
+        "有線/無線:": "有線",
+        "尺寸:": "33.02 x 15.24 x 9.53cm",
+        "重量:": "2.72kg"
+    },
+    {
+        "names": "FDY 智能 Wifi 喇叭 P159",
+        "rating": "",
+        "water_price_min": "1,100",
+        "water_price_max": "1,100",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Electro-Voice ZLX-12",
+        "rating": "",
+        "hon_price_min": "4,400",
+        "hon_price_max": "4,400",
+        "頻率:": "55 Hz - 20 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "61cm x 35.6cm x 35.6cm",
+        "重量:": "14.9kg"
+    },
+    {
+        "names": "Behringer Portable 100W Bluetooth Speaker with Wireless Handheld Mic MPA100BT",
+        "rating": "9.0",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,480",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "TANNOY Highline 300 Sat",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "3,540",
+        "頻率:": "95 -62000Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "59 x 10.9 x 10.1cm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Martin Audio CDD12",
+        "rating": "",
+        "hon_price_min": "13,800",
+        "hon_price_max": "13,800",
+        "有線/無線:": "有線",
+        "重量:": "19kg"
+    },
+    {
+        "names": "JBL Powered 12\" Portable Speaker With Bluetooth 主動式藍牙喇叭 IRX112 BT",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "4,380",
+        "有線/無線:": "無線",
+        "阻抗:": "10kΩ",
+        "尺寸:": "299 x 400 x 618.4mm",
+        "重量:": "12.4kg"
+    },
+    {
+        "names": "Facebook 10.1” Portal with Alexa",
+        "rating": "10",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,399",
+        "water_price_min": "1,180",
+        "water_price_max": "1,798",
+        "有線/無線:": "無線",
+        "重量:": "1.22kg"
+    },
+    {
+        "names": "JBL Ki510",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "5,180",
+        "輸入功率:": "350W",
+        "阻抗:": "8Ω",
+        "重量:": "24.8kg"
+    },
+    {
+        "names": "iHome iBT4",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "重量:": "3kg"
+    },
+    {
+        "names": "SolidDrive Invisible Speaker 隱藏式共震揚聲器 SD-1",
+        "rating": "10",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,250",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "Turbosound 12\" Powered Loudspeaker iQ12",
+        "rating": "",
+        "hon_price_min": "10,150",
+        "hon_price_max": "10,180",
+        "有線/無線:": "有線",
+        "尺寸:": "609 x 370 x 370mm",
+        "重量:": "14.7kg"
+    },
+    {
+        "names": "Dali Alteco C-1 多功能揚聲器",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,780",
+        "頻率:": "74-25000Hz",
+        "尺寸:": "265 x 160 x 200mm",
+        "重量:": "2.9kg"
+    },
+    {
+        "names": "Bose Panaray 802 Series IV",
+        "rating": "10",
+        "hon_price_min": "9,200",
+        "hon_price_max": "9,200",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "336 x 523 x 335mm",
+        "重量:": "13.6kg"
+    },
+    {
+        "names": "Bose 251 全天候戶外揚聲器",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,200",
+        "尺寸:": "13.5\"高 x 5.25\"闊 x 8\"深 ( 34.3 厘米 x 14.6 厘米 x 20.3 厘米)",
+        "重量:": "20 磅 (9.1 公斤)kg"
+    },
+    {
+        "names": "SmarterWare 專業會議收音咪喇叭 USB Conference Speakerphone Speak M55",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "Behringer All-In-One Portable 40 Watt PA System with Bluetooth Connectivity and Battery Operation MPA40BT",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "有線/無線:": "無線",
+        "尺寸:": "420 x 309 x 242mm",
+        "重量:": "8.2kg"
+    },
+    {
+        "names": "JBL KP-4012",
+        "rating": "",
+        "hon_price_min": "6,168",
+        "hon_price_max": "6,900",
+        "water_price_min": "4,500",
+        "water_price_max": "4,500",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H600,W360,D382mm",
+        "重量:": "18.5kg"
+    },
+    {
+        "names": "SAMSON AURO X12D",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,200",
+        "輸入功率:": "500W",
+        "重量:": "15kg"
+    },
+    {
+        "names": "JBL NANO 350",
+        "rating": "",
+        "hon_price_min": "3,360",
+        "hon_price_max": "3,360",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "490 x 313 x 262mm",
+        "重量:": "9.8kg"
+    },
+    {
+        "names": "ACCURACY SP-800",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "頻率:": "35Hz - 20Khz",
+        "阻抗:": "8 OhmΩ",
+        "尺寸:": "520(W) x 300(H) x 330(D)mm",
+        "重量:": "27kg"
+    },
+    {
+        "names": "Polycom VoxBox Portable Bluetooth Speakerphone (2200-49000-025)",
+        "rating": "",
+        "hon_price_min": "2,520",
+        "hon_price_max": "2,520"
+    },
+    {
+        "names": "eMeet OfficeCore M220 Lite Smart Speakerphone",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "KEF R800DS",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "頻率:": "90Hz - 45kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "180 x 350 x 184 mm",
+        "重量:": "7.4kg"
+    },
+    {
+        "names": "JBL Control 60 PS/T",
+        "rating": "",
+        "hon_price_min": "4,020",
+        "hon_price_max": "4,020",
+        "輸入功率:": "150W",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "Electro-Voice  EVID C8.2 LP",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "頻率:": "50Hz-20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "17.8cm x 27cm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "不見不散 便攜式原聲擴音器 T600",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "JBL KS308",
+        "rating": "10",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "頻率:": "70Hz~18KHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "H235,W435,D295mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Bosch LHM606/10",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130"
+    },
+    {
+        "names": "JBL Control 26CT-LS Ceiling Loudspeaker Assembly for Life Safety Applications",
+        "rating": "",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,050",
+        "頻率:": "80Hz-20kHz",
+        "尺寸:": "210 x 252 x 190mm",
+        "重量:": "4.2kg"
+    },
+    {
+        "names": "Behringer Ultra-Compact 150 Watt PA/Monitor Speaker System 超緊湊型 150 瓦 PA/監聽喇叭系統 B205D",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,080",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL Passive 6.5” Full-Range Karaoke Loudspeaker - Pasion 6",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,100",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "222 x 396 x 257mm",
+        "重量:": "7.5kg"
+    },
+    {
+        "names": "Shure Stem Ceiling - Ceiling Microphone Array",
+        "rating": "",
+        "hon_price_min": "31,190",
+        "hon_price_max": "31,190",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL EON206P",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,980"
+    },
+    {
+        "names": "JBL Ki81",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,180",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H290 mm x W505 mm x D320 mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Turbosound 10\" Powered Loudspeaker iQ10",
+        "rating": "",
+        "hon_price_min": "8,450",
+        "hon_price_max": "8,480",
+        "有線/無線:": "有線",
+        "尺寸:": "526 x 324 x 316mm",
+        "重量:": "17.2kg"
+    },
+    {
+        "names": "Bose Virtually Invisible 791",
+        "rating": "",
+        "hon_price_min": "4,490",
+        "hon_price_max": "4,490"
+    },
+    {
+        "names": "IB USB Ultrasonic Aroma Diffuser w/Bluetooth Speaker USB 透光超聲波香薰機 (藍牙喇叭)",
+        "rating": "10",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "BMB CS-210",
+        "rating": "10",
+        "hon_price_min": "4,499",
+        "hon_price_max": "4,499",
+        "頻率:": "50 - 20000Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "346 x 210 x 240mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "Bose FreeSpace DS 100F",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,600",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "299 x 189mm",
+        "重量:": "5.9kg"
+    },
+    {
+        "names": "W-KING Voice Amplifier Speaker KS15",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL CSS8006",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "重量:": "0.8kg"
+    },
+    {
+        "names": "不見不散 教學專用擴音器 T300",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278"
+    },
+    {
+        "names": "JBL 15\" 2-Way Speaker System XS15",
+        "rating": "",
+        "hon_price_min": "5,350",
+        "hon_price_max": "5,350",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "680 x 407 x 449mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "不見不散 拉杆式音箱 SK-100",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "648",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "IB 2 in 1 簡約 LED 高清化妝鏡 + 藍牙喇叭",
+        "rating": "8.0",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL 15 Inch 2-Way Full Range Loudspeaker System KP6015",
+        "rating": "",
+        "hon_price_min": "9,860",
+        "hon_price_max": "9,860",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "680 x 430 x 430mm",
+        "重量:": "20kg"
+    },
+    {
+        "names": "COTODAMA Lyric Speaker Canvas LS2",
+        "rating": "",
+        "hon_price_min": "14,998",
+        "hon_price_max": "14,998",
+        "有線/無線:": "無線",
+        "尺寸:": "480 x 120 x 400mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "HiVi 惠威 RT2E-A",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "輸入功率:": "30(平均)/60(峰值)W",
+        "阻抗:": "8Ω",
+        "尺寸:": "13cm x 20.5cm x 8cm"
+    },
+    {
+        "names": "Cambridge Audio C155",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "頻率:": "60Hz - 20kHz (+/-2dB)",
+        "尺寸:": "75 x Ø 240mm",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "JBL 12 Inch 2-Way Full Range Loudspeaker System KP6012",
+        "rating": "",
+        "hon_price_min": "8,950",
+        "hon_price_max": "8,950",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "600 x 350 x 382mm",
+        "重量:": "14.8kg"
+    },
+    {
+        "names": "Electro-Voice EVID 3.2",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,780",
+        "有線/無線:": "有線",
+        "阻抗:": "8 ΩΩ",
+        "尺寸:": "(H)234 mm x (W)127 mm x (D)165 mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Martin Audio CDD6",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,880",
+        "有線/無線:": "有線",
+        "重量:": "5.69kg"
+    },
+    {
+        "names": "JBL CSS 1S/T",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "頻率:": "85 Hz – 18 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "229 x 159 x 143mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Bose FreeSpace DS 16SE",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "250 x 124 x 161mm",
+        "重量:": "1.8kg"
+    },
+    {
+        "names": "JBL Control 12C/T",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "820",
+        "靈敏度:": "84dB",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "Edifier 戶外移動式喇叭 A3-8I",
+        "rating": "",
+        "hon_price_min": "795",
+        "hon_price_max": "885",
+        "有線/無線:": "無線",
+        "尺寸:": "290 x 415 x 272mm",
+        "重量:": "5.7kg"
+    },
+    {
+        "names": "eMeet OfficeCore M2 Smart Speakerphone Bundle with Webcam C960",
+        "rating": "10",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699"
+    },
+    {
+        "names": "AV Link 藍牙時鐘帶充電功能 BC-193",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "有線/無線:": "無線",
+        "阻抗:": "4Ω",
+        "尺寸:": "178 x 91 x 64 mm"
+    },
+    {
+        "names": "Sync Lab Conference Speaker 會議喇叭",
+        "rating": "",
+        "有線/無線:": "無線",
+        "靈敏度:": "85±3dB",
+        "阻抗:": "4Ω"
+    },
+    {
+        "names": "GoldenEar Invisa HTR7000",
+        "rating": "",
+        "hon_price_min": "5,000",
+        "hon_price_max": "5,000",
+        "頻率:": "25 Hz - 35 kHz",
+        "靈敏度:": "90dB",
+        "尺寸:": "10˝ diameter x 5˝ depth"
+    },
+    {
+        "names": "JBL RM101",
+        "rating": "",
+        "hon_price_min": "7,700",
+        "hon_price_max": "7,700",
+        "water_price_min": "6,780",
+        "water_price_max": "6,780",
+        "頻率:": "46Hz~20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "335 x 546 x 254mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Audiofrog 防水防塵全天候喇叭 AW25",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "305 x 185 x 200mm",
+        "重量:": "2 x 2.8kg"
+    },
+    {
+        "names": "Marantz MKS-1000 mkll",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "輸入功率:": "250W",
+        "尺寸:": "H299,W500,D265mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Sennheiser Portable Wireless Speakerphone 藍牙喇叭 SP 30",
+        "rating": "10",
+        "hon_price_min": "1,630",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "Audiofrog 卡拉OK喇叭 M10F",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,380"
+    },
+    {
+        "names": "EVENING STAR ES850",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Yamaha STAGEPAS 400BT",
+        "rating": "",
+        "hon_price_min": "6,700",
+        "hon_price_max": "6,700",
+        "water_price_min": "6,700",
+        "water_price_max": "6,700",
+        "有線/無線:": "有線",
+        "尺寸:": "289 x 472 x 275 mm",
+        "重量:": "18.3kg"
+    },
+    {
+        "names": "ETIGER Cosmic LED",
+        "rating": "7.0",
+        "hon_price_min": "87",
+        "hon_price_max": "100",
+        "輸入功率:": "11W",
+        "重量:": "385kg"
+    },
+    {
+        "names": "Electro-Voice ZLX-12P",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "6,600",
+        "頻率:": "50 Hz - 20 kHz",
+        "尺寸:": "61cm x 35.6cm x 35.6cm",
+        "重量:": "15.6kg"
+    },
+    {
+        "names": "Edifier 移動多媒體音響 PW312",
+        "rating": "10",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,980",
+        "有線/無線:": "無線",
+        "尺寸:": "350 x 302 x 572mm",
+        "重量:": "14.3kg"
+    },
+    {
+        "names": "eMeet Luna 1+1 Smart Speakerphone set",
+        "rating": "10",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,300",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL Control 47LP",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,580",
+        "頻率:": "68 Hz - 20 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "305 x 142mm"
+    },
+    {
+        "names": "Yamaha STAGEPAS 600BT",
+        "rating": "",
+        "hon_price_min": "8,700",
+        "hon_price_max": "8,700",
+        "water_price_min": "8,700",
+        "water_price_max": "8,700",
+        "有線/無線:": "有線",
+        "尺寸:": "335 x 545 x 319 mm",
+        "重量:": "25.6kg"
+    },
+    {
+        "names": "JBL 10\" 2-Way Speaker System XS10",
+        "rating": "",
+        "hon_price_min": "3,950",
+        "hon_price_max": "3,950",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "537 x 297 x 345mm",
+        "重量:": "16.3kg"
+    },
+    {
+        "names": "Marantz MKS-800",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,200",
+        "輸入功率:": "200W",
+        "尺寸:": "H265,W450,D240mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "UB+ Eupho Elite 柔光球體藍牙音箱",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "有線/無線:": "無線",
+        "阻抗:": "2Ω",
+        "尺寸:": "315 x 300 x 295​mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Facebook Portal TV Smart Video Calling on Your TV with Alexa Built‑in",
+        "rating": "",
+        "hon_price_min": "1,520",
+        "hon_price_max": "1,749",
+        "water_price_min": "1,220",
+        "water_price_max": "1,398",
+        "有線/無線:": "無線",
+        "重量:": "0.31kg"
+    },
+    {
+        "names": "Audiofrog 卡拉OK喇叭 M12F",
+        "rating": "",
+        "hon_price_min": "8,000",
+        "hon_price_max": "8,000"
+    },
+    {
+        "names": "Martin Audio CDD5",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "160 x 230 x 149mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "JBL RM12",
+        "rating": "",
+        "hon_price_min": "6,590",
+        "hon_price_max": "7,499",
+        "water_price_min": "4,990",
+        "water_price_max": "4,990",
+        "頻率:": "40 ~ 20k Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "381 x 580 x 330mm",
+        "重量:": "18.6kg"
+    },
+    {
+        "names": "La Boite Concept LP 160",
+        "rating": "",
+        "hon_price_min": "36,100",
+        "hon_price_max": "36,100",
+        "輸入功率:": "80 x 2W",
+        "尺寸:": "80 x 90 x 49mm"
+    },
+    {
+        "names": "JBL Control HST",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H362 mm x W256 mm x D184 mm",
+        "重量:": "4.3kg"
+    },
+    {
+        "names": "Martin Audio CDD10",
+        "rating": "",
+        "hon_price_min": "10,280",
+        "hon_price_max": "10,280",
+        "有線/無線:": "有線",
+        "重量:": "15.3kg"
+    },
+    {
+        "names": "Dali Fazon SAT",
+        "rating": "10",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,290",
+        "頻率:": "86-25000Hz",
+        "尺寸:": "14 x 26 x 12.5 cm",
+        "重量:": "2.4kg"
+    },
+    {
+        "names": "JBL KP-4010",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,480",
+        "water_price_min": "4,490",
+        "water_price_max": "4,490",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H533,W300,D340mm",
+        "重量:": "14.8kg"
+    },
+    {
+        "names": "JBL Ki82",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,500",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H350 mm x W575 mm x D355 mm",
+        "重量:": "16.6kg"
+    },
+    {
+        "names": "B&O Beosound Shape 壁掛式音樂",
+        "rating": "",
+        "water_price_min": "48,000",
+        "water_price_max": "48,000",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "REVEL 6.5\" In-Ceiling Loudspeaker C563",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "有線/無線:": "有線",
+        "重量:": "0.9kg"
+    },
+    {
+        "names": "JBL MK12",
+        "rating": "",
+        "hon_price_min": "5,050",
+        "hon_price_max": "5,050",
+        "頻率:": "45Hz-17kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "350 x 575 x 355mm",
+        "重量:": "16kg"
+    },
+    {
+        "names": "TOA BS633A",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "DOSS DS-1008",
+        "rating": "10",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "頻率:": "50Hz  -20KHz",
+        "尺寸:": "168(L)x200(D)x222(H)mm"
+    },
+    {
+        "names": "Bose 301 Direct/Reflecting 直接/反射式揚聲器系統",
+        "rating": "10"
+    },
+    {
+        "names": "SmarterWare 專業會議收音咪喇叭 USB Conference Speakerphone Speak 503U",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380"
+    },
+    {
+        "names": "Kramer Tavor 6-O 6.5-Inch, On-Wall 2-Way Powered Speakers",
+        "rating": "",
+        "hon_price_min": "3,610",
+        "hon_price_max": "3,610",
+        "有線/無線:": "有線",
+        "靈敏度:": "85dB",
+        "阻抗:": "4Ω"
+    },
+    {
+        "names": "不見不散 移動K歌音響 SK-520",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "798",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "ACCURACY SP-360 (B)",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "4,280",
+        "頻率:": "48 Hz - 18 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "455 x 268 x 230mm",
+        "重量:": "16kg"
+    },
+    {
+        "names": "Takstar 得勝 E250M",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "538",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "BMB CSX-850",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "4,799",
+        "輸入功率:": "500W",
+        "尺寸:": "20.5″(W) × 11.7″(H) × 11.2″(D)",
+        "重量:": "27.2lb eachkg"
+    },
+    {
+        "names": "IB 拍拍藍牙喇叭變色燈",
+        "rating": "10",
+        "hon_price_min": "170",
+        "hon_price_max": "170",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL 8\" 2-Way Speaker System XS08",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,100",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "480 x 244 x 289mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "iDance BC1",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Takstar 得勝 E260W",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Klipsch RP-140SA",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "有線/無線:": "有線",
+        "尺寸:": "7” x 6” x 11.25\""
+    },
+    {
+        "names": "ACCURACY SP-600",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,980",
+        "頻率:": "35 HKz - 20 KHKz",
+        "阻抗:": "8Ω",
+        "尺寸:": "510 x 295 x 305mm",
+        "重量:": "27kg"
+    },
+    {
+        "names": "TruAudio Thin In-Ceiling Speaker THIN-CEILING-P",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "有線/無線:": "有線",
+        "尺寸:": "173 x 61mm"
+    },
+    {
+        "names": "Wharfedale EVO 4.S",
+        "rating": "",
+        "hon_price_min": "14,300",
+        "hon_price_max": "14,300",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "245 x 400 x (135+10)mm",
+        "重量:": "8.9kg"
+    },
+    {
+        "names": "Audiofrog 全天候高級戶外掦聲器 AW28T",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "250 x 381 x 250.5mm",
+        "重量:": "13.5kg"
+    },
+    {
+        "names": "Takstar 得勝 E160W",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Yamaha KMS-800",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "頻率:": "55 Hz–20 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "452 x 259 x 284 mm",
+        "重量:": "8kg"
+    },
+    {
+        "names": "Aige 愛歌 S15",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "有線/無線:": "有線",
+        "尺寸:": "215 x 125 x 100mm"
+    },
+    {
+        "names": "Edifier 移動多媒體音響 A3-8",
+        "rating": "",
+        "hon_price_min": "795",
+        "hon_price_max": "850",
+        "有線/無線:": "無線",
+        "重量:": "5.7kg"
+    },
+    {
+        "names": "Bose FreeSpace FS2SE Surface-Mount Loudspeaker",
+        "rating": "",
+        "hon_price_min": "2,890",
+        "hon_price_max": "2,890",
+        "有線/無線:": "有線",
+        "阻抗:": "16Ω",
+        "尺寸:": "196 x 113 x 135mm",
+        "重量:": "1.43kg"
+    },
+    {
+        "names": "JBL KPS5",
+        "rating": "",
+        "hon_price_min": "5,450",
+        "hon_price_max": "5,450",
+        "頻率:": "45Hz-20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "680 x 410 x 440mm",
+        "重量:": "24.4kg"
+    },
+    {
+        "names": "Definitive Technology SR9080",
+        "rating": "",
+        "hon_price_min": "5,760",
+        "hon_price_max": "6,880",
+        "有線/無線:": "有線",
+        "尺寸:": "39.7 x 22.86 x 15.39cm"
+    },
+    {
+        "names": "CyberTech AT-313USB BT",
+        "rating": "9.5",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,890",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL KP612",
+        "rating": "10",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "water_price_min": "5,980",
+        "water_price_max": "5,980",
+        "頻率:": "71Hz~20KHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "H600,W350,D382mm"
+    },
+    {
+        "names": "Cambridge Audio C165SS Premium In-Ceiling Stereo Speaker",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,400",
+        "頻率:": "60Hz - 20kHz",
+        "尺寸:": "97 x Ø 240mm",
+        "重量:": "1.28kg"
+    },
+    {
+        "names": "ACCURACY SP-580",
+        "rating": "",
+        "hon_price_min": "3,909",
+        "hon_price_max": "3,909",
+        "輸入功率:": "200-350W",
+        "尺寸:": "500(W) x 295(H) x 285(D)mm",
+        "重量:": "21kg"
+    },
+    {
+        "names": "JBL KS310",
+        "rating": "",
+        "hon_price_min": "5,210",
+        "hon_price_max": "5,210",
+        "有線/無線:": "有線",
+        "阻抗:": "8 OhmsΩ",
+        "尺寸:": "290 mm x 525 mm x 320 mm",
+        "重量:": "11.5kg"
+    },
+    {
+        "names": "Electro-Voice Evolve 50 Portable Column System",
+        "rating": "",
+        "有線/無線:": "無線",
+        "輸入功率:": "1000W",
+        "尺寸:": "Sub: 530 x 345 x 471mm / Column: 825 x 102 x 172mm / Pole: 929 x 48.5 x 55mm"
+    },
+    {
+        "names": "JBL MTS10",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "頻率:": "50Hz-20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "524 x 297 x 320mm",
+        "重量:": "14.2kg"
+    },
+    {
+        "names": "Klipsch RP-500SA",
+        "rating": "",
+        "hon_price_min": "3,750",
+        "hon_price_max": "3,800",
+        "有線/無線:": "有線",
+        "尺寸:": "7.39 x 6.81 x 11.16”",
+        "重量:": "3.6kg"
+    },
+    {
+        "names": "JBL 8138",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "靈敏度:": "97dB",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "eMeet Note N1 Smart Speakerphone",
+        "rating": ""
+    },
+    {
+        "names": "Yamaha KMS-910",
+        "rating": "10",
+        "hon_price_min": "3,980",
+        "hon_price_max": "6,600",
+        "water_price_min": "3,980",
+        "water_price_max": "3,980",
+        "頻率:": "55Hz~20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "W501 x H320 x D318mm",
+        "重量:": "12.2kg"
+    },
+    {
+        "names": "JBL KPS2",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "4,780",
+        "頻率:": "48Hz-20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "600 x 360 x 382mm",
+        "重量:": "20kg"
+    },
+    {
+        "names": "BMB CSD-2000 (SE)",
+        "rating": "10",
+        "hon_price_min": "8,799",
+        "hon_price_max": "8,799",
+        "輸入功率:": "1200W",
+        "尺寸:": "568(L)*350(W)*336(H)mm",
+        "重量:": "18.5kg"
+    },
+    {
+        "names": "eMeet M1 Smart Speakerphone",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799"
+    },
+    {
+        "names": "JBL Ki512",
+        "rating": "",
+        "hon_price_min": "5,580",
+        "hon_price_max": "5,580",
+        "輸入功率:": "400W",
+        "阻抗:": "8Ω",
+        "重量:": "35.2kg"
+    },
+    {
+        "names": "B&O Beosound Celestial 天花板內揚聲器",
+        "rating": "",
+        "water_price_min": "38,000",
+        "water_price_max": "38,000",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "VIEOX Jam Bolt J100",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "CyberTech AT-103USB",
+        "rating": "8.0",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "GoldenEar Invisa 650",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,000",
+        "頻率:": "25 Hz - 35 kHz",
+        "靈敏度:": "90dB",
+        "尺寸:": "8-1/8˝ diameter x 3-7/16˝ depth"
+    },
+    {
+        "names": "JBL KP6055",
+        "rating": "",
+        "hon_price_min": "9,920",
+        "hon_price_max": "9,930",
+        "頻率:": "75 Hz - 20 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "684 x 430 x 445mm",
+        "重量:": "23.7kg"
+    },
+    {
+        "names": "不見不散 多功能時尚擴音器 T1",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "JBL KS-6012",
+        "rating": "",
+        "hon_price_min": "7,580",
+        "hon_price_max": "7,580",
+        "頻率:": "71Hz~20KHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "H600,W350,D382mm",
+        "重量:": "14.7kg"
+    },
+    {
+        "names": "BiaiCom AF-1920",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL Control 65 P/T",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "輸入功率:": "75W",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "Electro-Voice EVID 4.2",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "(H)309.89 mm x (W)175.26 mm x (D) 215.9 mm",
+        "重量:": "3.9kg"
+    },
+    {
+        "names": "Bose DS 16F",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "頻率:": "95 Hz - 17 kHz",
+        "靈敏度:": "84dB",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "KitzConcept Robotech SD (Super-Deformed) Macross 超時空要塞 Q版 Lynn Minmei Doll Speaker 明美娃娃 藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Gadget Flow Tree of Light 多功能原木LED檯燈配置藍牙喇叭及無線充電器",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,199",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JAMO S 25",
+        "rating": "9.0",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "頻率:": "142Hz - 27kHz",
+        "靈敏度:": "83dB",
+        "尺寸:": "5.25” x 3.75” x 3.75”"
+    },
+    {
+        "names": "Mission MHT-System center",
+        "rating": ""
+    },
+    {
+        "names": "KEF 工程安裝揚聲器 Ci130QS",
+        "rating": "",
+        "頻率:": "45Hz-34kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "184 x 184 x 84mm",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Shinco 新科 S29",
+        "rating": "",
+        "有線/無線:": "無線",
+        "重量:": "8kg"
+    },
+    {
+        "names": "VIEW QUEST Christie",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "BMB CSN-255E",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "3,599",
+        "輸入功率:": "300W",
+        "尺寸:": "18″ (W) × 10.63″ (H) × 9.88″ (D)",
+        "重量:": "17.2 lbs per piecekg"
+    },
+    {
+        "names": "TANNOY Mercury iC5",
+        "rating": "",
+        "頻率:": "62Hz-22kHz",
+        "阻抗:": "6Ω",
+        "重量:": "1.1kg"
+    },
+    {
+        "names": "IB 智能木紋超聲波香薰機 + 藍牙喇叭 (燈光變色)",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "有線/無線:": "無線",
+        "尺寸:": "178 x 97mm"
+    },
+    {
+        "names": "JBL KI312",
+        "rating": "",
+        "hon_price_min": "5,070",
+        "hon_price_max": "5,070",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "H344 mm x W595 mm x D360 mm",
+        "重量:": "17.5kg"
+    },
+    {
+        "names": "iDance BC10",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Cambridge Audio C46",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,000",
+        "頻率:": "120Hz – 20kHz",
+        "尺寸:": "98mm (3.6’’) height x 88mm (3.4’’) diameter",
+        "重量:": "0.46kg"
+    },
+    {
+        "names": "JBL KS312",
+        "rating": "",
+        "hon_price_min": "5,990",
+        "hon_price_max": "5,990",
+        "有線/無線:": "有線",
+        "阻抗:": "8 OhmsΩ",
+        "尺寸:": "344 mm x 595 mm x 360 mm",
+        "重量:": "16.2 Kgkg"
+    },
+    {
+        "names": "SmarterWare 專業會議收音咪喇叭 TYPE-C USB Conference Speakerphone Speak Q5",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "TANNOY Mercury iC6",
+        "rating": "",
+        "頻率:": "55Hz-22kHz",
+        "阻抗:": "6Ω",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "ACCURACY SP-480MKII",
+        "rating": "",
+        "hon_price_min": "3,294",
+        "hon_price_max": "3,294",
+        "輸入功率:": "150-300W",
+        "尺寸:": "680(W) x 380(H) x 620(D)mm",
+        "重量:": "210kg"
+    },
+    {
+        "names": "Polk Audio RC85i",
+        "rating": "",
+        "頻率:": "30Hz - 20kHz",
+        "尺寸:": "35.88cm H x 25.56cm W x 8.73cm D"
+    },
+    {
+        "names": "TRS Audio 影院兩分頻全頻音箱 CT-106",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,450",
+        "頻率:": "70-20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "330 x 275 x 220mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "Klipsch RP-402S",
+        "rating": "",
+        "hon_price_min": "5,130",
+        "hon_price_max": "5,130",
+        "有線/無線:": "有線",
+        "尺寸:": "11.85 x 10.26 x 6.51”",
+        "重量:": "5.9kg"
+    },
+    {
+        "names": "Bose 151 SE 全天候戶外揚聲器",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,200",
+        "尺寸:": "4.5\"高 x 6\"闊 x 12.5\"深 ( 11.4 厘米 x 15.2 厘米 x 31.8 厘米 )"
+    },
+    {
+        "names": "BMB CSX-550",
+        "rating": "",
+        "hon_price_min": "5,499",
+        "hon_price_max": "5,500",
+        "輸入功率:": "400W",
+        "尺寸:": "18.27″(L) x 10.12″(W) x 10.55″(D)",
+        "重量:": "19.842 lbs eachkg"
+    },
+    {
+        "names": "JBL 8124",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "靈敏度:": "93dB",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "MKSound MP150",
+        "rating": "",
+        "頻率:": "77 Hz – 20 kHz ±3dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "12.3 x 10.5 x 5.4”"
+    },
+    {
+        "names": "KEF Ci-200RR",
+        "rating": "",
+        "頻率:": "33Hz-28kHz",
+        "阻抗:": "4Ω",
+        "重量:": "3.6kg"
+    },
+    {
+        "names": "JBL 8128",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "靈敏度:": "97dB",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "JBL Control 62 P/T",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "輸入功率:": "20W",
+        "阻抗:": "16Ω"
+    },
+    {
+        "names": "Bose 201 Direct/Reflecting 揚聲器 System",
+        "rating": ""
+    },
+    {
+        "names": "Klipsch S-2",
+        "rating": "",
+        "頻率:": "83 - 23000Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "36.3 x 17.4 x 14cm",
+        "重量:": "3.2kg"
+    },
+    {
+        "names": "JBL Control 14C/T",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,050",
+        "靈敏度:": "87dB",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Klipsch RP-240S",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,300",
+        "有線/無線:": "有線",
+        "尺寸:": "11.61” x 10.38” x 6.93”"
+    },
+    {
+        "names": "KEF R50 反射喇叭",
+        "rating": "10",
+        "靈敏度:": "85dB",
+        "尺寸:": "174 x 180 x 259 mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "Mirage Nanosat",
+        "rating": "9.3",
+        "頻率:": "110Hz - 22kHz",
+        "阻抗:": "8/4Ω",
+        "尺寸:": "10.7 cm X 14.9 cm X 11.1 cm",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "TEV 8\" 200W 移動式無線擴音機 TA-680",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "有線/無線:": "無線",
+        "靈敏度:": "3dB",
+        "尺寸:": "340 x 330 x 545mm",
+        "重量:": "15kg"
+    },
+    {
+        "names": "COTINA CS-667WT",
+        "rating": "",
+        "頻率:": "60-20,000 Hz",
+        "尺寸:": "240(W)×240(H) ×115(D)"
+    },
+    {
+        "names": "IB 2合1 智能燈泡 + 藍牙喇叭 (Smart RGB LED Speaker Bulb)",
+        "rating": "9.0",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "BMB CSX-1000",
+        "rating": "",
+        "輸入功率:": "Max Power: 700WW",
+        "尺寸:": "22.4\"(W) × 13.8\"(H) × 13.2\"(D)",
+        "重量:": "40.8 lbs eachkg"
+    },
+    {
+        "names": "Yamaha ISX-B820",
+        "rating": "",
+        "有線/無線:": "無線",
+        "重量:": "12 kg (含腳架) / 6.44 kg (不含腳架)kg"
+    },
+    {
+        "names": "JAMO S 35",
+        "rating": "10",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "頻率:": "108Hz - 23kHz",
+        "尺寸:": "6.75\" x 5\" x 5\""
+    },
+    {
+        "names": "Phonar  Ethos Surround 100G Speaker",
+        "rating": "",
+        "靈敏度:": "87dBdB",
+        "尺寸:": "330 x 300 x 130mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "KEF Q800ds",
+        "rating": "10",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "頻率:": "100 - 40kHz",
+        "尺寸:": "180 x 348 x 180mm",
+        "重量:": "7.4kg"
+    },
+    {
+        "names": "Klipsch RS-52",
+        "rating": "10",
+        "頻率:": "62 - 23000Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "33 x 32 x 21.6cm",
+        "重量:": "6.8kg"
+    },
+    {
+        "names": "Marantz MKS1200A",
+        "rating": "",
+        "輸入功率:": "1000W",
+        "尺寸:": "555 x360 x 310mm",
+        "重量:": "16kg"
+    },
+    {
+        "names": "Bose Virtually Invisible 191 入牆式揚聲器",
+        "rating": "",
+        "water_price_min": "2,490",
+        "water_price_max": "2,490"
+    },
+    {
+        "names": "JBL KHM10",
+        "rating": "",
+        "頻率:": "40Hz ~ 20kHz",
+        "阻抗:": "4Ω",
+        "尺寸:": "330 x 533 x 241mm",
+        "重量:": "12.7kg"
+    },
+    {
+        "names": "Takstar 得勝 E160",
+        "rating": "",
+        "hon_price_min": "508",
+        "hon_price_max": "508",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Electro-Voice  EVID C4.2",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "頻率:": "65 - 20000 Hz",
+        "阻抗:": "8Ω",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "MKSound SUR-95T",
+        "rating": "",
+        "有線/無線:": "有線",
+        "阻抗:": "4Ω",
+        "尺寸:": "25.9 x 17.8 x 22.1cm",
+        "重量:": "4.7 kgkg"
+    },
+    {
+        "names": "Loewe Klang 1",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,800",
+        "有線/無線:": "有線",
+        "靈敏度:": "-6dB",
+        "尺寸:": "166 x 85 x 86mm",
+        "重量:": "0.9kg"
+    },
+    {
+        "names": "CyberTech AT-312USB BT",
+        "rating": "9.5",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,490",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "不見不散 便攜多功能擴音器 T500",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308"
+    },
+    {
+        "names": "NudeAudio Move S Wired Speaker",
+        "rating": "",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "Yamaha KMS-710",
+        "rating": "10",
+        "hon_price_min": "3,480",
+        "hon_price_max": "5,500",
+        "頻率:": "60Hz~20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "W452 x H259 x D284mm",
+        "重量:": "8kg"
+    },
+    {
+        "names": "DYNAUDIO Aria SR 900",
+        "rating": "",
+        "頻率:": "85Hz – 28kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "295 x 400 x 170mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "DYNAUDIO IW17 崁入式喇叭",
+        "rating": "4.0",
+        "頻率:": "45 Hz – 25 kHz (± 3 dB)",
+        "阻抗:": "4-6Ω",
+        "尺寸:": "195 x 289 x 105mm",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Yamaha KMS-1000",
+        "rating": "10",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,800",
+        "頻率:": "50 Hz–20 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "510 x 320 x 318 mm",
+        "重量:": "11.6kg"
+    },
+    {
+        "names": "iDance XD3",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "TruAudio L Series 2-Way In-Ceiling Speaker LC-6",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "有線/無線:": "有線",
+        "阻抗:": "8Ω",
+        "尺寸:": "241 x 76mm"
+    },
+    {
+        "names": "Electro-Voice EVID 6.2",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,480",
+        "頻率:": "62 - 20000 Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "41.9cm x 22.8cm x 29.8cm",
+        "重量:": "5.3kg"
+    },
+    {
+        "names": "Cerwin Vega 10\" Portable Powered Loudspeakers P1000X",
+        "rating": "",
+        "輸入功率:": "1000W",
+        "尺寸:": "H648,W381,D381mm",
+        "重量:": "16.78kg"
+    },
+    {
+        "names": "ALTO TS-115",
+        "rating": "10",
+        "頻率:": "48Hz ~ 18KHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "679X385X430mm",
+        "重量:": "13.1kg"
+    },
+    {
+        "names": "KEF Ci-200QR",
+        "rating": "",
+        "頻率:": "35-34kHz",
+        "靈敏度:": "90dB",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "MKSound S-150MKII",
+        "rating": "",
+        "頻率:": "77 Hz – 20 kHz ±3dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "12.5 x 10.5 x 12.5\""
+    },
+    {
+        "names": "TruAudio CP-6",
+        "rating": "",
+        "頻率:": "52-20kHz",
+        "靈敏度:": "90dB"
+    },
+    {
+        "names": "TOA BS678",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL Control 16C/T",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "靈敏度:": "91dB",
+        "重量:": "3.4kg"
+    },
+    {
+        "names": "DYNAUDIO LYD 48",
+        "rating": "",
+        "water_price_min": "20,355",
+        "water_price_max": "20,355",
+        "有線/無線:": "有線",
+        "靈敏度:": "112dB",
+        "尺寸:": "369 x 234 x 328mm",
+        "重量:": "10.55kg"
+    },
+    {
+        "names": "L-ACOUSTICS 5XT",
+        "rating": "",
+        "頻率:": "95 Hz -20 kHz",
+        "尺寸:": "165 mm x 165 mm x 165 mm",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "JBL DD-66000",
+        "rating": "10",
+        "hon_price_min": "468,000",
+        "hon_price_max": "468,000",
+        "頻率:": "45 - 50,000 Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "1092H x 965W x 464D mm",
+        "重量:": "137kg"
+    },
+    {
+        "names": "JBL KS-6015",
+        "rating": "",
+        "頻率:": "70Hz~20KHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "H680,W430,D430mm",
+        "重量:": "19.9kg"
+    },
+    {
+        "names": "Marantz MKS990 10吋卡拉OK音箱",
+        "rating": "",
+        "尺寸:": "501 (寬) x 299 (高) x 278 (深) mm"
+    },
+    {
+        "names": "Takstar 得勝 E190M",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "588",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "KEF Ci5160RL-THX",
+        "rating": "",
+        "頻率:": "40Hz - 28kHz(±6dB) open backed",
+        "阻抗:": "4Ω",
+        "尺寸:": "1070 x 230 x 105.7 mm (42.13 x 9.06 x 4.16 in.)",
+        "重量:": "19kg"
+    },
+    {
+        "names": "Philips 飛利浦 WeCall 藍牙會議喇叭 AECS7000E",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "KEF Ci3160RL-THX 嵌壁式喇叭",
+        "rating": "",
+        "頻率:": "45Hz - 28kHz (±6dB) open-backed",
+        "阻抗:": "4Ω",
+        "尺寸:": "680 x 230 x 105.7 mm (26.77 x 9.06 x 4.16 in.)",
+        "重量:": "11.7kg"
+    },
+    {
+        "names": "Lyngdorf MH-2",
+        "rating": "",
+        "有線/無線:": "有線",
+        "阻抗:": "4Ω",
+        "尺寸:": "24 x 19 x 9.5cm",
+        "重量:": "3.1kg"
+    },
+    {
+        "names": "IB 2 in 1 Smart RGB LED Speaker  Bulb (智能藍牙燈膽喇叭)",
+        "rating": "10",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Yamaha ISX-803",
+        "rating": "",
+        "有線/無線:": "無線",
+        "重量:": "12 kg (含腳架) / 6.44 kg (不含腳架)kg"
+    },
+    {
+        "names": "MKSound M-4T",
+        "rating": "",
+        "頻率:": "100 Hz - 20 kHz ±2dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "18.8 x 15.2 x 17.1cm",
+        "重量:": "2.9kg"
+    },
+    {
+        "names": "TruAudio GG-6",
+        "rating": "",
+        "頻率:": "43-20kHz",
+        "靈敏度:": "91dB"
+    },
+    {
+        "names": "BMB CSM455",
+        "rating": "10",
+        "hon_price_min": "4,499",
+        "hon_price_max": "4,499",
+        "輸入功率:": "450W",
+        "重量:": "10.5kg"
+    },
+    {
+        "names": "JBL CSM 2-ZONE Paging Station",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380"
+    },
+    {
+        "names": "JAMO C 60 SUR Surround Speaker",
+        "rating": "",
+        "頻率:": "80 - 20,000Hz",
+        "尺寸:": "282 x 267 x 153mm",
+        "重量:": "4.2kg"
+    },
+    {
+        "names": "JAMO C9 SUR",
+        "rating": "",
+        "有線/無線:": "有線",
+        "阻抗:": "6Ω",
+        "尺寸:": "350 x 318.5 x 196mm",
+        "重量:": "8.2kg"
+    },
+    {
+        "names": "IB 2 in 1 智能燈泡 + 藍牙喇叭 (Smart RGB LED Speaker Bulb)",
+        "rating": "10",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "BMB CSV-450",
+        "rating": "10",
+        "hon_price_min": "4,199",
+        "hon_price_max": "4,199",
+        "頻率:": "40 Hz - 20 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "558 (W) x 292 (H) x 297 (D)",
+        "重量:": "11.7kg"
+    },
+    {
+        "names": "ALTO TS-112",
+        "rating": "10",
+        "輸入功率:": "400W",
+        "尺寸:": "648mm x 383.8mm x 365mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "JBL ES10",
+        "rating": "",
+        "頻率:": "65Hz-40kHz",
+        "尺寸:": "201 x 305 x 140mm",
+        "重量:": "4kg"
+    },
+    {
+        "names": "Elipson Planet L (2.0)pair",
+        "rating": "",
+        "頻率:": "48 - 20000 Hz",
+        "阻抗:": "6Ω",
+        "尺寸:": "290mm Round",
+        "重量:": "7kg"
+    },
+    {
+        "names": "KEF Ci160QR",
+        "rating": "",
+        "頻率:": "38Hz - 34kHz",
+        "靈敏度:": "89dB"
+    },
+    {
+        "names": "MKSound S 300",
+        "rating": "6.0",
+        "頻率:": "60Hz - 22kHz",
+        "尺寸:": "395 H x 340 W x 330 D mm",
+        "重量:": "18.2kg"
+    },
+    {
+        "names": "VIEW QUEST Retro Mini",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Klipsch RS-42",
+        "rating": "",
+        "頻率:": "52 - 23000Hz",
+        "阻抗:": "8Ω",
+        "尺寸:": "273 x 254 x 197mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "JAMO C10 SUR",
+        "rating": "",
+        "有線/無線:": "有線",
+        "阻抗:": "6Ω",
+        "尺寸:": "350 x 400 x 200mm",
+        "重量:": "9.5kg"
+    },
+    {
+        "names": "Hi-Rice A11 FM Supported Bluetooth Speaker",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "KEF Ci-160CR",
+        "rating": "",
+        "頻率:": "52-20kHz",
+        "靈敏度:": "89dB",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "KEF Ci160TR",
+        "rating": "",
+        "輸入功率:": "10-100W",
+        "尺寸:": "234.6 x 40mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "DYNAUDIO IP17 崁入式喇叭",
+        "rating": "",
+        "頻率:": "45 Hz – 23 kHz (± 3 dB)",
+        "阻抗:": "8Ω",
+        "尺寸:": "225 x 325 x 92mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "Mirage OMD-5",
+        "rating": "",
+        "頻率:": "60 Hz - 20 kHz",
+        "尺寸:": "9.18 x 6.45 x 7.22,cm",
+        "重量:": "3.63kg"
+    },
+    {
+        "names": "ACCURACY SP-360",
+        "rating": "",
+        "頻率:": "48 Hz - 18 kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "455 x 268 x 230mm",
+        "重量:": "16kg"
+    },
+    {
+        "names": "SmarterWare T-2317A 多功能 Bluetooth Karaoke Speaker",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "Mirage OS3 SAT",
+        "rating": "10",
+        "頻率:": "70 Hz - 20 kHz",
+        "尺寸:": "20.9 x 14 x 15.6cm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Sonus faber Venere Wall",
+        "rating": "7.0",
+        "頻率:": "50Hz ‐ 25kHz",
+        "阻抗:": "6Ω",
+        "尺寸:": "291W x 500H x 170D mm",
+        "重量:": "6.25kg"
+    },
+    {
+        "names": "IB LED 拍拍藍牙喇叭變色燈 (響鬧時間)",
+        "rating": "10",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "JBL 9300",
+        "rating": "10",
+        "輸入功率:": "250W",
+        "尺寸:": "22 x 16 x 11”",
+        "重量:": "9.9kg"
+    },
+    {
+        "names": "KEF Ci100QR",
+        "rating": "",
+        "輸入功率:": "10 - 50W",
+        "尺寸:": "Ø127 x 153 mm, Ø127 x 100 mm,",
+        "重量:": "0.8kg"
+    },
+    {
+        "names": "Bose 201 Series III 揚聲器系統",
+        "rating": "",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "JBL S4AI",
+        "rating": "",
+        "頻率:": "80Hz – 20kHz",
+        "阻抗:": "6Ω",
+        "尺寸:": "606 x 356 x 95mm",
+        "重量:": "10.45kg"
+    },
+    {
+        "names": "Polk Audio RC60i",
+        "rating": "",
+        "頻率:": "40Hz - 20kHz"
+    },
+    {
+        "names": "Ken Kreisel KKQ125(TFS)",
+        "rating": ""
+    },
+    {
+        "names": "KEF Ci130QR",
+        "rating": "",
+        "頻率:": "45Hz - 34kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "158mm"
+    },
+    {
+        "names": "KEF Ci50R",
+        "rating": "",
+        "頻率:": "125 - 20kHz",
+        "阻抗:": "6Ω",
+        "尺寸:": "80 x 55 x 90mm"
+    },
+    {
+        "names": "Wharfedale Jade SR",
+        "rating": "",
+        "頻率:": "80Hz – 24kHz",
+        "尺寸:": "347 x 326 x 165mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "IB Hero NFC 藍牙 智能低音 立體聲喇叭",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "CES Audio SPS-5121PW",
+        "rating": "",
+        "頻率:": "130 Hz ~ 20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "180(7.09) Dia. mm. (in.)",
+        "重量:": "1.50kg"
+    },
+    {
+        "names": "TruAudio GP-6",
+        "rating": "",
+        "頻率:": "51-20kHz",
+        "靈敏度:": "91dB"
+    },
+    {
+        "names": "KEF Ci-200CR",
+        "rating": "",
+        "頻率:": "45-20kHz",
+        "靈敏度:": "90dB",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "ihave 實用藍牙音頻接收器音響連接適配器",
+        "rating": "",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "ALTO SX-112",
+        "rating": "10",
+        "頻率:": "65 ~ 20KHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "650X365X400mm",
+        "重量:": "19.8kg"
+    },
+    {
+        "names": "MKSound SUR-55T",
+        "rating": "",
+        "有線/無線:": "有線",
+        "阻抗:": "4Ω",
+        "尺寸:": "25.9 x 17.8 x 22.1cm",
+        "重量:": "4.7kg"
+    },
+    {
+        "names": "Onkyo D-309H",
+        "rating": "",
+        "有線/無線:": "有線",
+        "尺寸:": "142 x 136.5 x 238.5 mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "SAMSON XP308 Protable PA",
+        "rating": "",
+        "輸入功率:": "300W",
+        "重量:": "16.8kg"
+    },
+    {
+        "names": "JAMO C 80 SUR Surround Speaker",
+        "rating": "",
+        "頻率:": "65 - 24,000Hz",
+        "尺寸:": "293 x 286 x 181mm",
+        "重量:": "7.5kg"
+    },
+    {
+        "names": "Lars & Ivan iSofa",
+        "rating": "",
+        "有線/無線:": "有線"
+    },
+    {
+        "names": "SAMSON XP510i",
+        "rating": "",
+        "輸入功率:": "500W",
+        "重量:": "27.3kg"
+    },
+    {
+        "names": "Cerwin Vega 15\" Portable Powered Loudspeakers P1500X",
+        "rating": "",
+        "輸入功率:": "540W",
+        "尺寸:": "H699,W432,D343mm",
+        "重量:": "24kg"
+    },
+    {
+        "names": "SAMSON XP150 Protable PA",
+        "rating": "",
+        "輸入功率:": "150W",
+        "重量:": "10.8kg"
+    },
+    {
+        "names": "Ken Kreisel KKQ125",
+        "rating": ""
+    },
+    {
+        "names": "KEF Ci110FCT",
+        "rating": "",
+        "輸入功率:": "10 - 100W",
+        "尺寸:": "Diameter : 196mm (7.71in.), With back can : 107mm (4.21in.)",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "IB 2 in 1 Smart Speaker LED Bulb",
+        "rating": "8.0"
+    },
+    {
+        "names": "JBL KS-610",
+        "rating": "10",
+        "頻率:": "72Hz~20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "H524,W300,D340mm",
+        "重量:": "11.9kg"
+    },
+    {
+        "names": "XAVIAN Duetto C",
+        "rating": "",
+        "輸入功率:": "120W",
+        "重量:": "9.1kg"
+    },
+    {
+        "names": "SAMSON AURO X15D",
+        "rating": "",
+        "輸入功率:": "500W",
+        "重量:": "19kg"
+    },
+    {
+        "names": "IB 2 in 1 LED 燈泡 + 藍牙喇叭",
+        "rating": "8.0",
+        "有線/無線:": "無線"
+    },
+    {
+        "names": "ALTO SX-115",
+        "rating": "10",
+        "頻率:": "55 ~ 20KHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "750X420X450mm",
+        "重量:": "24.98kg"
+    },
+    {
+        "names": "Bose 131 船用揚聲器",
+        "rating": "",
+        "尺寸:": "12\"高 x 7.1\"闊 x 3.5\"深 ( 30 厘米 x 18 厘米 x 8.9 厘米 )",
+        "重量:": "4.5 磅(2 公斤)kg"
+    },
+    {
+        "names": "ACCURACY CM-2",
+        "rating": "",
+        "輸入功率:": "30W-160W",
+        "尺寸:": "W215mm x H325mm x 225mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "JAMO D 600 SUR Surround Speaker",
+        "rating": "",
+        "頻率:": "80-20.000 Hz",
+        "重量:": "9kg"
+    },
+    {
+        "names": "DYNAUDIO IC17",
+        "rating": "",
+        "頻率:": "45 Hz - 25 kHz",
+        "阻抗:": "4-6Ω",
+        "尺寸:": "236 x 109mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "KEF Ci160CS",
+        "rating": "",
+        "輸入功率:": "10 - 100W",
+        "尺寸:": "223 x 223 x 90.5mm",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Ken Kreisel KKQ125C",
+        "rating": ""
+    },
+    {
+        "names": "MKSound MP-7",
+        "rating": "",
+        "頻率:": "80 Hz – 20 kHz ±2dB",
+        "阻抗:": "4Ω",
+        "尺寸:": "21.2 x 4.7 x 3.5”"
+    },
+    {
+        "names": "IB 智能陶瓷超聲波香薰機 + 藍牙喇叭 (燈光變色)",
+        "rating": "10",
+        "有線/無線:": "無線",
+        "尺寸:": "180 x 155 x 110mm"
+    },
+    {
+        "names": "JBL KS-6010",
+        "rating": "",
+        "頻率:": "72Hz~20kHz",
+        "阻抗:": "8Ω",
+        "尺寸:": "H524,W300,D340mm",
+        "重量:": "11.9kg"
+    },
+    {
+        "names": "Parrot Minikit Speakerphone",
+        "rating": ""
+    }
+]

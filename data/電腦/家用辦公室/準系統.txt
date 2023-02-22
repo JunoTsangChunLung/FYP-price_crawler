@@ -1,0 +1,2251 @@
+[
+    {
+        "names": "Intel NUC 12 Extreme Kit - NUC12DCMi9",
+        "rating": "",
+        "hon_price_min": "10,750",
+        "hon_price_max": "13,980",
+        "晶片組:": "Intel Z690",
+        "Socket:": "LGA 1700"
+    },
+    {
+        "names": "Intel NUC 12 Pro Kit NUC12WSKi50Z",
+        "rating": "",
+        "hon_price_min": "4,099",
+        "hon_price_max": "4,499",
+        "晶片組:": "Intel",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Intel NUC 12 Pro NUC12WSHi70Z",
+        "rating": "2.0",
+        "hon_price_min": "5,099",
+        "hon_price_max": "5,509",
+        "water_price_min": "4,999",
+        "water_price_max": "5,299",
+        "晶片組:": "Intel",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Intel NUC 11 Performance kit - NUC11PAHi3 (RNUC11PAHi30000)",
+        "rating": "10",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,999",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Intel NUC 11 Enthusiast Kit - NUC11PHKi7C",
+        "rating": "",
+        "hon_price_min": "6,998",
+        "hon_price_max": "10,480",
+        "water_price_min": "10,380",
+        "water_price_max": "10,480",
+        "晶片組:": "Phantom Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Intel NUC 12 Pro Kit NUC12WSHi50Z",
+        "rating": "",
+        "hon_price_min": "4,099",
+        "hon_price_max": "6,999",
+        "water_price_min": "4,499",
+        "water_price_max": "4,499"
+    },
+    {
+        "names": "ZOTAC MAGNUS EN173070C 迷你電腦 (Barebone 準系統版本) ZBOX-EN173070C",
+        "rating": "",
+        "hon_price_min": "11,899",
+        "hon_price_max": "12,099",
+        "晶片組:": "Intel, NVIDIA"
+    },
+    {
+        "names": "Intel NUC 11 Performance kit - NUC11PAHi5 (RNUC11PAHi50000)",
+        "rating": "10",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,680",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Intel NUC 12 Pro Kit with thunderbolt 4 NUC12WSHi5",
+        "rating": "",
+        "hon_price_min": "4,099",
+        "hon_price_max": "4,799"
+    },
+    {
+        "names": "Intel NUC 11 Performance kit - NUC11PAHi7 (RNUC11PAHi70000)",
+        "rating": "",
+        "hon_price_min": "4,150",
+        "hon_price_max": "5,599",
+        "water_price_min": "4,799",
+        "water_price_max": "4,799",
+        "Socket:": "Socket BGA-1449"
+    },
+    {
+        "names": "ASUS Mini PC PN64 (i7-12700H,8GB RAM,Intel Iris Xe) PN64-BB7014MD",
+        "rating": "",
+        "hon_price_min": "5,899",
+        "hon_price_max": "5,899",
+        "water_price_min": "5,399",
+        "water_price_max": "5,899"
+    },
+    {
+        "names": "ASRock DeskMini B660",
+        "rating": "10",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,980",
+        "晶片組:": "Intel B660",
+        "Socket:": "LGA1700"
+    },
+    {
+        "names": "ASRock DeskMini X300",
+        "rating": "10",
+        "hon_price_min": "1,210",
+        "hon_price_max": "1,650",
+        "晶片組:": "AMD",
+        "Socket:": "AM4"
+    },
+    {
+        "names": "ASRock DeskMeet B660 Series",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,910",
+        "晶片組:": "Intel B660",
+        "Socket:": "LGA 1700"
+    },
+    {
+        "names": "Intel NUC 12 Enthusiast - NUC12SNKi7 (i7-12700H,Intel Arc A770M)",
+        "rating": "",
+        "hon_price_min": "12,299",
+        "hon_price_max": "12,980",
+        "晶片組:": "Intel",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "MSI Cubi 5 10M i310110U (CS-MC510I3)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,299",
+        "晶片組:": "Intel SoC"
+    },
+    {
+        "names": "MINISFORUM Elitemini B550 AMD Barebone (可加顯示卡及火牛版本)",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "2,900",
+        "晶片組:": "AMD B550"
+    },
+    {
+        "names": "ZOTAC MAGNUS ONE ECM53060C (Barebone) ZBOX-ECM53060C",
+        "rating": "",
+        "hon_price_min": "9,580",
+        "hon_price_max": "10,280",
+        "晶片組:": "Intel, NVIDIA"
+    },
+    {
+        "names": "Raspberry Pi 400 Personal Computer Kit 鍵盤一體機套裝",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099"
+    },
+    {
+        "names": "MSI PRO DP20Z AMD X300 Mini PC Barebone (BS-MPDP20Z)",
+        "rating": "9.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,399",
+        "晶片組:": "AMD X300",
+        "Socket:": "AM4"
+    },
+    {
+        "names": "ZOTAC MAGNUS EN173080C 迷你電腦 (Barebone 準系統版本) ZBOX-EN173080C",
+        "rating": "",
+        "hon_price_min": "15,880",
+        "hon_price_max": "16,099",
+        "晶片組:": "Intel, NVIDIA"
+    },
+    {
+        "names": "Intel NUC 11 Enthusiast Kit - NUC11PHKi7CAA",
+        "rating": "",
+        "hon_price_min": "8,700",
+        "hon_price_max": "11,999",
+        "晶片組:": "Phantom Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BRR7H-4700",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "4,999",
+        "晶片組:": "AMD Ryzen R7-4700U"
+    },
+    {
+        "names": "ASRock DeskMini H470",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,700",
+        "晶片組:": "Intel H470",
+        "Socket:": "LGA 1200"
+    },
+    {
+        "names": "ZOTAC MAGNUS EN153060C 迷你電腦 (Barebone 準系統版本) ZBOX-EN153060C",
+        "rating": "",
+        "hon_price_min": "8,980",
+        "hon_price_max": "9,099",
+        "晶片組:": "Intel, NVIDIA"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B (8GB)",
+        "rating": "10",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450"
+    },
+    {
+        "names": "ZOTAC ZBOX CI329 nano (Barebone) ZBOX-CI329NANO",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,480",
+        "晶片組:": "Intel Celeron N4100"
+    },
+    {
+        "names": "Gigabyte Mini-PC Barebone 迷你電腦準系統 GB-BEi3H-1220",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,399"
+    },
+    {
+        "names": "Intel NUC 12 Pro Kit NUC12WSKi70Z",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "5,499"
+    },
+    {
+        "names": "MSI Cubi 5 10M i510210U (CS-MC510I5)",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,599",
+        "晶片組:": "Intel"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B (4GB)",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "晶片組:": "Broadcom BCM2711B0"
+    },
+    {
+        "names": "MSI CUBI 5 10M i710510U CS-MCU5M59",
+        "rating": "",
+        "hon_price_min": "6,170",
+        "hon_price_max": "6,180",
+        "晶片組:": "Intel SoC"
+    },
+    {
+        "names": "ASRock Mars 4500U WIFI Barebone PC",
+        "rating": "",
+        "hon_price_min": "3,299",
+        "hon_price_max": "3,350",
+        "Socket:": "AM4"
+    },
+    {
+        "names": "Gigabyte Mini-PC Barebone 迷你電腦準系統 GBEi7-1260",
+        "rating": "10",
+        "hon_price_min": "7,499",
+        "hon_price_max": "9,999"
+    },
+    {
+        "names": "Gigabyte 超微型電腦 (BRIX Barebone) GB-BER5HS-5700",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "4,999"
+    },
+    {
+        "names": "Intel NUC 11 Essential Kit - NUC11ATKC4",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,399",
+        "晶片組:": "Intel",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "OKdo Raspberry Pi 4 (8GB) Starter Kit",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750"
+    },
+    {
+        "names": "ZOTAC  ZBOX MI642 Nano Barebone Mini PC ZBOX-MI642NANO",
+        "rating": "",
+        "hon_price_min": "2,899",
+        "hon_price_max": "2,899",
+        "晶片組:": "Intel"
+    },
+    {
+        "names": "ZOTAC ZBOX CI625 nano (Barebone) ZBOX-CI625NANO",
+        "rating": "",
+        "hon_price_min": "3,199",
+        "hon_price_max": "3,800",
+        "晶片組:": "intel"
+    },
+    {
+        "names": "Intel NUC Kit BOXNUC10I7FNH",
+        "rating": "",
+        "hon_price_min": "4,188",
+        "hon_price_max": "4,199",
+        "晶片組:": "Frost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "ZOTAC ZBOX CI662 nano (Barebone)",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,880",
+        "晶片組:": "Intel Core i7-10510U"
+    },
+    {
+        "names": "MSI 專業準系統 CUBI 5 10M (CS-MCU51M2)",
+        "rating": "10",
+        "hon_price_min": "5,080",
+        "hon_price_max": "5,080"
+    },
+    {
+        "names": "BIOSTAR MiNi Pro PC (MP-J4125)",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "晶片組:": "Intel J4125"
+    },
+    {
+        "names": "Gigabyte Mini-PC Barebone 迷你電腦準系統 GBEi5-1240",
+        "rating": "",
+        "hon_price_min": "5,799",
+        "hon_price_max": "8,888"
+    },
+    {
+        "names": "ZOTAC ZBOX edge MI643 PC",
+        "rating": "",
+        "hon_price_min": "3,460",
+        "hon_price_max": "3,460"
+    },
+    {
+        "names": "Intel NUC 9 Pro Kit - NUC9VXQNX",
+        "rating": "",
+        "hon_price_min": "10,288",
+        "hon_price_max": "10,388",
+        "晶片組:": "Quartz Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Intel NUC 10 Performance kit - NUC10i3FNH",
+        "rating": "",
+        "hon_price_min": "2,188",
+        "hon_price_max": "2,199",
+        "晶片組:": "Frost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BSi7-1165G7",
+        "rating": "",
+        "hon_price_min": "6,552",
+        "hon_price_max": "6,999",
+        "晶片組:": "Intel i7-1165G7"
+    },
+    {
+        "names": "MSI CUBI 5 10M i510210U CS-MCU5M60",
+        "rating": "",
+        "hon_price_min": "5,270",
+        "hon_price_max": "5,280",
+        "晶片組:": "Intel SoC"
+    },
+    {
+        "names": "Gigabyte Mini-PC Barebone 迷你電腦準系統 GB-BMPD-6005",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,199"
+    },
+    {
+        "names": "Intel NUC 10 Performance kit - NUC10i5FNH",
+        "rating": "10",
+        "hon_price_min": "2,888",
+        "hon_price_max": "3,299",
+        "晶片組:": "Frost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Intel NUC Kit BOXNUC8I7BEH3",
+        "rating": "",
+        "hon_price_min": "3,888",
+        "hon_price_max": "3,888",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "ZOTAC MAGNUS EC52060S (Barebone)",
+        "rating": "",
+        "hon_price_min": "8,990",
+        "hon_price_max": "8,990",
+        "晶片組:": "Intel Core i5-9300H"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BSi3-1115G4",
+        "rating": "10",
+        "hon_price_min": "4,299",
+        "hon_price_max": "4,299",
+        "晶片組:": "Intel i3-1115G4"
+    },
+    {
+        "names": "ZOTAC ZBOX MI645 nano (Barebone) ZBOX-MI645NANO",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "晶片組:": "intel"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BRR7H-4800",
+        "rating": "",
+        "hon_price_min": "5,699",
+        "hon_price_max": "5,999",
+        "晶片組:": "AMD Ryzen R7-4800U"
+    },
+    {
+        "names": "ZOTAC MAGNUS EN52060V 迷你創作者電腦",
+        "rating": "",
+        "hon_price_min": "9,350",
+        "hon_price_max": "9,350"
+    },
+    {
+        "names": "Intel 嵌入式機箱電腦 NUC8I3BEK",
+        "rating": "",
+        "hon_price_min": "2,188",
+        "hon_price_max": "2,188"
+    },
+    {
+        "names": "MSI PRO DP21 12M Intel i5-12400 迷你準系統",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,699",
+        "晶片組:": "Intel H610"
+    },
+    {
+        "names": "ZOTAC ZBOX edge MI623 Mini PC",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "2,900"
+    },
+    {
+        "names": "ZOTAC ZBOX MI662 nano PC",
+        "rating": "",
+        "hon_price_min": "4,099",
+        "hon_price_max": "4,500"
+    },
+    {
+        "names": "ZOTAC ZBOX CI645 nano (Barebone) ZBOX-CI645NANO",
+        "rating": "",
+        "hon_price_min": "3,790",
+        "hon_price_max": "4,600",
+        "晶片組:": "intel"
+    },
+    {
+        "names": "ZOTAC Inspire Studio SCF72060S (Windows 10 Pro 版本)",
+        "rating": "",
+        "hon_price_min": "14,980",
+        "hon_price_max": "14,980",
+        "晶片組:": "Intel Core i7-9700"
+    },
+    {
+        "names": "MINIX NEO Z83-4 PRO",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,560",
+        "晶片組:": "Intel X5-Z8350 (Windows 10 Pro)"
+    },
+    {
+        "names": "Gigabyte 超微型電腦 (BRIX Barebone) GB-BER5HS-5500",
+        "rating": "",
+        "hon_price_min": "4,599",
+        "hon_price_max": "4,799"
+    },
+    {
+        "names": "MINIX NEO Z64-W",
+        "rating": "8.0",
+        "hon_price_min": "690",
+        "hon_price_max": "899"
+    },
+    {
+        "names": "Intel NUC 9 Extreme Kit - NUC9i7QNX",
+        "rating": "",
+        "hon_price_min": "5,888",
+        "hon_price_max": "5,980",
+        "water_price_min": "5,980",
+        "water_price_max": "5,980",
+        "晶片組:": "Ghost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "DFRobot Gravity: Capacitive Fingerprint Sensor",
+        "rating": "",
+        "hon_price_min": "212",
+        "hon_price_max": "212"
+    },
+    {
+        "names": "Intel NUC 10 Performance Kit - NUC10i7FNK",
+        "rating": "",
+        "hon_price_min": "4,488",
+        "hon_price_max": "4,499",
+        "晶片組:": "Frost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B (2GB)",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,050",
+        "晶片組:": "Broadcom BCM2711B0"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B 雙風扇散熱殼 (不包括Raspberry Pi 4B主板)",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140"
+    },
+    {
+        "names": "Intel NUC 9 Extreme Kit - NUC9i9QNX",
+        "rating": "",
+        "hon_price_min": "10,888",
+        "hon_price_max": "10,888",
+        "晶片組:": "Ghost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Seeed Studio Grove Shield for Arduino Nano/Nano 33",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48"
+    },
+    {
+        "names": "DFRobot micro: Maqueen Plus",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BSi5-1135G7",
+        "rating": "",
+        "hon_price_min": "5,899",
+        "hon_price_max": "5,899",
+        "晶片組:": "Intel i5-1135G7"
+    },
+    {
+        "names": "ASUS VivoStick PC (TS10) B207D",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "water_price_min": "998",
+        "water_price_max": "998"
+    },
+    {
+        "names": "ZOTAC MAGNUS EN72070V 迷你創作者電腦 (Barebone)",
+        "rating": "",
+        "晶片組:": "Intel Core i7-9750H"
+    },
+    {
+        "names": "Intel NUC 10 Performance kit - NUC10i5FNK",
+        "rating": "",
+        "hon_price_min": "3,088",
+        "hon_price_max": "3,299",
+        "晶片組:": "Frost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "ZOTAC ZBOX CI665 nano (Barebone) ZBOX-CI665NANO",
+        "rating": "10",
+        "hon_price_min": "4,650",
+        "hon_price_max": "5,400",
+        "晶片組:": "intel"
+    },
+    {
+        "names": "Texas Instruments TI-Nspire CX CAS Handheld",
+        "rating": ""
+    },
+    {
+        "names": "Raspberry Pi 4 Model B 磁石鋁合金散熱殼",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130"
+    },
+    {
+        "names": "Pi-Top Pi-Top",
+        "rating": "",
+        "hon_price_min": "2,268",
+        "hon_price_max": "2,268"
+    },
+    {
+        "names": "MeLE PCG01",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099"
+    },
+    {
+        "names": "ZOTAC ZBOX CI642 nano PC",
+        "rating": "",
+        "hon_price_min": "3,830",
+        "hon_price_max": "3,840"
+    },
+    {
+        "names": "MSI Cubi 5 mini PC",
+        "rating": "",
+        "hon_price_min": "5,280",
+        "hon_price_max": "5,280"
+    },
+    {
+        "names": "Intel NUC 10 Performance kit - NUC10i3FNK",
+        "rating": "",
+        "hon_price_min": "2,488",
+        "hon_price_max": "2,499",
+        "晶片組:": "Frost Canyon",
+        "Socket:": "Soldered-down BGA"
+    },
+    {
+        "names": "Gigabyte Mini-PC Barebone 迷你電腦準系統 GB-BMCE-5105",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599"
+    },
+    {
+        "names": "Intel NUC Kit BOXNUC8I5BEK3",
+        "rating": "",
+        "hon_price_min": "2,788",
+        "hon_price_max": "2,900"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B 散熱組件 - Silver Aluminum Blocks",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "35"
+    },
+    {
+        "names": "Gigabyte GB-BLCE-4105C",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "晶片組:": "Intel Celeron J4105"
+    },
+    {
+        "names": "ASRock NetTop S330",
+        "rating": "10",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "晶片組:": "Intel 945GC"
+    },
+    {
+        "names": "PiPO 品鉑 X8",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "晶片組:": "intel"
+    },
+    {
+        "names": "Retroflag Raspberry pi SUPERPi 4 CASE",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159"
+    },
+    {
+        "names": "AsRock Deskmini 310",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,480"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BRR5H-4500",
+        "rating": "",
+        "hon_price_min": "4,199",
+        "hon_price_max": "4,199",
+        "晶片組:": "AMD Ryzen R5-4500U"
+    },
+    {
+        "names": "Raspberry Pi Pi 15.3W USB-C Power Supply 4 for Raspberry Pi 4",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "120"
+    },
+    {
+        "names": "MeLE  PCG02 (含Lan port)",
+        "rating": "8.0",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299"
+    },
+    {
+        "names": "Apple Mac mini with Lion Server (i7 2GHz)",
+        "rating": "",
+        "hon_price_min": "8,013",
+        "hon_price_max": "8,013",
+        "晶片組:": "Intel HD3000",
+        "Socket:": "Intel Core i7 2GHz"
+    },
+    {
+        "names": "Intel 嵌入式機箱電腦 NUC8I3BEH",
+        "rating": "",
+        "hon_price_min": "2,288",
+        "hon_price_max": "2,288"
+    },
+    {
+        "names": "Retroflag Raspberry Pi NESPi 4 Case",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320"
+    },
+    {
+        "names": "Apple Mac mini (i5) 2.5 GHz  Intel HD 4000",
+        "rating": "9.3",
+        "hon_price_min": "4,688",
+        "hon_price_max": "4,688",
+        "晶片組:": "Intel HD 4000",
+        "Socket:": "Intel Core i5 2.5GHz"
+    },
+    {
+        "names": "ASRock Beebox",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499"
+    },
+    {
+        "names": "ZOTAC ZBOX CA621 nano (Barebone) (ZBOX-CA621NANO)",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,489",
+        "晶片組:": "AMD Ryzen 3 3200U"
+    },
+    {
+        "names": "Pine64 媒體板計算機ROCK64 1G",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "ASUS Mini PC (Barebone) ‎PN41-BBF4000AFD",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "water_price_min": "1,499",
+        "water_price_max": "1,499",
+        "晶片組:": "Intel Celeron N4500"
+    },
+    {
+        "names": "Seeed Studio Grove 12 Channel Capacitive Touch Keypad",
+        "rating": "",
+        "hon_price_min": "52",
+        "hon_price_max": "52"
+    },
+    {
+        "names": "Intel BOXNUC7I7BNH",
+        "rating": "",
+        "hon_price_min": "4,688",
+        "hon_price_max": "4,699"
+    },
+    {
+        "names": "ZOTAC ZBOX CI640 nano PC",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,600"
+    },
+    {
+        "names": "Raspberry Pi PoE HAT",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200"
+    },
+    {
+        "names": "ZOTAC ZBOX MA621 nano (Barebone) (ZBOX-MA621NANO)",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "晶片組:": "AMD Ryzen 3 3200U"
+    },
+    {
+        "names": "MINIX NEO NGC-1",
+        "rating": "",
+        "hon_price_min": "4,690",
+        "hon_price_max": "4,690"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B (1GB)",
+        "rating": "",
+        "hon_price_min": "705",
+        "hon_price_max": "705"
+    },
+    {
+        "names": "ZOTAC ZBOX edge MI623 (Barebone) (ZBOX-MI623)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "晶片組:": "Intel Core i3-10110U"
+    },
+    {
+        "names": "MINIX NEO Z83-4",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,388",
+        "晶片組:": "Intel X5-Z8300"
+    },
+    {
+        "names": "Intel NUC Kit BOXNUC8I7HNK3",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "5,388"
+    },
+    {
+        "names": "Retroflag Raspberry Pi NES Cartridge Style Hard Drive Enclosure",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140"
+    },
+    {
+        "names": "DFRobot Gravity IO Expansion Shield for Arduino V7.1",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108"
+    },
+    {
+        "names": "ZOTAC ZBOX CI520 nano",
+        "rating": "10",
+        "hon_price_min": "2,488",
+        "hon_price_max": "2,488",
+        "晶片組:": "Intel Core i3 4020Y (dual-core, 1.5 GHz)",
+        "Socket:": "尺寸 - 12.7cm x 12.7cm x 4.5cm"
+    },
+    {
+        "names": "Pine64 媒體板計算機ROCK64 2G",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368"
+    },
+    {
+        "names": "Pine64 媒體板計算機ROCK64 4G",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BRR3H-4300",
+        "rating": "",
+        "hon_price_min": "3,699",
+        "hon_price_max": "3,699",
+        "晶片組:": "AMD Ryzen R3-4300U"
+    },
+    {
+        "names": "Raspberry Pi NoIR Camera Board Version 2",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278"
+    },
+    {
+        "names": "MSI Cubi N 8 GL-057TW CS-MCUN8GQ",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "晶片組:": "Intel SoC"
+    },
+    {
+        "names": "Raspberry Pi Touch Display",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "678"
+    },
+    {
+        "names": "Intel BOXSTK1AW32SC",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "晶片組:": "Atom Quad-Core x5-Z8300, up to 1.84GHz, 2MB Cache"
+    },
+    {
+        "names": "DFRobot Gravity: HUSKYLENS",
+        "rating": "",
+        "hon_price_min": "407",
+        "hon_price_max": "407"
+    },
+    {
+        "names": "ZOTAC ZBOX CI327 nano (Barebone)",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,580",
+        "晶片組:": "Intel Celeron N3450"
+    },
+    {
+        "names": "Intel NUC Kit BOXNUC8I5BEH3",
+        "rating": "",
+        "hon_price_min": "3,088",
+        "hon_price_max": "3,200"
+    },
+    {
+        "names": "Intel NUC Kit BOXNUC8I7HVK3 HADES CANYON",
+        "rating": "",
+        "hon_price_min": "6,888",
+        "hon_price_max": "7,099"
+    },
+    {
+        "names": "Pi-Top pi-top Education/Maker Laptop using Raspberry Pi with Inventors Kit",
+        "rating": "",
+        "hon_price_min": "2,790",
+        "hon_price_max": "2,790"
+    },
+    {
+        "names": "ZOTAC ZBOX MAGNUS EN970 (ZBOX-EN970)",
+        "rating": "9.0",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,380",
+        "晶片組:": "NVIDIA GeForce GTX 960",
+        "Socket:": "Intel Core i5-5200U (dual-core, 2.2 GHz, up to 2.7 GHz)"
+    },
+    {
+        "names": "ARTEK A6I5W全新超微型I5 4200U MINI HD連WIN10組合!!",
+        "rating": "10",
+        "晶片組:": "FCBGA1168"
+    },
+    {
+        "names": "Intel NUC BOXNUC5I3RYH",
+        "rating": "",
+        "hon_price_min": "2,888",
+        "hon_price_max": "2,899",
+        "晶片組:": "Intel Core i3-5010U 2.10 GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 5500"
+    },
+    {
+        "names": "Intel BOXNUC6I7KYK3",
+        "rating": "",
+        "晶片組:": "Intel Core i7-6770HQ",
+        "Socket:": "21.1 x 11.6 x 28 cm"
+    },
+    {
+        "names": "Intel NUC BOXNUC5I5RYK",
+        "rating": "",
+        "hon_price_min": "3,388",
+        "hon_price_max": "3,399",
+        "晶片組:": "Intel Core i5-5250U 1.6 GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 6000"
+    },
+    {
+        "names": "Seeed Studio BitMaker Lite",
+        "rating": "",
+        "hon_price_min": "72",
+        "hon_price_max": "72"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B 散熱組件 - Gold Aluminum and Copper Blocks",
+        "rating": "",
+        "hon_price_min": "55",
+        "hon_price_max": "55"
+    },
+    {
+        "names": "Dell Inspiron Zino HD",
+        "rating": "",
+        "hon_price_min": "3,690",
+        "hon_price_max": "3,690",
+        "晶片組:": "ATI RS780",
+        "Socket:": "AM2"
+    },
+    {
+        "names": "Intel BOXNUC7I3BNH",
+        "rating": "",
+        "hon_price_min": "2,488",
+        "hon_price_max": "2,499",
+        "晶片組:": "Intel i3-7001U"
+    },
+    {
+        "names": "ASRock DeskMini 110",
+        "rating": "7.0",
+        "晶片組:": "Intel H110",
+        "Socket:": "Supports Intel 6th Core i7/i5/i3/Pentium/Celeron Processors (Socket 1151) (Max. TDP 65W)"
+    },
+    {
+        "names": "Intel NUC BOXNUC5I5RYH",
+        "rating": "9.0",
+        "hon_price_min": "3,488",
+        "hon_price_max": "3,499",
+        "晶片組:": "Intel Core i5-5250U 1.6 GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 6000"
+    },
+    {
+        "names": "Intel D34010WYK",
+        "rating": "",
+        "晶片組:": "Intel Core i3"
+    },
+    {
+        "names": "ZOTAC MI522 nano",
+        "rating": "",
+        "晶片組:": "Intel Core i3-5010U (dual core 2.1GHz)"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BXA8-5545",
+        "rating": "",
+        "Socket:": "AMD A8-5545M"
+    },
+    {
+        "names": "ARTEK A6I7全新超微型 I7 620M MINI HD組合",
+        "rating": "10",
+        "晶片組:": "Intel H55"
+    },
+    {
+        "names": "Shuttle SP35P2 PRO",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "晶片組:": "Intel P35 + ICH9R",
+        "Socket:": "LGA775"
+    },
+    {
+        "names": "ZOTAC ZOBX ID89",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "晶片組:": "Intel H61",
+        "Socket:": "Intel Core i5 3470T"
+    },
+    {
+        "names": "Raspberry Pi PoE+ HAT",
+        "rating": ""
+    },
+    {
+        "names": "Raspberry Pi Zero W (Wireless)",
+        "rating": ""
+    },
+    {
+        "names": "ASUS VM65N-G081M",
+        "rating": "",
+        "晶片組:": "Intel Core i5-7200U",
+        "Socket:": "NVIDIA GeForce 930M"
+    },
+    {
+        "names": "ASUS VivoPC VM62-G003M",
+        "rating": "",
+        "晶片組:": "Intel i3-4030U (Dual-Core, 4 Threads, 1.90 GHz)",
+        "Socket:": "尺寸 - 19cm x 19cm x 5.6cm"
+    },
+    {
+        "names": "Gigabyte GB-BXi5-4200",
+        "rating": "",
+        "晶片組:": "Intel Core i5-4200U"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BXI5H-5200",
+        "rating": "10",
+        "晶片組:": "Intel Core i5-5200U 2.2 GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 5500"
+    },
+    {
+        "names": "Intel BOXNUC6I5SYK",
+        "rating": "",
+        "晶片組:": "Intel Core i5-6200U",
+        "Socket:": "11.5 x 11.1 x 3.2 cm"
+    },
+    {
+        "names": "ASUS VM65N-G082M",
+        "rating": "",
+        "晶片組:": "Intel Core i7-7500U",
+        "Socket:": "NVIDIA GeForce 930M"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B 散熱殼",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140"
+    },
+    {
+        "names": "ASUS Barebone Mini PC PN50-BBR047MD",
+        "rating": ""
+    },
+    {
+        "names": "Shuttle XS36V4",
+        "rating": ""
+    },
+    {
+        "names": "ASUS VivoPC VM62-G033M",
+        "rating": "10",
+        "晶片組:": "Intel i5-4210U (Dual-Core, 4 Threads, 1.7 GHz)",
+        "Socket:": "尺寸 - 19cm x 19cm x 5.6cm"
+    },
+    {
+        "names": "Intel NUC Kit BOXD34010WYKH3",
+        "rating": "",
+        "Socket:": "Intel i3-4010U"
+    },
+    {
+        "names": "Intel DCCP847DYE",
+        "rating": "10",
+        "晶片組:": "Integrated Ivy Bridge Celeron 847 CPU  (1.1 GHz dual core processor)"
+    },
+    {
+        "names": "Shuttle SG41J1",
+        "rating": "",
+        "晶片組:": "Intel G41",
+        "Socket:": "LGA775"
+    },
+    {
+        "names": "ZOTAC zbox SD-ID41",
+        "rating": "",
+        "晶片組:": "NM10 Express w/512MB DDR3 Next-Generation NVIDIA ION™",
+        "Socket:": "NA (integrated CPU)"
+    },
+    {
+        "names": "ZOTAC ZBOX nano ID64",
+        "rating": "",
+        "晶片組:": "Intel HM77",
+        "Socket:": "Intel Core i5 3337U"
+    },
+    {
+        "names": "ZOTAC ZBOX ID18 Plus",
+        "rating": "8.5",
+        "晶片組:": "intel Dual Core 1037U"
+    },
+    {
+        "names": "Raspberry Pi 3 Model B 原裝機殼",
+        "rating": "",
+        "hon_price_min": "76",
+        "hon_price_max": "76"
+    },
+    {
+        "names": "GIADA A50",
+        "rating": "",
+        "晶片組:": "AMD Hudson M1",
+        "Socket:": "AMD Fusion"
+    },
+    {
+        "names": "ARTEK 全新超微型 INTEL CORE I3 +2G RAM 極速MINI HD組合!!",
+        "rating": "10"
+    },
+    {
+        "names": "Gigabyte Compact PC GB-BACE-3160",
+        "rating": "",
+        "晶片組:": "Intel J3160"
+    },
+    {
+        "names": "BIOSTAR A68N-2100ALQ6 Mini HD PC",
+        "rating": ""
+    },
+    {
+        "names": "ZOTAC ZBOX nano XS AD11",
+        "rating": "",
+        "晶片組:": "M1"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BSI3HA-6100",
+        "rating": "",
+        "晶片組:": "Intel Core i3-6100U",
+        "Socket:": "4.68 x 11.26 x 11.94 cm"
+    },
+    {
+        "names": "GIADA Slim N20",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "晶片組:": "nVIDIA ION2",
+        "Socket:": "Intel Atom D510"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B 散熱組件 - Black Aluminum Blocks",
+        "rating": "",
+        "hon_price_min": "42",
+        "hon_price_max": "42"
+    },
+    {
+        "names": "ZOTAC ZBOX ID45",
+        "rating": "10",
+        "晶片組:": "Intel NM77 Express"
+    },
+    {
+        "names": "BIOSTAR A68I-350AL 全鋁散熱 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "A68",
+        "Socket:": "FM1 APU"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B (4GB) Combo Set",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550"
+    },
+    {
+        "names": "Intel D34010WYK3",
+        "rating": "",
+        "晶片組:": "I3-4010u"
+    },
+    {
+        "names": "ZOTAC ZBOX nano ID68",
+        "rating": "",
+        "Socket:": "Intel i5 4200U (dual-core) (1.6 GHz)"
+    },
+    {
+        "names": "MoreFine M1s",
+        "rating": ""
+    },
+    {
+        "names": "Seeed Studio BitWearable Kit",
+        "rating": ""
+    },
+    {
+        "names": "Intel NUC BOXD34010WYK3",
+        "rating": ""
+    },
+    {
+        "names": "DFRobot Gravity: Laser PM2.5 Air Quality Sensor For Arduino",
+        "rating": "",
+        "hon_price_min": "455",
+        "hon_price_max": "455"
+    },
+    {
+        "names": "ASRock DeskMini A300 Series",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "晶片組:": "AMD A300 Promotary",
+        "Socket:": "AMD AM4"
+    },
+    {
+        "names": "Lenovo IdeaCentre Q110",
+        "rating": "8.9",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "晶片組:": "nVIDIA ION"
+    },
+    {
+        "names": "Raspberry Pi 4 Case (原裝機殼)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78"
+    },
+    {
+        "names": "ASRock ION 3D 152D DVD Barebone Black",
+        "rating": "",
+        "晶片組:": "nVIDIA ION",
+        "Socket:": "Intel Atom D525 1.8GHz"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BXI3H-5010",
+        "rating": "",
+        "晶片組:": "Intel Core i3-5010U 2.10 GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 5500"
+    },
+    {
+        "names": "BIOSTAR A68N-5000ALQ6i Mini HD PC",
+        "rating": ""
+    },
+    {
+        "names": "ASUS UN65h-m008H",
+        "rating": ""
+    },
+    {
+        "names": "ASRock BeeBox-S i3-6100U",
+        "rating": "4.0"
+    },
+    {
+        "names": "ASUS UN65U-M057M",
+        "rating": "",
+        "晶片組:": "Intel Core i7-7500U",
+        "Socket:": "131 x 131 x 52mm"
+    },
+    {
+        "names": "Nvidia ION PC",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "晶片組:": "nVIDIA MCP79",
+        "Socket:": "-"
+    },
+    {
+        "names": "ASUS VivoMini UN65H-M008M",
+        "rating": "",
+        "晶片組:": "Intel Core i5-6200U",
+        "Socket:": "13.1 x 13.1 x 5.2 cm"
+    },
+    {
+        "names": "MINIX NEO Z64",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580"
+    },
+    {
+        "names": "Vsmart V-Mini VNP5101",
+        "rating": "",
+        "晶片組:": "Intel Atom D510 1.66Ghz, Dual Core, nVidia GT218 ION display",
+        "Socket:": "HDMI、VGA、5組USB2.0、4in1 Card Reader、WIFI"
+    },
+    {
+        "names": "ZOTAC ZBOX-AD06",
+        "rating": "",
+        "晶片組:": "M3L"
+    },
+    {
+        "names": "ASRock ION 330HT",
+        "rating": "8.0",
+        "晶片組:": "nVIDIA ION",
+        "Socket:": "Built in Intel Atom 330"
+    },
+    {
+        "names": "Pi-Top pi-topCEED Education / Maker Desktop using Raspberry Pi",
+        "rating": "",
+        "hon_price_min": "1,179",
+        "hon_price_max": "1,179"
+    },
+    {
+        "names": "Inno3D In-Box Intel Fusion Mini PC",
+        "rating": "",
+        "晶片組:": "Intel HM65",
+        "Socket:": "BGA Socket"
+    },
+    {
+        "names": "Gigabyte BRIX Pro GB-BXi5-4570R",
+        "rating": "10"
+    },
+    {
+        "names": "ZOTAC ZBOX HD-ND02",
+        "rating": "",
+        "晶片組:": "nVIDIA ION",
+        "Socket:": "Bulit-in Atom N330 Dual-core CPU"
+    },
+    {
+        "names": "Raspberry Pi Model B Starter Kit",
+        "rating": ""
+    },
+    {
+        "names": "ZOTAC ZBOX nano AQ02",
+        "rating": "10",
+        "Socket:": "AMD A8-5545M (quad-core) (1.5 GHz)"
+    },
+    {
+        "names": "GIADA D2308",
+        "rating": ""
+    },
+    {
+        "names": "ZOTAC ZBOX IQ01",
+        "rating": "10",
+        "晶片組:": "Intel H87 Express"
+    },
+    {
+        "names": "ZOTAC ZBOX nano AD10",
+        "rating": "8.7",
+        "晶片組:": "AMD M1 GPU AMD Radeon™ HD 6310",
+        "Socket:": "NA (integrated CPU)"
+    },
+    {
+        "names": "MSI ProBox 23",
+        "rating": "",
+        "晶片組:": "Intel H81"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BXPi3-4010",
+        "rating": "",
+        "晶片組:": "Intel i3-4010U"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BSI7HA-6500",
+        "rating": "",
+        "晶片組:": "Intel Core i7-6500U",
+        "Socket:": "4.68 x 11.26 x 11.94 cm"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BXi5-4200",
+        "rating": ""
+    },
+    {
+        "names": "ZOTAC Zbox ID 15",
+        "rating": "",
+        "晶片組:": "Intel NM10 Express",
+        "Socket:": "Intel Atom D2500 1.86 GHz Dual-Core"
+    },
+    {
+        "names": "PiPO 品鉑 Window 8 TV Box X7",
+        "rating": "10"
+    },
+    {
+        "names": "ARTEK Haswell I3-4130 ITX全鋁合金極速HT四核組合",
+        "rating": "10",
+        "晶片組:": "Intel H81",
+        "Socket:": "LGA1150"
+    },
+    {
+        "names": "ARTEK A6I7全新超微型I7 5500U MINI HD組合!!",
+        "rating": "10",
+        "Socket:": "FCBGA1168"
+    },
+    {
+        "names": "ARTEK 全新超微型INTEL J1800 DUAR CORE+ WIN 7 極速MINI HD組合!!",
+        "rating": "10",
+        "Socket:": "FCBGA1170"
+    },
+    {
+        "names": "ZOTAC ZBOX ID90",
+        "rating": "",
+        "晶片組:": "Intel H61",
+        "Socket:": "Intel Core i7 3770T"
+    },
+    {
+        "names": "Gigabyte GB-BXi5H-4200 2.5\"",
+        "rating": "",
+        "晶片組:": "Intel Core i5-4200U"
+    },
+    {
+        "names": "PiPO 品鉑 X1s",
+        "rating": ""
+    },
+    {
+        "names": "ASUS AMD 4500U Mini PC PN50-BBR048MD",
+        "rating": ""
+    },
+    {
+        "names": "MSI Cubi 2 Plus-005XTW-B3610T4GXXX",
+        "rating": "",
+        "晶片組:": "Intel H110",
+        "Socket:": "LGA1151"
+    },
+    {
+        "names": "ZOTAC ZBOX nano ID67",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "Socket:": "Intel i3 4010U (dual-core) (1.7 GHz)"
+    },
+    {
+        "names": "ARTEK Z30 INTEL 847 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "Intel NM70",
+        "Socket:": "FCBGA1023"
+    },
+    {
+        "names": "ZOTAC ZBOX NANO ID63 i3",
+        "rating": "",
+        "Socket:": "Intel i3 3227U"
+    },
+    {
+        "names": "GIADA D320",
+        "rating": "",
+        "晶片組:": "Intel H61 Express"
+    },
+    {
+        "names": "ASUS UN65U-M055M",
+        "rating": "",
+        "晶片組:": "Intel Core i3-7100U",
+        "Socket:": "131 x 131 x 52mm"
+    },
+    {
+        "names": "Apple Mac mini (i7) 2.3 GHz Intel HD 4000",
+        "rating": "",
+        "hon_price_min": "6,288",
+        "hon_price_max": "6,288",
+        "晶片組:": "Intel HD 4000",
+        "Socket:": "Intel Core i7 2.3GHz"
+    },
+    {
+        "names": "Magic-Pro ProMini-Top",
+        "rating": "10",
+        "晶片組:": "Intel NM10 + nVIDIA ION2",
+        "Socket:": "Intel Atom D525 1.8GHz"
+    },
+    {
+        "names": "Raspberry Pi Model A+",
+        "rating": "",
+        "晶片組:": "Broadcom BCM2835 Single core (ARM11) SoC",
+        "Socket:": "USB: 1 x USB 2.0 port Connection: GPIO Header 40-pin HDMI: Rev 1.3 and 1.4 Video: MIPI DSI display port, MIPI CSI camera port & 4 pole stereo output and composite video port"
+    },
+    {
+        "names": "ZOTAC ZBOX EN760 Plus",
+        "rating": "10"
+    },
+    {
+        "names": "Intel BOXNUC6I3SYK",
+        "rating": "",
+        "晶片組:": "Intel Core i3-6100U",
+        "Socket:": "11.5 x 11.1 x 3.2 cm"
+    },
+    {
+        "names": "Remix Mini",
+        "rating": ""
+    },
+    {
+        "names": "ARTEK A81I3全新超微型I3 4160 內置藍光BLU-RAY MINI HD組合!!",
+        "rating": "10",
+        "晶片組:": "INTEL H81",
+        "Socket:": "1150"
+    },
+    {
+        "names": "ZOTAC zbox HD-AD02",
+        "rating": "8.5",
+        "晶片組:": "AMD M1 GPU AMD Radeon™ HD 6310",
+        "Socket:": "NA (integrated CPU)"
+    },
+    {
+        "names": "Intel DC3217IYE",
+        "rating": "",
+        "晶片組:": "Intel QS77",
+        "Socket:": "Intel Core i3 處理器 (焊入式)"
+    },
+    {
+        "names": "ARTEK ZA61 AMD FX6100 3.3G 6核心!!全鋁散熱極速MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "nVIDIA 7025",
+        "Socket:": "AM3+"
+    },
+    {
+        "names": "ZOTAC ZBOX CI540 nano",
+        "rating": "10",
+        "晶片組:": "Intel Core i5 4210Y (dual-core, 1.5 GHz)",
+        "Socket:": "尺寸 - 12.7cm x 12.7cm x 4.5cm"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BSI7H-6500",
+        "rating": "",
+        "晶片組:": "Intel Core i7-6500U",
+        "Socket:": "4.68 x 11.26 x 11.94 cm"
+    },
+    {
+        "names": "Lenovo H30-50 Intel G3240",
+        "rating": "",
+        "晶片組:": "Intel G3240"
+    },
+    {
+        "names": "ZOTAC ZBOX ID80",
+        "rating": "",
+        "晶片組:": "Intel NM10 Express"
+    },
+    {
+        "names": "Intel NUC Mini PC Kit (NUC7i5DNHE)",
+        "rating": "",
+        "晶片組:": "Intel"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BXi5H-4200",
+        "rating": "",
+        "晶片組:": "Intel i5-4200U"
+    },
+    {
+        "names": "ZOTAC ZBOX BI320 Plus",
+        "rating": ""
+    },
+    {
+        "names": "Raspberry Pi 3 Model B+ Starter Pack",
+        "rating": ""
+    },
+    {
+        "names": "Acer REVO RL100",
+        "rating": "",
+        "hon_price_min": "3,698",
+        "hon_price_max": "3,698",
+        "晶片組:": "nVIDIA nForce 520LE",
+        "Socket:": "AMD Athlon II Neo 1.3GHz"
+    },
+    {
+        "names": "DSO Intel BayTrail-T Z3735D DS152 Nano PC",
+        "rating": "",
+        "晶片組:": "Intel BayTrail-T Z3735D"
+    },
+    {
+        "names": "Apple Mac mini with OS X Server i7 2.3GHz Intel HD 4000",
+        "rating": "10",
+        "hon_price_min": "7,888",
+        "hon_price_max": "7,888",
+        "晶片組:": "Intel HD 4000",
+        "Socket:": "Intel Core i7 2.3GHz"
+    },
+    {
+        "names": "Seeed Studio BitStarter Kit",
+        "rating": ""
+    },
+    {
+        "names": "Intel BOXNUC6I3SYH",
+        "rating": "",
+        "晶片組:": "Intel Core i3-6100U",
+        "Socket:": "11.5 x 11.1 x 4.8 cm"
+    },
+    {
+        "names": "ZOTAC ZBOX Blu-ray HD-ID33",
+        "rating": "10",
+        "晶片組:": "Intel NM10 Express + nVIDIA ION 2 (512MB)",
+        "Socket:": "Bulit-in Atom D525 Dual-core CPU"
+    },
+    {
+        "names": "ZOTAC ZBOX nano AD12",
+        "rating": "6.0",
+        "晶片組:": "A68M"
+    },
+    {
+        "names": "Shuttle SH55J2",
+        "rating": "6.0",
+        "晶片組:": "Intel H55",
+        "Socket:": "LGA1156"
+    },
+    {
+        "names": "MoreFine M1",
+        "rating": ""
+    },
+    {
+        "names": "Shuttle SG41J1 PLUS",
+        "rating": "",
+        "晶片組:": "Intel G41",
+        "Socket:": "LGA775"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BSI5H-6200",
+        "rating": "",
+        "晶片組:": "Intel Core i5-6200U",
+        "Socket:": "4.68 x 11.26 x 11.94 cm"
+    },
+    {
+        "names": "ASUS VivoPC VM60-G136M",
+        "rating": "10",
+        "晶片組:": "Intel i5-3317U 1.7 GHz 雙核心四綫程",
+        "Socket:": "尺寸 - 19cm x 19cm x 5.6cm"
+    },
+    {
+        "names": "ARTEK Haswell i5-4330 ITX全鋁合金極速四核組合",
+        "rating": "8.7",
+        "晶片組:": "Intel B85",
+        "Socket:": "LGA1150"
+    },
+    {
+        "names": "Gigabyte GB-BSi5HA-6200-CA",
+        "rating": ""
+    },
+    {
+        "names": "ARTEK X5微型雙系統組合",
+        "rating": "10"
+    },
+    {
+        "names": "ARTEK J18I HT4核MINIX HD PC",
+        "rating": "10",
+        "Socket:": "FCBGA1170"
+    },
+    {
+        "names": "ZOTAC MAG ND-01",
+        "rating": "",
+        "晶片組:": "nVIDIA ION",
+        "Socket:": "Intel Atom 330"
+    },
+    {
+        "names": "Intel D54250WYK3",
+        "rating": "",
+        "晶片組:": "Intel Core i5"
+    },
+    {
+        "names": "Intel NUC Kit BOXDN2820FYKH0",
+        "rating": "10",
+        "Socket:": "Intel Celeron N2820"
+    },
+    {
+        "names": "ARTEK A6I5全新超微型I5 520M MINI HD組合!!",
+        "rating": "10",
+        "晶片組:": "INTEL H55"
+    },
+    {
+        "names": "ZOTAC ZBOX ID81",
+        "rating": "",
+        "晶片組:": "HM65 Express"
+    },
+    {
+        "names": "ZOTAC ZBOX nano AQ01",
+        "rating": "",
+        "Socket:": "AMD A4-5000 (quad-core) (1.5 GHz)"
+    },
+    {
+        "names": "GIADA D2301 Core i5",
+        "rating": "",
+        "晶片組:": "Intel HM55 + ION"
+    },
+    {
+        "names": "ASRock Vision 3D",
+        "rating": "",
+        "晶片組:": "Intel H55"
+    },
+    {
+        "names": "J&W INTEL I5 3330S全鋁散熱 MINIX HD PC",
+        "rating": "8.0",
+        "晶片組:": "Intel H61",
+        "Socket:": "LGA1155"
+    },
+    {
+        "names": "GIADA D2301 Core i3",
+        "rating": "",
+        "晶片組:": "HM55 + ION"
+    },
+    {
+        "names": "ARTEK U620 INTE I7 全鋁Mini ITX SSD HD PC",
+        "rating": "10",
+        "晶片組:": "Intel HM55"
+    },
+    {
+        "names": "J&W MINIX MINI HD PC",
+        "rating": "8.9",
+        "晶片組:": "Intel NM10 (Built-in Intel GMA 3650 HD graphics)",
+        "Socket:": "Built-in latest Intel Dual-Core D2700 processor"
+    },
+    {
+        "names": "ZOTAC MAG HD-ND01",
+        "rating": "8.4",
+        "晶片組:": "nVIDIA ION"
+    },
+    {
+        "names": "Raspberry Pi 4 Model B 8GB Kit Package",
+        "rating": ""
+    },
+    {
+        "names": "ARTEK 全新超微型全鋁 INTEL J1900 4核心極速MINI HD組合!!",
+        "rating": "10",
+        "Socket:": "FCBGA1170"
+    },
+    {
+        "names": "Gigabyte GB-BXi5-4570R",
+        "rating": "",
+        "晶片組:": "Intel Core i5-4570R"
+    },
+    {
+        "names": "ARTEK J1900 4核心MINIX + WIN 7 HD PC",
+        "rating": "10",
+        "Socket:": "FCBGA1170"
+    },
+    {
+        "names": "Raspberry Pi 4 Desktop Kit 桌機套件",
+        "rating": "10"
+    },
+    {
+        "names": "Arena Scientific Play-X Duo HDMI mini PC",
+        "rating": "10",
+        "晶片組:": "Intel Bay-Trail Z3735F",
+        "Socket:": "Intel BGA"
+    },
+    {
+        "names": "Raspberry Pi 3 Model B",
+        "rating": "10",
+        "晶片組:": "Quad Core 1.2GHz Broadcom BCM2837 64bit CPU",
+        "Socket:": "4x USB 2 ports"
+    },
+    {
+        "names": "BIOSTAR A68N-5000ALQ6 Mini HD PC",
+        "rating": ""
+    },
+    {
+        "names": "GIADA Slim-I32",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "晶片組:": "Intel GMA3150"
+    },
+    {
+        "names": "MSI DE220",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "1,700",
+        "晶片組:": "Intel GMA3150",
+        "Socket:": "Built-in Intel Atom D510 1.66GHz"
+    },
+    {
+        "names": "MeLE Star Cloud PCG02 Plus",
+        "rating": ""
+    },
+    {
+        "names": "ASUS UN65H-M006M",
+        "rating": ""
+    },
+    {
+        "names": "Gigabyte BRIX GB-BXI7H-5500",
+        "rating": "",
+        "晶片組:": "Intel Core i7-5500U 3.00 GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 5500"
+    },
+    {
+        "names": "Intel BOXNUC6I7KYK",
+        "rating": ""
+    },
+    {
+        "names": "ZOTAC ZBOX nano ID65",
+        "rating": "10",
+        "晶片組:": "Intel HM77",
+        "Socket:": "Intel Core i7 3537U"
+    },
+    {
+        "names": "Raspberry Pi 3 Model B+",
+        "rating": "",
+        "晶片組:": "Broadcom BCM2837B0, Cortex-A53 Quad-Core 64-bit SoC @ 1.4GHz",
+        "Socket:": "Gigabit Ethernet over USB 2.0 (maximum throughput 300Mbps); 4 × USB 2.0 ports"
+    },
+    {
+        "names": "ASRock Core 100HT-BD",
+        "rating": "",
+        "晶片組:": "Intel HM55",
+        "Socket:": "988"
+    },
+    {
+        "names": "Gigabyte GB-BXi3H-4010",
+        "rating": "",
+        "晶片組:": "Intel Core i3-4010u"
+    },
+    {
+        "names": "ZOTAC ZBOX SD-ID10",
+        "rating": "9.3",
+        "晶片組:": "Intel NM10 Express",
+        "Socket:": "Intel Atom Integrated CPU"
+    },
+    {
+        "names": "ASRock ION330HT-BD",
+        "rating": "",
+        "晶片組:": "nVIDIA ION 330",
+        "Socket:": "Intel Atom N330 1.6GHz"
+    },
+    {
+        "names": "Gigabyte BRIX GB-BSI3H-6100",
+        "rating": "",
+        "晶片組:": "Intel Core i3-6100U",
+        "Socket:": "4.68 x 11.26 x 11.94 cm"
+    },
+    {
+        "names": "ZOTAC MI523 Nano",
+        "rating": ""
+    },
+    {
+        "names": "Gigabyte GB-BXi3-4010",
+        "rating": "",
+        "晶片組:": "Intel Core i3-4010u"
+    },
+    {
+        "names": "ARTEK 全新超微型HASWELL INTEL CORE I5 4200U 極速MINI HD組合!!",
+        "rating": "10",
+        "晶片組:": "INTEL HM86"
+    },
+    {
+        "names": "BIOSTAR A68I-350 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "AMD A68",
+        "Socket:": "FM1"
+    },
+    {
+        "names": "ASUS EeeBox PC EB1007",
+        "rating": "",
+        "hon_price_min": "2,588",
+        "hon_price_max": "2,588",
+        "晶片組:": "Intel Atom Processor D410"
+    },
+    {
+        "names": "ASUS VM65N-G080M",
+        "rating": "",
+        "晶片組:": "Intel Core i3-7100U",
+        "Socket:": "NVIDIA GeForce 930M"
+    },
+    {
+        "names": "ASUS ROG Console GR8-R084M",
+        "rating": "",
+        "晶片組:": "i7-4510U + GTX750Ti",
+        "Socket:": "6 x 24.5 x 23.8 cm (WxDxH)"
+    },
+    {
+        "names": "ASUS VivoMini UN62-M088M",
+        "rating": "",
+        "晶片組:": "Intel Core i5-4210U 1.7GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 4400"
+    },
+    {
+        "names": "ZOTAC ZBOX HD-ND22",
+        "rating": "8.7",
+        "晶片組:": "nVIDIA ION",
+        "Socket:": "Intel Celeron SU2300 1.2GHz"
+    },
+    {
+        "names": "MeLE PCG03 Plus",
+        "rating": ""
+    },
+    {
+        "names": "MeLE Star Cloud PCG60 Plus",
+        "rating": ""
+    },
+    {
+        "names": "ARTEK A81I7全新超微型I7 4765T MINI HD組合!!",
+        "rating": "10",
+        "晶片組:": "INTEL H81",
+        "Socket:": "1150"
+    },
+    {
+        "names": "ZOTAC ZBOX ID86",
+        "rating": "",
+        "晶片組:": "Intel Atom D2550"
+    },
+    {
+        "names": "Gigabyte GB-BXi7H-4500",
+        "rating": "",
+        "Socket:": "1150"
+    },
+    {
+        "names": "Apple Mac mini (i5 2.5GHz)",
+        "rating": "",
+        "晶片組:": "ATI Radeon HD6630M",
+        "Socket:": "Intel Core i5 2.5GHz"
+    },
+    {
+        "names": "Intel NUC Kit NUC5i7RYH",
+        "rating": "",
+        "晶片組:": "Intel Core i7-5557U"
+    },
+    {
+        "names": "ZOTAC ZBOX nano ID69",
+        "rating": "",
+        "Socket:": "Intel i7 4500U (dual-core) (1.8 GHz)"
+    },
+    {
+        "names": "ARTEK ZI7 INTEL I7 3770S 3.1G全鋁散熱極速MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "Intel B75",
+        "Socket:": "LGA1155"
+    },
+    {
+        "names": "AOpen XC ubox LE200",
+        "rating": "8.0",
+        "晶片組:": "Intel 945GC + ICH7",
+        "Socket:": "-"
+    },
+    {
+        "names": "ASUS VivoPC-VM40B-S093M",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "晶片組:": "INTEL CELERON 1007U"
+    },
+    {
+        "names": "ASRock BeeBox-S i5-6200U",
+        "rating": ""
+    },
+    {
+        "names": "ZOTAC BI322",
+        "rating": "10",
+        "晶片組:": "Intel N3050 dual-core"
+    },
+    {
+        "names": "Raspberry Pi 2",
+        "rating": ""
+    },
+    {
+        "names": "ARTEK A6I5全新超微型I5 5200U MINI HD組合!!",
+        "rating": "10",
+        "Socket:": "FCBGA1168"
+    },
+    {
+        "names": "MSI Wind Box DE200 (with Windows 7)",
+        "rating": "8.0",
+        "hon_price_min": "3,098",
+        "hon_price_max": "3,098",
+        "晶片組:": "Intel NM10",
+        "Socket:": "\"Intel® Atom D510 1.66G/1M DualCore\""
+    },
+    {
+        "names": "ASUS VM42-S054M",
+        "rating": "",
+        "晶片組:": "intel 2957u"
+    },
+    {
+        "names": "Intel NUC BOXNUC5I3RYK",
+        "rating": "",
+        "晶片組:": "Intel Core i3-5010U 2.10 GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 5500"
+    },
+    {
+        "names": "ARTEK 全新超微型HASWELL INTEL CORE I7 4765T 極速MINI HD組合!!",
+        "rating": "10",
+        "晶片組:": "INTEL H81",
+        "Socket:": "1150"
+    },
+    {
+        "names": "Intel DC53427HYE",
+        "rating": "",
+        "晶片組:": "Integrated Ivy Bridge CORE I5 3427-U CPU (1.8GHz with turbo capability to achieve 2.8GHz dual core processor with 3M cache)"
+    },
+    {
+        "names": "ASUS CP6130-HK006D",
+        "rating": "",
+        "晶片組:": "Intel H61 Chipset",
+        "Socket:": "775"
+    },
+    {
+        "names": "ARTEK ZI5 INTEL I5 3330 3.0G 4核心全鋁散熱 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "Intel H61",
+        "Socket:": "LGA1155"
+    },
+    {
+        "names": "Xtreamer Utlra",
+        "rating": "",
+        "晶片組:": "nVIDIA ION2",
+        "Socket:": "Intel Atom D525"
+    },
+    {
+        "names": "J&W I3 2000T全鋁散熱 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "Intel H61",
+        "Socket:": "LGA1155"
+    },
+    {
+        "names": "ZOTAC ZBOX EI730",
+        "rating": "10"
+    },
+    {
+        "names": "Magic-Pro ProMini-Top A3",
+        "rating": "6.0",
+        "晶片組:": "AMD E350",
+        "Socket:": "AMD Hudson M1"
+    },
+    {
+        "names": "ASUS Vivomini UN45-V-M051M",
+        "rating": "",
+        "晶片組:": "Intel Celeron N3150",
+        "Socket:": "Intel HD Display"
+    },
+    {
+        "names": "ZOTAC ZBOX HD-ID11",
+        "rating": "8.7",
+        "晶片組:": "nVIDIA ION",
+        "Socket:": "Intel Atom Integrated CPU"
+    },
+    {
+        "names": "ASUS UN65U-M056M",
+        "rating": "",
+        "晶片組:": "Intel Core i3-7100U",
+        "Socket:": "131 x 131 x 52mm"
+    },
+    {
+        "names": "ASUS VivoMini UN45H-V-M019M",
+        "rating": "",
+        "晶片組:": "Intel Celeron N3700",
+        "Socket:": "Intel HD Display"
+    },
+    {
+        "names": "ASUS VivoPC-VM40B-S152V",
+        "rating": "",
+        "晶片組:": "Intel Celeron 1007U"
+    },
+    {
+        "names": "Gigabyte GB-BSi5HA-6200",
+        "rating": "",
+        "晶片組:": "Intel Core i5-6200U",
+        "Socket:": "4.68 x 11.26 x 11.94 cm"
+    },
+    {
+        "names": "MSI Cubi 2 Plus-004XTW-B564004GXXX",
+        "rating": "",
+        "晶片組:": "Intel H110",
+        "Socket:": "LGA1151"
+    },
+    {
+        "names": "BIOSTAR A68N-5000ALQ8 Mini HD PC",
+        "rating": ""
+    },
+    {
+        "names": "BIOSTAR A68N-2100ALQ6i Mini HD PC",
+        "rating": ""
+    },
+    {
+        "names": "BIOSTAR A68 Mini",
+        "rating": "",
+        "晶片組:": "AMD Dual Core with USB3.0",
+        "Socket:": "AMD APU E350"
+    },
+    {
+        "names": "Lanmate EliteBox G13i-410D",
+        "rating": ""
+    },
+    {
+        "names": "NComputing L300",
+        "rating": ""
+    },
+    {
+        "names": "MSI BS-DE220BK",
+        "rating": "",
+        "晶片組:": "Intel 945GC+ICH7",
+        "Socket:": "775"
+    },
+    {
+        "names": "ARTEK U520 Intel i5 Mini ITX HD PC",
+        "rating": "10",
+        "晶片組:": "HM55",
+        "Socket:": "Intel Core i5"
+    },
+    {
+        "names": "ASRock ION 3D 152B Bluray Barebone Black",
+        "rating": "",
+        "晶片組:": "nVIDIA ION",
+        "Socket:": "Intel Atom D525 1.8GHz"
+    },
+    {
+        "names": "ASUS VivoMini UN42-M052M",
+        "rating": "",
+        "晶片組:": "Intel Celeron 2957U 1.4GHz (dual-core)",
+        "Socket:": "Intel HD Graphics"
+    },
+    {
+        "names": "PiPO 品鉑 X9 8.9 inch 雙系統 Dual OS Win10+Android4.4 Mini PC",
+        "rating": "",
+        "晶片組:": "Intel Z3736F Quad Core up to 1.83GHz"
+    },
+    {
+        "names": "ZOTAC ZOBX ID88",
+        "rating": "",
+        "晶片組:": "H61 Express"
+    },
+    {
+        "names": "Intel NUC BOXD54250WYK3",
+        "rating": ""
+    },
+    {
+        "names": "ZOTAC ZBOX ID18",
+        "rating": "10",
+        "晶片組:": "Intel NM70 Express"
+    },
+    {
+        "names": "ZOTAC ZBOX ID91",
+        "rating": "9.0",
+        "晶片組:": "H81 Express",
+        "Socket:": "LGA1150"
+    },
+    {
+        "names": "ZOTAC ID67 PLUS (ZBOXNANO-ID67-P)",
+        "rating": ""
+    },
+    {
+        "names": "Gigabyte GB-BXi7-4770R",
+        "rating": "",
+        "晶片組:": "i7-4770R"
+    },
+    {
+        "names": "ARTEK Z30U INTEL 847 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "Intel NM70",
+        "Socket:": "FCBGA1023"
+    },
+    {
+        "names": "Intel DC3217BY",
+        "rating": "",
+        "晶片組:": "Intel QS77 Express Chipset"
+    },
+    {
+        "names": "ASUS VivoPC VM40B-S093M",
+        "rating": "",
+        "晶片組:": "Intel Celeron 1007U 1.5 GHz 雙核心",
+        "Socket:": "尺寸 - 19cm x 19cm x 5.6cm"
+    },
+    {
+        "names": "Raspberry Pi Sense HAT Kit 套裝",
+        "rating": ""
+    },
+    {
+        "names": "ASUS VIVOPC-VC60-B054K",
+        "rating": "",
+        "Socket:": "Intel i5-3210M"
+    },
+    {
+        "names": "Intel NUC5CPYH",
+        "rating": ""
+    },
+    {
+        "names": "Magic-Pro ProMini-Top 2",
+        "rating": "10",
+        "晶片組:": "Intel NM10 + nVidia ION2",
+        "Socket:": "內建 Intel Atom D525 1.8GHz"
+    },
+    {
+        "names": "Lenovo Q180",
+        "rating": "6.0",
+        "Socket:": "Intel Atom Processor D2700"
+    },
+    {
+        "names": "ZOTAC ZBOX Sphere OI520",
+        "rating": "10"
+    },
+    {
+        "names": "BIOSTAR A68N-5000ALi5 Mini HD PC",
+        "rating": ""
+    },
+    {
+        "names": "GIADA DN2301",
+        "rating": "",
+        "晶片組:": "Inteh HM55",
+        "Socket:": "Intel Core i5 430UM 1.2GHz"
+    },
+    {
+        "names": "ASUS VivoMini UN62-M087M",
+        "rating": "",
+        "晶片組:": "Intel Core i3-4030U 1.9GHz (dual-core, 4 threads)",
+        "Socket:": "Intel HD Graphics 4400"
+    },
+    {
+        "names": "Intel BOXD54250WYKH3 NUC Mini PC",
+        "rating": "10"
+    },
+    {
+        "names": "Intel BOXNUC6I5SYH",
+        "rating": "",
+        "晶片組:": "Intel Core i5-6200U",
+        "Socket:": "11.5 x 11.1 x 4.8 cm"
+    },
+    {
+        "names": "ASUS VivoPC VM60-G141M",
+        "rating": "9.5",
+        "晶片組:": "Intel i3-3217U 1.8 GHz 雙核心四綫程",
+        "Socket:": "尺寸 - 19cm x 19cm x 5.6cm"
+    },
+    {
+        "names": "ZOTAC ZBOX nano XS AD13",
+        "rating": "10",
+        "Socket:": "AMD E2-1800 (Dual Core) (1.7Ghz)"
+    },
+    {
+        "names": "ZOTAC ZBOX Blu-ray HD-ID34",
+        "rating": "",
+        "晶片組:": "Intel NM10 Express",
+        "Socket:": "Intel Atom D525 1.8GHz"
+    },
+    {
+        "names": "ARTEK ZI3 INTEL I3 3220 3.1G全鋁散熱 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "Intel H61",
+        "Socket:": "LGA1155"
+    },
+    {
+        "names": "ARTEK J18I DUAL CORE MINIX + WIN 7 HD PC",
+        "rating": "10",
+        "Socket:": "FCBGA1170"
+    },
+    {
+        "names": "ZOTAC ZBOX ID 18",
+        "rating": "",
+        "晶片組:": "Intel NM70"
+    },
+    {
+        "names": "Gigabyte GB-BXi7H-4500 2.5\"",
+        "rating": "",
+        "晶片組:": "Intel Core i7-4500U"
+    },
+    {
+        "names": "Apple Mac mini (i5 2.3GHz)",
+        "rating": "",
+        "晶片組:": "Intel HD3000",
+        "Socket:": "Intel Core i5 2.3GHz"
+    },
+    {
+        "names": "ZOTAC ZBOX ID92",
+        "rating": "",
+        "晶片組:": "Intel H87",
+        "Socket:": "Intel Core i5 4570T"
+    },
+    {
+        "names": "ARTEK 高清打機 AMD E1-2100 MINIX HD PC",
+        "rating": "10",
+        "晶片組:": "AMD Kabini (SOC)"
+    },
+    {
+        "names": "Vsmart V-mini VNP-5101",
+        "rating": "9.5",
+        "晶片組:": "nVIDIA ION 2",
+        "Socket:": "Intel Atom D510 Dual Core 1.66GHz"
+    },
+    {
+        "names": "ZOTAC HD-ID40",
+        "rating": "",
+        "晶片組:": "Intel NM10 Express",
+        "Socket:": "Intel Atom D525 1.8GHz"
+    },
+    {
+        "names": "ASRock Core 100HT",
+        "rating": "10",
+        "晶片組:": "Intel HM55",
+        "Socket:": "988"
+    }
+]

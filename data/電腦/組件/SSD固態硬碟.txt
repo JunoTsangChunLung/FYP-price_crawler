@@ -1,0 +1,3915 @@
+[
+    {
+        "names": "MSI SPATIUM M461 PCIe 4.0 NVMe M.2 SSD 4TB",
+        "rating": "8.0",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "容量:": "4000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4200MB/s"
+    },
+    {
+        "names": "Samsung 三星 990 PRO PCIe 4.0 NVMe SSD 1TB",
+        "rating": "7.0",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,340",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7450MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "Samsung 三星 SSD 870 EVO SATA III 2.5\" 1TB (MZ-77E1T0BW)",
+        "rating": "9.4",
+        "hon_price_min": "618",
+        "hon_price_max": "960",
+        "容量:": "1000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Netac NV7000 PCIe Gen4x4 M.2 2280 2TB SSD",
+        "rating": "10",
+        "hon_price_min": "1,339",
+        "hon_price_max": "1,399",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7200MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN570 2TB (WDS200T3B0C)",
+        "rating": "9.0",
+        "hon_price_min": "998",
+        "hon_price_max": "1,499",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3500MB/s"
+    },
+    {
+        "names": "Samsung 三星 1TB SSD 980 NVMe M.2 MZ-V8V1T0BW",
+        "rating": "9.2",
+        "hon_price_min": "548",
+        "hon_price_max": "1,090",
+        "water_price_min": "549",
+        "water_price_max": "549",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Western Digital WD_BLACK SN770 NVMe SSD 1TB WDS100T3X0E",
+        "rating": "8.7",
+        "hon_price_min": "598",
+        "hon_price_max": "785",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5150MB/s",
+        "順序寫入速度:": "4900MB/s"
+    },
+    {
+        "names": "Western Digital SN740 NVME M.2 2230 SSD 1TB (SDDPTQD-1T00)",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,030",
+        "water_price_min": "800",
+        "water_price_max": "1,090",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5150MB/s",
+        "順序寫入速度:": "4900MB/s"
+    },
+    {
+        "names": "Samsung 三星 980 PRO NVME M.2 PCIE 4.0 SSD 1TB (MZ-V8P1T0BW)",
+        "rating": "9.4",
+        "hon_price_min": "799",
+        "hon_price_max": "999",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5000MB/s"
+    },
+    {
+        "names": "Crucial P3 Plus 1TB PCIe M.2 2280 SSD CT1000P3PSSD8",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "610",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "3600MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (2TB) Gen4 WDS200T1X0E (無散熱片)",
+        "rating": "8.0",
+        "hon_price_min": "1,560",
+        "hon_price_max": "3,386",
+        "water_price_min": "1,380",
+        "water_price_max": "2,099",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5100MB/s"
+    },
+    {
+        "names": "Sabrent Rocket 2230 NVMe 4.0 1TB (Steam Deck 專用 SSD)",
+        "rating": "10",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,199",
+        "容量:": "1000GB",
+        "順序讀取速度:": "4750MB/s",
+        "順序寫入速度:": "4300MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (1TB) Gen4 WDS100T1X0E (無散熱片)",
+        "rating": "10",
+        "hon_price_min": "829",
+        "hon_price_max": "2,070",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5300MB/s"
+    },
+    {
+        "names": "Samsung 三星 970 EVO Plus 2TB NVMe M.2. SSD",
+        "rating": "9.7",
+        "hon_price_min": "1,225",
+        "hon_price_max": "2,959",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3300MB/s"
+    },
+    {
+        "names": "Crucial MX500 500GB SSD",
+        "rating": "9.0",
+        "hon_price_min": "280",
+        "hon_price_max": "450",
+        "容量:": "500GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "Western Digital SN850X M.2 2280 PCIe Gen4 NVMe Gaming SSD 2TB (WDS200T2X0E) 無散熱片",
+        "rating": "8.0",
+        "hon_price_min": "1,560",
+        "hon_price_max": "2,088",
+        "water_price_min": "1,338",
+        "water_price_max": "1,550",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6600MB/s"
+    },
+    {
+        "names": "Samsung 三星 SSD 870 EVO SATA III 2.5\" 500GB (MZ-77E500BW)",
+        "rating": "10",
+        "hon_price_min": "340",
+        "hon_price_max": "630",
+        "容量:": "500GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Western Digital SN740 NVME M.2 2230 SSD 2TB (SDDPTQE-2T00)",
+        "rating": "",
+        "water_price_min": "1,700",
+        "water_price_max": "2,150",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5150MB/s",
+        "順序寫入速度:": "4850MB/s"
+    },
+    {
+        "names": "Western Digital WD_BLACK SN770 NVMe SSD 2TB WDS200T3X0E",
+        "rating": "10",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,685",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5150MB/s",
+        "順序寫入速度:": "4850MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (1TB) 連散熱片 WDS100T1XHE",
+        "rating": "10",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,625",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5300MB/s"
+    },
+    {
+        "names": "AITC Kingsman Gaming KM600 Ultra SSD M.2 PCIe Gen 3x4 NVME 2TB",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "849",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Samsung 三星 990 PRO PCIe 4.0 NVMe SSD 1TB",
+        "rating": "7.0",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,340",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7450MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "Western Digital 2.5 inch Green PC SSD 2TB (WDS200T2G0A)",
+        "rating": "10",
+        "hon_price_min": "797",
+        "hon_price_max": "899",
+        "容量:": "2000GB",
+        "介面:": "SATA",
+        "順序讀取速度:": "545MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (2TB) Gen4 WDS200T1X0E (無散熱片)",
+        "rating": "8.0",
+        "hon_price_min": "1,560",
+        "hon_price_max": "3,386",
+        "water_price_min": "1,380",
+        "water_price_max": "2,099",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5100MB/s"
+    },
+    {
+        "names": "Kingston 1TB KC3000 PCIe 4.0 NVMe M.2 SSD (SKC3000S/1024G)",
+        "rating": "10",
+        "hon_price_min": "695",
+        "hon_price_max": "899",
+        "water_price_min": "719",
+        "water_price_max": "719",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6000MB/s"
+    },
+    {
+        "names": "Kingston FURY Renegade PCIe 4.0 NVMe M.2 SSD 4TB (SFYRD/4000G)",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,600",
+        "water_price_min": "4,600",
+        "water_price_max": "4,600",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Western Digital WD_BLACK SN770 NVMe SSD 500 GB WDS500G3X0E",
+        "rating": "10",
+        "hon_price_min": "355",
+        "hon_price_max": "438",
+        "容量:": "500GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4000MB/s"
+    },
+    {
+        "names": "Western Digital Green M.2 SN350 NVMe 2TB (WDS200T3G0C)",
+        "rating": "9.0",
+        "hon_price_min": "848",
+        "hon_price_max": "919",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "PNY CS2241 M.2 2280 NVMe Gen4x4 SSD 2TB (M280CS2241-2TB-CL)",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "999",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4200MB/s"
+    },
+    {
+        "names": "Samsung 三星 870 QVO 1TB SATA3 SSD",
+        "rating": "10",
+        "hon_price_min": "515",
+        "hon_price_max": "820",
+        "容量:": "1000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Western Digital SN740 NVME M.2 2230 SSD 1TB (SDDPTQD-1T00)",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,030",
+        "water_price_min": "800",
+        "water_price_max": "1,090",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5150MB/s",
+        "順序寫入速度:": "4900MB/s"
+    },
+    {
+        "names": "Samsung 三星 4TB 2.5\" 870 EVO MZ-77E4T0BW",
+        "rating": "",
+        "hon_price_min": "2,445",
+        "hon_price_max": "3,345",
+        "容量:": "4000GB",
+        "記憶體晶片技術:": "MLC",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Kingston 2TB M.2 NV1 SNVS/2000G",
+        "rating": "6.0",
+        "hon_price_min": "980",
+        "hon_price_max": "1,580",
+        "容量:": "2000GB",
+        "順序讀取速度:": "2100MB/s",
+        "順序寫入速度:": "1700MB/s"
+    },
+    {
+        "names": "Netac N600S SATA III SSD 256GB",
+        "rating": "10",
+        "hon_price_min": "125",
+        "hon_price_max": "164",
+        "容量:": "256GB",
+        "記憶體晶片技術:": "SLC",
+        "順序讀取速度:": "560MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (1TB) Gen4 WDS100T1X0E (無散熱片)",
+        "rating": "10",
+        "hon_price_min": "829",
+        "hon_price_max": "2,070",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5300MB/s"
+    },
+    {
+        "names": "Netac NV7000 PCIe Gen4x4 M.2 2280 1TB SSD",
+        "rating": "",
+        "hon_price_min": "739",
+        "hon_price_max": "759",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7200MB/s",
+        "順序寫入速度:": "5500MB/s"
+    },
+    {
+        "names": "Samsung 三星 980 PRO PCIe 4.0 NVMe M.2 固態硬碟 1TB (含散熱片) (MZ-V8P1T0CW)",
+        "rating": "9.7",
+        "hon_price_min": "880",
+        "hon_price_max": "1,350",
+        "water_price_min": "1,250",
+        "water_price_max": "1,250",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5100MB/s"
+    },
+    {
+        "names": "Samsung 三星 990 PRO PCIe 4.0 NVMe SSD 2TB",
+        "rating": "10",
+        "hon_price_min": "1,799",
+        "hon_price_max": "2,250",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7450MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "Samsung 三星 870 QVO 2TB SATA3 SSD",
+        "rating": "9.8",
+        "hon_price_min": "1,055",
+        "hon_price_max": "1,553",
+        "容量:": "2000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Crucial MX500 4TB 3D NAND SATA 2.5\" 7mm Internal SSD (CT4000MX500SSD1)",
+        "rating": "9.3",
+        "hon_price_min": "2,138",
+        "hon_price_max": "2,490",
+        "容量:": "4000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN570 2TB (WDS200T3B0C)",
+        "rating": "9.0",
+        "hon_price_min": "998",
+        "hon_price_max": "1,499",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3500MB/s"
+    },
+    {
+        "names": "AITC Kingsman KP800 3D TLC M.2 PCIe Gen4x4 NVMe1.4 SSD 2TB",
+        "rating": "9.1",
+        "hon_price_min": "1,078",
+        "hon_price_max": "1,199",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7500MB/s",
+        "順序寫入速度:": "6500MB/s"
+    },
+    {
+        "names": "Crucial M.2 P5 3D NAND NVMe SSD 2TB CT2000P5SSD8",
+        "rating": "",
+        "hon_price_min": "1,488",
+        "hon_price_max": "2,448",
+        "water_price_min": "1,399",
+        "water_price_max": "1,399",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Kingston 2TB KC3000 PCIe 4.0 NVMe M.2 SSD (SKC3000S/2048G)",
+        "rating": "10",
+        "hon_price_min": "1,438",
+        "hon_price_max": "2,890",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Kingston FURY Renegade 2TB PCIe 4.0 NVMe M.2 (SFYRD/2000G)",
+        "rating": "9.6",
+        "hon_price_min": "1,538",
+        "hon_price_max": "3,050",
+        "water_price_min": "1,590",
+        "water_price_max": "1,590",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Crucial M.2 P2 1TB 3D NAND NVMe PCIe SSD CT1000P2SSD8",
+        "rating": "9.6",
+        "hon_price_min": "410",
+        "hon_price_max": "654",
+        "容量:": "1000GB",
+        "順序讀取速度:": "2400MB/s",
+        "順序寫入速度:": "1800MB/s"
+    },
+    {
+        "names": "Netac NV2000 NVMe SSD 1TB",
+        "rating": "10",
+        "hon_price_min": "430",
+        "hon_price_max": "550",
+        "容量:": "1000GB",
+        "順序讀取速度:": "2500MB/s",
+        "順序寫入速度:": "2100MB/s"
+    },
+    {
+        "names": "Western Digital 2.5 inch Green PC SSD 2TB (WDS200T2G0A)",
+        "rating": "10",
+        "hon_price_min": "797",
+        "hon_price_max": "899",
+        "容量:": "2000GB",
+        "介面:": "SATA",
+        "順序讀取速度:": "545MB/s"
+    },
+    {
+        "names": "Seagate FireCuda 530 1TB Gen4 PCIe 連散熱片",
+        "rating": "10",
+        "hon_price_min": "938",
+        "hon_price_max": "1,350",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "Netac SA500 2.5inch SATA SSD 1TB",
+        "rating": "",
+        "hon_price_min": "327",
+        "hon_price_max": "368",
+        "容量:": "1000GB",
+        "順序讀取速度:": "530MB/s",
+        "順序寫入速度:": "475MB/s"
+    },
+    {
+        "names": "PNY 2TB XLR8 CS3040 M.2 2280 NVMe Gen4x4 固態硬碟",
+        "rating": "10",
+        "hon_price_min": "1,430",
+        "hon_price_max": "2,080",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5600MB/s",
+        "順序寫入速度:": "4300MB/s"
+    },
+    {
+        "names": "PNY 2TB XLR8 CS3140 M.2 2280 NVMe Gen4x4 固態硬碟連散熱片 (M280CS3140HS-2TB-RB)",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,380",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7500MB/s",
+        "順序寫入速度:": "6850MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (500GB) 連散熱片 WDS500G1XHE",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "1,032",
+        "容量:": "500GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "4100MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (2TB) 連散熱片 WDS200T1XHE",
+        "rating": "10",
+        "hon_price_min": "2,230",
+        "hon_price_max": "2,889",
+        "water_price_min": "2,230",
+        "water_price_max": "2,230",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5100MB/s"
+    },
+    {
+        "names": "PNY 1TB XLR8 CS3140 M.2 2280 NVMe Gen4x4 固態硬碟 (M280CS3140HS-1TB-RB)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,348",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7500MB/s",
+        "順序寫入速度:": "5650MB/s"
+    },
+    {
+        "names": "Kingston 1TB M.2 NV1 SNVS/1000G",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "789",
+        "容量:": "1000GB",
+        "順序讀取速度:": "2100MB/s",
+        "順序寫入速度:": "1700MB/s"
+    },
+    {
+        "names": "Verbatim GEN 4x4 PCIe NVMe M.2 SSD For Gaming 1TB (66785)",
+        "rating": "",
+        "hon_price_min": "1,348",
+        "hon_price_max": "1,348",
+        "water_price_min": "1,348",
+        "water_price_max": "1,348",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7400MB/s",
+        "順序寫入速度:": "6100MB/s"
+    },
+    {
+        "names": "Crucial P5 Plus 2TB PCIe M.2 2280SS SSD (CT2000P5PSSD8)",
+        "rating": "10",
+        "hon_price_min": "1,398",
+        "hon_price_max": "2,448",
+        "water_price_min": "1,338",
+        "water_price_max": "1,569",
+        "容量:": "2000GB",
+        "順序讀取速度:": "6600MB/s",
+        "順序寫入速度:": "5000MB/s"
+    },
+    {
+        "names": "Samsung 三星 870 QVO 4TB SATA3 SSD",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "3,146",
+        "容量:": "4000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "QLC"
+    },
+    {
+        "names": "Gigabyte 1TB AORUS Gen4 7000s SSD",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,699",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5500MB/s"
+    },
+    {
+        "names": "PNY 1TB XLR8 CS3140 M.2 2280 NVMe Gen4x4 固態硬碟 (M280CS3140HS-1TB-RB)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,348",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7500MB/s",
+        "順序寫入速度:": "5650MB/s"
+    },
+    {
+        "names": "Samsung 三星 500GB SSD 980 NVMe M.2 MZ-V8V500BW",
+        "rating": "10",
+        "hon_price_min": "335",
+        "hon_price_max": "433",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Verbatim GEN 4x4 PCIe NVMe M.2 SSD For Gaming 1TB (66785)",
+        "rating": "",
+        "hon_price_min": "1,348",
+        "hon_price_max": "1,348",
+        "water_price_min": "1,348",
+        "water_price_max": "1,348",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7400MB/s",
+        "順序寫入速度:": "6100MB/s"
+    },
+    {
+        "names": "Samsung 三星 870 QVO 1TB SATA3 SSD",
+        "rating": "10",
+        "hon_price_min": "515",
+        "hon_price_max": "820",
+        "容量:": "1000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "AITC Kingsman Gaming KM600 Ultra SSD M.2 PCIe Gen 3x4 NVME 128GB",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "189",
+        "容量:": "128GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Crucial P5 Plus 1TB PCIe M.2 2280SS SSD (CT1000P5PSSD8)",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "1,248",
+        "容量:": "1000GB",
+        "順序讀取速度:": "6600MB/s",
+        "順序寫入速度:": "5000MB/s"
+    },
+    {
+        "names": "Crucial MX500 2TB SSD",
+        "rating": "9.4",
+        "hon_price_min": "1,015",
+        "hon_price_max": "1,578",
+        "容量:": "2000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "Western Digital SN850X M.2 2280 PCIe Gen4 NVMe Gaming SSD 2TB (WDS200T2X0E) 無散熱片",
+        "rating": "8.0",
+        "hon_price_min": "1,560",
+        "hon_price_max": "2,088",
+        "water_price_min": "1,338",
+        "water_price_max": "1,550",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6600MB/s"
+    },
+    {
+        "names": "Kingston 1TB KC3000 PCIe 4.0 NVMe M.2 SSD (SKC3000S/1024G)",
+        "rating": "10",
+        "hon_price_min": "695",
+        "hon_price_max": "899",
+        "water_price_min": "719",
+        "water_price_max": "719",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6000MB/s"
+    },
+    {
+        "names": "Western Digital 2.5 inch Green PC SSD 2TB (WDS200T2G0A)",
+        "rating": "10",
+        "hon_price_min": "797",
+        "hon_price_max": "899",
+        "容量:": "2000GB",
+        "介面:": "SATA",
+        "順序讀取速度:": "545MB/s"
+    },
+    {
+        "names": "Gigabyte 1TB AORUS Gen4 7000s SSD",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,699",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5500MB/s"
+    },
+    {
+        "names": "Netac N930ES M.2 2242 NVMe SSD 1TB",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "699",
+        "容量:": "1000GB",
+        "順序讀取速度:": "1650MB/s",
+        "順序寫入速度:": "1500MB/s"
+    },
+    {
+        "names": "Samsung 三星 2TB 980 PRO NVME M.2 PCIE 4.0 SSD (MZ-V8P2T0BW)",
+        "rating": "9.8",
+        "hon_price_min": "1,430",
+        "hon_price_max": "2,199",
+        "water_price_min": "1,890",
+        "water_price_max": "1,950",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5100MB/s"
+    },
+    {
+        "names": "Netac N600S SATA III SSD 512GB",
+        "rating": "10",
+        "hon_price_min": "189",
+        "hon_price_max": "269",
+        "容量:": "512GB",
+        "記憶體晶片技術:": "SLC",
+        "順序讀取速度:": "560MB/s"
+    },
+    {
+        "names": "Kingston A400 SATA SSD 480GB (SA400S37/480G)",
+        "rating": "6.0",
+        "hon_price_min": "245",
+        "hon_price_max": "440",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "容量:": "480GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "AGI High Performance SSD AI238 SATA 6Gbps 2000GB",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "730",
+        "容量:": "2000GB",
+        "記憶體晶片技術:": "QLC",
+        "順序讀取速度:": "540MB/s",
+        "順序寫入速度:": "500MB/s"
+    },
+    {
+        "names": "Netac NV2000 NVMe SSD 512GB",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "368",
+        "容量:": "512GB",
+        "順序讀取速度:": "2500MB/s",
+        "順序寫入速度:": "1950MB/s"
+    },
+    {
+        "names": "Intel M.2 SSD 670P series 512GB",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "385",
+        "容量:": "512GB",
+        "順序讀取速度:": "3000MB/s",
+        "順序寫入速度:": "1600MB/s"
+    },
+    {
+        "names": "AITC  Kingsman Gaming KM600 Ultra SSD M.2 PCIe Gen 3x4 NVME 512GB",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "261",
+        "容量:": "512GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Seagate FireCuda 530 2TB Gen4 PCIe 連散熱片",
+        "rating": "6.7",
+        "hon_price_min": "1,688",
+        "hon_price_max": "2,510",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "Samsung 三星 970 EVO Plus 2TB NVMe M.2. SSD",
+        "rating": "9.7",
+        "hon_price_min": "1,225",
+        "hon_price_max": "2,959",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3300MB/s"
+    },
+    {
+        "names": "Kingston 2TB KC2500 M.2 2280 NVMe SSD (SKC2500M8/2000G)",
+        "rating": "5.0",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,699",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2900MB/s"
+    },
+    {
+        "names": "Klevv 2TB CRAS C720 M.2 NVMe",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "2,150",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "3100MB/s"
+    },
+    {
+        "names": "MSI SPATIUM M470 PCIe 4.0 NVMe M.2 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,499",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "Samsung 三星 970 EVO 2TB",
+        "rating": "",
+        "hon_price_min": "1,234",
+        "hon_price_max": "3,250",
+        "容量:": "2000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Corsair MP600 PRO LPX 1TB PCIe Gen4 x4 NVMe M.2 SSD (CSSD-F1000GBMP600PLP)",
+        "rating": "10",
+        "hon_price_min": "838",
+        "hon_price_max": "1,280",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7100MB/s",
+        "順序寫入速度:": "5800MB/s"
+    },
+    {
+        "names": "AITC Kingsman Gaming SK350 2.5-inch SSD 2TB (AISK350S2TB250)",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "699",
+        "容量:": "2000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "MSI SPATIUM M470 PCIe 4.0 NVMe M.2 SSD 2TB",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,799",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "Crucial MX500 2TB SSD",
+        "rating": "9.4",
+        "hon_price_min": "1,015",
+        "hon_price_max": "1,578",
+        "容量:": "2000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "Samsung 三星 870 QVO 4TB SATA3 SSD",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "3,146",
+        "容量:": "4000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "QLC"
+    },
+    {
+        "names": "AITC Kingsman KP800 3D TLC M.2 PCIe Gen4x4 NVMe1.4 SSD 1TB",
+        "rating": "10",
+        "hon_price_min": "628",
+        "hon_price_max": "699",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7500MB/s",
+        "順序寫入速度:": "6500MB/s"
+    },
+    {
+        "names": "AITC Kingsman Gaming KM600 Ultra SSD M.2 PCIe Gen 3x4 NVME 1TB",
+        "rating": "6.8",
+        "hon_price_min": "378",
+        "hon_price_max": "390",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (1TB) 連散熱片 WDS100T1XHE",
+        "rating": "10",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,625",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5300MB/s"
+    },
+    {
+        "names": "ADATA XPG LEGEND 840 PCIe Gen4 x4 M.2 2280 SSD 固態硬碟 1TB",
+        "rating": "10",
+        "hon_price_min": "549",
+        "hon_price_max": "770",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4500MB/s"
+    },
+    {
+        "names": "Crucial MX500 1TB 3D NAND SATA 2.5\" 7mm Internal SSD",
+        "rating": "9.3",
+        "hon_price_min": "475",
+        "hon_price_max": "698",
+        "容量:": "1000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "Netac NV5000-N PCIe Gen4 x4 M.2 2280 NVMe SSD 1TB",
+        "rating": "10",
+        "hon_price_min": "495",
+        "hon_price_max": "524",
+        "容量:": "1000GB",
+        "順序讀取速度:": "4800MB/s",
+        "順序寫入速度:": "4600MB/s"
+    },
+    {
+        "names": "AITC Kingsman Gaming KM600 Ultra SSD M.2 PCIe Gen 3x4 NVME 256GB",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "189",
+        "容量:": "256GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "AGI AI818 M.2 PCIe Gen4 SSD 1TB",
+        "rating": "4.0",
+        "hon_price_min": "485",
+        "hon_price_max": "495",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4500MB/s"
+    },
+    {
+        "names": "Team Group 1TB CARDEA ZERO Z440 M.2 PCIe SSD",
+        "rating": "10",
+        "hon_price_min": "770",
+        "hon_price_max": "770",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "Kingston NV2 PCIe 4.0 NVMe M.2 SSD 500GB (SNV2S/500G)",
+        "rating": "10",
+        "hon_price_min": "270",
+        "hon_price_max": "359",
+        "容量:": "500GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2100MB/s"
+    },
+    {
+        "names": "Western Digital SN850X M.2 2280 PCIe Gen4 NVMe Gaming SSD 4TB (WDS400T2X0E) 無散熱片",
+        "rating": "",
+        "hon_price_min": "4,268",
+        "hon_price_max": "4,350",
+        "water_price_min": "3,299",
+        "water_price_max": "3,299",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6600MB/s"
+    },
+    {
+        "names": "SanDisk SSD PLUS 1TB",
+        "rating": "10",
+        "hon_price_min": "460",
+        "hon_price_max": "655",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Netac N600S SATA III SSD 1TB",
+        "rating": "10",
+        "hon_price_min": "335",
+        "hon_price_max": "528",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "SLC",
+        "順序讀取速度:": "560MB/s"
+    },
+    {
+        "names": "Crucial P3 3.0 NAND NVMe PCIe M.2 SSD 1TB CT1000P3SSD8",
+        "rating": "",
+        "hon_price_min": "443",
+        "hon_price_max": "699",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Synology 400GB M.2 2280 NVMe SSD SNV3410-400G",
+        "rating": "",
+        "hon_price_min": "1,206",
+        "hon_price_max": "1,299",
+        "容量:": "400GB",
+        "順序讀取速度:": "3000MB/s",
+        "順序寫入速度:": "750MB/s"
+    },
+    {
+        "names": "Western Digital Green M.2 SN350 NVMe 960GB (WDS960G2G0C)",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "649",
+        "容量:": "960GB",
+        "順序讀取速度:": "2400MB/s",
+        "順序寫入速度:": "1900MB/s"
+    },
+    {
+        "names": "Crucial P3 3.0 NAND NVMe PCIe M.2 SSD 2TB CT2000P3SSD8",
+        "rating": "8.0",
+        "hon_price_min": "865",
+        "hon_price_max": "1,299",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Crucial P3 Plus 2TB PCIe M.2 2280 SSD (CT2000P3PSSD8)",
+        "rating": "",
+        "hon_price_min": "1,188",
+        "hon_price_max": "1,280",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4200MB/s"
+    },
+    {
+        "names": "SABRENT 1TB Rocket Nvme PCIe 4.0 M.2 2280 Internal SSD Solid State Drive (SB-ROCKET-NVMe4-1TB)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,299",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "HP M.2 EX950 1TB NVMe",
+        "rating": "8.0",
+        "hon_price_min": "530",
+        "hon_price_max": "1,063",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "PNY 2TB XLR8 CS3040 M.2 2280 NVMe Gen4x4 固態硬碟",
+        "rating": "10",
+        "hon_price_min": "1,430",
+        "hon_price_max": "2,080",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5600MB/s",
+        "順序寫入速度:": "4300MB/s"
+    },
+    {
+        "names": "Kingston KC2500 M.2 2280 NVMe SSD 250GB (SKC2500M8/250G)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "容量:": "250GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "1200MB/s"
+    },
+    {
+        "names": "Samsung 三星 870 QVO 4TB SATA3 SSD",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "3,146",
+        "容量:": "4000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "QLC"
+    },
+    {
+        "names": "Kingston 240GB M.2 A400 Series SA400M8/240G",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "容量:": "240GB",
+        "順序讀取速度:": "500MB/s",
+        "順序寫入速度:": "350MB/s"
+    },
+    {
+        "names": "Western Digital WD_BLACK SN770 NVMe SSD 2TB WDS200T3X0E",
+        "rating": "10",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,685",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5150MB/s",
+        "順序寫入速度:": "4850MB/s"
+    },
+    {
+        "names": "Kingston NV2 PCIe 4.0 NVMe SSD 1TB (SNV2S/1000G)",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "570",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2100MB/s"
+    },
+    {
+        "names": "Netac NV3000 M.2 2280 NVMe SSD 2TB",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "1,080",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "2900MB/s"
+    },
+    {
+        "names": "Seagate Firecuda 530 1TB Gen4 PCIe SSD",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,250",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "Seagate FireCuda 530 4TB Gen4 PCIe 連散熱片",
+        "rating": "10",
+        "hon_price_min": "3,849",
+        "hon_price_max": "5,670",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "ADATA Ultimate SU750 SSD 512GB",
+        "rating": "2.0",
+        "hon_price_min": "299",
+        "hon_price_max": "420",
+        "容量:": "512GB",
+        "記憶體晶片技術:": "SLC",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Samsung 三星 SSD 870 EVO SATA III 2.5\" 250GB (MZ-77E250BW)",
+        "rating": "6.0",
+        "hon_price_min": "238",
+        "hon_price_max": "376",
+        "容量:": "250GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "MSI SPATIUM M461 PCIe 4.0 NVMe M.2 SSD 2TB",
+        "rating": "",
+        "hon_price_min": "919",
+        "hon_price_max": "919",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4200MB/s"
+    },
+    {
+        "names": "Corsair MP600 PRO 2TB NVMe Gen4 x4 SSD (CSSD-F2000GBMP600PRO)",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,950",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6850MB/s"
+    },
+    {
+        "names": "Klevv 1TB CRAS C720 M.2 NVMe",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "1,090",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "3100MB/s"
+    },
+    {
+        "names": "Kingston A400 2.5\" SATA SSD 1.92TB (SA400S37/1920G)",
+        "rating": "",
+        "hon_price_min": "1,138",
+        "hon_price_max": "1,520",
+        "容量:": "1920GB",
+        "順序讀取速度:": "500MB/s",
+        "順序寫入速度:": "450MB/s"
+    },
+    {
+        "names": "ADATA XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 2280 SSD 512GB (AGAMMIXS70B-512G-CS)",
+        "rating": "8.0",
+        "hon_price_min": "440",
+        "hon_price_max": "636",
+        "容量:": "512GB",
+        "順序讀取速度:": "7400MB/s",
+        "順序寫入速度:": "2600MB/s"
+    },
+    {
+        "names": "MSI M480 PCIe 4.0 NVMe M.2 SSD 2TB",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "3,799",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "Kingston FURY Renegade 2TB PCIe 4.0 NVMe M.2 連散熱片 (SFYRDK/2000G)",
+        "rating": "",
+        "hon_price_min": "1,648",
+        "hon_price_max": "2,180",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Transcend M.2 PCIe SSD 220S 2TB TS2TMTE220S",
+        "rating": "",
+        "hon_price_min": "989",
+        "hon_price_max": "2,100",
+        "容量:": "2000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN570 500GB (WDS500G3B0C)",
+        "rating": "",
+        "hon_price_min": "286",
+        "hon_price_max": "450",
+        "容量:": "500GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2300MB/s"
+    },
+    {
+        "names": "Samsung 三星 SSD 870 QVO SATA III 2.5 inch 8TB (MZ-77Q8T0BW)",
+        "rating": "10",
+        "hon_price_min": "4,245",
+        "hon_price_max": "4,880",
+        "容量:": "8000GB",
+        "記憶體晶片技術:": "QLC",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "ZhiTai Tiplus7100 PCIe 4.0 NVMe M.2 SSD 2TB",
+        "rating": "9.3",
+        "hon_price_min": "1,298",
+        "hon_price_max": "1,299",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6000MB/s"
+    },
+    {
+        "names": "Western Digital SN850X M.2 2280 PCIe Gen4 NVMe Gaming SSD 1TB (WDS100T2XHE) 連散熱片",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "1,090",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6300MB/s"
+    },
+    {
+        "names": "Crucial BX500 480GB 3D NAND SATA 2.5-inch SSD",
+        "rating": "9.7",
+        "hon_price_min": "225",
+        "hon_price_max": "595",
+        "容量:": "480GB",
+        "順序讀取速度:": "540MB/s",
+        "順序寫入速度:": "500MB/s"
+    },
+    {
+        "names": "PNY CS2241 M.2 2280 Gen4x4 SSD 4TB (M280CS2241-4TB-CL)",
+        "rating": "",
+        "hon_price_min": "1,979",
+        "hon_price_max": "1,979",
+        "容量:": "4000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4200MB/s"
+    },
+    {
+        "names": "Klevv 512GB CRAS C720 M.2 NVMe",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "500",
+        "容量:": "512GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "2400MB/s"
+    },
+    {
+        "names": "Seagate Firecuda 530 4TB Gen4 PCIe SSD",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "5,550",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6900MB/s"
+    },
+    {
+        "names": "Netac NV7000 PCIe Gen4x4 M.2 2280 4TB SSD",
+        "rating": "",
+        "hon_price_min": "4,070",
+        "hon_price_max": "4,099",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7200MB/s",
+        "順序寫入速度:": "6850MB/s"
+    },
+    {
+        "names": "Western Digital 2.5\" WD Blue 3D NAND SATA SSD 1TB (WDS100T2B0A)",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "905",
+        "water_price_min": "768",
+        "water_price_max": "768",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Corsair MP600 PRO XT 2TB M.2 NVMe PCIe Gen. 4 x 4 SSD (CSSD-F2000GBMP600PXT)",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,590",
+        "water_price_max": "2,590",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7100MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "AGI High Performance SSD AI238 SATA 6Gbps 500GB",
+        "rating": "10",
+        "hon_price_min": "215",
+        "hon_price_max": "280",
+        "容量:": "500GB",
+        "記憶體晶片技術:": "QLC",
+        "順序讀取速度:": "540MB/s",
+        "順序寫入速度:": "500MB/s"
+    },
+    {
+        "names": "Crucial P3 Plus 500GB PCIe M.2 2280 SSD CT500P3PSSD8",
+        "rating": "",
+        "hon_price_min": "297",
+        "hon_price_max": "340",
+        "容量:": "500GB",
+        "順序讀取速度:": "4700MB/s",
+        "順序寫入速度:": "1900MB/s"
+    },
+    {
+        "names": "Western Digital Green M.2 SN350 NVMe 1TB (WDS100T3G0C)",
+        "rating": "10",
+        "hon_price_min": "415",
+        "hon_price_max": "519",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Netac NV2000 NVMe SSD 256GB",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "220",
+        "容量:": "256GB",
+        "順序讀取速度:": "2500MB/s",
+        "順序寫入速度:": "1000MB/s"
+    },
+    {
+        "names": "AGI High Performance SSD AI218 M.2 PCIe 2TB",
+        "rating": "9.0",
+        "hon_price_min": "868",
+        "hon_price_max": "1,630",
+        "容量:": "2000GB",
+        "介面:": "M.2 NVMe",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston KC3000 PCIe 4.0 NVMe M.2 SSD 2048GB (SKC3000D/2048G)",
+        "rating": "10",
+        "hon_price_min": "1,438",
+        "hon_price_max": "1,498",
+        "water_price_min": "1,488",
+        "water_price_max": "1,488",
+        "容量:": "2048GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Gigabyte AORUS NVMe Gen4 SSD 1TB",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "1,470",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Crucial MX500 250GB SSD",
+        "rating": "10",
+        "hon_price_min": "226",
+        "hon_price_max": "310",
+        "容量:": "250GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Samsung 三星 1TB M.2 Gen4 NVMe SSD MZVL21T0HCLR PM9A1",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5200MB/s"
+    },
+    {
+        "names": "Gigabyte 2TB AORUS Gen4 7000s SSD",
+        "rating": "10",
+        "hon_price_min": "1,640",
+        "hon_price_max": "3,499",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6850MB/s"
+    },
+    {
+        "names": "Kingston FURY Renegade 1TB PCIe 4.0 NVMe M.2 SSD (SFYRS/1000G)",
+        "rating": "10",
+        "hon_price_min": "788",
+        "hon_price_max": "1,450",
+        "water_price_min": "910",
+        "water_price_max": "910",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6000MB/s"
+    },
+    {
+        "names": "ADATA M.2 SX8200 PRO 2TB ASX8200PNP-2TT-C",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "2,980",
+        "容量:": "2000GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Patriot 2.5\" SATA III SSD 1TB P210",
+        "rating": "",
+        "hon_price_min": "365",
+        "hon_price_max": "520",
+        "容量:": "1000GB",
+        "順序讀取速度:": "520MB/s",
+        "順序寫入速度:": "430MB/s"
+    },
+    {
+        "names": "Synology M.2 22110 NVMe SSD SNV3500-800G",
+        "rating": "",
+        "hon_price_min": "2,695",
+        "hon_price_max": "2,700",
+        "容量:": "800GB",
+        "順序讀取速度:": "3100MB/s",
+        "順序寫入速度:": "1000MB/s"
+    },
+    {
+        "names": "AGI High Performance SSD AI218 M.2 PCIe 512GB",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "299",
+        "容量:": "512GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3100MB/s"
+    },
+    {
+        "names": "Kingston 2TB KC3000 PCIe 4.0 NVMe M.2 SSD (SKC3000S/2048G)",
+        "rating": "10",
+        "hon_price_min": "1,438",
+        "hon_price_max": "2,890",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Kingston 500GB KC2500 M.2 2280 NVMe SSD (SKC2500M8/500G)",
+        "rating": "9.7",
+        "hon_price_min": "380",
+        "hon_price_max": "775",
+        "容量:": "500GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2900MB/s"
+    },
+    {
+        "names": "Gigabyte AORUS Gen4 SSD 1TB AG41TB",
+        "rating": "10",
+        "hon_price_min": "620",
+        "hon_price_max": "1,450",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "SanDisk Ultra 3D SSD 512GB",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "599",
+        "容量:": "512GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 2TB M.2 Blue 3D NAND SATA SSD WDS200T2B0B",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,950",
+        "容量:": "2000GB",
+        "介面:": "M.2 SATA"
+    },
+    {
+        "names": "MSI SPATIUM M480 PCIe 4.0 NVMe M.2 PLAY 2TB",
+        "rating": "10",
+        "hon_price_min": "1,199",
+        "hon_price_max": "2,550",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "AITC Kingsman Gaming SK150 2.5-inch SSD 256GB (AISK150S256250)",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "199",
+        "容量:": "256GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Gigabyte M30 SSD 512GB",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "420",
+        "容量:": "512GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2600MB/s"
+    },
+    {
+        "names": "Kingston A2000 NVMe PCle SSD 1TB (SA2000M8/1000G)",
+        "rating": "9.5",
+        "hon_price_min": "710",
+        "hon_price_max": "890",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "2200MB/s"
+    },
+    {
+        "names": "Western Digital Black M.2 SN850 (500GB) Gen4 WDS500G1X0E (無散熱片)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "930",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "容量:": "500GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "4100MB/s"
+    },
+    {
+        "names": "Synology 2.5” SATA SSD SAT5200-1920G",
+        "rating": "",
+        "hon_price_min": "4,830",
+        "hon_price_max": "5,036",
+        "容量:": "1920GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Klevv 2TB CRAS C720 M.2 NVMe",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "2,150",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "3100MB/s"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN570 250GB (WDS250G3B0C)",
+        "rating": "",
+        "hon_price_min": "287",
+        "hon_price_max": "375",
+        "water_price_min": "297",
+        "water_price_max": "297",
+        "容量:": "250GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "1200MB/s"
+    },
+    {
+        "names": "Samsung 三星 1TB 2280 NVMe M.2 SSD PM981a MZVLB1T0HBLR",
+        "rating": "8.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,175",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Kingston 500GB M.2 NV1 SNVS/500G",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "480",
+        "容量:": "500GB",
+        "順序讀取速度:": "2100MB/s",
+        "順序寫入速度:": "1700MB/s"
+    },
+    {
+        "names": "OWC 1.0TB AURA PRO NT (OWCS3DAP4NT10K)",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750",
+        "容量:": "960GB",
+        "順序讀取速度:": "2720MB/s",
+        "順序寫入速度:": "2720MB/s"
+    },
+    {
+        "names": "Western Digital Black SN750 NVMe SSD 1TB (Without Heatsink) WDS100T3X0C",
+        "rating": "10",
+        "hon_price_min": "848",
+        "hon_price_max": "1,036",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3470MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "SanDisk Ultra 3D SSD 2TB",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "容量:": "2000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Samsung 三星 970 EVO 1TB",
+        "rating": "",
+        "hon_price_min": "665",
+        "hon_price_max": "1,220",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Kingston FURY Renegade PCIe 4.0 NVMe M.2 SSD 500GB (SFYRS/500G)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "830",
+        "water_price_min": "830",
+        "water_price_max": "830",
+        "容量:": "500GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "3900MB/s"
+    },
+    {
+        "names": "Corsair MP600 PRO 1TB M.2 NVMe PCIe Gen. 4 x4 SSD",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "1,450",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6550MB/s"
+    },
+    {
+        "names": "Corsair MP600 PRO XT 1TB M.2 NVMe PCIe Gen. 4 x 4 SSD (CSSD-F1000GBMP600PXT)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,580",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7100MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "Netac N535S SATA III 2.5-inch SSD 480GB",
+        "rating": "",
+        "hon_price_min": "205",
+        "hon_price_max": "215",
+        "容量:": "480GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Samsung 三星 860 EVO SATA 2.5吋 SSD 1TB (MZ-76E1T0BW)",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "880",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "MLC",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Samsung 三星 512GB M.2 NVMe SSD PM9A1",
+        "rating": "",
+        "hon_price_min": "485",
+        "hon_price_max": "669",
+        "容量:": "512GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5200MB/s"
+    },
+    {
+        "names": "Crucial BX500 500GB 3D NAND SATA 2.5-inch SSD CT500BX500SSD1",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "275",
+        "容量:": "500GB",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "500MB/s"
+    },
+    {
+        "names": "Gigabyte AORUS NVMe Gen4 SSD 2TB",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,799",
+        "容量:": "2000GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "AGI High Performance SSD AI178 SATA 6Gbps 4TB",
+        "rating": "2.0",
+        "hon_price_min": "1,798",
+        "hon_price_max": "1,890",
+        "容量:": "4000GB",
+        "記憶體晶片技術:": "TLC",
+        "順序讀取速度:": "530MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "MSI SPATIUM M390 NVMe M.2 SSD 500GB",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "480",
+        "容量:": "500GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "2300MB/s"
+    },
+    {
+        "names": "PNY 1TB XLR8 CS3040 M.2 2280 NVMe Gen4x4 固態硬碟",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "1,080",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5600MB/s",
+        "順序寫入速度:": "4300MB/s"
+    },
+    {
+        "names": "Western Digital Black SN750 NVMe SSD 1TB (連散熱片) WDS100T3XHC",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "1,280",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Kingston A400 SATA SSD 240GB (SA400S37/240G)",
+        "rating": "10",
+        "hon_price_min": "160",
+        "hon_price_max": "270",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "容量:": "240GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Patriot 2.5\" SATA III SSD 512GB P210",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "429",
+        "容量:": "512GB",
+        "順序讀取速度:": "520MB/s",
+        "順序寫入速度:": "430MB/s"
+    },
+    {
+        "names": "Western Digital WD Green PC SSD (480GB) WDS480G2G0A (停產)",
+        "rating": "6.0",
+        "hon_price_min": "228",
+        "hon_price_max": "450",
+        "容量:": "480GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Kingston FURY Renegade 1TB PCIe 4.0 NVMe M.2 連散熱片 (SFYRSK/1000G)",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "1,280",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "6000MB/s"
+    },
+    {
+        "names": "AGI High Performance SSD AI198 M.2 PCIe 1TB",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "798",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Kingston KC3000 PCIe 4.0 NVMe M.2 SSD 4096GB (SKC3000D/4096G)",
+        "rating": "",
+        "hon_price_min": "4,150",
+        "hon_price_max": "4,310",
+        "water_price_min": "4,300",
+        "water_price_max": "4,300",
+        "容量:": "4096GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Silicon Power M.2 2280 A55 SSD 512GB",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428",
+        "容量:": "512GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Synology 2.5” SATA SSD SAT5200-3840G",
+        "rating": "",
+        "hon_price_min": "8,620",
+        "hon_price_max": "8,927",
+        "容量:": "3840GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital M.2 WD Blue 3D NAND SATA SSD 500GB - WDS500G2B0B",
+        "rating": "10",
+        "hon_price_min": "447",
+        "hon_price_max": "498",
+        "容量:": "500GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "AGI High Performance SSD AI238 SATA 6Gbps 1000GB",
+        "rating": "7.2",
+        "hon_price_min": "355",
+        "hon_price_max": "399",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 2.5\" WD Blue 3D NAND SATA SSD 2TB (WDS200T2B0A)",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,843",
+        "water_price_min": "1,488",
+        "water_price_max": "1,488",
+        "容量:": "2000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Verbatim 1TB Vi550 S3 SSD",
+        "rating": "8.0",
+        "hon_price_min": "488",
+        "hon_price_max": "718",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Crucial P5 Plus 500GB PCIe M.2 2280SS SSD (CT500P5PSSD8)",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "660",
+        "容量:": "500GB",
+        "順序讀取速度:": "6600MB/s",
+        "順序寫入速度:": "4000MB/s"
+    },
+    {
+        "names": "Klevv CRAS C710 M.2 NVMe SSD 1TB",
+        "rating": "",
+        "hon_price_min": "535",
+        "hon_price_max": "780",
+        "容量:": "1000GB",
+        "順序讀取速度:": "2100MB/s",
+        "順序寫入速度:": "1650MB/s"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN500 WDS250G1B0C 250GB",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "355",
+        "容量:": "250GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Kingston 250GB M.2 NV1 SNVS/250G",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "255",
+        "容量:": "250GB",
+        "順序讀取速度:": "2100MB/s",
+        "順序寫入速度:": "1100MB/s"
+    },
+    {
+        "names": "SABRENT 2TB Rocket Nvme PCIe 4.0 M.2 2280 Internal SSD Solid State Drive (SB-ROCKET-NVMe4-2TB)",
+        "rating": "10",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,450",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "PNY 1TB CS2140 M.2 2280 NVMe Gen4x4 固態硬碟 M280CS2140-1TB-CL",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "920",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3600MB/s",
+        "順序寫入速度:": "3200MB/s"
+    },
+    {
+        "names": "SABRENT 1TB ROCKET NVMe PCIe M.2 2280 Internal SSD Solid State Drive (SB-ROCKET-1TB)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,099",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "AGI High Performance SSD AI198 M.2 PCIe 512GB",
+        "rating": "4.7",
+        "hon_price_min": "248",
+        "hon_price_max": "395",
+        "容量:": "512GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "SanDisk Ultra 3D SSD 1TB",
+        "rating": "9.5",
+        "hon_price_min": "655",
+        "hon_price_max": "920",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Crucial 1TB P5 SSD",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "1,199",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Kingston 256GB KC600 mSATA SSD",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "400",
+        "容量:": "256GB",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "500MB/s"
+    },
+    {
+        "names": "Western Digital Ultrastar DC SN840 1.6TB SE Security (0TS1874)",
+        "rating": "",
+        "hon_price_min": "4,540",
+        "hon_price_max": "4,540",
+        "water_price_min": "4,540",
+        "water_price_max": "4,540",
+        "容量:": "1600GB",
+        "順序讀取速度:": "3470MB/s",
+        "順序寫入速度:": "2300MB/s"
+    },
+    {
+        "names": "PNY CS900 2.5\" SATA III SSD 1TB",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "530",
+        "容量:": "1000GB",
+        "順序讀取速度:": "535MB/s",
+        "順序寫入速度:": "515MB/s"
+    },
+    {
+        "names": "Western Digital M.2 WD Green PC SSD 240GB - WDS240G2G0B",
+        "rating": "10",
+        "hon_price_min": "188",
+        "hon_price_max": "269",
+        "容量:": "240GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "ZADAK SATA3 2.5\" SSD 512GB TWSS3",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "容量:": "512GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "540MB/s"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN550 1TB SSD WDS100T2B0C",
+        "rating": "6.0",
+        "hon_price_min": "628",
+        "hon_price_max": "825",
+        "容量:": "1000GB",
+        "順序讀取速度:": "2400MB/s",
+        "順序寫入速度:": "1950MB/s"
+    },
+    {
+        "names": "Western Digital WD_BLACK Call of Duty: Black Ops Cold War Special Edition SN850 NVMe SSD 1TB (WDBB2F0010BNC)",
+        "rating": "",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5300MB/s"
+    },
+    {
+        "names": "MSI SPATIUM M461 PCIe 4.0 NVMe M.2 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "479",
+        "容量:": "1000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "3200MB/s"
+    },
+    {
+        "names": "SABRENT 2TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Solid State Drive (SB-RKTQ4-2TB)",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,510",
+        "容量:": "2000GB",
+        "順序讀取速度:": "4800MB/s",
+        "順序寫入速度:": "3600MB/s"
+    },
+    {
+        "names": "Western Digital Red NAS SA500 2.5\" 500GB SATA3 SSD WDS500G1R0A",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "785",
+        "water_price_min": "625",
+        "water_price_max": "625",
+        "容量:": "500GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Black M.2 SN750 SE 1TB (WDS100T1B0E)",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "849",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3600MB/s",
+        "順序寫入速度:": "2830MB/s"
+    },
+    {
+        "names": "Western Digital Green M.2 SN350 NVMe 240GB (WDS240G2G0C)",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "269",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "容量:": "240GB",
+        "順序讀取速度:": "2400MB/s",
+        "順序寫入速度:": "900MB/s"
+    },
+    {
+        "names": "ADATA Ultimate SU750 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "710",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "SLC",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Corsair Force Series Gen.4 PCIe MP600 1TB NVMe M.2 SSD",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "1,299",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Crucial BX500 240GB 3D NAND SATA 2.5-inch SSD",
+        "rating": "8.8",
+        "hon_price_min": "163",
+        "hon_price_max": "405",
+        "容量:": "240GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "AITC Kingsman Gaming SK150 2.5-inch SSD 1TB (AISK150S1TB250)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "440",
+        "容量:": "1000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Corsair MP600 CORE 1TB M.2 NVMe PCIe Gen. 4 x4 SSD",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,140",
+        "容量:": "1000GB",
+        "順序讀取速度:": "4700MB/s",
+        "順序寫入速度:": "1950MB/s"
+    },
+    {
+        "names": "SABRENT Rocket Q 2TB NVMe PCIe M.2 2280 Internal SSD Solid State Drive (SB-RKTQ-2TB)",
+        "rating": "",
+        "hon_price_min": "1,967",
+        "hon_price_max": "2,090",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "AGI AI838 M.2 PCIE Gen4 SSD 固態硬碟連散熱片 1000GB",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7400MB/s",
+        "順序寫入速度:": "5500MB/s"
+    },
+    {
+        "names": "Verbatim 512GB Vi550 S3 SSD",
+        "rating": "10",
+        "hon_price_min": "279",
+        "hon_price_max": "390",
+        "容量:": "512GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Solidigm 670p Series PCIe 3.0 NVMe SSD 1TB",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "599",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Western Digital Black SN750 NVME SSD 2TB (連散熱片) WDS200T3XHC",
+        "rating": "",
+        "hon_price_min": "2,290",
+        "hon_price_max": "3,350",
+        "water_price_min": "2,190",
+        "water_price_max": "2,190",
+        "容量:": "2000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Crucial P2 PCIe M.2 2280 SSD 500GB (CT500P2SSD8)",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "395",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Western Digital M.2 WD Blue 3D NAND SATA SSD 1TB - WDS100T2B0B",
+        "rating": "",
+        "hon_price_min": "845",
+        "hon_price_max": "868",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston M.2 SA2000M8/500G 500GB NVMe",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "515",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "HP SSD EX950 M.2 2TB",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "2,999",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2900MB/s"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN550 500GB SSD WDS500G2B0C",
+        "rating": "10",
+        "hon_price_min": "358",
+        "hon_price_max": "458",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "容量:": "500GB",
+        "順序讀取速度:": "2400MB/s",
+        "順序寫入速度:": "1750MB/s"
+    },
+    {
+        "names": "AGI High Performance SSD AI218 M.2 PCIe 1TB",
+        "rating": "10",
+        "hon_price_min": "455",
+        "hon_price_max": "599",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3507MB/s",
+        "順序寫入速度:": "3114MB/s"
+    },
+    {
+        "names": "Samsung 三星 M.2 SSD 512GB PM981a (MZVLB512HBJQ)",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "699",
+        "容量:": "512GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2900MB/s"
+    },
+    {
+        "names": "Western Digital Black SN750 NVMe SSD 500GB (Without Heatsink)  WDS500G3X0C",
+        "rating": "2.0",
+        "hon_price_min": "455",
+        "hon_price_max": "580",
+        "water_price_min": "508",
+        "water_price_max": "508",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Western Digital WD_BLACK AN1500 NVMe SSD (WDS100T1X0L)",
+        "rating": "",
+        "hon_price_min": "1,888",
+        "hon_price_max": "2,999",
+        "water_price_min": "1,950",
+        "water_price_max": "1,950",
+        "容量:": "1000GB",
+        "順序讀取速度:": "6500MB/s",
+        "順序寫入速度:": "4100MB/s"
+    },
+    {
+        "names": "Western Digital 2.5\" WD Blue 3D NAND SATA SSD 250GB (WDS250G2B0A)",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "388",
+        "water_price_min": "440",
+        "water_price_max": "440",
+        "容量:": "250GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "MSI SPATIUM M390 NVMe M.2 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "799",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Western Digital Green M.2 SN350 NVMe 480GB (WDS480G2G0C)",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "379",
+        "容量:": "480GB",
+        "順序讀取速度:": "2400MB/s",
+        "順序寫入速度:": "1650MB/s"
+    },
+    {
+        "names": "Western Digital Red SN700 NVMe SSD 1TB (WDS100T1R0C)",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "1,360",
+        "water_price_min": "899",
+        "water_price_max": "899",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3430MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "MSI SPATIUM S270 2.5-inch SATA SSD 240GB",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "229",
+        "容量:": "240GB",
+        "順序讀取速度:": "500MB/s",
+        "順序寫入速度:": "400MB/s"
+    },
+    {
+        "names": "Kingston A400 960GB",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "765",
+        "容量:": "960GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "AGI High Performance SSD AI238 SATA 6Gbps 250GB",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "135",
+        "容量:": "250GB",
+        "記憶體晶片技術:": "QLC",
+        "順序讀取速度:": "540MB/s",
+        "順序寫入速度:": "500MB/s"
+    },
+    {
+        "names": "PNY CS1031 M.2 2280 NVME GEN3 SSD 256GB",
+        "rating": "10",
+        "hon_price_min": "179",
+        "hon_price_max": "256",
+        "容量:": "256GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "ADATA XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 2280 SSD 2TB (AGAMMIXS70B-2T-CS)",
+        "rating": "7.7",
+        "hon_price_min": "1,199",
+        "hon_price_max": "2,942",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7400MB/s",
+        "順序寫入速度:": "6400MB/s"
+    },
+    {
+        "names": "ADATA XPG GAMMIX S50 Lite Gen4x4 M.2 2280 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "1,099",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3900MB/s",
+        "順序寫入速度:": "3200MB/s"
+    },
+    {
+        "names": "Samsung 三星 PM983 22110 NVMe M.2. SSD 960GB",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "容量:": "960GB",
+        "順序讀取速度:": "3000MB/s",
+        "順序寫入速度:": "1400MB/s"
+    },
+    {
+        "names": "SanDisk Ultra 3D SSD 4TB",
+        "rating": "",
+        "hon_price_min": "3,130",
+        "hon_price_max": "3,198",
+        "water_price_min": "3,180",
+        "water_price_max": "3,180",
+        "容量:": "4000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Corsair MP400 2TB NVMe PCIe M.2 SSD CSSD-F2000GBMP400",
+        "rating": "",
+        "hon_price_min": "1,689",
+        "hon_price_max": "2,160",
+        "容量:": "2000GB",
+        "記憶體晶片技術:": "QLC"
+    },
+    {
+        "names": "Western Digital Black SN750 NVMe SSD 2TB (Without Heatsink) WDS200T3X0C",
+        "rating": "",
+        "hon_price_min": "1,258",
+        "hon_price_max": "2,688",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "2900MB/s"
+    },
+    {
+        "names": "Lexar 256GB NS100 2.5” SATA III (6Gb/s) SSD",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "270",
+        "容量:": "256GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Transcend 2.5\" SSD230S 2TB",
+        "rating": "",
+        "hon_price_min": "1,689",
+        "hon_price_max": "1,850",
+        "容量:": "2000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Kingston 4TB KC3000 PCIe 4.0 NVMe M.2 SSD (SKC3000S/4096G)",
+        "rating": "",
+        "hon_price_min": "3,598",
+        "hon_price_max": "7,680",
+        "容量:": "4096GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "OWC 4TB Mercury Electra 6G SSD Upgrade Solution",
+        "rating": "",
+        "hon_price_min": "6,030",
+        "hon_price_max": "6,040",
+        "容量:": "4000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "SABRENT 2TB Rocket 4 PLUS NVMe 4.0 Gen4 PCIe M.2 Internal SSD Solid State Drive (SB-RKT4P-2TB)",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "3,290",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7100MB/s",
+        "順序寫入速度:": "6600MB/s"
+    },
+    {
+        "names": "ADATA XPG GAMMIX S50 Lite PCIe Gen4x4 M.2 2280 SSD 512GB",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "519",
+        "容量:": "512GB",
+        "順序讀取速度:": "3800MB/s",
+        "順序寫入速度:": "2800MB/s"
+    },
+    {
+        "names": "Western Digital WD_BLACK SN770 NVMe SSD 250 GB WDS250G3X0E",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "318",
+        "water_price_min": "295",
+        "water_price_max": "295",
+        "容量:": "250GB",
+        "順序讀取速度:": "4000MB/s",
+        "順序寫入速度:": "2000MB/s"
+    },
+    {
+        "names": "Team Group 2TB CARDEA ZERO Z440 M.2 PCIe SSD",
+        "rating": "",
+        "hon_price_min": "1,970",
+        "hon_price_max": "1,980",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "Corsair Force Series Gen.4 PCIe MP600 2TB NVMe M.2 SSD",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,999",
+        "容量:": "2000GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Samsung 三星 860 EVO SSD 固態硬碟 (4TB) MZ-76E4T0BW",
+        "rating": "",
+        "hon_price_min": "2,448",
+        "hon_price_max": "4,390",
+        "容量:": "4000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Klevv 240GB CRAS C700 RGB M.2 NVMe SSD",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "399",
+        "容量:": "240GB",
+        "順序讀取速度:": "1500MB/s",
+        "順序寫入速度:": "1000MB/s"
+    },
+    {
+        "names": "Colorful 2TB 2.5\" SL500 SSD",
+        "rating": "",
+        "hon_price_min": "1,189",
+        "hon_price_max": "1,249",
+        "容量:": "2000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Kingston M.2 SA2000M8/250G 250GB NVMe",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "345",
+        "容量:": "250GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "SanDisk SSD PLUS 480GB (SDSSDA-480G-G26)",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "435",
+        "water_price_min": "300",
+        "water_price_max": "390",
+        "容量:": "480GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital SN550 NVMe SSD 2TB WDS200T2B0C",
+        "rating": "",
+        "hon_price_min": "1,398",
+        "hon_price_max": "1,850",
+        "water_price_min": "1,597",
+        "water_price_max": "1,597",
+        "容量:": "2000GB",
+        "順序讀取速度:": "2600MB/s",
+        "順序寫入速度:": "1800MB/s"
+    },
+    {
+        "names": "Samsung 三星 SSD 860 EVO SATA III 2.5 \" 2TB (MZ-76E2T0BW)",
+        "rating": "6.0",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,989",
+        "容量:": "2000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "MLC"
+    },
+    {
+        "names": "OWC 2.0TB AURA PRO NT (OWCS3DAP4NT20K)",
+        "rating": "",
+        "hon_price_min": "3,110",
+        "hon_price_max": "3,370",
+        "容量:": "1920GB",
+        "順序讀取速度:": "2720MB/s",
+        "順序寫入速度:": "2720MB/s"
+    },
+    {
+        "names": "ADATA M.2 SX8200 PRO 512GB ASX8200PNP-512GT-C",
+        "rating": "10",
+        "hon_price_min": "370",
+        "hon_price_max": "572",
+        "容量:": "512GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston 1TB KC2500 M.2 2280 NVMe SSD (SKC2500M8/1000G)",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "1,415",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2900MB/s"
+    },
+    {
+        "names": "Patriot P300 PCle Gen 3x4 M.2 NVMe SSD 1TB (P300P1TBM28)",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "480",
+        "容量:": "1000GB",
+        "順序讀取速度:": "2100MB/s",
+        "順序寫入速度:": "1650MB/s"
+    },
+    {
+        "names": "Klevv 1TB CRAS C920 M.2 NVMe Gen4 SSD",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,490",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Gigabyte AORUS Gen4 SSD 500GB GP-AG4500G",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "850",
+        "容量:": "500GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Silicon Power P34A60 M.2 PCIe Gen 3 SSD 256GB",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "容量:": "256GB",
+        "順序讀取速度:": "2200MB/s",
+        "順序寫入速度:": "1600MB/s"
+    },
+    {
+        "names": "ADATA M.2 XPG SX8200 Pro 1TB  ASX8200PNP-1TT-C",
+        "rating": "6.0",
+        "hon_price_min": "519",
+        "hon_price_max": "1,100",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Synology 800GB M.2 2280 NVMe SSD SNV3400-800G",
+        "rating": "",
+        "hon_price_min": "2,439",
+        "hon_price_max": "2,449",
+        "容量:": "800GB",
+        "順序讀取速度:": "3100MB/s",
+        "順序寫入速度:": "1000MB/s"
+    },
+    {
+        "names": "Patriot Burst Elite 2.5inch SATA III SSD 480GB",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "320",
+        "容量:": "480GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "540MB/s"
+    },
+    {
+        "names": "ADATA 512GB XPG GAMMIX S11 Lite PCIe Gen3x4 M.2 2280 SSD",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "569",
+        "容量:": "512GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Synology M.2 22110 NVMe SSD SNV3500-400G",
+        "rating": "",
+        "hon_price_min": "1,398",
+        "hon_price_max": "1,499",
+        "容量:": "400GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "PNY CS1031 M.2 2280 NVME GEN3 SSD 2000GB",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "1,128",
+        "容量:": "2000GB",
+        "順序讀取速度:": "2400MB/s",
+        "順序寫入速度:": "1750MB/s"
+    },
+    {
+        "names": "Intel SSD 660p Series 2TB",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,250",
+        "容量:": "2000GB",
+        "記憶體晶片技術:": "QLC"
+    },
+    {
+        "names": "Corsair MP600 CORE 2TB M.2 NVMe PCIe Gen. 4 x 4 SSD",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "2,350",
+        "容量:": "2000GB",
+        "順序讀取速度:": "4950MB/s",
+        "順序寫入速度:": "3700MB/s"
+    },
+    {
+        "names": "Transcend M.2 220S 1TB NVME SSD TS1TMTE220S",
+        "rating": "10",
+        "hon_price_min": "549",
+        "hon_price_max": "1,099",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Lexar 512GB M.2 NM620 PCIe Gen3x4 NVMe SSD",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "495",
+        "容量:": "512GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "2400MB/s"
+    },
+    {
+        "names": "SABRENT 4TB Rocket 4 PLUS NVMe 4.0 Gen4 PCIe M.2 Internal SSD (SB-RKT4P-4TB)",
+        "rating": "",
+        "hon_price_min": "5,880",
+        "hon_price_max": "7,799",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7100MB/s",
+        "順序寫入速度:": "6600MB/s"
+    },
+    {
+        "names": "Samsung 三星 SSD 860 EVO SATA III 2.5\" 250GB (MZ-76E250BW)",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "379",
+        "容量:": "250GB",
+        "記憶體晶片技術:": "MLC",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "ADATA SU800 1TB",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "957",
+        "容量:": "1000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Netac NV5000 M.2 2280 PCIe GEN4x4 SSD 2TB",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,360",
+        "容量:": "2000GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "4400MB/s"
+    },
+    {
+        "names": "ADATA M.2 SX8200 PRO 256GB ASX8200PNP-256GT-C",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "418",
+        "容量:": "256GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Transcend NVMe PCIe SSD 240S 1TB",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,280",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Intel M.2 SSD 670P series 1TB",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "739",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Western Digital 2.5\" WD Blue SSD 500GB (WDS500G1B0A) (停產)",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "530",
+        "容量:": "500GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital M.2 WD Green PC SSD 120GB - WDS120G2G0B",
+        "rating": "",
+        "hon_price_min": "157",
+        "hon_price_max": "229",
+        "容量:": "120GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Corsair MP600 PRO LPX 4TB PCIe Gen4 x4 NVMe M.2 SSD (CSSD-F4000GBMP600PLP)",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "6,590",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7100MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "Netac N535S SATA III 2.5-inch SSD 240GB",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "135",
+        "容量:": "240GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "OWC 240GB Mercury Extreme Pro 6G NVMe SSD Drive Only",
+        "rating": "",
+        "hon_price_min": "815",
+        "hon_price_max": "815",
+        "容量:": "240GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Kingspec 512GB mSATA SSD MT-512",
+        "rating": "",
+        "water_price_min": "400",
+        "water_price_max": "400",
+        "容量:": "512GB",
+        "介面:": "mSATA"
+    },
+    {
+        "names": "Acer M.2 FA100 256GB SSD NVMe",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "280",
+        "容量:": "256GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "2700MB/s"
+    },
+    {
+        "names": "MSI SPATIUM M371 NVMe M.2 SSD 500GB",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "360",
+        "容量:": "500GB",
+        "順序讀取速度:": "2200MB/s",
+        "順序寫入速度:": "1150MB/s"
+    },
+    {
+        "names": "Hikvision 海康威視 C100 240GB SSD",
+        "rating": "9.3",
+        "hon_price_min": "201",
+        "hon_price_max": "201",
+        "容量:": "240GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "OWC 480GB Mercury Extreme Pro 6G NVMe SSD Upgrade Solution",
+        "rating": "",
+        "hon_price_min": "1,534",
+        "hon_price_max": "1,534",
+        "容量:": "480GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Atomos 1TB Nextorage AtomX SSDmini (NPS-AS1TB)",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,700",
+        "容量:": "1000GB",
+        "介面:": "SATA III"
+    },
+    {
+        "names": "Hyundai 現代 Sapphire 2.5\" Internal SSD 480GB",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "容量:": "480GB",
+        "記憶體晶片技術:": "TLC",
+        "順序讀取速度:": "520MB/s",
+        "順序寫入速度:": "450MB/s"
+    },
+    {
+        "names": "Crucial MX500 500GB M.2 Type 2280",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "550",
+        "容量:": "500GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston KC600 mSATA SSD 1TB (SKC600MS/1024G)",
+        "rating": "",
+        "hon_price_min": "985",
+        "hon_price_max": "988",
+        "容量:": "1024GB",
+        "記憶體晶片技術:": "TLC",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "SABRENT 512GB Rocket NVMe PCIe M.2 2280 Internal SSD Solid State Drive (SB-ROCKET-512)",
+        "rating": "",
+        "hon_price_min": "619",
+        "hon_price_max": "650",
+        "容量:": "512GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "2000MB/s"
+    },
+    {
+        "names": "Samsung 三星 30.72 TB SSD 2.5\" SSD MZILT30THMLA PM1643",
+        "rating": "",
+        "hon_price_min": "52,800",
+        "hon_price_max": "52,800",
+        "容量:": "3072GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "ZhiTai TiPlus 7100 PCIe 4.0 NVMe M.2 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6000MB/s"
+    },
+    {
+        "names": "Lexar NS100 2.5” SATA III (6Gb/s) 固態硬盤SSD【512GB】",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "509",
+        "容量:": "512GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Kingston KC600 2.5-inch SATA Rev. 3.0 (6Gb/s) SSD with 3D TLC NAND 2048GB (SKC600/2048G)",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,900",
+        "water_price_min": "1,900",
+        "water_price_max": "1,900",
+        "容量:": "2048GB",
+        "記憶體晶片技術:": "3D TLC",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Transcend NVMe PCIe SSD 240S 500GB",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "720",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Patriot P310 PCIe Gen 3x4 M.2 NVMe SSD 480GB (P310P480GM28)",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "310",
+        "容量:": "480GB",
+        "順序讀取速度:": "1700MB/s",
+        "順序寫入速度:": "1500MB/s"
+    },
+    {
+        "names": "ADATA XPG SX8100 PCIe Gen3x4 M.2 2280 512GB 固態硬碟",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "520",
+        "容量:": "512GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Gigabyte 2TB AORUS Gen4 7000s Prem. SSD (GP-AG70S2TB-P)",
+        "rating": "",
+        "hon_price_min": "1,730",
+        "hon_price_max": "3,199",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6850MB/s"
+    },
+    {
+        "names": "OWC Aura Pro X2 2.0TB SSD Upgrade (Blade Only) for Select 2013 & Later Macs (OWCS3DAPT4MB20)",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,550",
+        "容量:": "1920GB",
+        "順序讀取速度:": "3192MB/s",
+        "順序寫入速度:": "2488MB/s"
+    },
+    {
+        "names": "Crucial BX500 2TB SSD CT2000BX500SSD1",
+        "rating": "",
+        "hon_price_min": "948",
+        "hon_price_max": "1,420",
+        "容量:": "2000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Plextor M10P(Y) 插槽式 NVMe Gen4 SSD 2TB",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,199",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5000MB/s"
+    },
+    {
+        "names": "Plextor M.2 PCIe Gen 4 x 4 with NVMe Express M10PGN 1TB",
+        "rating": "",
+        "hon_price_min": "889",
+        "hon_price_max": "889",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5000MB/s"
+    },
+    {
+        "names": "Western Digital Black SN750 NVMe SSD 250GB (Without Heatsink) WDS250G3X0C",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "447",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "容量:": "250GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "ADATA Ultimate SU650 480GB",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "585",
+        "容量:": "480GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "OWC 1TB Mercury Electra 6G NVMe SSD Upgrade Solution",
+        "rating": "",
+        "hon_price_min": "1,765",
+        "hon_price_max": "1,765",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "ZhiTai SC001 Active SATA III 2.5inch SSD 512GB (SSDZTSS0CH06D11MC)",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "298",
+        "容量:": "512GB",
+        "順序讀取速度:": "520MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "Patriot VIPER VP4300 PCI-E m.2 GEN4 x4 SSD 2TB",
+        "rating": "",
+        "hon_price_min": "3,420",
+        "hon_price_max": "3,420",
+        "water_price_min": "3,360",
+        "water_price_max": "3,360",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7400MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "HPE 480GB SATA 6G RI SFF SC DS SSD",
+        "rating": "",
+        "hon_price_min": "6,620",
+        "hon_price_max": "8,142",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Black M.2 SN750 SE 250GB (WDS250G1B0E)",
+        "rating": "",
+        "hon_price_min": "227",
+        "hon_price_max": "379",
+        "water_price_min": "425",
+        "water_price_max": "425",
+        "容量:": "250GB",
+        "順序讀取速度:": "3200MB/s",
+        "順序寫入速度:": "1000MB/s"
+    },
+    {
+        "names": "Western Digital 2.5\" WD Blue 3D NAND SATA SSD 500GB (WDS500G2B0A)",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "517",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "容量:": "500GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "ZhiTai SC001 Active SATA III 2.5inch SSD 1TB (ZTSS0CH08D11MC)",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "399",
+        "容量:": "1000GB",
+        "順序讀取速度:": "520MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "PNY CS900 2.5\" SATA III SSD 240GB",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "235",
+        "容量:": "240GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Colorful CN600 M.2 PCIe NVMe DDR SSD 512GB",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "容量:": "512GB",
+        "順序讀取速度:": "1800MB/s",
+        "順序寫入速度:": "1500MB/s"
+    },
+    {
+        "names": "ADATA FALCON PCIe Gen3x4 M.2 2280 固態硬碟 512GB",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "506",
+        "容量:": "512GB",
+        "順序讀取速度:": "3100MB/s",
+        "順序寫入速度:": "1500MB/s"
+    },
+    {
+        "names": "AGI High Performance SSD AI198 M.2 PCIe 240GB",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "235",
+        "容量:": "240GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Lexar NS100 2.5” SATA III (6Gb/s) 固態硬盤SSD【128GB】",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "199",
+        "容量:": "128GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Kingston UV500 M.2 SATA 120GB SSD",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "270",
+        "容量:": "120GB",
+        "介面:": "M.2 SATA"
+    },
+    {
+        "names": "MSI SPATIUM M480 PCIe 4.0 NVMe M.2 (Heatsink版本) 2TB",
+        "rating": "10",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,799",
+        "容量:": "2000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "SABRENT 2TB ROCKET NVMe PCIe M.2 2280 Internal SSD Solid State Drive (SB-ROCKET-2TB)",
+        "rating": "",
+        "hon_price_min": "1,349",
+        "hon_price_max": "2,490",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3400MB/s",
+        "順序寫入速度:": "2700MB/s"
+    },
+    {
+        "names": "OWC 4TB Mercury Extreme Pro 6G NVMe SSD Drive Only",
+        "rating": "",
+        "hon_price_min": "6,930",
+        "hon_price_max": "6,940",
+        "容量:": "4000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Crucial BX500 960GB 3D NAND SATA 2.5-inch SSD",
+        "rating": "4.0",
+        "hon_price_min": "430",
+        "hon_price_max": "980",
+        "容量:": "960GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Team Group 2.5\" 1TB SATA III 3D NAND Internal SSD (HD-L53D1TB)",
+        "rating": "10",
+        "hon_price_min": "520",
+        "hon_price_max": "850",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Samsung 三星 SSD 970 PRO 1TB (MZ-V7P1T0BW)",
+        "rating": "",
+        "hon_price_min": "2,168",
+        "hon_price_max": "2,599",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "MLC"
+    },
+    {
+        "names": "HP M.2 EX920 1TB NVMe",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "980",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Team Group 1TB 2.5\" EX2 SSD",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "750",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 480GB SATA 6G MU SFF SC DS SSD",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "9,148",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Synology 2.5” SATA SSD SAT5200-480G",
+        "rating": "",
+        "hon_price_min": "1,489",
+        "hon_price_max": "1,600",
+        "容量:": "480GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP SSD S700 2.5\" 250GB",
+        "rating": "10",
+        "hon_price_min": "240",
+        "hon_price_max": "249",
+        "容量:": "250GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "PNY CS1031 M.2 2280 NVME GEN3 SSD 512GB",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "499",
+        "容量:": "512GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "AITC Kingsman Gaming SK150 2.5-inch SSD 512GB (AISK150S512250)",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "270",
+        "容量:": "512GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "Kingston SKC600/1TB 2.5吋SATA SSD",
+        "rating": "",
+        "hon_price_min": "948",
+        "hon_price_max": "1,030",
+        "water_price_min": "978",
+        "water_price_max": "978",
+        "容量:": "1000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston SSDNow A400 960GB SATA-3 SSD /2.5\"/ 7mm SSD (SA400S37/960G)",
+        "rating": "10",
+        "hon_price_min": "490",
+        "hon_price_max": "740",
+        "water_price_min": "530",
+        "water_price_max": "530",
+        "容量:": "960GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "OWC 500GB Mercury Electra 6G NVMe SSD Upgrade Solution",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "容量:": "500GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 2.5\" 1TB SATA III 3D TLC Internal SSD S700",
+        "rating": "",
+        "hon_price_min": "745",
+        "hon_price_max": "745",
+        "容量:": "1000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Western Digital Blue SA510 SATA SSD 2.5-inch/7mm 500GB (WDS500G3B0A)",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "442",
+        "容量:": "500GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "510MB/s"
+    },
+    {
+        "names": "MSI SPATIUM M450 PCIe 4.0 NVMe M.2 SSD 500GB",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "399",
+        "容量:": "500GB",
+        "順序讀取速度:": "3600MB/s",
+        "順序寫入速度:": "2300MB/s"
+    },
+    {
+        "names": "HPE 400GB SATA 6G WI LFF SCC DS SSD",
+        "rating": "",
+        "hon_price_min": "9,100",
+        "hon_price_max": "9,148",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD_BLACK SN750 SE NVMe SSD Battlefield 2042 PC Game Code Bundle 500GB (WDBB9J5000ANC)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "700",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "容量:": "500GB",
+        "順序讀取速度:": "3600MB/s",
+        "順序寫入速度:": "2000MB/s"
+    },
+    {
+        "names": "Silicon Power P34A60 M.2 PCIe Gen 3 SSD 512GB",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "389",
+        "容量:": "512GB",
+        "順序讀取速度:": "2200MB/s",
+        "順序寫入速度:": "1600MB/s"
+    },
+    {
+        "names": "Solidigm 670p Series PCIe 3.0 NVMe SSD 512GB",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "容量:": "512GB",
+        "順序讀取速度:": "3000MB/s",
+        "順序寫入速度:": "1600MB/s"
+    },
+    {
+        "names": "Seagate FireCuda 520 1TB M.2 NVMe Gen4 SSD",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Western Digital Blue M.2 SN550 250GB SSD WDS250G2B0C",
+        "rating": "",
+        "hon_price_min": "286",
+        "hon_price_max": "360",
+        "容量:": "250GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Transcend M.2 220S 512GB NVME SSD TS512GMTE220S",
+        "rating": "9.0",
+        "hon_price_min": "349",
+        "hon_price_max": "429",
+        "容量:": "512GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Silicon Power M.2 2280 A55 SSD 256GB",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "容量:": "256GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Gigabyte AORUS NVMe Gen4 SSD 500GB",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "1,050",
+        "容量:": "500GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Samsung 三星 M.2 970 EVO Plus 250GB 2280 NVMe SSD",
+        "rating": "",
+        "hon_price_min": "356",
+        "hon_price_max": "508",
+        "容量:": "250GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Lexar NS200 2.5” SATA III (6Gb/s) 固態硬碟SSD 【960GB】",
+        "rating": "",
+        "hon_price_min": "868",
+        "hon_price_max": "868",
+        "容量:": "960GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Kingston KC600 mSATA SSD 512GB (SKC600MS/512G)",
+        "rating": "",
+        "hon_price_min": "575",
+        "hon_price_max": "588",
+        "容量:": "512GB",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "HPE 800GB SATA 6G WI LFF SCC DS SSD",
+        "rating": "",
+        "hon_price_min": "16,960",
+        "hon_price_max": "19,640",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Red NAS SA500 2.5\" 1TB SATA3 SSD WDS100T1R0A",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,520",
+        "water_price_min": "1,268",
+        "water_price_max": "1,268",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Netac NV5000 M.2 2280 PCIe GEN4x4 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "850",
+        "容量:": "1000GB",
+        "順序讀取速度:": "4800MB/s",
+        "順序寫入速度:": "4600MB/s"
+    },
+    {
+        "names": "ADATA Premier SP580 SSD 240GB (ASP580SS-240GM)",
+        "rating": "",
+        "hon_price_min": "345",
+        "hon_price_max": "345",
+        "容量:": "240GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "ADATA SU800 256GB",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "320",
+        "容量:": "240GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston FURY Renegade 4TB PCIe 4.0 NVMe M.2 連散熱片 (SFYRDK/4000G)",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,980",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7300MB/s",
+        "順序寫入速度:": "7000MB/s"
+    },
+    {
+        "names": "Acer 2.5\" SA100 480GB SSD SA100-480GB",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "390",
+        "容量:": "480GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "500MB/s"
+    },
+    {
+        "names": "OWC 250GB Mercury Electra 6G NVMe SSD Upgrade Solution",
+        "rating": "",
+        "hon_price_min": "1,001",
+        "hon_price_max": "1,001",
+        "容量:": "250GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "ADATA XPG SX8100 PCIe Gen3x4 M.2 2280 2TB 固態硬碟 ASX8100NP-2TT-C",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,920",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Western Digital WD_BLACK AN1500 NVMe SSD (WDS400T1X0L)",
+        "rating": "",
+        "hon_price_min": "5,659",
+        "hon_price_max": "6,550",
+        "容量:": "4000GB",
+        "順序讀取速度:": "6500MB/s",
+        "順序寫入速度:": "4100MB/s"
+    },
+    {
+        "names": "Western Digital Red NAS SA500 M.2 1TB SSD WDS100T1R0B",
+        "rating": "",
+        "hon_price_min": "1,389",
+        "hon_price_max": "1,390",
+        "容量:": "1000GB",
+        "介面:": "M.2 SATA"
+    },
+    {
+        "names": "MSI M480 PCIe 4.0 NVMe M.2 SSD 1TB",
+        "rating": "10",
+        "hon_price_min": "679",
+        "hon_price_max": "1,999",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "6850MB/s"
+    },
+    {
+        "names": "Sonnet Internal SATA Connections Tempo SSD",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "900",
+        "介面:": "PCIe"
+    },
+    {
+        "names": "HPE 480GB SATA 6G MU LFF SCC DS SSD",
+        "rating": "",
+        "hon_price_min": "9,190",
+        "hon_price_max": "9,190"
+    },
+    {
+        "names": "Lexar NS200 2.5” SATA III (6Gb/s) 固態硬碟SSD 【480GB】",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "容量:": "480GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "ADATA XPG Spectrix S40G RGB 2TB",
+        "rating": "8.0",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,840",
+        "容量:": "2000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Colorful SL500 240GB",
+        "rating": "10",
+        "hon_price_min": "130",
+        "hon_price_max": "188",
+        "容量:": "240GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Atomos 500GB Nextorage AtomX SSDmini (NPS-AS500)",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "2,000",
+        "容量:": "500GB",
+        "介面:": "SATA III"
+    },
+    {
+        "names": "Apacer Panther AS340 480GB",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "容量:": "480GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Colorful PCIE 3.0 NVMe M.2 CN600 戰戟 512GB",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "395",
+        "容量:": "512GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "2600MB/s"
+    },
+    {
+        "names": "Samsung 三星 970 EVO 500GB",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "736",
+        "容量:": "500GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "PNY XLR8 CS3030 M.2 2280 NVMe Gen3x4 SSD 2TB 固態硬碟 (M280CS3030-2TB-RB)",
+        "rating": "",
+        "hon_price_min": "1,430",
+        "hon_price_max": "1,699",
+        "容量:": "2000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "Acer M.2 FA100 1TB NVMe SSD Drive",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "880",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3300MB/s",
+        "順序寫入速度:": "2700MB/s"
+    },
+    {
+        "names": "Apacer 960GB SATA III SSD AS340X",
+        "rating": "",
+        "hon_price_min": "767",
+        "hon_price_max": "767",
+        "容量:": "960GB",
+        "順序讀取速度:": "550MB/s",
+        "順序寫入速度:": "520MB/s"
+    },
+    {
+        "names": "OWC 240GB Mercury Extreme Pro 6G NVMe SSD Upgrade Solution",
+        "rating": "",
+        "hon_price_min": "1,129",
+        "hon_price_max": "1,129",
+        "容量:": "240GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Corsair MP600 PRO XT Hydro X Edition 4TB Gen4 PCIe x4 M.2 NVMe SSD",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "5,180",
+        "容量:": "4000GB",
+        "順序讀取速度:": "7100MB/s",
+        "順序寫入速度:": "6800MB/s"
+    },
+    {
+        "names": "Orico 1TB 2.5\" SATA3.0 SSD H100",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "870",
+        "容量:": "1000GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston 512GB KC3000 PCIe 4.0 NVMe M.2 SSD (SKC3000S/512G)",
+        "rating": "",
+        "hon_price_min": "539",
+        "hon_price_max": "860",
+        "water_price_min": "555",
+        "water_price_max": "555",
+        "容量:": "512GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "3900MB/s"
+    },
+    {
+        "names": "Silicon Power P34A60 M.2 PCIe Gen 3 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "容量:": "1000GB",
+        "順序讀取速度:": "2200MB/s",
+        "順序寫入速度:": "1600MB/s"
+    },
+    {
+        "names": "Western Digital Blue WDS500G1B0B 500GB (停產)",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "485",
+        "容量:": "500GB",
+        "介面:": "M.2 SATA"
+    },
+    {
+        "names": "Kingston NV2 PCIe 4.0 NVMe SSD 250GB (SNV2S/250G)",
+        "rating": "",
+        "hon_price_min": "215",
+        "hon_price_max": "270",
+        "容量:": "250GB",
+        "順序讀取速度:": "3000MB/s",
+        "順序寫入速度:": "1300MB/s"
+    },
+    {
+        "names": "Gigabyte M30 SSD 1TB",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "容量:": "1000GB",
+        "順序讀取速度:": "3500MB/s",
+        "順序寫入速度:": "3000MB/s"
+    },
+    {
+        "names": "OWC 4TB Mercury Extreme Pro 6G NVMe SSD Upgrade Solution",
+        "rating": "",
+        "hon_price_min": "7,278",
+        "hon_price_max": "7,290",
+        "容量:": "4000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "BIOSTAR M700 series 1TB SSD",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Lexar NM610 PCle G3x4 M.2 2280 NVMe SSD 500GB",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "419",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "SABRENT 500GB Rocket Nvme PCIe 4.0 M.2 2280 Internal SSD Solid State Drive (SB-ROCKET-NVMe4-500)",
+        "rating": "",
+        "hon_price_min": "529",
+        "hon_price_max": "810",
+        "容量:": "500GB",
+        "順序讀取速度:": "5000MB/s",
+        "順序寫入速度:": "2500MB/s"
+    },
+    {
+        "names": "Silicon Power M.2 2280 A55 SSD 1TB",
+        "rating": "10",
+        "hon_price_min": "668",
+        "hon_price_max": "798",
+        "容量:": "1000GB",
+        "順序讀取速度:": "560MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "ADATA M.2 SWORDFISH-500G-C 500GB NVMe",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "450",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Corsair Force Series MP510 240GB M.2 SSD",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "450",
+        "容量:": "240GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "HPE 1.92TB SATA 6G MU SFF SC DS SSD",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "33,497",
+        "介面:": "SATA"
+    },
+    {
+        "names": "ADATA 256GB XPG GAMMIX S11 Lite PCIe Gen3x4 M.2 2280 SSD",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "469",
+        "容量:": "256GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Western Digital Green M.2 WDS480G2G0B 480GB",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "475",
+        "容量:": "480GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "MSI SPATIUM M480 PCIe 4.0 NVMe M.2 PLAY 1TB",
+        "rating": "",
+        "hon_price_min": "779",
+        "hon_price_max": "1,350",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5500MB/s"
+    },
+    {
+        "names": "BIOSTAR M700 series 256GB SSD",
+        "rating": "10",
+        "hon_price_min": "329",
+        "hon_price_max": "329",
+        "容量:": "256GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "SanDisk Extreme PRO M.2 NVME 3D SSD 1TB",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "1,420",
+        "water_price_min": "1,015",
+        "water_price_max": "1,015",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "KMD PM971 M2 PCIe 128GB SSD",
+        "rating": "8.0",
+        "hon_price_min": "180",
+        "hon_price_max": "188",
+        "容量:": "128GB"
+    },
+    {
+        "names": "SanDisk SSD PLUS 960GB (SDSSDA-960G-G26)",
+        "rating": "",
+        "hon_price_min": "708",
+        "hon_price_max": "708",
+        "water_price_min": "708",
+        "water_price_max": "708",
+        "容量:": "960GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP S700 2.5\" 500GB",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "470",
+        "容量:": "500GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Team Group T-create Classic SATA SSD 1TB",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "729",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "MSI SPATIUM M480 PCIe 4.0 NVMe M.2 (Heatsink版本) 1TB",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "999",
+        "容量:": "1000GB",
+        "順序讀取速度:": "7000MB/s",
+        "順序寫入速度:": "5500MB/s"
+    },
+    {
+        "names": "SanDisk SSD PLUS 120GB",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "water_price_min": "158",
+        "water_price_max": "158",
+        "容量:": "120GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "ADATA Ultimate SU650 960GB",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "1,198",
+        "容量:": "960GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Kingston 128GB M.2 2280 SSD OM8PDP3128B-A01",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "water_price_min": "99",
+        "water_price_max": "100",
+        "容量:": "128GB",
+        "順序讀取速度:": "2200MB/s",
+        "順序寫入速度:": "530MB/s"
+    },
+    {
+        "names": "Western Digital 500GB Black M.2 SN750 WDS500G3XHC 連散熱片",
+        "rating": "",
+        "hon_price_min": "669",
+        "hon_price_max": "699",
+        "容量:": "500GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Kingston mSATA UV500 Series SUV500MS/480G 480GB",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "650",
+        "容量:": "480GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "HPE 1.92TB SATA 6G RI SFF SC DS SSD",
+        "rating": "",
+        "hon_price_min": "9,900",
+        "hon_price_max": "29,364",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Team Group T-Force Vulcan SSD 1TB",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "870",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Z SPEED Z3 ADV 960GB SSD Black",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "容量:": "960GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "OWC Aura Pro X2 480GB SSD (OWCS3DAPT4MB05K)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,380",
+        "容量:": "480GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Verbatim 1TB Vi3000 NVMe M.2 Internal SSD",
+        "rating": "7.3",
+        "hon_price_min": "545",
+        "hon_price_max": "799",
+        "容量:": "1000GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "OWC Aura Pro X2 1.0TB NVMe SSD Upgrade Solution (OWCS3DAPT4MB10K)",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,880",
+        "容量:": "1000GB",
+        "記憶體晶片技術:": "TLC"
+    },
+    {
+        "names": "Samsung 三星 PM981 512GB MZ-VLB5120",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "容量:": "512GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Western Digital M.2 Blue WDS250G2B0B 250GB",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "388",
+        "water_price_min": "440",
+        "water_price_max": "440",
+        "容量:": "250GB",
+        "介面:": "M.2 SATA"
+    },
+    {
+        "names": "Kingston A1000 SSD SA1000M8/240G",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "355",
+        "容量:": "240GB",
+        "介面:": "M.2 NVMe"
+    },
+    {
+        "names": "Samsung 三星 860 QVO SATA 2.5 inch SSD 1TB (MZ-76Q1T0)",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "889",
+        "容量:": "1000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Samsung 三星 SSD 860 QVO 2.5” SATA III 2TB",
+        "rating": "",
+        "hon_price_min": "1,358",
+        "hon_price_max": "1,653",
+        "容量:": "2000GB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Black M.2 SN750 SE 500GB (WDS500G1B0E)",
+        "rating": "10",
+        "hon_price_min": "345",
+        "hon_price_max": "499",
+        "water_price_min": "345",
+        "water_price_max": "345",
+        "容量:": "500GB",
+        "順序讀取速度:": "3600MB/s",
+        "順序寫入速度:": "2000MB/s"
+    },
+    {
+        "names": "HPE 400GB NVMe x4 MU SFF Scn DS SSD",
+        "rating": "",
+        "hon_price_min": "8,500",
+        "hon_price_max": "11,879",
+        "介面:": "NVMe"
+    },
+    {
+        "names": "Orico 512GB 2.5\" SATA3.0 SSD H100",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "容量:": "512GB",
+        "介面:": "SATA",
+        "記憶體晶片技術:": "TLC"
+    }
+]

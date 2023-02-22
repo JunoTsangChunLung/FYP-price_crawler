@@ -1,0 +1,3934 @@
+[
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4080 16GB GDDR6X OC Edition",
+        "rating": "3.3",
+        "hon_price_min": "10,800",
+        "hon_price_max": "14,880",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "OC mode: 2655 MHz, Default mode: 2625 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 4090 GAMING X TRIO 24G",
+        "rating": "8.0",
+        "hon_price_min": "13,979",
+        "hon_price_max": "15,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2610 MHz (MSI Center); Boost: 2595 MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI GeForce RTX 4070 Ti GAMING X TRIO 12G",
+        "rating": "",
+        "hon_price_min": "7,330",
+        "hon_price_max": "8,099",
+        "GPU:": "RTX 4070 Ti",
+        "輸入/輸出:": "DisplayPort x 3, HDMI x 1",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2760 MHz (MSI Center); Boost: 2745 MHz (GAMING & SILENT Mode)"
+    },
+    {
+        "names": "MSI GeForce RTX 4070 Ti VENTUS 3X 12G OC",
+        "rating": "10",
+        "hon_price_min": "6,960",
+        "hon_price_max": "7,599",
+        "GPU:": "RTX 4070 Ti",
+        "輸入/輸出:": "DisplayPort x 3, HDMI x 1",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2655 MHz (MSI Center); Boost: 2640 MHz"
+    },
+    {
+        "names": "MSI RTX 4090 GAMING X TRIO CLASSIC 24G",
+        "rating": "",
+        "hon_price_min": "13,899",
+        "hon_price_max": "14,599",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2610MHz (MSI Center) / Boost: 2595MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4090 WINDFORCE 24G",
+        "rating": "",
+        "hon_price_min": "13,650",
+        "hon_price_max": "14,500",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "2520MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX­­ 4070 Ti GAMING OC 12G",
+        "rating": "",
+        "hon_price_min": "6,799",
+        "hon_price_max": "7,299",
+        "water_price_min": "6,780",
+        "water_price_max": "6,780",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "2640MHz (Reference card : 2610MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 4080 16GB VENTUS 3X OC",
+        "rating": "",
+        "hon_price_min": "10,080",
+        "hon_price_max": "10,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2550 MHz (MSI Center), Boost: 2535 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4070 Ti X3 OC",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2640; Base Clock(MHz): 2310",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "MSI GeForce RTX 4090 SUPRIM 24G",
+        "rating": "6.0",
+        "hon_price_min": "15,899",
+        "hon_price_max": "39,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2640 MHz (MSI Center); Boost: 2625 MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4080 16GB Trinity",
+        "rating": "",
+        "hon_price_min": "8,600",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost: 2505 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4070 Ti Trinity",
+        "rating": "",
+        "hon_price_min": "6,499",
+        "hon_price_max": "6,499",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 2610MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4080 16GB SG 1-Click OC",
+        "rating": "2.0",
+        "hon_price_min": "9,449",
+        "hon_price_max": "10,990",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost Clock: 2565MHz, 1-Click OC Clock: 2580MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3060 Ti V2 OC Edition DUAL-RTX3060Ti-O8G-V2",
+        "rating": "",
+        "hon_price_min": "3,340",
+        "hon_price_max": "4,980",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode - 1740MHz (Boost Clock) / Gaming Mode - 1710MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4090 AMP Extreme AIRO",
+        "rating": "9.0",
+        "hon_price_min": "13,480",
+        "hon_price_max": "14,900",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost: 2580 MHz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 4070 Ti 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "7,260",
+        "hon_price_max": "7,399",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 2640 MHz; Default mode: 2610 MHz (Boost clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte Radeon RX 7900 XTX GAMING OC 24G (GV-R79XTXGAMING OC-24GD)",
+        "rating": "",
+        "hon_price_min": "8,380",
+        "hon_price_max": "8,980",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "Boost Clock : up to 2525MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3060 Ti White OC Edition 8GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,499",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC mode : 1710 MHz (Boost Clock), Default mode : 1680 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX3070 Ventus 3X PLUS 8GB OC LHR",
+        "rating": "10",
+        "hon_price_min": "4,050",
+        "hon_price_max": "4,130",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "1755 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 2X 8GD6X OC",
+        "rating": "",
+        "hon_price_min": "3,388",
+        "hon_price_max": "4,890",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1695MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4080 16GB AMP Extreme AIRO",
+        "rating": "",
+        "hon_price_min": "8,950",
+        "hon_price_max": "10,900",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost: 2565 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3070 (1-Click OC) 37NSL6MD2KOC",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "4,399",
+        "GPU:": "RTX 3070 LHR",
+        "時脈 (RAM/GPU):": "Boost Clock : 1725MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4080 16GB ST 1-Click OC",
+        "rating": "",
+        "hon_price_min": "9,490",
+        "hon_price_max": "10,880",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost Clock: 2505MHz, 1-Click OC Clock: 2520MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 4070 Ti 12GB GDDR6X OC Edition",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,599",
+        "water_price_min": "7,399",
+        "water_price_max": "7,399",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 2760MHz; Default mode: 2730MHz (Boost clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3050 8GB",
+        "rating": "10",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,899",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "OC mode : 1807 MHz (Boost Clock)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "PowerColor Red Devil AMD Radeon RX 7900 XTX 24GB GDDR6 Limited Edition",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "9,580",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "2565MHz",
+        "最低電源要求:": "900W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4080 16GB ICHILL X3",
+        "rating": "8.0",
+        "hon_price_min": "9,460",
+        "hon_price_max": "10,099",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2565, Base Clock(MHz): 2205",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4070 Ti Trinity OC",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "6,599",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 2625MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 4080 16GB VENTUS 3X OC",
+        "rating": "",
+        "hon_price_min": "10,080",
+        "hon_price_max": "10,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2550 MHz (MSI Center), Boost: 2535 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 4090 24GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "15,299",
+        "hon_price_max": "16,299",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "2520 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4090 Trinity",
+        "rating": "6.0",
+        "hon_price_min": "12,700",
+        "hon_price_max": "13,699",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost: 2520 MHz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "MSI GeForce RTX 3070 Ti GAMING X TRIO 8G",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "8,999",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1830 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4070 Ti SG 1-Click OC",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 2670MHz",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4070 Ti EAGLE 12G",
+        "rating": "",
+        "hon_price_min": "6,499",
+        "hon_price_max": "6,799",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "2625MHz (Reference card : 2610MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4090 X3 OC",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "14,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock: 2550MHz; Base Clock: 2235MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4090 24GB GDDR6X",
+        "rating": "4.7",
+        "hon_price_min": "16,999",
+        "hon_price_max": "39,999",
+        "water_price_min": "16,999",
+        "water_price_max": "16,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "OC mode: 2550 MHz; Gaming mode: 2520 MHz (Boost Clock)",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "MSI RTX 4090 SUPRIM X CLASSIC 24G",
+        "rating": "",
+        "hon_price_min": "15,900",
+        "hon_price_max": "16,580",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost: 2625MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3080 V2 OC Edition 10GB GDDR6X (ROG-STRIX-RTX3080-O10G-V2-GAMING)",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "6,650",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "1935 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 4070 Ti Ultra W OC-V",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "7,199",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Base:2310Mhz; Boost:2610Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 4080 16GB GAMING X TRIO",
+        "rating": "2.0",
+        "hon_price_min": "11,080",
+        "hon_price_max": "11,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2610 MHz (MSI Center), Boost: 2595 MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3050 8GB",
+        "rating": "",
+        "hon_price_min": "2,779",
+        "hon_price_max": "3,580",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "OC mode : 1807 MHz (Boost Clock)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4070 Ti 12GB GDDR6X OC Edition",
+        "rating": "4.0",
+        "hon_price_min": "8,230",
+        "hon_price_max": "8,999",
+        "water_price_min": "8,300",
+        "water_price_max": "8,300",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 2790 MHz; Default mode: 2760 MHz (Boost clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4080 16GB GDDR6X OC Edition",
+        "rating": "3.3",
+        "hon_price_min": "10,800",
+        "hon_price_max": "14,880",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "OC mode: 2655 MHz, Default mode: 2625 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI Radeon RX 6700 XT 12G",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "6,999",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2581 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 VENTUS 3X PLUS 12G OC LHR",
+        "rating": "",
+        "hon_price_min": "6,250",
+        "hon_price_max": "10,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost: 1740MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4090 ICHILL X3",
+        "rating": "",
+        "hon_price_min": "13,330",
+        "hon_price_max": "14,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock: 2580MHz, Base Clock: 2235MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3080 V2 OC Edition 10GB GDDR6X (ROG-STRIX-RTX3080-O10G-V2-GAMING)",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "6,650",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "1935 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 4070 Ti Ultra W OC-V",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "7,199",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Base:2310Mhz; Boost:2610Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 4080 16GB GAMING X TRIO",
+        "rating": "2.0",
+        "hon_price_min": "11,080",
+        "hon_price_max": "11,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2610 MHz (MSI Center), Boost: 2595 MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X",
+        "rating": "6.0",
+        "hon_price_min": "15,480",
+        "hon_price_max": "17,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "OC mode: 2595 MHz; Default mode: 2565 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3050 8GB",
+        "rating": "",
+        "hon_price_min": "2,779",
+        "hon_price_max": "3,580",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "OC mode : 1807 MHz (Boost Clock)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "MSI Radeon RX 6700 XT 12G",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "6,999",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2581 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce RTX 3070 Ti SUPRIM X 8G",
+        "rating": "",
+        "hon_price_min": "5,280",
+        "hon_price_max": "9,499",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "EXTREME Mode: 1875 MHz (MSI Center) ; GAMING Mode & SILENT Mode: 1860 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3060 Ti OC 8GB GDDR6 (停產)",
+        "rating": "8.0",
+        "hon_price_min": "3,590",
+        "hon_price_max": "5,299",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode - 1785 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4080 16GB GDDR6X",
+        "rating": "2.0",
+        "hon_price_min": "10,550",
+        "hon_price_max": "12,300",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "OC mode: 2535 MHz, Default mode: 2505 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 VENTUS 3X PLUS 12G OC LHR",
+        "rating": "",
+        "hon_price_min": "6,250",
+        "hon_price_max": "10,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost: 1740MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4070 Ti X3",
+        "rating": "10",
+        "hon_price_min": "6,460",
+        "hon_price_max": "6,799",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2610; Base Clock(MHz): 2310",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4090 GAMING OC 24G",
+        "rating": "",
+        "hon_price_min": "14,300",
+        "hon_price_max": "14,990",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "2535 MHz (Reference Card: 2520 MHz)",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4080 16GB GDDR6X White OC Edition",
+        "rating": "",
+        "hon_price_min": "12,900",
+        "hon_price_max": "12,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "OC mode: 2655 MHz, Default mode: 2625 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Colorful GeForce RTX 4090 NB EX-V",
+        "rating": "",
+        "hon_price_min": "12,999",
+        "hon_price_max": "13,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Base:2235Mhz; Boost:2565Mhz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "Colorful GeForce RTX 4070 Ti NB EX-V",
+        "rating": "",
+        "hon_price_min": "6,780",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Base:2310Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4070 Ti ICHILL X3",
+        "rating": "",
+        "hon_price_min": "7,060",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2670; Base Clock(MHz): 2310",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4070 Ti SG White 1-Click OC",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 2670MHz",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 4070 Ti Neptune OC",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "8,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Base:2310Mhz; Boost:2610Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Galax GeForce RTX 3080 SG (1-Click OC)",
+        "rating": "8.0",
+        "hon_price_min": "5,480",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1710",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3060 (1-Click OC)",
+        "rating": "9.3",
+        "hon_price_min": "2,470",
+        "hon_price_max": "4,950",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost Clock: 1777 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 Ti 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "8,400",
+        "hon_price_max": "11,989",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "CUDA Core 10240 , OC mode : 1785 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4070 Ti 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "8,050",
+        "hon_price_max": "8,599",
+        "water_price_min": "8,070",
+        "water_price_max": "8,070",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 2640 MHz; Default mode: 2610 MHz (Boost clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4070 Ti AMP Extreme AIRO",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "7,199",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 2700MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming Radeon RX 7900 XTX OC Edition 24GB GDDR6",
+        "rating": "",
+        "hon_price_min": "9,290",
+        "hon_price_max": "9,499",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "OC mode : up to 2615 MHz (Boost Clock)/up to 2455 MHz (Game Clock); Default mode : up to 2565 MHz (Boost Clock)/up to 2395 MHz (Game Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4070 Ti AERO OC 12G",
+        "rating": "",
+        "hon_price_min": "7,499",
+        "hon_price_max": "7,499",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "2640MHz (Reference card : 2610MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 3X 8GD6X OC",
+        "rating": "",
+        "hon_price_min": "3,450",
+        "hon_price_max": "4,028",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1695MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3080 12GB GDDR6X OC EVA Edition",
+        "rating": "",
+        "hon_price_min": "7,699",
+        "hon_price_max": "10,500",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC mode: 1890 MHz(Boost Clock); Gaming mode: 1860 MHz(Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4090 AMP Extreme AIRO",
+        "rating": "9.0",
+        "hon_price_min": "13,480",
+        "hon_price_max": "14,900",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost: 2580 MHz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 OC Edition 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "6,299",
+        "hon_price_max": "6,580",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC mode : 1815 MHz (Boost Clock); Gaming mode : 1785 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 2X OC",
+        "rating": "3.5",
+        "hon_price_min": "3,220",
+        "hon_price_max": "4,390",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1695 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "MSI GeForce RTX 3070 VENTUS 3X",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,770",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "1725 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3080 12GB SG (1-Click OC) LHR",
+        "rating": "10",
+        "hon_price_min": "5,580",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost Clock: 1740MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 Ti 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "8,400",
+        "hon_price_max": "11,989",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "CUDA Core 10240 , OC mode : 1785 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4090 X3 OC",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "14,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock: 2550MHz; Base Clock: 2235MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3050 8GB",
+        "rating": "10",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,899",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "OC mode : 1807 MHz (Boost Clock)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4070 Ti 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "8,050",
+        "hon_price_max": "8,599",
+        "water_price_min": "8,070",
+        "water_price_max": "8,070",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 2640 MHz; Default mode: 2610 MHz (Boost clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4070 Ti AMP Extreme AIRO",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "7,199",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 2700MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming Radeon RX 7900 XTX OC Edition 24GB GDDR6",
+        "rating": "",
+        "hon_price_min": "9,290",
+        "hon_price_max": "9,499",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "OC mode : up to 2615 MHz (Boost Clock)/up to 2455 MHz (Game Clock); Default mode : up to 2565 MHz (Boost Clock)/up to 2395 MHz (Game Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4070 Ti AERO OC 12G",
+        "rating": "",
+        "hon_price_min": "7,499",
+        "hon_price_max": "7,499",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "2640MHz (Reference card : 2610MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 3X 8GD6X OC",
+        "rating": "",
+        "hon_price_min": "3,450",
+        "hon_price_max": "4,028",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1695MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3080 12GB GDDR6X OC EVA Edition",
+        "rating": "",
+        "hon_price_min": "7,699",
+        "hon_price_max": "10,500",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC mode: 1890 MHz(Boost Clock); Gaming mode: 1860 MHz(Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 OC Edition 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "6,299",
+        "hon_price_max": "6,580",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC mode : 1815 MHz (Boost Clock); Gaming mode : 1785 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4070 Ti EX Gamer",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 2610MHz",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3090 24GB GDDR6X OC EVA Edition",
+        "rating": "",
+        "hon_price_min": "10,699",
+        "hon_price_max": "14,199",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "OC mode: 1890 MHz(Boost Clock); Gaming mode: 1860 MHz(Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 Ti GAMING OC 8G GV-N306TGAMING OC-8GD",
+        "rating": "10",
+        "hon_price_min": "3,580",
+        "hon_price_max": "4,990",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode - 1740 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "MSI GeForce RTX 3050 AERO ITX 8G OC",
+        "rating": "10",
+        "hon_price_min": "1,950",
+        "hon_price_max": "3,480",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost: 1807 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3050 EX (1-Click OC)",
+        "rating": "9.0",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,340",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "1822MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "Nvidia RTX A2000 6GB 顯示卡",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "4,980",
+        "water_price_min": "3,280",
+        "water_price_max": "3,280",
+        "GPU:": "RTX A2000",
+        "輸入/輸出:": "4 x DisplayPort 1.4"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4080 16GB AERO OC",
+        "rating": "",
+        "hon_price_min": "10,380",
+        "hon_price_max": "11,000",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "2535MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI GeForce RTX3080 SUPRIM X 10G",
+        "rating": "10",
+        "hon_price_min": "5,940",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost Clock: 1920 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Inno3D GeForce RTX2060 12GB GDDR6 TWIN X2 OC Display Card",
+        "rating": "",
+        "hon_price_min": "2,030",
+        "hon_price_max": "2,850",
+        "GPU:": "RTX 2060",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1665",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "ASUS ROG STRIX RTX3060Ti 8G GAMING",
+        "rating": "",
+        "hon_price_min": "3,650",
+        "hon_price_max": "4,180",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode - 1695MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3050 OC Edition 8GB",
+        "rating": "10",
+        "hon_price_min": "2,899",
+        "hon_price_max": "3,680",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "OC mode : 1890 MHz (Boost Clock)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "ASUS TUF Gaming Radeon RX 6950 XT OC Edition 16GB GDDR6 TUF-RX6950XT-O16G-GAMING",
+        "rating": "",
+        "hon_price_min": "10,980",
+        "hon_price_max": "11,800",
+        "GPU:": "RX 6950 XT",
+        "時脈 (RAM/GPU):": "Up to 2324 MHz (Boost Clock) / up to 2116 MHz (Game Clock)"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 V2 OC Edition TUF-RTX3080-O10G-V2-GAMING",
+        "rating": "",
+        "hon_price_min": "5,650",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC Mode - 1815 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Leadtek NVIDIA RTX A6000",
+        "rating": "",
+        "hon_price_min": "35,950",
+        "hon_price_max": "42,000",
+        "water_price_min": "31,980",
+        "water_price_max": "31,980",
+        "GPU:": "RTX A6000",
+        "記憶體:": "48GB GDDR6"
+    },
+    {
+        "names": "Colorful GeForce RTX 4080 16GB NB EX-V",
+        "rating": "",
+        "hon_price_min": "9,199",
+        "hon_price_max": "9,199",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Base:2205Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4070 Ti EX Gamer Pink",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 2610MHz",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 4090 Vulcan OC-V",
+        "rating": "10",
+        "hon_price_min": "15,499",
+        "hon_price_max": "15,499",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Base:2235Mhz; Boost:2520Mhz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 4090 MASTER 24G",
+        "rating": "10",
+        "hon_price_min": "15,300",
+        "hon_price_max": "16,000",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "2550 MHz (Reference Card: 2520 MHz)",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3080 VISION OC 10G",
+        "rating": "",
+        "hon_price_min": "7,780",
+        "hon_price_max": "16,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "1800 MHz (Reference Card: 1710 MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4080 16GB X3",
+        "rating": "",
+        "hon_price_min": "8,860",
+        "hon_price_max": "9,199",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2505, Base Clock(MHz): 2205",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3070 Ti Trinity OC (ZT-A30710J-10P)",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "6,700",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1800 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Sapphire NITRO+ AMD Radeon RX 6600 XT",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "4,599",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "Up to 2607 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Inno3D GEFORCE RTX 3060 Ti TWIN X2 LHR",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "4,500",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "1410",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4070 Ti EAGLE OC 12G",
+        "rating": "10",
+        "hon_price_min": "6,499",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "2625MHz (Reference card : 2610MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI Radeon RX 6650 XT MECH 2X 8G",
+        "rating": "10",
+        "hon_price_min": "2,680",
+        "hon_price_max": "3,499",
+        "GPU:": "RX 6650 XT",
+        "輸入/輸出:": "DisplayPort x 3, HDMI x 1",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "PowerColor Hellhound Radeon RX 7900 XTX 24GB GDDR6",
+        "rating": "10",
+        "hon_price_min": "8,780",
+        "hon_price_max": "9,199",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "OC : up to 2330MHz(Game); up to 2525MHz(Boost) / STD/Silent : up to 2270MHz(Game); up to 2500MHz(Boost)",
+        "最低電源要求:": "800W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3070 GAMING OC 8G GV-N3070GAMING OC-8GD",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "11,999",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "1‎815 MHz (Reference Card: 1725 MHz)",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Inno3D GEFORCE RTX 3050 TWIN X2 OC",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,299",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1822",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "MSI GeForce RTX 3070 GAMING X TRIO",
+        "rating": "10",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,880",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost: 1830 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4080 16GB X3 OC",
+        "rating": "6.0",
+        "hon_price_min": "9,080",
+        "hon_price_max": "9,199",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2535, Base Clock(MHz): 2205",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 4090 SUPRIM X 24G",
+        "rating": "",
+        "hon_price_min": "16,549",
+        "hon_price_max": "16,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost: 2625 MHz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 Ti VENTUS 3X 12G",
+        "rating": "",
+        "hon_price_min": "7,810",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1665MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3060 OC Edition 12GB GDDR6 (DUAL-RTX3060-O12G) (停產)",
+        "rating": "10",
+        "hon_price_min": "2,799",
+        "hon_price_max": "3,299",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "OC Mode - 1867MHz (Boost Clock), Gaming Mode - 1837MHz (Boost Clock)",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X",
+        "rating": "2.0",
+        "hon_price_min": "9,780",
+        "hon_price_max": "11,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "OC mode: 2535 MHz, Default mode: 2505 MHz(Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 Ti GAMING X TRIO 12G",
+        "rating": "10",
+        "hon_price_min": "8,130",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1770MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4080 16GB EAGLE OC",
+        "rating": "10",
+        "hon_price_min": "9,580",
+        "hon_price_max": "10,599",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "2520MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3070 O8G Gaming",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "11,800",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "OC Mode - 1845 MHz (Boost Clock), Gaming Mode - 1815 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 2X 8GD6X OC",
+        "rating": "",
+        "hon_price_min": "3,388",
+        "hon_price_max": "4,890",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1695MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3050 Twin Edge OC (ZT-A30500H-10M)",
+        "rating": "10",
+        "hon_price_min": "1,950",
+        "hon_price_max": "3,299",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost: 1807 MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 3060 Ti ELITE 8G",
+        "rating": "10",
+        "hon_price_min": "5,380",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "14000 MHz / 1785 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS Phoenix GeForce RTX 3060 12GB GDDR6",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "4,999",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "OC Mode - 1807MHz (Boost Clock) Gaming Mode - 1777MHz (Boost Clock)",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS GeForce GT 730 2GB GDDR5 短版顯示卡 DI-E730SM2 (GT730-SL-2GD5-BRK)",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "640",
+        "GPU:": "GT 730",
+        "時脈 (RAM/GPU):": "902 MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "MSI Radeon RX 6800 XT GAMING Z TRIO 16G",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "7,780",
+        "GPU:": "RX 6800 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2310 MHz / Game: Up to 2065 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "XFX Speedster MERC 310 AMD Radeon RX 7900 XTX Black Edition (RX-79XMERCB9)",
+        "rating": "",
+        "hon_price_min": "9,090",
+        "hon_price_max": "9,199",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "Base clock Up to: 1855 MHz , Game Clock Up To: 2455 MHz* Boost clock Up to: 2615 MHz**",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4080 16GB Trinity OC",
+        "rating": "10",
+        "hon_price_min": "8,900",
+        "hon_price_max": "10,599",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Boost: 2520 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS KO GeForce RTX 3070 V2 OC Edition 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,580",
+        "GPU:": "RTX 3070 LHR",
+        "時脈 (RAM/GPU):": "OC Mode - 1845 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GEFORCE RTX 3060 Ti TWIN X2 OC LHR",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,399",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "Boost Clock: 1680 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce RTX 4090 SUPRIM LIQUID 24G",
+        "rating": "8.0",
+        "hon_price_min": "16,949",
+        "hon_price_max": "39,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Extreme Performance: 2610 MHz (MSI Center); Boost: 2595 MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4080 16GB EAGLE",
+        "rating": "",
+        "hon_price_min": "9,580",
+        "hon_price_max": "10,799",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "2505MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3070 Ti EAGLE OC 8G GV-N307TEAGLE OC-8GD",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1800 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GUNNIR Intel Arc A770 Flux 8G OC K",
+        "rating": "",
+        "hon_price_min": "2,599",
+        "hon_price_max": "3,399",
+        "GPU:": "Intel Arc A770",
+        "輸入/輸出:": "DisplayPort x 3, HDMI x 1",
+        "時脈 (RAM/GPU):": "2400MHz"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3060 Ti OC Edition 8GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC mode : 1710 MHz (Boost Clock), Default mode : 1680 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS Phoenix GeForce RTX 3050 8GB",
+        "rating": "10",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,999",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "OC mode : 1807 MHz (Boost Clock)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 2060 EVO OC版 6GB GDDR6",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "4,499",
+        "GPU:": "RTX 2060",
+        "時脈 (RAM/GPU):": "OC Mode - GPU Boost Clock : 1785 MHz , GPU Base Clock : 1395 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "MSI GeForce RTX 3090 Ti GAMING X TRIO 24G",
+        "rating": "",
+        "hon_price_min": "10,990",
+        "hon_price_max": "10,999",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1920 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3070 Ti Trinity (ZT-A30710D-10P)",
+        "rating": "9.0",
+        "hon_price_min": "4,680",
+        "hon_price_max": "6,080",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1770 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF GAMING GeForce RTX 3090 TUF-RTX3090-O24G-GAMING",
+        "rating": "",
+        "hon_price_min": "8,750",
+        "hon_price_max": "23,999",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "Boost Clock: 1770 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3060 V2 OC Edition (TUF-RTX3060-O12G-V2-GAMING (LHR))",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "3,450",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost: Up to 1882 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3070 (1-Click OC) 37NSL6MD2KOC",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "4,399",
+        "GPU:": "RTX 3070 LHR",
+        "時脈 (RAM/GPU):": "Boost Clock : 1725MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3050 GAMING OC 8G",
+        "rating": "10",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,999",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "BOOST: 1822 MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "Sapphire NITRO+ AMD Radeon RX6700 XT, 12GB, AMD RDNA 2",
+        "rating": "",
+        "hon_price_min": "4,450",
+        "hon_price_max": "7,490",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: 2622 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "XFX AMD RADEON RX 7900 XT Gaming Graphics Card (RX-79TMBABF9)",
+        "rating": "",
+        "hon_price_min": "7,300",
+        "hon_price_max": "7,580",
+        "GPU:": "RX 7900 XT",
+        "時脈 (RAM/GPU):": "Base clock Up to: 1500 MHz Game Clock Up To: 2000 MHz* Boost clock Up to: 2400 MHz**",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti GAMING X TRIO",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "4,050",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1830 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3060 (1-Click OC)",
+        "rating": "9.3",
+        "hon_price_min": "2,470",
+        "hon_price_max": "4,950",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost Clock: 1777 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 3060 Ti Ultra W OC LHR-V",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "5,200",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost:1770MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Nvidia GeForce RTX 3090",
+        "rating": "2.0",
+        "hon_price_min": "12,900",
+        "hon_price_max": "12,900",
+        "water_price_min": "12,900",
+        "water_price_max": "12,900",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "1.40GHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4090 SG (1-Click OC Feature)",
+        "rating": "10",
+        "hon_price_min": "13,230",
+        "hon_price_max": "13,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock: 2580MHz; 1-Click OC Clock: 2595MHz (by installing Xtreme Tuner Plus Software and using 1-Click OC)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 6600 8GB GDDR6 (11310-01-20G)",
+        "rating": "10",
+        "hon_price_min": "1,800",
+        "hon_price_max": "4,399",
+        "GPU:": "RX 6600",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2491MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4090 iChill Black",
+        "rating": "",
+        "hon_price_min": "14,930",
+        "hon_price_max": "16,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2580; Base Clock(MHz): 2235",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI Radeon RX 6600 XT GAMING X 8G",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "4,880",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2607MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3050 AMP ZT-A30500F-10M",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,069",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost: 1830MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4090 HOF",
+        "rating": "",
+        "hon_price_min": "19,980",
+        "hon_price_max": "19,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock: 2595MHz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3070 O8G Gaming",
+        "rating": "2.0",
+        "hon_price_min": "4,580",
+        "hon_price_max": "8,399",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "OC Mode - 1935 MHz (Boost Clock) ; Gaming Mode - 1905 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3060 Ti OC 超頻版 8GB GDDR6 (停產)",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "5,499",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode - 1890  MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 6500 XT",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,600",
+        "GPU:": "RX 6500 XT",
+        "時脈 (RAM/GPU):": "Game Clock 2685 MHz",
+        "最低電源要求:": "400W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX3070 V2 潮競白 超頻版 8GB GDDR6 LHR (ROG-STRIX-RTX3070-O8G-WHITE-V2)",
+        "rating": "",
+        "hon_price_min": "5,299",
+        "hon_price_max": "6,189",
+        "GPU:": "RTX 3070 LHR",
+        "時脈 (RAM/GPU):": "OC Mode - 1935  MHz (Boost Clock) / Gaming Mode - 1905  MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 4090 24GB GDDR6X White OC Edition",
+        "rating": "",
+        "hon_price_min": "19,990",
+        "hon_price_max": "22,000",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "OC mode: 2640 MHz; Default mode: 2610 MHz (Boost Clock)",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "Sonnettech AMD Radeon 6800 XT 16GB Graphics Card (S-RX6800XT-16G)",
+        "rating": "",
+        "hon_price_min": "8,000",
+        "hon_price_max": "8,000",
+        "GPU:": "RX 6800 XT",
+        "時脈 (RAM/GPU):": "Engine Clock: Up to 2015 MHz / Boost Clock: Up to 2250 MHz",
+        "最低電源要求:": "360W"
+    },
+    {
+        "names": "ASUS Strix GeForce RTX 3070 Ti OC Edition (ROG-STRIX-RTX3070TI-O8G-GAMING)",
+        "rating": "",
+        "hon_price_min": "5,320",
+        "hon_price_max": "5,950",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "OC mode : 1875 MHz (Boost Clock) ; Gaming mode : 1845 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3070 VENTUS 2X",
+        "rating": "9.2",
+        "hon_price_min": "3,780",
+        "hon_price_max": "4,480",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "1725 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3090 (ROG-STRIX-RTX3090-O24G-GAMING)",
+        "rating": "10",
+        "hon_price_min": "9,650",
+        "hon_price_max": "23,990",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "Boost Clock: 1890 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "OCPC GeForce RTX 3070 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,550",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Base Clock: 1500MHz, Boost Clock 1725MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3060 Ti 8GB GDDR6 (停產)",
+        "rating": "8.0",
+        "hon_price_min": "3,320",
+        "hon_price_max": "3,799",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode - 1740 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI Radeon RX6700 XT MECH 2X 12G OC",
+        "rating": "8.0",
+        "hon_price_min": "2,880",
+        "hon_price_max": "6,999",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: 2620 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI Radeon RX 6650 XT GAMING X 8G",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,449",
+        "GPU:": "RX 6650 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2694 MHz / Game: Up to 2523 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 3070 TWIN X2 OC",
+        "rating": "",
+        "hon_price_min": "3,910",
+        "hon_price_max": "5,580",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 1740",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce RTX 3070 VENTUS 3X OC (LHR版本)",
+        "rating": "10",
+        "hon_price_min": "3,980",
+        "hon_price_max": "7,089",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "1755 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Galax GeForce RTX 3080 SG (1-Click OC)",
+        "rating": "8.0",
+        "hon_price_min": "5,480",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1710",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3070 Ti OC Edition",
+        "rating": "10",
+        "hon_price_min": "4,699",
+        "hon_price_max": "5,990",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "OC mode : 1815 MHz (Boost Clock) ; Gaming mode : 1785 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 3070 Ti MASTER 8G GV-N307TAORUS M-8GD",
+        "rating": "",
+        "hon_price_min": "4,899",
+        "hon_price_max": "5,580",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Bosst: 1875 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Inno3D GEFORCE RTX 3060 TWIN X2",
+        "rating": "2.0",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,820",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz):1777",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "XFX Speedster SWFT 210 AMD Radeon RX 6600 (RX-66XL8LFDQ)",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,950",
+        "GPU:": "RX 6600",
+        "時脈 (RAM/GPU):": "Base clock Up to: 1626 MHz, Game Clock Up To: 2044 MHz, Boost clock Up to: 2491MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 4080 16GB MASTER",
+        "rating": "",
+        "hon_price_min": "10,500",
+        "hon_price_max": "11,999",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "2550MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS ROG STRIX RTX 3060 Ti O8G GAMING (停產)",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "6,570",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode - 1890  MHz (Boost Clock) / Gaming Mode - 1860  MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 6400",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,499",
+        "GPU:": "RX 6400",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2321 MHz ; Game Clock: Up to 2039 MHz",
+        "最低電源要求:": "350W"
+    },
+    {
+        "names": "ASUS GT1030-SL-2G-BRK",
+        "rating": "",
+        "hon_price_min": "729",
+        "hon_price_max": "780",
+        "GPU:": "NVIDIA GeForce GT 1030",
+        "輸入/輸出:": "DVI-D / HDMI",
+        "時脈 (RAM/GPU):": "OC Mode - GPU Boost Clock : 1506 MHz , GPU Base Clock : 1266 MHz Gaming Mode (Default) - GPU Boost Clock : 1468 MHz , GPU Base Clock : 1228 MHz"
+    },
+    {
+        "names": "MSI GeForce RTX 3050 GAMING X 8G",
+        "rating": "4.0",
+        "hon_price_min": "2,589",
+        "hon_price_max": "3,750",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost: 1845 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "MSI GeForce RTX3080 GAMING Z TRIO",
+        "rating": "",
+        "hon_price_min": "5,740",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost: Up to 1830 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3090 (ROG-STRIX-RTX3090-O24G-WHITE)",
+        "rating": "",
+        "hon_price_min": "9,980",
+        "hon_price_max": "23,990",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "OC Mode - 1890 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Intel Arc A750 Graphics Limited Edition",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "2,999",
+        "GPU:": "Intel Arc A750",
+        "輸入/輸出:": "DisplayPort, HDMI",
+        "時脈 (RAM/GPU):": "2050MHz"
+    },
+    {
+        "names": "ASUS DUAL GeForce RTX 3060 Ti V2 MINI OC Edition DUAL-RTX3060Ti-O8G-MINI-V2",
+        "rating": "",
+        "hon_price_min": "3,320",
+        "hon_price_max": "6,270",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "OC Mode - 1710MHz (Boost Clock) / Gaming Mode - 1680MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3090 GAMING X TRIO 24G",
+        "rating": "6.0",
+        "hon_price_min": "8,680",
+        "hon_price_max": "19,999",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "Boost:1785 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 4070 Ti Vulcan OC",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Base:2310Mhz; Boost:2610Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce GTX 1630 VENTUS XS 4G OC",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,310",
+        "GPU:": "GTX 1630",
+        "時脈 (RAM/GPU):": "Boost:1815MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Leadtek NVIDIA RTX A4000",
+        "rating": "",
+        "hon_price_min": "7,380",
+        "hon_price_max": "9,880",
+        "water_price_min": "6,999",
+        "water_price_max": "6,999",
+        "GPU:": "RTX A4000",
+        "記憶體:": "16GB GDDR6"
+    },
+    {
+        "names": "Inno3D Geforce RTX 3070 Ti ICHILL X4",
+        "rating": "",
+        "hon_price_min": "4,840",
+        "hon_price_max": "7,399",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost: Up to 1830 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce GTX 1650 OC版 4GB GDDR6 (TUF-GTX1650-O4GD6-GAMING)",
+        "rating": "10",
+        "hon_price_min": "1,399",
+        "hon_price_max": "2,580",
+        "GPU:": "GTX 1650",
+        "輸入/輸出:": "HDMIx 1, DP x1, DVI x1",
+        "時脈 (RAM/GPU):": "Boost Clock : 1650 MHz"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3080 OC Edition 12GB ROG-STRIX-RTX3080-O12G-GAMING",
+        "rating": "10",
+        "hon_price_min": "6,980",
+        "hon_price_max": "8,799",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC mode : 1890 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3060 OC Edition 12GB GDDR6 (停產)",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "OC Mode - 1882 MHz (Boost Clock) ; Gaming Mode - 1852 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Intel Arc A770 16GB Limited Edition",
+        "rating": "",
+        "hon_price_min": "3,888",
+        "hon_price_max": "3,888",
+        "GPU:": "Intel Arc A770",
+        "輸入/輸出:": "DisplayPort, HDMI",
+        "時脈 (RAM/GPU):": "2100MHz"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 7900 XTX 24GB",
+        "rating": "",
+        "hon_price_min": "8,680",
+        "hon_price_max": "9,399",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2525MHz",
+        "最低電源要求:": "370W"
+    },
+    {
+        "names": "MSI GeForce RTX 3090 SUPRIM X 24G",
+        "rating": "10",
+        "hon_price_min": "8,980",
+        "hon_price_max": "19,999",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "Boost: Up to 1875 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3070 TUF-RTX3070-O8G-GAMING",
+        "rating": "",
+        "hon_price_min": "4,399",
+        "hon_price_max": "11,999",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost Clock / Up to 1845 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3090 Ti AMP Extreme Holo",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "14,500",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1890 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3050 (1-Click OC)",
+        "rating": "5.0",
+        "hon_price_min": "1,899",
+        "hon_price_max": "3,199",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1777",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "PowerColor Hellhound Radeon RX 7900 XT 20GB GDDR6",
+        "rating": "10",
+        "hon_price_min": "7,280",
+        "hon_price_max": "7,680",
+        "GPU:": "RX 7900 XT",
+        "時脈 (RAM/GPU):": "OC: up to 2130MHz(Game); up to 2130MHz(Game) up to 2500MHz(Boost) / STD/Silent : up to 2025MHz(Game); up to 2395MHz(Boost)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 6650 XT",
+        "rating": "10",
+        "hon_price_min": "2,780",
+        "hon_price_max": "3,499",
+        "GPU:": "RX 6650 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2635MHz ; Game Clock: Up to 2410 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Sapphire NITRO+ AMD Radeon RX 6750 XT",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "5,380",
+        "GPU:": "RX 6750 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2623 MHz ; Game Clock: Up to 2554 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce GTX1650 GAMING X 4G",
+        "rating": "6.0",
+        "hon_price_min": "1,430",
+        "hon_price_max": "2,200",
+        "GPU:": "GTX 1650",
+        "輸入/輸出:": "DisplayPort x 2 (v1.4) / HDMI 2.0b x 1",
+        "時脈 (RAM/GPU):": "Boost: 1860 MHz"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 GAMING Z TRIO 12G LHR",
+        "rating": "",
+        "hon_price_min": "6,760",
+        "hon_price_max": "6,980",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost: 1815 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 OC 12GB (TUF-RTX3080-O12G-GAMING)",
+        "rating": "",
+        "hon_price_min": "6,299",
+        "hon_price_max": "8,850",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC mode : 1740 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 10G",
+        "rating": "5.7",
+        "hon_price_min": "5,680",
+        "hon_price_max": "10,600",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC Mode - 1740 MHz (Boost Clock) / Gaming Mode - 1710 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 SUPRIM 10G",
+        "rating": "",
+        "hon_price_min": "5,970",
+        "hon_price_max": "5,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost: 1815 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI GeForce RTX 2060 VENTUS 12G OC",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "4,399",
+        "GPU:": "RTX 2060",
+        "時脈 (RAM/GPU):": "Boost: 1680 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "MSI GeForce GTX 1660 SUPER VENTUS XS OC",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,650",
+        "GPU:": "GTX 1660 SUPER",
+        "時脈 (RAM/GPU):": "Boost: 1815MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "Sapphire NITRO+ AMD Radeon RX 7900 XT Vapor-X 20GB",
+        "rating": "",
+        "hon_price_min": "7,780",
+        "hon_price_max": "8,999",
+        "GPU:": "RX 7900 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2560MHz",
+        "最低電源要求:": "368W"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 3090 Ti XTREME WATERFORCE 24G",
+        "rating": "",
+        "hon_price_min": "14,680",
+        "hon_price_max": "14,800",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "BOOST: 1935 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3070 Ti (ZT-A30710Q-10P)",
+        "rating": "",
+        "hon_price_min": "4,649",
+        "hon_price_max": "4,699",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1770 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D Geforce RTX3050 GAMING OC X2",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,650",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost Clock 1822MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3080 Ti SG (1-Click OC)",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "13,699",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1695MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3080 Ti Trinity OC (ZT-A30810J-10P)",
+        "rating": "",
+        "hon_price_min": "7,490",
+        "hon_price_max": "16,700",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1695MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce GTX 1630 OC Low Profile 4G GV-N1630OC-4GL",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,320",
+        "GPU:": "GTX 1630",
+        "時脈 (RAM/GPU):": "Boost: 1800MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Gigabyte GT 1030 Low Profile D4 2G GV-N1030D4-2GL",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "780",
+        "GPU:": "GT 1030",
+        "時脈 (RAM/GPU):": "Boost: 1417 MHz / Base: 1177 MHz in OC mode",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Gigabyte Radeon RX 6600 XT EAGLE 8G GV-R66XTEAGLE-8GD",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "4,270",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "Boost Clock* : up to 2589 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Inno3D GEFORCE RTX 3060 TWIN X2 OC",
+        "rating": "",
+        "hon_price_min": "2,720",
+        "hon_price_max": "3,480",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost Clock: 1792 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "MSI Radeon RX 6750 XT GAMING X TRIO 12G",
+        "rating": "10",
+        "hon_price_min": "3,499",
+        "hon_price_max": "5,580",
+        "GPU:": "RX 6750 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2623 MHz / Game: Up to 2554 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3070 V2 OC Edition 8GB GDDR6 DUAL-RTX3070-O8G-V2",
+        "rating": "",
+        "hon_price_min": "4,199",
+        "hon_price_max": "4,350",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "OC Mode - 1800 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3090 Ti 24GB GDDR6X (TUF-RTX3090TI-24G-GAMING)",
+        "rating": "",
+        "hon_price_min": "11,390",
+        "hon_price_max": "11,599",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 1890 MHz(Boost Clock) / Gaming mode: 1860 MHz(Boost Clock)",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "ASUS Dual Radeon RX 6600 XT OC Edition 8GB GDDR6 DUAL-RX6600XT-O8G",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "5,580",
+        "water_price_min": "3,699",
+        "water_price_max": "3,699",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "OC mode : up to 2607 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 VENTUS 3X 10G OC",
+        "rating": "2.0",
+        "hon_price_min": "5,530",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "輸入/輸出:": "DisplayPort x 3 (v1.4a); HDMI 2.1 x 1",
+        "時脈 (RAM/GPU):": "1740MHz Boost Clock"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce GTX 1660 Ti EVO TOP Edition 6GB TUF-GTX1660TI-T6G-EVO-GAMING",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "4,500",
+        "GPU:": "GTX 1660 Ti",
+        "時脈 (RAM/GPU):": "1845 MHz (OC mode)",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "ASUS KO GeForce RTX 3060 Ti OC 超頻版 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "6,280",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 1785 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3070 Twin Edge",
+        "rating": "6.0",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,690",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost: 1725 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3070 Ti (1-Click OC) 37ISM6MD4COC",
+        "rating": "10",
+        "hon_price_min": "3,950",
+        "hon_price_max": "4,999",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1770",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3080 EAGLE OC 10G",
+        "rating": "4.7",
+        "hon_price_min": "5,680",
+        "hon_price_max": "5,680",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "1755 MHz (Reference Card: 1710 MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 3070 ICHILL X4",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "6,900",
+        "GPU:": "RTX 3070",
+        "輸入/輸出:": "HDMI 2.1, 3x DisplayPort 1.4a",
+        "時脈 (RAM/GPU):": "1785 MHz (Boost clock)"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 4070 Ti AMP AIRO",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "7,199",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 2670MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 Ti EAGLE 8G (rev. 2.0) GV-N306TEAGLE-8GD",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,999",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "1665Mhz (Boost)",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 GAMING OC 12G",
+        "rating": "10",
+        "hon_price_min": "2,999",
+        "hon_price_max": "7,500",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "1837 MHz (Reference Card: 1777 MHz)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 4080 16GB GAMING OC",
+        "rating": "",
+        "hon_price_min": "9,800",
+        "hon_price_max": "11,488",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "2535MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Inno3D Geforce RTX3080Ti X3 OC (Dual Slot)",
+        "rating": "",
+        "hon_price_min": "6,860",
+        "hon_price_max": "6,880",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1680",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS GeForce RTX 3070 Noctua OC Edition 8GB GDDR6",
+        "rating": "6.0",
+        "hon_price_min": "5,780",
+        "hon_price_max": "5,799",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "OC mode: 1845MHz (Boost Clock); Gaming mode: 1815 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 Ti SUPRIM X 12G",
+        "rating": "",
+        "hon_price_min": "8,080",
+        "hon_price_max": "12,500",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "EXTREME Mode: 1845MHz (MSI Center) / GAMING Mode & SILENT Mode: 1830MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Nvidia T1000 8GB 專業繪圖卡",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,300",
+        "GPU:": "Nvidia T1000",
+        "輸入/輸出:": "4 x mDP 1.4 with latching mechanism"
+    },
+    {
+        "names": "ASUS GeForce RTX 3080 Noctua OC Version 10GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC mode : 1815MHz (Boost Clock); Gaming mode : 1785 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 ELITE 12G",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "7,480",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "1867MHz (Reference Card: 1777MHz)",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 GAMING Z TRIO 12G (LHR)",
+        "rating": "",
+        "hon_price_min": "3,010",
+        "hon_price_max": "3,920",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "1867 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3070 Twin Edge OC",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "9,000",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost: 1755 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3080 Trinity OC LHR 10GB GDDR6X",
+        "rating": "10",
+        "hon_price_min": "5,820",
+        "hon_price_max": "7,100",
+        "GPU:": "RTX 3080 LHR",
+        "時脈 (RAM/GPU):": "Boost: 1725 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3090 Ti OC Edition 24GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "11,599",
+        "hon_price_max": "17,480",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 1950 MHz (Boost Clock) / Gaming mode: 1920 MHz (Boost Clock)",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "Vastarmor AMD Radeon RX 6600 XT 8GB GDDR6 合金三風扇顯示卡 AH-66XT8TCBR",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,690",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "2188MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "ASUS ROG Strix LC GeForce RTX 3090 Ti OC Edition 顯示卡",
+        "rating": "10",
+        "hon_price_min": "12,890",
+        "hon_price_max": "19,600",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 1980 MHz (Boost Clock) / Gaming mode: 1950 MHz (Boost Clock)",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "MSI GeForce RTX 2060 VENTUS GP OC",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "3,850",
+        "GPU:": "RTX 2060",
+        "時脈 (RAM/GPU):": "Boost: 1710MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "MSI RTX 3070 SUPRIM X 8G",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "8,999",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Extreme Performance: 1920 MHz (Dragon Center) ; Boost: 1905 MHz (GAMING & SILENT Mode)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Leadtek NVIDIA Quadro T1000",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,850",
+        "water_price_min": "2,450",
+        "water_price_max": "2,450",
+        "GPU:": "Quadro",
+        "輸入/輸出:": "mDP 1.4 x 4",
+        "時脈 (RAM/GPU):": "160GB/s"
+    },
+    {
+        "names": "MSI Radeon RX6900 XT GAMING X TRIO 16G (DI-R690XX1)",
+        "rating": "",
+        "hon_price_min": "7,280",
+        "hon_price_max": "12,599",
+        "GPU:": "RX 6900 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2340 MHz / Game: Up to 2105 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 Ti VISION OC 8G (GV-N306TVISION OC-8GD)",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "4,990",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 1755MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS ROG Strix RTX 3080 Ti O12G Gaming (ROG-STRIX-RTX3080TI-O12G-GAMING)",
+        "rating": "7.0",
+        "hon_price_min": "8,900",
+        "hon_price_max": "14,999",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 1845MHz (Boost Clock) / Gaming mode: 1815MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASUS TUF Gaming RTX 3060 Ti OC Edition 8G GDDR6X",
+        "rating": "",
+        "hon_price_min": "3,899",
+        "hon_price_max": "3,899",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC mode : 1785 MHz (Boost Clock), Default mode : 1755 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3090 Trinity (ZT-A30900D-10P)",
+        "rating": "",
+        "hon_price_min": "8,380",
+        "hon_price_max": "17,800",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "Memory Bus384-bit Engine ClockBoost: 1695 MHz Memory Clock19.5 Gbps",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GEFORCE GTX 1060 GAMING X 6G",
+        "rating": "9.7",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "GPU:": "NVIDIA GeForce GTX 1060",
+        "輸入/輸出:": "Dual-link DVI-D, HDMI, DP x 3",
+        "時脈 (RAM/GPU):": "1809 MHz / 1594 MHz / 8100 MHz (OC Mode)"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 Ti OC Edition (TUF-RTX3080TI-O12G-GAMING)",
+        "rating": "8.0",
+        "hon_price_min": "8,400",
+        "hon_price_max": "10,680",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "OC mode: 1785MHz (Boost Clock) / Gaming mode: 1755MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "PNY GeForce RTX 3060 Ti 8GB UPRISING Dual Fan",
+        "rating": "",
+        "hon_price_min": "3,199",
+        "hon_price_max": "4,800",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "CUDA Cores: 4864, Clock Speed: 1410MHz, Boost Speed: 1665MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Nvidia RTX A2000 12GB 顯示卡",
+        "rating": "",
+        "hon_price_min": "5,000",
+        "hon_price_max": "5,880",
+        "GPU:": "RTX A2000",
+        "輸入/輸出:": "4 x DisplayPort 1.4"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce RTX 3080 12GB (TUF-RTX3080-12G-GAMING)",
+        "rating": "",
+        "hon_price_min": "6,338",
+        "hon_price_max": "8,850",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "BOOST: 1740MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3060 AMP White Edition (ZT-A30600F-10P)",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "4,499",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "1867 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3080 Trinity (ZT-A30800D-10P)",
+        "rating": "2.7",
+        "hon_price_min": "5,820",
+        "hon_price_max": "5,840",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "1710MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASRock AMD Radeon RX 6700 XT Challenger D 12GB",
+        "rating": "",
+        "hon_price_min": "3,330",
+        "hon_price_max": "6,900",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "加速頻率: 最高 2581 MHz / 16 Gbps 遊戲頻率: 最高 2424 MHz / 16 Gbps 基礎頻率: 2321 MHz / 16 Gbps",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Colorful GeForce RTX 3070 NB-V",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "10,000",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Base:1500Mhz; Boost:1725Mhz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASRock AMD Radeon RX 7900 XTX Phantom Gaming 24GB OC",
+        "rating": "",
+        "hon_price_min": "8,680",
+        "hon_price_max": "9,290",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "加速頻率: 2615Mhz",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 3X 8G OC LHR",
+        "rating": "",
+        "hon_price_min": "3,330",
+        "hon_price_max": "3,799",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "Boost: Up to 1695 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "MSI GeForce GT 1030 2G LP OCV2",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "898",
+        "GPU:": "GT 1030",
+        "時脈 (RAM/GPU):": "1518MHz / 1265MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3060 8GB GDDR6 1-Click OC",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,430",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost Clock: 1777MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "Leadtek NVIDIA Quadro RTX4000",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "7,860",
+        "water_price_min": "9,999",
+        "water_price_max": "9,999",
+        "GPU:": "RTX 4000",
+        "記憶體:": "8GB GDDR6"
+    },
+    {
+        "names": "Inno3D GeForce RTX 3050 TWIN X2",
+        "rating": "",
+        "hon_price_min": "2,040",
+        "hon_price_max": "2,230",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "Boost Clock : 1830 MHz / Base Clock : 1552MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3090 24G Gaming",
+        "rating": "10",
+        "hon_price_min": "9,650",
+        "hon_price_max": "12,099",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "OC Mode - 1725 MHz (Boost Clock), Gaming Mode - 1695 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASRock AMD Radeon RX 6700 XT Challenger Pro 12GB OC",
+        "rating": "",
+        "hon_price_min": "2,699",
+        "hon_price_max": "4,380",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2620 MHz",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "Gigabyte Radeon RX 6600 EAGLE 8G GV-R66EAGLE-8GD",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "4,299",
+        "GPU:": "RX 6600",
+        "時脈 (RAM/GPU):": "Boost Clock : up to 2491 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 4070 Ti ELITE 12G",
+        "rating": "",
+        "hon_price_min": "7,199",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "2655MHz (Reference card: 2610MHz)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 4070 Ti EX Gamer White",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 2610MHz",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "ASUS DUAL GeForce RTX 3060 Ti V2 MINI 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "3,320",
+        "hon_price_max": "3,799",
+        "GPU:": "RTX 3060 Ti Mini",
+        "時脈 (RAM/GPU):": "Gaming Mode - 1665 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Nvidia GeForce RTX 4090 Founders Edition",
+        "rating": "2.0",
+        "hon_price_min": "22,000",
+        "hon_price_max": "22,000",
+        "water_price_min": "20,000",
+        "water_price_max": "22,000",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock: 2520MHz; Base Clock: 2230MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Sapphire Radeon RX6900 XT",
+        "rating": "",
+        "hon_price_min": "9,480",
+        "hon_price_max": "9,700",
+        "GPU:": "RX 6900 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: 2250 MHz"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3060 White OC Edition 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,850",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "OC Mode: 1867 MHz (Boost Clock), Default Mode: 1837 MHz (Boost Clock)",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 2060 Twin Fan 12GB (ZT-T20620F-10M)",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "4,150",
+        "GPU:": "RTX 2060",
+        "時脈 (RAM/GPU):": "Boost: 1650 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "ASUS TUF Gaming Radeon RX 7900 XT 20GB GDDR6",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "8,299",
+        "GPU:": "RX 7900 XT",
+        "時脈 (RAM/GPU):": "OC mode : up to 2450 MHz (Boost Clock)/up to 2075 MHz (Game Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI Radeon RX 6750 XT MECH 2X 12G OC",
+        "rating": "",
+        "hon_price_min": "3,299",
+        "hon_price_max": "5,380",
+        "GPU:": "RX 6750 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2618 MHz; Game: Up to 2512 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Vastarmor Starry Sky RX6600 8GB GDDR6 (AH-66XT8DSBR)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,199",
+        "GPU:": "RX 6600",
+        "時脈 (RAM/GPU):": "Up to 1626 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "MSI Radeon RX 6400 AERO ITX 4G",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,499",
+        "GPU:": "RX 6400",
+        "時脈 (RAM/GPU):": "Boost: Up to 2321 MHz ; Game: Up to 2039 MHz",
+        "最低電源要求:": "350W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce GTX 1660 SUPER 6GB GDDR6 (TUF-GTX1660S-6G-GAMING)",
+        "rating": "",
+        "hon_price_min": "1,820",
+        "hon_price_max": "1,990",
+        "GPU:": "GTX 1660 SUPER",
+        "時脈 (RAM/GPU):": "OC Mode - 1815 MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "PowerColor Red Devil AMD Radeon RX 6700 XT 12GB GDDR6",
+        "rating": "",
+        "hon_price_min": "4,390",
+        "hon_price_max": "6,200",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "up to 2622MHz(Boost)",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "ASUS TUF RTX 3080 Ti OC Edition 12GB GDDR6X",
+        "rating": "",
+        "hon_price_min": "8,420",
+        "hon_price_max": "8,500",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "OC mode : 1785 MHz (Boost Clock) Gaming mode : 1755 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI Radeon RX 6950 XT GAMING X TRIO 16G",
+        "rating": "10",
+        "hon_price_min": "6,499",
+        "hon_price_max": "10,799",
+        "GPU:": "RX 6950 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2454 MHz; Game: Up to 2244 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti GAMING X TRIO 8GD6X",
+        "rating": "",
+        "hon_price_min": "4,150",
+        "hon_price_max": "4,335",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1845MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3060 Ti Twin Edge OC 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "6,380",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1695MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS Dual Radeon RX 6650 XT OC Edition 8GB GDDR6 DUAL-RX6650XT-O8G",
+        "rating": "4.0",
+        "hon_price_min": "2,899",
+        "hon_price_max": "3,799",
+        "GPU:": "RX 6650 XT",
+        "時脈 (RAM/GPU):": "OC mode: Up to 2689 MHz (Boost Clock) / up to 2467 MHz (Game Clock) / Gaming mode: Up to 2669 MHz (Boost Clock) / up to 2447 MHz (Game Clock)"
+    },
+    {
+        "names": "MSI Radeon RX 6500 XT MECH 2X 4G OC",
+        "rating": "",
+        "hon_price_min": "1,369",
+        "hon_price_max": "2,069",
+        "GPU:": "RX 6500 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2825 MHz",
+        "最低電源要求:": "400W"
+    },
+    {
+        "names": "Gigabyte Radeon RX 6650 XT EAGLE 8G",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,399",
+        "GPU:": "RX 6650 XT",
+        "時脈 (RAM/GPU):": "Boost Clock : up to 2635 MHz; Game Clock : up to 2410 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "ASUS ROG STRIX RTX 3080 10G GAMING",
+        "rating": "",
+        "hon_price_min": "6,280",
+        "hon_price_max": "11,470",
+        "GPU:": "RTX 3080",
+        "輸入/輸出:": "DisplayPort 1.4a x 3; HDMI 2.1 x 2; Support HDCP 2.3",
+        "時脈 (RAM/GPU):": "OC Mode - 1740 MHz (Boost Clock) / Gaming Mode - 1710 MHz (Boost Clock)"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 3X OC",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "6,699",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1695 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASUS Phoenix GeForce RTX3060 V2 12GB LHR",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,990",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Gaming Mode - 1777 MHz (Boost Clock)",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "PowerColor Fighter AMD Radeon RX 6500 XT 4GB GDDR6",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,090",
+        "water_price_min": "1,780",
+        "water_price_max": "1,780",
+        "GPU:": "RX 6500 XT",
+        "時脈 (RAM/GPU):": "up to 2650MHz(Game) up to 2820MHz(Boost)",
+        "最低電源要求:": "400W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti VENTUS 2X 8G OC LHR",
+        "rating": "",
+        "hon_price_min": "3,180",
+        "hon_price_max": "3,450",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "Boost: Up to 1695 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASUS Phoenix GeForce GTX 1630 4GB",
+        "rating": "",
+        "hon_price_min": "1,340",
+        "hon_price_max": "1,350",
+        "GPU:": "GTX 1630",
+        "時脈 (RAM/GPU):": "OC mode: 1815MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "XFX Speedster MERC 310 AMD Radeon RX 7900 XT Black Edition (RX-79TMERCB9)",
+        "rating": "",
+        "hon_price_min": "7,850",
+        "hon_price_max": "7,980",
+        "GPU:": "RX 7900 XT",
+        "時脈 (RAM/GPU):": "Base clock Up to: 1810 MHz Game Clock Up To: 2220 MHz* Boost clock Up to: 2560 MHz**",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Nvidia T400 4GB 專業繪圖卡",
+        "rating": "",
+        "hon_price_min": "1,438",
+        "hon_price_max": "1,450",
+        "GPU:": "NVIDIA Turing",
+        "輸入/輸出:": "mDP 1.4 (3)"
+    },
+    {
+        "names": "Leadtek NVIDIA Quadro T600",
+        "rating": "10",
+        "hon_price_min": "1,759",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,700",
+        "water_price_max": "1,700",
+        "GPU:": "Quadro",
+        "輸入/輸出:": "mDP 1.4 x 4",
+        "時脈 (RAM/GPU):": "160GB/s"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 2060 D6 6G GV-N2060D6-6GD",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "3,990",
+        "GPU:": "RTX 2060",
+        "時脈 (RAM/GPU):": "Boost Clock: 1680 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 EAGLE OC 12G",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "6,970",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "1807 MHz (Reference Card: 1777 MHz)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 GAMING TRIO 10G",
+        "rating": "",
+        "hon_price_min": "5,890",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "輸入/輸出:": "DisplayPort x 3 (v1.4a); HDMI 2.1 x 1",
+        "時脈 (RAM/GPU):": "1755MHz Boost Clock"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 4070 Ti Advanced OC-V",
+        "rating": "",
+        "hon_price_min": "7,280",
+        "hon_price_max": "7,699",
+        "GPU:": "RTX 4070 Ti",
+        "時脈 (RAM/GPU):": "Base:2310Mhz; Boost:2610Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS KO GeForce RTX 3060 OC Edition 12GB GDDR6",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "6,280",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost Clock: 1882 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Gigabyte Radeon RX 7900 XT GAMING OC 20G (GV-R79XTGAMING OC-20GD)",
+        "rating": "",
+        "hon_price_min": "7,450",
+        "hon_price_max": "7,499",
+        "GPU:": "RX 7900 XT",
+        "時脈 (RAM/GPU):": "Boost Clock : up to 2535MHz",
+        "最低電源要求:": "800W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3070 Ti VISION OC 8G GV-N307TVISION OC-8GD",
+        "rating": "",
+        "hon_price_min": "5,199",
+        "hon_price_max": "8,200",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 1830 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Sapphire NITRO+ AMD Radeon RX 6650 XT",
+        "rating": "10",
+        "hon_price_min": "3,450",
+        "hon_price_max": "3,699",
+        "GPU:": "RX 6650 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2694 MHz ; Game Clock: Up to 2523 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 Ti GAMING OC PRO 8G rev. 1.0 (GV-N306TGAMINGOC-PRO-8GD-rev-10)",
+        "rating": "",
+        "hon_price_min": "3,399",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 1770 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3060 Ti 8GB GDDR6X 1-Click OC Plus",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,699",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 1665MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS Dual Radeon RX 6400 4GB GDDR6",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,550",
+        "GPU:": "RX 6400",
+        "時脈 (RAM/GPU):": "Gaming mode: up to 2321 MHz(Boost Clock)/ up to 2039 MHz(Game Clock)​",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3080 Ti EAGLE 12G (GV-N308TEAGLE-12GD)",
+        "rating": "",
+        "hon_price_min": "8,180",
+        "hon_price_max": "11,099",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1665MHz Core Clock; 19000MHz Memory Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI Radeon RX 6600 MECH 2X 8G",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "4,299",
+        "GPU:": "RX 6600",
+        "時脈 (RAM/GPU):": "Boost: Up to 2491 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 6700 XT",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "4,350",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost: 2581 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3060 Twin Edge",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "3,199",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost: 1777MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "MSI Radeon RX 6800 XT 16G",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "7,580",
+        "GPU:": "RX 6800 XT",
+        "時脈 (RAM/GPU):": "Up to 2250MHz Boost Clock",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 GAMING X TRIO 10G",
+        "rating": "2.0",
+        "hon_price_min": "5,780",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "輸入/輸出:": "DisplayPort x 3 (v1.4a); HDMI 2.1 x 1",
+        "時脈 (RAM/GPU):": "1815MHz Boost Clock"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3060 OC Edition 12GB GDDR6",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "7,999",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "OC Mode - 1912  MHz (Boost Clock) ; Gaming Mode - 1882  MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX3080 SEA HAWK X 10G GDDR6X",
+        "rating": "",
+        "hon_price_min": "9,880",
+        "hon_price_max": "11,500",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "Boost: 1785 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti GAMING Z TRIO 8G LHR",
+        "rating": "8.0",
+        "hon_price_min": "3,820",
+        "hon_price_max": "5,999",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "Boost: 1845MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "MSI GeForce RTX2060 VENTUS 6G OC",
+        "rating": "8.7",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,850",
+        "GPU:": "RTX 2060",
+        "輸入/輸出:": "DisplayPort x 3 (v1.4) / HDMI 2.0b x 1",
+        "時脈 (RAM/GPU):": "Boost Clock / Memory Speed 1710 MHz / 14 Gbps"
+    },
+    {
+        "names": "GALAX GeForce RTX 3090 Ti EX Gamer (1-Click OC Feature) 3 Fan 24G 39IXM5MD6HEX",
+        "rating": "",
+        "hon_price_min": "10,800",
+        "hon_price_max": "10,800",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1890 / 1-Click OC Clock (MHz) 1905 (by installing Xtreme Tuner Plus Software and using 1-Click OC)",
+        "最低電源要求:": "850WW"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3070 Ti GAMING OC 8G GV-N307TGAMING OC-8GD",
+        "rating": "10",
+        "hon_price_min": "4,880",
+        "hon_price_max": "7,980",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1830 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS Phoenix GeForce GTX 1650 OC Edition 4GB GDDR6 PH-GTX1650-O4GD6-P",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "2,380",
+        "GPU:": "GTX 1650",
+        "時脈 (RAM/GPU):": "OC Mode - 1665 MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 3080 iCHILL X4",
+        "rating": "4.0",
+        "hon_price_min": "5,580",
+        "hon_price_max": "6,870",
+        "GPU:": "RTX 3080",
+        "記憶體:": "10GB GDDR6X"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 Ti GAMING OC 8G (rev. 2.0) GV-N306TGAMING-OC-8GD",
+        "rating": "",
+        "hon_price_min": "3,399",
+        "hon_price_max": "4,850",
+        "GPU:": "RTX 3060 LHR",
+        "時脈 (RAM/GPU):": "Boost:1740 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASUS GTX1660 SUPER TUF3-GTX1660S-O6G-GAMING",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,200",
+        "GPU:": "GTX 1660 SUPER",
+        "時脈 (RAM/GPU):": "GPU Boost Clock : 1830 MHz"
+    },
+    {
+        "names": "AMD Radeon PRO W6400 專業顯示卡",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "GPU:": "AMD Radeon PRO W6400",
+        "輸入/輸出:": "DisplayPort x 2"
+    },
+    {
+        "names": "ASUS Dual Radeon RX 6750 XT OC Edition 12GB GDDR6",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,799",
+        "GPU:": "RX 6750 XT",
+        "時脈 (RAM/GPU):": "Up to 2618 MHz(Boost Clock) ; Up to 2512 MHz(Game clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 VISION OC 12G",
+        "rating": "8.0",
+        "hon_price_min": "2,790",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "1837 MHz (Reference Card: 1777 MHz)",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "GALAX GeForce GTX 1630 EX (1-Click OC Feature) 4GB Display Card",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,018",
+        "GPU:": "GTX 1630",
+        "時脈 (RAM/GPU):": "Boost Clock: 1800MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 3080 MASTER 12G",
+        "rating": "",
+        "hon_price_min": "7,980",
+        "hon_price_max": "7,980",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "BOOST: 1830 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 4090 iChill Frostbite",
+        "rating": "",
+        "hon_price_min": "14,280",
+        "hon_price_max": "16,999",
+        "GPU:": "RTX 4090",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 2580, Base Clock(MHz): 2235",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce GTX 1650 Low Profile GDDR6",
+        "rating": "",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,680",
+        "GPU:": "GTX 1650",
+        "時脈 (RAM/GPU):": "Boost: 1590MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 GAMING X TRIO 12G LHR",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,599",
+        "GPU:": "RTX 3060 LHR",
+        "時脈 (RAM/GPU):": "Boost: 1852 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "MSI GeForce RTX3070 GAMING Z TRIO",
+        "rating": "",
+        "hon_price_min": "4,499",
+        "hon_price_max": "5,250",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost: Up to 1845 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Colorful GeForce RTX 3060 NB DUO 12G-V",
+        "rating": "",
+        "hon_price_min": "2,599",
+        "hon_price_max": "4,899",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost:1777Mhz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "AMD Radeon PRO W6800 專業顯示卡",
+        "rating": "",
+        "hon_price_min": "18,980",
+        "hon_price_max": "18,980",
+        "GPU:": "AMD Radeon PRO W6800",
+        "輸入/輸出:": "Mini-DisplayPort x 6",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Gigabyte Radeon RX 6500 XT EAGLE 4G (GV-R65XTEAGLE-4GD)",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,919",
+        "GPU:": "RX 6500 XT",
+        "時脈 (RAM/GPU):": "Boost Clock : up to 2815 MHz",
+        "最低電源要求:": "400W"
+    },
+    {
+        "names": "ASUS Dual GeForce RTX 3060 V2 OC Edition (DUAL-RTX3060-12G-V2)",
+        "rating": "",
+        "hon_price_min": "2,899",
+        "hon_price_max": "3,080",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost: Up to 1867 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "GALAX GeForce GTX 1660 Ti (1-Click OC)",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "3,080",
+        "GPU:": "GTX 1660 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 1785MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 Ti VENTUS 3X 12G OC",
+        "rating": "10",
+        "hon_price_min": "7,810",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1695MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 6600 XT 11309-03-20G",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "4,499",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "Up to 2593 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Zotac GAMING GeForce GTX 1630 4GB GDDR6",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,299",
+        "GPU:": "GTX 1630",
+        "時脈 (RAM/GPU):": "Boost: 1785MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "ASRock AMD Radeon RX 6700 XT Phantom Gaming D 12GB OC",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "5,580",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "BOOST:  2622 MHz",
+        "最低電源要求:": "700W"
+    },
+    {
+        "names": "Colorful GeForce RTX 3060 Ti NB DUO V2 LHR-V",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "2,999",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Base:1410Mhz; Boost:1665Mhz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASUS KO GeForce RTX 3060 Ti V2 OC Edition KO-RTX3060Ti-O8G-V2-GAMING",
+        "rating": "",
+        "hon_price_min": "3,499",
+        "hon_price_max": "6,580",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "OC Mode: 1785 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GTX 1650 D6 VENTUS XS OCV1",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,599",
+        "GPU:": "GTX 1650",
+        "時脈 (RAM/GPU):": "Boost: 1620 MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 4080 16GB Neptune OC-V",
+        "rating": "",
+        "hon_price_min": "12,499",
+        "hon_price_max": "12,499",
+        "GPU:": "RTX 4080",
+        "時脈 (RAM/GPU):": "Base:2205Mhz, Boost:2505Mhz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "MSI GeForce RTX3060 GAMING X TRIO 12G",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "4,050",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost: 1852 MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3090 SG (1-Click OC)",
+        "rating": "10",
+        "hon_price_min": "8,699",
+        "hon_price_max": "18,200",
+        "GPU:": "RTX 3090",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1695",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 VENTUS 3X 10G",
+        "rating": "",
+        "hon_price_min": "5,530",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3080",
+        "輸入/輸出:": "DisplayPort x 3 (v1.4a); HDMI 2.1 x 1",
+        "時脈 (RAM/GPU):": "1710MHz Boost Clock"
+    },
+    {
+        "names": "Colorful GeForce RTX 2060 NB-V",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,350",
+        "GPU:": "RTX 2060",
+        "時脈 (RAM/GPU):": "Boost:1680Mhz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Colorful GeForce RTX 3080 Ti NB-V",
+        "rating": "",
+        "hon_price_min": "11,200",
+        "hon_price_max": "11,380",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "Boost:1665Mhz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX3080 TURBO 10G GDDR6X (rev. 1.0) (GV-N3080TURBO-10GD)",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,980",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "核心時脈 1710 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3080 Ti HOF OC Lab Edition",
+        "rating": "",
+        "hon_price_min": "14,580",
+        "hon_price_max": "15,490",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "OC mode:1815MHz（P-mode）/ 1725MHZ（S-mode）",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix Radeon RX 6750 XT OC 超頻版 12GB GDDR6",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,990",
+        "GPU:": "RX 6750 XT",
+        "時脈 (RAM/GPU):": "OC mode : up to 2643 MHz (Boost Clock) / 2574 MHz (Game Clock) , Gaming mode : up to 2623 MHz (Boost Clock) / 2554 MHz (Game Clock) ",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3090 Ti GAMING OC 24G",
+        "rating": "",
+        "hon_price_min": "13,580",
+        "hon_price_max": "13,590",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "BOOST: 1905 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "GALAX GeForce RTX 3070 Ti SG (1-Click OC)",
+        "rating": "10",
+        "hon_price_min": "5,350",
+        "hon_price_max": "5,480",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1800",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix LC RTX3080TI O12G Gaming 顯示卡",
+        "rating": "",
+        "hon_price_min": "12,380",
+        "hon_price_max": "13,599",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "OC mode:1860 MHz (Boost Clock) Gaming mode:1830 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3080 GAMING OC 12G",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "6,980",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "1755 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "XFX Speedster Merc 310 AMD Radeon RX 7900 XT (RX-79TMERCU9)",
+        "rating": "",
+        "hon_price_min": "7,180",
+        "hon_price_max": "7,680",
+        "GPU:": "RX 7900 XT",
+        "時脈 (RAM/GPU):": "Base clock Up to: 1775 MHz, Game Clock Up To: 2175 MHz, Boost clock Up to: 2535 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3070 EAGLE OC 8G (rev. 1.0) GV-N3070EAGLE OC-8GD",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "1‎770 MHz (Reference Card: 1725MHz)",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX 3060 Advanced OC 12G-V LHR",
+        "rating": "",
+        "hon_price_min": "2,699",
+        "hon_price_max": "4,750",
+        "GPU:": "RTX 3060 LHR",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "Nvidia RTX A4500 Graphics Card",
+        "rating": "",
+        "hon_price_min": "15,480",
+        "hon_price_max": "15,500",
+        "GPU:": "RTX A4500",
+        "輸入/輸出:": "DisplayPort x 4"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3070 Twin Edge OC LHR",
+        "rating": "",
+        "hon_price_min": "3,929",
+        "hon_price_max": "7,790",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost: 1755 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS TUF Gaming Radeon RX 6500 XT OC Edition 4GB GDDR6",
+        "rating": "",
+        "hon_price_min": "1,669",
+        "hon_price_max": "1,990",
+        "GPU:": "RX 6500 XT",
+        "時脈 (RAM/GPU):": "Gaming mode: up to 2825 MHz(Boost Clock)/ up to 2685MHz(Game Clock)",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Colorful iGame GeForce RTX3060 Ti Ultra W OC-V",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "8,999",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost:1770Mhz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Vastarmor AMD Radeon RX 6750 XT Alloy 12GB GDDR6 合金三風扇顯示卡 AH-675XYTCBR",
+        "rating": "",
+        "hon_price_min": "3,830",
+        "hon_price_max": "3,830",
+        "GPU:": "RX 6750 XT",
+        "時脈 (RAM/GPU):": "2324MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 3080 Ti ICHILL X4",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "14,610",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1710MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3080 O10G White Edition",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "11,790",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC Mode - 1935 MHz (Boost Clock) / Gaming Mode - 1905 MHz (Boost Clock)",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX3060 Ti Twin Edge (ZT-A30610E-10M)",
+        "rating": "",
+        "hon_price_min": "3,099",
+        "hon_price_max": "4,799",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1665 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3070 White Edition 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "6,199",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "OC Mode - 1935  MHz (Boost Clock) ; Gaming Mode - 1905  MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3070 8G Gaming",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "8,470",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "OC Mode - 1755 MHz (Boost Clock), Gaming Mode - 1725 MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Gigabyte GeForce GTX 1650 D6 WINDFORCE OC 4G (rev. 1.0)",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,850",
+        "GPU:": "GTX 1650",
+        "時脈 (RAM/GPU):": "Boost Clock: 1710 MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "PowerColor Fighter AMD Radeon RX 6600 XT 8GB GDDR6",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,680",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "up to 2589MHz(Boost)",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "AMD Radeon RX 7900 XTX",
+        "rating": "",
+        "GPU:": "RX 7900 XTX",
+        "時脈 (RAM/GPU):": "Boost Frequency: Up to 2500 MHz, Game Frequency: 2300 MHz",
+        "最低電源要求:": "800W"
+    },
+    {
+        "names": "GALAX GeForce GTX 1660 (1-Click OC)",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "3,280",
+        "GPU:": "GTX 1660",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1800",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "PNY GeForce RTX 3060 12GB XLR8 Gaming REVEL EPIC-X RGB Dual Fan Edition",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "5,480",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Clock Speed: 1320MHz, Boost Speed: 1777MHz",
+        "最低電源要求:": "550W"
+    },
+    {
+        "names": "ASUS Dual Radeon RX 6500 XT OC",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,990",
+        "GPU:": "RX 6500 XT",
+        "時脈 (RAM/GPU):": "Gaming mode: up to 2820 MHz(Boost Clock)/ up to 2650 MHz(Game Clock)",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 Ti EAGLE OC D6X 8G",
+        "rating": "",
+        "hon_price_min": "3,320",
+        "hon_price_max": "3,320",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "1680MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D Geforce RTX 3090 Ti 24GB X3 OC",
+        "rating": "",
+        "hon_price_min": "9,780",
+        "hon_price_max": "10,999",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz): 1890; Base Clock(MHz): 1560",
+        "最低電源要求:": "1000W"
+    },
+    {
+        "names": "Zotac Gaming GeForce RTX 3060 Ti AMP White Edition LHR (ZT-A30610F-10PLHR)",
+        "rating": "",
+        "hon_price_min": "3,249",
+        "hon_price_max": "4,680",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "1755 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "XFX Speedster SWFT 210 AMD Radeon RX 6600 XT (RX-66XT8DFDQ)",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "4,280",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "2359 MHz / 2589 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3050 EAGLE OC 8G",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "2,800",
+        "GPU:": "RTX 3050",
+        "時脈 (RAM/GPU):": "1792 MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "Nvidia GeForce RTX 3090 Ti",
+        "rating": "",
+        "hon_price_min": "12,500",
+        "hon_price_max": "12,900",
+        "water_price_min": "12,500",
+        "water_price_max": "12,900",
+        "GPU:": "RTX 3090 Ti",
+        "時脈 (RAM/GPU):": "Base Clock: 1670MHz, Boost Clock: 1860MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Leadtek NVIDIA RTX A5000",
+        "rating": "",
+        "hon_price_min": "17,200",
+        "hon_price_max": "18,500",
+        "water_price_min": "15,280",
+        "water_price_max": "15,280",
+        "GPU:": "RTX A5000",
+        "記憶體:": "24GB GDDR6"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 3080 Ti MASTER 12G (GV-N308TAORUS M-12GD)",
+        "rating": "",
+        "hon_price_min": "8,480",
+        "hon_price_max": "8,480",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1770MHz Core Clock; 19000MHz Memory Clock",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "ASRock AMD Radeon RX6800 XT Phantom Gaming D 16G OC",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "GPU:": "RX 6800 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2310 MHz",
+        "最低電源要求:": "800W"
+    },
+    {
+        "names": "ASUS Dual Radeon RX6700 XT 12GB GDDR6 DUAL-RX6700XT-12G",
+        "rating": "10",
+        "hon_price_min": "3,499",
+        "hon_price_max": "6,199",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: 2581 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Inno3D GeForce GTX1660 SUPER Twin X2",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,899",
+        "GPU:": "GTX 1660 Super",
+        "輸入/輸出:": "HDMI 2.0b, 3x DisplayPort 1.4",
+        "時脈 (RAM/GPU):": "Boost Clock 1785MHz"
+    },
+    {
+        "names": "Gigabyte GeForce GTX 1660 Ti OC 6G (GV-N166TOC-6GD)",
+        "rating": "",
+        "hon_price_min": "2,990",
+        "hon_price_max": "4,050",
+        "GPU:": "GTX 1660 Ti",
+        "時脈 (RAM/GPU):": "1800 MHz"
+    },
+    {
+        "names": "ASUS ROG Strix RTX 3080 O10G Gundam",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "12,500",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC Mode - 1935 MHz (Boost Clock) ; Gaming Mode (Default) - GPU Boost Clock : 1905 MHz , GPU Base Clock : 1440 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce GTX 1630 OC 4G GV-N1630OC-4GD",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,350",
+        "GPU:": "GTX 1630",
+        "時脈 (RAM/GPU):": "Boost: 1815 MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "MSI Radeon RX6700 XT GAMING X 12G",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "7,380",
+        "GPU:": "RX 6700 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: 2622 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Gigabyte Radeon RX 6650 XT GAMING OC 8G",
+        "rating": "",
+        "hon_price_min": "3,450",
+        "hon_price_max": "3,699",
+        "GPU:": "RX 6650 XT",
+        "時脈 (RAM/GPU):": "Boost Clock : up to 2694 MHz; Game Clock : up to 2523 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Inno3D GEFORCE RTX 3070 TI X3 OC",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "5,850",
+        "GPU:": "RTX 3070 Ti",
+        "時脈 (RAM/GPU):": "Boost Clock: 1785MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3060 Ti GAMING X 8G LHR",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,599",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: 1770 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASRock AMD Radeon RX 6400 Challenger ITX 4GB",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,499",
+        "GPU:": "RX 6400",
+        "時脈 (RAM/GPU):": "基礎頻率: 1923 MHz ; 加速頻率: 最高 2321 MHz ; 遊戲頻率: 最高 2039 MHz",
+        "最低電源要求:": "350W"
+    },
+    {
+        "names": "Inno3D GEFORCE RTX 3070 ICHILL X3",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "10,500",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost Clock: 1785 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3080 Ti GAMING OC 12G (GV-N308TGAMING OC-12GD)",
+        "rating": "",
+        "hon_price_min": "7,890",
+        "hon_price_max": "12,990",
+        "GPU:": "RTX 3080 Ti",
+        "時脈 (RAM/GPU):": "1710MHz Core Clock; 19000MHz Memory Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Sapphire NITRO+ AMD Radeon RX 6950 XT",
+        "rating": "",
+        "hon_price_min": "7,580",
+        "hon_price_max": "10,999",
+        "GPU:": "RX 6950 XT",
+        "時脈 (RAM/GPU):": "BOOST: 2324 MHz ; Game Clock 2116 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Colorful GeForce RTX 3060 Ti NB V2 LHR-V",
+        "rating": "",
+        "hon_price_min": "2,930",
+        "hon_price_max": "4,780",
+        "GPU:": "RTX 3060 Ti LHR",
+        "時脈 (RAM/GPU):": "Base:1410Mhz; Boost:1665Mhz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "Leadtek NVIDIA Quadro RTX8000",
+        "rating": "",
+        "hon_price_min": "41,000",
+        "hon_price_max": "54,990",
+        "water_price_min": "54,990",
+        "water_price_max": "54,990",
+        "GPU:": "RTX 8000",
+        "記憶體:": "48GB GDDR6"
+    },
+    {
+        "names": "Gigabyte GeForce RTX 3060 Ti EAGLE OC 8G (rev. 1.0) GV-N306TEAGLE OC-8GD",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "9,999",
+        "GPU:": "RTX 3060 Ti",
+        "時脈 (RAM/GPU):": "Boost: Up to 1695 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "MSI GeForce GTX 1630 AERO ITX 4G OC",
+        "rating": "8.0",
+        "hon_price_min": "1,160",
+        "hon_price_max": "1,260",
+        "GPU:": "GTX 1630",
+        "時脈 (RAM/GPU):": "Boost:1815MHz",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX 6750 XT",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "5,080",
+        "GPU:": "RX 6750 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2618 MHz ; Game Clock: Up to 2512 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "Inno3D GTX 1050 Ti Compact",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,380",
+        "GPU:": "GTX 1050 Ti",
+        "輸入/輸出:": "Dual Link DVI-D, HDMI 2.0, DisplayPort 1.4",
+        "時脈 (RAM/GPU):": "7.0Gbps / 1290(Boost to 1392)"
+    },
+    {
+        "names": "MSI GeForce GTX1660 SUPER GAMING X",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,340",
+        "GPU:": "GTX 1660 SUPER",
+        "輸入/輸出:": "DisplayPort x 3 / HDMI x 1",
+        "時脈 (RAM/GPU):": "1830 MHz / 14 Gbps"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3080 V2 10GB GDDR6X LHR (ROG-STRIX-RTX3080-10G-V2-GAMING)",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "6,099",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC Mode - 1740 MHz (Boost Clock), Gaming Mode (Default) - GPU Boost Clock : 1710 MHz , GPU Base Clock : 1440 MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Zotac GAMING GeForce GTX 1650 OC GDDR6 (ZT-T16520F-10L)",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "2,280",
+        "GPU:": "GTX 1650",
+        "時脈 (RAM/GPU):": "Boost: 1620MHz",
+        "最低電源要求:": "350W"
+    },
+    {
+        "names": "MSI GeForce GTX 1660 SUPER AERO ITX OC",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,650",
+        "GPU:": "GTX 1660 SUPER",
+        "時脈 (RAM/GPU):": "Boost: 1815 MHz",
+        "最低電源要求:": "450W"
+    },
+    {
+        "names": "Leadtek NVIDIA Quadro RTX6000",
+        "rating": "",
+        "hon_price_min": "27,500",
+        "hon_price_max": "34,989",
+        "water_price_min": "29,999",
+        "water_price_max": "29,999",
+        "GPU:": "RTX 6000",
+        "記憶體:": "24GB GDDR6"
+    },
+    {
+        "names": "Sapphire PULSE AMD Radeon RX6800 XT",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "9,999",
+        "GPU:": "RX 6800 XT",
+        "時脈 (RAM/GPU):": "Boost Clock: Up to 2310MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "MSI GeForce RTX 3080 GAMING Z TRIO 10G",
+        "rating": "10",
+        "hon_price_min": "5,750",
+        "hon_price_max": "10,400",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "1830 MHz Boost Clock",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Inno3D GeForce RTX 3060 Ti ICHILL X3 RED LHR",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "5,770",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost Clock: 1725 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI GeForce RTX 3090 VENTUS 3X 24G OC",
+        "rating": "6.0",
+        "hon_price_min": "9,480",
+        "hon_price_max": "19,999",
+        "GPU:": "RTX 3090",
+        "輸入/輸出:": "DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1",
+        "時脈 (RAM/GPU):": "CORE CLOCKS Boost: 1725 MHz ,MEMORY SPEED 19.5 Gbps"
+    },
+    {
+        "names": "Gigabyte AORUS GeForce RTX 3070 MASTER 8G (GV-N3070AORUS M-8GD)",
+        "rating": "",
+        "hon_price_min": "4,899",
+        "hon_price_max": "12,499",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost: Up to 1845MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "MSI Radeon RX 6800 XT GAMING X TRIO 16G",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "9,999",
+        "GPU:": "RX 6800 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2285 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS ROG Strix GeForce RTX 3070 White Edition (ROG-STRIX-RTX3070-O8G-WHITE)",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "6,580",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost: Up to 1935 MHz",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "ASUS GeForce RTX 3070 OC Edition 8GB GDDR6 DUAL-RTX3070-O8G",
+        "rating": "",
+        "hon_price_min": "4,199",
+        "hon_price_max": "4,499",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "OC Mode - 1800MHz (Boost Clock) / Gaming Mode - 1770MHz (Boost Clock)",
+        "最低電源要求:": "750W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3060 Twin Edge OC (LHR)",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "4,699",
+        "GPU:": "RTX 3060",
+        "時脈 (RAM/GPU):": "Boost: 1807 MHz",
+        "最低電源要求:": "600W"
+    },
+    {
+        "names": "ASUS TUF RTX 3080 O10G OC GAMING",
+        "rating": "10",
+        "hon_price_min": "5,680",
+        "hon_price_max": "6,999",
+        "GPU:": "RTX 3080",
+        "時脈 (RAM/GPU):": "OC Mode - 1815MHz (Boost Clock) Gaming Mode (Default) - GPU Boost Clock : 1785MHz , GPU Base Clock : 1440MHz",
+        "最低電源要求:": "850W"
+    },
+    {
+        "names": "Gigabyte GeForce GTX 1660 OC 6G (GV-N1660OC-6GD)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,780",
+        "GPU:": "GTX 1660",
+        "記憶體:": "6GB GDDR6"
+    },
+    {
+        "names": "MSI Radeon RX 6600 XT MECH 2X 8G OC",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "4,899",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "Boost: Up to 2602 MHz / Game: Up to 2413 MHz",
+        "最低電源要求:": "500W"
+    },
+    {
+        "names": "Zotac GAMING GeForce RTX 3070 Twin Edge OC White Edition",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,990",
+        "GPU:": "RTX 3070",
+        "時脈 (RAM/GPU):": "Boost Clock: 1755 MHz",
+        "最低電源要求:": "650W"
+    },
+    {
+        "names": "ASUS TUF Gaming GeForce GTX1660 SUPER OC Edition",
+        "rating": "10",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,740",
+        "GPU:": "GTX 1660 SUPER",
+        "輸入/輸出:": "DVI, HDMI, DP",
+        "時脈 (RAM/GPU):": "OC Mode - 1845 MHz (Boost Clock)"
+    },
+    {
+        "names": "GALAX GeForce GTX1650 EX (1-Click OC)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,980",
+        "GPU:": "GTX 1650",
+        "時脈 (RAM/GPU):": "Boost Clock (MHz) 1680",
+        "最低電源要求:": "300W"
+    },
+    {
+        "names": "Zotac GeForce GT1030",
+        "rating": "9.0",
+        "hon_price_min": "670",
+        "hon_price_max": "800",
+        "GPU:": "Nvidia GeForce GT1030",
+        "輸入/輸出:": "DVI/HDMI"
+    },
+    {
+        "names": "Gigabyte Radeon RX 6600 XT GAMING OC 8G",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "4,380",
+        "GPU:": "RX 6600 XT",
+        "時脈 (RAM/GPU):": "Boost Clock* : up to 2593 MHz (Reference card: 2589 MHz); Game Clock* : up to 2382 MHz (Reference card: 2359 MHz)",
+        "最低電源要求:": "500W"
+    }
+]

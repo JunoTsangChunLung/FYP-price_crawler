@@ -1,0 +1,3983 @@
+[
+    {
+        "names": "Machenike GK80 97鍵 PBT RGB Hot-Swappable 可換軸 藍牙無線機械鍵盤 (金星軸-類紅軸)",
+        "rating": "",
+        "hon_price_min": "426",
+        "hon_price_max": "759",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "ASUS ROG Azoth NX 無線機械遊戲鍵盤",
+        "rating": "10",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Logitech G Aurora TKL 機械式鍵盤 G713",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Razer Pro Type Ultra 無線機械式鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,149",
+        "hon_price_max": "1,349",
+        "water_price_min": "1,349",
+        "water_price_max": "1,349",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "背光按鍵 (白色 LED)",
+        "鍵帽材料:": "標準 ABS"
+    },
+    {
+        "names": "Razer Ornata V3 X Low Profile 電競鍵盤",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "379",
+        "類型:": "薄膜鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "Razer Chroma RGB",
+        "鍵帽材料:": "UV-coated ABS Keycaps"
+    },
+    {
+        "names": "ASUS ROG Falchion NX 無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ASUS ROG Strix Flare II Animate電競鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,568",
+        "hon_price_max": "1,899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Corsair K100 RGB 機械電競鍵盤 CHERRY MX Speed CH-912A014-NA",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,790",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer BlackWidow V3 Tenkeyless 機械式電競鍵盤 (Green Switch)",
+        "rating": "10",
+        "hon_price_min": "668",
+        "hon_price_max": "759",
+        "water_price_min": "568",
+        "water_price_max": "799",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "Razer Chroma",
+        "鍵帽材料:": "Regular ABS"
+    },
+    {
+        "names": "Razer DeathStalker V2 Pro 超薄無線鍵盤",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,799",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "超耐用鍍膜 ABS 鍵帽"
+    },
+    {
+        "names": "Logitech G Aurora TKL 無線機械式鍵盤 G715",
+        "rating": "10",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Keychron K5 SE 104鍵 RGB Low Profile 無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "669",
+        "hon_price_max": "729",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Razer Ornata V3 機械式薄膜短軸 RGB 鍵盤",
+        "rating": "",
+        "hon_price_min": "475",
+        "hon_price_max": "569",
+        "類型:": "機械式薄膜鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "UV 鍍膜材質 ABS 鍵帽"
+    },
+    {
+        "names": "Logitech G 無線80%機械式遊戲鍵盤 G913 TKL",
+        "rating": "8.4",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,220",
+        "water_price_max": "1,430",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "GL 青軸 , GL 觸感軸 , GL 線性軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K2 84鍵RGB藍牙無線機械鍵盤 (可換軸 Hot-Swappable)",
+        "rating": "8.0",
+        "hon_price_min": "650",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "84",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron K3 無背光超薄無線機械鍵盤 (Version 2 π版)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "559",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/茶軸/青軸",
+        "按鍵數:": "84"
+    },
+    {
+        "names": "Keychron K3 Pro QMK/VIA 無線定制機械鍵盤",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "889",
+        "類型:": "機械鍵盤",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron K14 Non-Backlight Aluminum Frame 不透光鋁框無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "549",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "不透光"
+    },
+    {
+        "names": "Keychron K1 SE Low Profile RGB backlight 無線機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "570",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ROCCAT Vulcan II MAX RGB 光學軸機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "AIMO RGB"
+    },
+    {
+        "names": "Machenike KT68-B68W LED Black Limtied Edition Bluetooth - Silver Switch 機械鍵盤 KB-MT6W6SB",
+        "rating": "6.0",
+        "hon_price_min": "850",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Logitech G Lightspeed 無線 RGB 機械式遊戲鍵盤 G913",
+        "rating": "9.3",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,220",
+        "water_price_max": "1,220",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron V1 QMK Custom Fully Assembled Knob Version 可定制機械鍵盤",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "819",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Machenike KT68-B68W LED White Limited Edtion Bluetooth Frost Switch 機械鍵盤 KB-MT6W6FW",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Razer Razer DeathStalker V2 Pro TKL 無線矮軸 RGB 無數字鍵區光學鍵盤",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,699",
+        "類型:": "光學鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "超耐用鍍膜 ABS 鍵帽"
+    },
+    {
+        "names": "Keychron C2 RGB 104鍵 背光 熱切換 有線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "519",
+        "hon_price_max": "549",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "ASUS ROG Strix Scope NX Wireless Deluxe 無線鍵盤",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,230",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "Per-Key RGB LEDs"
+    },
+    {
+        "names": "Keychron K10 Full-size 無線機械鍵盤 (可換軸版本)",
+        "rating": "10",
+        "hon_price_min": "647",
+        "hon_price_max": "879",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron K2 84鍵 白光藍牙無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "549",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "白光",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Razer Huntsman V2 光軸機械鍵盤",
+        "rating": "",
+        "hon_price_min": "1,245",
+        "hon_price_max": "1,399",
+        "water_price_min": "1,599",
+        "water_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron K1 無線機械鍵盤 (Version 5)",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Razer Huntsman Elite 光學機械電競鍵盤",
+        "rating": "5.5",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,749",
+        "water_price_min": "1,749",
+        "water_price_max": "1,749",
+        "類型:": "光學機械鍵盤",
+        "機械軸品牌:": "Razer 光學"
+    },
+    {
+        "names": "ASUS ROG Strix Scope RX RGB 光學機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer BlackWidow V3 Pro RGB 無線機械式鍵盤 (黃軸)",
+        "rating": "10",
+        "hon_price_min": "1,345",
+        "hon_price_max": "1,749",
+        "water_price_min": "1,849",
+        "water_price_max": "1,849",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Blackwidow V3 Chroma RGB 機械遊戲鍵盤 (Green Switch)",
+        "rating": "7.3",
+        "hon_price_min": "838",
+        "hon_price_max": "1,018",
+        "water_price_min": "1,099",
+        "water_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ASUS ROG Falchion 68鍵 RGB 無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron V5 QMK Custom Mechanical Keyboard 可定制機械鍵盤 (Non-Transparent)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "South-facing RGB LED",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Cherry MX 3.0S Wireless RGB 無線機械式鍵盤 G80-3872",
+        "rating": "10",
+        "hon_price_min": "1,270",
+        "hon_price_max": "1,320",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "FILCO Majestouch 2SC 104鍵PBT機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron Q2 QMK Knob Fully Assembled 客制旋鈕版本機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,248",
+        "hon_price_max": "1,449",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/青軸/茶軸"
+    },
+    {
+        "names": "Logitech G 背光機械遊戲鍵盤 G610 Orion Blue",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "Logitech G Lightsync RGB 機械式遊戲鍵盤 G813",
+        "rating": "10",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,519",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K4 - Version 2 Gateron RGB 鋁框藍牙無線機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "564",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "100",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K10 Full-size 無線機械鍵盤 (非 Hotswap)",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "XPower 炫彩背光LED鋁合金電競鍵盤 GK70",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "炫彩背光LED燈",
+        "鍵帽材料:": "避震懸浮鍵帽設計"
+    },
+    {
+        "names": "Keychron K14 RGB G Pro Wireless Mechanical Keyboard",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "FILCO Majestouch 2SC 104鍵PBT機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron V4(V4B3) QMK 61鍵 RGB PBT機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "539",
+        "hon_price_max": "619",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Corsair K100 AIR WIRELESS Ultra-Thin 極薄機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,288",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Machenike KT68-B68W LED Black Limtied Edition Bluetooth - Silver Switch 機械鍵盤 KB-MT6W6SB",
+        "rating": "6.0",
+        "hon_price_min": "850",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Keychron K8 Pro QMK/VIA 無線機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "788",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB/白光",
+        "鍵帽材料:": "ABS +鋁邊框"
+    },
+    {
+        "names": "Keychron C2 104鍵 有線白光機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "449",
+        "water_price_min": "400",
+        "water_price_max": "400",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "ASUS ROG Strix Flare II NX ABS 遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "AURA Sync",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron K3 Low Profile RGB Gateron 無線機械鍵盤",
+        "rating": "9.0",
+        "hon_price_min": "599",
+        "hon_price_max": "659",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "84",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K2 RGB 背光鋁框無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Steelseries Apex Pro TKL OmniPoint 全彩光機械式鍵盤",
+        "rating": "9.5",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,699",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Royal Kludge BT+USB 多模式機械鍵盤 RK61",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "359",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61",
+        "燈光模式:": "黃光"
+    },
+    {
+        "names": "Keychron K8 RGB Gateron 鋁框背光無線機械鍵盤 (Hot-swappable)",
+        "rating": "10",
+        "hon_price_min": "660",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron V10 (Alice Layout) QMK Fully Assembled Knob 定制機械鍵盤",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "849",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "FILCO Majestouch Convertible 2 104鍵 藍牙機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,400",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Logitech G Pro RGB 英雄聯盟限定款機械電競鍵盤",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "FILCO Majestouch Convertible 2 104鍵 藍牙機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,400",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Keychron V10 (Alice Layout) QMK Fully Assembled Knob 定制機械鍵盤",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "849",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K5 超薄無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "689",
+        "hon_price_max": "799",
+        "類型:": "超薄無線機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K4 Pro QMK/VIA Hot-Swappable 無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "989",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Keychron Q1 QMK Custom 有線機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,399",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "NZXT Function Mini TKL 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "765",
+        "hon_price_max": "939",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS plastic"
+    },
+    {
+        "names": "Keychron Q4 QMK Custom Mechanical Keyboard 定制機械鍵盤 (Barebone版)",
+        "rating": "",
+        "hon_price_min": "968",
+        "hon_price_max": "1,019",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "ASUS ROG Strix Scope RX EVA Edition RGB機械式鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,172",
+        "hon_price_max": "11,999",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Pro Type 靜音機械式鍵盤 (橙軸)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,149",
+        "water_price_min": "1,149",
+        "water_price_max": "1,149",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Razer Synapse 3"
+    },
+    {
+        "names": "Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - CHERRY MX Blue CH-9109411-NA",
+        "rating": "10",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,460",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Cherry RGB MX 3.0S 機械式鍵盤 G80-3870",
+        "rating": "8.0",
+        "hon_price_min": "688",
+        "hon_price_max": "948",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "109",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron Q1 QMK Knob barebone 客制旋鈕版本機械鍵盤 (barebone版)",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤(barebone底版版本)"
+    },
+    {
+        "names": "Cherry Mx Board 2.0S RGB 機械式鍵盤 G80-3821",
+        "rating": "10",
+        "hon_price_min": "589",
+        "hon_price_max": "728",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "109",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron K4 RGB背光機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "519",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "100",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Logitech G Lightsync RGB 機械式遊戲鍵盤 G512",
+        "rating": "9.1",
+        "hon_price_min": "599",
+        "hon_price_max": "999",
+        "water_price_min": "498",
+        "water_price_max": "529",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "Romer-G 觸感軸 / Romer-G線性軸",
+        "燈光模式:": "RGB / LIGHTSYNC"
+    },
+    {
+        "names": "Corsair K100 RGB 可選機械電競鍵盤 OPX Switch CH-912A01A-NA",
+        "rating": "9.3",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,790",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Machenike KT68 RGB Black/White 三模機械鍵盤 KB-MT6W6",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Razer Huntsman Mini Analog - US 類比式光軸遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,249",
+        "water_price_min": "1,249",
+        "water_price_max": "1,249",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "Razer Chroma RGB",
+        "鍵帽材料:": "Razer 雙射出成型 PBT 鍵帽"
+    },
+    {
+        "names": "Keychron K3 不透光全白超薄無線機械鍵盤 (Version2)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "569",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "84",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "MSI Vigor GK30 TC 電競鍵盤 KB-MGK3T",
+        "rating": "8.0",
+        "hon_price_min": "269",
+        "hon_price_max": "399",
+        "類型:": "薄膜鍵盤"
+    },
+    {
+        "names": "Razer Huntsman V2 Analog US 類比式光軸的遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,899",
+        "water_price_min": "1,990",
+        "water_price_max": "1,990",
+        "類型:": "類機械軸鍵盤",
+        "按鍵數:": "104",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Razer Huntsman Mini - 60% 光學遊戲鍵盤 (Clicky Red Switch)",
+        "rating": "10",
+        "hon_price_min": "780",
+        "hon_price_max": "999",
+        "water_price_min": "718",
+        "water_price_max": "1,049",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "Razer Chroma RGB",
+        "鍵帽材料:": "鋁"
+    },
+    {
+        "names": "Royal Kludge 有線RGB背光機械鍵盤 RK68",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "299",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Glorious GMMK2 96% Pre-built 機械鍵盤",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "雙射出成型 ABS 鍵帽"
+    },
+    {
+        "names": "Keychron K1 104鍵 無線機械鍵盤 (Version 4)",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "HyperX Alloy Origins Core RGB 87鍵機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "629",
+        "hon_price_max": "899",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Logitech G Prodigy RGB 遊戲鍵盤 G213",
+        "rating": "8.9",
+        "hon_price_min": "299",
+        "hon_price_max": "499",
+        "類型:": "薄膜鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron Q1 QMK Knob Fully Assembled 客制旋鈕版本機械鍵盤 - Version 1",
+        "rating": "8.0",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Cynosa V2 RGB 薄膜式鍵盤",
+        "rating": "10",
+        "hon_price_min": "369",
+        "hon_price_max": "490",
+        "water_price_min": "339",
+        "water_price_max": "490",
+        "類型:": "薄膜鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K100 RGB OPX軸機械式鍵盤 Midnight Gold 限定版 CH-912A21A-NA",
+        "rating": "",
+        "hon_price_min": "1,960",
+        "hon_price_max": "2,188",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Black Arrow Keycaps"
+    },
+    {
+        "names": "Keychron Q8 QMK Custom Mechanical Keyboard (Knob Version)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/茶軸/青軸"
+    },
+    {
+        "names": "Corsair K95 RGB Platinum 機械遊戲鍵盤",
+        "rating": "9.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,600",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ASUS ROG Falchion Ace NX 68鍵 RGB 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ROG PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Corsair 4合1電競套裝 (K55 RGB Pro+MM100 Mouse Pad+Harpoon RGB Pro+HS50 Pro Stereo) CH-9226315",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "740",
+        "類型:": "組合"
+    },
+    {
+        "names": "HyperX Alloy MKW100 機械軸電競鍵盤 (US)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "100",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ASUS ROG Strix Scope NX TKL Moonlight White 月光版機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Blackwidow V3 Pro RGB 無線機械遊戲鍵盤 (Green Switch)",
+        "rating": "9.3",
+        "hon_price_min": "1,355",
+        "hon_price_max": "1,849",
+        "water_price_min": "1,849",
+        "water_price_max": "1,849",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron Q2 QMK Fully Assembled 客制鋁框可換軸機械鍵盤",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,399",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "67"
+    },
+    {
+        "names": "Keychron K8 RGB Gateron 鋁框背光無線機械鍵盤 (Hot-swappable)",
+        "rating": "10",
+        "hon_price_min": "660",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Logitech G Pro X GX-Blue青軸 可換鍵軸機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,139",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "HP 青軸混光機械鍵盤 GK400F",
+        "rating": "9.1",
+        "hon_price_min": "205",
+        "hon_price_max": "305",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Womier 琉璃 幻彩 RGB 87鍵背光機械鍵盤 K87",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "599",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K4 - Version 2 Gateron Hot-Swappable RGB 鋁框藍牙無線機械鍵盤 (可換軸 Hot-Swappable)",
+        "rating": "9.0",
+        "hon_price_min": "620",
+        "hon_price_max": "799",
+        "類型:": "可換軸式機械鍵盤",
+        "按鍵數:": "100",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K7 White Backlight 白光版超薄無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "559",
+        "hon_price_max": "599",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "白光",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Steelseries Apex 3 TKL 防水靜音電競鍵盤",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "549",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "NZXT Function Tenkeyless 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS plastic"
+    },
+    {
+        "names": "XPower 炫彩LED電競青軸機械鍵盤 KB4",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "249",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "LED"
+    },
+    {
+        "names": "Keychron Q0 QMK Custom Number Pad 自定義數字鍵盤 (Fully Assemble 全組裝)",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "629",
+        "類型:": "數字鍵盤",
+        "機械軸顏色:": "紅軸/青軸/茶軸",
+        "燈光模式:": "South-facing RGB LED"
+    },
+    {
+        "names": "Razer Huntsman 光學軸全彩光機械式鍵盤 Tournament Edition",
+        "rating": "",
+        "hon_price_min": "875",
+        "hon_price_max": "1,099",
+        "water_price_min": "730",
+        "water_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Glorious GMMK2 65% Pre-built ANSI 機械鍵盤",
+        "rating": "",
+        "hon_price_min": "869",
+        "hon_price_max": "969",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "雙射出成型 ABS 鍵帽"
+    },
+    {
+        "names": "Corsair K70 RGB MK.2 機械遊戲鍵盤 - Cherry MX",
+        "rating": "",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,480",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron K7 RGB Backlight low-profile Hot-swappable 矮軸可換軸版超薄無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "729",
+        "water_price_min": "698",
+        "water_price_max": "698",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Razer Phantom Keycap Upgrade Set 布丁鍵帽套裝",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "280",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "類型:": "替代鍵帽"
+    },
+    {
+        "names": "Razer Ornata V2 機械式薄膜​​鍵盤",
+        "rating": "7.6",
+        "hon_price_min": "479",
+        "hon_price_max": "810",
+        "water_price_min": "849",
+        "water_price_max": "849",
+        "類型:": "混合按鍵軸",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Ducky One 3 Daybreak RGB 機械式鍵盤 DKON2108ST",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,299",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Logitech G 無線機械式遊戲鍵盤 G613",
+        "rating": "6.0",
+        "hon_price_min": "599",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Corsair K55 RGB Pro + Katar Pro Gaming Bundle 電競套裝 CH-9226965-NA",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "580",
+        "類型:": "組合",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron Q6 全尺寸 QMK 可定制機械鍵盤 (Barebone版)",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,399",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "South-facing RGB LED"
+    },
+    {
+        "names": "GALAX Stealth 電競鍵盤 STL-01",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "498",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "金屬"
+    },
+    {
+        "names": "Keychron QMK Custom 100鍵 RGB 機械式鍵盤 (Knob Version) (可換軸 Hot-Swappable) (Gateron G Pro Switch) Q5",
+        "rating": "",
+        "hon_price_min": "1,289",
+        "hon_price_max": "1,599",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "MSI Vigor GK71 Sonic 機械電競鍵盤",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K6 68鍵RGB彩光藍牙無線機械鍵盤 (光學軸)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "788",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron C1 有線機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "429",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "Cherry RGB 機械式鍵盤 G80-3000S TKL",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "798",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Steelseries Apex Pro OmniPoint 全彩光機械式鍵盤",
+        "rating": "9.0",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Razer Huntsman V2 Tenkeyless 光學軸機械式鍵盤 Quartz Edition (Linear紅軸)",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,299",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Steelseries Apex Pro Mini Wireless 60% ANSI無線PBT遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,499",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Corsair K70 Pro Mini Wireless 60% 紅軸機械鍵盤 CH-9189010",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "1,488",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K70 RGB TKL CHAMPION SERIES 機械遊戲鍵盤 - CHERRY MX Speed CH-9119014-NA",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,150",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Cooler Master 65% Gaming Keyboard 有線遊戲鍵盤 CK720",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Ducky One 3 Daybreak SF RGB 機械式鍵盤 DKON2167ST",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,058",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Altec Lansing Wired Keyboard ALGK8614",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "328",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Machenike 100鍵 PBT雙色注塑 RGB Hot-Swappable 雙模機械鍵盤 K600",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Keychron Q6 全尺寸 QMK 可定制機械鍵盤 (Fully Assembled 全組裝版本)",
+        "rating": "",
+        "hon_price_min": "1,439",
+        "hon_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "South-facing RGB LED",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "HyperX Alloy Origins 65 機械軸電競鍵盤",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "HyperX Alloy Origins 60 RGB PBT 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "949",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Cherry Mx Board 8.0 銀框RGB MX 紅軸機械式鍵盤 G80-3880",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "1,280",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Logitech G 機械式鍵盤 G413 SE",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "649",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "白色",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Logitech G Pro 精簡型機械式遊戲鍵盤",
+        "rating": "8.0",
+        "hon_price_min": "849",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "AZIO Retro R.C.K. 短版藍牙復古打字機鍵盤",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "白光",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron K12 無線機械鍵盤 (非 Hotswap)",
+        "rating": "",
+        "hon_price_min": "559",
+        "hon_price_max": "659",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61"
+    },
+    {
+        "names": "Tecware Phantom RGB LED 87鍵機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "289",
+        "hon_price_max": "358",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Double Shot ABS"
+    },
+    {
+        "names": "Ducky One 3 Mini 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Corsair K70 RGB TKL CHAMPION SERIES 機械遊戲鍵盤 - CHERRY MX Red CH-9119010-NA",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,150",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Huntsman V2 Tenkeyless 光軸機械鍵盤",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,299",
+        "water_price_min": "1,549",
+        "water_price_max": "1,549",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "ASUS ROG Strix Scope RX TKL Wireless Deluxe 無線遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,360",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K63 緊湊型機械遊戲鍵盤 - CHERRY MX Red CH-9115020-NA",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "620",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸",
+        "燈光模式:": "紅光"
+    },
+    {
+        "names": "ASUS Rog Strix Flare RGB 機械遊戲鍵盤",
+        "rating": "2.0",
+        "hon_price_min": "799",
+        "hon_price_max": "1,230",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "茶軸/青軸/紅軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ROCCAT Pyro Linear Mechanical Gaming Keyboard 線性軸機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron K8 RGB Gateron 背光無線機械鍵盤 (Hot-swappable)",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS +鋁邊框"
+    },
+    {
+        "names": "ASUS ROG Strix Scope RGB 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "Aura RGB 燈效"
+    },
+    {
+        "names": "HP 有線鍵盤 K500F",
+        "rating": "",
+        "hon_price_min": "125",
+        "hon_price_max": "135",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "ASUS ROG Strix Flare II 遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K60 Pro TKL RGB 機械式遊戲鍵盤 (Corsair OPX銀軸) CH-911D01A",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "980",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Glorious GMMK2 Full Size 96% Barebones Gaming Keyboard 準成品",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Corsair K95 RGB Platinum XT 機械遊戲鍵盤 - CHERRY MX Brown CH-9127412-NA",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,630",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Ducky One 3 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Mistel Gloaming 暮色無線機械鍵盤 Q75",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "780",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "83",
+        "鍵帽材料:": "PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Corsair K57 + Harpoon RGB Wireless Combo 無線電競套裝",
+        "rating": "10",
+        "hon_price_min": "748",
+        "hon_price_max": "1,000",
+        "類型:": "組合",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "James Donkey A3 Gasket kit 墊片套裝 A3 Kit",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Ducky One 3 Fuji TKL 無背光機械式鍵盤 DKON2187",
+        "rating": "",
+        "hon_price_min": "869",
+        "hon_price_max": "869",
+        "類型:": "機械鍵盤",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "ASUS ROG Strix Scope NX Deluxe RGB 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,230",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Machenike 94鍵 PBT單色注塑 RGB Hot-Swappable 機械鍵盤 K500",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "299",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Keychron Q5 Barebone ISO Knob 準成品",
+        "rating": "",
+        "hon_price_min": "1,309",
+        "hon_price_max": "1,449",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Royal Kludge 104Key 無線藍牙RGB熱插拔機械鍵盤 RK98",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "599",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Keycaps: Keychron OSA Profile PBT Keycaps"
+    },
+    {
+        "names": "iRocks 艾芮克 K71M RGB Gateron Switch 機械軸鍵盤",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Ducky One 3 Matcha TKL 無背光機械式鍵盤 DKON2187",
+        "rating": "",
+        "hon_price_min": "869",
+        "hon_price_max": "869",
+        "類型:": "機械鍵盤",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "HP 有線機械式電競鍵盤 GK100F",
+        "rating": "10",
+        "hon_price_min": "240",
+        "hon_price_max": "348",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ASUS ROG Strix Scope TKL Deluxe  RGB 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Steelseries Apex 9 TKL PBT遊戲鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Keychron Q3 QMK Knob Fully Assembled 客制旋鈕版本機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,358",
+        "hon_price_max": "1,509",
+        "類型:": "機械軸鍵盤",
+        "機械軸顏色:": "紅軸/茶軸/青軸",
+        "鍵帽材料:": "Steel"
+    },
+    {
+        "names": "Steelseries Apex 3 防水遊戲鍵盤",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "High Quality Polymer Frame"
+    },
+    {
+        "names": "Keychron V3 Hot-Swappable RGB QMK Knob Custom Mechanical Keyboard 客制旋鈕版本機械鍵盤",
+        "rating": "8.0",
+        "hon_price_min": "694",
+        "hon_price_max": "810",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "88",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Ornata 黃色背光 混合按鍵類機械式鍵盤 Pokemon Pikachu 限定版",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "798",
+        "類型:": "類機械式鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "黃光"
+    },
+    {
+        "names": "Altec Lansing Wired Keyboard ALGK8404",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "299",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Cynosa Lite 薄膜式鍵盤",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "類型:": "薄膜鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Logitech G 背光機械遊戲鍵盤 G413",
+        "rating": "6.8",
+        "hon_price_min": "499",
+        "hon_price_max": "799",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "預設"
+    },
+    {
+        "names": "Cherry MX 3.0S 青軸 RGB機械式鍵盤 粉紅色別注版 G80-3870",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer BlackWidow V3 機械式電競鍵盤 HALO Infinite Edition",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,449",
+        "water_price_min": "1,449",
+        "water_price_max": "1,449",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Razer Huntsman Mini - 60% 光學遊戲鍵盤 (Clicky Purple Switch)",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "999",
+        "water_price_min": "718",
+        "water_price_max": "1,049",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "Razer Chroma RGB",
+        "鍵帽材料:": "鋁"
+    },
+    {
+        "names": "Keychron K6 68鍵彩光藍牙無線機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "549",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸/茶軸/紅軸",
+        "按鍵數:": "68"
+    },
+    {
+        "names": "AZIO Retro Classic Series 復古打字機鍵盤",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,999",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "Corsair K63 Blue LED 無線機械遊戲鍵盤 - CHERRY MX Red CH-9145030-NA",
+        "rating": "6.7",
+        "hon_price_min": "690",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "藍光"
+    },
+    {
+        "names": "Philips G600系列有線機械遊戲鍵盤 SPK8614",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "328",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Corsair K70 RGB MK.2 SE 機械遊戲鍵盤 - CHERRY MX Speed CH-9109114-NA",
+        "rating": "",
+        "hon_price_min": "1,239",
+        "hon_price_max": "1,470",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Logitech G K/DA PRO RGB 職業級競技機械式電競鍵盤 (GX觸感茶軸) 920-010101",
+        "rating": "",
+        "hon_price_min": "879",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Corsair K60 RGB PRO SE 機械電競鍵盤 - CHERRY MV CH-910D119-NA",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "910",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Cooler Master 無線機械鍵盤 CK721",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "730",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS Painting & Laser engraved , OEM Profile"
+    },
+    {
+        "names": "James Donkey Gasket Grey Keyboard (茶軸/紅軸) RS2",
+        "rating": "10",
+        "hon_price_min": "539",
+        "hon_price_max": "539",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "99"
+    },
+    {
+        "names": "Razer BlackWidow (2019) 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "675",
+        "hon_price_max": "997",
+        "water_price_min": "560",
+        "water_price_max": "560",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Ducky One 2 Mini V2 RGB 機械式鍵盤",
+        "rating": "8.0",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Corsair K83 無線娛樂鍵盤 CH-9268046-NA",
+        "rating": "",
+        "hon_price_min": "809",
+        "hon_price_max": "830",
+        "類型:": "薄膜鍵盤",
+        "按鍵數:": "77"
+    },
+    {
+        "names": "Keychron V2(V2D1) QMK with Knob 67鍵 RGB PBT機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "739",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Royal Kludge 藍牙三模機械鍵鼠套裝 RK932",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "530",
+        "類型:": "機械鍵盤+滑鼠組合",
+        "燈光模式:": "冰藍光"
+    },
+    {
+        "names": "Corsair K65 Mini 60% RGB機械式鍵盤白色版 CH-9194114-NA",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "998",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Keychron K1 機械鍵盤",
+        "rating": "6.0",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "ASUS ROG Strix Flare PNK LTD RGB機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,380",
+        "類型:": "機械式電競鍵盤",
+        "機械軸顏色:": "紅軸/青軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "iRocks 艾芮克 Series B 無背光機械式鍵盤 (K73MN 電子龐克)",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "749",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "107",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Redragon K613 Rainbow LED 61鍵 TKL青軸機械式鍵盤 K613-KB",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Keychron Q2 QMK Knob barebone 客制旋鈕版本機械鍵盤 (barebone版)",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,359",
+        "類型:": "機械鍵盤 (barebone底版版本)"
+    },
+    {
+        "names": "iRocks 艾芮克 K86R RGB機械軸鍵盤 KB-86R",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "750",
+        "類型:": "機械軸鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT二色成形鍵帽"
+    },
+    {
+        "names": "Razer Power Up Bundle 3合1電競套裝",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "899",
+        "類型:": "組合"
+    },
+    {
+        "names": "iRocks 艾芮克 Series C 無背光機械式鍵盤 (K73MN 薄荷蜜桃)",
+        "rating": "10",
+        "hon_price_min": "549",
+        "hon_price_max": "749",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "107",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Corsair K95 RGB Platinum XT 機械遊戲鍵盤 - CHERRY MX Blue CH-9127411-NA",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,630",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Corsair K70 RGB MK.2 機械遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,500",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ROCCAT Vulcan 120 RGB 機械鍵盤",
+        "rating": "8.0",
+        "hon_price_min": "799",
+        "hon_price_max": "1,090",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "120",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Fnatic Gear Streak 65 Low Profile 電競鍵盤",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "1,018",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron K6 Pro 68鍵 Swappable RGB Backlight Aluminum 藍牙無線機械鍵盤 (K6P-J1)",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Tecware Phantom+ 104-Key RGB 機械鍵盤",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "489",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K60 RGB PRO Low Profile 機械電競鍵盤 - CHERRY MX Low Profile Speed CH-910D018-NA",
+        "rating": "8.0",
+        "hon_price_min": "578",
+        "hon_price_max": "888",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "HYSJ LED 背光電競鍵盤 滑鼠套裝 2.4G無線 L98",
+        "rating": "",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "HyperX Alloy Core RGB 薄膜式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "489",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "類型:": "薄膜鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Machenike K7 Pro 87鍵 RGB Hot-Swappable 三模無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "728",
+        "hon_price_max": "759",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K60 RGB Pro Sweet Sky 機械式鍵盤 (CHERRY Viola軸) CH-910D719-NA",
+        "rating": "",
+        "hon_price_min": "858",
+        "hon_price_max": "858",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "James Donkey Gasket Grey Keyboard HUANO 黃軸 (Linear 47g) A3",
+        "rating": "10",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "81"
+    },
+    {
+        "names": "FILCO Majestouch 3 NINJA Tenkeyless 87鍵 側刻PBT機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,200",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Razer BlackWidow V3 Mini HyperSpeed RGB 無線機械式遊戲鍵盤 Phantom Edition",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,599",
+        "water_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "Razer Chroma RGB",
+        "鍵帽材料:": "標準 ABS"
+    },
+    {
+        "names": "Steelseries Apex M750 TKL PUBG Keyboard 鍵盤 (英文版) (64726)",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "599",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Steelseries Apex 9 Mini 60% PBT遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Ducky One 3 Daybreak TKL RGB 機械式鍵盤 DKON2187ST",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Ducky One 3 Daybreak Mini RGB 機械式鍵盤 DKON2161ST",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Cooler Master Hybrid 無線遊戲鍵盤 SK622",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "820",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "64",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Redragon K611 White Pink 青軸白光機械式鍵盤 K611-W1B",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "359",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Cherry MX8.0 RGB 機械鍵盤 G80-3888",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K95 RGB Platinum XT 機械遊戲鍵盤 - CHERRY MX Speed CH-9127414-NA",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,630",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "double-shot PBT"
+    },
+    {
+        "names": "Wuque Studio Aurora R2 鍵盤套件 (Aurora Fog/有線)",
+        "rating": "",
+        "hon_price_min": "1,049",
+        "hon_price_max": "1,049",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "CHERRY MX 3.0S 高性能遊戲鍵盤 G80-3874HSAEU",
+        "rating": "",
+        "hon_price_min": "938",
+        "hon_price_max": "948",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104+5"
+    },
+    {
+        "names": "FILCO Majestouch 3 104鍵 PBT機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "無光",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Keychron Q4 QMK Custom Mechanical Keyboard 定制機械鍵盤 (Fully Assembled 全組裝版本)",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,169",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "South-facing RGB LED",
+        "鍵帽材料:": "Steel"
+    },
+    {
+        "names": "Glorious GMMK Pro 75% Prebuilt ANSI",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,499",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron Q3 QMK Knob barebone 客制旋鈕版本機械鍵盤 (barebone版)",
+        "rating": "",
+        "hon_price_min": "1,223",
+        "hon_price_max": "1,359",
+        "類型:": "機械鍵盤",
+        "鍵帽材料:": "Steel"
+    },
+    {
+        "names": "Onikuma LED 背光機械遊戲鍵盤 G27",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Ducky One 3 Yellow Ducky Mini RGB 機械式鍵盤 DKON2161ST",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "iRocks 艾芮克 K71M RGB背光機械式鍵盤",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "570",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Durgod Fusion 機械式鍵盤 - Original",
+        "rating": "",
+        "hon_price_min": "939",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/青軸/茶軸",
+        "按鍵數:": "68"
+    },
+    {
+        "names": "HP 電競鍵盤滑鼠組合 KM300F",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "155",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Keychron C1 (C1H2) TKL 87鍵 RGB機械鍵盤 (可換軸 Hot-Swappable) (青軸)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "1,699",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "二色成形 ABS"
+    },
+    {
+        "names": "Durgod Fusion 機械式鍵盤 - Navigator",
+        "rating": "",
+        "hon_price_min": "939",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/青軸/茶軸",
+        "按鍵數:": "68"
+    },
+    {
+        "names": "Xtrfy K5 Compact RGB 65% Mechanical Gaming Keyboard 電競鍵盤",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "iRocks 艾芮克 K71RRGB 無線機械軸鍵盤",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "549",
+        "類型:": "機械軸鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "ROCCAT Vulcan Pro TKL RGB Titan Linear 線性光學軸機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "879",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Cherry MX 3.0S 黑框無光側刻機械式鍵盤 G80-3870",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "658",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "109",
+        "巨集鍵:": "有",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Logitech G Orion Spark RGB 機械式遊戲鍵盤 G910",
+        "rating": "8.7",
+        "hon_price_min": "899",
+        "hon_price_max": "1,249",
+        "water_price_min": "799",
+        "water_price_max": "930",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Mistel X8 Gloaming BT 藍牙無線機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "iRocks 艾芮克 K75M 黑框白光機械式鍵盤 IRK75MS",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "白光",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Razer BlackWidow V3 RGB 有線機械式鍵盤 (黃軸)",
+        "rating": "10",
+        "hon_price_min": "860",
+        "hon_price_max": "949",
+        "water_price_min": "1,099",
+        "water_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "Razer Chroma RGB",
+        "鍵帽材料:": "雙射出成型 ABS 鍵帽"
+    },
+    {
+        "names": "iKBC CD87 Pro Vintage 機械軸鍵盤 KB-C87VP",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "589",
+        "類型:": "機械軸",
+        "按鍵數:": "87",
+        "鍵帽材料:": "高耐用度 PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Keychron K6 68鍵RGB藍牙無線機械鍵盤 (可換軸 Hot-Swappable)",
+        "rating": "",
+        "hon_price_min": "629",
+        "hon_price_max": "799",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "FILCO Majestouch 3 NINJA 104鍵 側刻PBT機械式鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Cherry MX 2.0S 無光機械式鍵盤 G80-3820",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "478",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Vortex KBt RE:66 機械式復古PCjr鍵盤",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "66",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Gigabyte AORUS 電競機械鍵盤 K7",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ASUS TUF Gaming K1 RGB 薄膜靜音電競鍵盤",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "448",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "NIZ 寧芝 68鍵 藍牙無線靜電容鍵盤 Atom68",
+        "rating": "",
+        "hon_price_min": "1,146",
+        "hon_price_max": "1,146",
+        "類型:": "靜電容鍵盤",
+        "機械軸顏色:": "靜電容軸",
+        "按鍵數:": "68"
+    },
+    {
+        "names": "HyperX Alloy Elite 2 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "1,199",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "HyperX 輕快紅軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K70 Pro RGB PBT雙色成形 白色機械式遊戲鍵盤 (Corsair OPX銀軸) CH-910951A",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,490",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "iMICE LED背光電競鍵盤滑鼠套裝 A300",
+        "rating": "",
+        "water_price_min": "140",
+        "water_price_max": "140",
+        "類型:": "組合",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Royal Kludge 熱插拔三模青軸白光藍牙機械鍵盤 RK987",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "489",
+        "water_price_max": "489",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "MSI Vigor GK20 電競鍵盤",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "299",
+        "類型:": "薄膜鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "NIZ 寧芝 Micro 82 有線靜電容鍵盤",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "類型:": "靜電容鍵盤",
+        "按鍵數:": "82",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "NIZ 寧芝 82鍵 藍牙無線靜電容鍵盤",
+        "rating": "",
+        "hon_price_min": "1,149",
+        "hon_price_max": "1,149",
+        "類型:": "靜電容鍵盤",
+        "機械軸顏色:": "靜電容軸",
+        "按鍵數:": "82"
+    },
+    {
+        "names": "GameSir 青軸白光無線機械鍵盤 (灰黑色) GK300",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "T-DAGGER Bora RGB 背光機械式電競鍵盤 T-TGK315",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Glorious GMMK RGB 可換軸機械鍵盤 冰白版",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS Doubleshot黑色，帶雕刻 含穩定劑"
+    },
+    {
+        "names": "Cooler Master 機械電競鍵盤 CK530 V2",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "680",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS Double-injection keycaps"
+    },
+    {
+        "names": "Havit 背光遊戲機械鍵盤 KB870L",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Royal Kludge 摺疊式 Low Profile 60% 青軸 (BT+2.4G) 白光機械鍵盤 RK925",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "650",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "Wooting One 80% 光軸全彩光機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Razer BlackWidow V3 Mini HyperSpeed RGB 無線機械式遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,499",
+        "water_price_min": "1,599",
+        "water_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Doubleshot ABS"
+    },
+    {
+        "names": "Corsair K70 LUX Red LED 機械遊戲鍵盤 - CHERRY MX Red CH-9101020-NA",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸"
+    },
+    {
+        "names": "Fantech Fighter 電競鍵盤日本櫻花限定版 K613L",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "268",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Razer Tartarus V2 Mecha 機械式薄膜鍵盤",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "629",
+        "類型:": "機械式薄膜鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Dream Digital 幻彩RGB背光87鍵盤電競鍵盤 2.4G無線使用 model L100",
+        "rating": "",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "類型:": "其他",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Havit 有線遊戲鍵盤 HV-KB504L",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "98",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Varmilo Yakumo 108鍵 白光機械式鍵盤 VEM108",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "NZXT Function Full Size 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "935",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS plastic"
+    },
+    {
+        "names": "Razer Blackwidow Lite RGB 機械式電競鍵盤",
+        "rating": "10",
+        "hon_price_min": "600",
+        "hon_price_max": "699",
+        "water_price_min": "568",
+        "water_price_max": "702",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "橙軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer BlackWidow V3 Tenkeyless 機械式電競鍵盤 (Yellow Switch)",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "799",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "Razer Chroma RGB",
+        "鍵帽材料:": "Regular ABS"
+    },
+    {
+        "names": "Cougar Puri Mini DSA 60% 機械式遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "568",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型球狀鍵帽"
+    },
+    {
+        "names": "GAMDIAS Hermes E1B Combo 鍵盤滑鼠耳機組合",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "類型:": "組合"
+    },
+    {
+        "names": "HYSD LED 幻彩布丁鍵盤 61鍵有線電競青軸機械鍵盤 L2",
+        "rating": "",
+        "water_price_min": "160",
+        "water_price_max": "160",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K70 Pro Mini Wireless 60% 銀軸機械鍵盤 CH-9189014",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "1,488",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61鍵",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "iKBC CD108 Pro Vintage 機械軸鍵盤 KB-C18VP",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "機械軸",
+        "按鍵數:": "108",
+        "鍵帽材料:": "高耐用度 PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Razer Blackwidow - Mechanical Gaming Keyboard - US Layout FRML (Green Switch) RZ03-02860100-R3M1",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "749",
+        "water_price_min": "1,049",
+        "water_price_max": "1,049",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "綠軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Redragon K579 RGB 青軸機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "114",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Ducky One 3 SF 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,058",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "67",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron Q9 Barebone ISO Knob 準成品",
+        "rating": "",
+        "hon_price_min": "1,169",
+        "hon_price_max": "1,169",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "47"
+    },
+    {
+        "names": "Corsair K60 PRO 機械電競鍵盤 - Red LED - CHERRY MV CH-910D029-NA",
+        "rating": "8.0",
+        "hon_price_min": "589",
+        "hon_price_max": "630",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "FILCO Majestouch Lumi S 104key 電競鍵盤",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "AOC 有線青軸機械鍵盤 GK410",
+        "rating": "",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K68 Red LED 機械遊戲鍵盤 - CHERRY MX Red CH-9102020-NA",
+        "rating": "8.0",
+        "hon_price_min": "568",
+        "hon_price_max": "760",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸",
+        "燈光模式:": "紅光"
+    },
+    {
+        "names": "Meetion Dual Mode Bluetooth 60 Gaming Keyboard 無線機械鍵盤 MT-MK005BT",
+        "rating": "10",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "LED背光",
+        "鍵帽材料:": "雙注塑鍵帽"
+    },
+    {
+        "names": "HyperX Alloy Origins PBT RGB 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "824",
+        "hon_price_max": "824",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "ADATA XPG Infarex K10 電競鍵盤",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "189",
+        "類型:": "薄膜鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Gigabyte AORUS Optical 光軸電競鍵盤 K9",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "Gigabyte RGB Fusion"
+    },
+    {
+        "names": "Razer BlackWidow 機械式電競鍵盤 Tournament Edition Chroma V2",
+        "rating": "",
+        "hon_price_min": "838",
+        "hon_price_max": "1,099",
+        "water_price_min": "1,092",
+        "water_price_max": "1,092",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "T-DAGGER Verde 61鍵迷你RGB背光有線/無線機械鍵盤 T-TGK317",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "459",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Mistel MD770 RGB 藍牙人體工學機械鍵盤 KB-MD70B",
+        "rating": "10",
+        "hon_price_min": "1,089",
+        "hon_price_max": "1,180",
+        "類型:": "分體式機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Dell Alienware Low-Profile RGB 機械式遊戲鍵盤 (Cherry MX紅軸) AW510K",
+        "rating": "",
+        "hon_price_min": "1,738",
+        "hon_price_max": "1,738",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K70 RGB MK.2 Low Profile RAPIDFIRE 機械遊戲鍵盤 - CHERRY MX Low Profile Speed CH-9109018-NA",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,520",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Fnatic Gear Streak 65 Ultra Compact Esports Keyboard 電競鍵盤",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "939",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Ducky One 2 Mini RGB 機械式鍵盤",
+        "rating": "9.5",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "iKBC 2.4G 無線機械鍵盤 W210",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108"
+    },
+    {
+        "names": "Cooler Master 電競鍵盤 SK621",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "930",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "64",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Havit 背光電競機械鍵盤 KB 857L",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "269",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Corsair K70 RGB MK.2 Low Profile 機械遊戲鍵盤 CH-9109017-NA",
+        "rating": "",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Corsair K70 RGB 機械遊戲鍵盤 - Cherry MX Red / Brown",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,380",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Ornata Chroma 機械式薄膜​​鍵盤",
+        "rating": "7.3",
+        "hon_price_min": "649",
+        "hon_price_max": "799",
+        "類型:": "薄膜鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Dream Digital 幻彩RGB 61鍵電競無線青軸機械鍵盤 三模式連接 model S61",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "61",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Redragon K607P Wireless RGB 青軸無線機械式鍵盤 K607P-KBS",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "580",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Redragon K605 Alien 超大型機械鍵盤",
+        "rating": "",
+        "water_price_min": "2,200",
+        "water_price_max": "2,200",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair Strafe 機械遊戲鍵盤 (紅軸/茶軸)",
+        "rating": "9.0",
+        "hon_price_min": "599",
+        "hon_price_max": "890",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "紅光"
+    },
+    {
+        "names": "Gigabyte AORUS RGB 紅軸機械式鍵盤 K1",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "750",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "MOUNTAIN Everest Max 高端機械鍵盤",
+        "rating": "",
+        "water_price_min": "2,899",
+        "water_price_max": "2,899",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "ASUS TUF Gaming K3 RGB 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "545",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Machenike 84鍵 PBT單色注塑 RGB機械鍵盤 K500",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "279",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "Keychron Q9 47鍵 Swappable RGB Backlight Knob Version PBT機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,189",
+        "hon_price_max": "1,319",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "47",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "HyperX Alloy FPS Pro 紅軸機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "545",
+        "water_price_max": "545",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "紅光",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Machenike 100鍵 PBT雙色注塑 RGB Hot-Swappable 藍牙無線三模機械鍵盤 K600 Echo Blue",
+        "rating": "",
+        "hon_price_min": "619",
+        "hon_price_max": "619",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "100",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "FILCO Majestouch Convertible 2 87鍵 藍牙機械鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,350",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/青軸",
+        "按鍵數:": "87"
+    },
+    {
+        "names": "Ducky One 3 RGB TKL 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "ASUS Strix Scope TKL Electro Punk 機械式鍵盤限量版",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸/紅軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Gigabyte Force RGB機械式鍵盤 K85",
+        "rating": "8.0",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Vertux Tungsten 超級動作機械遊戲青軸鍵盤",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "Rainbow LED"
+    },
+    {
+        "names": "Akko Hello Kitty系列 粉軸機械式鍵盤 3087 V2",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "519",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "No",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Akko 《崩壞3》布洛妮婭理之律者 背光機械鍵盤 5108S",
+        "rating": "",
+        "water_price_min": "1,200",
+        "water_price_max": "1,200",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS + PBT"
+    },
+    {
+        "names": "Mad Catz S.T.R.I.K.E. 13 RGB機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "939",
+        "hon_price_max": "939",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "96",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Steelseries Apex 7 TKL Ghost 紅軸全彩光機械式鍵盤 (白色特別版)",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,680",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "SP-Star 極星 機械式鍵盤 (MOMO聯名版粉紅色) MK101P",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,149",
+        "類型:": "機械鍵盤",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Keychron Q10 (Alice Layout) QMK Knob Custom Mechanical Keyboard 客制旋鈕版本機械鍵盤",
+        "rating": "",
+        "hon_price_min": "1,460",
+        "hon_price_max": "1,550",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "89",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Huntsman Quartz Pink 光學遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,199",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Dragon War RGB 燈效可自定巨集電競遊戲鍵盤 GK-016",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "420",
+        "類型:": "機械軸鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Cherry MX 1.0 紅軸機械式鍵盤 G80-3816",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "燈光模式:": "None"
+    },
+    {
+        "names": "Steelseries Apex 7 全彩光機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Durgod Taurus TKL 機械式鍵盤 K320",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "698",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/青軸/茶軸",
+        "按鍵數:": "87"
+    },
+    {
+        "names": "Steelseries Apex Pro Mini 60% ANSI PBT遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,799",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "ASUS ROG Scope TKL 機械式鍵盤連手托 (GUNDAM限定版)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸/紅軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "MSI Vigor GK50Z RGB 有線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "299",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ASUS ROG Strix Scope PBT 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸"
+    },
+    {
+        "names": "HyperX Alloy Origins Core PBT RGB 87鍵機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "709",
+        "hon_price_max": "709",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Philips 有線機械遊戲鍵盤 SPK8404/00",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "230",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "AULA 機械式電競鍵盤 F2066 II",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "235",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K55 RGB 電競鍵盤 CH-9206015-NA",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "499",
+        "類型:": "薄膜鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair K68 RGB 機械遊戲鍵盤 - CHERRY MX Red CH-9102010-NA",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "950",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Keychron Q6 QMK Custom Fully Assembled Knob 108鍵 RGB 機械式鍵盤 (可換軸 Hot-Swappable)",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,599",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Full CNC machined aluminum"
+    },
+    {
+        "names": "Tt eSPORTS POSEIDON Z RGB 茶軸機械鍵盤",
+        "rating": "8.0",
+        "hon_price_min": "699",
+        "hon_price_max": "860",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Machenike 100鍵 PBT雙色注塑 RGB Hot-Swappable 藍牙無線三模機械鍵盤 K600",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "619",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT 二色成型鍵帽"
+    },
+    {
+        "names": "ROCCAT Vulcan 80 泰坦軸藍光 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "750",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "透明"
+    },
+    {
+        "names": "GAMDIAS Ares M2 + Zeus E2 鍵盤滑鼠組合",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "199",
+        "類型:": "組合"
+    },
+    {
+        "names": "Razer Huntsman 光學機械電競鍵盤 Gears 5 Edition",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,399",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有"
+    },
+    {
+        "names": "Vortex KBt RE:68 機械式復古PCjr鍵盤",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "68",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Ducky One 3 Fuji 無背光機械式鍵盤 DKON2108",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "949",
+        "類型:": "機械鍵盤",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Dream Digital LED 背光電競青軸機械鍵鼠套裝 LA38",
+        "rating": "",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Cherry MX 6.0 RGB 紅軸機械式鍵盤 G80-3931",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "燈光模式:": "RED LED"
+    },
+    {
+        "names": "Corsair 3合1電競套裝 (K60+Harpoon+MM300)",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "740",
+        "類型:": "組合"
+    },
+    {
+        "names": "Ducky One 2 Min SF 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "888",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Cooler Master 電競鍵盤 SK650",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "960",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Havit RGB 背光電競機械鍵盤 HV-KB432L",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Corsair Strafe RGB 機械遊戲鍵盤 - CHERRY MX Brown",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "茶軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Tartarus Pro 類比式光學按鍵軸遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,190",
+        "類型:": "類比機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "FirstBlood 機械電競鍵盤 S1",
+        "rating": "",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "96",
+        "燈光模式:": "白光",
+        "鍵帽材料:": "Double Shot PBT"
+    },
+    {
+        "names": "iMICE 電競鍵盤 AK-600",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Motospeed RGB 機械式電競鍵盤 CK82",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Outem Switch, Double Injection Keys"
+    },
+    {
+        "names": "Cherry MX 3.0S 白框無光正刻機械式鍵盤 G80-3870",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "748",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "109",
+        "巨集鍵:": "有",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Philips 有線遊戲鍵盤 SPK8624",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "POLAR 機械遊戲鍵盤 PGK-113",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "275",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87Keys + 12Hot Keys"
+    },
+    {
+        "names": "Ducky One 3 Yellow Ducky SF RGB 機械式鍵盤 DKON2167ST",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Motospeed RGB 機械式電競鍵盤 K87S",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "outem switch, double injection keys"
+    },
+    {
+        "names": "Razer Blackwidow Elite RGB 機械式電競鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,148",
+        "hon_price_max": "1,399",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "綠/橙/黃"
+    },
+    {
+        "names": "T-DAGGER Escort 機械式電競鍵盤 T-TGK303",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "彩光"
+    },
+    {
+        "names": "SP-Star 機械式鍵盤 MK101",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "機械鍵盤",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "iRocks 艾芮克 K76M Custom Pink Edition 機械式鍵盤 KB-76MS",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "Royal Kludge RGB 無線機械式鍵盤+滑鼠組合 RK528",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "469",
+        "類型:": "組合",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Wuque Studio Aurora R2 鍵盤套件 (Aurora Snow/雙模)",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "NIZ 寧芝 108 IP68 防水有線靜電容鍵盤",
+        "rating": "",
+        "hon_price_min": "968",
+        "hon_price_max": "968",
+        "類型:": "靜電容鍵盤",
+        "機械軸顏色:": "靜電容軸",
+        "按鍵數:": "108"
+    },
+    {
+        "names": "Cooler Master TKL RGB 機械式電競鍵盤 CK530",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "680",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "MSI Vigor GK50Z mini RGB TKL Mechanical Keyboard 有線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "299",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Redragon K599   無線/有線 RGB 二合一紅軸電競鍵盤",
+        "rating": "10",
+        "hon_price_min": "489",
+        "hon_price_max": "499",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "70",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Vortex 有線USB-C / 無線藍牙機械鍵盤 TAB75 (青/茶/紅/白)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,009",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青/茶/紅/白",
+        "按鍵數:": "84"
+    },
+    {
+        "names": "HyperX Alloy Origins RGB 機械式電競鍵盤",
+        "rating": "8.0",
+        "hon_price_min": "749",
+        "hon_price_max": "999",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Steelseries Apex 7 TKL 紅軸全彩光機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,499",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Shurikey Gear Saizo 003 電競鍵盤",
+        "rating": "",
+        "water_price_min": "1,299",
+        "water_price_max": "1,299",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "81",
+        "燈光模式:": "白光",
+        "鍵帽材料:": "Double Shot ABS"
+    },
+    {
+        "names": "iRocks 艾芮克 Series A 無背光機械式鍵盤 (K73MN 夕陽海灣)",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "749",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "107",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "HP 機械式電競鍵盤 GK600YS",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "360",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸"
+    },
+    {
+        "names": "Keychron K12 - 60% Compact Wireless Mechanical Keyboard 無線可換軸機械鍵盤",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "759",
+        "類型:": "機械軸可換軸",
+        "按鍵數:": "61",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "ThunderX3 全彩光機械式鍵盤 AK7",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "MSI Vigor GK30 Combo TC 鍵鼠套裝 KB-MGK3CT",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "430",
+        "類型:": "組合"
+    },
+    {
+        "names": "Havit RGB 背光電競機械鍵盤 KB858L",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Glorious GMMK RGB全彩光機械式鍵盤 (GATERON茶軸)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,180",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "FILCO Majestouch 2SS Edition 87鍵 PBT二色成形銀軸機械鍵盤",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "銀軸"
+    },
+    {
+        "names": "Tt eSPORTS Neptune Elite RGB 機械遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "770",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "MSI Interceptor 電競鍵盤 DS4100",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299",
+        "類型:": "薄膜鍵盤",
+        "燈光模式:": "預設"
+    },
+    {
+        "names": "Vortex 有線USB-C / 無線藍牙機械鍵盤 TAB60 (青/茶/紅/白)",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "900",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青/茶/紅/白",
+        "按鍵數:": "61"
+    },
+    {
+        "names": "Wuque Studio Aurora R2 鍵盤套件 (Aurora Blue/雙模)",
+        "rating": "",
+        "hon_price_min": "1,279",
+        "hon_price_max": "1,279",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "KBDFans Tiger Lite 鍵盤套件",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Ducky One 2 Mecha Min 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "998",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Cherry MX 1.0 TKL RGB機械式鍵盤 G80-3814",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Philips G901 有線機械遊戲鍵盤 SPK8901BQMC",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "200",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Tt eSPORTS TT Premium Level 20 RGB Cherry MX 機械式青軸電競鍵盤 (太空灰)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,250",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Tecware Phantom L RGB LED  87鍵矮軸機械鍵盤",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "349",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "Non-Fade Double-shot ABS"
+    },
+    {
+        "names": "Mistel X8 Glaze Blue BT 藍牙無線機械式鍵盤",
+        "rating": "10",
+        "hon_price_min": "770",
+        "hon_price_max": "949",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "燈光模式:": "NO",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Marvo 4 in 1 Gaming Starter 電競粉紅套裝 CM370PK",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "368",
+        "類型:": "組合"
+    },
+    {
+        "names": "Tt eSPORTS MEKA Pro 青軸機械遊戲鍵盤",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸",
+        "燈光模式:": "紅光"
+    },
+    {
+        "names": "Royal Kludge 熱插拔RGB三模青軸藍牙機械鍵盤 RK96",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "560",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Motospeed RGB 機械式電競鍵盤附手托 CK108",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "outem switch, double injection keys"
+    },
+    {
+        "names": "Abkoncore K660 ARC 機械式鍵盤 Premium Edition",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "GALAX Stealth 電競鍵盤 STL-03",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "328",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "LED",
+        "鍵帽材料:": "金屬"
+    },
+    {
+        "names": "ROCCAT Vulcan Pro RGB Titan Optical Linear 線性軸機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,299",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "Linear",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Razer Huntsman Elite 光學按鍵軸鍵盤 RED",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,749",
+        "water_price_min": "1,380",
+        "water_price_max": "1,749",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Meetion 可換軸 熱插拔  青軸 LED機械遊戲鍵盤 MT-MK007 PRO",
+        "rating": "10",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "Colorful LED",
+        "鍵帽材料:": "Full keys Anti-ghosting"
+    },
+    {
+        "names": "Motospeed RGB 機械式電競鍵盤 K82",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "outem switch, double injection keys"
+    },
+    {
+        "names": "FILCO Majestouch 2 Ninja Cherry MX 104鍵 機械式鍵盤",
+        "rating": "8.0",
+        "hon_price_min": "1,149",
+        "hon_price_max": "1,250",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "紅軸/茶軸/黑軸/青軸"
+    },
+    {
+        "names": "Steelseries Apex M750 機械電競鍵盤",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Deiog 青軸機械鍵盤滑鼠套裝 DY-116",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "類型:": "組合",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Handjoy K1 絕地槍神 手遊專業機械鍵盤",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "399",
+        "water_price_max": "399"
+    },
+    {
+        "names": "MSI Vigor GK50 Elite BOX White 凱華白軸鍵盤 KB-MGK5BLT",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "104",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Dream Digital 87鍵有線電競紅軸機械鍵盤 10彩色鍵帽 L6",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "Vortex 有線USB-C / 無線藍牙機械鍵盤 TAB90 (青/茶/紅/白)",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,099",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青/茶/紅/白",
+        "按鍵數:": "105"
+    },
+    {
+        "names": "iRocks 艾芮克 K65MN 機械鍵盤 (青軸/茶軸)",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "青軸/茶軸",
+        "按鍵數:": "104"
+    },
+    {
+        "names": "Machenike 94鍵 PBT 雙色注塑鍵帽 Hot-Swappable 藍牙無線RGB機械鍵盤 (Steel Legion) K500",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "RGB",
+        "鍵帽材料:": "高級 PBT 雙色注塑鍵帽"
+    },
+    {
+        "names": "Keychron K1 87鍵 無線機械鍵盤 (Version 4)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "iKBC Typemaster X400 Low Profile 機械鍵盤 CHERRY MX Red KB-K4LRD",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "燈光模式:": "白光",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Tt eSPORTS Premium X1 RGB Cherry MX Speed Silver 銀軸機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "機械軸顏色:": "銀軸",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "iClever 紅軸人體工學機械鍵盤 IC-G01",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "87",
+        "燈光模式:": "RGB"
+    },
+    {
+        "names": "Havit 電競鍵鼠組合 KB852CM",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "類型:": "組合"
+    },
+    {
+        "names": "Ajazz 黑爵 82鍵 青軸有線機械鍵盤  AK33",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "305",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "82",
+        "燈光模式:": "白光"
+    },
+    {
+        "names": "iKBC CD108 Pro 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "579",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "燈光模式:": "NO",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "Zowie CELERITAS II 機械式電競鍵盤",
+        "rating": "",
+        "hon_price_min": "934",
+        "hon_price_max": "999",
+        "類型:": "機械鍵盤",
+        "巨集鍵:": "沒有",
+        "燈光模式:": "紅光",
+        "鍵帽材料:": "ABS"
+    },
+    {
+        "names": "Dragon War Illuminated 機械式鍵盤中文版 GK-004-CHI",
+        "rating": "10",
+        "hon_price_min": "98",
+        "hon_price_max": "159",
+        "類型:": "薄膜鍵盤",
+        "燈光模式:": "藍光"
+    },
+    {
+        "names": "Mistel X8 Gloaming 機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "799",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108",
+        "鍵帽材料:": "PBT"
+    },
+    {
+        "names": "AKKO 火影忍者系列 機械式鍵盤 3108 V2 (漩渦鳴人Naruto)",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "449",
+        "類型:": "機械鍵盤",
+        "按鍵數:": "108"
+    },
+    {
+        "names": "Wuque Studio Aurora R2 鍵盤套件 (Aurora Fog/雙模)",
+        "rating": "",
+        "hon_price_min": "1,279",
+        "hon_price_max": "1,279",
+        "類型:": "機械鍵盤"
+    },
+    {
+        "names": "ROCCAT Magma Membrane RGB 薄膜鍵盤",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "479",
+        "類型:": "薄膜鍵盤",
+        "燈光模式:": "RGB"
+    }
+]

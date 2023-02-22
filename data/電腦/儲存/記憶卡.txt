@@ -1,0 +1,3877 @@
+[
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 256GB [R:150] SDSQUAC-256G",
+        "rating": "9.6",
+        "hon_price_min": "113",
+        "hon_price_max": "168",
+        "water_price_min": "114",
+        "water_price_max": "145",
+        "種類:": "microSDXC",
+        "速度:": "Read 150MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro A2 V30 U3 MicroSDXC UHS-I Card 256GB [R:200 W:140]",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "298",
+        "water_price_min": "182",
+        "water_price_max": "255",
+        "種類:": "microSDXC",
+        "速度:": "Read:200MB/s, Write:140MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 512GB [R:150] SDSQUAC-512G",
+        "rating": "9.7",
+        "hon_price_min": "229",
+        "hon_price_max": "328",
+        "water_price_min": "229",
+        "water_price_max": "290",
+        "種類:": "microSDXC",
+        "速度:": "Read 150MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 256GB [R:190 W:130]",
+        "rating": "9.9",
+        "hon_price_min": "140",
+        "hon_price_max": "210",
+        "water_price_min": "141",
+        "water_price_max": "208",
+        "種類:": "microSDXC",
+        "速度:": "Read 190MB/s, Write 130MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 256GB [R:120] SDSQUA4-256G-GN6MN",
+        "rating": "9.7",
+        "hon_price_min": "113",
+        "hon_price_max": "238",
+        "water_price_min": "114",
+        "water_price_max": "188",
+        "種類:": "microSDXC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 512GB [R:190 W:130]",
+        "rating": "9.8",
+        "hon_price_min": "290",
+        "hon_price_max": "429",
+        "water_price_min": "287",
+        "water_price_max": "335",
+        "種類:": "microSDXC",
+        "速度:": "Read 190MB/s, Write 130MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 256GB [R:160 W:90]",
+        "rating": "9.9",
+        "hon_price_min": "140",
+        "hon_price_max": "370",
+        "water_price_min": "141",
+        "water_price_max": "210",
+        "種類:": "microSDXC",
+        "速度:": "Read 160MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 128GB [R:170 W:90]",
+        "rating": "8.0",
+        "hon_price_min": "140",
+        "hon_price_max": "399",
+        "water_price_min": "140",
+        "water_price_max": "218",
+        "種類:": "SDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro A2 V30 U3 MicroSDXC UHS-I Card 1TB [R:200 W:140]",
+        "rating": "8.7",
+        "hon_price_min": "835",
+        "hon_price_max": "1,198",
+        "water_price_min": "839",
+        "water_price_max": "885",
+        "種類:": "microSDXC",
+        "速度:": "Read:200MB/s, Write:140MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 128GB [R:190 W:90]",
+        "rating": "10",
+        "hon_price_min": "81",
+        "hon_price_max": "115",
+        "water_price_min": "81",
+        "water_price_max": "118",
+        "種類:": "microSDXC",
+        "速度:": "Read 190MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 1TB [R:190 W:130]",
+        "rating": "9.4",
+        "hon_price_min": "738",
+        "hon_price_max": "1,120",
+        "water_price_min": "739",
+        "water_price_max": "980",
+        "種類:": "microSDXC",
+        "速度:": "Read 190MB/s, Write 130MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 64GB [R:200 W:90]",
+        "rating": "10",
+        "hon_price_min": "79",
+        "hon_price_max": "140",
+        "water_price_min": "79",
+        "water_price_max": "103",
+        "種類:": "SDXC",
+        "速度:": "Read 200MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Samsung 三星 MicroSDXC EVO Plus 256GB U3/A2/V30/UHS-I Card with SD Adapter MB-MC256KA [R:130]",
+        "rating": "8.9",
+        "hon_price_min": "139",
+        "hon_price_max": "195",
+        "種類:": "microSDXC",
+        "速度:": "Read:130MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 256GB [R:200 W:140]",
+        "rating": "10",
+        "hon_price_min": "275",
+        "hon_price_max": "498",
+        "water_price_min": "278",
+        "water_price_max": "360",
+        "種類:": "SDXC",
+        "速度:": "Read 200MB/s, Write 140MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 128GB [R:200 W:90]",
+        "rating": "10",
+        "hon_price_min": "140",
+        "hon_price_max": "258",
+        "water_price_min": "140",
+        "water_price_max": "187",
+        "種類:": "SDXC",
+        "速度:": "Read 200MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Samsung 三星 MicroSDXC EVO Plus 256GB U3/A2/V30/UHS-I Card with SD Adapter MB-MC256KA [R:130]",
+        "rating": "8.9",
+        "hon_price_min": "139",
+        "hon_price_max": "195",
+        "種類:": "microSDXC",
+        "速度:": "Read:130MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 256GB [R:200 W:140]",
+        "rating": "10",
+        "hon_price_min": "275",
+        "hon_price_max": "498",
+        "water_price_min": "278",
+        "water_price_max": "360",
+        "種類:": "SDXC",
+        "速度:": "Read 200MB/s, Write 140MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 256GB [R:120] SDSQUA4-256G-GN6MN",
+        "rating": "9.7",
+        "hon_price_min": "113",
+        "hon_price_max": "238",
+        "water_price_min": "114",
+        "water_price_max": "188",
+        "種類:": "microSDXC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 128GB [R:200 W:90]",
+        "rating": "10",
+        "hon_price_min": "140",
+        "hon_price_max": "258",
+        "water_price_min": "140",
+        "water_price_max": "187",
+        "種類:": "SDXC",
+        "速度:": "Read 200MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO A2 V30 U3 MicroSD card 256GB [R:170 W:90]",
+        "rating": "9.5",
+        "hon_price_min": "180",
+        "hon_price_max": "531",
+        "water_price_min": "182",
+        "water_price_max": "288",
+        "種類:": "microSDXC",
+        "速度:": "Read:170MB/s, Write:90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 256GB [R:170 W:90]",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "569",
+        "water_price_min": "278",
+        "water_price_max": "475",
+        "種類:": "SDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Samsung 三星 MicroSDXC EVO Plus 512GB [R:100 W: 90]",
+        "rating": "7.6",
+        "hon_price_min": "295",
+        "hon_price_max": "628",
+        "種類:": "microSDXC",
+        "速度:": "R: 100MB/s ,W 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFexpress Card Type-B 512GB [R:1700 W:1400]",
+        "rating": "10",
+        "hon_price_min": "3,500",
+        "hon_price_max": "4,210",
+        "water_price_min": "3,660",
+        "water_price_max": "3,980",
+        "種類:": "CF",
+        "速度:": "Read: 1700MB/s Write: 1400MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFexpress Card Type-B 128GB [R:1700 W:1200]",
+        "rating": "9.3",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,890",
+        "water_price_min": "1,090",
+        "water_price_max": "1,090",
+        "種類:": "CF",
+        "速度:": "Read:1700MB/s Write: 1200MB/s"
+    },
+    {
+        "names": "SanDisk MicroSD UHS-I Card for Nintendo Switch 512GB [R:100 W:90]",
+        "rating": "9.3",
+        "hon_price_min": "388",
+        "hon_price_max": "1,122",
+        "water_price_min": "415",
+        "water_price_max": "765",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 1TB [R:190 W:130]",
+        "rating": "9.4",
+        "hon_price_min": "738",
+        "hon_price_max": "1,120",
+        "water_price_min": "739",
+        "water_price_max": "980",
+        "種類:": "microSDXC",
+        "速度:": "Read 190MB/s, Write 130MB/s"
+    },
+    {
+        "names": "Prograde Digital CFexpress 2.0 Type B Memory Card (Gold) 512GB [R:1700 W:1300]",
+        "rating": "",
+        "hon_price_min": "1,520",
+        "hon_price_max": "1,520",
+        "種類:": "CF express 2.0 Type B",
+        "速度:": "Read 1700Mb/s, Write 800MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 512GB [R:160 W:90]",
+        "rating": "9.2",
+        "hon_price_min": "290",
+        "hon_price_max": "880",
+        "water_price_min": "293",
+        "water_price_max": "490",
+        "種類:": "microSDXC",
+        "速度:": "Read 160MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk MicroSD UHS-I Card for Nintendo Switch 256GB [R:100 W:90]",
+        "rating": "10",
+        "hon_price_min": "224",
+        "hon_price_max": "414",
+        "water_price_min": "224",
+        "water_price_max": "295",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 128GB [R:160 W:90]",
+        "rating": "9.9",
+        "hon_price_min": "81",
+        "hon_price_max": "170",
+        "water_price_min": "81",
+        "water_price_max": "180",
+        "種類:": "microSDXC",
+        "速度:": "Read:160MB/s, Write:90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDXC UHS-I Card 128GB [R:100]",
+        "rating": "9.4",
+        "hon_price_min": "56",
+        "hon_price_max": "99",
+        "water_price_min": "57",
+        "water_price_max": "76",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "Exascend Archon 系列 CFexpress Type B 記憶卡 2TB [R:1700 W:1600]",
+        "rating": "",
+        "hon_price_min": "7,700",
+        "hon_price_max": "7,700",
+        "種類:": "CF Express Type B",
+        "速度:": "Read 1700MB/s, Read:1600MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 microSDXC UHS-I Card 512GB [R:100]",
+        "rating": "9.5",
+        "hon_price_min": "229",
+        "hon_price_max": "528",
+        "water_price_min": "229",
+        "water_price_max": "398",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "Sony TOUGH CEA-G 系列 CFexpress Type A 記憶卡 160GB CEA-G160T [R:800 W:700]",
+        "rating": "10",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,890",
+        "water_price_min": "2,150",
+        "water_price_max": "2,620",
+        "種類:": "CF",
+        "速度:": "Read: 800MB/s Write: 700MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 512GB [R:200 W:140]",
+        "rating": "10",
+        "hon_price_min": "615",
+        "hon_price_max": "938",
+        "water_price_min": "615",
+        "water_price_max": "626",
+        "種類:": "SDXC",
+        "速度:": "Read 200MB/s, Write 140MB/s"
+    },
+    {
+        "names": "Samsung 三星 U3 MicroSDXC EVO Plus 128GB with Adapter [R:100 W:60]",
+        "rating": "9.4",
+        "hon_price_min": "65",
+        "hon_price_max": "249",
+        "種類:": "microSDXC",
+        "速度:": "Read: up to 100MB/s; Write: up to 60MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 128GB [R:120]",
+        "rating": "9.8",
+        "hon_price_min": "62",
+        "hon_price_max": "169",
+        "water_price_min": "62",
+        "water_price_max": "120",
+        "種類:": "microSDXC",
+        "速度:": "120MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 A1 microSDXC UHS-I Card with SD adapter 1TB [R:150] SDSQUAC-1T00",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "678",
+        "water_price_min": "579",
+        "water_price_max": "740",
+        "種類:": "microSDXC",
+        "速度:": "Read 150MB/s"
+    },
+    {
+        "names": "Exascend Element 系列 CF Express Type B 記憶卡 512GB [R:1800 W:1200]",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "種類:": "CF Express Type B",
+        "速度:": "Read 1800MB/s, Write 1200MB/s"
+    },
+    {
+        "names": "Samsung 三星 2021 EVO Plus 128GB microSDXC U3/A2/V30/UHS-I Card with SD Adapter MB-MC128KA [R:130]",
+        "rating": "10",
+        "hon_price_min": "64",
+        "hon_price_max": "99",
+        "種類:": "microSDXC",
+        "速度:": "Read 130MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro A2 V30 U3 MicroSDXC UHS-I Card 128GB [R:200 W:90]",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "155",
+        "water_price_min": "109",
+        "water_price_max": "132",
+        "種類:": "microSDXC",
+        "速度:": "Read:200MB/s, Write:90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 128GB [R:140] SDSQUAB-128G",
+        "rating": "9.5",
+        "hon_price_min": "62",
+        "hon_price_max": "98",
+        "water_price_min": "62",
+        "water_price_max": "82",
+        "種類:": "microSDXC",
+        "速度:": "Read 140MB/s"
+    },
+    {
+        "names": "Sony M-Series Tough SF-M128T UHS-II SDXC 128GB [R:277 W:150]",
+        "rating": "10",
+        "hon_price_min": "538",
+        "hon_price_max": "568",
+        "water_price_min": "500",
+        "water_price_max": "500",
+        "種類:": "SDXC",
+        "速度:": "Read: 277MB/s Write: 150MB/s"
+    },
+    {
+        "names": "Samsung 三星 MicroSDXC EVO Plus 512GB U3/A2/V30//UHS-I Card with SD Adapter MB-MC512KA [R:130]",
+        "rating": "9.0",
+        "hon_price_min": "295",
+        "hon_price_max": "440",
+        "種類:": "microSDXC",
+        "速度:": "Read:130MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SD UHS-I Card 512GB [R:170 W:90]",
+        "rating": "10",
+        "hon_price_min": "615",
+        "hon_price_max": "890",
+        "water_price_min": "615",
+        "water_price_max": "855",
+        "種類:": "SDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFexpress Card Type-B 256GB [R:1700 W:1200]",
+        "rating": "10",
+        "hon_price_min": "2,278",
+        "hon_price_max": "3,180",
+        "water_price_min": "2,025",
+        "water_price_max": "2,780",
+        "種類:": "CF",
+        "速度:": "Read:1700MB/s Write: 1200MB/s"
+    },
+    {
+        "names": "Kingston Canvas React Plus Kit UHS-II SD 記憶卡 128GB [R:300 W:260] with UHS-II SD Reader",
+        "rating": "9.0",
+        "hon_price_min": "678",
+        "hon_price_max": "728",
+        "種類:": "SDXC",
+        "速度:": "Read: 300MB/s Write: 260MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro A2 V30 U3 MicroSD card 64GB [R:170 W:90]",
+        "rating": "9.5",
+        "hon_price_min": "64",
+        "hon_price_max": "179",
+        "water_price_min": "64",
+        "water_price_max": "79",
+        "種類:": "microSDXC",
+        "速度:": "Read:170MB/s, Write:90MB/s"
+    },
+    {
+        "names": "Netac P500 Extreme Pro MicroSD With Adapter 512GB [R:100]",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO A2 V30 U3 microSD Card 1TB [R:170 W:90]",
+        "rating": "9.7",
+        "hon_price_min": "835",
+        "hon_price_max": "1,880",
+        "water_price_min": "839",
+        "water_price_max": "1,330",
+        "種類:": "microSDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk MicroSD UHS-I Card for Nintendo Switch 128GB [R:100 W:90]",
+        "rating": "9.6",
+        "hon_price_min": "116",
+        "hon_price_max": "209",
+        "water_price_min": "116",
+        "water_price_max": "158",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Sony TOUGH CEA-G 系列 CFexpress Type A 記憶卡 80GB CEA-G80T [R:800 W:700]",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,430",
+        "water_price_min": "1,050",
+        "water_price_max": "1,800",
+        "種類:": "CF",
+        "速度:": "Read 800MB/s, Write 700MB/s"
+    },
+    {
+        "names": "Netac P500 Extreme Pro MicroSD With Adapter 256GB [R:100]",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "Samsung 三星 2021 PRO Plus microSDXC 記憶卡 512GB [R:160 W:120]",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "580",
+        "種類:": "microSDXC",
+        "速度:": "Read: 160MB/s, Write: 120 MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFast 2.0 Card 64GB [R:525 W:430]",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "1,250",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "種類:": "CF",
+        "速度:": "Read 525MB/s, Write 430MB/s"
+    },
+    {
+        "names": "Kingston Canvas React Plus UHS-II SD 記憶卡 256GB [R:300 W:260] SDR2/256GB (淨卡)",
+        "rating": "10",
+        "hon_price_min": "1,448",
+        "hon_price_max": "1,480",
+        "種類:": "SDXC",
+        "速度:": "Read: 300MB/s, Write: 260MB/s"
+    },
+    {
+        "names": "SanDisk MicroSD UHS-I Card for Nintendo Switch 64GB [R:100 W:90]",
+        "rating": "10",
+        "hon_price_min": "86",
+        "hon_price_max": "160",
+        "water_price_min": "93",
+        "water_price_max": "120",
+        "種類:": "microSDXC",
+        "速度:": "Read 100 MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Sony SF-E Series SF-E128 UHS-II SDXC 128GB [R:270 W:120]",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "399",
+        "water_price_min": "340",
+        "water_price_max": "340",
+        "種類:": "SDXC",
+        "速度:": "Read: 270MB/s Write: 120MB/s"
+    },
+    {
+        "names": "Kingston Canvas React Plus UHS-II SD 記憶卡 128GB [R:300 W:260] SDR2/128GB (淨卡)",
+        "rating": "10",
+        "hon_price_min": "678",
+        "hon_price_max": "690",
+        "種類:": "SDXC",
+        "速度:": "Read: 300MB/s Write: 260MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO A2 V30 U3 MicroSD card 128GB [R:170 W:90]",
+        "rating": "9.7",
+        "hon_price_min": "109",
+        "hon_price_max": "249",
+        "water_price_min": "109",
+        "water_price_max": "141",
+        "種類:": "microSDXC",
+        "速度:": "Read:170MB/s, Write:90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U3 C10 SDXC UHS-II Card 128GB [R:300 W:260]",
+        "rating": "7.0",
+        "hon_price_min": "998",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,015",
+        "water_price_max": "1,400",
+        "種類:": "SDXC",
+        "速度:": "300MB/s READ, 260MB/s WRITE"
+    },
+    {
+        "names": "SanDisk Extreme PRO A2 V30 U3 microSD Card 1TB [R:170 W:90]",
+        "rating": "9.7",
+        "hon_price_min": "835",
+        "hon_price_max": "1,880",
+        "water_price_min": "839",
+        "water_price_max": "1,330",
+        "種類:": "microSDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Sony TOUGH 64GB SF-G64T/T1 [R:300 W:299]",
+        "rating": "10",
+        "hon_price_min": "750",
+        "hon_price_max": "859",
+        "water_price_min": "590",
+        "water_price_max": "750",
+        "種類:": "SDXC",
+        "速度:": "讀取: 最高至 300MB/s (HD312), 最高至 95MB/s (SDR104)"
+    },
+    {
+        "names": "Lexar 256GB PLAY microSDXC UHS-I Card",
+        "rating": "10",
+        "hon_price_min": "195",
+        "hon_price_max": "250",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "種類:": "microSDXC",
+        "速度:": "讀取速度高達 150MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDXC UHS-I Card 128GB [R:180 W:90] SDSDXVA-128G",
+        "rating": "",
+        "hon_price_min": "106",
+        "hon_price_max": "166",
+        "water_price_min": "106",
+        "water_price_max": "279",
+        "種類:": "SDXC",
+        "速度:": "Read 180MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 A1 microSDXC UHS-I Card with SD adapter 128GB [R:140] SDSQUAB-128G",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "88",
+        "water_price_min": "62",
+        "water_price_max": "77",
+        "種類:": "microSDXC",
+        "速度:": "Read 140MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 A1 microSDXC UHS-I Card with SD adapter 512GB [R:150] SDSQUAC-512G",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "290",
+        "water_price_min": "229",
+        "water_price_max": "294",
+        "種類:": "microSDXC",
+        "速度:": "Read 150MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 512GB [R:160 W:90]",
+        "rating": "9.2",
+        "hon_price_min": "290",
+        "hon_price_max": "880",
+        "water_price_min": "293",
+        "water_price_max": "490",
+        "種類:": "microSDXC",
+        "速度:": "Read 160MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Netac P500 Standard Micro SD Card 128GB [R:80]",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "80",
+        "種類:": "microSDXC",
+        "速度:": "Reading Speed: 80MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V90 U3 C10 SDXC UHS-II Card 128GB [R:300 W:260] SDSDXDK-128G",
+        "rating": "10",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,088",
+        "water_price_min": "1,015",
+        "water_price_max": "1,325",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 260MB/s"
+    },
+    {
+        "names": "Samsung 三星 U3 MicroSDXC EVO Plus 256GB with Adapter [R:100 W:90]",
+        "rating": "8.0",
+        "hon_price_min": "139",
+        "hon_price_max": "605",
+        "種類:": "microSDXC",
+        "速度:": "Read speed 100MB/s; Write Speed 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO A2 V30 U3 MicroSD Card 400GB [R:170 W:90]",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "598",
+        "water_price_min": "488",
+        "water_price_max": "558",
+        "種類:": "microSDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Lexar High-Performance Blue Series 633x MicroSDHC UHS-I Card 32GB [R:100]",
+        "rating": "",
+        "water_price_min": "35",
+        "water_price_max": "35",
+        "種類:": "microSDHC",
+        "速度:": "Read: 100MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDXC UHS-I Card 256GB [R:180 W:130] SDSDXVV-256G",
+        "rating": "8.0",
+        "hon_price_min": "215",
+        "hon_price_max": "303",
+        "water_price_min": "215",
+        "water_price_max": "227",
+        "種類:": "SDXC",
+        "速度:": "Read 180MB/s, Write 130MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro A2 V30 U3 MicroSDXC UHS-I Card 64GB [R:200 W:90]",
+        "rating": "",
+        "hon_price_min": "64",
+        "hon_price_max": "98",
+        "water_price_min": "64",
+        "water_price_max": "75",
+        "種類:": "microSDXC",
+        "速度:": "Read:200MB/s, Write:90MB/s"
+    },
+    {
+        "names": "SanDisk C4 microSDHC Card 32GB",
+        "rating": "7.0",
+        "hon_price_min": "30",
+        "hon_price_max": "37",
+        "water_price_min": "30",
+        "water_price_max": "33",
+        "種類:": "microSDHC",
+        "容量:": "32GB"
+    },
+    {
+        "names": "Lexar Professional 2000x SDHC /SDXC UHS-II 記憶卡 128GB [R:300 W:260]",
+        "rating": "10",
+        "hon_price_min": "905",
+        "hon_price_max": "958",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 260MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 64GB [R:140] SDSQUAB-064G",
+        "rating": "10",
+        "hon_price_min": "36",
+        "hon_price_max": "61",
+        "water_price_min": "36",
+        "water_price_max": "56",
+        "種類:": "microSDXC",
+        "速度:": "Read 140MB/s"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 SD 記憶卡 128GB (SDG3/128GB) [R:170 W:90]",
+        "rating": "",
+        "water_price_min": "155",
+        "water_price_max": "155",
+        "種類:": "SDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 256GB [R:95 W:90]",
+        "rating": "10",
+        "hon_price_min": "283",
+        "hon_price_max": "660",
+        "water_price_min": "278",
+        "water_price_max": "370",
+        "種類:": "SDXC",
+        "速度:": "95 MB/s Read, 90 MB/s Write"
+    },
+    {
+        "names": "Prograde Digital 165GB CFexpress Type B 2.0 Memory Card (Cobalt) [R:1700 W:1500]",
+        "rating": "",
+        "hon_price_min": "1,520",
+        "hon_price_max": "1,520",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1500MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 SDXC UHS-I Card 256GB [R:120] SDSDUN4-256G",
+        "rating": "",
+        "hon_price_min": "184",
+        "hon_price_max": "190",
+        "water_price_min": "178",
+        "water_price_max": "216",
+        "種類:": "SDXC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 SDXC UHS-I Card 64GB [R:120] SDSDUN4-064G",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "105",
+        "water_price_min": "49",
+        "water_price_max": "53",
+        "種類:": "SDXC",
+        "速度:": "120MB/s"
+    },
+    {
+        "names": "Kingston Canvas Select Plus 4K microSD U3 V30 A1 256GB",
+        "rating": "10",
+        "hon_price_min": "165",
+        "hon_price_max": "270",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "種類:": "microSDXC",
+        "容量:": "256GB"
+    },
+    {
+        "names": "SanDisk Extreme Pro A2 V30 U3 MicroSDXC UHS-I Card 400GB [R:200 W:140]",
+        "rating": "",
+        "hon_price_min": "445",
+        "hon_price_max": "529",
+        "種類:": "microSDXC",
+        "速度:": "Read: 200MB/s, Write: 140MB/s"
+    },
+    {
+        "names": "SanDisk Mobile Ultra microSDHC UHS-I Card 32GB [R:30]",
+        "rating": "4.9",
+        "hon_price_min": "22",
+        "hon_price_max": "195",
+        "種類:": "microSDHC",
+        "速度:": "30MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U3 C10 V30 SDHC UHS-I Card 32GB [R:95]",
+        "rating": "",
+        "water_price_min": "85",
+        "water_price_max": "85",
+        "種類:": "SDHC",
+        "速度:": "Read 95MB/s"
+    },
+    {
+        "names": "Exascend Catalyst 系列 UHS-I V30 SDXC 記憶卡 64GB [R:180 W:150] EX64GSDU1",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "種類:": "SDXC",
+        "速度:": "Read 180MB/s, Write 150MB/s"
+    },
+    {
+        "names": "Kingston Industrial microSDHC 工業用記憶卡 16GB (SDCIT2/16GB)",
+        "rating": "",
+        "water_price_min": "111",
+        "water_price_max": "111",
+        "種類:": "microSDHC",
+        "容量:": "16GB"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDXC UHS-I Card with Adapter 128GB [R:80]",
+        "rating": "9.3",
+        "hon_price_min": "56",
+        "hon_price_max": "129",
+        "water_price_min": "57",
+        "water_price_max": "89",
+        "種類:": "microSDXC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "KIOXIA Exceria microSD 記憶卡 128GB [R:100]",
+        "rating": "",
+        "hon_price_min": "82",
+        "hon_price_max": "110",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "Lexar Professional CFexpress Type B Card 64GB [R:1750 W:1000]",
+        "rating": "",
+        "hon_price_min": "938",
+        "hon_price_max": "1,198",
+        "種類:": "CF",
+        "速度:": "Read Up to 1750MB/s,Write up to 1000MB/s"
+    },
+    {
+        "names": "Sony TOUGH CFexpress 128GB CEB-G128 [R:1700 W:1480]",
+        "rating": "10",
+        "hon_price_min": "1,620",
+        "hon_price_max": "1,660",
+        "water_price_min": "1,600",
+        "water_price_max": "1,650",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1480MB/s"
+    },
+    {
+        "names": "SanDisk Max Endurance V30 U3 C10 microSDHC UHS-I Card 32GB [R:100 W:40] SDSQQVR-032G-GN6IA",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "種類:": "microSDHC",
+        "速度:": "Read 100MB/s, Write 40MB/s"
+    },
+    {
+        "names": "Exascend Catalyst 系列 UHS-I V30 SDXC 記憶卡 128GB [R:180 W:150] EX128GSDU1",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "種類:": "SDXC",
+        "速度:": "Read 180MB/s, Write 150MB/s"
+    },
+    {
+        "names": "Wise Advanced 1TB CFX-B Series CFexpress Type B Memory Card CFX-B1024 [R:1700 W:1550]",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "5,890",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1550MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro A2 V30 U3 MicroSD card 64GB [R:170 W:90]",
+        "rating": "9.5",
+        "hon_price_min": "64",
+        "hon_price_max": "179",
+        "water_price_min": "64",
+        "water_price_max": "79",
+        "種類:": "microSDXC",
+        "速度:": "Read:170MB/s, Write:90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A1 U3 MicroSD Card 256GB [R:100 W:90]",
+        "rating": "10",
+        "hon_price_min": "147",
+        "hon_price_max": "239",
+        "water_price_min": "149",
+        "water_price_max": "210",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Kingston 128GB Canvas Select Plus microSD V10",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "135",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s Read"
+    },
+    {
+        "names": "Wise Advanced 512GB CFX-B Series CFexpress Type B Memory Card CFX-B512 [R:1700 W:1550]",
+        "rating": "10",
+        "hon_price_min": "2,900",
+        "hon_price_max": "3,800",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1550MB/s"
+    },
+    {
+        "names": "Wise Advanced 256GB CFX-B Series CFexpress Type B Memory Card CFX-B256 [R:1700 W:1550]",
+        "rating": "10",
+        "hon_price_min": "2,140",
+        "hon_price_max": "2,300",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1550MB/s"
+    },
+    {
+        "names": "Sony TOUGH CFexpress Card 256GB CEB-G256 [R:1700 W:1480]",
+        "rating": "10",
+        "hon_price_min": "2,620",
+        "hon_price_max": "2,998",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1480MB/s"
+    },
+    {
+        "names": "Lexar 128GB PLAY microSDXC UHS-I Card",
+        "rating": "10",
+        "hon_price_min": "98",
+        "hon_price_max": "123",
+        "water_price_min": "125",
+        "water_price_max": "125",
+        "種類:": "microSDXC",
+        "速度:": "讀取速度高達 150MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CF Express Type A 記憶卡 180GB [R:800 W:700]",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "種類:": "CF Express Type A",
+        "速度:": "Read: 800 MB/s; Write: 700 MB/s"
+    },
+    {
+        "names": "Kingston Industrial microSDHC 工業用記憶卡 8GB (SDCIT2/8GB)",
+        "rating": "",
+        "water_price_min": "75",
+        "water_price_max": "75",
+        "種類:": "microSDHC",
+        "容量:": "8GB"
+    },
+    {
+        "names": "Wise Advanced 640GB CFX-B Series CFexpress Type B Memory Card CFX-B640P [R:1700 W:1550]",
+        "rating": "10",
+        "hon_price_min": "5,590",
+        "hon_price_max": "5,890",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1550MB/s"
+    },
+    {
+        "names": "Lexar High-Performance 633x microSDXC UHS-I cards with SD Adaptor U3 (512GB) [R:100 W:70]",
+        "rating": "5.4",
+        "hon_price_min": "380",
+        "hon_price_max": "478",
+        "water_price_min": "480",
+        "water_price_max": "480",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 70MB/s"
+    },
+    {
+        "names": "Sony TOUGH CFexpress Card 512GB CEB-G512 [R:1700 W:1480]",
+        "rating": "",
+        "hon_price_min": "4,330",
+        "hon_price_max": "4,498",
+        "water_price_min": "3,980",
+        "water_price_max": "3,980",
+        "種類:": "CF",
+        "速度:": "Read: 1700MB/s Write: 1480MB/s"
+    },
+    {
+        "names": "Sony M-Series Tough SF-M256T UHS-II SDXC 256GB [R:277 W:150]",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,480",
+        "water_price_min": "995",
+        "water_price_max": "995",
+        "種類:": "SDXC",
+        "速度:": "Read 277MB/s, Write 150MB/s"
+    },
+    {
+        "names": "Kingston Canvas React Plus Kit UHS-II SD 記憶卡 256GB [R:300 W:260] with UHS-II SD Reader",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,448",
+        "種類:": "SDXC",
+        "速度:": "Read: 300MB/s Write: 260MB/s"
+    },
+    {
+        "names": "Samsung 三星 MicroSDXC EVO Plus 64GB with Adapter [R:100 W:60]",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "89",
+        "water_price_min": "65",
+        "water_price_max": "65",
+        "種類:": "microSDXC",
+        "速度:": "Read speed 100MB/s Write Speed 60MB/s"
+    },
+    {
+        "names": "Huawei NM 記憶卡 128GB [R:90 W:70]",
+        "rating": "7.1",
+        "hon_price_min": "299",
+        "hon_price_max": "398",
+        "water_price_min": "260",
+        "water_price_max": "290",
+        "種類:": "NM 記憶卡",
+        "速度:": "90MB"
+    },
+    {
+        "names": "SanDisk Ultra SDXC C10 UHS-I Card 128GB [R:100] SDSDUNR-128G-GN6IN",
+        "rating": "",
+        "hon_price_min": "96",
+        "hon_price_max": "229",
+        "water_price_min": "88",
+        "water_price_max": "118",
+        "種類:": "SDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "Kingston Micro-SD C10 64GB",
+        "rating": "9.0",
+        "hon_price_min": "45",
+        "hon_price_max": "148",
+        "種類:": "microSDHC",
+        "速度:": "Class 10"
+    },
+    {
+        "names": "Prograde Digital 325GB CFexpress Type B 2.0 Memory Card (Cobalt) [R:1700 W:1500]",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "種類:": "CF",
+        "速度:": "Read: 1700MB/s, Write: 1500MB/s"
+    },
+    {
+        "names": "Exascend Catalyst 系列 UHS-I V30 SDXC 記憶卡 256GB [R:180 W:150] EX256GSDU1",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "種類:": "SDXC",
+        "速度:": "Read 180MB/s, Write 150MB/s"
+    },
+    {
+        "names": "Wise Advanced 128GB CFX-B Series CFexpress Type B Memory Card CFX-B128 [R:1700 W:1050]",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,300",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1050MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CFast Card 2.0 記憶卡 256GB [R:520 W:400]",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,100",
+        "種類:": "CFast",
+        "速度:": "Read 520MB/s, Write 400MB/s"
+    },
+    {
+        "names": "Prograde Digital 256GB V90 UHS-II SDXC Memory Card (2-Pack) [R:300 W:250]",
+        "rating": "",
+        "hon_price_min": "4,360",
+        "hon_price_max": "4,380",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 250MB/s"
+    },
+    {
+        "names": "Lexar microSDHC 128GB 633X W/ADAPTER",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "225",
+        "種類:": "microSDHC",
+        "速度:": "95MB/S"
+    },
+    {
+        "names": "Lexar Professional 633x V30 U3 C10 SDXC UHS-I Card 256GB [R:95]",
+        "rating": "",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "種類:": "SDXC",
+        "速度:": "Read 95MB/s"
+    },
+    {
+        "names": "Kingston Industrial microSDXC 工業用記憶卡 64GB (SDCIT2/64GB)",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "種類:": "microSDXC",
+        "容量:": "64GB"
+    },
+    {
+        "names": "Samsung 三星 MicroSDXC EVO Plus 64GB [R:100 W:60]",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "109",
+        "water_price_min": "65",
+        "water_price_max": "65",
+        "種類:": "microSDXC",
+        "速度:": "Up to 100MB/s Read and 60MB/s Write speed"
+    },
+    {
+        "names": "SanDisk High Endurance V30 U3 C10 microSDXC UHS-I Card 64GB [R:100 W:40] SDSQQNR-064G-GN6IA",
+        "rating": "9.1",
+        "hon_price_min": "47",
+        "hon_price_max": "99",
+        "water_price_min": "47",
+        "water_price_max": "102",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 40MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CF Express Type A 記憶卡 480GB [R:900 W:800]",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,200",
+        "種類:": "CF Express Type A",
+        "速度:": "Read 900MB/s, Write 800MB/s"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 MicroSD 記憶卡 128GB [R:170 W:90]",
+        "rating": "10",
+        "hon_price_min": "119",
+        "hon_price_max": "155",
+        "water_price_min": "165",
+        "water_price_max": "165",
+        "種類:": "microSDXC",
+        "速度:": "Read 170MB/s Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 128GB [R:100] SDSQUAR-0128G-GN6MN",
+        "rating": "",
+        "hon_price_min": "57",
+        "hon_price_max": "169",
+        "water_price_min": "62",
+        "water_price_max": "89",
+        "種類:": "microSDXC",
+        "速度:": "100MB/S"
+    },
+    {
+        "names": "KIOXIA Exceria microSD 記憶卡 64GB [R:100]",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "60",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "Sony M-Series Tough SF-M64T UHS-II SDXC 64GB [R:277 W:150]",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "360",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "種類:": "SDXC",
+        "速度:": "Read: 277MB/s Write: 150MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card with Adapter 128 GB [R:100]",
+        "rating": "10",
+        "hon_price_min": "58",
+        "hon_price_max": "169",
+        "water_price_min": "62",
+        "water_price_max": "138",
+        "種類:": "microSDXC",
+        "速度:": "100mb/s"
+    },
+    {
+        "names": "Lexar A2 High-Performance 633x microSDXC UHS-I cards 512GB (R:100 W:70)",
+        "rating": "10",
+        "hon_price_min": "420",
+        "hon_price_max": "498",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 70MB/s, A2"
+    },
+    {
+        "names": "Lexar 128GB Professional 1667x UHS-II SD Card [R:250 W:90]",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "348",
+        "water_price_min": "348",
+        "water_price_max": "348",
+        "種類:": "SDXC",
+        "速度:": "Read: 250MB/s Write: 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDXC UHS-I Card 64GB [R:170] SDSDXV2-064G",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "75",
+        "water_price_min": "63",
+        "water_price_max": "149",
+        "種類:": "SDXC",
+        "速度:": "Read 170MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U3 C10 SDXC UHS-I Card 128GB [R:95 W:90]",
+        "rating": "10",
+        "hon_price_min": "141",
+        "hon_price_max": "399",
+        "water_price_min": "140",
+        "water_price_max": "195",
+        "種類:": "SDXC",
+        "速度:": "95 MB/s Read, 90 MB/s Write"
+    },
+    {
+        "names": "Lexar Professional SILVER系列 1066x 256GB microSDXC UHS-I記憶卡",
+        "rating": "",
+        "hon_price_min": "387",
+        "hon_price_max": "387",
+        "water_price_min": "387",
+        "water_price_max": "387",
+        "種類:": "microSDXC",
+        "速度:": "up to 160MB/s read, up to 120MB/s write"
+    },
+    {
+        "names": "Ezviz 螢石 MicroSD card (32GB)",
+        "rating": "6.0",
+        "hon_price_min": "42",
+        "hon_price_max": "99",
+        "種類:": "Micro SD",
+        "速度:": "Read 90MB / s,Write 20MB / s"
+    },
+    {
+        "names": "Lexar Professional 2000x SDHC /SDXC UHS-II 記憶卡 64GB [R:300 W:260]",
+        "rating": "",
+        "hon_price_min": "518",
+        "hon_price_max": "565",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 260MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 64GB [R:170 W:90]",
+        "rating": "9.3",
+        "hon_price_min": "79",
+        "hon_price_max": "229",
+        "water_price_min": "79",
+        "water_price_max": "148",
+        "種類:": "SDXC",
+        "速度:": "Read 170MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 64GB [R:100] SDSQUAR-064G-GN6MN",
+        "rating": "10",
+        "hon_price_min": "33",
+        "hon_price_max": "75",
+        "water_price_min": "36",
+        "water_price_max": "56",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "Delkin Devices Prime UHS-II SDXC Memory Card 128GB [R:280 W:150]",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "種類:": "SDXC",
+        "速度:": "Read 280MB/s, Write 150MB/s"
+    },
+    {
+        "names": "Delkin Devices Black UHS-II (V90) SDXC Memory Card 128GB [R:300 W:250]",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 250MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CF Express Type A 記憶卡 240GB [R:800 W:700]",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,200",
+        "種類:": "CF Express Type A",
+        "速度:": "Read: 800 MB/s; Write: 700 MB/s"
+    },
+    {
+        "names": "Sony TOUGH 128GB SF-G128T/T1 [R:300 W:299]",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,698",
+        "種類:": "SDXC",
+        "速度:": "讀取: 最高至 300MB/s (HD312), 最高至 95MB/s (SDR104)"
+    },
+    {
+        "names": "Kingston Canvas Select Plus 4K microSD U3 V30 A1 512GB",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "499",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "種類:": "microSDXC",
+        "容量:": "512GB"
+    },
+    {
+        "names": "Sony XDCAM EX用SD Card轉接卡 MEAD-SD02",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,020"
+    },
+    {
+        "names": "SanDisk Max Endurance V30 U3 C10 microSDXC UHS-I Card 128GB [R:100 W:40] SDSQQVR-128G-GN6IA",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "218",
+        "water_price_min": "128",
+        "water_price_max": "193",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s Write 40MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CFexpress Type B 記憶卡 1TB [R:1700 W:1700]",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "種類:": "CF express Type B",
+        "速度:": "Read 1700MB/s, Write 1700MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CF Express Type A 記憶卡 120GB [R:800 W:700]",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "種類:": "CF",
+        "速度:": "Read: 800 MB/s; Write: 700 MB/s"
+    },
+    {
+        "names": "KIOXIA Exceria UHS-I microSDXC 記憶卡 256GB [R:100]",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "248",
+        "種類:": "SDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDXC UHS-I Card 256GB [R:150] SDSDXVF-256G",
+        "rating": "10",
+        "hon_price_min": "215",
+        "hon_price_max": "399",
+        "water_price_min": "215",
+        "water_price_max": "500",
+        "種類:": "SDXC",
+        "速度:": "Read 150MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 A1 microSDXC UHS-I Card with SD adapter 256GB [R:150] SDSQUAC-256G",
+        "rating": "",
+        "hon_price_min": "115",
+        "hon_price_max": "185",
+        "water_price_min": "114",
+        "water_price_max": "144",
+        "種類:": "microSDXC",
+        "速度:": "Read 150MB/s"
+    },
+    {
+        "names": "Delkin Devices Black CFexpress Type B Memory Card 75GB [R:1725 W:1240]",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "種類:": "CF",
+        "速度:": "Read 1725MB/s, Write 1240MB/s"
+    },
+    {
+        "names": "Kingston Canvas Select Plus SDXC 記憶卡 64GB (SDS2/64GB) [R:100]",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "種類:": "SDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 200GB [R:120]",
+        "rating": "",
+        "hon_price_min": "171",
+        "hon_price_max": "183",
+        "water_price_min": "171",
+        "water_price_max": "171",
+        "種類:": "microSDXC",
+        "速度:": "120MB/s"
+    },
+    {
+        "names": "Lexar Professional SILVER 系列 1066x microSDXC UHS-I記憶卡 512GB [R:160 W:120]",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "780",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "種類:": "microSDXC",
+        "速度:": "Read 160MB/s, Write 120MB/s"
+    },
+    {
+        "names": "Kingston 32GB Canvas Select Plus microSD",
+        "rating": "8.0",
+        "hon_price_min": "25",
+        "hon_price_max": "55",
+        "water_price_min": "42",
+        "water_price_max": "42",
+        "種類:": "SDHC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 SDHC UHS-I Card 32GB [R:120] SDSDUN4-032G",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "49",
+        "water_price_min": "75",
+        "water_price_max": "75",
+        "種類:": "SDHC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "SanDisk Ultra SDHC UHS-I Card 32GB [R:48] (停產)",
+        "rating": "10",
+        "hon_price_min": "33",
+        "hon_price_max": "110",
+        "water_price_min": "35",
+        "water_price_max": "46",
+        "種類:": "SDHC",
+        "速度:": "48MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO A1 V30 U3 microSDXC UHS-I Card 64GB [R:95 W:90]",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "270",
+        "water_price_min": "79",
+        "water_price_max": "88",
+        "種類:": "microSDXC",
+        "速度:": "Read 95MB/s , Write 90MB/s"
+    },
+    {
+        "names": "Lexar 256GB Professional 1667x UHS-II SD Card [R:250 W:120]",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "528",
+        "water_price_min": "528",
+        "water_price_max": "528",
+        "種類:": "SDXC",
+        "速度:": "Read: 250MB/s Write: 120MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFexpress Card Type-B 64GB [R:1500 W:800]",
+        "rating": "10",
+        "hon_price_min": "745",
+        "hon_price_max": "1,180",
+        "water_price_min": "745",
+        "water_price_max": "780",
+        "種類:": "CF",
+        "速度:": "Read: 1500MB/s Write: 800MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDXC UHS-I Card 128GB [R:80]",
+        "rating": "",
+        "hon_price_min": "56",
+        "hon_price_max": "119",
+        "water_price_min": "57",
+        "water_price_max": "78",
+        "種類:": "microSDXC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "Vaxis Archon & Exascend CFAST 2.0 Memory Card 1TB [R:560 W:500]",
+        "rating": "",
+        "hon_price_min": "6,990",
+        "hon_price_max": "7,200",
+        "種類:": "CF",
+        "速度:": "Read: 560MB/s, Write: 500MB/s"
+    },
+    {
+        "names": "Sabrent Rocket V90 SD UHS-II 記憶卡 256GB [R:280 W:250] (SD-TL90-256GB)",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "容量:": "256GB",
+        "速度:": "Read: 280MB/s Write: 250MB/s"
+    },
+    {
+        "names": "Kingston Canvas Select Plus SDXC 記憶卡 128GB (SDS2/128GB) [R:100 W:85]",
+        "rating": "",
+        "water_price_min": "138",
+        "water_price_max": "138",
+        "種類:": "SDXC",
+        "速度:": "Read 100MB/s, Write 85MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDXC UHS-I Card 64GB [R:150 W:60] SDSDXVE-064G",
+        "rating": "",
+        "hon_price_min": "63",
+        "hon_price_max": "179",
+        "water_price_min": "63",
+        "water_price_max": "82",
+        "種類:": "SDXC",
+        "速度:": "Read 150MB/s, Write 60MB/s"
+    },
+    {
+        "names": "SanDisk High Endurance V30 U3 C10 microSDXC UHS-I Card 256GB [R:100 W:40] SDSQQNR-256G-AN6IA",
+        "rating": "10",
+        "hon_price_min": "152",
+        "hon_price_max": "255",
+        "water_price_min": "152",
+        "water_price_max": "408",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 40MB/s"
+    },
+    {
+        "names": "Exascend CF Express 系列 (CFE4) 8K Ultra HD Compact Flash 卡 512GB [R:1700 W:1700]",
+        "rating": "",
+        "hon_price_min": "3,690",
+        "hon_price_max": "4,000",
+        "種類:": "CF",
+        "速度:": "Read :1700MB/s,  Write :1700MB/s"
+    },
+    {
+        "names": "Lexar 1TB PLAY microSDXC UHS-I Card",
+        "rating": "10",
+        "hon_price_min": "1,160",
+        "hon_price_max": "1,530",
+        "water_price_min": "1,530",
+        "water_price_max": "1,530",
+        "種類:": "microSDXC",
+        "速度:": "讀取速度高達 150MB/s"
+    },
+    {
+        "names": "Sony 64GB SF-M Tough Series UHS-II SDXC Memory Card (SF-M64T)",
+        "rating": "10",
+        "hon_price_min": "270",
+        "hon_price_max": "350",
+        "water_price_min": "270",
+        "water_price_max": "288",
+        "種類:": "SDXC",
+        "速度:": "Read 277MB/s, Write 150MB/s"
+    },
+    {
+        "names": "Exascend CF Express 系列 (CFE4) 8K Ultra HD Compact Flash 卡 1TB [R:1700 W:1700]",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "種類:": "CF",
+        "速度:": "Read :1700MB/s,  Write :1700MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO A1 V30 U3 microSDHC UHS-I Card 32GB [R:95 W:90]",
+        "rating": "",
+        "hon_price_min": "67",
+        "hon_price_max": "158",
+        "water_price_min": "68",
+        "water_price_max": "115",
+        "種類:": "microSDHC",
+        "速度:": "Read 95MB/s , Write 90MB/s"
+    },
+    {
+        "names": "Exascend CF Express 系列 (CFE4) 8K Ultra HD Compact Flash 卡 128GB [R:1700 W:1500]",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,600",
+        "種類:": "CF",
+        "速度:": "Read :1700MB/s, Write :1500MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 1TB [R:200 W:140]",
+        "rating": "10",
+        "hon_price_min": "1,498",
+        "hon_price_max": "1,798",
+        "water_price_min": "1,496",
+        "water_price_max": "1,852",
+        "種類:": "SDXC",
+        "速度:": "Read 200MB/s, Write 140MB/s"
+    },
+    {
+        "names": "Wise Advanced UHS-II SDXC Memory Card 128GB SD-N128 [R:290 W:260]",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,290",
+        "種類:": "SDXC",
+        "速度:": "Read 290MB/s, Write 260MB/s"
+    },
+    {
+        "names": "Delkin Devices Prime UHS-II SDXC Memory Card 256GB [R:280 W:150]",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "種類:": "SDXC",
+        "速度:": "Read 280MB/s, Write 150MB/s"
+    },
+    {
+        "names": "AGI 90MB Class 10 UHS-1 TF138 MicroSDXC Card 64GB",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "40",
+        "種類:": "microSDXC",
+        "速度:": "Read 90MB/s, Write 30MB/s"
+    },
+    {
+        "names": "KIOXIA Exceria microSD 記憶卡 16GB [R:100]",
+        "rating": "",
+        "hon_price_min": "26",
+        "hon_price_max": "34",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "Samsung 三星 PRO Endurance 64GB UHS-I MicroSDXC [R:100 W:30]",
+        "rating": "10",
+        "hon_price_min": "108",
+        "hon_price_max": "187",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s Write: 30MB/s"
+    },
+    {
+        "names": "Lexar Professional 2000x SDHC /SDXC UHS-II 64GB",
+        "rating": "",
+        "hon_price_min": "525",
+        "hon_price_max": "550",
+        "種類:": "SDXC",
+        "速度:": "300MB/s"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 SD 記憶卡 32GB (SDG3/32GB)",
+        "rating": "",
+        "hon_price_min": "59",
+        "hon_price_max": "60",
+        "種類:": "SDHC",
+        "容量:": "32GB"
+    },
+    {
+        "names": "SanDisk C10 Ultra SDHC 32GB [R:80] (停產)",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "95",
+        "water_price_min": "35",
+        "water_price_max": "58",
+        "種類:": "SDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "Lexar Professional CFexpress Type B Card 512GB [R:1750 W:1000]",
+        "rating": "",
+        "hon_price_min": "3,598",
+        "hon_price_max": "4,630",
+        "種類:": "CF",
+        "速度:": "Read Up to 1750MB/s,Write up to 1000MB/s"
+    },
+    {
+        "names": "AGI 256GB 4K MicroSDXC V30 A1",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "種類:": "microSDXC",
+        "速度:": "Read 102MB ; Write 82MB"
+    },
+    {
+        "names": "SanDisk Max Endurance V30 U3 C10 microSDXC UHS-I Card 64GB [R:100 W:40] SDSQQVR-064G-GN6IA",
+        "rating": "",
+        "hon_price_min": "107",
+        "hon_price_max": "125",
+        "water_price_min": "110",
+        "water_price_max": "111",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s Write 40MB/s"
+    },
+    {
+        "names": "AGI TF138 A1 U3 C10 V30 UHS-1 microSDXC Card 128GB",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "microSDXC",
+        "容量:": "128GB"
+    },
+    {
+        "names": "Sony TOUGH CEA-G 系列 CFexpress Type A 記憶卡 320GB CEA-G320T [R:800 W:700]",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,890",
+        "種類:": "CF",
+        "速度:": "Read: 800MB/s Write: 700MB/s"
+    },
+    {
+        "names": "Samsung 三星 U3 MicroSDXC EVO Memory Card 64GB",
+        "rating": "10",
+        "hon_price_min": "36",
+        "hon_price_max": "85",
+        "種類:": "SDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "Dahua L100 MicroSDXC Memory Card V30 U3 C10 256GB [R:100 W:80]",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 80MB/s"
+    },
+    {
+        "names": "Samsung 三星 PRO Endurance 128GB UHS-I MicroSDXC [R:100 W:30]",
+        "rating": "10",
+        "hon_price_min": "185",
+        "hon_price_max": "367",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s Write: 30MB/s"
+    },
+    {
+        "names": "Dahua C100 microSDHC Memory Card V10 U1 C10 32GB [R:95 W:25]",
+        "rating": "",
+        "hon_price_min": "26",
+        "hon_price_max": "26",
+        "種類:": "microSDHC",
+        "速度:": "Read 95MB/s, Write 25MB/s"
+    },
+    {
+        "names": "Western Digital WD Purple SC QD101 Ultra Endurance microSDXC Card 64GB (WDD064G1P0C)",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "115",
+        "種類:": "microSDXC",
+        "容量:": "64GB"
+    },
+    {
+        "names": "SanDisk Extreme PRO U3 C10 SDXC UHS-I Card 512GB [R:95 W:90]",
+        "rating": "7.3",
+        "hon_price_min": "615",
+        "hon_price_max": "798",
+        "water_price_min": "615",
+        "water_price_max": "798",
+        "種類:": "SDXC",
+        "速度:": "95 MB/s Read, 90 MB/s Write"
+    },
+    {
+        "names": "Delkin Devices Black CFexpress Type B Memory Card 650GB [R:1725 W:1530]",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "種類:": "CF",
+        "速度:": "Read 1725MB/s, Write 1530MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U3 microSDHC UHS-I Card 32GB [R:95]",
+        "rating": "10",
+        "hon_price_min": "67",
+        "hon_price_max": "95",
+        "water_price_min": "72",
+        "water_price_max": "72",
+        "種類:": "microSDHC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDXC UHS-I Card 128GB [R:150 W:70] SDSDXV5-128G",
+        "rating": "10",
+        "hon_price_min": "106",
+        "hon_price_max": "269",
+        "water_price_min": "106",
+        "water_price_max": "168",
+        "種類:": "SDXC",
+        "速度:": "Read 150MB/s, Write 70MB/s"
+    },
+    {
+        "names": "Sony XQD G 系列記憶卡 64GB (QD-G64F) [R:440 W:400]",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "890",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "種類:": "XQD",
+        "速度:": "Read:440MB/s, /Write:400MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U1 C10 SDHC UHS-I Card 32GB [R:95]",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "140",
+        "water_price_min": "60",
+        "water_price_max": "85",
+        "種類:": "SDHC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 400GB [R:160 W:90]",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "548",
+        "water_price_min": "373",
+        "water_price_max": "420",
+        "種類:": "microSDXC",
+        "速度:": "Read 160MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card with Adaptor 200GB [R:100]",
+        "rating": "",
+        "hon_price_min": "171",
+        "hon_price_max": "325",
+        "water_price_min": "171",
+        "water_price_max": "171",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFast 2.0 Card 256GB [R:525 W:450]",
+        "rating": "",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,850",
+        "種類:": "CF",
+        "速度:": "Read 525 MB/s,Write 450 MB/s"
+    },
+    {
+        "names": "Hyundai 現代 MicroSDHC Card with SD Adapter U1 Class 10 16GB [R:85 W:10] (SDC16GU1)",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "種類:": "microSDHC",
+        "速度:": "Read: 85 MB/s, Write: 10MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDXC UHS-I Card 128GB [R:90 W:60]",
+        "rating": "",
+        "hon_price_min": "125",
+        "hon_price_max": "470",
+        "water_price_min": "106",
+        "water_price_max": "470",
+        "種類:": "SDXC",
+        "速度:": "90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 SDXC UHS-I Card 128GB [R:80] (停產)",
+        "rating": "",
+        "hon_price_min": "105",
+        "hon_price_max": "285",
+        "water_price_min": "88",
+        "water_price_max": "200",
+        "種類:": "SDXC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "Samsung 三星 U1 MicroSDXC EVO Plus 128GB with Adapter [R:80 W:20]",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "135",
+        "種類:": "microSDXC",
+        "速度:": "Read Speed up to 80MB/s; Write Speed up to 20MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDXC UHS-I Card 1TB [R:170 W:90]",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "1,927",
+        "water_price_min": "769",
+        "water_price_max": "1,890",
+        "種類:": "SDXC",
+        "速度:": "Read: 170MB/s Write: 90MB/s"
+    },
+    {
+        "names": "Huawei NM 記憶卡 256GB [R:90 W:70]",
+        "rating": "2.0",
+        "hon_price_min": "595",
+        "hon_price_max": "795",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "種類:": "NM 記憶卡",
+        "速度:": "90 MB"
+    },
+    {
+        "names": "Wise Advanced UHS-II SDXC Memory Card 256GB SD-N256 [R:290 W:260]",
+        "rating": "",
+        "hon_price_min": "2,290",
+        "hon_price_max": "2,290",
+        "種類:": "SDXC",
+        "速度:": "Read 290MB/s, Write 260MB/s"
+    },
+    {
+        "names": "Kingston SDC10G2 128GB with SD Adapter (Class 10)",
+        "rating": "4.0",
+        "hon_price_min": "73",
+        "hon_price_max": "278",
+        "種類:": "SDXC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "SanDisk Extreme UDMA7 CompactFlash 32GB [R:120 W:85]",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "238",
+        "water_price_min": "204",
+        "water_price_max": "230",
+        "種類:": "CF",
+        "速度:": "Read 120MB/s, Write 85MB/s"
+    },
+    {
+        "names": "Sony SF-E Series SF-E64 UHS-II SDXC Memory Card 64GB [R:270 W:70]",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "249",
+        "種類:": "SDXC",
+        "速度:": "Read: 270MB/s Write: 70MB/s"
+    },
+    {
+        "names": "Lexar Professional CFexpress Type B Card 128GB [R:1750 W:1000]",
+        "rating": "10",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,390",
+        "種類:": "CF",
+        "速度:": "Read Up to 1750MB/s,Write up to 1000MB/s"
+    },
+    {
+        "names": "Delkin Devices Black CFexpress Type A Memory Card 80GB [R:880 W:730]",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400",
+        "種類:": "CF",
+        "速度:": "Read 880MB/s, Write 730MB/s"
+    },
+    {
+        "names": "Wise Advanced 320GB CFX-B Series CFexpress Type B Memory Card CFX-B320P [R:1700 W:1550]",
+        "rating": "",
+        "hon_price_min": "3,520",
+        "hon_price_max": "3,520",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1550MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 C10 microSDHC UHS-I Card with Adapter 32GB [R:98]",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "85",
+        "water_price_min": "27",
+        "water_price_max": "58",
+        "種類:": "microSDHC",
+        "速度:": "98mb/s"
+    },
+    {
+        "names": "Strontium Nitro A1 UHS-I MicroSDXC Card with Adapter 128GB [R: 100]",
+        "rating": "2.0",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V90 U3 C10 SDHC UHS-II Cards 32GB [R:300 W:260] SDSDXDK-032G",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "water_price_min": "320",
+        "water_price_max": "430",
+        "種類:": "SDHC",
+        "速度:": "Read 300MB/s, Write 260MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A1 V30 U3 MicroSD card 64GB [R:90 W:60]",
+        "rating": "",
+        "hon_price_min": "47",
+        "hon_price_max": "109",
+        "water_price_min": "51",
+        "water_price_max": "73",
+        "種類:": "microSDXC",
+        "速度:": "Read 90MB/s , Write 60MB/s"
+    },
+    {
+        "names": "AGI 512GB 4K MicroSDXC V30 A1",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "378",
+        "種類:": "microSDXC",
+        "速度:": "Read 102MB ; Write 82MB"
+    },
+    {
+        "names": "SanDisk Extreme PRO A1 V30 U3 microSDXC UHS-I Card 128GB [R:95 W:90]",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "499",
+        "water_price_min": "121",
+        "water_price_max": "499",
+        "種類:": "microSDXC",
+        "速度:": "Read 95MB/s , Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 64GB [R:170 W:80]",
+        "rating": "10",
+        "hon_price_min": "46",
+        "hon_price_max": "79",
+        "water_price_min": "46",
+        "water_price_max": "59",
+        "種類:": "microSDXC",
+        "速度:": "Read 170MB/s, Write 80MB/s"
+    },
+    {
+        "names": "Lexar Professional 633x V10 U1 C10 SDHC UHS-I Card 32GB [R:95]",
+        "rating": "",
+        "water_price_min": "45",
+        "water_price_max": "45",
+        "種類:": "SDHC",
+        "速度:": "Read 95MB/s"
+    },
+    {
+        "names": "Kingston Canvas Select Plus SDXC 記憶卡 256GB (SDS2/256GB) [R:100 W:85]",
+        "rating": "",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "種類:": "SDXC",
+        "速度:": "Read 100MB/s, Write 85MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 SDHC UHS-I Card 16GB [R:48]",
+        "rating": "",
+        "hon_price_min": "29",
+        "hon_price_max": "58",
+        "water_price_min": "29",
+        "water_price_max": "45",
+        "種類:": "SDHC",
+        "速度:": "48MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V90 U3 C10 SDXC UHS-II Card 64GB [R:300 W:260] SDSDXDK-064G",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "628",
+        "water_price_min": "588",
+        "water_price_max": "700",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 260MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 microSDXC UHS-I Card 128GB [R:90 W:60] (停產)",
+        "rating": "",
+        "hon_price_min": "94",
+        "hon_price_max": "126",
+        "water_price_min": "90",
+        "water_price_max": "118",
+        "種類:": "microSDXC",
+        "速度:": "Read Speed: up to 90MB/s Write Speed: up to 60MB/s"
+    },
+    {
+        "names": "Delkin Devices Black UHS-II (V90) SDXC Memory Card 256GB [R:300 W:250]",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 250MB/s"
+    },
+    {
+        "names": "Samsung 三星 EVO plus U3 MicroSDXC Card 64GB [R:80]",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "90",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "種類:": "microSDXC",
+        "速度:": "Read 80MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A2 V30 U3 microSDXC UHS-I Card 64GB [R:160 W:60]",
+        "rating": "10",
+        "hon_price_min": "46",
+        "hon_price_max": "98",
+        "water_price_min": "46",
+        "water_price_max": "62",
+        "種類:": "microSDXC",
+        "速度:": "Read:160MB/s, Write:60MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDXC UHS-I Card with Adaptor 256GB [R:95]",
+        "rating": "",
+        "hon_price_min": "114",
+        "hon_price_max": "235",
+        "water_price_min": "114",
+        "water_price_max": "169",
+        "種類:": "microSDXC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "Lexar High-Performance 633x microSDHC /microSDXC UHS-I cards 200GB",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "628",
+        "種類:": "microSDXC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "RED Pro CFexpress 2.0 Type B Memory Card 2TB",
+        "rating": "",
+        "hon_price_min": "7,880",
+        "hon_price_max": "7,880",
+        "種類:": "CF",
+        "容量:": "2TB"
+    },
+    {
+        "names": "Lexar 512GB PLAY microSDXC UHS-I Card",
+        "rating": "8.0",
+        "hon_price_min": "390",
+        "hon_price_max": "550",
+        "water_price_min": "570",
+        "water_price_max": "570",
+        "種類:": "microSDXC",
+        "速度:": "讀取速度高達 150MB/s"
+    },
+    {
+        "names": "Kingston Canvas React UHS-I SDXC 記憶卡 64GB [R:100 W:80]",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "種類:": "SDXC",
+        "速度:": "Read 100MB/s Write 80MB/s"
+    },
+    {
+        "names": "KIOXIA Exceria Pro UHS-II SDXC 記憶卡 64GB [R:270 W:260]",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "538",
+        "種類:": "SDXC",
+        "速度:": "Read: 270MB/s Write: 260MB/s"
+    },
+    {
+        "names": "Wise Advanced 2TB CFX-B Series CFexpress Type B Memory Card CFX-B2048 [R:1700 W:1550]",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "7,850",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1550MB/s"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 SD 記憶卡 512GB (SDG3/512GB) [R:170 W:90]",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "756",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "種類:": "SDXC",
+        "速度:": "Read: 170MB/s Write: 90MB/s"
+    },
+    {
+        "names": "Samsung 三星 Microsdhc UHS-I EVO Plus Card 32GB 80MB/S PLUS",
+        "rating": "4.0",
+        "hon_price_min": "37",
+        "hon_price_max": "48",
+        "種類:": "microSDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "Lexar Professional 1066x CompactFlash card 256GB",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,760",
+        "種類:": "CF",
+        "速度:": "160MB/s"
+    },
+    {
+        "names": "Exascend Archon 系列 CFexpress Type B 記憶卡 1TB [R:1700 W:1600]",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "種類:": "CF Express Type B",
+        "速度:": "Read 1700 MB/S, Write 1600 MB/S"
+    },
+    {
+        "names": "Lexar High-Performance 633x microSDXC UHS-I cards with SD Adaptor U3 (128GB) [R:95 W:45]",
+        "rating": "",
+        "hon_price_min": "84",
+        "hon_price_max": "117",
+        "water_price_min": "145",
+        "water_price_max": "145",
+        "種類:": "microSDXC",
+        "速度:": "Read 95MB/s, Write 45MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 400GB [R:120] SDSQUA4-400G-GN6MN",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "357",
+        "water_price_min": "322",
+        "water_price_max": "365",
+        "種類:": "SDXC",
+        "速度:": "120MB/s"
+    },
+    {
+        "names": "Exascend Nitro 系列 CFexpress Type B 記憶卡 512GB [R:1850 W:1700]",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "5,600",
+        "種類:": "CF express Type B",
+        "速度:": "Read 1850 MB/S, Write 1700 MB/S"
+    },
+    {
+        "names": "Lexar Professional 1066x CompactFlash card 64GB",
+        "rating": "",
+        "hon_price_min": "512",
+        "hon_price_max": "522",
+        "種類:": "CF",
+        "速度:": "160MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PLUS A2 V30 U3 microSDXC UHS-I Card 256GB [R:170 W:90]",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "MicroSD",
+        "速度:": "read speeds up to 170MB/s, write speeds up to 90MB/s"
+    },
+    {
+        "names": "Prograde Digital 128GB V90 UHS-II SDXC Memory Card (2-Pack) [R:300 W:250]",
+        "rating": "",
+        "hon_price_min": "2,440",
+        "hon_price_max": "2,440",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 250MB/s"
+    },
+    {
+        "names": "PNY Elite-X MicroSDXC 128GB [R:100MB/s / W:60MB/s]",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "125",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s Write: 60MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDHC UHS-I Card with Adapter 16GB [R:80]",
+        "rating": "10",
+        "hon_price_min": "29",
+        "hon_price_max": "29",
+        "water_price_min": "31",
+        "water_price_max": "31",
+        "種類:": "microSDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro U1 C10 SDHC UHS-I Card 32GB [R:95 W:90]",
+        "rating": "8.0",
+        "hon_price_min": "69",
+        "hon_price_max": "145",
+        "water_price_min": "65",
+        "water_price_max": "69",
+        "種類:": "SDHC",
+        "速度:": "95 MB/s Read, 90 MB/s Write"
+    },
+    {
+        "names": "KIOXIA Exceria Plus UHS-I SDXC 記憶卡 256GB [R:100 W:85]",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "種類:": "SDXC",
+        "速度:": "Read: 100MB/s Write: 85MB/s"
+    },
+    {
+        "names": "Sony SF-G128 [R:300 W:299]",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,530",
+        "種類:": "SDXC",
+        "速度:": "Read: 300MB/s Write: 299MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDHC UHS-I Card 32GB [R:120] SDSQUA4-032G-GN6MN",
+        "rating": "10",
+        "hon_price_min": "27",
+        "hon_price_max": "55",
+        "water_price_min": "27",
+        "water_price_max": "38",
+        "種類:": "microSDHC",
+        "速度:": "120MB/s"
+    },
+    {
+        "names": "Exascend Catalyst 系列 UHS-II V90 記憶卡 64GB [R:300 W:280] EX64GSDU2",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 280MB/s"
+    },
+    {
+        "names": "Samsung 三星 U1 MicroSDHC EVO Memory Card  32GB",
+        "rating": "9.3",
+        "hon_price_min": "38",
+        "hon_price_max": "100",
+        "種類:": "microSDHC",
+        "容量:": "32GB"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDHC UHS-I Card 32GB (SDSQUNC-032G-GN6MA)",
+        "rating": "10",
+        "hon_price_min": "22",
+        "hon_price_max": "38",
+        "water_price_min": "22",
+        "water_price_max": "39",
+        "種類:": "microSDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "SanDisk Max Endurance V30 U3 C10 microSDXC UHS-I Card 256GB [R:100 W:40] SDSQQVR-256G-GN6IA",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "405",
+        "water_price_min": "383",
+        "water_price_max": "383",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 40MB/s"
+    },
+    {
+        "names": "SanDisk Extreme U1 microSDXC UHS-I Card 64GB [R:80 W:50] (停產)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "179",
+        "water_price_min": "51",
+        "water_price_max": "68",
+        "種類:": "microSDXC",
+        "速度:": "Read 80MB/s, Write 50MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 SDHC 16GB [R:80] (停產)",
+        "rating": "",
+        "hon_price_min": "37",
+        "hon_price_max": "62",
+        "water_price_min": "36",
+        "water_price_max": "50",
+        "種類:": "SDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "Samsung 三星 U1 MicroSDHC EVO Memory Card 32GB",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "43",
+        "water_price_min": "55",
+        "water_price_max": "55",
+        "種類:": "SDHC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "Kingston SDCA10 64GB microSD with Adapter (Class 10) [R:90 W:45]",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "種類:": "SDXC",
+        "速度:": "90MB/s Read, 45MB/s Write"
+    },
+    {
+        "names": "Prograde Digital 650GB CFexpress Type B 2.0 Memory Card (Cobalt) [R:1700 W:1500]",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,200",
+        "種類:": "CF",
+        "速度:": "Read: 1700MB/s, Write: 1500MB/s"
+    },
+    {
+        "names": "Samsung 三星 UFS Card 128GB (MB-FA128G/APC)",
+        "rating": "10",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "種類:": "UFS CARD",
+        "容量:": "128GB"
+    },
+    {
+        "names": "Lexar Professional CFexpress Type B Card 256GB [R:1750 W:1000]",
+        "rating": "",
+        "hon_price_min": "2,310",
+        "hon_price_max": "2,430",
+        "種類:": "CF",
+        "速度:": "Read Up to 1750MB/s,Write up to 1000MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 SDXC UHS-I Card 64GB [R:100] SDSDUNR-064G",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "60",
+        "water_price_min": "49",
+        "water_price_max": "62",
+        "種類:": "SDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CFast Card 2.0 記憶卡 1TB [R:520 W:500]",
+        "rating": "",
+        "hon_price_min": "5,650",
+        "hon_price_max": "5,650",
+        "種類:": "CFast",
+        "速度:": "Read 520MB/s, Write 500MB/s"
+    },
+    {
+        "names": "Vaxis Archon & Exascend CFAST 2.0 Memory Card 512GB [R:560 W:500]",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,200",
+        "種類:": "CF",
+        "速度:": "Read: 560Mb/s, Write: 500MB/s"
+    },
+    {
+        "names": "SanDisk Extreme A1 V30 U3 MicroSD card 128GB [R:90 W:60]",
+        "rating": "10",
+        "hon_price_min": "84",
+        "hon_price_max": "165",
+        "water_price_min": "90",
+        "water_price_max": "115",
+        "種類:": "microSDXC",
+        "速度:": "Read 90MB/s , Write 60MB/s"
+    },
+    {
+        "names": "Delkin Devices Black CFexpress Type B Memory Card 150GB [R:1725 W:1530]",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400",
+        "種類:": "CF",
+        "速度:": "Read 1725MB/s, Write 1530MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Pro N502 SDXC UHS-II 256GB V90 [R:270 W:260]",
+        "rating": "",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,650",
+        "種類:": "SDXC",
+        "速度:": "Read: 270MB/s, Write: 260MB/s"
+    },
+    {
+        "names": "Sony 64GB SxS-1 Memory Card SBS-64G1B",
+        "rating": "10",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "容量:": "64GB",
+        "速度:": "3.5Gbps"
+    },
+    {
+        "names": "Sony XQD G-Series 240GB (QD-G240F) [R:440 W:400]",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,990",
+        "water_price_min": "1,680",
+        "water_price_max": "2,480",
+        "種類:": "XQD2.0",
+        "速度:": "Read: 440MB/s Write: 400MB/s"
+    },
+    {
+        "names": "Strontium Nitro A1 UHS-I MicroSDXC Card with Adapter 256GB [R: 100]",
+        "rating": "5.0",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s"
+    },
+    {
+        "names": "Sony XQD G Series 256GB (QDG256E) [R:440 W:400]",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "3,520",
+        "種類:": "XQD2.0",
+        "速度:": "Read: 440MB/s Write: 400MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 microSDXC UHS-I Card with Adapter 64GB [R:90 W:60] (停產)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "198",
+        "water_price_min": "59",
+        "water_price_max": "59",
+        "種類:": "microSDXC",
+        "速度:": "Read Speed: up to 90MB/s ; Write Speed: up to 60MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDHC UHS-I Card 16GB [R:48]",
+        "rating": "4.0",
+        "hon_price_min": "29",
+        "hon_price_max": "32",
+        "water_price_min": "31",
+        "water_price_max": "31",
+        "種類:": "microSDHC",
+        "速度:": "48MB/s"
+    },
+    {
+        "names": "Kingston Industrial microSDHC 工業用記憶卡 32GB (SDCIT2/32GB)",
+        "rating": "",
+        "water_price_min": "195",
+        "water_price_max": "195",
+        "種類:": "microSDHC",
+        "容量:": "32GB"
+    },
+    {
+        "names": "Western Digital WD Purple SC QD101 Ultra Endurance microSDXC Card 1TB (WDD100T1P0C)",
+        "rating": "",
+        "water_price_min": "1,620",
+        "water_price_max": "1,620",
+        "種類:": "microSDXC",
+        "容量:": "1TB"
+    },
+    {
+        "names": "SanDisk C4 SDHC UHS-I Card 8GB (SDSDB-8192-B35)",
+        "rating": "",
+        "water_price_min": "35",
+        "water_price_max": "45",
+        "種類:": "SDHC",
+        "容量:": "8GB"
+    },
+    {
+        "names": "Exascend CF Express 系列 (CFE4) 8K Ultra HD Compact Flash 卡 256GB [R:1700 W:1700]",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,690",
+        "種類:": "CF",
+        "速度:": "Read :1700MB/s,  Write :1700MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 64GB [R:120] SDSQUA4-064G-GN6MN",
+        "rating": "9.0",
+        "hon_price_min": "35",
+        "hon_price_max": "95",
+        "water_price_min": "36",
+        "water_price_max": "55",
+        "種類:": "microSDXC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDHC UHS-I Card 16GB [R: 80]",
+        "rating": "",
+        "hon_price_min": "27",
+        "hon_price_max": "38",
+        "water_price_min": "31",
+        "water_price_max": "31",
+        "種類:": "microSDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "Transcend 256GB A2 V30 microSDXC R:160mbs W:125mbs (USD340S)",
+        "rating": "10",
+        "hon_price_min": "279",
+        "hon_price_max": "299",
+        "種類:": "microSDXC",
+        "速度:": "Read 160mb/s ; Write 125mbs"
+    },
+    {
+        "names": "Lexar 256gb Professional 667x microSDXC UHS-I Card",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "種類:": "SDXC",
+        "速度:": "Read 100MB/s, Write 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro UDMA7 CompactFlash 128GB [R:160]",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "890",
+        "water_price_min": "797",
+        "water_price_max": "895",
+        "種類:": "CF",
+        "速度:": "160MB/s"
+    },
+    {
+        "names": "KIOXIA 32GB Exceria SDHC Card",
+        "rating": "",
+        "hon_price_min": "55",
+        "hon_price_max": "55",
+        "種類:": "SDHC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 SDXC UHS-I Card 512GB [R:120] SDSDUN4-512G",
+        "rating": "",
+        "water_price_min": "374",
+        "water_price_max": "440",
+        "種類:": "SDXC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "Wise Advanced 160GB CFX-B Series CFexpress Type B Memory Card CFX-B160P [R:1700 W:1550]",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,100",
+        "種類:": "CF",
+        "速度:": "Read 1700MB/s, Write 1550MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 C10 SDHC UHS-I Card 32GB [R:100 W:90] SDSDXXO-032G",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "79",
+        "water_price_min": "65",
+        "water_price_max": "79",
+        "種類:": "SDHC",
+        "速度:": "Read 100MB/s, Write 90MB/s"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 SDXC 記憶卡 256GB (SDG3/256GB) [R:170 W:90]",
+        "rating": "10",
+        "hon_price_min": "228",
+        "hon_price_max": "299",
+        "water_price_min": "239",
+        "water_price_max": "239",
+        "種類:": "SDXC",
+        "速度:": "Read: 170MB/s, Write: 90MB/s"
+    },
+    {
+        "names": "SanDisk C4 SDHC Card 8GB (SDSDB-008G-B35) [R:15 W:15]",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "water_price_min": "35",
+        "water_price_max": "35",
+        "種類:": "SDHC",
+        "速度:": "Read 15MB/s, Write 15MB/s"
+    },
+    {
+        "names": "Sony SR-64UY3A",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "195",
+        "種類:": "microSDXC",
+        "速度:": "UHS 1, Class 10,70/MB"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 A1 microSDXC UHS-I Card with SD adapter 64GB [R:140] SDSQUAB-064G",
+        "rating": "",
+        "hon_price_min": "36",
+        "hon_price_max": "85",
+        "water_price_min": "36",
+        "water_price_max": "45",
+        "種類:": "microSDXC",
+        "速度:": "Read 140MB/s"
+    },
+    {
+        "names": "Nikon 64GB XQD Memory Card",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "990",
+        "water_price_min": "800",
+        "water_price_max": "880",
+        "種類:": "XQD",
+        "速度:": "Read 440MB/s, Write 400MB/s"
+    },
+    {
+        "names": "Kingston SDC10G2 32GB with SD Adapter (Class 10)",
+        "rating": "",
+        "hon_price_min": "29",
+        "hon_price_max": "88",
+        "種類:": "SDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "SanDisk Extreme UDMA7 CompactFlash 128GB [R:120 W:85]",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "water_price_min": "543",
+        "water_price_max": "650",
+        "種類:": "CF",
+        "速度:": "Read 120MB/s, Write 85MB/s"
+    },
+    {
+        "names": "Lexar Professional 633X SDHC/SDXC 512GB",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "容量:": "512GB",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 400GB [R:100]",
+        "rating": "3.0",
+        "hon_price_min": "319",
+        "hon_price_max": "558",
+        "water_price_min": "248",
+        "water_price_max": "322",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "SanDisk Extreme U3 C10 SDXC UHS-I Card 64GB [R:90 W:40]",
+        "rating": "",
+        "hon_price_min": "76",
+        "hon_price_max": "78",
+        "種類:": "SDXC",
+        "速度:": "90MB/s Read,40MB/s Write"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Pro N401 SDHC UHS-I 32GB [R:95 W:75]",
+        "rating": "",
+        "hon_price_min": "84",
+        "hon_price_max": "130",
+        "種類:": "SDHC",
+        "速度:": "Read 95MB/s Write 75MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card with Adapter 64GB [R:100]",
+        "rating": "",
+        "hon_price_min": "37",
+        "hon_price_max": "99",
+        "water_price_min": "37",
+        "water_price_max": "98",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "KIOXIA Exceria Plus UHS-I SDXC 記憶卡 64GB [R:98 W:65]",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "種類:": "SDXC",
+        "速度:": "Read: 98MB/s Write: 65MB/s"
+    },
+    {
+        "names": "Lexar Multi-Card 25-in-1 USB 3.0 Reader",
+        "rating": "",
+        "hon_price_min": "147",
+        "hon_price_max": "156"
+    },
+    {
+        "names": "Sabrent Rocket V90 SD UHS-II 記憶卡 64GB [R:280 W:250] (SD-TL90-64GB)",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "容量:": "64GB",
+        "速度:": "Read: 280MB/s Write: 250MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U1 C10 SDXC UHS-I Card 64GB [R:95 W:90]",
+        "rating": "10",
+        "hon_price_min": "95",
+        "hon_price_max": "220",
+        "water_price_min": "79",
+        "water_price_max": "103",
+        "種類:": "SDXC",
+        "速度:": "95 MB/s Read, 90 MB/s Write"
+    },
+    {
+        "names": "Exascend Element 系列 CF Express Type B 記憶卡 256GB [R:1800 W:1200]",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,000",
+        "種類:": "CF Express Type B",
+        "速度:": "Read 1800MB/s, Write 1200MB/s"
+    },
+    {
+        "names": "Sony SF-32UY3",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "110",
+        "種類:": "SDHC",
+        "速度:": "90MB/s"
+    },
+    {
+        "names": "Samsung 三星 microSDHC UHS-I EVO 90R80W 64GB",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "409",
+        "種類:": "microSDHC",
+        "容量:": "64GB"
+    },
+    {
+        "names": "SanDisk Extreme PRO U3 C10 SDXC UHS-II Card 64GB [R:300 W:260]",
+        "rating": "7.0",
+        "hon_price_min": "588",
+        "hon_price_max": "750",
+        "water_price_min": "588",
+        "water_price_max": "775",
+        "種類:": "SDXC",
+        "速度:": "300MB/s READ, 260MB/s WRITE"
+    },
+    {
+        "names": "Lexar 64GB Professional 633x SDXC",
+        "rating": "8.0",
+        "hon_price_min": "78",
+        "hon_price_max": "148",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "種類:": "SDHC",
+        "容量:": "64GB"
+    },
+    {
+        "names": "Lexar Professional 2000x SDHC /SDXC UHS-II 128GB",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "958",
+        "種類:": "SDXC",
+        "速度:": "300MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Pro N401 SDXC UHS-I 128GB [R:95 W:75]",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "410",
+        "種類:": "SDXC",
+        "速度:": "Read:95MB/s, Write:75MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 M203 16GB",
+        "rating": "",
+        "hon_price_min": "23",
+        "hon_price_max": "45",
+        "種類:": "microSDXC",
+        "速度:": "100MB/S"
+    },
+    {
+        "names": "Samsung 三星 MB-MC32D",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "種類:": "SDHC",
+        "速度:": "READ 80MB/S, WRITE 20 MB/S"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 microSDXC UHS-I with Adaptor 128GB [R:100 W:90]",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "202",
+        "water_price_min": "149",
+        "water_price_max": "158",
+        "種類:": "microSDXC",
+        "速度:": "Read Speed: up to 100MB/s ; Write Speed: up to 90MB/s"
+    },
+    {
+        "names": "Hyundai 現代 MicroSDHC Card with SD Adapter U1 Class 10 64GB [R:90 W:40] (SDC64GU1)",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "種類:": "microSDHC",
+        "速度:": "Read: 90 MB/s, Write: 40MB/s"
+    },
+    {
+        "names": "Transcend JetDrive Lite 350 64GB [R:95 W:60]",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "340",
+        "種類:": "MLC",
+        "速度:": "Read 95MB/s, Write 60MB/s"
+    },
+    {
+        "names": "KIOXIA Exceria microSD 記憶卡 32GB [R:100]",
+        "rating": "8.0",
+        "hon_price_min": "29",
+        "hon_price_max": "39",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Pro M401 32GB [R:95 W:80]",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "115",
+        "種類:": "SDHC",
+        "速度:": "R95/W80"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 MicroSD 記憶卡 256GB [R:170 W:90]",
+        "rating": "10",
+        "hon_price_min": "219",
+        "hon_price_max": "278",
+        "water_price_min": "228",
+        "water_price_max": "228",
+        "種類:": "microSDXC",
+        "速度:": "Read: 170MB/s, Write: 90MB/s"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 MicroSD 記憶卡 512GB [R:170 W:90]",
+        "rating": "10",
+        "hon_price_min": "559",
+        "hon_price_max": "688",
+        "water_price_min": "559",
+        "water_price_max": "559",
+        "種類:": "microSDXC",
+        "速度:": "Read: 170MB/s Write: 90MB/s"
+    },
+    {
+        "names": "Sony SF-G Series TOUGH UHS-II SD 128GB [R300/W299]",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,780",
+        "種類:": "SDXC",
+        "速度:": "Read 300MB/s, Write 299MB/s"
+    },
+    {
+        "names": "Exascend Essential 系列 CFast Card 2.0 記憶卡 128GB [R:520 W:180]",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "種類:": "CFast",
+        "速度:": "Read 520MB/s, Write 180MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDXC UHS-I Card 200GB [R:100] SDSQUAR-0200G-GN6MN",
+        "rating": "",
+        "hon_price_min": "171",
+        "hon_price_max": "198",
+        "water_price_min": "171",
+        "water_price_max": "179",
+        "種類:": "microSDXC",
+        "速度:": "100MB/S"
+    },
+    {
+        "names": "Transcend microSDXC/SDHC 300S 128GB",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "159",
+        "種類:": "SDXC",
+        "速度:": "Read 95MB/s, write 45MB/s"
+    },
+    {
+        "names": "Western Digital WD Purple SC QD101 Ultra Endurance microSDXC Card 128GB (WDD128G1P0C)",
+        "rating": "",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "種類:": "microSDXC",
+        "容量:": "128GB"
+    },
+    {
+        "names": "SanDisk Ultra C10 MicroSDXC UHS-I Card 64GB [R:48]",
+        "rating": "7.3",
+        "hon_price_min": "47",
+        "hon_price_max": "74",
+        "water_price_min": "34",
+        "water_price_max": "68",
+        "種類:": "microSDXC",
+        "速度:": "48MB/s"
+    },
+    {
+        "names": "Delkin Devices Black CFexpress Type A Memory Card 160GB [R:880 W:730]",
+        "rating": "",
+        "hon_price_min": "2,700",
+        "hon_price_max": "2,700",
+        "種類:": "CF",
+        "速度:": "Read 880MB/s, Write 790MB/s"
+    },
+    {
+        "names": "Samsung 三星 U3 MicroSDXC EVO 128GB Memory Card with Adapter (停產)",
+        "rating": "",
+        "hon_price_min": "86",
+        "hon_price_max": "213",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "Kingston Canvas React Plus Kit UHS-II SD 記憶卡 64GB [R:300 W:260] with UHS-II SD Reader",
+        "rating": "10",
+        "hon_price_min": "448",
+        "hon_price_max": "458",
+        "種類:": "SDXC",
+        "速度:": "Read: 300MB/s Write: 260MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 M203 256GB",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "399",
+        "種類:": "microSDXC",
+        "速度:": "100MB/S"
+    },
+    {
+        "names": "Strontium Nitro 32GB UHS-1 70MB/s Class 10 microSD SDHC Card (SRN32GTFU1R)",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "118",
+        "種類:": "microSDHC",
+        "速度:": "70MB/s"
+    },
+    {
+        "names": "Strontium Nitro A1 UHS-I MicroSDXC Card with Adapter 64GB [R: 100]",
+        "rating": "2.0",
+        "hon_price_min": "70",
+        "hon_price_max": "95",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 M302 MicroSDHC CL10 U3 90MB/s 64GB",
+        "rating": "10",
+        "hon_price_min": "125",
+        "hon_price_max": "169",
+        "種類:": "MicroSD",
+        "速度:": "90MB/s"
+    },
+    {
+        "names": "Lexar Professional 3500x CFast 2.0 card 64GB",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,099",
+        "種類:": "CF",
+        "速度:": "525MB/s"
+    },
+    {
+        "names": "Western Digital WD Purple SC QD101 Ultra Endurance microSDXC Card 512GB (WDD512G1P0C)",
+        "rating": "",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "種類:": "microSDXC",
+        "容量:": "512GB"
+    },
+    {
+        "names": "SanDisk High Endurance V30 U3 C10 microSDHC Card 32GB [R:100 W:40] SDSQQNR-032G-GN6IA",
+        "rating": "10",
+        "hon_price_min": "39",
+        "hon_price_max": "63",
+        "water_price_min": "40",
+        "water_price_max": "58",
+        "種類:": "microSDHC",
+        "速度:": "Read 100MB/s, Write 40MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 M203 32GB",
+        "rating": "",
+        "hon_price_min": "31",
+        "hon_price_max": "59",
+        "種類:": "microSDXC",
+        "速度:": "100MB/S"
+    },
+    {
+        "names": "SanDisk Mobile Ultra microSDXC UHS-I Card 64GB [R:30]",
+        "rating": "7.1",
+        "hon_price_min": "32",
+        "hon_price_max": "315",
+        "water_price_min": "37",
+        "water_price_max": "37",
+        "種類:": "microSDXC",
+        "速度:": "30 MB/s"
+    },
+    {
+        "names": "Sabrent Rocket V90 SD UHS-II 記憶卡 128GB [R:280 W:250] (SD-TL90-128GB)",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "容量:": "128GB",
+        "速度:": "Read: 280MB/s Write: 250MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 C10 SDHC UHS-I Card 32GB [R:100] SDSDXVT-032G",
+        "rating": "",
+        "water_price_min": "279",
+        "water_price_max": "279",
+        "種類:": "SDHC",
+        "速度:": "Read 100MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U3 C10 SDHC UHS-II Cars 32GB [R:300 W:260]",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "386",
+        "water_price_min": "320",
+        "water_price_max": "349",
+        "種類:": "SDHC",
+        "速度:": "300MB/s READ, 260MB/s WRITE"
+    },
+    {
+        "names": "Kingston Canvas React Plus Kit UHS-II MicroSD 記憶卡 256GB [R:285 W:165] with UHS-II microSD Reader",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,300",
+        "種類:": "microSDXC",
+        "速度:": "Read: 285MB/s, Write 165MB/s"
+    },
+    {
+        "names": "Lexar 64GB Professional 1667x UHS-II SD Card [R:250 W:80]",
+        "rating": "10",
+        "hon_price_min": "182",
+        "hon_price_max": "308",
+        "water_price_min": "308",
+        "water_price_max": "308",
+        "種類:": "SDXC",
+        "速度:": "Read: 250MB/s Write: 80MB/s"
+    },
+    {
+        "names": "Kingston SDC10G2 64GB with SD Adapter (Class 10)",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "148",
+        "種類:": "SDXC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "Lexar Professional 633X SDXC 1TB [R:95 W:70]",
+        "rating": "",
+        "hon_price_min": "1,458",
+        "hon_price_max": "1,890",
+        "種類:": "SDXC",
+        "速度:": "Read: 95MB/s Write: 70MB/s"
+    },
+    {
+        "names": "AGI microSDXC Card with Adapter UHS-I U3 A2 1TB [R:98 W:70]",
+        "rating": "6.7",
+        "hon_price_min": "680",
+        "hon_price_max": "860",
+        "種類:": "microSDXC",
+        "速度:": "Read 98MB/s , Write 70MB/s"
+    },
+    {
+        "names": "Sony SR-32UY3A",
+        "rating": "",
+        "hon_price_min": "113",
+        "hon_price_max": "113",
+        "種類:": "microSDHC",
+        "速度:": "UHS 1, Class 10,70/MB"
+    },
+    {
+        "names": "Lexar 64GB MICRO SD CARD 633x C 10",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "種類:": "microSDHC",
+        "速度:": "Class 10"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Pro N502 SDXC UHS-II 128GB V90 [R:270 W:260]",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "種類:": "SDXC",
+        "速度:": "Read: 270MB/s, Write: 260MB/s"
+    },
+    {
+        "names": "KIOXIA Exceria Plus UHS-I microSDXC 記憶卡 64GB [R:100 W:65]",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "129",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s Write: 65MB/s"
+    },
+    {
+        "names": "Kingston High Endurance 32GB MicroSDHC [R:95 W:30]",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "種類:": "microSDHC",
+        "速度:": "Read: 95MB/s Write: 30MB/s"
+    },
+    {
+        "names": "SanDisk MicroSDXC Card for Nintendo Switch Apex Legends 128GB [R:100 W:90]",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "158",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/S , Write 90MB/S"
+    },
+    {
+        "names": "Prograde Digital 160GB CFexpress 2.0 Type A Memory Card (Cobalt) [R:800 W:700]",
+        "rating": "",
+        "hon_price_min": "3,020",
+        "hon_price_max": "3,020",
+        "種類:": "CF",
+        "速度:": "Read 800 MB/s, Write 700 MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Pro UDMA6 CompactFlash 32GB [R:90]",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "water_price_min": "267",
+        "water_price_max": "390",
+        "種類:": "CF",
+        "速度:": "90MB/s"
+    },
+    {
+        "names": "Transcend JetDrive Lite 360 256GB [R:95 W:60]",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "990",
+        "種類:": "MLC",
+        "速度:": "Read 95MB/s, Write 60MB/s"
+    },
+    {
+        "names": "SanDisk MicroSD 16GB (SDSDQM-016G-B35) (停產)",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "water_price_min": "27",
+        "water_price_max": "28",
+        "種類:": "microSDHC",
+        "速度:": "Class 4"
+    },
+    {
+        "names": "Lexar nCARD NM 記憶卡 256GB [R:90]",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "668",
+        "種類:": "NM 記憶卡",
+        "速度:": "Read: 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme Plus V30 U3 MicroSDXC UHS-I Card 128GB [R:95 W:90]",
+        "rating": "",
+        "hon_price_min": "137",
+        "hon_price_max": "202",
+        "water_price_min": "122",
+        "water_price_max": "149",
+        "種類:": "microSDXC",
+        "速度:": "95MB/R 90MB/W"
+    },
+    {
+        "names": "Lexar Professional 1066x CompactFlash card 128GB",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "999",
+        "種類:": "CF",
+        "速度:": "160MB/s"
+    },
+    {
+        "names": "SanDisk C2 microSDHC Card 16GB",
+        "rating": "10",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "water_price_min": "28",
+        "water_price_max": "30",
+        "種類:": "microSDHC",
+        "容量:": "16GB"
+    },
+    {
+        "names": "Strontium Nitro 64GB UHS-1 85MB/s Class 10 microSD SDHC Card (SRN64GTFU1C)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "種類:": "microSDHC",
+        "速度:": "85MB/s"
+    },
+    {
+        "names": "Lexar Professional SILVER系列 1066x 128GB microSDXC UHS-I記憶卡",
+        "rating": "",
+        "hon_price_min": "231",
+        "hon_price_max": "231",
+        "water_price_min": "231",
+        "water_price_max": "231",
+        "種類:": "microSDXC",
+        "速度:": "up to 160MB/s read, up to 120MB/s write"
+    },
+    {
+        "names": "Lexar Professional 3500x CFast 2.0 card 256GB [R:525 W:445]",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,750",
+        "種類:": "CF",
+        "速度:": "525MB/s read, 445MB/s write"
+    },
+    {
+        "names": "Lexar 256GB Professional 1066x SDXC UHS-I Card SILVER Series",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "438",
+        "water_price_min": "475",
+        "water_price_max": "475",
+        "種類:": "SDXC",
+        "速度:": "up to 160MB/s read, up to 120MB/s write"
+    },
+    {
+        "names": "Sony SF-32UZ/T1",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "種類:": "MicroSD",
+        "速度:": "95MB"
+    },
+    {
+        "names": "Kingston Canvas React Plus UHS-II SD 記憶卡 64GB [R:300 W:260] SDR2/64GB (淨卡)",
+        "rating": "8.0",
+        "hon_price_min": "376",
+        "hon_price_max": "448",
+        "種類:": "SDXC",
+        "速度:": "Read: 300MB/s, Write: 260MB/s"
+    },
+    {
+        "names": "SanDisk Ultra SDHC 32GB [R:30] (停產)",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "55",
+        "種類:": "SDHC",
+        "速度:": "Class 10"
+    },
+    {
+        "names": "SanDisk High Endurance V30 U3 C10 microSDXC UHS-I Card 128GB [R:100 W:40] SDSQQNR-128G-AN6IA",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "189",
+        "water_price_min": "80",
+        "water_price_max": "204",
+        "種類:": "microSDXC",
+        "速度:": "Read 100MB/s, Write 40MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Pro M501 MicroSDHC UHS-II 32GB [R:270 W:150]",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "303",
+        "種類:": "microSDHC",
+        "速度:": "Read: 270MB/s, Write: 150MB/s"
+    },
+    {
+        "names": "Kingston Canvas React 512GB V30 UHS-I U3 A1 4K microSDXC (R:100 W:80)",
+        "rating": "",
+        "hon_price_min": "633",
+        "hon_price_max": "810",
+        "種類:": "microSD",
+        "速度:": "100MB/s R, 80MB/s W"
+    },
+    {
+        "names": "Lexar Professional SILVER系列 64GB 1066x microSDXC UHS-I記憶卡",
+        "rating": "",
+        "hon_price_min": "127",
+        "hon_price_max": "127",
+        "water_price_min": "127",
+        "water_price_max": "127",
+        "種類:": "microSDXC",
+        "速度:": "up to 160MB/s read, up to 70MB/s write"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDXC UHS-I Card with Adapter 64GB [R:80]",
+        "rating": "9.0",
+        "hon_price_min": "32",
+        "hon_price_max": "98",
+        "water_price_min": "34",
+        "water_price_max": "56",
+        "種類:": "microSDXC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "SanDisk Ultra SDXC UHS-I Card 64GB [R:48] (停產)",
+        "rating": "10",
+        "hon_price_min": "69",
+        "hon_price_max": "170",
+        "water_price_min": "49",
+        "water_price_max": "65",
+        "種類:": "SDXC",
+        "速度:": "48MB/s"
+    },
+    {
+        "names": "Angelbird AV Pro CF CFast 2.0 Memory Card 128GB",
+        "rating": "",
+        "hon_price_min": "1,460",
+        "hon_price_max": "1,460",
+        "種類:": "CF",
+        "速度:": "Read 560MB/s, Write 498MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria 16GB 95MB/s [R:95 W:60]",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "種類:": "MicroSD",
+        "速度:": "Read 95mb/s, Write 60mb/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDHC UHS-I Card with Adapter 32GB [R:80]",
+        "rating": "10",
+        "hon_price_min": "22",
+        "hon_price_max": "65",
+        "water_price_min": "22",
+        "water_price_max": "24",
+        "種類:": "microSDHC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 U1 C10 microSDHC UHS-I Card 32GB [R:98]",
+        "rating": "",
+        "hon_price_min": "27",
+        "hon_price_max": "55",
+        "water_price_min": "27",
+        "water_price_max": "34",
+        "種類:": "microSDHC",
+        "速度:": "98MB/s"
+    },
+    {
+        "names": "Strontium Nitro 64GB UHS-1 85MB/s Class 10 microSD SDHC Card (SRN64GTFU1R)",
+        "rating": "6.0",
+        "hon_price_min": "90",
+        "hon_price_max": "148",
+        "種類:": "microSDHC",
+        "速度:": "85MB/s"
+    },
+    {
+        "names": "Exascend Element 系列 CF Express Type B 記憶卡 1TB [R:1800 W:1200]",
+        "rating": "",
+        "hon_price_min": "3,700",
+        "hon_price_max": "3,700",
+        "種類:": "CF Express Type B",
+        "速度:": "Read 1800MB/s, Write 1200MB/s"
+    },
+    {
+        "names": "Strontium Nitro Plus 16GB UHS-1 U3 Class 10 SDHC Card 95MB/s",
+        "rating": "",
+        "種類:": "SDHC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "Lexar High-Performance 633x microSDXC Card 1TB [R:100]",
+        "rating": "2.0",
+        "hon_price_min": "1,420",
+        "hon_price_max": "1,430",
+        "種類:": "microSDXC",
+        "速度:": "Read: 100MB/s"
+    },
+    {
+        "names": "Transcend JetDrive Lite 350 256GB [R:95 W:60]",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "種類:": "MLC",
+        "速度:": "Read 95MB/s, Write 60MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO U1 SDHC UHS-I Card 32GB [R:45]",
+        "rating": "10",
+        "hon_price_min": "78",
+        "hon_price_max": "80",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "種類:": "SDHC",
+        "速度:": "45MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFast 2.0 Card 64GB [R:515] (停產)",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "1,780",
+        "種類:": "CF",
+        "速度:": "Read 515 MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Microsdhc(T-flash) 128GB 48MB/s C10",
+        "rating": "10",
+        "hon_price_min": "285",
+        "hon_price_max": "285",
+        "種類:": "microSDHC",
+        "速度:": "48MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO CFast 2.0 Card 512GB [R:525 W:450]",
+        "rating": "",
+        "hon_price_min": "3,950",
+        "hon_price_max": "4,268",
+        "種類:": "CF",
+        "速度:": "Read 525MB/s, Write 450MB/s"
+    },
+    {
+        "names": "Sony SF-64UY3",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "209",
+        "容量:": "64GB",
+        "速度:": "90MB/s"
+    },
+    {
+        "names": "SanDisk Ultra A1 C10 microSDHC UHS-I Card 16GB [R:98]",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "55",
+        "water_price_min": "28",
+        "water_price_max": "32",
+        "種類:": "microSDHC",
+        "速度:": "98MB/S"
+    },
+    {
+        "names": "Sony XQD H Series 16GB",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "種類:": "XQD",
+        "容量:": "16GB"
+    },
+    {
+        "names": "SanDisk For LG Mobile C10 microSDXC UHS-I Card 200GB",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "microSDXC",
+        "容量:": "200GB"
+    },
+    {
+        "names": "SanDisk Ultra Fit USB3.0 Flash Drive SDCZ43 16GB",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "容量:": "16GB"
+    },
+    {
+        "names": "Exascend Essential 系列 CFast Card 2.0 記憶卡 512GB [R:520 W:420]",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,000",
+        "種類:": "CFast",
+        "速度:": "Read 520MB/s, Write 420MB/s"
+    },
+    {
+        "names": "SanDisk Mobile Ultra microSDHC UHS-I Card 32GB",
+        "rating": "9.3",
+        "hon_price_min": "38",
+        "hon_price_max": "55",
+        "種類:": "microSDHC",
+        "容量:": "32GB"
+    },
+    {
+        "names": "Samsung 三星 U1 MicroSDHC EVO Memory Card 16GB",
+        "rating": "10",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "種類:": "microSDHC",
+        "容量:": "16GB"
+    },
+    {
+        "names": "Kingston SDCAC 64GB microSD (Class 10) [R:90 W:45]",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "種類:": "SDXC",
+        "速度:": "90MB/s Read, 45MB/s Write"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 MicroSD 記憶卡 64GB [R:170 W:70]",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "85",
+        "water_price_min": "82",
+        "water_price_max": "82",
+        "種類:": "microSDXC",
+        "速度:": "Read 170MB/s Write 70MB/s"
+    },
+    {
+        "names": "AGI 90MB Class 10 UHS-1 TF138 MicroSDHC Card 32GB",
+        "rating": "",
+        "hon_price_min": "21",
+        "hon_price_max": "26",
+        "種類:": "microSDHC",
+        "速度:": "Read 90MB/s, Write 30MB/s"
+    },
+    {
+        "names": "Sony XQD G Series 64GB QD-G64E/J",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,190",
+        "water_price_min": "850",
+        "water_price_max": "900",
+        "容量:": "64GB",
+        "速度:": "R440 W400"
+    },
+    {
+        "names": "SanDisk Ultra SDHC 32GB [R:40] (停產)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "種類:": "SDHC",
+        "速度:": "C10 48MB/s"
+    },
+    {
+        "names": "Sony SN-BA32",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "419",
+        "種類:": "SDHC",
+        "速度:": "Class 10"
+    },
+    {
+        "names": "Kingston 64GB Canvas Select Plus microSD",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "70",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s Read"
+    },
+    {
+        "names": "Ezviz 螢石 MicroSD card (128GB)",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "種類:": "Micro SD",
+        "速度:": "Read 90MB / s,Write 50MB / s"
+    },
+    {
+        "names": "Samsung 三星 32GB MicroSDHC Plus Class 10 Memory Card",
+        "rating": "9.4",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "種類:": "microSDHC",
+        "速度:": "Class 10"
+    },
+    {
+        "names": "Lexar 64GB Micro-SDXC Class10  With USB3.0 Reader",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "種類:": "microSDXC",
+        "速度:": "Class 10"
+    },
+    {
+        "names": "Lexar Professional 1066x CompactFlash card 32GB",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "315",
+        "種類:": "CF",
+        "速度:": "160MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDXC UHS-I Card 64GB [R: 80]",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "79",
+        "water_price_min": "34",
+        "water_price_max": "38",
+        "種類:": "microSDXC",
+        "速度:": "80MB/s"
+    },
+    {
+        "names": "SanDisk Extreme U3 C10 SDHC UHS-I Card 16GB [R:90 W:40]",
+        "rating": "",
+        "hon_price_min": "43",
+        "hon_price_max": "43",
+        "種類:": "SDHC",
+        "速度:": "90MB/s Read,40MB/s Write"
+    },
+    {
+        "names": "Sony SF-M128 [R:260 W:100]",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "780",
+        "種類:": "SDXC",
+        "速度:": "Read up to: 260MB/s Write up to: 100MB/s"
+    },
+    {
+        "names": "Kingston Canvas Go! Plus A2 V30 SD 記憶卡 64GB (SDG3/64GB) [R:170 W:70]",
+        "rating": "10",
+        "hon_price_min": "79",
+        "hon_price_max": "80",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "種類:": "SDXC",
+        "速度:": "Read: 170MB/s Write: 70MB/s"
+    },
+    {
+        "names": "Sony SN-BA16",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "種類:": "SDHC",
+        "速度:": "Class 10"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 microSDHC UHS-I Card with Adaptor 32GB [R:95]",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "79",
+        "種類:": "microSDHC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "Toshiba 東芝 Exceria Pro SDHC UHS-II 16GB",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "種類:": "SDHC",
+        "速度:": "Read: 260MB/s Write: 240MB/s (UHS-II Class 10)"
+    },
+    {
+        "names": "Sony XQD G Series 128GB QD-G128E/J",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,740",
+        "容量:": "128GB",
+        "速度:": "R440 W400"
+    },
+    {
+        "names": "FUJIMAX SUPERIOR UHS-1 3合1 SDXC CARD 32GB",
+        "rating": "",
+        "hon_price_min": "36",
+        "hon_price_max": "36",
+        "種類:": "SDXC",
+        "容量:": "32GB"
+    },
+    {
+        "names": "Lexar Professional 2000x SDHC UHS-II with reader 32GB",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "350",
+        "容量:": "32GB"
+    },
+    {
+        "names": "Strontium Nitro Plus 64GB UHS-1 U3 Class 10 microSD SDHC Card (SRP64GTFU1C)",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "種類:": "microSDXC",
+        "速度:": "95MB/s"
+    },
+    {
+        "names": "Sony SF-8N4",
+        "rating": "10",
+        "water_price_min": "15",
+        "water_price_max": "15",
+        "種類:": "SDHC",
+        "速度:": "Class 4"
+    },
+    {
+        "names": "Toshiba 東芝 M302 MicroSDXC CL10 U3 90MB/s 128GB",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "309",
+        "種類:": "SDXC",
+        "速度:": "90MB/s"
+    },
+    {
+        "names": "Transcend JetDrive Lite 330 64GB",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "330",
+        "種類:": "MLC",
+        "速度:": "95MB/s及60MB/s 的讀寫速度"
+    },
+    {
+        "names": "Samsung 三星 U3 MicroSDXC EVO Memory Card 256GB with Adapter (停產)",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "209",
+        "種類:": "microSDXC",
+        "速度:": "100MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 SDXC UHS-I Card 128GB [R:120] SDSDUN4-128G",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "110",
+        "water_price_min": "88",
+        "water_price_max": "110",
+        "種類:": "SDXC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "Samsung 三星 Metal OTG & USB & Micro SD 32gb C10/48mb",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "容量:": "32GB",
+        "速度:": "Class 10 48MB/s"
+    },
+    {
+        "names": "Lexar High-Performance 633x microSDHC UHS-I cards with SD Adapter (32GB) [R:95]",
+        "rating": "",
+        "hon_price_min": "32",
+        "hon_price_max": "45",
+        "water_price_min": "33",
+        "water_price_max": "38",
+        "種類:": "microSDHC",
+        "速度:": "Read 95MB/s"
+    },
+    {
+        "names": "SanDisk Ultra C10 microSDHC UHS-I Card 32GB [R:80]",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "38",
+        "water_price_min": "22",
+        "water_price_max": "54",
+        "種類:": "microSDHC",
+        "速度:": "80mb/s"
+    },
+    {
+        "names": "Transcend JetDrive Lite 330 Mac專用擴充卡 1TB [R:95 W:75]",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "種類:": "Expansion Cards for Mac",
+        "速度:": "Read 95MB/s, Write 75MB/s"
+    },
+    {
+        "names": "Transcend JetDrive Lite 330 128GB [R:95 W:60]",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "種類:": "MLC",
+        "速度:": "Read 95MB/s, Write 60MB/s"
+    },
+    {
+        "names": "SanDisk Ultra U1 C10 A1 microSDHC UHS-I Card with SD adapter 32GB [R:120] SDSQUA4-032G",
+        "rating": "",
+        "hon_price_min": "32",
+        "hon_price_max": "48",
+        "water_price_min": "27",
+        "water_price_max": "36",
+        "種類:": "microSDHC",
+        "速度:": "Read 120MB/s"
+    },
+    {
+        "names": "SanDisk Extreme V30 U3 microSDXC UHS-I with Adaptor 128GB [R:90 W:60] (停產)",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "328",
+        "water_price_min": "90",
+        "water_price_max": "118",
+        "種類:": "microSDXC",
+        "速度:": "Read Speed: up to 90MB/s ; Write Speed: up to 60MB/s"
+    },
+    {
+        "names": "ez Share WiFi microSD Adapter",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "189",
+        "種類:": "wifi sd adapter"
+    },
+    {
+        "names": "BIWIN NM CARD 128GB [R:90]",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "245",
+        "種類:": "NM 記憶卡",
+        "速度:": "Read 90MB/s"
+    },
+    {
+        "names": "SanDisk Extreme PRO V30 U3 microSDXC UHS-I Card with Adaptor 128GB [R:95 W:90]",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "202",
+        "water_price_min": "123",
+        "water_price_max": "158",
+        "種類:": "microSDXC",
+        "速度:": "Read Speed: up to 95MB/s ; Write Speed: up to 90MB/s"
+    },
+    {
+        "names": "Samsung 三星 PRO Endurance 32GB UHS-I MicroSDHC [R:100 W:30]",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "78",
+        "種類:": "microSDHC",
+        "速度:": "Read: 100MB/s Write: 30MB/s"
+    },
+    {
+        "names": "Strontium Nitro 64GB UHS-1 85MB/s Class 10 microSD SDHC Card + OTG Reader (SRN64GTFU1T)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "種類:": "microSDHC",
+        "速度:": "85MB/s"
+    },
+    {
+        "names": "Lexar High-Performance 633x MicroSDHC UHS-I Card 32GB [R:95]",
+        "rating": "",
+        "hon_price_min": "32",
+        "hon_price_max": "32",
+        "種類:": "microSDHC",
+        "速度:": "Read: 95MB/s"
+    },
+    {
+        "names": "Lexar Professional 2933x XQD 2.0 card 64GB",
+        "rating": "",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "種類:": "XQD",
+        "速度:": "440MB/s"
+    }
+]

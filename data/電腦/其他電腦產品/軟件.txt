@@ -1,0 +1,3815 @@
+[
+    {
+        "names": "Microsoft Office 家用及中小企業版 2021",
+        "rating": "8.5",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,020",
+        "water_price_max": "1,882",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10 / MacOS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 家用版 2021",
+        "rating": "9.8",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,299",
+        "water_price_min": "490",
+        "water_price_max": "1,080",
+        "類型:": "文書處理",
+        "作業系統:": "Windows / MacOS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 家用版 (5 部 PC 或 Mac、5 部平板電腦和 5 支手機)",
+        "rating": "9.8",
+        "hon_price_min": "450",
+        "hon_price_max": "770",
+        "water_price_min": "295",
+        "water_price_max": "768",
+        "類型:": "文書處理",
+        "作業系統:": "Windows、Mac",
+        "授權用戶數:": "5+5"
+    },
+    {
+        "names": "Microsoft Windows 10 Home 正版序號",
+        "rating": "8.7",
+        "hon_price_min": "820",
+        "hon_price_max": "1,190",
+        "water_price_min": "200",
+        "water_price_max": "960",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows 11 Professional 正版序號",
+        "rating": "10",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,299",
+        "water_price_min": "200",
+        "water_price_max": "950",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 11",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 個人版",
+        "rating": "9.3",
+        "hon_price_min": "220",
+        "hon_price_max": "540",
+        "water_price_min": "198",
+        "water_price_max": "428",
+        "類型:": "文書處理",
+        "作業系統:": "Windows、MAC",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Microsoft Office Home and Student 2021 (1台PC/MAC)",
+        "rating": "10",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,199",
+        "water_price_min": "499",
+        "water_price_max": "1,082",
+        "類型:": "文書處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 家用進階版",
+        "rating": "9.8",
+        "hon_price_min": "450",
+        "hon_price_max": "770",
+        "water_price_min": "295",
+        "water_price_max": "490",
+        "類型:": "軟件",
+        "作業系統:": "Windows、MAC",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Internet Security Renewal Pack 3年續期版 1用戶",
+        "rating": "9.3",
+        "hon_price_min": "273",
+        "hon_price_max": "328",
+        "類型:": "防毒",
+        "作業系統:": "PC / MAC",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Internet Security (1用戶3年)",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "438",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 家用版 2019",
+        "rating": "9.3",
+        "hon_price_min": "899",
+        "hon_price_max": "1,299",
+        "water_price_min": "370",
+        "water_price_max": "1,299",
+        "類型:": "文書處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows 11 Pro 64Bit OEM DVD",
+        "rating": "10",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,280",
+        "water_price_min": "400",
+        "water_price_max": "980",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 11"
+    },
+    {
+        "names": "Microsoft Office 365 家用版 - 6 個使用者 (適用於PC 、Mac、Tablet、Phone)",
+        "rating": "9.7",
+        "hon_price_min": "450",
+        "hon_price_max": "770",
+        "water_price_min": "288",
+        "water_price_max": "498",
+        "類型:": "文書處理,系統工具",
+        "授權用戶數:": "6"
+    },
+    {
+        "names": "Microsoft Windows 11 Home 64Bit OEM DVD",
+        "rating": "10",
+        "hon_price_min": "750",
+        "hon_price_max": "1,100",
+        "water_price_min": "450",
+        "water_price_max": "888",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 11 Home"
+    },
+    {
+        "names": "Microsoft Office Home and Business 2021 (1部PC/MAC)",
+        "rating": "10",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,998",
+        "water_price_min": "1,080",
+        "water_price_max": "1,880",
+        "類型:": "文書處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows 10 Home 64Bit ChnTrad OEM DVD",
+        "rating": "10",
+        "hon_price_min": "820",
+        "hon_price_max": "990",
+        "water_price_min": "440",
+        "water_price_max": "960",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10"
+    },
+    {
+        "names": "Microsoft Windows 10 Professional 正版序號",
+        "rating": "10",
+        "hon_price_min": "800",
+        "hon_price_max": "1,950",
+        "water_price_min": "200",
+        "water_price_max": "800",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "CYBERLINK Power Director 21 威力導演 21 (旗艦版)",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,199",
+        "類型:": "影片剪輯",
+        "作業系統:": "Windows 11/10/8/ 8.1/7 (64 位元)",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Acrobat Pro DC 2020 for Windows",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "5,680",
+        "water_price_min": "3,999",
+        "water_price_max": "3,999",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "CYBERLINK Power Director 21 威力導演 21 (極致版)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "799",
+        "類型:": "影片剪輯",
+        "作業系統:": "Windows 11/10/8/ 8.1/7 (64 位元)",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 家用版 5用戶 1年版",
+        "rating": "9.6",
+        "hon_price_min": "450",
+        "hon_price_max": "770",
+        "water_price_min": "280",
+        "water_price_max": "460",
+        "類型:": "文書軟件",
+        "作業系統:": "WIN / MAC",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Microsoft Windows 10 Pro (64-bit, DVD)",
+        "rating": "7.6",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,299",
+        "water_price_min": "589",
+        "water_price_max": "1,100",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10"
+    },
+    {
+        "names": "Makemusic Finale Version 27",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,000",
+        "類型:": "音樂軟件",
+        "作業系統:": "Windows 11、Windows 10、Windows 8",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 家用版 2016",
+        "rating": "7.0",
+        "hon_price_min": "850",
+        "hon_price_max": "1,190",
+        "water_price_min": "450",
+        "water_price_max": "699",
+        "類型:": "文書處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 2019 Home and Business",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,999",
+        "water_price_min": "750",
+        "water_price_max": "1,480",
+        "類型:": "文書處理, 商業軟件",
+        "作業系統:": "Window 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Antivirus (3年授權)",
+        "rating": "9.5",
+        "hon_price_min": "245",
+        "hon_price_max": "325",
+        "water_price_min": "170",
+        "water_price_max": "179",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 2000 / XP / Vista",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Premiere Elements 2023",
+        "rating": "",
+        "hon_price_min": "830",
+        "hon_price_max": "850",
+        "water_price_min": "660",
+        "water_price_max": "660",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10 / 11",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows 10 Professional Box 32bit / 64bit USB",
+        "rating": "10",
+        "hon_price_min": "1,560",
+        "hon_price_max": "2,000",
+        "water_price_min": "800",
+        "water_price_max": "1,980",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD LT 2022 Commercial New Single-user ELD Annual Subscription 3 YEARS VERSION",
+        "rating": "",
+        "hon_price_min": "14,780",
+        "hon_price_max": "16,456",
+        "類型:": "用於設計，起草和記錄的Precision 2D CAD軟件, 圖像處理",
+        "作業系統:": "64位元Microsoft Windows10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 1 user 3 years",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "338",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Veeam Availability Suite Enterprise Plus Public Sector (P-VASPLS-VS-PP000-00)",
+        "rating": "",
+        "hon_price_min": "24,400",
+        "hon_price_max": "24,400",
+        "類型:": "數據保護",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD LT 2022 Commercial New Single-user ELD Annual Subscription 1 YEAR VERSION",
+        "rating": "",
+        "hon_price_min": "5,450",
+        "hon_price_max": "5,680",
+        "類型:": "用於設計，起草和記錄的Precision 2D CAD軟件, 圖像處理",
+        "作業系統:": "64位元Microsoft Windows10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Project 專業版 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "9,884",
+        "water_price_min": "5,500",
+        "water_price_max": "5,500",
+        "類型:": "商業軟件",
+        "作業系統:": "Windows 10、Windows Server 2019",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office LTSC Professional Plus 2021",
+        "rating": "",
+        "hon_price_min": "4,768",
+        "hon_price_max": "4,768",
+        "類型:": "數據處理/文書處理",
+        "介面語言:": "多國語言"
+    },
+    {
+        "names": "Corel CorelDRAW Graphics Suite 2021 Education Edition (教育版)",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,950",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 2019 Professional Plus 專業版",
+        "rating": "9.0",
+        "hon_price_min": "1,500",
+        "hon_price_max": "3,990",
+        "water_price_min": "720",
+        "water_price_max": "2,680",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 家用進階版",
+        "rating": "9.8",
+        "hon_price_min": "450",
+        "hon_price_max": "770",
+        "water_price_min": "295",
+        "water_price_max": "490",
+        "類型:": "軟件",
+        "作業系統:": "Windows、MAC",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "ESET NOD32 ANTIVIRUS 3 users 3 years",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "708",
+        "water_price_min": "420",
+        "water_price_max": "440",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "VMware vSphere 7 Standard with 1YR SnS for 1 Processor",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "11,800",
+        "water_price_min": "6,800",
+        "water_price_max": "6,800"
+    },
+    {
+        "names": "Microsoft 365 Family - Traditional Chinese (12 個月訂閱計劃；適用於多達 6 位用戶)",
+        "rating": "9.7",
+        "hon_price_min": "480",
+        "hon_price_max": "770",
+        "water_price_min": "295",
+        "water_price_max": "480",
+        "類型:": "文書處理",
+        "作業系統:": "Mac",
+        "授權用戶數:": "6"
+    },
+    {
+        "names": "Kaspersky Internet Security Multi Device 3 Years 3 Devices",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "850",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows, Android, iOS",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "ESET INTERNET SECURITY 3 users 3 years 續期版",
+        "rating": "10",
+        "hon_price_min": "639",
+        "hon_price_max": "650",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 3 users 3 years",
+        "rating": "",
+        "hon_price_min": "535",
+        "hon_price_max": "638",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "ESET Internet Security Renewal 1User 3Year",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "399",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Internet Security Renewal Pack 3年續期版 5用戶",
+        "rating": "10",
+        "hon_price_min": "928",
+        "hon_price_max": "1,038",
+        "類型:": "防毒",
+        "作業系統:": "PC / MAC",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Internet Security Renewal Pack 3年續期版 5用戶",
+        "rating": "10",
+        "hon_price_min": "928",
+        "hon_price_max": "1,038",
+        "類型:": "防毒",
+        "作業系統:": "PC / MAC",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Microsoft 365 Personal - Traditional Chinese (12 個月訂閱計劃)",
+        "rating": "10",
+        "hon_price_min": "240",
+        "hon_price_max": "350",
+        "water_price_min": "220",
+        "water_price_max": "399",
+        "類型:": "文書處理",
+        "作業系統:": "Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "UL Solutions 3DMark 硬件評分工具",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "類型:": "系統工具"
+    },
+    {
+        "names": "Microsoft Office 365 家用版 15個月訂閱 - 6 個使用者 (適用於PC 、Mac、Tablet、Phone)",
+        "rating": "9.9",
+        "hon_price_min": "520",
+        "hon_price_max": "770",
+        "water_price_min": "350",
+        "water_price_max": "590",
+        "類型:": "文書處理",
+        "作業系統:": "Win10 、Mac、Tablet、Phone",
+        "授權用戶數:": "6"
+    },
+    {
+        "names": "Kaspersky Internet Security Renewal Pack 3年續期版 3用戶",
+        "rating": "10",
+        "hon_price_min": "590",
+        "hon_price_max": "658",
+        "類型:": "防毒",
+        "作業系統:": "PC / MAC",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Aten Unizon-STD (Standard License: 500 Devices, 3 Years Duration)",
+        "rating": "",
+        "hon_price_min": "50,130",
+        "hon_price_max": "50,150",
+        "類型:": "影音系統管理平台"
+    },
+    {
+        "names": "Microsoft Office Home and Student 2019- Traditional Chinese (1 部 Mac)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,290",
+        "water_price_min": "570",
+        "water_price_max": "850",
+        "類型:": "文書處理",
+        "作業系統:": "Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 5U3Y",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "914",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "CYBERLINK 相片大師 12 極致版",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "749",
+        "類型:": "相片剪輯/相片編修/相片後製/相片調色,圖像處理"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 1U3Y",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "328",
+        "water_price_min": "170",
+        "water_price_max": "180",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD LT Commercial Single-user Annual Subscription 1 YEAR Renewal Version",
+        "rating": "",
+        "hon_price_min": "4,970",
+        "hon_price_max": "5,580",
+        "類型:": "用於設計，起草和記錄的Precision 2D CAD軟件, 圖像處理",
+        "作業系統:": "64位元Microsoft Windows10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Smart Security 9 (5User , 3Year)",
+        "rating": "10",
+        "hon_price_min": "950",
+        "hon_price_max": "1,140",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10/8/7/Vista/XP",
+        "授權用戶數:": "5User"
+    },
+    {
+        "names": "Adobe Photoshop Elements & Premiere Elements 2023",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,250",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10 / 11",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "九方 中文輸入法 for Android手機/平板電腦 3用戶版本",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "178",
+        "類型:": "輸入法",
+        "作業系統:": "Android v4.0 - 8.0",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Adobe Photoshop Elements & Premiere Elements 2021",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Total Security 1 user 3 years",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "780",
+        "類型:": "防毒保安"
+    },
+    {
+        "names": "Microsoft Windows 10 Home 64Bit ChnTrad OEM DVD",
+        "rating": "10",
+        "hon_price_min": "820",
+        "hon_price_max": "990",
+        "water_price_min": "440",
+        "water_price_max": "960",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10"
+    },
+    {
+        "names": "Acronis True Image 2021 3裝置 1年版",
+        "rating": "",
+        "hon_price_min": "614",
+        "hon_price_max": "614",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft Office Home and Business 2016",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,998",
+        "water_price_min": "980",
+        "water_price_max": "1,680",
+        "類型:": "文書處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1 User"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 5 users 3 years",
+        "rating": "",
+        "hon_price_min": "825",
+        "hon_price_max": "880",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Anti-Virus Boxset 3 Years - 3 Users Pack",
+        "rating": "",
+        "hon_price_min": "535",
+        "hon_price_max": "738",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft Office 365 Home (12 個月訂閱計劃，適用於多達 6 位用戶) - 英文",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "768",
+        "water_price_min": "295",
+        "water_price_max": "480",
+        "類型:": "文書處理",
+        "作業系統:": "Mac",
+        "授權用戶數:": "up to 6 user"
+    },
+    {
+        "names": "Norton Security Deluxe 3 Users 3 Years",
+        "rating": "10",
+        "hon_price_min": "750",
+        "hon_price_max": "790",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10 / Mac OS",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "McAfee Total Protection 2022 (1年1裝置版)",
+        "rating": "",
+        "water_price_min": "138",
+        "water_price_max": "138",
+        "類型:": "防毒軟件",
+        "作業系統:": "Windows / macOS / Android / iOS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Internet Security BoxSet v12 (5User 3Year)",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,259",
+        "類型:": "防毒保安"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 1 Year Subscription License – 25 User",
+        "rating": "",
+        "hon_price_min": "6,490",
+        "hon_price_max": "6,500",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 1 user 3 years 續期版",
+        "rating": "6.0",
+        "hon_price_min": "238",
+        "hon_price_max": "248",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Corel PaintShop Pro ultimate 2018",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 7, windows 8,windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 2018 - 5用戶 3年下載版",
+        "rating": "",
+        "hon_price_min": "825",
+        "hon_price_max": "930",
+        "類型:": "防毒軟件",
+        "作業系統:": "Window",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 3Users 1年",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "298",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows / Mac"
+    },
+    {
+        "names": "Sophos Central Intercept X Advanced with EDR - 5 USERS - 12 Months",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,080",
+        "類型:": "防毒保安 / 商用軟件",
+        "作業系統:": "Windows/macOS",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Internet Security 2019 - Multi-Device多平台 5裝置 3年下載版 (Windows + Mac + Android)",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,200",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows / Mac / Android",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Microsoft Windows 10 Pro 64Bit Eng Intl OEM DVD",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,500",
+        "water_price_min": "700",
+        "water_price_max": "1,100",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10 Pro",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Trend Micro PC-cillin Maximum Security 3用戶 1年",
+        "rating": "",
+        "hon_price_min": "326",
+        "hon_price_max": "459",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows / Mac / Android 合用",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft 365 商務標準版 (12個月電子下載版)",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,190",
+        "類型:": "文書處理",
+        "作業系統:": "Windows, MacOS, iOS, Android",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Excel 2021 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "830",
+        "hon_price_max": "830",
+        "water_price_min": "500",
+        "water_price_max": "500",
+        "類型:": "數據處理/文書處理",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Acrobat Professional 2020 for Windows/Mac Boxset",
+        "rating": "",
+        "hon_price_min": "5,290",
+        "hon_price_max": "5,680",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Internet Security Multi-Device Boxset 3 Years - 1 Device Pack",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "458",
+        "類型:": "抵禦病毒、勒索軟體、網路釣魚、垃圾郵件,保護 PC 和 Mac 電腦，以及 Android 手機和平板電腦",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Photoshop Elements 2021",
+        "rating": "",
+        "hon_price_min": "845",
+        "hon_price_max": "850",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Smart Security 9 (3User , 3Year)",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "790",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10/8/7/Vista/XP",
+        "授權用戶數:": "3 User"
+    },
+    {
+        "names": "Autodesk AutoCAD LT for Mac Commercial Single-user Annual Subscription 3 YEARS Renewal Version",
+        "rating": "",
+        "hon_price_min": "13,450",
+        "hon_price_max": "14,810",
+        "類型:": "用於設計，起草和記錄的Precision 2D CAD軟件, 圖像處理",
+        "作業系統:": "Apple macOS Big Sur / v11Apple macOS Catalina v10.15 / Apple macOS Mojave v10.14",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Antivirus  (3User + 3Year)",
+        "rating": "10",
+        "hon_price_min": "490",
+        "hon_price_max": "708",
+        "water_price_min": "420",
+        "water_price_max": "430",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft SQL Server 2019 Standard (4 Core)",
+        "rating": "",
+        "hon_price_min": "25,000",
+        "hon_price_max": "25,000",
+        "water_price_min": "23,000",
+        "water_price_max": "24,500",
+        "類型:": "數據分析",
+        "作業系統:": "Windows 10 , Windows Server 2016 or greater",
+        "授權用戶數:": "1 server, unlimited user CAL"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 2U2Y",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "220",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows、macOS",
+        "授權用戶數:": "2"
+    },
+    {
+        "names": "Microsoft Office Professional 2016",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "3,000",
+        "water_price_min": "799",
+        "water_price_max": "1,850",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10/8/7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Internet Security Total Security Multi Device 3 Years 3 Devices",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,120",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "ESET NOD32 Antivirus (2年授權)",
+        "rating": "8.5",
+        "hon_price_min": "168",
+        "hon_price_max": "239",
+        "water_price_min": "209",
+        "water_price_max": "209",
+        "類型:": "防毒",
+        "作業系統:": "Windows 2000 / XP / Vista",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 2U1Y",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "260",
+        "water_price_min": "209",
+        "water_price_max": "209",
+        "類型:": "防毒保安",
+        "授權用戶數:": "2"
+    },
+    {
+        "names": "Kaspersky Total Security Multi-Device Boxset 3 Years - 3 Devices Pack",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,288",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Adobe Acrobat Standard 2020 for Windows Boxset",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,680",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office Home and Student 2016",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "1,100",
+        "water_price_min": "599",
+        "water_price_max": "739",
+        "類型:": "文書處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 1 user 2 years 續期版",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "199",
+        "water_price_min": "165",
+        "water_price_max": "165",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Server 2022 Standard 16 Core (64-bit, DVD)",
+        "rating": "",
+        "hon_price_min": "7,150",
+        "hon_price_max": "7,200",
+        "類型:": "作業系統",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Internet Security 5 users 3 years",
+        "rating": "10",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,145",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Acronis True Image 2021 永久版",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "water_price_min": "890",
+        "water_price_max": "1,280",
+        "類型:": "系統工具",
+        "作業系統:": "Windows 10 / Mac OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 1 Year Subscription License – 15 User",
+        "rating": "",
+        "hon_price_min": "3,930",
+        "hon_price_max": "4,815",
+        "授權用戶數:": "15"
+    },
+    {
+        "names": "ESET File Server Security For Microsoft Windows Server 1uesr 1year",
+        "rating": "",
+        "hon_price_min": "764",
+        "hon_price_max": "1,248",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "VMware vCenter Server 7 Foundation with 1YR SnS for vSphere 7 up to 4 hosts (Per Instance)",
+        "rating": "",
+        "hon_price_min": "19,800",
+        "hon_price_max": "19,800",
+        "water_price_min": "13,500",
+        "water_price_max": "13,500"
+    },
+    {
+        "names": "ESET Internet Security 1U3Y",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "408",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Internet Security BoxSet  v11 (2User 2Year)",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "類型:": "防毒保安"
+    },
+    {
+        "names": "Parallels Desktop 17 for Mac 商用永久版",
+        "rating": "",
+        "hon_price_min": "778",
+        "hon_price_max": "980",
+        "類型:": "系統工具",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT ( 1 Year 100 Users )",
+        "rating": "",
+        "hon_price_min": "31,200",
+        "hon_price_max": "31,300",
+        "類型:": "防毒保安",
+        "授權用戶數:": "100"
+    },
+    {
+        "names": "Microsoft Outlook 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "810",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Small Office Security - 5 PCs + 1 File Server Boxset",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "2,328",
+        "類型:": "防毒及保安",
+        "作業系統:": "Windows 7 (32/64 Bit), Vista (32/64 bit), XP (Service Pack 2 或更高), XP Professional x64 或更高",
+        "授權用戶數:": "5 PCs + 1 File Server"
+    },
+    {
+        "names": "Sophos Central Intercept X w/ Endpoint Advanced (CIX_CEA) (10 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "5,750",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10 Users 1 Year On-Premise"
+    },
+    {
+        "names": "MYOB Premier Plus V22.3 (Single Users)",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "類型:": "商業軟件",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 2019 - 5用戶 3年下載版",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "865",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "VMware vSphere Standard, 1CPU, 1YR License/Maintenance",
+        "rating": "",
+        "hon_price_min": "8,500",
+        "hon_price_max": "8,560",
+        "water_price_min": "6,800",
+        "water_price_max": "6,800"
+    },
+    {
+        "names": "Microsoft Windows 10 Pro 64Bit ChnTrad OEM DVD",
+        "rating": "10",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,500",
+        "water_price_min": "520",
+        "water_price_max": "1,100",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 3 Year Subscription License – 50 User",
+        "rating": "",
+        "hon_price_min": "30,800",
+        "hon_price_max": "30,850",
+        "授權用戶數:": "50"
+    },
+    {
+        "names": "MYOB ABSS Accounting",
+        "rating": "",
+        "hon_price_min": "3,400",
+        "hon_price_max": "3,400",
+        "類型:": "會計及商業軟件",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET INTERNET SECURITY 5 users 3 years 續期版",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Aten Unizon-BASIC (Basic License: 50 Devices, 3 Years Duration)",
+        "rating": "",
+        "hon_price_min": "23,880",
+        "hon_price_max": "23,890",
+        "類型:": "影音系統管理平台"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT ( 3 Years 10 Users )",
+        "rating": "",
+        "hon_price_min": "6,590",
+        "hon_price_max": "7,360",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Microsoft Office Home & Business 2016 for Mac",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,520",
+        "water_price_min": "780",
+        "water_price_max": "1,800",
+        "類型:": "文書處理",
+        "作業系統:": "Mac OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Central Intercept X- Next Generation Endpoint Protection (CIX) (10 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "3,530",
+        "hon_price_max": "3,555",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10 Users 1 Year On-Premise"
+    },
+    {
+        "names": "ESET NOD 32 antivrius renew pack 3年1用戶",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "255",
+        "類型:": "防毒保安",
+        "作業系統:": "Win 8/7/vista/XP SP3",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 Business Essentials Open License (1 Year for 5 Users)",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,340",
+        "介面語言:": "Mutli-Language",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "ESET Internet Security 3U3Y",
+        "rating": "",
+        "hon_price_min": "669",
+        "hon_price_max": "855",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Kofax PowerPDF Advanced 3",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,680",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Internet Security (3用戶3年)",
+        "rating": "10",
+        "hon_price_min": "669",
+        "hon_price_max": "890",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft Office 365 Enterprise E3 Open License (1 Year for 5 Users)",
+        "rating": "",
+        "hon_price_min": "9,250",
+        "hon_price_max": "12,000",
+        "類型:": "Office",
+        "作業系統:": "Windows, Mac OS, IOS, Andriod",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 1U2Y",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "239",
+        "water_price_min": "165",
+        "water_price_max": "165",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Premiere Elements 2022",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "850",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "九方 UE10 USB 版 (包括16GB手指 / 3年版)",
+        "rating": "6.0",
+        "hon_price_min": "370",
+        "hon_price_max": "408",
+        "類型:": "中文輪入法",
+        "作業系統:": "Windows 10 / 8.1 / 7 / vista / XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Tarpits AI Defense Matrix for Next Generation Firewall AI智能聯防矩陣方案",
+        "rating": "10",
+        "hon_price_min": "2,434",
+        "hon_price_max": "2,434",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT ( 3 Years 80 Users )",
+        "rating": "",
+        "hon_price_min": "52,900",
+        "hon_price_max": "52,960",
+        "類型:": "防毒保安",
+        "授權用戶數:": "80"
+    },
+    {
+        "names": "Microsoft Visio Standard 2019 Open License",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,166",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "ESET NOD32 AntiVirus Box(1 User, 2 Years)",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "210",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 8.1/8/7/Vista/XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Intercept X Advanced For Server (1 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,260",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1 Users 3 Year On-Premise"
+    },
+    {
+        "names": "Microsoft Visio Standard 2019 Open License",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,166",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "ESET NOD32 AntiVirus Box(1 User, 2 Years)",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "210",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 8.1/8/7/Vista/XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Intercept X Advanced For Server (1 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,260",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1 Users 3 Year On-Premise"
+    },
+    {
+        "names": "Parallels Desktop 16 for Mac Standard Edition 永久使用版",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "類型:": "系統工具",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus (1用戶3年續期)",
+        "rating": "",
+        "hon_price_min": "224",
+        "hon_price_max": "235",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Project 標準版 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "5,070",
+        "water_price_min": "3,500",
+        "water_price_max": "3,500",
+        "類型:": "商業軟件",
+        "作業系統:": "Windows 10、Windows Server 2019",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Server 2012 R2 Essentials Boxset for 25 Users (SKU-G3S-00587)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "類型:": "作業系統",
+        "作業系統:": "Windows",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "ESET NOD32 Smart Security 1 User 3年",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "448",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "Acronis Backup to Cloud Volume Subscription License (Renewal Only)",
+        "rating": "",
+        "hon_price_min": "12,200",
+        "hon_price_max": "12,200",
+        "類型:": "系統工具"
+    },
+    {
+        "names": "Acronis Backup 12.5 Advanced Virtual Host License",
+        "rating": "",
+        "hon_price_min": "15,250",
+        "hon_price_max": "15,263",
+        "類型:": "系統工具"
+    },
+    {
+        "names": "Kaspersky Internet Security 2018 - Multi-Device多平台 5裝置 3年下載版 (Windows + Mac + Android)",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,145",
+        "類型:": "防毒軟件",
+        "作業系統:": "Window",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Trimble SketchUp Pro Annual Subscription",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,300",
+        "類型:": "圖形處理",
+        "作業系統:": "WIindows and Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Visio Professional 2016 BOX",
+        "rating": "",
+        "hon_price_min": "3,780",
+        "hon_price_max": "4,620"
+    },
+    {
+        "names": "ESET NOD32 AntiVirus BOX (10 USERS, 3 YEARS)",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "1,990",
+        "類型:": "防毒軟件",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 5 User (3年授權)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,009",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 2000 / XP / Vista / 7 / 8",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 7 (Single + 3Year)",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "255",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "九方 Q9 UE10/MU8 for Win10/Mac 3Years (不含USB手指)",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "340",
+        "類型:": "輸入法",
+        "授權用戶數:": "1用戶"
+    },
+    {
+        "names": "九方 快碼中文輸入法 續期版 (3年)",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "255",
+        "類型:": "文書處理"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT ( 3 Years 20 Users )",
+        "rating": "",
+        "hon_price_min": "13,200",
+        "hon_price_max": "13,984",
+        "類型:": "防毒保安",
+        "授權用戶數:": "20"
+    },
+    {
+        "names": "Synology Virtual Machine Manager Pro (3Nodes / 3Years)",
+        "rating": "",
+        "hon_price_min": "3,257",
+        "hon_price_max": "3,269",
+        "類型:": "Software License,商業軟件"
+    },
+    {
+        "names": "Microsoft Office Home and Business 2019 (1 部 Mac) - 中文",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,990",
+        "water_price_min": "750",
+        "water_price_max": "1,580",
+        "類型:": "文書處理",
+        "作業系統:": "Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus Renewal Pack - 1 User for 3 years",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "235",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office Home and Student 2019 (1 部 Mac) - 英文",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "1,100",
+        "water_price_min": "440",
+        "water_price_max": "750",
+        "類型:": "文書處理",
+        "作業系統:": "PC/MAC",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Embedded System Security ( 1 Year 10 Users )",
+        "rating": "",
+        "hon_price_min": "5,159",
+        "hon_price_max": "5,159",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "ESET INTERNET SECURITY 1 user 2 years 續期版",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Smart Security v9 1用戶 2年盒裝版",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10 / 8.1 / 7 / vista / XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Endpoint Protection Standard (Commercial) (10 Multi-users) (3 year)",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "4,550",
+        "類型:": "終端防護軟體",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Microsoft Windows 7 Professional",
+        "rating": "9.1",
+        "hon_price_min": "750",
+        "hon_price_max": "980",
+        "water_price_min": "590",
+        "water_price_max": "599",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 3 Year Subscription License – 15 User",
+        "rating": "",
+        "hon_price_min": "12,850",
+        "hon_price_max": "12,855",
+        "授權用戶數:": "15"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 1 user 3 years",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "338",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Endpoint Protection Standard (Commercial) (10 Multi-users) (3 year)",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "4,550",
+        "類型:": "終端防護軟體",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Microsoft Windows 7 Professional",
+        "rating": "9.1",
+        "hon_price_min": "750",
+        "hon_price_max": "980",
+        "water_price_min": "590",
+        "water_price_max": "599",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 3 Year Subscription License – 15 User",
+        "rating": "",
+        "hon_price_min": "12,850",
+        "hon_price_max": "12,855",
+        "授權用戶數:": "15"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 1 Year Subscription License – 100 User",
+        "rating": "",
+        "hon_price_min": "22,000",
+        "hon_price_max": "22,000",
+        "授權用戶數:": "100"
+    },
+    {
+        "names": "CYBERLINK PowerDVD 21 (極致藍光版)",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Server Standard 2016 Open License Core License (8 licenses)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,888",
+        "water_price_min": "6,500",
+        "water_price_max": "6,500",
+        "作業系統:": "Windows Server 2016"
+    },
+    {
+        "names": "Agisoft Metashape Standard Edition",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "類型:": "圖像處理"
+    },
+    {
+        "names": "Corel CorelCAD 2019 (Windows/Mac)",
+        "rating": "",
+        "hon_price_min": "6,190",
+        "hon_price_max": "6,190",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10/8/7 32/64bits OR Mac OS 10.10 or highe",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 小型企業進階版",
+        "rating": "4.0",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,750",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "類型:": "文書軟件",
+        "作業系統:": "Windows , MAC",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Eventide UltraTap",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750"
+    },
+    {
+        "names": "Icewarp Cloud",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000"
+    },
+    {
+        "names": "Bricsys BricsCAD Lite",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "類型:": "圖像處理"
+    },
+    {
+        "names": "MYOB Premier 19, 1戶數",
+        "rating": "",
+        "hon_price_min": "3,366",
+        "hon_price_max": "3,366",
+        "類型:": "會計軟件",
+        "作業系統:": "7, 8, 8.1, 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT + Security for MAIL Add-on (Bundle Offer) (3 Years 10 Users)",
+        "rating": "",
+        "hon_price_min": "9,750",
+        "hon_price_max": "9,766",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Norton Security Deluxe free Norton WiFi Privacy(VPN) 3user 3year",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "899",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3 Users 3 Year"
+    },
+    {
+        "names": "Microsoft Windows Server 2019 OEM",
+        "rating": "",
+        "hon_price_min": "6,300",
+        "hon_price_max": "6,500",
+        "water_price_min": "5,800",
+        "water_price_max": "5,800",
+        "類型:": "作業系統",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Eventide Blackhole",
+        "rating": "",
+        "hon_price_min": "1,510",
+        "hon_price_max": "1,510"
+    },
+    {
+        "names": "Sophos Central Intercept X- Next Generation Endpoint Protection (CIX) (10 Users 3 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "7,100",
+        "hon_price_max": "7,110",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10 Users 3 Year On-Premise"
+    },
+    {
+        "names": "Norton 360 Standard 1user 3years (1用戶3年) 附VPN",
+        "rating": "10",
+        "hon_price_min": "440",
+        "hon_price_max": "450",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1用戶"
+    },
+    {
+        "names": "Microsoft Windows Remote Desktop Services 2016 - 5 Device CAL MLP",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "6,208"
+    },
+    {
+        "names": "Eventide Ultra Essentials Bundle",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "2,280"
+    },
+    {
+        "names": "Icewarp Suite 100U",
+        "rating": "",
+        "hon_price_min": "18,400",
+        "hon_price_max": "18,400"
+    },
+    {
+        "names": "Acronis True Image 2020 - 3 Computers Download Version 下載版",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "640",
+        "類型:": "備份還原工具",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 3 Year Subscription License – 10 User",
+        "rating": "",
+        "hon_price_min": "8,550",
+        "hon_price_max": "8,570",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Autodesk 3DS Max 2019 Commercial New Single-user ELD 1-Year Subscription with Advanced Support",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "12,980",
+        "類型:": "圖像處理 三維建模 動畫和渲染軟件",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1-3 and more"
+    },
+    {
+        "names": "ESET Internet Security 5U3Y",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,280",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 1 Year Subscription License - 10 User",
+        "rating": "",
+        "hon_price_min": "3,360",
+        "hon_price_max": "3,591",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Chaos V-Ray 3.0 Workstation Plus for 3ds Max",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "16,990",
+        "類型:": "圖片渲染工具",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Smart Security 6 (1 User, 3 years)",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "390",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 8/7/Vista/XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Intercept X (10 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Chaos V-Ray 3.0 Workstation Plus for 3ds Max",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "16,990",
+        "類型:": "圖片渲染工具",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Smart Security 6 (1 User, 3 years)",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "390",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 8/7/Vista/XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Intercept X (10 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Kaspersky Embedded System Security ( 1 Year 25 Users )",
+        "rating": "",
+        "hon_price_min": "12,255",
+        "hon_price_max": "12,255",
+        "類型:": "防毒保安",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "Symantec Norton SECURITY STANDARD~1 Device 2 Years",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "448",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows10/8/7/Vista/XP, Mac OS X, iOS 7.0 or later",
+        "授權用戶數:": "1 Device"
+    },
+    {
+        "names": "Aten KE Matrix管理軟體 (CCKM)",
+        "rating": "",
+        "hon_price_min": "12,063",
+        "hon_price_max": "14,700",
+        "類型:": "管理軟體, 商業軟件",
+        "介面語言:": "多國語言"
+    },
+    {
+        "names": "Microsoft Windows Server Standard 2016 64Bit ChineseTradition/English Hong Kong DVD with 10 CALs",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "12,500",
+        "water_price_min": "6,500",
+        "water_price_max": "6,500"
+    },
+    {
+        "names": "ESET NOD32 ANTIVIRUS 5 users 3 years",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "1,009",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT ( 1 Years 15 Users )",
+        "rating": "",
+        "hon_price_min": "5,400",
+        "hon_price_max": "5,400",
+        "類型:": "防毒保安",
+        "授權用戶數:": "15"
+    },
+    {
+        "names": "Microsoft Publisher 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "810",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10、Windows Server 2019",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 商務進階版 一年訂閱 (Business Premium) (1-Year subscription)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,750",
+        "water_price_min": "998",
+        "water_price_max": "998",
+        "類型:": "文書處理",
+        "作業系統:": "Windows , MacOS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET File Security Multi-platform (Single server + 3Year)",
+        "rating": "8.0",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,780",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "TeamViewer Business Subscription for 1 Year",
+        "rating": "",
+        "hon_price_min": "4,188",
+        "hon_price_max": "4,188",
+        "類型:": "Remote desktop access and support",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Word 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "810",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "類型:": "文書處理",
+        "作業系統:": "Windows10 、macOS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Smart Security 7 (Single + 3Year)",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "368",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Norton Security Deluxe free Norton WiFi Privacy(VPN) 3user 1year",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "305",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3 Users 1 Year"
+    },
+    {
+        "names": "Maxon Cinema 4D S26 三維電腦動畫軟件 1年 個人版",
+        "rating": "",
+        "hon_price_min": "5,400",
+        "hon_price_max": "5,400",
+        "類型:": "三維電腦動畫",
+        "作業系統:": "Windows10"
+    },
+    {
+        "names": "Autodesk Architecture Engineering Construction Collection IC Commercial New Single-user",
+        "rating": "",
+        "hon_price_min": "26,800",
+        "hon_price_max": "27,880",
+        "類型:": "工程建築設計軟件",
+        "作業系統:": "Windows 7 8 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "九方 中文輸入法視窗W10 專業版 (3年版)",
+        "rating": "8.0",
+        "hon_price_min": "300",
+        "hon_price_max": "338",
+        "類型:": "中文輸入法",
+        "作業系統:": "Windows 10/8.1/8/7/Vista/XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 ANTIVIRUS 1user 2years",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "239",
+        "water_price_min": "165",
+        "water_price_max": "165",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "AVerMedia EZMeetup",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "類型:": "商業軟件",
+        "作業系統:": "iOS, Android, Windows, Mac OS"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 1User 3年",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "328",
+        "water_price_min": "170",
+        "water_price_max": "179",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows / Mac"
+    },
+    {
+        "names": "ESET Internet Security (1用戶2年)",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "CYBERLINK Power Director 20 威力導演 20 (極致版)",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "849",
+        "類型:": "影片剪輯",
+        "作業系統:": "Windows 11 / 10 / 8 / 8.1 / 7 (64位元)",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "MYOB Premier Account Software (3 user)",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "5,950",
+        "類型:": "會計及商業軟件",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Adobe Acrobat Pro DC (perpetual)-AOO License",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,530",
+        "類型:": "文書處理",
+        "作業系統:": "Multiple Platforms",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Trend Micro PC-Cillin Maximum Security 3 User 3 Year (3裝置3年)",
+        "rating": "",
+        "hon_price_min": "626",
+        "hon_price_max": "949",
+        "water_price_min": "380",
+        "water_price_max": "480",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows/Mac/Android/iOS",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft Office 2019 Home & Business Box Version 家用及中小企盒裝版",
+        "rating": "10",
+        "hon_price_min": "1,620",
+        "hon_price_max": "1,999",
+        "water_price_min": "750",
+        "water_price_max": "1,480",
+        "類型:": "文書處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows 10 IoT 企業版  (SAC Entry) 6F6-00032",
+        "rating": "",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "類型:": "作業系統",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe After Effects CC (Annual Subscription)",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,204",
+        "類型:": "圖形視頻處理軟件",
+        "作業系統:": "多平台",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Corel CorelDRAW Graphics Suite 2018 (教育版)",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "2,999",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10/8.1/7 32bit/64bit",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "MYOB ABSS Premier (單用戶)",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,900",
+        "類型:": "會計及商業軟件",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 SmartSecurity Box 5 Users, 3 Years",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,090",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows XP, Vista,,7, 8",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Norton Security Standard 1 User 3 Years",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "499",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10 / Mac OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "VMware vCenter Server 7 Foundation with 1YR SnS for vSphere 7 up to 4 hosts (Per Instance)",
+        "rating": "",
+        "hon_price_min": "19,800",
+        "hon_price_max": "19,800",
+        "water_price_min": "13,500",
+        "water_price_max": "13,500"
+    },
+    {
+        "names": "Sage 50 Premium Accounting 2018 (1 User)",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,000",
+        "類型:": "Accounting",
+        "作業系統:": "Windows Vista SP2 / 7 / 8 / 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Home Office Security (Single Server + 10user + 3Year)",
+        "rating": "10",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,999",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "BullGuard Internet Security 9.0 (2年授權)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "148",
+        "類型:": "防毒保安",
+        "作業系統:": "XP, Vista, 7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 企業版E3 (1年訂閱)",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,859",
+        "類型:": "文書處理"
+    },
+    {
+        "names": "CYBERLINK Power Director 20 威力導演 20 (旗艦版)",
+        "rating": "",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,280",
+        "類型:": "影片剪輯",
+        "作業系統:": "Windows 11 / 10 / 8 / 8.1 / 7 (64位元)",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Photoshop CC 2017 (Single user Annual Subscription)",
+        "rating": "",
+        "hon_price_min": "2,904",
+        "hon_price_max": "3,204",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10/8.1/7/Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Bricsys BricsCAD BIM",
+        "rating": "",
+        "hon_price_min": "18,300",
+        "hon_price_max": "18,300",
+        "類型:": "圖像處理"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT ( 3 Years 25 Users )",
+        "rating": "",
+        "hon_price_min": "16,500",
+        "hon_price_max": "16,600",
+        "類型:": "防毒保安",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "ESET Endpoint Protection Advanced (Commercial) (25 Multi-users) (1 year)",
+        "rating": "",
+        "hon_price_min": "6,700",
+        "hon_price_max": "6,700",
+        "類型:": "終端防護軟體",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "九方 中文輸入法 ML8 for Mac",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "380",
+        "類型:": "輸入法",
+        "作業系統:": "macOS Catalina(10.15), Mojave(10.14), High Sierra(10.13), Sierra(10.12), Mac OS X 10.11-10.6",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Endpoint Protection Advanced (10 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,880",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "ESET NOD32 Antivirus Renew 續期 (3Users 3Years)",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "類型:": "防毒保安續期",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Acronis Access Advanced License",
+        "rating": "",
+        "hon_price_min": "1,441",
+        "hon_price_max": "1,441",
+        "類型:": "系統工具"
+    },
+    {
+        "names": "Kaspersky Internet Security Multi-Device 2016 - 1 User 3 years",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "360",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows ,Mac ,Androide",
+        "授權用戶數:": "1 User"
+    },
+    {
+        "names": "Acronis Backup 12.5 Advanced for Server License",
+        "rating": "",
+        "hon_price_min": "13,720",
+        "hon_price_max": "13,737",
+        "類型:": "系統工具"
+    },
+    {
+        "names": "Vegas Movie Studio - Box - EN/ES",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "類型:": "影片剪輯",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1-3 and more"
+    },
+    {
+        "names": "Keyshot 8 HD",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "8,800",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Acronis Cyber Protect Home Office Essentials - 1Year Subscription",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "類型:": "商業軟件",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1User"
+    },
+    {
+        "names": "Microsoft Windows Server 2016 OEM",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,200",
+        "water_price_min": "5,300",
+        "water_price_max": "5,300",
+        "類型:": "伺服器系統"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 1 user 3 years",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "338",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Multi-Device Security 7 (5User + 3Year)",
+        "rating": "8.0",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - SELECT ( 3 Years 50 Users )",
+        "rating": "",
+        "hon_price_min": "33,080",
+        "hon_price_max": "33,100",
+        "類型:": "防毒保安",
+        "授權用戶數:": "50"
+    },
+    {
+        "names": "Sophos Central Intercept X Advanced for Server with EDR - 1 SERVERS - 12 Months",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "類型:": "防毒保安 / 商用軟件",
+        "作業系統:": "Windows / Linux",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 1 Year Subscription License – 50 User",
+        "rating": "",
+        "hon_price_min": "11,630",
+        "hon_price_max": "11,650",
+        "授權用戶數:": "50"
+    },
+    {
+        "names": "Sophos Endpoint Protection Standard (10 Users 1 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Trend Micro PC-Cillin Maximum Security 1 User 3 Year (1裝置3年)",
+        "rating": "6.0",
+        "hon_price_min": "155",
+        "hon_price_max": "439",
+        "water_price_min": "180",
+        "water_price_max": "199",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows/Mac/Android/iOS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Norton 360 Premium 5user 3years (5用戶3年) 附VPN",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5用戶"
+    },
+    {
+        "names": "Kaspersky Anti Virus 2013 - 1 User 3 years",
+        "rating": "",
+        "hon_price_min": "265",
+        "hon_price_max": "278",
+        "類型:": "防毒",
+        "作業系統:": "Windows 7 (32/64 Bit), Vista (32/64 bit), XP (Service Pack 3), XP Professional x64 或更高",
+        "授權用戶數:": "3年授權 , 1用戶盒裝版"
+    },
+    {
+        "names": "Corel CorelDraw Graphics Suite 2020 Mac Multi-Language",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "類型:": "圖像處理",
+        "作業系統:": "MAC"
+    },
+    {
+        "names": "MYOB ABSS Premier v22.3 (Single User/ 單用戶版)",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,350",
+        "類型:": "商業軟件",
+        "作業系統:": "Windows 10, Windows 8, Windows 7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Internet Security 2019 - Multi-Device多平台 3裝置 3年下載版 (Windows + Mac + Android)",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "820",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows / Mac / Android",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 2019 - 5用戶 3年下載版",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "865",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "Microsoft Visio 專業版 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "5,080",
+        "類型:": "商業軟件",
+        "作業系統:": "Windows 10、Windows Server 2019",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Corel PaintShop Pro Ultimate 2021",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "780",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "九方 中文輸入法視窗W10 專業版 (5年版)",
+        "rating": "",
+        "hon_price_min": "518",
+        "hon_price_max": "528",
+        "類型:": "中文輸入法",
+        "作業系統:": "Windows 10/8.1/8/7/Vista/XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Server 2012 Standard 64-bit 盒裝 (10 CAL)",
+        "rating": "",
+        "hon_price_min": "11,780",
+        "hon_price_max": "11,780",
+        "類型:": "伺服器系統",
+        "介面語言:": "繁體中文/英文"
+    },
+    {
+        "names": "EaseUS Data Recovery Wizard Professional 11 (ESD)",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,090",
+        "類型:": "Data Recovery",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Photoshop CS4",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,800",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Central Intercept X Advanced for Server - 1 SERVER - 12 Months",
+        "rating": "",
+        "hon_price_min": "1,055",
+        "hon_price_max": "1,055",
+        "類型:": "防毒保安 / 商用軟件",
+        "作業系統:": "Windows / Linux",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD - including specialized toolsets AD Commercial New Single-user ELD Annual Subscription",
+        "rating": "",
+        "hon_price_min": "14,300",
+        "hon_price_max": "15,390",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Central Intercept X Advanced for Server - 1 SERVER - 12 Months",
+        "rating": "",
+        "hon_price_min": "1,055",
+        "hon_price_max": "1,055",
+        "類型:": "防毒保安 / 商用軟件",
+        "作業系統:": "Windows / Linux",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD - including specialized toolsets AD Commercial New Single-user ELD Annual Subscription",
+        "rating": "",
+        "hon_price_min": "14,300",
+        "hon_price_max": "15,390",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Acronis True Image 2020 - 1 Computer Download Version 下載版",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "類型:": "備份還原工具",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Maxon Cinema 4D R25 三維電腦動畫軟體 永久版",
+        "rating": "",
+        "hon_price_min": "26,100",
+        "hon_price_max": "26,100",
+        "類型:": "三維電腦動畫",
+        "作業系統:": "Windows 10 Version 1809 or higher"
+    },
+    {
+        "names": "Autodesk AutoCAD Commercial Single-user Annual Subscription 3 YEARS Renewal Version",
+        "rating": "",
+        "hon_price_min": "13,440",
+        "hon_price_max": "13,459",
+        "類型:": "用於設計，起草和記錄的Precision 2D CAD軟件, 圖像處理",
+        "作業系統:": "64位元Microsoft Windows10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "BullGuard Internet Security 2019 (2年授權)",
+        "rating": "10",
+        "hon_price_min": "88",
+        "hon_price_max": "190",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10, 8.1, 8, 7, Vista; Mac OS X 10.11 or later",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Avid Sibelius (E) 音樂創作軟件",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000"
+    },
+    {
+        "names": "Microsoft Office Home and Business 2019 (1 部 Mac) - 中文",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,990",
+        "water_price_min": "750",
+        "water_price_max": "1,580",
+        "類型:": "文書處理",
+        "作業系統:": "Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Internet Security 3 users 3 years",
+        "rating": "10",
+        "hon_price_min": "718",
+        "hon_price_max": "838",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 1 Year Subscription License – 20 User",
+        "rating": "",
+        "hon_price_min": "5,240",
+        "hon_price_max": "5,800",
+        "授權用戶數:": "20"
+    },
+    {
+        "names": "Vegas Pro Edit - Box - EN/ES",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "類型:": "圖像處理",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1-3 and more"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 3 Year Subscription License – 80 User",
+        "rating": "",
+        "hon_price_min": "49,300",
+        "hon_price_max": "49,360",
+        "授權用戶數:": "80"
+    },
+    {
+        "names": "Avast Business Antivirus 防毒軟件 (1年授權)",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "類型:": "防毒保安/商業軟件",
+        "作業系統:": "Windows/Windows Server/mac OS"
+    },
+    {
+        "names": "Sophos Central Intercept X Advanced - 5 USERS - 12 Months",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,380",
+        "類型:": "防毒保安 / 商用軟件",
+        "作業系統:": "Windows/macOS",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky TOTAL Security for Business ( 3 Years 50 Users )",
+        "rating": "",
+        "hon_price_min": "67,000",
+        "hon_price_max": "70,965",
+        "類型:": "防毒保安",
+        "授權用戶數:": "50"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 3U3Y",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "708",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Adobe Premiere Pro CS5",
+        "rating": "",
+        "hon_price_min": "4,390",
+        "hon_price_max": "6,900",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "CYBERLINK PowerDVD 20 (極致藍光版)",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "749",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "WatchGuard FireClient for Mobile Security (25 Users)",
+        "rating": "",
+        "hon_price_min": "2,899",
+        "hon_price_max": "2,899"
+    },
+    {
+        "names": "Kaspersky Anti-Virus (1裝置3年)",
+        "rating": "10",
+        "hon_price_min": "239",
+        "hon_price_max": "338",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 個人版 15個月訂閱 - 1個使用者 (適用於PC 、Mac、Tablet、Phone)",
+        "rating": "9.0",
+        "hon_price_min": "330",
+        "hon_price_max": "380",
+        "water_price_min": "250",
+        "water_price_max": "260",
+        "類型:": "文書處理",
+        "作業系統:": "Windows、macOS、iOS 和Android",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD Commercial Single-user Annual Subscription 1 YEAR Renewal Version",
+        "rating": "",
+        "hon_price_min": "4,970",
+        "hon_price_max": "4,976",
+        "類型:": "用於設計，起草和記錄的Precision 2D CAD軟件, 圖像處理",
+        "作業系統:": "64位元Microsoft Windows10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 2010 Home and Business BOX",
+        "rating": "10",
+        "hon_price_min": "1,600",
+        "hon_price_max": "2,100",
+        "類型:": "文書處理",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "Adobe Acrobat XI Standard",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,600",
+        "類型:": "文書處理",
+        "作業系統:": "Windows / Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 商務基本版 一年 (Business Essential) (1-Year)",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "類型:": "文書處理",
+        "作業系統:": "Windows , MacOS"
+    },
+    {
+        "names": "Microsoft Windows 8 Professional",
+        "rating": "7.3",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,260",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 8",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft PowerPoint 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "810",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "類型:": "文書處理",
+        "作業系統:": "Windows10 、macOS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe InDesign CS4 (Mac)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,200",
+        "類型:": "圖像處理",
+        "作業系統:": "Mac OS X v10.4.11 - 10.5.4",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 365 Business Premium Open License (1 Year for 5 Users)",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,820",
+        "類型:": "Office",
+        "作業系統:": "Windows, Mac OS, IOS, Andriod",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Microsoft Office 專業版 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,980",
+        "water_price_min": "750",
+        "water_price_max": "1,198",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10、Windows Server 2019",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office 專業版 2019 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,980",
+        "water_price_min": "750",
+        "water_price_max": "1,198",
+        "類型:": "文書處理",
+        "作業系統:": "Windows 10、Windows Server 2019",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Bricsys BricsCAD Ultimate",
+        "rating": "",
+        "hon_price_min": "20,300",
+        "hon_price_max": "20,300",
+        "類型:": "圖像處理"
+    },
+    {
+        "names": "ESET Endpoint Protection Standard (Commercial) (25 Multi-users) (1 year)",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,280",
+        "類型:": "終端防護軟體",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 5 User (教育及非牟利機構版,3年授權)",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "820",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows XP, Vista,,7, 8",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Autodesk AutoCAD LT Commercial Single-user Annual Subscription 3 YEARS Renewal Version",
+        "rating": "",
+        "hon_price_min": "13,440",
+        "hon_price_max": "14,800",
+        "類型:": "用於設計，起草和記錄的Precision 2D CAD軟件, 圖像處理",
+        "作業系統:": "64位元Microsoft Windows10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Photoshop Elements 2022",
+        "rating": "",
+        "hon_price_min": "845",
+        "hon_price_max": "850",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Mobile Security (1年授權)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "190",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk Maya 2017 Commercial New Single-user ELD Annual Subscription/ 2-Year",
+        "rating": "",
+        "hon_price_min": "28,600",
+        "hon_price_max": "28,650",
+        "類型:": "設計套裝",
+        "作業系統:": "Windows 7 8 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Eventide Quadravox Harmonizer",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750"
+    },
+    {
+        "names": "Adobe CS6 Adobe Design Standard 6 中文版",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "14,500",
+        "類型:": "設計套裝",
+        "作業系統:": "Windows / Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Norton Security Standard free Norton WiFi Privacy(VPN) 1user 1year",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1 Users 3 Year"
+    },
+    {
+        "names": "Microsoft 365 企業版 E3 (一年)",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,150",
+        "介面語言:": "中文,英文",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "ESET Smart Security Premium 2021 (1U3Y)",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "618",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 2017 - 3 Users 3 years",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "655",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft Windows Server Standard 2016 64Bit Chinese Tradition Hong Kong with DVD 5 Clt",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "9,999",
+        "water_price_min": "6,500",
+        "water_price_max": "6,500"
+    },
+    {
+        "names": "Microsoft Access 2021 (電子下載版)",
+        "rating": "",
+        "hon_price_min": "830",
+        "hon_price_max": "950",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "數據處理/文書處理",
+        "作業系統:": "Windows 10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Premiere Elements 2021",
+        "rating": "",
+        "hon_price_min": "825",
+        "hon_price_max": "850",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sage Peachtree 50 Premium Accounting 2016 - 3User",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,000",
+        "類型:": "Account",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "ESET Multi-Device Security V10 2017 (1用戶 3年授權)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "400",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 10 / 8.1 / 7 / vista / XP",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Sophos Central Endpoint Protection (CEP) (10 Users 3 Year On-Premise)",
+        "rating": "",
+        "hon_price_min": "6,670",
+        "hon_price_max": "6,770",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10 Users 3 Year On-Premise"
+    },
+    {
+        "names": "Microsoft Office Home and Student 2010",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "類型:": "文書處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET Internet Security Renewal BoxSet (3User 3Year)",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "625",
+        "類型:": "防毒保安"
+    },
+    {
+        "names": "RARLAB WINRAR 5.0",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "類型:": "系統工具",
+        "作業系統:": "WIn XP/Vista/7/8/10",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "CYBERLINK POWERDVD 18 極致藍光版",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "類型:": "影片播放",
+        "作業系統:": "WINDOWS 10, 8 , 7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Smart Security 6 (3 User, 3 years)",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "730",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 8/7/Vista/XP",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft Office Home and Business 2016",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,998",
+        "water_price_min": "980",
+        "water_price_max": "1,680",
+        "類型:": "文書處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1 User"
+    },
+    {
+        "names": "VMware vSphere 5 Essential Plus Kit w/1-year basic SnS",
+        "rating": "10",
+        "hon_price_min": "41,800",
+        "hon_price_max": "41,800",
+        "類型:": "Server OS",
+        "作業系統:": "vSphere ESXi",
+        "授權用戶數:": "3 physical hosts"
+    },
+    {
+        "names": "Adobe CS5 Design Premium (中文版)",
+        "rating": "",
+        "hon_price_min": "13,500",
+        "hon_price_max": "13,500",
+        "類型:": "Designing",
+        "作業系統:": "Windows / Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows 10 Pro En (32bit / 64bit) USB version",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "water_price_min": "1,099",
+        "water_price_max": "1,680",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 10 Pro",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 2017 - 5 Users 3 years",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "865",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Autodesk AutoCAD LT 2014",
+        "rating": "",
+        "hon_price_min": "28,700",
+        "hon_price_max": "30,900",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows ME OEM",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "作業系統"
+    },
+    {
+        "names": "VMware vSphere with Operations Management Enterprise Plus, 1CPU, 1YR License/Maintenance",
+        "rating": "",
+        "hon_price_min": "33,600",
+        "hon_price_max": "33,660"
+    },
+    {
+        "names": "Corel VideoStudio Ultimate 2022 Box Set 會聲會影旗艦版",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "water_price_min": "550",
+        "water_price_max": "1,120",
+        "類型:": "影片剪輯",
+        "作業系統:": "Windows 11、Windows 10、Windows 8",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft MS Windows 8.1 Professional UPGRADE Pack Box 32bit / 64bit",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,198",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 8/8.1",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Photoshop Elements & Premiere Elements 2022",
+        "rating": "",
+        "hon_price_min": "1,238",
+        "hon_price_max": "1,250",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows 8.1 Professional 64bit OEM",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,230",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 8.1 Professional",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Roxio Toast 15 Titanium for Mac (ESD版)",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "788",
+        "類型:": "Mac刻錄軟件",
+        "作業系統:": "Mac OS X 10.7, 10.9, 10.10, 10.11, 10.12. Partial functionality on Mac OS 10.8"
+    },
+    {
+        "names": "Acronis True Image 2015 for PC",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "類型:": "系統工員",
+        "作業系統:": "Windows OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Nuance Dragon for Mac 5.0",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,780",
+        "介面語言:": "English",
+        "作業系統:": "MAC OS"
+    },
+    {
+        "names": "Bitdefender Family Pack 2020",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 7/8/10, Mac, iOS, Android"
+    },
+    {
+        "names": "Microsoft Office LTSC Standard 2021 - Commercial",
+        "rating": "",
+        "hon_price_min": "3,323",
+        "hon_price_max": "3,508",
+        "類型:": "數據處理/文書處理",
+        "介面語言:": "多國語言"
+    },
+    {
+        "names": "Intuit Quickbooks Desktop Pro 2020 for Mac 永久版",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,200",
+        "類型:": "會計及商業軟件",
+        "作業系統:": "Mac OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "DeepEX 2D+ Perpetual License",
+        "rating": "",
+        "hon_price_min": "45,999",
+        "hon_price_max": "45,999",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Remote Desktop Services 2016 - 20 Device CAL MLP",
+        "rating": "",
+        "hon_price_min": "24,200",
+        "hon_price_max": "24,200"
+    },
+    {
+        "names": "Acronis True Image 2015 for PC",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "類型:": "系統工員",
+        "作業系統:": "Windows OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Nuance Dragon for Mac 5.0",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,780",
+        "介面語言:": "English",
+        "作業系統:": "MAC OS"
+    },
+    {
+        "names": "Microsoft Project 標準版 2019",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "5,102",
+        "water_price_min": "3,500",
+        "water_price_max": "3,500",
+        "類型:": "商業軟件",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Bitdefender Family Pack 2020",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 7/8/10, Mac, iOS, Android"
+    },
+    {
+        "names": "Kaspersky Mobile Security (1年授權)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "190",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus (1裝置3年)",
+        "rating": "10",
+        "hon_price_min": "239",
+        "hon_price_max": "338",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Office LTSC Standard 2021 - Commercial",
+        "rating": "",
+        "hon_price_min": "3,323",
+        "hon_price_max": "3,508",
+        "類型:": "數據處理/文書處理",
+        "介面語言:": "多國語言"
+    },
+    {
+        "names": "Intuit Quickbooks Desktop Pro 2020 for Mac 永久版",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,200",
+        "類型:": "會計及商業軟件",
+        "作業系統:": "Mac OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "DeepEX 2D+ Perpetual License",
+        "rating": "",
+        "hon_price_min": "45,999",
+        "hon_price_max": "45,999",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Remote Desktop Services 2016 - 20 Device CAL MLP",
+        "rating": "",
+        "hon_price_min": "24,200",
+        "hon_price_max": "24,200"
+    },
+    {
+        "names": "Adobe Acrobat XI Professional",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,200",
+        "類型:": "文書處理",
+        "作業系統:": "Windows / Mac",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "CYBERLINK PowerDirector 17 威力導演17 極致版",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "700",
+        "類型:": "影片剪輯",
+        "作業系統:": "Windows 10/8.1/7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "VMware vSphere 6 Essential Plus Kit for 3 host w/1-year basic SnS",
+        "rating": "",
+        "hon_price_min": "36,800",
+        "hon_price_max": "36,870",
+        "water_price_min": "29,500",
+        "water_price_max": "29,500",
+        "類型:": "Server OS",
+        "作業系統:": "vSphere ESXi",
+        "授權用戶數:": "3 physical hosts"
+    },
+    {
+        "names": "Kaspersky Endpoint Security Cloud 1 Year Subscription License – 80 User",
+        "rating": "",
+        "hon_price_min": "18,600",
+        "hon_price_max": "18,640",
+        "授權用戶數:": "80"
+    },
+    {
+        "names": "Adobe Photoshop CS5 12",
+        "rating": "",
+        "hon_price_min": "4,950",
+        "hon_price_max": "5,700",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows / MAC",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Symantec Backup Exec 2012 Agent for Windows 12Months",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "類型:": "系統管理",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "Chaos V-Ray 3.0 for SketchUp (Single, Commercial, ESD)",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,380",
+        "類型:": "圖片渲染工具",
+        "作業系統:": "WIN",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD LT 2021 Commercial New Single-user ELD Annual Subscription",
+        "rating": "",
+        "hon_price_min": "5,450",
+        "hon_price_max": "5,580",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "CYBERLINK Power Director 威力導演 v19 (旗艦版)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,140",
+        "類型:": "影片剪輯"
+    },
+    {
+        "names": "Microsoft Project 專業版 2019",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "10,048",
+        "water_price_min": "3,800",
+        "water_price_max": "4,950",
+        "類型:": "商業軟件",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft OneDrive for Business (Plan 1) - 5 user subscription license (1 year)",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,350",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Microsoft Windows Small Business Server 2011 (w/5 CAL) Open License",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,800",
+        "類型:": "作業系統",
+        "作業系統:": "Windows"
+    },
+    {
+        "names": "Stellar Phoenix Windows Data Recovery - Home (ESD)",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類型:": "Data Recovery",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Internet Security Multi-Device Boxset 3 Years - 3 Devices Pack",
+        "rating": "8.0",
+        "hon_price_min": "720",
+        "hon_price_max": "940",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Adobe Photoshop Elements 2023",
+        "rating": "10",
+        "hon_price_min": "835",
+        "hon_price_max": "850",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10 / 11",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft 商務用OneDrive 方案 2 (OneDrive for Business Plan 2)  (一年)",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "930",
+        "介面語言:": "中文,英文"
+    },
+    {
+        "names": "EaseUS Partition Master Professional 12 (ESD)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "類型:": "Partition",
+        "作業系統:": "Windows 10/8/7",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 5 users 3 years 續期版",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "820",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "VMware vSphere 7 Essentials Plus Kit for 3 hosts (Max 2 processors per host) VS7-ESP-KIT-C",
+        "rating": "",
+        "hon_price_min": "35,500",
+        "hon_price_max": "35,500",
+        "water_price_min": "28,500",
+        "water_price_max": "28,500",
+        "類型:": "商業軟件"
+    },
+    {
+        "names": "Maxon ZBrush 1 Year License 年租版",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10/Mac OS"
+    },
+    {
+        "names": "Kaspersky Security for Mail Server ( 1 Year 25 Mailbox )",
+        "rating": "",
+        "hon_price_min": "4,130",
+        "hon_price_max": "4,133",
+        "類型:": "防毒保安",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "Microsoft Office 365 Enterprise E5 - 1 Year",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,264",
+        "類型:": "文書處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Avast Business Antivirus Pro Plus 防毒軟件 (3年授權)",
+        "rating": "",
+        "hon_price_min": "984",
+        "hon_price_max": "984",
+        "類型:": "防毒保安/商業軟件",
+        "作業系統:": "Windows/Windows Server/mac OS"
+    },
+    {
+        "names": "SmarterMail Enterprise (250Mailboxes)",
+        "rating": "",
+        "hon_price_min": "25,300",
+        "hon_price_max": "25,300",
+        "類型:": "電子郵件服務器，電子郵件雲端服務",
+        "作業系統:": "Windows Server",
+        "授權用戶數:": "250"
+    },
+    {
+        "names": "Microsoft Office 365 Enterprise ProPlus - 1 year Subscription",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "類型:": "文書處理"
+    },
+    {
+        "names": "Adobe Creative Suite 4 Web Premium (Mac)",
+        "rating": "",
+        "hon_price_min": "13,500",
+        "hon_price_max": "13,500",
+        "類型:": "網頁設計",
+        "作業系統:": "Mac OS X v10.4.11 - 10.5.4",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Adobe Premiere Pro CS5.5 11.5 IE Win",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "6,900",
+        "類型:": "設計套裝",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 ANTIVIRUS 1user 3years",
+        "rating": "6.0",
+        "hon_price_min": "238",
+        "hon_price_max": "328",
+        "water_price_min": "170",
+        "water_price_max": "180",
+        "類型:": "防毒保安",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "CANSOFT 餐飲管理系統 Catering Service System",
+        "rating": "",
+        "hon_price_min": "3,780",
+        "hon_price_max": "3,780",
+        "類型:": "商業",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus Renewal Pack - 3 User for 3 years",
+        "rating": "",
+        "hon_price_min": "485",
+        "hon_price_max": "515",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Synology Virtual Machine Manager Pro (3Nodes / 1Year)",
+        "rating": "",
+        "hon_price_min": "1,217",
+        "hon_price_max": "1,229",
+        "類型:": "Software License,商業軟件"
+    },
+    {
+        "names": "ESET Endpoint Protection Advanced (Commercial) (25 Multi-users) (3 year)",
+        "rating": "",
+        "hon_price_min": "12,675",
+        "hon_price_max": "12,675",
+        "類型:": "終端防護軟體",
+        "授權用戶數:": "25"
+    },
+    {
+        "names": "Adobe Illustrator CS4",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,390",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows XP SP2、Windows Vista SP1",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Project Standard 2016 BOX SET",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "5,500"
+    },
+    {
+        "names": "九方 快碼 繁體版 for Android",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170",
+        "類型:": "輸入法",
+        "作業系統:": "Android"
+    },
+    {
+        "names": "Microsoft Office Word 2007",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "790",
+        "類型:": "文書處理",
+        "作業系統:": "Windows XP SP2、Windows Server 2003 SP1",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "華康 香港字庫 辦公室版",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "類型:": "中文字型",
+        "作業系統:": "Windows 10/8/7/Vista or Mac OS 10.7-10.11",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Nuance OmniPage Ultimate",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "3,990",
+        "類型:": "OCR",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Corel CorelDRAW Graphics Suite 2018 (商業版)",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "6,000",
+        "類型:": "圖像處理",
+        "作業系統:": "Windows 10/8.1/7 32bit/64bit",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 3 users 3 years 續期版",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "520",
+        "water_price_min": "440",
+        "water_price_max": "440",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Microsoft Windows XP Home",
+        "rating": "7.0",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類型:": "作業系統",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD LT 2019 Commercial New Single-user ELD Annual Subscription",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "5,380",
+        "類型:": "圖像處理",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 AntiVirus BoxSet v11 (2User 1Year)",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "195",
+        "類型:": "防毒保安"
+    },
+    {
+        "names": "CYBERLINK Director Suite 4",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,899",
+        "類型:": "影片剪輯"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 3U1Y",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Kaspersky Anti-Virus Boxset 3 Years - 5 Users Pack",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "1,068",
+        "類型:": "防毒保安",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Corel VideoStudio Ultimate 2021",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,080",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Server 2012 Standard 64-bit 盒裝 (5 CAL)",
+        "rating": "",
+        "hon_price_min": "9,180",
+        "hon_price_max": "9,180",
+        "類型:": "伺服器系統",
+        "介面語言:": "繁體中文/英文"
+    },
+    {
+        "names": "Yuan Fang Software BtoCAD 2015 Standard (2D DWG)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,590",
+        "類型:": "設計",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1 user up"
+    },
+    {
+        "names": "CorelDRAW CorelCAD 2019 (Windows/Mac) 教育版",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "類型:": "繪圖軟件,圖像處理",
+        "作業系統:": "Windows 10 / Mac OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows XP Home",
+        "rating": "7.0",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類型:": "作業系統",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD LT 2019 Commercial New Single-user ELD Annual Subscription",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "5,380",
+        "類型:": "圖像處理",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 AntiVirus BoxSet v11 (2User 1Year)",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "195",
+        "類型:": "防毒保安"
+    },
+    {
+        "names": "CYBERLINK Director Suite 4",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,899",
+        "類型:": "影片剪輯"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 3U1Y",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "類型:": "防毒保安",
+        "授權用戶數:": "3"
+    },
+    {
+        "names": "Corel VideoStudio Ultimate 2021",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,080",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "類型:": "圖像處理",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Windows Server 2012 Standard 64-bit 盒裝 (5 CAL)",
+        "rating": "",
+        "hon_price_min": "9,180",
+        "hon_price_max": "9,180",
+        "類型:": "伺服器系統",
+        "介面語言:": "繁體中文/英文"
+    },
+    {
+        "names": "Yuan Fang Software BtoCAD 2015 Standard (2D DWG)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,590",
+        "類型:": "設計",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1 user up"
+    },
+    {
+        "names": "CorelDRAW CorelCAD 2019 (Windows/Mac) 教育版",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "類型:": "繪圖軟件,圖像處理",
+        "作業系統:": "Windows 10 / Mac OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Corel VideoStudio Ultimate X9 會聲會影 X9",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "880",
+        "類型:": "Video Editing",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "WinZip 22 Standard",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "590",
+        "類型:": "壓縮軟體",
+        "作業系統:": "Windows 10 / 8 / 7 / Vista",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Exchange Online Advanced Threat Protection ATP - 5 user subscription license (1 year)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "Kaspersky Endpoint Security for Business - ADVANCED ( 3 Years 10 Users )",
+        "rating": "",
+        "hon_price_min": "11,010",
+        "hon_price_max": "11,609",
+        "類型:": "防毒保安",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "BullGuard Internet Security",
+        "rating": "8.0",
+        "hon_price_min": "75",
+        "hon_price_max": "80",
+        "類型:": "保安",
+        "作業系統:": "Windows XP / Vista"
+    },
+    {
+        "names": "CYBERLINK Power Director 15 威力導演 旗艦版",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "Video Editing",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "BullGuard Anti-Virus",
+        "rating": "9.0",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "類型:": "Anti-Virus",
+        "作業系統:": "Windows 7/Vista/XP/2000",
+        "授權用戶數:": "1用戶"
+    },
+    {
+        "names": "Wondershare Video Converter Ultimate Lifetime (ESD)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "類型:": "VIDEO CONVERTER",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Veeam Backup & Replication Enterprise Plus for VMware",
+        "rating": "",
+        "hon_price_min": "22,300",
+        "hon_price_max": "22,580",
+        "類型:": "Backup",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "VIVOTEK VAST 2 Camera License 影像管理軟體",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "476"
+    },
+    {
+        "names": "Eventide Precision Time Align",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750"
+    },
+    {
+        "names": "Adobe Acrobat Standard DC 2015 繁中/英文 盒裝",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,990",
+        "類型:": "文書處理",
+        "作業系統:": "Win OS",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Autodesk AutoCAD 2014 3D",
+        "rating": "8.0",
+        "hon_price_min": "33,700",
+        "hon_price_max": "33,800",
+        "類型:": "設計套裝",
+        "作業系統:": "Windows",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "ESET NOD32 AntiVirus 6 (10 Users, 3 Years)",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "1,700",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 8/7/Vista/XP",
+        "授權用戶數:": "10"
+    },
+    {
+        "names": "Maxon Cinema 4D Studio",
+        "rating": "",
+        "hon_price_min": "31,500",
+        "hon_price_max": "31,500"
+    },
+    {
+        "names": "Microsoft Windows 8.1 Full Box",
+        "rating": "4.0",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "類型:": "作業系統",
+        "作業系統:": "Windows 8.1",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Kaspersky Anti-Virus 2011 中文版",
+        "rating": "",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "類型:": "防毒及保安",
+        "作業系統:": "Windows 7 (32/64 Bit), Vista (32/64 bit), XP (Service Pack 2 或更高), XP Professional x64 或更高",
+        "授權用戶數:": "3年授權~1(新)用戶盒裝版"
+    },
+    {
+        "names": "Bitdefender Total Security – 5用戶",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 7/10, Mac OS-X, iOS, Android",
+        "授權用戶數:": "5"
+    },
+    {
+        "names": "ESET NOD32 Antivirus 6 (1User 2Years)",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "185",
+        "類型:": "防毒保安",
+        "作業系統:": "Windows 8/7/Vista/XP"
+    },
+    {
+        "names": "Adobe Creative Suite 4 Design Premium (Mac)",
+        "rating": "",
+        "hon_price_min": "11,000",
+        "hon_price_max": "11,900",
+        "類型:": "圖像處理",
+        "作業系統:": "Mac OS X v10.4.11 - 10.5.4",
+        "授權用戶數:": "1"
+    },
+    {
+        "names": "Microsoft Exchange Online Plan 2 - 1 Year",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "740",
+        "授權用戶數:": "1"
+    }
+]

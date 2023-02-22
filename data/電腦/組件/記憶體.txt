@@ -1,0 +1,3917 @@
+[
+    {
+        "names": "PNY DDR4 3200 Desktop Memory 32GB (單條) (MD32GSD43200-TB)",
+        "rating": "",
+        "hon_price_min": "539",
+        "hon_price_max": "549",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6400 32GB Kit (2x16GB) (F5-6400J3239G16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,780",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial DDR4 3200 SODIMM 16GB (單條) (CT16G4SFS832A)",
+        "rating": "9.6",
+        "hon_price_min": "299",
+        "hon_price_max": "507",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 3600 32GB Kit (2x16GB) (F4-3600C18D-32GTRS)",
+        "rating": "2.0",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,080",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR5 5200 32GB Kit (2x16GB) (KF552C40BBK2-32)",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "2,480",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA GAMMIX D20 DDR4 3200 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "480",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Impact SODIMM DDR5 16GB (單條) (KF548S38IB-16)",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "1,068",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA DDR5 4800 CL40 16GB (單條) (AD5U480016G-S)",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "1,399",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group Team Elite DDR4 3200 16GB (單條)",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "325",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR5 4800 SODIMM Single Module 8GB (單條) (KVR48S40BS6-8)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "550",
+        "容量:": "8GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 64GB Kit (2x32GB) (F5-6000J3238G32GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "2,830",
+        "hon_price_max": "3,580",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB RS DDR4 3200 16GB Kit (2x8GB) (CMG16GX4M2E3200C16)",
+        "rating": "10",
+        "hon_price_min": "460",
+        "hon_price_max": "680",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 ROG STRIX 吹雪聯名版 DDR4 RGB 3600 16GB Kit (2x8GB)",
+        "rating": "6.0",
+        "hon_price_min": "480",
+        "hon_price_max": "580",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston SO-DIMM 3200 16GB (單條) (KVR32S22D8/16)",
+        "rating": "9.0",
+        "hon_price_min": "385",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston Fury Impact SODIMM DDR5 32GB (單條) (KF548S38IB-32)",
+        "rating": "10",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,968",
+        "容量:": "32GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 DRAM 5600 C40 32GB Kit (2x16GB) (CMH32GX5M2B5600C40)",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,680",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA GAMMIX D20 DDR4 3200 32GB (單條)",
+        "rating": "",
+        "hon_price_min": "709",
+        "hon_price_max": "1,096",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR5 5600 32GB Kit (2x16GB) (KF556C40BBK2-32)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "3,480",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 3200 SODIMM 16GB (單條) (KCP432SD8/16)",
+        "rating": "",
+        "hon_price_min": "375",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 32GB Kit (2x16GB) (CMK32GX4M2E3200C16)",
+        "rating": "10",
+        "hon_price_min": "668",
+        "hon_price_max": "1,738",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG CASTER RGB DDR5 6000 16GB (單條) (AX5U6000C4016G-CCARGY)",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,599",
+        "容量:": "16GB",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Premier DDR4 3200 U-DIMM 8GB (單條) (PC4-25600)",
+        "rating": "10",
+        "hon_price_min": "153",
+        "hon_price_max": "170",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "UDIMM"
+    },
+    {
+        "names": "ADATA XPG Lancer DDR5 5200 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "2,999",
+        "容量:": "16GB",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro DDR4 3600 C18 32GB Kit (2x16GB) (CMW32GX4M2D3600C18)",
+        "rating": "8.0",
+        "hon_price_min": "798",
+        "hon_price_max": "1,700",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-CREATE CLASSIC DDR4 10L 3200 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "450",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Renegade RGB DDR5 6400 32GB Kit (2x16GB) (KF564C32RSAK2-32)",
+        "rating": "10",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,250",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG Spectrix D41 RGB DDR4-3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "850",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000U4040E16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "3,999",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group Delta RGB DDR5 6400 32GB Kit (2x16GB) (FF3D516G6400HC40BBK)",
+        "rating": "",
+        "hon_price_min": "1,378",
+        "hon_price_max": "3,989",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Premier DDR4 3200 U-DIMM 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "345",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-Force Vulcan Z DDR4 3200 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "499",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000U3636E16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "3,999",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 5600 C40 64GB Kit (2x32GB) (CMK64GX5M2B5600C40)",
+        "rating": "",
+        "hon_price_min": "2,840",
+        "hon_price_max": "3,880",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Gigabyte AORUS DDR5 5200 32GB Kit (2x16GB) (GP-ARS32G52D5)",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "2,850",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Value Ram 2666 LONG-DIMM 8GB (單條)",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "390",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 ROG STRIX 吹雪特別版 DDR4 RGB 3600 32GB Kit (2x16GB)",
+        "rating": "10",
+        "hon_price_min": "810",
+        "hon_price_max": "810",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 5600 64GB Kit (2x32GB) (F5-5600J3036D32GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "5,370",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5200 C40 64GB Kit (2x32GB) (CMT64GX5M2B5200C40)",
+        "rating": "10",
+        "hon_price_min": "2,660",
+        "hon_price_max": "4,980",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 2666 RAM SO-DIMM 32GB (單條)",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "1,386",
+        "容量:": "32GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro DDR4 3200 C16 32GB Kit (2x16GB) White (CMW32GX4M2E3200C16W)",
+        "rating": "10",
+        "hon_price_min": "818",
+        "hon_price_max": "1,199",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 2666 LONG-DIMM 8GB (單條) (KVR26N19S8/8)",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "399",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "ADATA GAMMIX D20 DDR4 3200 16GB Kit (2x8GB) (AX4U320088G16A-DCBK20)",
+        "rating": "8.7",
+        "hon_price_min": "365",
+        "hon_price_max": "725",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo DDR4 3600 32GB Kit (2x16GB) (F4-3600C16D-32GTZNC)",
+        "rating": "",
+        "hon_price_min": "1,110",
+        "hon_price_max": "1,680",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV CRAS XR5 RGB DDR5 6200 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,870",
+        "hon_price_max": "1,999",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4 3200 32GB Kit (2x16GB) (F4-3200C16D-32GVK)",
+        "rating": "10",
+        "hon_price_min": "630",
+        "hon_price_max": "690",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Value Ram 2666 LONG-DIMM 16GB (單條) (KCP426ND8/16, KVR26N19D8/16)",
+        "rating": "10",
+        "hon_price_min": "375",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR4 3200 Non ECC DIMM 32GB Kit (2x16GB) (KF432C16BB1K2/32)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,300",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 2400 SO DIMM Notebook Ram 8GB (單條) (KVR24S17S8/8)",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "448",
+        "容量:": "8GB",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4 3200 64GB Kit (2x32GB) (F4-3200C16D-64GVK)",
+        "rating": "",
+        "hon_price_min": "1,389",
+        "hon_price_max": "1,499",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5200 C40 32GB Kit (2x16GB) (CMT32GX5M2B5200C40)",
+        "rating": "",
+        "hon_price_min": "1,770",
+        "hon_price_max": "3,380",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 3200 Non ECC Memory RAM SO-DIMM 8GB (單條) (KCP432SS8/8)",
+        "rating": "10",
+        "hon_price_min": "195",
+        "hon_price_max": "380",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 RGB DDR4 3600 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "595",
+        "容量:": "16GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5600 C36 32GB Kit (2x16GB) White (CMT32GX5M2B5600C36W)",
+        "rating": "",
+        "hon_price_min": "1,770",
+        "hon_price_max": "3,580",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG Hunter DDR5 5200 Long DIMM 16GB (單條) (AX5U5200C3816G-SHTBK)",
+        "rating": "",
+        "hon_price_min": "825",
+        "hon_price_max": "899",
+        "容量:": "16GB",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-Force Xtreem ARGB DDR4 4000 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,215",
+        "hon_price_max": "1,250",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5200 C40 32GB Kit (2x16GB) (CMT32GX5M2B5200C40)",
+        "rating": "",
+        "hon_price_min": "1,740",
+        "hon_price_max": "2,950",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-CREATE CLASSIC DDR4 10L 3200 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "730",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB DDR5 5200 32GB Kit (2x16GB) (KF552C40BBAK2-32)",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,870",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB DDR5 5600 64GB Kit (2x32GB) (KF556C40BBAK2-64)",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "4,080",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-Force Xtreem ARGB DDR4 4000 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "890",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 3200 Non ECC Memory RAM SO-DIMM 16GB (單條) (KCP432SS8/16)",
+        "rating": "10",
+        "hon_price_min": "374",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "3200"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4400 32GB Kit (2x16GB) 金色 (F4-4400C19D-32GTRG)",
+        "rating": "",
+        "hon_price_min": "1,520",
+        "hon_price_max": "1,530",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG LANCER RGB DDR5 5600 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "840",
+        "容量:": "16GB",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5600 C36 32GB Kit (2x16GB) (CMT32GX5M2X5600C36)",
+        "rating": "",
+        "hon_price_min": "1,660",
+        "hon_price_max": "3,580",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Netac Basic SO DDR4 3200 SODIMM 8GB (單條) (NTBSD4N32SP-08)",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "173",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 5600 32GB Kit (2x16GB) (F5-5600J3036D16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,670",
+        "hon_price_max": "2,780",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV Value Series DDR4 3200 16GB (單條)",
+        "rating": "10",
+        "hon_price_min": "330",
+        "hon_price_max": "650",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Transcend DDR4 3200 SODIMM 16GB (單條) (JM3200HSE-16G)",
+        "rating": "10",
+        "hon_price_min": "318",
+        "hon_price_max": "448",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston Fury Beast AMD EXPO DDR5 5200 32GB Kit (2x16GB) (KF552C36BBEK2-32)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX  DDR4 DRAM 3600 C18 32GB Kit (2x16GB) (CMK32GX4M2D3600C18)",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "1,690",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB RS DDR4 3600 C18 64GB Kit (2x32GB) (CMG64GX4M2D3600C18)",
+        "rating": "",
+        "hon_price_min": "1,640",
+        "hon_price_max": "1,750",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial Ballistix RGB DDR4 3200 16GB Kit (2x8GB) (BL2K8G32C16U4BL)",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "790",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR5 4800 SODIMM Single Module 16GB (單條) (KVR48S40BS8/16)",
+        "rating": "10",
+        "hon_price_min": "498",
+        "hon_price_max": "698",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Team Group T-Force Delta RGB DDR4 3600 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "541",
+        "容量:": "16GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury DDR4 3200 16GB Kit (2x8GB) (KF432C16BBK2/16)",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "695",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR4 3200 64GB Kit (2x32GB) (KF432C16BBK2/64)",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "2,250",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Premier DDR4 2666 Unbuffered-DIMM 8GB (單條)",
+        "rating": "10",
+        "hon_price_min": "158",
+        "hon_price_max": "370",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV Bolt X DDR4 3200 16GB Kit (2x8GB) (KD48GU880-32A160U)",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "400",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston ValueRAM DDR4 3200 SO-DIMM 32GB (單條) (KVR32S22D8/32)",
+        "rating": "",
+        "hon_price_min": "738",
+        "hon_price_max": "1,386",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB RS DDR4 3600 32GB Kit (2x16GB) (CMG32GX4M2D3600C18)",
+        "rating": "9.2",
+        "hon_price_min": "750",
+        "hon_price_max": "1,040",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury DDR4 2666 64GB Kit (2x32GB) (HX426C16FB3K2/64)",
+        "rating": "",
+        "hon_price_min": "2,220",
+        "hon_price_max": "2,220",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Aegis DDR4 2666 16GB (單條) (F4-2666C19S-16GIS)",
+        "rating": "10",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV Bolt X DDR4 3200 32GB Kit (2x16GB) (KD4AGU880-32A160U)",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "840",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 8000 32GB Kit (2x16GB) (F5-8000J3848H16GX2-TZ5RK)",
+        "rating": "2.0",
+        "hon_price_min": "3,670",
+        "hon_price_max": "3,980",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "8000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB RS DDR4 3200 32GB Kit (2x16GB) (CMG32GX4M2E3200C16)",
+        "rating": "10",
+        "hon_price_min": "738",
+        "hon_price_max": "1,040",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial DDR4 3200 SODIMM 8GB (單條) (CT8G4SFRA32A)",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "270",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB DDR5 5600 32GB Kit (2x16GB) (KF556C40BBAK2-32)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,140",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "GALAX HOF OC Lab Aurora II RGB 4000 16GB Kit (2x8GB)",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "1,299",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX 32GB Kit (2x16GB) (CMK32GX4M2B3200C16)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,499",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 3600 32GB Kit (2x16GB) (CMK32GX4M2Z3600C18)",
+        "rating": "10",
+        "hon_price_min": "720",
+        "hon_price_max": "1,710",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D45G RGB DDR4 3600 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "575",
+        "容量:": "16GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4800 16GB Kit (2x8GB) 銀色 (F4-4800C19D-16GTRSC)",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,380",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB AMD EXPO DDR5 6000 64GB Kit (2x32GB) (KF560C36BBEAK2-64)",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,680",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000U3636E16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "3,999",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB AMD EXPO DDR5 6000 32GB Kit (2x16GB) (KF560C36BBEAK2-32)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,780",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR4 3600 Non ECC DIMM 16GB Kit (2x8GB) (KF436C17BBK2/16)",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "740",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 3200 LONG-DIMM 8GB (單條) (KVR32N22S8/8)",
+        "rating": "9.0",
+        "hon_price_min": "195",
+        "hon_price_max": "358",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR5 5200 64GB Kit (2x32GB) (KF552C40BBK2-64)",
+        "rating": "10",
+        "hon_price_min": "2,550",
+        "hon_price_max": "4,180",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 2666 SODIMM 8GB (單條) (KCP426SS6/8)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "470",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR5 4800 16GB (單條) (KF548C38BB-16)",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "1,340",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 2666 SODIMM 16GB (單條) (KCP426SD8/16)",
+        "rating": "8.0",
+        "hon_price_min": "470",
+        "hon_price_max": "870",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 DRAM 3600 C18 16GB Kit (2x8GB) (CMK16GX4M2D3600C18)",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "799",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 7200 32GB Kit (2x16GB) (F5-7200J3445G16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "3,280",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "7200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J3238F16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "3,250",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR3 1600 4GB (單條)",
+        "rating": "9.2",
+        "hon_price_min": "210",
+        "hon_price_max": "290",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "容量:": "4GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG Spectrix D60G DDR4 3200 RGB Memory Module 32GB Kit (2x16GB)",
+        "rating": "6.0",
+        "hon_price_min": "780",
+        "hon_price_max": "1,460",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4-3200 Rank 2R LONG-DIMM 16GB (單條) (KVR32N22D8/16)",
+        "rating": "10",
+        "hon_price_min": "370",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Value DDR4 3200 SO-DIMM 8GB (單條)",
+        "rating": "10",
+        "hon_price_min": "195",
+        "hon_price_max": "369",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4266 16GB Kit (2x8GB) 金色 (F4-4266C19D-16GTRGC)",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,090",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4266",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-Force Delta RGB DDR4 3200 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "225",
+        "hon_price_max": "320",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG Lancer RGB DDR5 5200 32GB Kit (2x16GB) (AX5U5200C3816G-DCLARBK)",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "2,680",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z RGB DDR4 16GB Kit (2x8GB) (F4-3200C16D-16GTZR)",
+        "rating": "10",
+        "hon_price_min": "489",
+        "hon_price_max": "600",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Silicon Power CL19 Laptop SODIMM DDR4 2666 RAM 8GB (單條) (SP008GBSFU266B02)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 5600 C36 32GB Kit (2x16GB) (CMK32GX5M2B5600C36)",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "2,599",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 DRAM 6000 C36 32GB Kit (2x16GB) (CMH32GX5M2B6000C40)",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,890",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4-3600 16GB Kit (2x8GB) (F4-3600C18D-16GVK)",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "450",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston ValueRAM DDR4 2666 16GB (單條) (KVR26S19D8/16)",
+        "rating": "9.0",
+        "hon_price_min": "375",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal Gold DDR4 4000 32GB Kit (2x16GB) (F4-4000C16D-32GTRGA)",
+        "rating": "",
+        "hon_price_min": "2,440",
+        "hon_price_max": "3,120",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4000"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 3600 32GB Kit (2x16GB) (F4-3600C18D-32GTZN)",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "1,540",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 ROG Certified RGB DDR4 3600 CL17 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "850",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 5200 C40 64GB Kit (2x32GB) (CMK64GX5M2B5200C40)",
+        "rating": "10",
+        "hon_price_min": "2,370",
+        "hon_price_max": "2,880",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB RS DDR4 3200 C16 64GB Kit (2x32GB) (CMG64GX4M2E3200C16)",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,799",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5600 AMD EXPO 64GB Kit (2x32GB) (CMT64GX5M2B5600Z40)",
+        "rating": "",
+        "hon_price_min": "3,360",
+        "hon_price_max": "3,680",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws S5 DDR5 5200 32GB Kit (2x16GB) 黑色 (F5-5200U4040A16GX2-RS5K)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,290",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J4040F16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "2,080",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Synology DDR4 SODIMM 4GB (單條) D4ECSO RM-4NS264G",
+        "rating": "10",
+        "hon_price_min": "693",
+        "hon_price_max": "799",
+        "water_price_min": "400",
+        "water_price_max": "400",
+        "容量:": "4GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA XPG Lancer DDR5 5200 32GB Kit (2x16GB) (AX5U5200C3816G-DCLABK)",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "3,970",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal 16GB Kit (2x8GB) (GS-RM-F4-3200C16D-16GTRS)",
+        "rating": "",
+        "hon_price_min": "715",
+        "hon_price_max": "1,260",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Impact SODIMM DDR4 3200 32GB (單條) (KF432S20IB/32)",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "1,350",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 5200 C40 32GB Kit (2x16GB) (CMK32GX5M2B5200C40)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "2,080",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5200 32GB Kit (2x16GB) (CMT32GX5M2B5200C40W)",
+        "rating": "",
+        "hon_price_min": "1,740",
+        "hon_price_max": "2,380",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4-3200 Rank 1R LONG-DIMM 16GB (單條) (KVR32N22S8/16)",
+        "rating": "10",
+        "hon_price_min": "370",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 5600 32GB Kit (2x16GB) (F5-5600J3036D16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,780",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB RS DDR4 3600 16GB Kit (2x8GB) (CMG16GX4M2D3600C18)",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "550",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 6200 C36 32GB Kit (2x16GB) (CMK32GX5M2B6200C36)",
+        "rating": "",
+        "hon_price_min": "2,270",
+        "hon_price_max": "2,280",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws SO-DIMM DDR4 3200 8GB (單條) (F4-3200C22S-8GRS)",
+        "rating": "2.0",
+        "hon_price_min": "178",
+        "hon_price_max": "250",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB AMD EXPO DDR5 5600 32GB Kit (2x16GB) (KF556C36BBEAK2-32)",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,599",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ASUS DDR5 4800 U-DIMM 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,299",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB DDR4 3600 16GB Kit (2x8GB) (KF436C17BBAK2/16)",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "820",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG Hunter DDR5 5200 Long DIMM 8GB (單條) (AX5U5200C388G-SHTBK)",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "550",
+        "容量:": "8GB",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV CRAS X RGB DDR4 3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "960",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR4 3200 SODIMM 16GB (單條) (CMSX16GX4M1A3200C22)",
+        "rating": "10",
+        "hon_price_min": "410",
+        "hon_price_max": "480",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 RGB DDR4 3600 32GB (單條)",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "1,150",
+        "容量:": "32GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR-3 1600 LONG-DIMM 8GB (單條) (KVR16N11/8)",
+        "rating": "9.6",
+        "hon_price_min": "420",
+        "hon_price_max": "499",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "容量:": "8GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "Corsair Vengeance SODIMM DDR5 4800 16GB (單條) (CMSX16GX5M1A4800C40)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "950",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Crucial DDR4 3200 SODIMM 32GB (單條) (CT32G4SFD832A)",
+        "rating": "10",
+        "hon_price_min": "609",
+        "hon_price_max": "698",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 DDR5-5600 CL36 32GB Kit (2x16GB) (F5-5600J3636C16GX2-TZ5K)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "2,580",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Samsung 三星 DDR5-4800 SODIMM 16GB (單條) (M425R2GA3BB0-CQKOL)",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4-3600 CL18-22-22-42 1.35V 64GB Kit (2x32GB) (F4-3600C18D-64GVK)",
+        "rating": "",
+        "hon_price_min": "1,340",
+        "hon_price_max": "1,550",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200Mhz",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 DDR5 6000 32GB Kit (2x16GB) (F5-6000U3636E16GX2-TZ5S)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "3,680",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6400 64GB Kit (2x32GB) (F5-6400J3239G32GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "3,370",
+        "hon_price_max": "5,300",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "6400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC Memory Upgrade Kit DDR3 ECC-R 1333 DIMM 128GB Kit (4x32GB) (OWC1333D3Z3M128)",
+        "rating": "",
+        "hon_price_min": "3,399",
+        "hon_price_max": "3,399",
+        "容量:": "128GB Kit (4x32GB)",
+        "速度:": "1333",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB AMD EXPO DDR5 5600 C36 32GB Kit (2x16GB) (CMH32GX5M2B5600Z36K)",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC OWC DDR4 2400 SO-DIMM IMAC 2017 5K 27'' 64GB Kit (4x16GB) (OWC2400DDR4S64S)",
+        "rating": "",
+        "hon_price_min": "2,330",
+        "hon_price_max": "2,980",
+        "容量:": "64GB Kit (4x16GB)",
+        "速度:": "2400",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston DDR4 2666 Non ECC Memory RAM DIMM 32GB (單條) (KCP426ND8/32)",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "1,090",
+        "容量:": "32GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV Bolt X DDR4 3200 C16 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "660",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA GAMMIX D20 DDR4 3200 8GB (單條) (AX4U320088G16A-CBK20)",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "320",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston ValueRAM DDR4 2666 SODIMM 16GB (單條) (KVR26S19S8/16)",
+        "rating": "",
+        "hon_price_min": "375",
+        "hon_price_max": "400",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 3600 32GB Kit (2x16GB) 銀色 (F4-3600C19D-32GTRS)",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,830",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR4 RGB 3600 32GB Kit (2x16GB) 白色限量版 (KF436C18BWAK2/32)",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,250",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws S5 DDR5 5600 32GB Kit (2x16GB) (F5-5600U3636C16GX2-RS5K)",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "3,099",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Netac Basic SO DDR4 3200 SODIMM 16GB (單條) (NTBSD4N32SP-16)",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "320",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Lexar DDR4 3200 RAM 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "610",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J3040F16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "3,480",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 16GB Kit (2x8GB) (CMK16GX4M2E3200C16)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "620",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 DRAM 6200 C36 32GB Kit (2x16GB) (CMH32GX5M2B6200C36)",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,550",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4800 16GB Kit (2x8GB) 金色 (F4-4800C19D-16GTRGC)",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,380",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 5600 64GB Kit (2x32GB) (F5-5600J3636D32GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "4,850",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 NEO (AMD) DDR5 5600 32GB Kit (2x16GB) (F5-5600J2834F16GX2-TZ5N)",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "2,110",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX FURY Memory Black 16GB Kit (2x8GB) (HX432C16FB3K2/16)",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "730",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 5200 C40 32GB Kit (2x16GB) (CMK32GX5M2B5200C40W)",
+        "rating": "",
+        "hon_price_min": "1,289",
+        "hon_price_max": "2,080",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial Ballistix Gaming 3200 16GB Kit (2x8GB) (BL2K8G32C16U4R)",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "850",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Renegade Silver DDR5 6000 32GB Kit (2x16GB) (KF560C32RSK2-32)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,999",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Premier DDR4 3200 SO-DIMM RAM 32GB (單條)",
+        "rating": "",
+        "hon_price_min": "619",
+        "hon_price_max": "1,240",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 4000 CL16 16GB Kit (2x8GB) (F4-4000C16D-16GTZN)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,290",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group Elite DDR4 2666 8GB (單條) (TED48G2666C1901)",
+        "rating": "8.9",
+        "hon_price_min": "199",
+        "hon_price_max": "265",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo DDR4 4000 16GB Kit (2x8GB) (F4-4000C16D-16GTZNA)",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,390",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000"
+    },
+    {
+        "names": "Kingston Fury Beast RGB DDR4 3200 32GB Kit (2x16GB) (KF432C16BB1AK2/32)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,450",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO DDR4 3600 16GB Kit (2x8GB) (CMW16GX4M2D3600C18W)",
+        "rating": "10",
+        "hon_price_min": "550",
+        "hon_price_max": "680",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial Ballistix RGB DDR4 3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,690",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG LANCER RGB DDR5 6400 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "900",
+        "容量:": "16GB",
+        "速度:": "6400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Patriot Viper Venom Black Non-RGB DDR5 6200 CL40 32GB Kit (2x16GB) (PVV532G620C40K)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "2,099",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro DDR4 2666 32GB Kit (2x16GB) (CMW32GX4M2A2666C16W)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 6000 C36 32GB Kit (2x16GB) (CMT32GX5M2X6000C36)",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,899",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5600 C36 AMD EXPO 32GB Kit (2x16GB) (CMT32GX5M2B5600Z36)",
+        "rating": "",
+        "hon_price_min": "1,640",
+        "hon_price_max": "1,990",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D45G RGB DDR4 3600 8GB (單條)",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "330",
+        "容量:": "8GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Spectrix D50 DDR4 RGB Memory Module 3200 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "650",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Synology DDR4 2666 NON-ECC SODIMM Ram 4GB (單條)",
+        "rating": "",
+        "hon_price_min": "719",
+        "hon_price_max": "719",
+        "容量:": "4GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 NEO RGB DDR5 5600 32GB Kit (2x16GB) (F5-5600J2834F16GX2-TZ5NR)",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,230",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J3040F16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "3,480",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4 3600 32GB Kit (2x16GB) (F4-3600C18D-32GVK)",
+        "rating": "10",
+        "hon_price_min": "660",
+        "hon_price_max": "750",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Hyper-X Fury 32GB Kit (2x16GB) (HX426C16FB2K2/32)",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,430",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 16GB Kit (2x8GB) (CMW16GX4M2C3200C16)",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "770",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 3200 32GB Kit (2x16GB) (F4-3200C16D-32GTZN)",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "980",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial Ballistix DDR4-3200 16GB Kit (2x8GB) (BL2K8G32C16U4W)",
+        "rating": "2.0",
+        "hon_price_min": "650",
+        "hon_price_max": "799",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Transcend DDR4 3200 Unbuffered SO-DIMM Notebook Ram 16GB (單條) (JM3200HSB-16G)",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "578",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston DDR4 2600 SO DIMM Notebook Ram 8GB (單條) (KCP426SS8/8)",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "369",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA GAMMIX D20 DDR4 3600 16GB Kit (2x8GB) (AX4U360038G18A-DCBK20)",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "755",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial DDR4-2666 UDIMM 8GB (單條)",
+        "rating": "8.5",
+        "hon_price_min": "210",
+        "hon_price_max": "298",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro DDR4 3200 C16 16GB Kit (2x8GB) (CMW16GX4M2C3200C16)",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "770",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4266 32GB Kit (2x16GB) (F4-4266C19D-32GTRS)",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,699",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4266",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 5600 32GB Kit (2x16GB) (F5-5600U3636C16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "3,380",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z RGB DDR4 3600 16GB Kit (2x8GB) (F4-3600C18D-16GTZRX)",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "880",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR5 4800 SODIMM Single Module 32GB (單條) (KVR48S40BD8/32)",
+        "rating": "",
+        "hon_price_min": "968",
+        "hon_price_max": "1,488",
+        "容量:": "32GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston SO-DIMM 2666 ECC 16GB (單條) (KSM26SES8/16ME)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,060",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston Fury Renegade RGB DDR5 6000 32GB Kit (2x16GB) (KF560C32RSAK2-32)",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,099",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z RGB DDR4 4800 16GB Kit (2x8GB) (F4-4800C19D-16GTZRC)",
+        "rating": "",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,130",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 NEO RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J3636F16GX2-TZ5NR)",
+        "rating": "",
+        "hon_price_min": "1,498",
+        "hon_price_max": "2,090",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-FORCE DARK Zα DDR4 4000 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA DDR4 SO-DIMM 2666 8GB (單條) (AD4S266638G19-S)",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "370",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 4800 C40 32GB Kit (2x16GB) (CMK32GX5M2A4800C40)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "2,450",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 NEO RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J3238F16GX2-TZ5NR)",
+        "rating": "",
+        "hon_price_min": "1,570",
+        "hon_price_max": "2,350",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial SO-DIMM DDR4 2666  16GB (單條) (CT16G4SFD8266)",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "499",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Flare X5 DDR5 5600 32GB Kit (2x16GB) (F5-5600J3036D16GX2-FX5)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,920",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 16GB Kit (2x8GB) (CMW16GX4M2D3600C18)",
+        "rating": "",
+        "hon_price_min": "525",
+        "hon_price_max": "999",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J3238F16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "3,580",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR4 3600 CL18 288 Pi DIMM 32GB Kit (2x16GB) (KF436C18BBK2/32)",
+        "rating": "10",
+        "hon_price_min": "890",
+        "hon_price_max": "1,450",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 5600 32GB Kit (2x16GB) (F5-5600J3636C16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,880",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV CRAS XR5 RGB DDR5 6000 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,630",
+        "hon_price_max": "1,899",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV CRAS XR RGB DDR4 3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA GAMMIX D20 DDR4 3200 64GB Kit (2x32GB) (AX4U3200732G16A-DCBK20)",
+        "rating": "",
+        "hon_price_min": "1,410",
+        "hon_price_max": "2,680",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 DRAM 6000 C36 32GB Kit (2x16GB) (CMH32GX5M2D6000C36)",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,190",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial Ballistix DDR4 3600 32GB Kit (2x16GB) (BL2K16G36C16U4B)",
+        "rating": "",
+        "hon_price_min": "1,725",
+        "hon_price_max": "1,725",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "UDIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 DRAM 5600 C36 32GB Kit (2x16GB) (CMH32GX5M2B5600C36)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,720",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 DDR5 6000 32GB Kit (2x16GB) (F5-6000J3636F16GX2-TZ5K)",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "2,450",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston SO-DIMM DDR3 1600 RAM LV 8GB (單條) (KVR16LS11/8G)",
+        "rating": "10",
+        "hon_price_min": "455",
+        "hon_price_max": "499",
+        "容量:": "8GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 4000 C16 16GB Kit (2x8GB) (CMK16GX4M2Z4000C16)",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "1,099",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J3636F16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,690",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "HP V2 Series DDR4 2666 16GB (單條) (7EH56AA#UUF)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "588",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial DDR4 3200 16GB 桌上型記憶體 (CT16G4DFS832A)",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "500",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 DRAM 5600 C36 32GB Kit (2x16GB) - White (CMH32GX5M2B5600C36W)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,720",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 DDR5 6000 32GB Kit (2x16GB) (F5-6000J4040F16GX2-TZ5K)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "2,450",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR5 5200 16GB (單條) (KF552C40BB-16)",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "880",
+        "容量:": "16GB",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Thermaltake TOUGHRAM XG RGB Memory DDR4 3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston 1Rx8 512M x 64-Bit DDR3-1600 CL11 LONG-DIMM 4GB (單條) (KVR16N11S8/4)",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "286",
+        "容量:": "4GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "ADATA XPG GAMMIX D10 DDR4 3200 16GB Kit (2x8GB) (AX4U320038G16-DB10)",
+        "rating": "10",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro DDR4 DRAM 3600 C18 AMD Ryzen 16GB Kit (2x8GB) (CMW16GX4M2Z3600C18)",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "1,099",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 7200 C34 32GB Kit (2x16GB) (CMH32GX5M2X7200C34)",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,850",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "7200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG LANCER RGB DDR5 6000 32GB Kit (2x16GB) (AX5U6000C4016G-DCLARBK)",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,599",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Thermaltake TOUGHRAM XG RGB Memory DDR4 3600 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "789",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "PNY LONG-DIMM 2666 8GB (單條) (MD8GSD42666BL)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 3200 8GB (單條) (CMK8GX4M1E3200C16)",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "209",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z RGB DDR4 4000 16GB Kit (2x8GB) (F4-4000C16D-16GTZRA)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,480",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4400 32GB Kit (2x16GB) (F4-4400C19D-32GTRS)",
+        "rating": "",
+        "hon_price_min": "1,790",
+        "hon_price_max": "1,799",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 3600 64GB Kit (2x32GB) 銀色 (F4-3600C18D-64GTRS)",
+        "rating": "",
+        "hon_price_min": "1,740",
+        "hon_price_max": "2,950",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 5600 32GB Kit (2x16GB) (CMT32GX5M2B5600C36)",
+        "rating": "",
+        "hon_price_min": "1,670",
+        "hon_price_max": "1,899",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro SL Black DDR4 16GB Kit (2x8GB) (CMH16GX4M2Z3600C18)",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "910",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG Spectrix D60G DDR4-3200 RGB Memory Module 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "799",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Aegis DDR4-3000 Ram 16GB (單條) (F4-3000C16D-16GISB)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "630",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3000"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 3600 64GB Kit (2x32GB) (F4-3600C18D-64GTZN)",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,750",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC PC3-8500 DDR3 1066 SODIMM 8GB (單條) (OWC8566DDR3S8GB)",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "410",
+        "容量:": "8GB",
+        "速度:": "1066",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair DDR4 2666 C18 DIMM Value Ram 8GB (單條) (CMV8GX4M1A2666C18)",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "248",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV Hynix Chips DDR4 SO-DIMM 3200 16GB (單條) (KD4AGSA8M-32N220A)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Samsung 三星 DDR5-4800 SODIMM 8GB (單條) (M425R1GB4BB0-CQKOL)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "容量:": "8GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "KLEVV CRAS XR RGB DDR4 3600 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "480",
+        "容量:": "8GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 5600 C36 32GB Kit (2x16GB) (CMK32GX5M2B5600C36W)",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "2,280",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 5600 AMD EXPO 64GB Kit (2x32GB) (CMH64GX5M2B5600Z40)",
+        "rating": "",
+        "hon_price_min": "3,070",
+        "hon_price_max": "3,080",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000U4040E16GX2-TZ5RS)",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "3,580",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial Ballistix RGB DDR4 3600 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,480",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 32GB Kit (2x16GB) (CMW32GX4M2C3200C16)",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,750",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR5 6200 C36 32GB Kit (2x16GB) (CMT32GX5M2X6200C36)",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,990",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4-2666 DeskTop RAM Memory 4GB (單條) (KVR26N19s6/4)",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "215",
+        "容量:": "4GB",
+        "速度:": "2666"
+    },
+    {
+        "names": "ADATA SPECTRIX D45G DDR4 RGB 3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,099",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal Elite DDR4 4800 32GB Kit (2x16GB) 皇家戟-尊爵版金色 (F4-4800C20D-32GTEG)",
+        "rating": "",
+        "hon_price_min": "2,490",
+        "hon_price_max": "2,499",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 DDR4 RGB Memory Module 3600 16GB Kit (2x8GB)",
+        "rating": "10",
+        "hon_price_min": "490",
+        "hon_price_max": "760",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB DDR4 3200 C16 64GB Kit (2x32GB) (CMT64GX4M2E3200C16)",
+        "rating": "",
+        "hon_price_min": "1,860",
+        "hon_price_max": "1,999",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ZADAK SPARK DDR4 3200 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,049",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal 32GB Kit (2x16GB) (F4-3200C16D-32GTRS) (Silver)",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "1,080",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4 4400 32GB Kit (2x16GB) (F4-4400C19D-32GVK)",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO SL DDR4 3600 32GB Kit (2x16GB) (CMH32GX4M2Z3600C18)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,899",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4 3200 16GB Kit (2x8GB) (F4-3200C16D-16GVKB)",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "599",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200"
+    },
+    {
+        "names": "G.Skill Trident Z5 DDR5 6000 32GB Kit (2x16GB) (F5-6000J3040F16GX2-TZ5K)",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "3,480",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro DDR4 3600 16GB Kit (2x8GB) (CMW16GX4M2Z3600C20)",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "899",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance AMD EXPO DDR5 5600 C36 32GB Kit (2x16GB) (CMK32GX5M2B5600Z36)",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,530",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB Pro DDR4 DRAM 3600 C18 AMD Ryzen 32GB Kit (2x16GB) (CMW32GX4M2Z3600C18)",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,740",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB 32GB Kit (2x16GB) (CMT32GX4M2C3600C18)",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "2,599",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal Elite DDR4 3600 16GB Kit (2x8GB) 銀色 (F4-3600C14D-16GTESA)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,050",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial Ballistix Gaming 3200 32GB Kit (2x16GB) (BL2K16G32C16U4R)",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "AITC Kingsman Gaming DDR4-3200 連散熱片 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "210",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Premier DDR4 3200 U-DIMM 32GB (單條)",
+        "rating": "",
+        "hon_price_min": "619",
+        "hon_price_max": "1,360",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "U-DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO SL DDR4 3200 32GB Kit (2x16GB) (CMH32GX4M2E3200C16W)",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,699",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 3600 16GB Kit (2x8GB) (F4-3600C18D-16GTZN)",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "980",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 3600 64GB Kit (2x32GB) (CMK64GX4M2D3600C18)",
+        "rating": "",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,800",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D45G DDR4 RGB 3600 64GB Kit (2x32GB)",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,380",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 3600 16GB Kit (2x8GB) (GS-RM-F4-3600C18D-16GTRS)",
+        "rating": "",
+        "hon_price_min": "710",
+        "hon_price_max": "1,050",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Synology 記憶體模組 16GB (單條) (RAMRG2133DDR4-16G)",
+        "rating": "",
+        "hon_price_min": "1,988",
+        "hon_price_max": "2,850",
+        "water_price_min": "1,200",
+        "water_price_max": "1,200",
+        "容量:": "16GB",
+        "速度:": "2133",
+        "DIMM/SODIMM:": "ECC RDIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 DDR4 RGB Memory Module 3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "830",
+        "hon_price_max": "1,140",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 3600 32GB Kit (2x16GB) 銀色 (F4-3600C16D-32GTRS)",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,520",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB 64GB Kit (4x16GB) (CMT64GX4M4K3600C18)",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "5,880",
+        "容量:": "64GB Kit (4x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group T-Force Xtreem ARGB DDR4 3600 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "732",
+        "hon_price_max": "732",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Impact SO-DIMM 32GB (單條) (HX432S20IB/32)",
+        "rating": "",
+        "hon_price_min": "978",
+        "hon_price_max": "1,399",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "GALAX HOF OC Lab Extreme 皚鑽 RGB DDR4 4000 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,299",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV BOLT XR  DDR4 3600 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "390",
+        "容量:": "8GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC DDR4 2666 SODIMM 16GB (單條) (OWC2666DDR4S16G)",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,840",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR5 6000 32GB Kit (2x16GB) (KF560C40BBK2-32)",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "3,680",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 4000 64GB Kit (2x32GB) (CMK64GX4M2Z4000C18)",
+        "rating": "",
+        "hon_price_min": "3,890",
+        "hon_price_max": "4,220",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial SO-DIMM DDR4 2666  8GB (單條) (CT8G4SFS8266)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 3600 16GB Kit (2x8GB) 銀色 (F4-3600C16D-16GTRS)",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,400",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 3200 32GB Kit (2x16GB) 金色 (F4-3600C16D-32GTRGC)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,070",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB 16GB Kit (2x8GB) (CMT16GX4M2C3600C18W)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,199",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Team Group DDR4 2666 8GB (單條) (TED48G2666C1901)",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "340",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO SL DDR4 3600 16GB Kit (2x8GB) (CMH16GX4M2D3600C18)",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,099",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury Memory Black 64GB Kit (2x32GB) (HX432C16FB3K2/64)",
+        "rating": "",
+        "hon_price_min": "2,760",
+        "hon_price_max": "2,799",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D45G DDR4 RGB 3600 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "850",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA GAMMIX D20 DDR4 3200 32GB Kit (2x16GB) (AX4U3200716G16A-DCBK20)",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "1,350",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal Gold DDR4 4000 16GB Kit (2x8GB) (F4-4000C16D-16GTRGA)",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,650",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000"
+    },
+    {
+        "names": "KLEVV Hynix Chips DDR4 SO-DIMM 2666 8GB (單條) (KD48GS881-26N190A)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 3200 64GB Kit (2x32GB) (CMK64GX4M2E3200C16)",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "2,070",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR4 2666 Non ECC Memory RAM SO-DIMM 16GB (單條) (KCP426SS8/16)",
+        "rating": "",
+        "hon_price_min": "374",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo DDR4-3600 16GB Kit (2x8GB) (F4-3600C16D-16GTZNC)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "1,110",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB 32GB Kit (2x16GB) (CMT32GX4M2K4000C19)",
+        "rating": "",
+        "hon_price_min": "3,424",
+        "hon_price_max": "4,280",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR5 5600 Non ECC DIMM 64GB Kit (2x32GB) (KF556C40BBK2-64)",
+        "rating": "",
+        "hon_price_min": "2,780",
+        "hon_price_max": "3,680",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "PNY XLR8 Gaming 3200 RGB 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial DDR4 2666 RAM 64GB Kit (2x32GB) (CT2K32G4SFD8266)",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,890",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 3600 64GB Kit (4x16GB) (F4-3600C16Q-64GTZNC)",
+        "rating": "10",
+        "hon_price_min": "2,870",
+        "hon_price_max": "4,090",
+        "容量:": "64GB Kit (4x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Synology DDR4 SODIMM 16GB (單條) D4ECSO RM-4ES2616",
+        "rating": "",
+        "hon_price_min": "3,120",
+        "hon_price_max": "3,399",
+        "water_price_min": "1,700",
+        "water_price_max": "1,700",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 3600 64GB Kit (4x16GB) (F4-3600C16Q-64GTZN)",
+        "rating": "",
+        "hon_price_min": "3,660",
+        "hon_price_max": "3,850",
+        "容量:": "64GB Kit (4x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "PNY XLR8 Gaming 3200 RGB 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "799",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV DDR4 3200 SODIMM 16GB (單條)",
+        "rating": "2.0",
+        "hon_price_min": "360",
+        "hon_price_max": "639",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA DDR4 3200 SO-DIMM 16GB (單條) (AD4S320038G22-SGN)",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "630",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ZADAK SPARK DDR4 3600 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "789",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 32GB Kit (4x8GB) (CMW32GX4M4C3600C18)",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "2,560",
+        "容量:": "32GB Kit (4x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV 3200 CRAS X RGB Series 16GB (單條) (KD4AGU880-32A160W)",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo DDR4 4000 32GB Kit (2x16GB) (F4-4000C16D-32GTZN)",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,650",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4000"
+    },
+    {
+        "names": "PNY Performance DDR4 3200 CL16 16GB (單條) (MD16GSD4320016-TB)",
+        "rating": "",
+        "hon_price_min": "408",
+        "hon_price_max": "408",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG SPECTRIX D41 RGB DDR4 3600 CL18 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "629",
+        "hon_price_max": "740",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV BOLT X  DDR4 3600 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "550",
+        "容量:": "16GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 DRAM 6200 C36 32GB Kit (2x16GB) - White (CMH32GX5M2B6200C36W)",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,550",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury DDR4 3200 32GB Kit (2x16GB) (HX432C16FB4K2/32)",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,450",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 5200 C38 32GB Kit (2x16GB) (CMK32GX5M2B5200C38)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,750",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC DDR4 2666 SO-DIMM MAC MINI 2018 32GB Kit (2x16GB) (2666DDR4S32P)",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,160",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "GALAX HOF OC Lab Aurora 幻迹 RGB DDR4 4000 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,299",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Patriot VIPER Steel RGB White DDR4 3200 CL16 16GB Kit (2x8GB) (PVR416G320C6KW)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "750",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "AITC Kingsman Gaming DDR4-3200 連散熱片 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "360",
+        "容量:": "16GB",
+        "速度:": "3200"
+    },
+    {
+        "names": "GALAX HOF OC Lab Aurora II RGB 3600 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "1,299",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA DDR4 2666 Unbuffered-DIMM 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "650",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Patriot Signature Line Premium DDR4 3200 - Heatsink 8GB (單條) (PSP48G320081H1)",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "399",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z RGB DDR4 32GB Kit (2x16GB) (F4-3200C16D-32GTZR)",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "945",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO DDR4 4000 128GB Kit (4x32GB) (CMW128GX4M4X4000C18)",
+        "rating": "",
+        "hon_price_min": "11,300",
+        "hon_price_max": "12,200",
+        "容量:": "128GB Kit (4x32GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Lenovo DDR4-2666 WorkStation ECC RAM 16GB (單條) (#4X70P98202)",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,528",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 7600 32GB Kit (2x16GB) (F5-7600J3646G16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "2,770",
+        "hon_price_max": "3,740",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "7600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 5600 32GB Kit (2x16GB) (F5-5600U3636C16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "3,380",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4400 16GB Kit (2x8GB) 銀色 (F4-4400C16D-16GTRS)",
+        "rating": "",
+        "hon_price_min": "1,710",
+        "hon_price_max": "1,970",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Premier DDR4 3200 SO-DIMM RAM 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "365",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB 32GB Kit (4x8GB) (CMT32GX4M4C3200C16)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "2,270",
+        "容量:": "32GB Kit (4x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston FURY Renegade RGB DDR5 6800 32GB Kit (2x16GB) (KF568C36RSAK2-32)",
+        "rating": "",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,399",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast AMD EXPO DDR5 6000 32GB Kit (2x16GB) (KF560C36BBEK2-32)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,699",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV Hynix Chips DDR4 SO-DIMM 3200 32GB Kit (2x16GB) (KD4AGS88C-32N220D)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,650",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO SL DDR4 3200 32GB Kit (4x8GB) (CMH32GX4M4E3200C16)",
+        "rating": "",
+        "hon_price_min": "1,504",
+        "hon_price_max": "1,799",
+        "容量:": "32GB Kit (4x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA Spectrix D60G DDR4 RGB 炫光記憶體 3600 32GB Kit (2x16GB)",
+        "rating": "10",
+        "hon_price_min": "820",
+        "hon_price_max": "1,280",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury RGB DDR4 3600 32GB Kit (2x16GB) (KF436C18BBAK2/32)",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,499",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 16GB Kit (2x8GB) (CMW16GX4M2C3600C18)",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "860",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury DDR4 RGB 3200 16GB Kit (2x8GB) (HX432C16FB3AK2/16)",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "890",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC DDR3 1066 PC8500 SO-DIMM (4G*1) FOR MAC 2008-10 4GB (單條) (OWC8566DDR3S4GB)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "199",
+        "容量:": "4GB",
+        "速度:": "1066",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury RGB DDR4 3200 32GB Kit (2x16GB) (HX432C16FB4AK2/32)",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,550",
+        "容量:": "32GB Kit (2x16GB)",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA DDR3-1600 8GB (單條)",
+        "rating": "9.5",
+        "hon_price_min": "340",
+        "hon_price_max": "399",
+        "容量:": "8GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Impact DDR4 2666 16GB (單條) (HX426S16IBK2/16)",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "895",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB DDR5 5600 C36 AMD EXPO 32GB Kit (2x16GB) (CMH32GX5M2B5600Z36)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,770",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "GeiL ORION DDR4 3200 RGB AMD Edition 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "770",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 5066 16GB Kit (2x8GB) 銀色 (F4-5066C20D-16GTRS)",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,540",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "5066",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4800 32GB Kit (2x16GB) 銀色 (F4-4800C20D-32GTRS)",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,380",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC Memory Upgrade Kit DDR4 2666 SO-DIMM 128GB Kit (4x32GB) (2666DR4S128S)",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "5,780",
+        "容量:": "128GB Kit (4x32GB)",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston 1.35v 1600 LONG-DIMM 8GB (單條) (KVR16LN11/8)",
+        "rating": "",
+        "hon_price_min": "455",
+        "hon_price_max": "498",
+        "容量:": "8GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury RGB DDR4 3600 64GB Kit (2x32GB) (HX436C18FB3AK2/64)",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "3,280",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D50 RGB DDR4 3600 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "355",
+        "容量:": "8GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 DDR5 6000 32GB Kit (2x16GB) (F5-6000J3040F16GX2-TZ5S)",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "3,480",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 NEO DDR5 6000 32GB Kit (2x16GB) (F5-6000J3038F16GX2-TZ5N)",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,490",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Flare X5 (AMD) DDR5 6000 32GB Kit (2x16GB) (F5-6000J3238F16GX2-FX5)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,090",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kimtigo Captain T4 DDR5 4800 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston 8GB (單條) (KVR21N15S8/8)",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "容量:": "8GB",
+        "速度:": "2133",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws S5 DDR5 5200 32GB Kit (2x16GB) 白色 (F5-5200U4040A16GX2-RS5W)",
+        "rating": "",
+        "hon_price_min": "2,289",
+        "hon_price_max": "2,999",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA DDR4 3200 SO-DIMM 8GB (單條) (AD4S320038G22-SGN)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "250",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4400 16GB Kit (2x8GB) 銀色 (F4-4400C18D-16GTRS)",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,460",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4400",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA DDR4-2666 SODIMM 32GB (單條)",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "容量:": "32GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA XPG LANCER RGB DDR5 5600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,650",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ADATA XPG Spectrix D60G DDR4 3600 RGB Memory Module 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "920",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Thermaltake TOUGHRAM RGB DDR4 3200 32GB Kit (2x16GB) 白色鋁合金散熱片",
+        "rating": "",
+        "hon_price_min": "1,349",
+        "hon_price_max": "1,349",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4-3600 16GB Kit (2x8GB) (F4-3600C17D-16GTRS)",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,400",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4 4600 16GB Kit (2x8GB) 銀色 (F4-4600C19D-16GTRSE)",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "1,280",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal Elite DDR4 3600 32GB Kit (2x16GB) 尊爵版金色 (F4-3600C16D-32GTEGC)",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,890",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "HPE 2Rx4 PC4-2133P-L Kit 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "7,300",
+        "hon_price_max": "7,627",
+        "容量:": "16GB",
+        "速度:": "2133",
+        "DIMM/SODIMM:": "SDRAM"
+    },
+    {
+        "names": "Crucial DDR3 1600 SO-DIMM 8GB (單條)",
+        "rating": "",
+        "water_price_min": "400",
+        "water_price_max": "400",
+        "容量:": "8GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "AITC Valueu DDR4 2666 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "275",
+        "容量:": "8GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB RT DDR4 3600 16GB Kit (2x8GB) (CMN16GX4M2Z3600C18)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "850",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "PNY Performance DDR4 3200 CL16 8GB (單條) (MD8GSD4320016-TB)",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "238",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 3200 C16 DRAM 16GB (單條) (CMK16GX4M1E3200C16)",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "800",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Dominator Platinum RGB 16GB Kit (2x8GB) (CMT16GX4M2C3000C15)",
+        "rating": "",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,263",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury DDR4 3600 64GB Kit (2x32GB) (HX436C18FB3K2/64)",
+        "rating": "10",
+        "hon_price_min": "1,999",
+        "hon_price_max": "3,200",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX DDR4 3600 128GB Kit (4x32GB) (CMK128GX4M4D3600C18)",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "6,962",
+        "容量:": "128GB Kit (4x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston FURY Renegade RGB DDR5 7200 32GB Kit (2x16GB) (KF572C38RSAK2-32)",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,699",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "7200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC Memory Upgrade Kit 8GB Kit (2x4GB) (OWC1600DDR3S08S)",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "399",
+        "容量:": "8GB Kit (2x4GB)",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Transcend JetRam DDR4 3200 8GB (單條) (JM3200HLB-8G)",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "368",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Transcend DDR4 3200 Unbuffered Long-DIMM 32GB (單條) (JM3200HLE-32G)",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "1,290",
+        "容量:": "32GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "LONG-DIMM"
+    },
+    {
+        "names": "GeiL Orion DDR4 3200 C16 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "350",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 7000 C34 32GB Kit (2x16GB) (CMK32GX5M2X7000C34)",
+        "rating": "",
+        "hon_price_min": "2,489",
+        "hon_price_max": "2,499",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "7000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC OWC DDR4 2400 SO-DIMMIMAC 2017 5K 27'' 16GB Kit (2x8GB) (OWC2400DDR4S16P)",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "780",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "2400",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Kingston ValueRAM DDR4 2666 4GB (單條)",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "215",
+        "容量:": "4GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Lexar DDR4 3200 8GB (單條)",
+        "rating": "6.0",
+        "hon_price_min": "199",
+        "hon_price_max": "310",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Ripjaws V DDR4 4800 16GB Kit (2x8GB) (F4-4800C19D-16GVKC)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Flare X5 (AMD) DDR5 5600 32GB Kit (2x16GB) (F5-5600J3636C16GX2-FX5)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,670",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast RGB DDR4 3600 64GB Kit (2x32GB) (KF436C18BBAK2/64)",
+        "rating": "8.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,650",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 32GB Kit (4x8GB) (CMW32GX4M4C3000C15)",
+        "rating": "",
+        "hon_price_min": "1,638",
+        "hon_price_max": "1,979",
+        "容量:": "32GB Kit (4x8GB)",
+        "速度:": "3000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance 260-Pin DDR4 SO-DIMM 8GB (單條) (CMSX8GX4M1A3000C18)",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "容量:": "8GB",
+        "速度:": "3000",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Thermaltake TOUGHRAM RGB Black DDR4 3600 64GB Kit (2x32GB)",
+        "rating": "",
+        "hon_price_min": "2,689",
+        "hon_price_max": "2,689",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston Fury Beast DDR4 3600 64GB Kit (2x32GB) (KF436C18BBK2/64)",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "2,599",
+        "容量:": "64GB Kit (2x32GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 32GB Kit (2x16GB) (CMW32GX4M2E3200C16)",
+        "rating": "10",
+        "hon_price_min": "768",
+        "hon_price_max": "1,380",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "HPE PC4-2999 Smart Kit 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,000",
+        "容量:": "8GB",
+        "速度:": "2999",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 RGB DDR5 6000 32GB Kit (2x16GB) (F5-6000J4040F16GX2-TZ5RK)",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,499",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Royal DDR4-4000 32GB Kit (2x16GB) (F4-4000C19D-32GTRG)",
+        "rating": "",
+        "hon_price_min": "2,370",
+        "hon_price_max": "2,940",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "4000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "PNY XLR8 DDR5 6000 MAKO RGB 32GB Kit (2x16GB) (MD32GK2D5600038MXRGB)",
+        "rating": "",
+        "hon_price_min": "2,258",
+        "hon_price_max": "2,258",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX Fury 16GB Kit (2x8GB) (HX432C18FB2K2/16)",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "730",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill 16GB Kit (2x8GB) (F4-3000C16D-16GISB)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "630",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Crucial DDR4 2666 SO-DIMM for Mac 16GB (單條) (CT16G4S266M)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA Spectrix D50G RGB DDR4 4133 16GB Kit (2x8GB)",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "980",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "4133",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingmax DDR5 4800 桌上型電腦記憶體 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "容量:": "16GB",
+        "速度:": "4800",
+        "DIMM/SODIMM:": "U-DIMM"
+    },
+    {
+        "names": "Kingston DDR-3 1600 筆記型電腦記憶體 SO-DIMM 8GB (單條)",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "499",
+        "容量:": "8GB",
+        "速度:": "1600",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "ADATA SPECTRIX D45G RGB DDR4 3600 32GB (單條)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,145",
+        "容量:": "32GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Flare X5 DDR5 6000 32GB Kit (2x16GB) (F5-6000J3636F16GX2-FX5)",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,830",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston HyperX 16GB Kit (2x8GB) (HX432C16PB3AK2/16)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "890",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z Neo RGB DDR4 3200 16GB Kit (2x8GB) (F4-3200C14D-16GTZN)",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,378",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z RGB DDR4 32GB Kit (2x16GB) (F4-3200C15D-32GTZR)",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,850",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Synology DDR3 non-ECC SO-DIMM 4GB (單條) (D3NS1866L-4G)",
+        "rating": "",
+        "hon_price_min": "619",
+        "hon_price_max": "630",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "容量:": "4GB",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance DDR5 6000 C36 32GB Kit (2x16GB) (CMK32GX5M2D6000C36)",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,480",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "ZADAK SPARK DDR4 3200 16GB (單條)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "990",
+        "容量:": "16GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "HPE 4Rx4 PC4-2666V-L Smart Kit 64GB (單條)",
+        "rating": "",
+        "hon_price_min": "28,000",
+        "hon_price_max": "29,785",
+        "容量:": "64GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "LRDIMM"
+    },
+    {
+        "names": "Kingston Hyper-X Impact 筆記型電腦記憶體 SO-DIMM 16GB (單條) (HX426S15IB2/16)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "容量:": "16GB",
+        "速度:": "2666",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance RGB PRO 32GB Kit (2x16GB) (CMW32GX4M2Z3200C16)",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,882",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 NEO DDR5 5600 32GB Kit (2x16GB) (F5-5600J3036D16GX2-TZ5N)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,040",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "5600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "G.Skill Trident Z5 NEO DDR5 6000 32GB Kit (2x16GB) (F5-6000J3238F16GX2-TZ5N)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,210",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "6000",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "GeiL EVO X II RGB DDR4 3600 32GB Kit (2x16GB)",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550",
+        "容量:": "32GB Kit (2x16GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "Kingston DDR3 1333 筆記型電腦記憶體 SO-DIMM 4GB (單條) (KVR13S9S8/4G)",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "286",
+        "容量:": "4GB",
+        "速度:": "1333",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "HP V8 Series RGB DDR4 3600 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "415",
+        "容量:": "8GB",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "OWC DDR3 1867 SO-DIMM IMAC 2015 5K 27'' 16GB Kit (2x8GB) (1867DDR3S16P)",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "730",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "1867",
+        "DIMM/SODIMM:": "SODIMM"
+    },
+    {
+        "names": "Corsair Vengeance LPX 16GB Kit (2x8GB) (CMK16GX4M2Z3600C18)",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "699",
+        "容量:": "16GB Kit (2x8GB)",
+        "速度:": "3600",
+        "DIMM/SODIMM:": "DIMM"
+    },
+    {
+        "names": "KLEVV Value Series DDR4 3200 8GB (單條)",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "285",
+        "容量:": "8GB",
+        "速度:": "3200",
+        "DIMM/SODIMM:": "DIMM"
+    }
+]

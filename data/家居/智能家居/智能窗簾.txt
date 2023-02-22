@@ -1,0 +1,268 @@
+[
+    {
+        "names": "Aqara Curtain Driver E1 (Track Version) 智能窗簾機 (路軌)",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "688",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "SwitchBot Curtain U Rail 2 窗簾機器人 (U形軌道 2代)",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "695",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "One Home Elite 智能窗簾機械人 (T/U)",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "798",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "Aqara Smart Roller Shade Controller 捲簾電機 SRSC-M01",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "安裝方式:": "電機",
+        "開關方向:": "上下移動"
+    },
+    {
+        "names": "SwitchBot Curtain 窗簾機器人 (I形軌道)",
+        "rating": "10",
+        "hon_price_min": "660",
+        "hon_price_max": "780",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "Aqara Roller Shade Driver E1 智能窗簾電機 RSD-M01",
+        "rating": "",
+        "hon_price_min": "518",
+        "hon_price_max": "518",
+        "安裝方式:": "電機",
+        "開關方向:": "上下移動"
+    },
+    {
+        "names": "LifeSmart Smart Curtain Motor 智能窗簾電機",
+        "rating": "",
+        "hon_price_min": "955",
+        "hon_price_max": "968",
+        "安裝方式:": "電機",
+        "開關方向:": "上下移動"
+    },
+    {
+        "names": "SwitchBot Curtain 窗簾機器人 (杆形軌道)",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "780",
+        "安裝方式:": "羅馬桿",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "SwitchBot Curtain 窗簾機器人 (U形軌道)",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "780",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "LifeSmart QuickLink Curtain Suit - 3.2M 智能窗簾速接套裝",
+        "rating": "",
+        "hon_price_min": "1,226",
+        "hon_price_max": "1,278",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "Yeelight 智能窗簾電機 (電機+軌道)",
+        "rating": "",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680",
+        "安裝方式:": "軌道,電機",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "Aqara Curtain Driver E1 (Rod Version) 智能窗簾機 (羅馬桿)",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "788",
+        "安裝方式:": "羅馬桿",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "SwitchBot Solar Panel 窗簾太陽能板",
+        "rating": "10",
+        "hon_price_min": "189",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "LifeSmart QuickLink Curtain Suit - 5.2M 智能窗簾速接套裝",
+        "rating": "",
+        "hon_price_min": "1,292",
+        "hon_price_max": "1,328",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "LifeSmart QuickLink Curtain Suit 速接窗簾套裝 - 3.2m",
+        "rating": "",
+        "hon_price_min": "1,226",
+        "hon_price_max": "1,288"
+    },
+    {
+        "names": "Xiaomi 小米 米家窗簾伴侶 軌道版",
+        "rating": "",
+        "water_price_min": "549",
+        "water_price_max": "549",
+        "安裝方式:": "軌道",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "SwitchBot Curtain Rod 2 窗簾機器人",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "799",
+        "安裝方式:": "羅馬桿",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "SOMA Smart Shade 2 智能捲簾控制器",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "安裝方式:": "電機",
+        "開關方向:": "上下移動"
+    },
+    {
+        "names": "Aqara 智能窗簾電機 (鋰電池版) B1 ZNCLDJ12LM",
+        "rating": "",
+        "water_price_min": "850",
+        "water_price_max": "1,198",
+        "安裝方式:": "電機",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "UKGPro WiFi無線一體化輕觸式智能窗簾開關 U-DS151",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "Terncy 小燕 Smart Curtain Motor Air 靈致智能電動窗簾電機",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "安裝方式:": "電機",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "Aqara 智能窗簾電機 (Zigbee開合簾版) ZNCLDJ11LM",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "安裝方式:": "電機",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "ONE Home Elite 智能窗簾機械人 (Rod 羅馬桿)",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "798",
+        "安裝方式:": "羅馬桿",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "Apshon 智能窗簾套餐 (智能掣+電動捲簾摩打)",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "1,800"
+    },
+    {
+        "names": "Trendmall 電動窗簾 TMCL002",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,650",
+        "安裝方式:": "電機",
+        "開關方向:": "上下移動"
+    },
+    {
+        "names": "Trendmall 智能窗簾 TMCL001",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,150",
+        "安裝方式:": "電機",
+        "開關方向:": "上下移動"
+    },
+    {
+        "names": "RSH 智能窗簾 (摩打+軌道)",
+        "rating": "",
+        "hon_price_min": "1,810",
+        "hon_price_max": "1,810",
+        "安裝方式:": "軌道,電機",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "AVIO 智能房間組合",
+        "rating": "10",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980"
+    },
+    {
+        "names": "Brunt Blind Engine 智能電動窗簾控制器",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "890",
+        "安裝方式:": "電機",
+        "開關方向:": "上下移動"
+    },
+    {
+        "names": "AVIO Smart home package (Smart window) 智能窗",
+        "rating": "10",
+        "hon_price_min": "3,998",
+        "hon_price_max": "3,998"
+    },
+    {
+        "names": "AVIO Wifi Curtain Motor (with Remote Controller) 智能Wifi窗簾 (連路軌)",
+        "rating": "10",
+        "hon_price_min": "1,998",
+        "hon_price_max": "1,998",
+        "安裝方式:": "軌道,電機",
+        "開關方向:": "左右移動"
+    },
+    {
+        "names": "AVIO 智能家居智能窗廉組合",
+        "rating": "10",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999"
+    },
+    {
+        "names": "Aeotec Nano Shutter 無線窗簾控制器",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,070"
+    },
+    {
+        "names": "Fibaro Roller Shutter 2 窗簾控制器",
+        "rating": "10",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299"
+    },
+    {
+        "names": "AVIO Smart home package (Smart curtain) 智能窗簾",
+        "rating": "10",
+        "hon_price_min": "3,998",
+        "hon_price_max": "3,998"
+    },
+    {
+        "names": "AVIO 智能大廳組合",
+        "rating": "8.0",
+        "hon_price_min": "2,998",
+        "hon_price_max": "2,998"
+    }
+]

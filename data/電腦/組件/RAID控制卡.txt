@@ -1,0 +1,921 @@
+[
+    {
+        "names": "ASUS Hyper M.2 x16 Gen 4 Card (CI-AHM24)",
+        "rating": "10",
+        "hon_price_min": "578",
+        "hon_price_max": "578",
+        "介面:": "PCI-E 4.0/3.0 x16"
+    },
+    {
+        "names": "ASUS HYPER M.2 X16 CARD",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "580",
+        "介面:": "PCI-E 16x"
+    },
+    {
+        "names": "HPE Smart Array P416ie-m SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "10,000",
+        "hon_price_max": "10,085",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P816i-a SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "6,450",
+        "hon_price_max": "11,206",
+        "介面:": "PCI Express 3.0 x8"
+    },
+    {
+        "names": "HPE Smart Array P441/4G Controller",
+        "rating": "",
+        "hon_price_min": "9,500",
+        "hon_price_max": "10,041",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P204i-b SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "6,340",
+        "hon_price_max": "6,351",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,1 ADM"
+    },
+    {
+        "names": "HPE Smart Array P408e-p SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "10,000",
+        "hon_price_max": "10,085",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "HPE DL360 Gen9 P440ar for 2 GPU Configs",
+        "rating": "",
+        "hon_price_min": "6,690",
+        "hon_price_max": "6,690",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "Microsemi Adaptec SmartRAID 3162-8i",
+        "rating": "",
+        "hon_price_min": "7,100",
+        "hon_price_max": "7,100",
+        "介面:": "PCI-E 3.0 x8",
+        "支援RAID:": "RAID level 0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "HPE Smart Array P840/4G Controller",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "13,951",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "LSI MegaRAID 9260-16i",
+        "rating": "",
+        "hon_price_min": "5,850",
+        "hon_price_max": "6,870",
+        "介面:": "PCI-E 2.0 x 8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Orico PRS2",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "499",
+        "介面:": "PCI-E",
+        "支援RAID:": "RAID0, RAID1, AHC1"
+    },
+    {
+        "names": "HPE Smart Array P408i-a SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "6,700",
+        "hon_price_max": "6,719",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "Adaptec SmartRAID 3154-8e",
+        "rating": "",
+        "hon_price_min": "8,750",
+        "hon_price_max": "8,750",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P408i-p SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "4,560",
+        "hon_price_max": "6,719",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array E208i-p SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,354",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,10"
+    },
+    {
+        "names": "HPE SAS Cable for P416ie-m SR G10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "998"
+    },
+    {
+        "names": "Adaptec SmartRAID 3154-24i",
+        "rating": "",
+        "hon_price_min": "9,850",
+        "hon_price_max": "9,850",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "Adaptec ASR-81605Z SGL",
+        "rating": "",
+        "hon_price_min": "8,290",
+        "hon_price_max": "8,290",
+        "介面:": "SAS 3.0/ PCI-e 3.0",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 6, 10, 50, and 60"
+    },
+    {
+        "names": "LSI MegaRAID 9266-4i",
+        "rating": "",
+        "hon_price_min": "3,210",
+        "hon_price_max": "3,380",
+        "介面:": "PCI-E 2.0 x 8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-8805 SGL",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "3,850",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-6405 SGL",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "2,850",
+        "介面:": "PCI-e Gen2 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec SmartHBA 2100-8i",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 5"
+    },
+    {
+        "names": "Adaptec ASR-8805E V2 SGL",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,100",
+        "介面:": "PCI-E 3.0 x8",
+        "支援RAID:": "RAID levels: 0, 1, and 10"
+    },
+    {
+        "names": "LSI MegaRAID 9240-8i",
+        "rating": "6.0",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "介面:": "PCI-E 2.0 x8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "HPE Smart Array P408i-a SR G10 LH Ctrlr",
+        "rating": "",
+        "hon_price_min": "6,700",
+        "hon_price_max": "6,719",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "Adaptec ASR-81605ZQ SGL",
+        "rating": "",
+        "hon_price_min": "10,590",
+        "hon_price_max": "10,590",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "HPE Smart Array P841/4G Controller",
+        "rating": "",
+        "hon_price_min": "14,600",
+        "hon_price_max": "15,626",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array E208i-a SR G10 LH Ctrlr",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,350",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,10"
+    },
+    {
+        "names": "Adaptec AEC-82885T SGL",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "3,850",
+        "介面:": "PCI-e x4"
+    },
+    {
+        "names": "Adaptec ASR-6805E KIT",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "2,900",
+        "介面:": "PCI-E x4",
+        "支援RAID:": "0 / 1 / 10 / JBOD"
+    },
+    {
+        "names": "HPE Smart Array P408e-m SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "10,400",
+        "hon_price_max": "10,400",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P830/4G Controller",
+        "rating": "",
+        "hon_price_min": "13,300",
+        "hon_price_max": "14,732",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "HPE H240 Smart HBA",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,607",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,5"
+    },
+    {
+        "names": "LSI MegaRAID 9280-4i4e",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "6,100",
+        "介面:": "PCI-E 2.0 x8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "HPE Smart Array E208i-c SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,354",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,10"
+    },
+    {
+        "names": "HPE Smart Array P431/4G Controller",
+        "rating": "",
+        "hon_price_min": "11,750",
+        "hon_price_max": "11,828",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P840ar/2G Controller",
+        "rating": "",
+        "hon_price_min": "10,800",
+        "hon_price_max": "11,715",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "Microsemi Adaptec SmartRAID 3162-8i /e",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,800",
+        "介面:": "PCI-E 3.0 x8",
+        "支援RAID:": "RAID level 0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec SmartHBA 2100-4i4e",
+        "rating": "",
+        "hon_price_min": "3,900",
+        "hon_price_max": "3,900",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 5"
+    },
+    {
+        "names": "Adaptec SmartRAID 3154-8i",
+        "rating": "",
+        "hon_price_min": "7,750",
+        "hon_price_max": "7,750",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "LSI MegaRAID 9260-8i",
+        "rating": "7.0",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,250",
+        "water_price_min": "2,250",
+        "water_price_max": "2,250",
+        "介面:": "PCI-E 2.0 x8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "LSI MegaRAID 9271-8i",
+        "rating": "10",
+        "hon_price_min": "3,150",
+        "hon_price_max": "4,850",
+        "介面:": "PCI-E 3.0 x8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec SmartRAID 3152-8ii",
+        "rating": "",
+        "hon_price_min": "7,250",
+        "hon_price_max": "7,250",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "LSI MegaRAID 9240-4i",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,799",
+        "介面:": "PCI-E 2.0 x8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "HPE Smart Array E208e-p SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "3,900",
+        "hon_price_max": "3,915",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,10"
+    },
+    {
+        "names": "Adaptec HBA1000-8i8e",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,200",
+        "介面:": "8-Lane PCI-E Gen3 to HD miniSAS"
+    },
+    {
+        "names": "Adaptec ASR-8405E V2 SGL",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,450",
+        "介面:": "PCI-E 3.0 x8",
+        "支援RAID:": "RAID levels: 0, 1, and 10"
+    },
+    {
+        "names": "LSI MegaRAID 9271-4i",
+        "rating": "",
+        "hon_price_min": "3,420",
+        "hon_price_max": "3,420",
+        "介面:": "PCI-E 3.0 x 8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec HBA1000-8i",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "介面:": "8-Lane PCI-E Gen3 to HD miniSAS"
+    },
+    {
+        "names": "Adaptec HBA1000-16e",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "4,700",
+        "介面:": "8-Lane PCI-E Gen3 to HD miniSAS"
+    },
+    {
+        "names": "Adaptec ASR-6405E SGL",
+        "rating": "",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,050",
+        "介面:": "PCI-e Gen2 x1",
+        "支援RAID:": "RAID 0, 1, 1E, 10 and JBOD"
+    },
+    {
+        "names": "Adaptec ASR-6805 KIT",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,550",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "0, 1, 1E, 5, 5EE, 6, 10, 50, 60, JBOD"
+    },
+    {
+        "names": "HPE Smart Array P816i-a SR G10 LH Ctrlr",
+        "rating": "",
+        "hon_price_min": "11,200",
+        "hon_price_max": "11,206",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "Adaptec SmartRAID 3154-16i",
+        "rating": "",
+        "hon_price_min": "8,750",
+        "hon_price_max": "8,750",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P440/2G Controller 820834-B21",
+        "rating": "",
+        "hon_price_min": "7,240",
+        "hon_price_max": "7,249",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "LSI MegaRAID 9266-8i",
+        "rating": "",
+        "hon_price_min": "3,530",
+        "hon_price_max": "3,850",
+        "介面:": "PCI-E 2.0 x 8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-8885 SGL",
+        "rating": "",
+        "hon_price_min": "7,100",
+        "hon_price_max": "7,100",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec HBA1000-8e",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,250",
+        "介面:": "8-Lane PCI-E Gen3 to HD miniSAS"
+    },
+    {
+        "names": "Adaptec SmartRAID 3151-4i",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "5,900",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "Adaptec SmartRAID 3101-4i",
+        "rating": "",
+        "hon_price_min": "4,400",
+        "hon_price_max": "4,400",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P440ar/2G Controller",
+        "rating": "",
+        "hon_price_min": "7,230",
+        "hon_price_max": "7,249",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "Adaptec SmartHBA 2100-24i",
+        "rating": "",
+        "hon_price_min": "6,250",
+        "hon_price_max": "6,250",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 5"
+    },
+    {
+        "names": "HPE Smart Array P741m/2G Controller",
+        "rating": "",
+        "hon_price_min": "13,900",
+        "hon_price_max": "13,951"
+    },
+    {
+        "names": "Adaptec ASR-7805Q SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "HPE Smart Array P408i-c SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "7,270",
+        "hon_price_max": "7,280",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,50,60,1 ADM,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array E208i-a SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,350",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,10"
+    },
+    {
+        "names": "Adaptec HBA1000-16i",
+        "rating": "",
+        "介面:": "8-Lane PCI-E Gen3 to HD miniSAS"
+    },
+    {
+        "names": "HPE Smart Array P440/4G Controller",
+        "rating": "",
+        "hon_price_min": "10,030",
+        "hon_price_max": "10,041",
+        "介面:": "PCI Express Gen3 x8",
+        "支援RAID:": "RAID levels : 0,1,10,5,50,6,60,10 ADM"
+    },
+    {
+        "names": "HPE Smart Array P204i-c SR Gen10 Ctrlr",
+        "rating": "",
+        "hon_price_min": "6,150",
+        "hon_price_max": "6,158",
+        "介面:": "PCI Express 3.0 x8",
+        "支援RAID:": "RAID levels : 0,1,5,6,10,1 ADM"
+    },
+    {
+        "names": "LSI MegaRAID 9270-8i",
+        "rating": "",
+        "hon_price_min": "4,650",
+        "hon_price_max": "4,846",
+        "介面:": "PCI-E 3.0 x 8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASA-70165H SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8"
+    },
+    {
+        "names": "LSI MegaRAID 9280-8e",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,800",
+        "介面:": "PCI-E 2.0 x8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec AAR-1225SA Kit",
+        "rating": "",
+        "介面:": "PCI-E x1",
+        "支援RAID:": "0 / 1 / JBOD"
+    },
+    {
+        "names": "Adaptec ASR-5805ZQ SGL",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "Raid 5/6"
+    },
+    {
+        "names": "Adaptec ASR-6405 KIT",
+        "rating": "",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "0, 1, 1E, 5, 5EE, 6, 10, JBOD"
+    },
+    {
+        "names": "LSI MegaRAID 9260-4i",
+        "rating": "",
+        "hon_price_min": "2,700",
+        "hon_price_max": "2,700",
+        "介面:": "PCI-E 2.0 x8",
+        "支援RAID:": "0, 1, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-71685 SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-5085 SGL",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "Magic-Pro MP-1680",
+        "rating": "",
+        "介面:": "PCI",
+        "支援RAID:": "SATA RA1D 0,1"
+    },
+    {
+        "names": "Adaptec ASA-7085H SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8"
+    },
+    {
+        "names": "Adaptec ASC-29320LPE SGL",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750",
+        "介面:": "PCI-E x1",
+        "支援RAID:": "JBOD"
+    },
+    {
+        "names": "Adaptec AAR-1220SA Kit",
+        "rating": "",
+        "介面:": "PCI-e x1",
+        "支援RAID:": "0, 1"
+    },
+    {
+        "names": "Magic-Pro MP-S320R",
+        "rating": "",
+        "介面:": "PCI-E 1X",
+        "支援RAID:": "RAID 0,1"
+    },
+    {
+        "names": "Adaptec SmartRAID 3102-8i",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,200",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "Raid 0, 1, 10, 5, 6, 50, 60, 1 ADM, 10 ADM"
+    },
+    {
+        "names": "Adaptec ASR-52445 Kit",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "Adaptec ASR-6805 SGL",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,500",
+        "介面:": "PCI-e Gen2 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-1405 KIT",
+        "rating": "",
+        "介面:": "PCl-e x4"
+    },
+    {
+        "names": "Adaptec ASR-6405E KIT",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "介面:": "PCI-E x1",
+        "支援RAID:": "0 / 1 / 10 / JBOD"
+    },
+    {
+        "names": "Adaptec ABM-800 Kit",
+        "rating": ""
+    },
+    {
+        "names": "Adaptec ASR-5805Q SGL",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "Raid 5/6"
+    },
+    {
+        "names": "Adaptec ASR-5805Z SGL",
+        "rating": "",
+        "介面:": "PCl-e x8",
+        "支援RAID:": "Raid 0/1/5/6"
+    },
+    {
+        "names": "Adaptec ASR-71605E",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 10, 1E"
+    },
+    {
+        "names": "Adaptec ASR-8885Q SGL",
+        "rating": "",
+        "hon_price_min": "10,900",
+        "hon_price_max": "10,900",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Orico CSA3656-ES5R",
+        "rating": "",
+        "介面:": "PCI-e 1x",
+        "支援RAID:": "0/1/3/5/10/LARGE/CLONE"
+    },
+    {
+        "names": "Adaptec ASR-8405 SGL",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "3,850",
+        "介面:": "PCI-e Gen3 x8; SAS 3.0",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Magic-Pro MP-133R",
+        "rating": "",
+        "介面:": "2 x ATA-133(MAX 4 devices",
+        "支援RAID:": "RAID 0,1,0+1,JBOD"
+    },
+    {
+        "names": "Orico CSA3655-S5R",
+        "rating": "",
+        "介面:": "PCI-e 1x",
+        "支援RAID:": "0/1/3/5/10/LARGE/CLONE"
+    },
+    {
+        "names": "ICY Dock MB982SPR-2S",
+        "rating": "",
+        "介面:": "SATA",
+        "支援RAID:": "Raid 0/1"
+    },
+    {
+        "names": "Adaptec ASR-2405 KIT",
+        "rating": "",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "0, 1, 1E, 10, JBOD"
+    },
+    {
+        "names": "3ware SAS 9750-4i",
+        "rating": "",
+        "介面:": "PCI x8 Express 2.0 host interface",
+        "支援RAID:": "0, 1, 5, 6, 10, 50 and Single Disk"
+    },
+    {
+        "names": "Adaptec ASR-5445Z SGL",
+        "rating": "",
+        "介面:": "PCl-e x8",
+        "支援RAID:": "Raid 0/1/5/6"
+    },
+    {
+        "names": "Adaptec ASR-6805Q SGL",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "3ware SAS 9750-8i",
+        "rating": "",
+        "介面:": "PCI x8 Express 2.0 host interface",
+        "支援RAID:": "0, 1, 5, 6, 10, 50 and Single Disk"
+    },
+    {
+        "names": "Adaptec ASR-51645 Kit",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "Adaptec ASR-78165 SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Orico LCR525-1S5R",
+        "rating": "",
+        "介面:": "SATA",
+        "支援RAID:": "0/1/3/5/10/Combine"
+    },
+    {
+        "names": "Adaptec ASC-1045",
+        "rating": "",
+        "介面:": "PCI-e x4"
+    },
+    {
+        "names": "Adaptec ASR-7805 KIT",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 6, 10, 50, 60"
+    },
+    {
+        "names": "Magic-Pro MP-1650",
+        "rating": "6.0",
+        "介面:": "PCI",
+        "支援RAID:": "Raid 0/1"
+    },
+    {
+        "names": "Adaptec ASR-7805 SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "3ware 9650SE-2LP",
+        "rating": "",
+        "介面:": "PCI-E x1"
+    },
+    {
+        "names": "Adaptec ASR-71605Q SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASA-7805H SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8"
+    },
+    {
+        "names": "Magic-Pro MP-1920",
+        "rating": "8.0",
+        "介面:": "SATA",
+        "支援RAID:": "Raid 0/1 JBOD"
+    },
+    {
+        "names": "Adaptec ASR-51245 Kit",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "Adaptec ASA-71605H SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8"
+    },
+    {
+        "names": "Adaptec ASA-6805H",
+        "rating": "",
+        "介面:": "PCI-e Gen2 x4"
+    },
+    {
+        "names": "Adaptec ASR-5805 Kit",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "Orico CAS3922-S2R",
+        "rating": "",
+        "介面:": "PCI-e 1x",
+        "支援RAID:": "0/1/BIG/NORMAL"
+    },
+    {
+        "names": "Adaptec ASR-5805 SGL",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "Accordance ARAID 3500",
+        "rating": "10",
+        "介面:": "SATA",
+        "支援RAID:": "Raid 0,1"
+    },
+    {
+        "names": "Adaptec ASR-6805ER5 Bulk",
+        "rating": "",
+        "介面:": "PCI-e x4",
+        "支援RAID:": "RAID 0, 1, 5"
+    },
+    {
+        "names": "Adaptec ASR-6445 SGL",
+        "rating": "",
+        "介面:": "PCI-e x8",
+        "支援RAID:": "0, 1, 1E, 5, 5EE, 6, 10, 50, 60 and JBOD"
+    },
+    {
+        "names": "Adaptec ASR-2405Q SGL",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "Raid 0/1/10"
+    },
+    {
+        "names": "Adaptec ASR-3405 Kit",
+        "rating": "",
+        "介面:": "PCI-E x4",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / JBOD"
+    },
+    {
+        "names": "Adaptec ASR-72405 SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-71605 SGL",
+        "rating": "",
+        "介面:": "PCI-e Gen3 x8",
+        "支援RAID:": "RAID 0, 1, 1E, 5, 5EE, 6, 10, 50, 60"
+    },
+    {
+        "names": "Adaptec ASR-5405Z SGL",
+        "rating": "",
+        "介面:": "PCl-e x8",
+        "支援RAID:": "Raid 0/1/5/6"
+    },
+    {
+        "names": "Adaptec ASR-5405 Kit",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 1E / 5EE / JBOD"
+    },
+    {
+        "names": "Adaptec ASR-5445 Kit",
+        "rating": "",
+        "介面:": "PCI-E x8",
+        "支援RAID:": "0 / 1 / 5 / 6 / 10 / 50 / 60 / 1E / 5EE / JBOD"
+    }
+]

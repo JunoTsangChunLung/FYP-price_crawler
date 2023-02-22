@@ -1,0 +1,3896 @@
+[
+    {
+        "names": "Whirlpool 惠而浦 易拆式抽油煙機 HE438W",
+        "rating": "10",
+        "hon_price_min": "1,000",
+        "hon_price_max": "2,190",
+        "water_price_min": "1,000",
+        "water_price_max": "1,000",
+        "照明:": "LED燈",
+        "排風口直徑:": "152mm",
+        "尺寸:": "135 x 710 x 522mm"
+    },
+    {
+        "names": "Hibachi 氣霸 超薄式抽油煙機 HY-338Q",
+        "rating": "9.0",
+        "hon_price_min": "370",
+        "hon_price_max": "1,200",
+        "排風量:": "9.5m³/min (±10%)",
+        "尺寸:": "710 x 510 x 100mm"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-7328",
+        "rating": "4.0",
+        "hon_price_min": "2,350",
+        "hon_price_max": "3,600",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 700 x 356 mm"
+    },
+    {
+        "names": "German Pool 德國寶 超薄龍捲風台式抽油煙機 TOT-723",
+        "rating": "9.2",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,710",
+        "摩打轉速:": "2300 RPM",
+        "排風量:": "1000 m³/hr",
+        "尺寸:": "(H)100 x (W)710 x (D)510mm"
+    },
+    {
+        "names": "Misoko 傾斜式抽油煙機 MR-BX1428",
+        "rating": "8.0",
+        "hon_price_min": "1,400",
+        "hon_price_max": "2,880",
+        "water_price_min": "1,400",
+        "water_price_max": "2,020",
+        "摩打轉速:": "2800",
+        "尺寸:": "710 x 355 x 420mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 蒸氣加熱水自動清洗抽油煙機 HAS2831S",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "4,270",
+        "water_price_min": "2,100",
+        "water_price_max": "2,100",
+        "照明:": "5W LED燈",
+        "排風口直徑:": "150mm",
+        "尺寸:": "165 x 710 x 520mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-7356",
+        "rating": "10",
+        "hon_price_min": "2,500",
+        "hon_price_max": "4,160",
+        "water_price_min": "2,500",
+        "water_price_max": "2,500",
+        "摩打轉速:": "2800",
+        "排風口直徑:": "150mm",
+        "尺寸:": "698 x 356 x 330-660mm"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 UltimateTaste500 掛牆煙囪式抽油煙機 ECT9750S",
+        "rating": "",
+        "hon_price_min": "6,998",
+        "hon_price_max": "7,780",
+        "排風量:": "1148m³/hr",
+        "尺寸:": "898 x 504 x 580-1120mm"
+    },
+    {
+        "names": "German West 西德寶 嵌入式智能手掃雙渦輪抽油煙機 GW-838ST",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,980",
+        "water_price_min": "450",
+        "water_price_max": "550",
+        "照明:": "LED白光燈",
+        "尺寸:": "710 x 400 x 125mm"
+    },
+    {
+        "names": "electriQ 煙囪式抽油煙機 QRM-T9020",
+        "rating": "",
+        "hon_price_min": "2,780",
+        "hon_price_max": "5,180",
+        "照明:": "LED",
+        "尺寸:": "900 x 355 x 360mm"
+    },
+    {
+        "names": "Pacific 太平洋 極速雙摩打系列抽油煙機 PR-3033-70",
+        "rating": "8.1",
+        "hon_price_min": "1,370",
+        "hon_price_max": "3,100",
+        "摩打轉速:": "2850R.P.M",
+        "排風口直徑:": "151mm",
+        "尺寸:": "708 x 520 x 135mm"
+    },
+    {
+        "names": "Panasonic 樂聲 \"雙千翼渦輪\" 抽油煙機 (簡約輕觸式) FV-713N",
+        "rating": "8.3",
+        "hon_price_min": "1,420",
+        "hon_price_max": "2,290",
+        "water_price_min": "1,498",
+        "water_price_max": "1,498",
+        "摩打轉速:": "3風速",
+        "排風量:": "720m3/hr",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 120 x 535mm"
+    },
+    {
+        "names": "Bondini 雪白 傾斜式抽油煙機 BT-710S",
+        "rating": "9.7",
+        "hon_price_min": "1,200",
+        "hon_price_max": "3,060",
+        "water_price_min": "1,000",
+        "water_price_max": "1,100",
+        "摩打轉速:": "2800RPM",
+        "排風量:": "17.5 m3/min",
+        "尺寸:": "710 x 400 x 430mm"
+    },
+    {
+        "names": "Pacific 太平洋 煙囪式抽油煙機 PR-6108-U70S",
+        "rating": "9.0",
+        "hon_price_min": "2,400",
+        "hon_price_max": "3,200",
+        "摩打轉速:": "2800",
+        "尺寸:": "700 x 350 x 526mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 自動清洗及易拆二合一抽油煙機 HC338",
+        "rating": "10",
+        "hon_price_min": "900",
+        "hon_price_max": "2,650",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "排風量:": "1090立方米/每小時",
+        "尺寸:": "135 x 710 x 522mm"
+    },
+    {
+        "names": "Pacific 太平洋 極速雙摩打系列易拆式抽油煙機 PR-8100S",
+        "rating": "8.5",
+        "hon_price_min": "900",
+        "hon_price_max": "2,390",
+        "water_price_min": "900",
+        "water_price_max": "900",
+        "摩打轉速:": "2400RPM",
+        "尺寸:": "700 x 520 x 135mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆式油煙機 PR-8133-70",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "2,290",
+        "摩打轉速:": "2800",
+        "尺寸:": "700 x 135 x 520mm"
+    },
+    {
+        "names": "electriQ 電熱除油易拆式傾斜抽油煙機 QRMI-7000",
+        "rating": "8.0",
+        "hon_price_min": "3,180",
+        "hon_price_max": "4,980",
+        "尺寸:": "700 x 372 x 505mm"
+    },
+    {
+        "names": "Sakura 櫻花 煙囪式抽油煙機 RW9100",
+        "rating": "8.0",
+        "hon_price_min": "3,900",
+        "hon_price_max": "5,368",
+        "摩打轉速:": "2250 / 1600 / 900 轉/每分鐘",
+        "排風量:": "1200 / 900 / 480 立方米/每小時",
+        "排風口直徑:": "150mm",
+        "尺寸:": "890 x 520 x 533-1000mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-9428",
+        "rating": "8.0",
+        "hon_price_min": "3,140",
+        "hon_price_max": "4,380",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 900 x 457mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-7457",
+        "rating": "9.0",
+        "hon_price_min": "2,950",
+        "hon_price_max": "4,310",
+        "摩打轉速:": "2800",
+        "排風口直徑:": "150mm",
+        "尺寸:": "698 x 457 x 330-660mm"
+    },
+    {
+        "names": "Pacific 太平洋 電熱除油易拆式抽油煙機 PR-3268-70",
+        "rating": "8.5",
+        "hon_price_min": "1,600",
+        "hon_price_max": "2,740",
+        "摩打轉速:": "2850",
+        "排風口直徑:": "150mm",
+        "尺寸:": "W710xH125xD530mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 掛牆煙囱式抽油煙機 AKR4071/IX",
+        "rating": "8.0",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,890",
+        "water_price_min": "2,600",
+        "water_price_max": "2,600",
+        "照明:": "LED",
+        "尺寸:": "970 x 760 x 480mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-8457",
+        "rating": "2.0",
+        "hon_price_min": "2,950",
+        "hon_price_max": "4,440",
+        "摩打轉速:": "2800",
+        "排風口直徑:": "150mm",
+        "尺寸:": "798 x 457 x 330-660mm"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-7328",
+        "rating": "4.0",
+        "hon_price_min": "2,350",
+        "hon_price_max": "3,600",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 700 x 356 mm"
+    },
+    {
+        "names": "Siemens 西門子 iSteam 自動清洗系列下置式抽油煙機 LU83S750HK",
+        "rating": "8.2",
+        "hon_price_min": "1,480",
+        "hon_price_max": "3,858",
+        "water_price_min": "1,500",
+        "water_price_max": "1,700",
+        "排風量:": "每小時立方米: 1200",
+        "尺寸:": "705 x 155 x 520mm"
+    },
+    {
+        "names": "Fujioh 富士皇 側抽式油煙機 FR-SC2070P",
+        "rating": "",
+        "hon_price_min": "8,696",
+        "hon_price_max": "9,990",
+        "water_price_min": "8,650",
+        "water_price_max": "8,650",
+        "照明:": "LED",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 544 x 445mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-CL1890VP",
+        "rating": "",
+        "hon_price_min": "13,600",
+        "hon_price_max": "16,800",
+        "water_price_min": "13,900",
+        "water_price_max": "13,900",
+        "尺寸:": "900 x 600 x 550-960mm"
+    },
+    {
+        "names": "Metropol 米勒寶 傾斜煙囪式抽油煙機 MLB802",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "2,720",
+        "water_price_min": "1,400",
+        "water_price_max": "1,400",
+        "尺寸:": "700 x 356 x 465mm"
+    },
+    {
+        "names": "TGC EXCEL+ 710 抽油煙機",
+        "rating": "10",
+        "hon_price_min": "3,450",
+        "hon_price_max": "4,220",
+        "摩打轉速:": "2250 特強",
+        "排風量:": "16.7立方米/分鐘",
+        "排風口直徑:": "150mm",
+        "尺寸:": "655-1177 x 710 x 535mm"
+    },
+    {
+        "names": "Panasonic 樂聲 \"雙千翼渦輪\"抽油煙機 (簡約輕觸式) (LED 燈型號) FV-713N (LED)",
+        "rating": "3.6",
+        "hon_price_min": "1,390",
+        "hon_price_max": "2,130",
+        "照明:": "40W",
+        "尺寸:": "700 x 120 x 535mm"
+    },
+    {
+        "names": "Sakura 櫻花 電熱除油式抽油煙機 (不銹鋼) SR-5883S",
+        "rating": "8.0",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,580",
+        "尺寸:": "710 x 565 x 160mm"
+    },
+    {
+        "names": "Fujioh 富士皇 煙囪式排氣型抽油煙機 FR-MT1990V",
+        "rating": "10",
+        "hon_price_min": "4,800",
+        "hon_price_max": "5,880",
+        "water_price_min": "4,850",
+        "water_price_max": "4,850",
+        "照明:": "環保 LED 照明燈",
+        "尺寸:": "900 x 505 x 600-1030mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 抽油煙機 MV831S",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "2,650",
+        "water_price_min": "1,100",
+        "water_price_max": "1,200",
+        "摩打轉速:": "2風速",
+        "尺寸:": "200 x 712 x 548mm"
+    },
+    {
+        "names": "Giggas 上將 黑旋風抽油煙機 PT-26pro",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "2,380",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "照明:": "LED x 2",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 125 x 400mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-MS1970V",
+        "rating": "9.0",
+        "hon_price_min": "2,280",
+        "hon_price_max": "4,290",
+        "water_price_min": "2,300",
+        "water_price_max": "2,300",
+        "排風量:": "230 / 320 / 400m³/h",
+        "尺寸:": "700 x 460 x 120mm"
+    },
+    {
+        "names": "Panasonic 樂聲 \"雙千翼渦輪\" 抽油煙機 (輕觸式) FV-712N",
+        "rating": "8.0",
+        "hon_price_min": "1,220",
+        "hon_price_max": "2,180",
+        "water_price_min": "1,254",
+        "water_price_max": "1,254",
+        "摩打轉速:": "3風速",
+        "排風量:": "720m3/hr",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 120 x 535mm"
+    },
+    {
+        "names": "Sakura 櫻花 易拆式抽油煙機 SR-2883S / SR-2883W",
+        "rating": "7.2",
+        "hon_price_min": "1,180",
+        "hon_price_max": "2,280",
+        "摩打轉速:": "1600RPM",
+        "排風量:": "900m3/hr",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 565 x 160mm"
+    },
+    {
+        "names": "Panasonic 樂聲 \"雙千翼渦輪\" 抽油煙機 (按鈕式) FV-711N",
+        "rating": "8.0",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,930",
+        "water_price_min": "1,198",
+        "water_price_max": "1,198",
+        "摩打轉速:": "2風速",
+        "排風量:": "720m3/hr",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 120 x 535mm"
+    },
+    {
+        "names": "Pacific 太平洋 極速雙摩打系列抽油煙機 PR-3288-70",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,910",
+        "摩打轉速:": "2800",
+        "尺寸:": "710 x 520 x 120mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆式標準抽油煙機 PR-3099-70",
+        "rating": "9.5",
+        "hon_price_min": "2,160",
+        "hon_price_max": "3,290",
+        "摩打轉速:": "2800",
+        "尺寸:": "710 x 525 x 130mm"
+    },
+    {
+        "names": "Philco 飛歌 不鏽鋼自動清洗易拆式抽油煙機 PAW70TS",
+        "rating": "2.0",
+        "hon_price_min": "1,760",
+        "hon_price_max": "2,030",
+        "排風量:": "880 / 1300m³/h",
+        "尺寸:": "165 x 705 x 520mm"
+    },
+    {
+        "names": "TGC Excel 710 抽油煙機",
+        "rating": "",
+        "hon_price_min": "2,830",
+        "hon_price_max": "3,990",
+        "耗電量:": "202W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "710 x 504 x 55mm"
+    },
+    {
+        "names": "Pacific 太平洋 Genova 抽油煙機 PR-2090U",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "4,380",
+        "摩打轉速:": "2800轉/每分鐘",
+        "排風量:": "19立方米/每分鐘",
+        "尺寸:": "475 x 356 x 894mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-7457",
+        "rating": "9.0",
+        "hon_price_min": "2,950",
+        "hon_price_max": "4,310",
+        "摩打轉速:": "2800",
+        "排風口直徑:": "150mm",
+        "尺寸:": "698 x 457 x 330-660mm"
+    },
+    {
+        "names": "Hibachi 氣霸 抽油煙機 HY-3800",
+        "rating": "6.7",
+        "hon_price_min": "390",
+        "hon_price_max": "1,450",
+        "water_price_min": "470",
+        "water_price_max": "470",
+        "摩打轉速:": "左:1900 右:1900 轉速(+/-)10%",
+        "尺寸:": "機身尺寸：  長：710 mm 闊：515 mm 高：125 mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆式標準抽油煙機 PR-3099-70",
+        "rating": "9.5",
+        "hon_price_min": "2,160",
+        "hon_price_max": "3,290",
+        "摩打轉速:": "2800",
+        "尺寸:": "710 x 525 x 130mm"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-7328",
+        "rating": "4.0",
+        "hon_price_min": "2,350",
+        "hon_price_max": "3,600",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 700 x 356 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 \"雙千翼渦輪\" 抽油煙機 (輕觸式) FV-712N",
+        "rating": "8.0",
+        "hon_price_min": "1,220",
+        "hon_price_max": "2,180",
+        "water_price_min": "1,254",
+        "water_price_max": "1,254",
+        "摩打轉速:": "3風速",
+        "排風量:": "720m3/hr",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 120 x 535mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 自動清洗及易拆二合一抽油煙機 HC338",
+        "rating": "10",
+        "hon_price_min": "900",
+        "hon_price_max": "2,650",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "排風量:": "1090立方米/每小時",
+        "尺寸:": "135 x 710 x 522mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 纖薄掛牆煙囱式抽油煙機 AKT3570/IX",
+        "rating": "10",
+        "hon_price_min": "2,780",
+        "hon_price_max": "4,180",
+        "照明:": "1 x 5W (LED燈條)",
+        "排風口直徑:": "152mm",
+        "尺寸:": "526-957 x 700 x 350mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列抽拉式抽油煙機 TF-900W",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,630",
+        "耗電量:": "330W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "(H)185 x (W)900 x (D)280mm"
+    },
+    {
+        "names": "electriQ 電熱除油易拆式抽油煙機 QRMA-7140",
+        "rating": "",
+        "hon_price_min": "1,660",
+        "hon_price_max": "2,180",
+        "照明:": "LED",
+        "尺寸:": "710 x 400 x 128mm"
+    },
+    {
+        "names": "Siemens 西門子 iSteam 自動清洗系列下置式抽油煙機 LU83S710HK",
+        "rating": "4.4",
+        "hon_price_min": "1,950",
+        "hon_price_max": "3,678",
+        "耗電量:": "320W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "154 x 705 x 521mm"
+    },
+    {
+        "names": "Hibachi 氣霸 抽拉式抽油煙機 HY-D23.6",
+        "rating": "10",
+        "hon_price_min": "760",
+        "hon_price_max": "1,950",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "尺寸:": "600mm x 280mm x 180mm"
+    },
+    {
+        "names": "Fujioh 富士皇 煙囪式排氣型抽油煙機 FR-MT1990V",
+        "rating": "10",
+        "hon_price_min": "4,800",
+        "hon_price_max": "5,880",
+        "water_price_min": "4,850",
+        "water_price_max": "4,850",
+        "照明:": "環保 LED 照明燈",
+        "尺寸:": "900 x 505 x 600-1030mm"
+    },
+    {
+        "names": "Sakura 櫻花 油網式抽油煙機 SR-3883S / SR-3883W",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "3,100",
+        "摩打轉速:": "1600RPM",
+        "排風量:": "900m3/hr",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 565 x 160mm"
+    },
+    {
+        "names": "electriQ 煙囪式抽油煙機 QRM-T7120",
+        "rating": "",
+        "hon_price_min": "2,430",
+        "hon_price_max": "4,580",
+        "照明:": "LED",
+        "尺寸:": "710 x 355 x 360mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-9328",
+        "rating": "2.0",
+        "hon_price_min": "2,940",
+        "hon_price_max": "4,240",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 900 x 356mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-6457",
+        "rating": "6.0",
+        "hon_price_min": "2,270",
+        "hon_price_max": "4,160",
+        "摩打轉速:": "2800",
+        "排風口直徑:": "150mm",
+        "尺寸:": "598 x 457 x 330-660mm"
+    },
+    {
+        "names": "German West 西德寶 雙渦輪纖巧型易拆式抽油煙機 GW-838",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,690",
+        "water_price_min": "1,020",
+        "water_price_max": "1,020",
+        "照明:": "LED白光燈",
+        "尺寸:": "125 x 710 x 400mm"
+    },
+    {
+        "names": "Sakura 櫻花 煙囪式抽油煙機 RW9100",
+        "rating": "8.0",
+        "hon_price_min": "3,900",
+        "hon_price_max": "5,368",
+        "摩打轉速:": "2250 / 1600 / 900 轉/每分鐘",
+        "排風量:": "1200 / 900 / 480 立方米/每小時",
+        "排風口直徑:": "150mm",
+        "尺寸:": "890 x 520 x 533-1000mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-MS1990V",
+        "rating": "8.0",
+        "hon_price_min": "3,280",
+        "hon_price_max": "4,580",
+        "water_price_min": "3,300",
+        "water_price_max": "3,300",
+        "尺寸:": "900 x 460 x 120mm"
+    },
+    {
+        "names": "electriQ 電熱除油易拆式抽油煙機 QRMA-7140",
+        "rating": "",
+        "hon_price_min": "1,660",
+        "hon_price_max": "2,180",
+        "照明:": "LED",
+        "尺寸:": "710 x 400 x 128mm"
+    },
+    {
+        "names": "Sakura 櫻花 煙囪式抽油煙機 RW7100",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "5,500",
+        "摩打轉速:": "2250 / 1600 / 900 轉/每分鐘",
+        "排風量:": "1200 / 900 / 480 立方米/每小時",
+        "排風口直徑:": "150mm",
+        "尺寸:": "710 x 520 x 533-1000mm"
+    },
+    {
+        "names": "TGC Senses+ 710 抽油煙機",
+        "rating": "8.0",
+        "hon_price_min": "2,780",
+        "hon_price_max": "3,890",
+        "摩打轉速:": "2250",
+        "排風量:": "12.5",
+        "排風口直徑:": "150mm",
+        "尺寸:": "655-1177 x 710 x 515mm"
+    },
+    {
+        "names": "Pacific 太平洋 電熱除油易拆式抽油煙機 PR-3268-70",
+        "rating": "8.5",
+        "hon_price_min": "1,600",
+        "hon_price_max": "2,740",
+        "摩打轉速:": "2850",
+        "排風口直徑:": "150mm",
+        "尺寸:": "W710xH125xD530mm"
+    },
+    {
+        "names": "German Heavy 德國重工 傾側式抽油煙機 GM-3980A",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "4,380",
+        "摩打轉速:": "1090 (標準)／2180 (最高)",
+        "排風量:": "1000m³/h",
+        "尺寸:": "710 x 380 x 490mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 靈巧易拆式抽油煙機 HE36",
+        "rating": "6.0",
+        "hon_price_min": "1,200",
+        "hon_price_max": "3,258",
+        "water_price_min": "1,200",
+        "water_price_max": "1,200",
+        "耗電量:": "147W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "120 x 893 x 510mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-6457",
+        "rating": "6.0",
+        "hon_price_min": "2,270",
+        "hon_price_max": "4,160",
+        "摩打轉速:": "2800",
+        "排風口直徑:": "150mm",
+        "尺寸:": "598 x 457 x 330-660mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列抽拉式抽油煙機 A70",
+        "rating": "",
+        "hon_price_min": "1,430",
+        "hon_price_max": "2,530",
+        "耗電量:": "215W",
+        "排風口直徑:": "151mm",
+        "尺寸:": "175 x 700 x 280 mm"
+    },
+    {
+        "names": "Garwoods 樂思 裝飾型煙囪式抽油煙機 HT-8780G",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "3,900",
+        "排風量:": "1000立方米/小時",
+        "尺寸:": "700 x 430 x 760-1140mm"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 掛牆煙囪式抽油煙機 EFC926BAR",
+        "rating": "9.5",
+        "hon_price_min": "4,966",
+        "hon_price_max": "7,416",
+        "照明:": "1 x 8.5W LED BAR",
+        "尺寸:": "518-1158 x 895 x 500mm"
+    },
+    {
+        "names": "electriQ 易拆式台式抽油煙機 QRMA7190C",
+        "rating": "",
+        "hon_price_min": "2,030",
+        "hon_price_max": "2,880",
+        "照明:": "LED",
+        "尺寸:": "900 x 400 x 128mm"
+    },
+    {
+        "names": "Panasonic 樂聲 \"雙千翼渦輪\"抽油煙機 (輕觸式) (LED 燈型號) FV-712N (LED)",
+        "rating": "6.0",
+        "hon_price_min": "1,260",
+        "hon_price_max": "2,050",
+        "照明:": "40W",
+        "尺寸:": "700 x 120 x 535mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆式抽油煙機 PR-8200",
+        "rating": "7.5",
+        "hon_price_min": "1,080",
+        "hon_price_max": "2,120",
+        "摩打轉速:": "1600RPM",
+        "尺寸:": "700 x 520 x 135mm"
+    },
+    {
+        "names": "Athens 金雅典 Flurry Series 旋風系列抽油煙機 GH-238 IEC",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "2,740"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-FS1890VP",
+        "rating": "10",
+        "hon_price_min": "4,580",
+        "hon_price_max": "6,150",
+        "water_price_min": "4,600",
+        "water_price_max": "4,600",
+        "耗電量:": "52-92W",
+        "排風量:": "350-500m³/h",
+        "尺寸:": "890 x 550 x 180mm"
+    },
+    {
+        "names": "German Pool 德國寶 超薄龍捲風台式抽油煙機 TOT-923",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,890",
+        "摩打轉速:": "2300 RPM",
+        "排風量:": "1000m³/hr",
+        "尺寸:": "(H)100 x (W)895 x (D)510mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 伸縮式抽油煙機 AKR473.1/IX",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "4,790",
+        "water_price_min": "3,500",
+        "water_price_max": "3,500",
+        "照明:": "2 x 2.5瓦 (LED燈)",
+        "排風口直徑:": "150mm",
+        "尺寸:": "323 x 898 x 301-454mm"
+    },
+    {
+        "names": "Giggas 上將 T型歐式抽油煙機 GT-970II",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "4,610",
+        "耗電量:": "280W",
+        "排風量:": "1080立方米/小時",
+        "尺寸:": "390 x 700 x 355"
+    },
+    {
+        "names": "Pacific 太平洋 電熱除油系列易拆式標準抽油煙機 PR-8199-70",
+        "rating": "10",
+        "hon_price_min": "2,360",
+        "hon_price_max": "3,330",
+        "摩打轉速:": "2800",
+        "尺寸:": "連螺絲 710 (凈機700) x 520 x 135mm"
+    },
+    {
+        "names": "Garwoods 樂思 煙囪式抽油煙機 HT-3698SG",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,800",
+        "照明:": "LED燈條照明",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 360 x 365-815mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-7328",
+        "rating": "6.0",
+        "hon_price_min": "2,790",
+        "hon_price_max": "3,950",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 700 x 356mm"
+    },
+    {
+        "names": "Brandt 白朗 煙囪式抽油煙機 AD996XC",
+        "rating": "",
+        "hon_price_min": "4,135",
+        "hon_price_max": "4,588",
+        "排風量:": "950m³/h",
+        "尺寸:": "80 x 898 x 500mm (without chimney)"
+    },
+    {
+        "names": "Metropol 米勒寶 櫥櫃一體不銹鋼抽油煙機 MLB-777",
+        "rating": "6.0",
+        "hon_price_min": "950",
+        "hon_price_max": "2,990",
+        "water_price_min": "798",
+        "water_price_max": "1,050",
+        "耗電量:": "250W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "710 x 400 x 125mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 掛牆煙囱式抽油煙機 AKR5101",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "5,340",
+        "排風量:": "1200m³/hr",
+        "尺寸:": "555-984 x 900 x 488mm"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-8328",
+        "rating": "6.0",
+        "hon_price_min": "2,480",
+        "hon_price_max": "3,740",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 800 x 356 mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 伸縮式抽油煙機 AKR273.1/IX",
+        "rating": "",
+        "hon_price_min": "3,610",
+        "hon_price_max": "3,793",
+        "照明:": "2 x 2.5瓦 (LED燈)",
+        "排風口直徑:": "150mm",
+        "尺寸:": "323 x 598 x 301-454mm"
+    },
+    {
+        "names": "Hibachi 氣霸 不銹鋼易拆式抽油煙機  HY-2880S",
+        "rating": "6.0",
+        "hon_price_min": "510",
+        "hon_price_max": "2,090",
+        "尺寸:": "730mm x 510mm x 130mm"
+    },
+    {
+        "names": "MIELE Puristic Maxime 掛牆式抽油煙機 DA 5328 W",
+        "rating": "",
+        "hon_price_min": "36,800",
+        "hon_price_max": "36,800",
+        "照明:": "LED"
+    },
+    {
+        "names": "Panasonic 樂聲 煙囪式抽油煙機 FV-953P",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "3,198",
+        "尺寸:": "894 x 566 x 535mm"
+    },
+    {
+        "names": "German West 西德寶 易拆式高速摩打抽油煙機 GW-738",
+        "rating": "4.0",
+        "hon_price_min": "950",
+        "hon_price_max": "1,750",
+        "water_price_min": "700",
+        "water_price_max": "800",
+        "摩打轉速:": "2000-4000",
+        "尺寸:": "710 x 520 x 130mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆式油煙機 PR-8133-70",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "2,290",
+        "摩打轉速:": "2800",
+        "尺寸:": "700 x 135 x 520mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-8428",
+        "rating": "8.0",
+        "hon_price_min": "2,890",
+        "hon_price_max": "4,240",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 800 x 457mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-FS2290VP",
+        "rating": "",
+        "hon_price_min": "7,180",
+        "hon_price_max": "7,580",
+        "照明:": "LED燈",
+        "尺寸:": "890 x 550 x 150mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 掛牆煙囱式抽油煙機 AKR4985/IX",
+        "rating": "9.0",
+        "hon_price_min": "2,450",
+        "hon_price_max": "3,550",
+        "照明:": "2 x 2W (LED燈)",
+        "排風口直徑:": "150mm",
+        "尺寸:": "510-970 x 900 x 480mm"
+    },
+    {
+        "names": "Lighting 星暉 易拆式抽油煙機 LJ-4800G",
+        "rating": "7.4",
+        "hon_price_min": "1,150",
+        "hon_price_max": "3,160",
+        "water_price_min": "650",
+        "water_price_max": "910",
+        "摩打轉速:": "1700 (每邊)",
+        "尺寸:": "W715XD520XH130 MM"
+    },
+    {
+        "names": "Pacific 太平洋 標準雙摩打系列抽油煙機 PR-28",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "20,220",
+        "摩打轉速:": "1600RPM",
+        "尺寸:": "700 x 530 x 170mm"
+    },
+    {
+        "names": "NODOR Mirage Premium S 1200 煙導式抽油煙機",
+        "rating": "",
+        "hon_price_min": "10,098",
+        "hon_price_max": "10,700",
+        "耗電量:": "130W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "1200 x 500 x 635-1030mm"
+    },
+    {
+        "names": "electriQ 電熱除油易拆式傾斜抽油煙機 QRMI-7000",
+        "rating": "8.0",
+        "hon_price_min": "3,180",
+        "hon_price_max": "4,980",
+        "尺寸:": "700 x 372 x 505mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-9428",
+        "rating": "8.0",
+        "hon_price_min": "3,140",
+        "hon_price_max": "4,380",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 900 x 457mm"
+    },
+    {
+        "names": "Rasonic 樂信 煙囪式抽油煙機 (LED輕觸式面板設計) RRH-GT50",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "3,800",
+        "water_price_min": "2,400",
+        "water_price_max": "2,400",
+        "耗電量:": "335W",
+        "排風口直徑:": "152mm",
+        "尺寸:": "896 x 370 x 350mm"
+    },
+    {
+        "names": "Bosch Serie 6 傾斜煙囪式抽油煙機 DWK97JM20",
+        "rating": "",
+        "hon_price_min": "15,780",
+        "hon_price_max": "18,800",
+        "照明:": "2 x 1.5W LED 燈",
+        "排風量:": "722m3/h"
+    },
+    {
+        "names": "Garwoods 樂思 裝飾型煙囪式抽油煙機 HT-8238G",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "3,900",
+        "排風量:": "900立方米/小時",
+        "尺寸:": "750 x 500 x 830-1230mm"
+    },
+    {
+        "names": "Bondini 雪白 易拆式 Turbo 油煙機 BT-250S",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "2,120",
+        "water_price_min": "1,200",
+        "water_price_max": "1,200",
+        "摩打轉速:": "2850轉",
+        "排風量:": "19m³/h",
+        "尺寸:": "705 x 520 x 120mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-9457",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "4,580",
+        "摩打轉速:": "2800",
+        "排風口直徑:": "150mm",
+        "尺寸:": "898 x 457 x 330-660mm"
+    },
+    {
+        "names": "Pacific 太平洋 自動清洗抽油煙機 PR-8188-70",
+        "rating": "8.0",
+        "hon_price_min": "2,270",
+        "hon_price_max": "3,300",
+        "摩打轉速:": "2800",
+        "尺寸:": "W705xD520xH145mm"
+    },
+    {
+        "names": "AKAI 雅佳 90厘米煙囪式抽油煙機 AK-BH921",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "2,960",
+        "耗電量:": "290W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 500 x 450-830m"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列抽拉式抽油煙機 TF-600W",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "2,330",
+        "耗電量:": "330W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "(H)185 x (W)600 x (D)280mm"
+    },
+    {
+        "names": "TGC EXCEL+ 710 抽油煙機",
+        "rating": "10",
+        "hon_price_min": "3,450",
+        "hon_price_max": "4,220",
+        "摩打轉速:": "2250 特強",
+        "排風量:": "16.7立方米/分鐘",
+        "排風口直徑:": "150mm",
+        "尺寸:": "655-1177 x 710 x 535mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-6328",
+        "rating": "",
+        "hon_price_min": "2,690",
+        "hon_price_max": "3,840",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 600 x 356mm"
+    },
+    {
+        "names": "Fujioh 富士皇 側抽式油煙機 FR-SC2070P",
+        "rating": "",
+        "hon_price_min": "8,696",
+        "hon_price_max": "9,990",
+        "water_price_min": "8,650",
+        "water_price_max": "8,650",
+        "照明:": "LED",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 544 x 445mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 掛牆煙囱式抽油煙機 AKR5101IX",
+        "rating": "",
+        "hon_price_min": "3,450",
+        "hon_price_max": "5,400",
+        "照明:": "2 x 2W (LED燈)",
+        "排風口直徑:": "170mm",
+        "尺寸:": "555-984 x 900 x 488mm"
+    },
+    {
+        "names": "General Tech 名將 台式抽油煙機 GT-RH82",
+        "rating": "",
+        "hon_price_min": "1,778",
+        "hon_price_max": "2,290",
+        "摩打轉速:": "1200 r.p.m",
+        "排風口直徑:": "150mm",
+        "尺寸:": "710 x 125 x 450mm"
+    },
+    {
+        "names": "Pacific 太平洋 嵌入式抽油煙機 PR-2366-90",
+        "rating": "",
+        "hon_price_min": "2,670",
+        "hon_price_max": "3,445",
+        "摩打轉速:": "2800",
+        "尺寸:": "879 x 323 x 182.4mm"
+    },
+    {
+        "names": "Giggas 上將 易拆式抽油煙機 PT-2222",
+        "rating": "8.3",
+        "hon_price_min": "1,000",
+        "hon_price_max": "4,080",
+        "water_price_min": "1,050",
+        "water_price_max": "1,050",
+        "照明:": "<2W",
+        "尺寸:": "700X370X470"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-7428",
+        "rating": "",
+        "hon_price_min": "2,890",
+        "hon_price_max": "4,100",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 700 x 457mm"
+    },
+    {
+        "names": "Sanki 山崎 易拆式抽油煙機 SK-2280W/T",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "2,500",
+        "摩打轉速:": "2300轉",
+        "尺寸:": "710 x 540 x 130mm"
+    },
+    {
+        "names": "Athens 金雅典 幸運星系列環保易拆式抽油煙機 NC-328EIEC",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "3,350",
+        "water_price_min": "2,550",
+        "water_price_max": "2,550",
+        "摩打轉速:": "每邊轉速2500R.P.M、雙馬達設計",
+        "排風口直徑:": "6\" / 152mm",
+        "尺寸:": "710 x 510 x 120mm"
+    },
+    {
+        "names": "Lighting 星暉 歐式倒T型抽油煙機 LGH90TWL",
+        "rating": "",
+        "hon_price_min": "4,720",
+        "hon_price_max": "5,280",
+        "water_price_min": "4,180",
+        "water_price_max": "4,180",
+        "耗電量:": "220W",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "890 x 490 x 360mm"
+    },
+    {
+        "names": "Simpa 簡栢 抽油煙機 SWZR721",
+        "rating": "7.0",
+        "hon_price_min": "1,430",
+        "hon_price_max": "2,050",
+        "摩打轉速:": "1350 rpm",
+        "尺寸:": "130 x 710 x 510mm"
+    },
+    {
+        "names": "Philco 飛歌 拉趟式抽油煙機 GH806SNL",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,889",
+        "耗電量:": "111W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "600 x 280 x 182mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 纖薄掛牆煙囱式抽油煙機 AKT3570/IX",
+        "rating": "10",
+        "hon_price_min": "2,780",
+        "hon_price_max": "4,180",
+        "照明:": "1 x 5W (LED燈條)",
+        "排風口直徑:": "152mm",
+        "尺寸:": "526-957 x 700 x 350mm"
+    },
+    {
+        "names": "Bondini 雪白 電熱除油易拆式油煙機 BT-128SE",
+        "rating": "8.0",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,710",
+        "water_price_min": "1,500",
+        "water_price_max": "1,500",
+        "摩打轉速:": "2850轉",
+        "排風量:": "17.5m³/h",
+        "尺寸:": "705 x 520 x 100mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 自動清洗及易拆二合一系列油煙機 HC768",
+        "rating": "6.4",
+        "hon_price_min": "1,500",
+        "hon_price_max": "2,705",
+        "water_price_min": "1,500",
+        "water_price_max": "1,500",
+        "耗電量:": "14W",
+        "尺寸:": "135 x 710 x 522mm"
+    },
+    {
+        "names": "Summe 德國卓爾 無縫易拆式不鏽鋼抽油煙機 SCH-1601ST",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "2,800",
+        "water_price_min": "600",
+        "water_price_max": "600",
+        "摩打轉速:": "3500 R.P.M. (Max.)",
+        "排風口直徑:": "152mm",
+        "尺寸:": "705 x 120 x 410mm"
+    },
+    {
+        "names": "White-Westinghouse 易拆式抽油煙機 WHT28S",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,390",
+        "water_price_min": "400",
+        "water_price_max": "400",
+        "摩打轉速:": "1700",
+        "尺寸:": "710 x 128 x 515mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導式抽油煙機 GPR-I1200L",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "5,950",
+        "耗電量:": "247W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "635-1035 x 500 x 1200mm"
+    },
+    {
+        "names": "Hibachi 氣霸 抽拉式抽油煙機 HY-D23.6",
+        "rating": "10",
+        "hon_price_min": "760",
+        "hon_price_max": "1,950",
+        "water_price_min": "720",
+        "water_price_max": "720",
+        "尺寸:": "600mm x 280mm x 180mm"
+    },
+    {
+        "names": "Bosch Serie 6 傾斜煙囪式抽油煙機 DWK98JQ66",
+        "rating": "",
+        "hon_price_min": "15,980",
+        "hon_price_max": "18,800"
+    },
+    {
+        "names": "Datalab 百勝 易拆式抽油煙機 DCHS-3600G",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "760",
+        "water_price_min": "600",
+        "water_price_max": "600",
+        "排風量:": "780m³/h",
+        "尺寸:": "710 x 520 x 100mm"
+    },
+    {
+        "names": "Philco 飛歌 煙囪式抽油煙機 PC700SNL",
+        "rating": "",
+        "hon_price_min": "2,660",
+        "hon_price_max": "3,808",
+        "耗電量:": "230W",
+        "排風量:": "1110m³/h",
+        "尺寸:": "830-1145 x 700 x 500mm"
+    },
+    {
+        "names": "Hibachi 氣霸 易拆式雙速抽油煙機 HY-2288",
+        "rating": "9.3",
+        "hon_price_min": "420",
+        "hon_price_max": "1,300",
+        "尺寸:": "730mm x 510mm x 130mm"
+    },
+    {
+        "names": "Giggas 上將 黑旋風抽油煙機 G70S",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "2,290",
+        "摩打轉速:": "3800",
+        "排風量:": "1220立方米/小時",
+        "排風口直徑:": "153mm",
+        "尺寸:": "165 x 705 x 520mm"
+    },
+    {
+        "names": "German Pool 德國寶 抽拉式抽油煙機 TFT-600",
+        "rating": "8.0",
+        "hon_price_min": "2,040",
+        "hon_price_max": "2,656",
+        "耗電量:": "247W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "271 x 600 x 280-460mm"
+    },
+    {
+        "names": "Hibachi 氣霸 不銹鋼抽油煙機 HY-1680",
+        "rating": "10",
+        "hon_price_min": "530",
+        "hon_price_max": "1,450",
+        "尺寸:": "598*510*130"
+    },
+    {
+        "names": "White-Westinghouse 易拆式抽油煙機 WRH602X",
+        "rating": "10",
+        "hon_price_min": "950",
+        "hon_price_max": "1,490",
+        "耗電量:": "2 x 140瓦W",
+        "排風口直徑:": "120毫米mm",
+        "尺寸:": "85x 600x 480毫米"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-CL1890VP",
+        "rating": "",
+        "hon_price_min": "13,600",
+        "hon_price_max": "16,800",
+        "water_price_min": "13,900",
+        "water_price_max": "13,900",
+        "尺寸:": "900 x 600 x 550-960mm"
+    },
+    {
+        "names": "German Pool 德國寶 抽拉式抽油煙機 TFT-900",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,794",
+        "耗電量:": "247W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "271 x 900 x 280-460mm"
+    },
+    {
+        "names": "Misoko 電熱除油不銹鋼易拆式抽油煙機 MR-338",
+        "rating": "9.0",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,380",
+        "摩打轉速:": "3段",
+        "排風量:": "19m3/min",
+        "尺寸:": "705(闊) x 512(高) x 160(深)mm"
+    },
+    {
+        "names": "Simpa 簡栢 易拆式抽油煙機 STR723D",
+        "rating": "8.0",
+        "hon_price_min": "1,750",
+        "hon_price_max": "2,350",
+        "摩打轉速:": "1800 RPM",
+        "排風口直徑:": "150mm",
+        "尺寸:": "150 x 710 x 550mm"
+    },
+    {
+        "names": "Ocean 海洋 自動清洗抽油煙機 C9002A",
+        "rating": "10",
+        "hon_price_min": "2,670",
+        "hon_price_max": "3,808",
+        "摩打轉速:": "2800RPM",
+        "排風量:": "1100cu.ft./min",
+        "排風口直徑:": "150mm",
+        "尺寸:": "895 x 320 x 180mm"
+    },
+    {
+        "names": "Fujioh 富士皇 SLM系列纖薄排氣型抽油煙機 SLM-600V",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,580",
+        "耗電量:": "140W",
+        "尺寸:": "600 x 460 x 120mm"
+    },
+    {
+        "names": "Bosch Serie 6 島式抽油煙機 DIB98JQ50B",
+        "rating": "",
+        "hon_price_min": "20,600",
+        "hon_price_max": "24,115",
+        "耗電量:": "166W",
+        "排風量:": "867m³/h"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-6328",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "3,480",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 600 x 356 mm"
+    },
+    {
+        "names": "Summe 德國卓爾 電熱除油抽油煙機 SCH-9800T",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "water_price_min": "2,990",
+        "water_price_max": "2,990",
+        "摩打轉速:": "3500 R.P.M. (Max.)",
+        "排風口直徑:": "152mm",
+        "尺寸:": "713 x 300 x 372mm"
+    },
+    {
+        "names": "Hibachi 氣霸 不銹鋼油網抽油煙機  HY-2880",
+        "rating": "8.0",
+        "hon_price_min": "490",
+        "hon_price_max": "1,350",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "尺寸:": "730mm x 510mm x 130mm"
+    },
+    {
+        "names": "Simpa 簡栢 抽油煙機 SSTR73D",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "2,050",
+        "摩打轉速:": "高: 1400R.P.M, 低: 1300R.P.M",
+        "排風量:": "高: 11.5m³/min, 低: 10.2m³/min",
+        "排風口直徑:": "152mm",
+        "尺寸:": "100 x 710 x 510mm"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 天花式抽油煙機 LR97CAQ50B",
+        "rating": "",
+        "hon_price_min": "17,890",
+        "hon_price_max": "24,658",
+        "排風量:": "798m³/h (EN 61591)",
+        "尺寸:": "299 x 900 x 500mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-HS1870V",
+        "rating": "",
+        "hon_price_min": "2,139",
+        "hon_price_max": "2,780",
+        "耗電量:": "98/121/145W",
+        "排風量:": "300/360/420m³/h",
+        "尺寸:": "698 x 515 x 140mm"
+    },
+    {
+        "names": "Frigidaire 北極 拖拉式抽油煙機 FTH61200C",
+        "rating": "",
+        "hon_price_min": "1,428",
+        "hon_price_max": "1,998",
+        "照明:": "2 x 40W 照明燈",
+        "尺寸:": "600 x 459 x 231mm"
+    },
+    {
+        "names": "Garwoods 樂思 70厘米煙囪式抽油煙機 HT-3572SG",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "3,600",
+        "照明:": "LED燈條照明",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 505 x 550-1030mm"
+    },
+    {
+        "names": "Philco 飛歌 煙囪式抽油煙機 PC1200SNL",
+        "rating": "",
+        "hon_price_min": "1,460",
+        "hon_price_max": "6,300",
+        "耗電量:": "340W",
+        "排風量:": "1110m³/h",
+        "尺寸:": "830-1145 x 1200 x  500mm"
+    },
+    {
+        "names": "Cimatech 抽拉式抽油煙機 CH902NT",
+        "rating": "10",
+        "hon_price_min": "2,858",
+        "hon_price_max": "3,569",
+        "耗電量:": "320W",
+        "尺寸:": "900 x 483 x 270mm"
+    },
+    {
+        "names": "Hibachi 氣霸 不銹鋼易拆式抽油煙機 HY-3680S",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,500",
+        "排風量:": "12m³/min (±10%)",
+        "尺寸:": "710 x 510 x 130mm"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 掛牆煙囪式抽油煙機連油杯 EFC926SA",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "7,062",
+        "摩打轉速:": "3段風速＋1段強力設定",
+        "排風量:": "每小時 1,140 立方米",
+        "尺寸:": "612-1092 x 900 x 500mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級變頻DC摩打抽油煙機 RDC-6356",
+        "rating": "10",
+        "hon_price_min": "2,750",
+        "hon_price_max": "3,970",
+        "耗電量:": "318W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "598 x 356 x 330-660mm"
+    },
+    {
+        "names": "German Pool 德國寶 超薄龍捲風台式抽油煙機 TOT-823",
+        "rating": "6.0",
+        "hon_price_min": "1,730",
+        "hon_price_max": "2,710",
+        "摩打轉速:": "2300 RPM (max)",
+        "排風量:": "1000 m³/hr",
+        "尺寸:": "100 x 795 x 508mm"
+    },
+    {
+        "names": "electriQ 電熱除油易拆式抽油煙機 QRMA-7153",
+        "rating": "",
+        "hon_price_min": "1,920",
+        "hon_price_max": "2,480",
+        "照明:": "LED",
+        "尺寸:": "710 x 530 x 130mm"
+    },
+    {
+        "names": "White-Westinghouse 電熱除油易拆式抽油煙機 WHH28DS",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,750",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "摩打轉速:": "1700",
+        "尺寸:": "710 x 128 x 515mm"
+    },
+    {
+        "names": "TGC Senses+ 900 抽油煙機",
+        "rating": "10",
+        "hon_price_min": "3,040",
+        "hon_price_max": "4,200",
+        "摩打轉速:": "2250",
+        "排風量:": "13",
+        "排風口直徑:": "150mm",
+        "尺寸:": "655-1177 x 900 x 515mm"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-L428S",
+        "rating": "2.0",
+        "hon_price_min": "3,970",
+        "hon_price_max": "5,190",
+        "摩打轉速:": "2800",
+        "排風量:": "Max 1000 ± 50 M³/hr",
+        "尺寸:": "55 x 1200 x 457mm"
+    },
+    {
+        "names": "German West 西德寶 不銹鋼嵌入式抽油煙機 GW-928",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "2,327",
+        "water_price_min": "1,100",
+        "water_price_max": "1,100",
+        "照明:": "LED白光燈",
+        "尺寸:": "700 x 360 x 50mm, 嵌入式煙通尺寸 : 256mm (W) x 270mm(D) x 250mm(H)"
+    },
+    {
+        "names": "Philco 飛歌 拖拉式抽油煙機 GH1206S",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "2,280"
+    },
+    {
+        "names": "Summe 德國卓爾 無縫易拆式不鏽鋼抽油煙機 SCH-7701ST",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "3,080",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "摩打轉速:": "3500 R.P.M. (Max.)",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 140 x 510mm"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET916X",
+        "rating": "10",
+        "hon_price_min": "2,460",
+        "hon_price_max": "3,308",
+        "照明:": "2 x 1.5W LED燈",
+        "排風口直徑:": "150mm",
+        "尺寸:": "440-820 x 900 x 500mm"
+    },
+    {
+        "names": "AKAI 雅隹 90厘米煙囪式抽油煙機 AK-BH977",
+        "rating": "",
+        "hon_price_min": "2,460",
+        "hon_price_max": "3,760",
+        "耗電量:": "290W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 500 x 450-830mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列抽拉式抽油煙機 TF-900W",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,630",
+        "耗電量:": "330W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "(H)185 x (W)900 x (D)280mm"
+    },
+    {
+        "names": "Garwoods 樂思 60厘米煙導式抽油煙機 HT-3562SG",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "3,600",
+        "排風量:": "1000立方米/小時",
+        "尺寸:": "600 x 505 x 550-1030mm"
+    },
+    {
+        "names": "Hannes Muller 德國漢斯 易拆式抽油煙機 HM-128W",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "1,410",
+        "摩打轉速:": "2800-3200rpm",
+        "尺寸:": "710 x 505 x 100mm"
+    },
+    {
+        "names": "Fujioh 富士皇 側抽式油煙機 FR-SC2090P",
+        "rating": "",
+        "hon_price_min": "9,117",
+        "hon_price_max": "10,530",
+        "water_price_min": "9,000",
+        "water_price_max": "9,000",
+        "照明:": "LED 燈",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 544 x 445mm"
+    },
+    {
+        "names": "Philco 飛歌 煙囪式抽油煙機 PC900BTNL",
+        "rating": "10",
+        "hon_price_min": "2,060",
+        "hon_price_max": "3,498",
+        "耗電量:": "300W",
+        "排風量:": "1020m³/h",
+        "尺寸:": "900 x 690-1020 x 500mm"
+    },
+    {
+        "names": "Teka 德格 拉趟式抽油煙機 CNL9815-PLUS",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "4,050",
+        "耗電量:": "277W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 300/490 x 274mm"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-7428",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "4,000",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 700 x 457 mm"
+    },
+    {
+        "names": "Garwoods 樂思 遮罩式抽油煙機 HT-2750G",
+        "rating": "",
+        "hon_price_min": "2,240",
+        "hon_price_max": "3,500",
+        "照明:": "LED燈條照明",
+        "排風口直徑:": "150mm",
+        "尺寸:": "750 x 300 x 305mm"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET613X",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,108",
+        "照明:": "2 x 1.5W LED燈",
+        "排風口直徑:": "150mm",
+        "尺寸:": "440-820 x 600 x 500mm"
+    },
+    {
+        "names": "Summe 德國卓爾 易拆式抽油煙機 SCH-6300D (停產)",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "1,280",
+        "照明:": "有",
+        "尺寸:": "710 x 100 x 500mm"
+    },
+    {
+        "names": "German Electric 抽油煙機 RH08",
+        "rating": "10",
+        "hon_price_min": "1,770",
+        "hon_price_max": "2,800",
+        "摩打轉速:": "1090 (標準)/2180 (最高)",
+        "排風量:": "1000 m³/h",
+        "排風口直徑:": "210mm",
+        "尺寸:": "W695mm x D378mm x H450mm"
+    },
+    {
+        "names": "KDK 易拆式抽油煙機 711K",
+        "rating": "10",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,800",
+        "摩打轉速:": "911RPM",
+        "尺寸:": "闊700x高120x深535mm"
+    },
+    {
+        "names": "Nutzen 半嵌入式電熱除油體感雙摩打抽油煙機 NRHN-600",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,360",
+        "排風量:": "1000m³/h",
+        "尺寸:": "710 x 400 x 130mm"
+    },
+    {
+        "names": "NODOR Extender Plus 900 X  嵌入式抽油煙機",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,880",
+        "耗電量:": "247W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "600 x 300 x 352mm"
+    },
+    {
+        "names": "Summe 德國卓爾 無縫易拆式不鏽鋼抽油煙機 SCH-7800ST",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,900",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "耗電量:": "300W",
+        "排風口直徑:": "152mm",
+        "尺寸:": "705 x 120 x 510mm"
+    },
+    {
+        "names": "Giggas 上將 黑旋風抽油煙機 PT-28S",
+        "rating": "8.0",
+        "hon_price_min": "800",
+        "hon_price_max": "2,180",
+        "摩打轉速:": "1250 (每分鐘)",
+        "尺寸:": "710 x 530 x 125mm"
+    },
+    {
+        "names": "Midea美的 60cm拉趟式抽油煙機 MCHT60L07",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "3,398",
+        "照明:": "LED照明",
+        "排風口直徑:": "150mm",
+        "尺寸:": "595 x 308 x 255mm"
+    },
+    {
+        "names": "Bondini 雪白 電熱除油易拆式抽油煙機 BT330S-60",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "3,540",
+        "摩打轉速:": "2800轉",
+        "尺寸:": "120 x 595 x 400mm"
+    },
+    {
+        "names": "Hibachi 氣霸 歐陸式T型抽油煙機 HY-138-D700S5",
+        "rating": "10",
+        "hon_price_min": "1,090",
+        "hon_price_max": "2,680",
+        "water_price_min": "1,100",
+        "water_price_max": "1,100",
+        "排風量:": "16m³/min",
+        "尺寸:": "700x485x445mm"
+    },
+    {
+        "names": "TGC 抽油煙機 TR712",
+        "rating": "10",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,890",
+        "摩打轉速:": "1300",
+        "排風量:": "11.2每分鐘立方米",
+        "排風口直徑:": "150mm",
+        "尺寸:": "250 x 710 x 530mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 W Collection 煙囪式抽油煙機 WHSS90FLTCK",
+        "rating": "",
+        "hon_price_min": "8,410",
+        "hon_price_max": "10,900",
+        "照明:": "LED燈條",
+        "尺寸:": "898 x 740 x 320mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導式抽油煙機 GPR-I900L",
+        "rating": "",
+        "hon_price_min": "3,940",
+        "hon_price_max": "4,640",
+        "耗電量:": "247W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "635-1035 x 500 x 900mm"
+    },
+    {
+        "names": "Hannes Muller 德國漢斯 易拆式抽油煙機 HM-138S",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,880",
+        "摩打轉速:": "3800-4600rpm",
+        "尺寸:": "710 x 520 x 130mm"
+    },
+    {
+        "names": "Philco 飛歌 拉趟式抽油煙機 GH1109SNL",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,250",
+        "照明:": "2 x 3.5W LED Lamp",
+        "尺寸:": "900 x 280-440 x 27mm"
+    },
+    {
+        "names": "Midea美的 90cm傾斜式煙囪抽油煙機 MCHC90B68",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "5,953",
+        "照明:": "LED照明",
+        "排風口直徑:": "180mm",
+        "尺寸:": "895 x 985-1305 x 416mm"
+    },
+    {
+        "names": "TGC ALI 700 抽油煙機",
+        "rating": "",
+        "hon_price_min": "3,158",
+        "hon_price_max": "3,700",
+        "摩打轉速:": "高 1016 / 中 910 / 低 716",
+        "排風量:": "特強排風量 19.5m³/min, 中 17.3m³/min, 低 13.2m³/min",
+        "排風口直徑:": "150mm",
+        "尺寸:": "580-850 x 696 x 383mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆式抽油煙機 PR-2090",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "4,190",
+        "摩打轉速:": "2850rpm",
+        "排風量:": "19",
+        "排風口直徑:": "151mm",
+        "尺寸:": "356X894X475mm"
+    },
+    {
+        "names": "Summe 德國卓爾 易拆式抽油煙機 SCH-6300 (停產)",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "1,290",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "照明:": "有",
+        "尺寸:": "10 x 100 x 520mm"
+    },
+    {
+        "names": "Rosieres 煙囪式抽油煙機 RBE60IN",
+        "rating": "",
+        "hon_price_min": "3,879",
+        "hon_price_max": "4,328",
+        "照明:": "2個20W鹵素燈",
+        "尺寸:": "730-1045 x 600 x 500mm"
+    },
+    {
+        "names": "Bondini 雪白 電熱除油易拆式抽油煙機 BT-330S-70",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,620",
+        "water_price_min": "1,500",
+        "water_price_max": "1,500",
+        "摩打轉速:": "2800轉",
+        "尺寸:": "695 x 400 x 120mm"
+    },
+    {
+        "names": "Campus Smart Sense 智能感應煙囪式抽油煙機 ARHT700S",
+        "rating": "9.1",
+        "hon_price_min": "3,058",
+        "hon_price_max": "5,399",
+        "water_price_min": "2,900",
+        "water_price_max": "2,900",
+        "排風量:": "1150立方米/小時",
+        "尺寸:": "700 x 500 x 570mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-8328",
+        "rating": "8.0",
+        "hon_price_min": "2,890",
+        "hon_price_max": "4,100",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 800 x 356mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導式抽油煙機 GPR-S700L",
+        "rating": "2.0",
+        "hon_price_min": "3,670",
+        "hon_price_max": "4,480",
+        "耗電量:": "257W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "785 x 700 x 500mm"
+    },
+    {
+        "names": "Philco 飛歌 易拆式抽油煙機 PSED70TS",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "2,020",
+        "摩打轉速:": "1850",
+        "排風口直徑:": "152mm",
+        "尺寸:": "165 x 705 x 520mm"
+    },
+    {
+        "names": "Lighting 星暉 歐式倒T型抽油煙機 LJ-603-7S",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "4,280",
+        "water_price_min": "1,780",
+        "water_price_max": "2,690",
+        "尺寸:": "700 x 360 x 55mm"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 掛牆式設計大師抽油煙機 EFS928SA",
+        "rating": "6.0",
+        "hon_price_min": "5,950",
+        "hon_price_max": "9,600",
+        "排風量:": "Maximum output air extraction (m3/h) 1500",
+        "尺寸:": "H(mm) 938-1355 W (mm) 900 D(mm) 395"
+    },
+    {
+        "names": "Lighting 星暉 歐式倒T型抽油煙機 LG-480S9",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,780",
+        "water_price_min": "3,580",
+        "water_price_max": "3,580",
+        "耗電量:": "220W",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "896 x 370 x 350mm"
+    },
+    {
+        "names": "Philco 飛歌 煙導式抽油煙機 PHW900TM",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "4,900"
+    },
+    {
+        "names": "Baumatic 電熱除油易拆式抽油煙機 BE712BL",
+        "rating": "",
+        "hon_price_min": "2,858",
+        "hon_price_max": "3,772",
+        "摩打轉速:": "1600 RPM",
+        "排風量:": "1300m³/hr",
+        "排風口直徑:": "150mm",
+        "尺寸:": "185 x 705 x 420mm"
+    },
+    {
+        "names": "German Pool 德國寶 超薄龍捲風台式抽油煙機 TOT-623",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,880",
+        "摩打轉速:": "1650±50RPM (standard) 2300±50RPM (max)",
+        "排風量:": "900m³/hr",
+        "排風口直徑:": "150mm",
+        "尺寸:": "595 x 100 x 510mm"
+    },
+    {
+        "names": "NODOR Dali 900 掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "8,900",
+        "hon_price_max": "11,300",
+        "耗電量:": "137W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "900 x 450 x 875-1205mm"
+    },
+    {
+        "names": "TanTin 抽油煙機 MCHS-7101",
+        "rating": "10",
+        "hon_price_min": "500",
+        "hon_price_max": "850",
+        "尺寸:": "710 x 520 x 100mm"
+    },
+    {
+        "names": "Kuzzo 德信牌 電熱除油易拆式抽油煙機 KX-TURBO-700",
+        "rating": "",
+        "hon_price_min": "1,798",
+        "hon_price_max": "2,189",
+        "照明:": "LED"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 拖拉式抽油煙機 EFP90460OS",
+        "rating": "",
+        "hon_price_min": "3,618",
+        "hon_price_max": "5,236",
+        "照明:": "LED 3 x 2",
+        "尺寸:": "301 x 898 x 300mm"
+    },
+    {
+        "names": "Garwoods 樂思 90厘米煙導式抽油煙機 HT-3590SG",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "3,930",
+        "照明:": "LED燈條照明",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 505 x 540-1020mm"
+    },
+    {
+        "names": "Elica Thin 90厘米煙囪式抽油煙機",
+        "rating": "",
+        "hon_price_min": "5,878",
+        "hon_price_max": "6,048",
+        "耗電量:": "277W",
+        "排風量:": "680m³/h",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "General Tech 名將 傾斜煙囪式抽油煙機 GT-RH86",
+        "rating": "",
+        "hon_price_min": "1,920",
+        "hon_price_max": "2,660",
+        "摩打轉速:": "1200 r.p.m",
+        "排風口直徑:": "160mm",
+        "尺寸:": "700 x 366 x 435mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 伸縮式抽油煙機 AKR273/IX",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "3,950",
+        "尺寸:": "323 x 598 x 302-454 mm"
+    },
+    {
+        "names": "Athens 金雅典 Royal Series 皇室系列煙導式抽油煙機 RS-1200 IEC",
+        "rating": "",
+        "hon_price_min": "25,280",
+        "hon_price_max": "29,940",
+        "照明:": "4 x 1W LED",
+        "尺寸:": "1210 x 560 x 145mm"
+    },
+    {
+        "names": "Athens 金雅典 Royal Series 皇室系列易拆式抽油煙機 RS-1100 IEC",
+        "rating": "",
+        "hon_price_min": "21,490",
+        "hon_price_max": "24,540",
+        "照明:": "有",
+        "尺寸:": "1060 x 560 x 145mm"
+    },
+    {
+        "names": "Candy 嵌入式抽油煙機 CBT6252X",
+        "rating": "",
+        "hon_price_min": "1,340",
+        "hon_price_max": "1,930",
+        "排風量:": "2級滑動式控制",
+        "尺寸:": "600 x 176 x 430mm"
+    },
+    {
+        "names": "Lighting 星暉 歐式倒T型抽油煙機 LJ-603-9X",
+        "rating": "9.3",
+        "hon_price_min": "2,580",
+        "hon_price_max": "4,280",
+        "water_price_min": "1,990",
+        "water_price_max": "2,680",
+        "尺寸:": "900W x 515D x 55H (mm)"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 壁掛式頂蓋抽油煙機 HC120DCXB3",
+        "rating": "",
+        "hon_price_min": "10,405",
+        "hon_price_max": "10,470",
+        "耗電量:": "248W",
+        "尺寸:": "1198 x 595-1035 x 500mm"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 拖拉式抽油煙機 EFP60473OS",
+        "rating": "",
+        "hon_price_min": "2,988",
+        "hon_price_max": "4,990",
+        "耗電量:": "56W",
+        "排風量:": "757",
+        "尺寸:": "301 x 598 x 300mm"
+    },
+    {
+        "names": "Sakura 櫻花 嵌入式抽油煙機 SR-B700",
+        "rating": "6.7",
+        "hon_price_min": "1,720",
+        "hon_price_max": "2,950",
+        "摩打轉速:": "1600rpm",
+        "排風量:": "15",
+        "排風口直徑:": "152mm",
+        "尺寸:": "180X715X330mm"
+    },
+    {
+        "names": "Lighting 星暉 易拆式抽油煙機 (不銹鋼) LJ-4700S",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "3,160",
+        "water_price_min": "1,100",
+        "water_price_max": "1,100",
+        "耗電量:": "220W",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "710 x 515 x 160mm"
+    },
+    {
+        "names": "Cimatech 煙導式抽油煙機 CH201N-1200",
+        "rating": "10",
+        "hon_price_min": "4,257",
+        "hon_price_max": "5,690",
+        "water_price_min": "4,800",
+        "water_price_max": "4,800",
+        "耗電量:": "310W",
+        "排風口直徑:": "120/150mm",
+        "尺寸:": "1200 x 470 x 570-890mm"
+    },
+    {
+        "names": "Bondini 雪白 易拆式 Turbo 油煙機 BR-368G",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,950",
+        "照明:": "9W慳電膽",
+        "尺寸:": "120 x 710 x 515mm"
+    },
+    {
+        "names": "Milobrat 易拆式抽油煙機 MBH-728G",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,760",
+        "摩打轉速:": "2800",
+        "尺寸:": "710 x 505 x 100mm"
+    },
+    {
+        "names": "Sanki 山崎 歐洲式抽油煙機 SK-RH1189",
+        "rating": "",
+        "hon_price_min": "2,830",
+        "hon_price_max": "4,380",
+        "照明:": "節能LED照明系統",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 360 x 60mm"
+    },
+    {
+        "names": "MIELE D Purist. Ed.6000 吊掛式抽油煙機 DA 6698 D",
+        "rating": "",
+        "hon_price_min": "41,600",
+        "hon_price_max": "41,600"
+    },
+    {
+        "names": "German Pool 德國寶 台式抽油煙機 TOS-923D",
+        "rating": "4.0",
+        "hon_price_min": "2,000",
+        "hon_price_max": "3,140",
+        "摩打轉速:": "2300 RPM",
+        "排風量:": "1000m³/hr",
+        "尺寸:": "(H)165 x (W)895 x (D)545mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導式抽油煙機 GPR-C900/GS",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "4,870",
+        "耗電量:": "320W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "(H)870 x (W)900 x (D)500mm"
+    },
+    {
+        "names": "Nutzen 體感雙摩打加熱除油抽油煙機 NRHO-3000",
+        "rating": "10",
+        "hon_price_min": "4,210",
+        "hon_price_max": "4,980",
+        "排風量:": "1000m³/h",
+        "尺寸:": "700 x 370 x 470mm"
+    },
+    {
+        "names": "Misoko 隱藏嵌入式抽油煙機 MR-PS90",
+        "rating": "10",
+        "hon_price_min": "2,150",
+        "hon_price_max": "3,100",
+        "water_price_min": "2,000",
+        "water_price_max": "2,080",
+        "摩打轉速:": "2800rpm",
+        "排風量:": "20.8",
+        "排風口直徑:": "150mm",
+        "尺寸:": "180 x 895 x 320mm"
+    },
+    {
+        "names": "Philco 飛歌 拉趙式抽油煙機 GH1109S",
+        "rating": "10",
+        "hon_price_min": "1,690",
+        "hon_price_max": "2,600",
+        "照明:": "2個50瓦照明燈",
+        "尺寸:": "231 x 900 x 459 mm"
+    },
+    {
+        "names": "Athens 金雅典 Chimney Series 歐陸式抽油煙機 - 掛牆 (不銹鋼) 系列 EA-9988 IEC",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "6,300",
+        "摩打轉速:": "2450R.P.M",
+        "排風量:": "17.29m³/min",
+        "排風口直徑:": "150mm",
+        "尺寸:": "896 x 365 x 50mm"
+    },
+    {
+        "names": "German Pool 德國寶 Profilo 歐陸系列煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "7,760",
+        "hon_price_max": "9,178",
+        "照明:": "慳電膽 20W * 2",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Athens 金雅典 電熱清洗系列抽油煙機 GH-368 IEC",
+        "rating": "",
+        "hon_price_min": "5,490",
+        "hon_price_max": "6,600",
+        "摩打轉速:": "(H)1500 R.P.M (L)1350R.P.M",
+        "排風量:": "14.5m³/min",
+        "排風口直徑:": "150mm",
+        "尺寸:": "890mm (W) X 515mm (D) X 160mm (H)"
+    },
+    {
+        "names": "Campus Smart Sense 智能感應煙囪式抽油煙機 ARHT600S",
+        "rating": "7.2",
+        "hon_price_min": "2,980",
+        "hon_price_max": "4,028",
+        "water_price_min": "3,200",
+        "water_price_max": "3,200",
+        "排風量:": "1150立方米/小時",
+        "尺寸:": "600 x 500 x 570mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導掛牆式抽油煙機 GPR-DL900L",
+        "rating": "",
+        "hon_price_min": "6,740",
+        "hon_price_max": "7,880",
+        "耗電量:": "207W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "855-1152 x 379 x 900mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FS-700V",
+        "rating": "9.5",
+        "hon_price_min": "4,188",
+        "hon_price_max": "5,250",
+        "耗電量:": "55-105WW",
+        "尺寸:": "700 x 550 x 150mm"
+    },
+    {
+        "names": "Campus Smart Sense 智能感應傾斜煙囪式抽油煙機 ARHB900",
+        "rating": "6.0",
+        "hon_price_min": "3,400",
+        "hon_price_max": "4,990",
+        "water_price_min": "3,200",
+        "water_price_max": "3,200",
+        "排風量:": "1150立方米/小時",
+        "尺寸:": "900 x 400 x 760mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 櫃底式抽油煙機 AKR290/WH",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,990",
+        "耗電量:": "380W",
+        "排風口直徑:": "120mm",
+        "尺寸:": "130 x 900 x 470mm"
+    },
+    {
+        "names": "Candy 嵌入式拉趟式抽油煙機 CBT9240X",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "2,600",
+        "耗電量:": "雙摩打耗電量 2 x 100瓦W",
+        "排風口直徑:": "120mm",
+        "尺寸:": "170 x 900 x 280"
+    },
+    {
+        "names": "Athens 金雅典 Jazz Series 爵士系列抽油煙機 JA828IEC",
+        "rating": "",
+        "hon_price_min": "2,220",
+        "hon_price_max": "3,040",
+        "摩打轉速:": "每邊1400轉",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 500 x 140mm"
+    },
+    {
+        "names": "Philco 飛歌 拉趟式抽油煙機 GH609WNL",
+        "rating": "",
+        "hon_price_min": "1,460",
+        "hon_price_max": "2,308",
+        "照明:": "2 x 5.5W LED",
+        "尺寸:": "900 x 280 x 181mm"
+    },
+    {
+        "names": "Pacific 太平洋 極速雙摩打系列抽油煙機 PR-8100-90",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "3,270",
+        "摩打轉速:": "2400rpm",
+        "排風量:": "22",
+        "排風口直徑:": "155mm",
+        "尺寸:": "135X900X520mm"
+    },
+    {
+        "names": "Roblin Cube 900 掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "6,799",
+        "hon_price_max": "8,058"
+    },
+    {
+        "names": "S.M.E.G. 傾斜煙囪式抽油煙機 KCV9NE2",
+        "rating": "",
+        "hon_price_min": "22,045",
+        "hon_price_max": "22,359",
+        "耗電量:": "275W",
+        "排風量:": "815m³/h",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "German Pool 德國寶 Smart Sense 智能抽油煙機 RHS-6428",
+        "rating": "",
+        "hon_price_min": "2,790",
+        "hon_price_max": "3,950",
+        "摩打轉速:": "2800",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "265 x 600 x 457mm"
+    },
+    {
+        "names": "German Pool 德國寶 Dali-900 煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "7,608",
+        "耗電量:": "220W",
+        "排風量:": "705 m³/hr",
+        "尺寸:": "900 x 510 x 1152mm"
+    },
+    {
+        "names": "Totoki 東崎 煙囪式抽油煙機 T1428",
+        "rating": "7.0",
+        "hon_price_min": "2,868",
+        "hon_price_max": "3,680",
+        "摩打轉速:": "2800",
+        "排風量:": "1050m /hr",
+        "尺寸:": "695 x 355 x 360mm"
+    },
+    {
+        "names": "Bosch Serie 4 拉趟式抽油煙機 DFS097A51B",
+        "rating": "",
+        "hon_price_min": "8,880",
+        "hon_price_max": "11,455",
+        "照明:": "3 x 1.5W LED 燈",
+        "尺寸:": "426 x 898 x 290mm"
+    },
+    {
+        "names": "Nutzen 體感電動開合式雙摩打電熱除油抽油煙機 NRHN-400",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,490",
+        "照明:": "1 x 3W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 380 x 360mm"
+    },
+    {
+        "names": "Fujioh 富士皇 110厘米傾斜式抽油煙機 FR-SC2011P",
+        "rating": "",
+        "hon_price_min": "13,380",
+        "hon_price_max": "13,980",
+        "water_price_min": "13,400",
+        "water_price_max": "13,400",
+        "照明:": "LED",
+        "排風口直徑:": "150mm",
+        "尺寸:": "1100 x 544 x 445mm"
+    },
+    {
+        "names": "Summe 德國卓爾 超薄易拆式抽油煙機 SCH-6700",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "1,100",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "耗電量:": "130W",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 100 x 503mm"
+    },
+    {
+        "names": "German Pool 德國寶 Rap 歐陸系列煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "7,060",
+        "hon_price_max": "7,700",
+        "照明:": "慳電膽 20W * 2",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Kuppersbusch 升降式抽油煙機 (玻璃及不銹鋼) EDD9960.0GE",
+        "rating": "",
+        "hon_price_min": "38,839",
+        "hon_price_max": "50,388",
+        "耗電量:": "264W",
+        "尺寸:": "880 x 1020 x 340mm"
+    },
+    {
+        "names": "Lighting 星暉 隱藏嵌入式抽油煙機 LG-490S7",
+        "rating": "",
+        "hon_price_min": "4,030",
+        "hon_price_max": "4,480",
+        "water_price_min": "3,280",
+        "water_price_max": "3,380",
+        "耗電量:": "220W",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "700 x 320 x 184mm"
+    },
+    {
+        "names": "Philco 飛歌 自動清洗抽油煙機 PCW70TS",
+        "rating": "5.3",
+        "hon_price_min": "1,520",
+        "hon_price_max": "1,950",
+        "耗電量:": "70W x 2W",
+        "排風口直徑:": "152mm",
+        "尺寸:": "165H x 705W x 520D mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 纖薄煙囱式抽油煙機 AKT3590/IX",
+        "rating": "",
+        "hon_price_min": "2,970",
+        "hon_price_max": "5,090",
+        "照明:": "1 x 5W (LED燈條)",
+        "排風口直徑:": "152mm",
+        "尺寸:": "526-957 x 900 x 350mm"
+    },
+    {
+        "names": "Metropol 米勒寶 傾斜煙囪式抽油煙機 MLB800",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "3,320",
+        "water_price_min": "1,500",
+        "water_price_max": "1,500",
+        "照明:": "1 x 3W",
+        "尺寸:": "710 x 365 x 465mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 櫃底隱藏式抽油煙機 UT750/IX",
+        "rating": "",
+        "hon_price_min": "3,330",
+        "hon_price_max": "4,730",
+        "照明:": "1 x 9W (LED燈條)",
+        "排風口直徑:": "150mm",
+        "尺寸:": "382 x 748 x 320mm"
+    },
+    {
+        "names": "Baumatic 傾斜煙囪式抽油煙機 BES710BGL",
+        "rating": "",
+        "hon_price_min": "5,990",
+        "hon_price_max": "6,050",
+        "照明:": "2 x 1.5W LED燈",
+        "尺寸:": "487-1187 x 700 x 420mm"
+    },
+    {
+        "names": "Misoko 嵌入抽拉式抽油煙機 MR-ES90",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,950",
+        "摩打轉速:": "2800",
+        "尺寸:": "895 x 185.5 x 323mm"
+    },
+    {
+        "names": "Pacific 太平洋 極速雙摩打系列抽油煙機 PR-8188-90",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "3,150",
+        "摩打轉速:": "2800轉",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 145 x 520mm"
+    },
+    {
+        "names": "Fujioh 富士皇 歐陸煙囪式抽油煙機 NL-900V",
+        "rating": "",
+        "hon_price_min": "8,200",
+        "hon_price_max": "11,150",
+        "耗電量:": "50-100W",
+        "尺寸:": "899 x 640 x 685mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-HT2190V",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,380",
+        "照明:": "LED燈",
+        "尺寸:": "895 x 505 x 590~1030mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 掛牆煙囱式抽油煙機 AKR9010/IX",
+        "rating": "",
+        "hon_price_min": "5,208",
+        "hon_price_max": "7,850",
+        "照明:": "2 x 2.5W (LED燈)",
+        "排風口直徑:": "145mm",
+        "尺寸:": "465 x 898 x 500mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 伸縮式抽油煙機 AKTT900/IX",
+        "rating": "",
+        "hon_price_min": "3,299",
+        "hon_price_max": "4,760",
+        "照明:": "2 x 6W (LED燈)",
+        "排風口直徑:": "150mm",
+        "尺寸:": "411 x 898 x 315-480mm"
+    },
+    {
+        "names": "Philco 飛歌 煙囪式抽油煙機 PC900SNL",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "3,880",
+        "耗電量:": "230W",
+        "排風量:": "1110m³/h",
+        "尺寸:": "830-1145 x 900 x 500mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導掛牆式抽油煙機 H12",
+        "rating": "",
+        "hon_price_min": "9,950",
+        "hon_price_max": "12,500",
+        "照明:": "慳電膽 20W * 2",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-ST2190VP-15",
+        "rating": "",
+        "hon_price_min": "13,890",
+        "hon_price_max": "14,990",
+        "water_price_min": "13,700",
+        "water_price_max": "13,700",
+        "尺寸:": "895 x 525 x 650-1000mm"
+    },
+    {
+        "names": "Bosch Serie 8 掛牆式抽油煙機 DWB98PR50",
+        "rating": "",
+        "hon_price_min": "10,638",
+        "hon_price_max": "14,400",
+        "耗電量:": "165W",
+        "排風量:": "843m³/h"
+    },
+    {
+        "names": "Athens 金雅典 棒棒糖系列易拆式抽油煙機 LPS-1288",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,890",
+        "water_price_min": "1,300",
+        "water_price_max": "1,300",
+        "排風量:": "14.8m³/min (maximum)",
+        "尺寸:": "705 x 490 x 100mm"
+    },
+    {
+        "names": "Bondini 雪白 煙導式抽油煙機 BT910S1",
+        "rating": "",
+        "hon_price_min": "2,630",
+        "hon_price_max": "3,380",
+        "water_price_min": "2,580",
+        "water_price_max": "2,580",
+        "摩打轉速:": "2800",
+        "排風量:": "1050m³/hr",
+        "尺寸:": "895 x 355 x 40(+320)mm"
+    },
+    {
+        "names": "Campus Smart Sense 智能感應煙囪式抽油煙機 ARHT900S",
+        "rating": "9.8",
+        "hon_price_min": "2,980",
+        "hon_price_max": "5,540",
+        "排風量:": "1150立方米/小時",
+        "尺寸:": "900 x 500 x 570mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列抽拉式抽油煙機 TFT-700",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "2,560",
+        "耗電量:": "247W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "271 x 700 x 460mm"
+    },
+    {
+        "names": "Bondini 雪白 煙導式抽油煙機 BT700S1",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "3,280",
+        "water_price_min": "2,400",
+        "water_price_max": "2,400",
+        "摩打轉速:": "2800",
+        "排風量:": "1050m³/hr",
+        "尺寸:": "695 x 355 x 40(+320)mm"
+    },
+    {
+        "names": "Pacific 太平洋 標準抽油煙機 PR-9988-70",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,400",
+        "尺寸:": "705 x 125 x 520mm"
+    },
+    {
+        "names": "Hibachi 氣霸 不銹鋼易拆式抽油煙機 HY-338S",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "1,490",
+        "尺寸:": "720mm x 500mm x 100mm"
+    },
+    {
+        "names": "Teka 德格 T型煙囪式抽油煙機 DPS786",
+        "rating": "",
+        "hon_price_min": "3,180",
+        "hon_price_max": "4,620",
+        "耗電量:": "271W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 480 x 690-1010mm"
+    },
+    {
+        "names": "Philco 飛歌 易拆式抽油煙機 PC70TS",
+        "rating": "5.0",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,688"
+    },
+    {
+        "names": "Bondini 雪白 電熱除油易拆式抽油煙機 BT330S-70",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,950",
+        "摩打轉速:": "2800轉",
+        "尺寸:": "120 x 695 x 400mm"
+    },
+    {
+        "names": "Bosch Serie 4 拉趟式抽油煙機 DFS067A51B",
+        "rating": "",
+        "hon_price_min": "7,880",
+        "hon_price_max": "9,815",
+        "耗電量:": "144W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "426 x 598 x 290mm"
+    },
+    {
+        "names": "Bondini 雪白 電熱除油易拆式抽油煙機 BT-330S-90",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "3,180",
+        "water_price_min": "2,000",
+        "water_price_max": "2,000",
+        "摩打轉速:": "2800轉",
+        "尺寸:": "120 x 895 x 400mm"
+    },
+    {
+        "names": "Philco 飛歌 煙囪式抽油煙機 PC900BT",
+        "rating": "2.0",
+        "hon_price_min": "1,950",
+        "hon_price_max": "3,000",
+        "摩打轉速:": "3段",
+        "排風量:": "每小時最高達1,020立方米",
+        "尺寸:": "H685 * W900 * D500mm"
+    },
+    {
+        "names": "German Pool 德國寶 Isola Cilindro 歐陸系列吊掛式抽油煙機",
+        "rating": "",
+        "hon_price_min": "11,400",
+        "hon_price_max": "13,850",
+        "照明:": "慳電膽 20W x 2",
+        "排風口直徑:": "150mm",
+        "尺寸:": "890-1190 x 400 x 400mm"
+    },
+    {
+        "names": "Baumatic 拉趟式抽油煙機 TEL610X",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,910",
+        "耗電量:": "215W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "255 x 595 x 280mm"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-8428",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "3,880",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 800 x 457 mm"
+    },
+    {
+        "names": "Zanussi 金章 易拆式抽油煙機 ZHT710",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,561",
+        "照明:": "8W光管照明",
+        "尺寸:": "710 x 520 x 140 毫米"
+    },
+    {
+        "names": "Gorenje 掛牆煙囪式抽油煙機 WHI643ORAW",
+        "rating": "",
+        "hon_price_min": "16,145",
+        "hon_price_max": "16,422",
+        "照明:": "LED",
+        "尺寸:": "600 x 425 x 470mm"
+    },
+    {
+        "names": "Hibachi 氣霸 歐陸式玻璃罩抽油煙機 HY-138-D88S2",
+        "rating": "10",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,930",
+        "尺寸:": "760mm x 297mm x 700mm"
+    },
+    {
+        "names": "Cimatech 煙導式抽油煙機 CH201N-900",
+        "rating": "",
+        "hon_price_min": "3,858",
+        "hon_price_max": "5,610",
+        "尺寸:": "900 x 470 x 570-890mm"
+    },
+    {
+        "names": "Bondini 雪白 超薄型抽油煙機 BR-283",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "780",
+        "耗電量:": "140W",
+        "排風量:": "16立方米/每分鐘",
+        "尺寸:": "710 x 515 x 105 mm"
+    },
+    {
+        "names": "Hibachi 氣霸 易拆式雙速抽油煙機 HY-338 (停產)",
+        "rating": "8.4",
+        "hon_price_min": "420",
+        "hon_price_max": "1,350",
+        "尺寸:": "720mm x 500mm x 100mm"
+    },
+    {
+        "names": "MIELE 纖巧型抽油煙機 DA 3496",
+        "rating": "",
+        "hon_price_min": "14,819",
+        "hon_price_max": "17,800",
+        "耗電量:": "300W",
+        "尺寸:": "895 x 34 x 275mm"
+    },
+    {
+        "names": "Siemens 西門子 iQ700 島式抽油煙機 LF91BUV50B",
+        "rating": "",
+        "hon_price_min": "21,560",
+        "hon_price_max": "28,390",
+        "照明:": "4 x 1.5W LED 燈",
+        "排風量:": "980m³/h (EN 61591)"
+    },
+    {
+        "names": "Fujioh 富士皇 排氣型抽油煙機 FR-FS2270VP",
+        "rating": "",
+        "hon_price_min": "6,750",
+        "hon_price_max": "7,180",
+        "照明:": "LED燈",
+        "尺寸:": "700 x 550 x 150mm"
+    },
+    {
+        "names": "Hannes Muller 德國漢斯 易拆式抽油煙機 HM-138",
+        "rating": "6.0",
+        "hon_price_min": "839",
+        "hon_price_max": "1,090",
+        "摩打轉速:": "3800-4600轉",
+        "排風口直徑:": "150mm",
+        "尺寸:": "W710xD520xH130mm"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 抽拉式抽油煙機 HP90IDCHX3",
+        "rating": "",
+        "hon_price_min": "7,185",
+        "hon_price_max": "7,230",
+        "照明:": "2 LED燈",
+        "尺寸:": "830 x 352 x 280mm"
+    },
+    {
+        "names": "Teka 德格 拉趟式抽油煙機 CNL9610",
+        "rating": "",
+        "hon_price_min": "2,638",
+        "hon_price_max": "3,690"
+    },
+    {
+        "names": "Whirlpool 惠而浦 櫃底式抽油煙機 AKR260/WH",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "1,650",
+        "water_price_min": "900",
+        "water_price_max": "900",
+        "耗電量:": "380W",
+        "排風口直徑:": "120mm",
+        "尺寸:": "130 x 600 x 470mm"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導式抽油煙機 C2-90",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "4,568",
+        "耗電量:": "250W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700-1165 x 495 x 900mm"
+    },
+    {
+        "names": "Lighting 星暉 歐式倒T型抽油煙機 LGH700CNA",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,980",
+        "water_price_min": "2,780",
+        "water_price_max": "2,880",
+        "照明:": "白色雙LED燈",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "696 x 355 x 387mm"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 抽油煙機 SRH3388",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "3,180",
+        "耗電量:": "300W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "710 x 520 x 140mm"
+    },
+    {
+        "names": "UB Electric 抽油煙機 I300-32",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "7,230"
+    },
+    {
+        "names": "German Pool 德國寶 環保節能系列 (台式) 抽油煙機 XRZ-723",
+        "rating": "",
+        "hon_price_min": "2,290",
+        "hon_price_max": "2,990",
+        "摩打轉速:": "2300RPM",
+        "排風量:": "18.7m³/min",
+        "排風口直徑:": "152mm",
+        "尺寸:": "125 x 705 x 505mm"
+    },
+    {
+        "names": "NODOR Nostrum 560 掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "9,230",
+        "耗電量:": "137W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "560 x 314 x 855-1170mm"
+    },
+    {
+        "names": "Roblin Inspiration/2 770 嵌入式抽油煙機",
+        "rating": "",
+        "hon_price_min": "7,290",
+        "hon_price_max": "8,058",
+        "耗電量:": "268W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "374.7 x 770 x 320mm"
+    },
+    {
+        "names": "German Pool 德國寶 環保節能系列 (台式) 抽油煙機 XRZ-923",
+        "rating": "",
+        "hon_price_min": "2,430",
+        "hon_price_max": "3,200",
+        "摩打轉速:": "2300",
+        "排風量:": "18.7m³/min",
+        "排風口直徑:": "152mm",
+        "尺寸:": "125 x 895 x 505mm"
+    },
+    {
+        "names": "Bondini 雪白 易拆式 Turbo 油煙機 BT-290S",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,940",
+        "water_price_min": "2,100",
+        "water_price_max": "2,100",
+        "摩打轉速:": "2800轉",
+        "排風量:": "19m³/h",
+        "尺寸:": "705 x 520 x 105mm"
+    },
+    {
+        "names": "S.M.E.G. 拉趟式抽油煙機 KSET666XE",
+        "rating": "",
+        "hon_price_min": "6,038",
+        "hon_price_max": "6,669",
+        "耗電量:": "200W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "396 x 598 x 282mm"
+    },
+    {
+        "names": "Bondini 雪白 側抽式抽油煙機 BR-600",
+        "rating": "10",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,800",
+        "耗電量:": "200W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "W700xH500xD400mm"
+    },
+    {
+        "names": "Primada 旋風無味抽油煙機 (連背版) PRH920A",
+        "rating": "",
+        "hon_price_min": "9,580",
+        "hon_price_max": "9,799"
+    },
+    {
+        "names": "German Pool 德國寶 超勁超靜系列煙導式抽油煙機 RHM-9328",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "3,880",
+        "摩打轉速:": "2800 ± 50 RPM",
+        "排風量:": "1000 ± 50 m³/hr",
+        "尺寸:": "316 x 900 x 356 mm"
+    },
+    {
+        "names": "NODOR Mirage Premium S 900 煙導式抽油煙機",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "6,100",
+        "耗電量:": "137W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "900 x 500 x 632-1030mm"
+    },
+    {
+        "names": "German Pool 德國寶 Box 煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "4,258",
+        "耗電量:": "220W",
+        "排風量:": "800 m³/h",
+        "尺寸:": "900 x 500 x 655-1120mm"
+    },
+    {
+        "names": "German Pool 德國寶 Incanto 歐陸系列煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "11,480",
+        "hon_price_max": "13,850",
+        "照明:": "慳電膽 20W * 3",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Hibachi 氣霸 特強斜抽式抽油煙機 HY-138-D710S3",
+        "rating": "9.2",
+        "hon_price_min": "1,090",
+        "hon_price_max": "2,680",
+        "water_price_min": "1,010",
+        "water_price_max": "1,010",
+        "耗電量:": "200W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "710×388×480"
+    },
+    {
+        "names": "Lighting 星暉 易拆式抽油煙機 (不銹鋼) LJ-4800S (停產)",
+        "rating": "8.8",
+        "hon_price_min": "750",
+        "hon_price_max": "3,160",
+        "water_price_min": "650",
+        "water_price_max": "980",
+        "摩打轉速:": "1700 每邊",
+        "尺寸:": "W715XD520XH130"
+    },
+    {
+        "names": "Misoko 隱藏嵌入式抽油煙機 MR-PS80",
+        "rating": "10",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,960",
+        "摩打轉速:": "2800rpm",
+        "排風量:": "20.8",
+        "排風口直徑:": "150mm",
+        "尺寸:": "180 x 795 x 320mm"
+    },
+    {
+        "names": "German West 西德寶 嵌入式智能數碼手掃抽油煙機 GW-828",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,000",
+        "water_price_max": "1,000",
+        "摩打轉速:": "2800",
+        "尺寸:": "700 x 360 x 460mm"
+    },
+    {
+        "names": "Hannes Muller 德國漢斯 易拆式抽油煙機 HM-158",
+        "rating": "10",
+        "hon_price_min": "700",
+        "hon_price_max": "1,160",
+        "摩打轉速:": "1900-2300轉",
+        "排風口直徑:": "150mm",
+        "尺寸:": "W600xH130xD515mm"
+    },
+    {
+        "names": "Lighting 星暉 隱藏嵌入式抽油煙機 LG-490S9",
+        "rating": "",
+        "hon_price_min": "4,030",
+        "hon_price_max": "4,480",
+        "water_price_min": "3,280",
+        "water_price_max": "3,800",
+        "耗電量:": "220W",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "896 x 320 x 184mm"
+    },
+    {
+        "names": "Nutzen 不銹鋼體感雙摩打加熱除油抽油煙機 NRHO-9000",
+        "rating": "",
+        "hon_price_min": "4,650",
+        "hon_price_max": "5,480",
+        "耗電量:": "195W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 370 x 330mm"
+    },
+    {
+        "names": "iTurbo 抽油煙機 DF-268W",
+        "rating": "",
+        "hon_price_min": "845",
+        "hon_price_max": "850",
+        "尺寸:": "100 x 510 x 700mm"
+    },
+    {
+        "names": "Hannes Muller 德國漢斯 易拆式抽油煙機 HM-128G",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,480",
+        "摩打轉速:": "2800-3200rpm",
+        "尺寸:": "710 x 505 x 100mm"
+    },
+    {
+        "names": "German Pool 德國寶 台式環保節能系列抽油煙機 WRY-723",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "3,140",
+        "摩打轉速:": "2300 RPM",
+        "排風量:": "1000m³/hr",
+        "排風口直徑:": "152mm",
+        "尺寸:": "(H)169 x (W)710 x (D)510"
+    },
+    {
+        "names": "Garwoods 樂思 煙囪式抽油煙機 HT-3678SG",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,449",
+        "照明:": "LED燈條照明",
+        "排風口直徑:": "150mm",
+        "尺寸:": "750 x 360 x 365-815mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 伸縮式抽油煙機 AKTT600/IX",
+        "rating": "",
+        "hon_price_min": "2,790",
+        "hon_price_max": "3,570",
+        "照明:": "2 x 6W (LED燈)",
+        "排風口直徑:": "150mm",
+        "尺寸:": "411 x 598 x 315-480mm"
+    },
+    {
+        "names": "Siemens 西門子 下置式抽油煙機 LU85731HK",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "2,100",
+        "摩打轉速:": "3段",
+        "排風量:": "926m3/h",
+        "尺寸:": "W705 H136 D520 (mm)"
+    },
+    {
+        "names": "Candy 煙導式抽油煙機 CMB955X",
+        "rating": "",
+        "hon_price_min": "1,640",
+        "hon_price_max": "2,180",
+        "照明:": "LED",
+        "排風口直徑:": "150mm",
+        "尺寸:": "530 x 900 x 500-1000mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆式抽油煙機 PR-6328",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,850",
+        "尺寸:": "130x700x515mm"
+    },
+    {
+        "names": "Ocean 海洋 電熱除油自動清洗抽油煙機 E2882S",
+        "rating": "6.0",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,300",
+        "摩打轉速:": "2800",
+        "排風量:": "1160",
+        "尺寸:": "W710xD535xH125mm"
+    },
+    {
+        "names": "Lighting 星暉 抽拉式抽油煙機 LJ-203-6W",
+        "rating": "8.7",
+        "hon_price_min": "1,510",
+        "hon_price_max": "2,508",
+        "water_price_min": "1,300",
+        "water_price_max": "1,400",
+        "尺寸:": "600W x 280D x 180H (mm)"
+    },
+    {
+        "names": "German Pool 德國寶 歐陸系列煙導式抽油煙機 GPR-S900L",
+        "rating": "",
+        "hon_price_min": "3,560",
+        "hon_price_max": "4,640",
+        "耗電量:": "257W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "785 x 900 x 500mm"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET9364X",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "4,628",
+        "照明:": "2 x 1W LED Lights",
+        "排風口直徑:": "150mm",
+        "尺寸:": "350 x 900 x 358mm"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 掛牆式抽油煙機 LC35S955HK",
+        "rating": "2.0",
+        "hon_price_min": "5,700",
+        "hon_price_max": "8,038",
+        "排風量:": "860",
+        "尺寸:": "575-865mm x 900 mm x 530 mm"
+    },
+    {
+        "names": "Baumatic 拉趟式抽油煙機 TEL69X",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,870",
+        "排風量:": "1000",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Elica Elite 26 90cm 拉趟式抽油煙機",
+        "rating": "",
+        "hon_price_min": "2,658",
+        "hon_price_max": "3,138",
+        "耗電量:": "255W",
+        "排風量:": "300-700m³/h"
+    },
+    {
+        "names": "TGC EXCEL+ 900 抽油煙機",
+        "rating": "",
+        "hon_price_min": "3,750",
+        "hon_price_max": "4,580",
+        "摩打轉速:": "2250 特強",
+        "排風量:": "16.7立方米/分鐘",
+        "排風口直徑:": "150mm",
+        "尺寸:": "655-1177 x 900 x 535mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 易拆式抽油煙機 HE2421S",
+        "rating": "2.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "2,490",
+        "water_price_min": "1,380",
+        "water_price_max": "1,380",
+        "照明:": "LED燈",
+        "尺寸:": "135 x 600 x 522mm"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET948X",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,880"
+    },
+    {
+        "names": "Teka 德格 煙囪式抽油煙機 DLH786T",
+        "rating": "",
+        "hon_price_min": "4,668",
+        "hon_price_max": "5,400"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET8363X",
+        "rating": "",
+        "hon_price_min": "3,879",
+        "hon_price_max": "4,328",
+        "照明:": "2 x 1W LED Lights",
+        "排風口直徑:": "150mm",
+        "尺寸:": "350 x 800 x 358mm"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET128.5X",
+        "rating": "",
+        "hon_price_min": "12,512",
+        "hon_price_max": "13,428",
+        "耗電量:": "646W",
+        "排風量:": "2000m³/hr",
+        "尺寸:": "689-1279 x 700 x 1200mm"
+    },
+    {
+        "names": "Fujioh 富士皇 傾斜煙囪式抽油煙機 FR-SC1711P",
+        "rating": "",
+        "hon_price_min": "12,390",
+        "hon_price_max": "13,360",
+        "耗電量:": "(包括燈) 160~85W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "1100 x 544 x 445mm"
+    },
+    {
+        "names": "NODOR Mirage X 900 掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "6,800",
+        "照明:": "可調較節能LED 照明燈條",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "900 x 500 x 632-1030mm"
+    },
+    {
+        "names": "Taada 多田 嵌入式抽油煙機 GR6001",
+        "rating": "",
+        "hon_price_min": "2,028",
+        "hon_price_max": "3,330",
+        "摩打轉速:": "I: 740轉/分鐘 II: 970轉/分鐘",
+        "尺寸:": "595 x 480 x 350mm"
+    },
+    {
+        "names": "S.M.E.G. 煙囪式抽油煙機 KS905NXE2",
+        "rating": "",
+        "hon_price_min": "12,425",
+        "hon_price_max": "12,549",
+        "耗電量:": "275W",
+        "排風量:": "820m³/h",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Teka 德格 T型煙囪式抽油煙機 DPS986",
+        "rating": "",
+        "hon_price_min": "4,100",
+        "hon_price_max": "5,350",
+        "排風量:": "920m³/h",
+        "尺寸:": "900 x 480 x 690-1000mm"
+    },
+    {
+        "names": "German Pool 德國寶 Mix 歐陸系列煙導掛牆式抽油煙機",
+        "rating": "2.0",
+        "hon_price_min": "9,120",
+        "hon_price_max": "11,050",
+        "照明:": "慳電膽 20W * 2",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Rosieres 煙囪式抽油煙機 RBE53IN",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,980",
+        "耗電量:": "380W",
+        "排風量:": "最大983立方米/小時 (EN61591)",
+        "尺寸:": "585-1055 x 900 x 500mm"
+    },
+    {
+        "names": "Kuzzo 德信牌 強力煙囪式抽油煙機 NEU729",
+        "rating": "",
+        "hon_price_min": "2,658",
+        "hon_price_max": "2,909",
+        "照明:": "LED",
+        "排風口直徑:": "150mm",
+        "尺寸:": "320 x 895 x 355mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 煙囪式抽油煙機 AKR3985/IX",
+        "rating": "2.0",
+        "hon_price_min": "3,069",
+        "hon_price_max": "3,700",
+        "排風量:": "1000",
+        "尺寸:": "510-970 x 900 x 480mm"
+    },
+    {
+        "names": "Bondini 雪白 易拆式 Turbo 油煙機 BR-298SM",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "2,500",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "排風量:": "15.55m3/min",
+        "尺寸:": "123 x 710 x 515mm"
+    },
+    {
+        "names": "Pacific 太平洋 嵌入式抽油煙機 PR-2366-70",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,330",
+        "摩打轉速:": "2800",
+        "尺寸:": "696 x 182.4 x 323mm"
+    },
+    {
+        "names": "Teka 德格 拉趟式抽油煙機 TL7420",
+        "rating": "",
+        "hon_price_min": "2,469",
+        "hon_price_max": "2,540"
+    },
+    {
+        "names": "TGC Excel 900 抽油煙機",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "4,050",
+        "耗電量:": "202W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 504 x 55mm"
+    },
+    {
+        "names": "Summe 德國卓爾 超薄易拆式抽油煙機 SCH-6701",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "1,280",
+        "water_price_min": "450",
+        "water_price_max": "500",
+        "耗電量:": "130W",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 100 x 503mm"
+    },
+    {
+        "names": "German Pool 德國寶 煙導式抽油煙機 GPR-S900",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "4,400",
+        "耗電量:": "320W",
+        "排風口直徑:": "125mm",
+        "尺寸:": "275 x 900 x 500mm"
+    },
+    {
+        "names": "Candy 易拆式抽油煙機 CFT62/3X",
+        "rating": "",
+        "hon_price_min": "1,110",
+        "hon_price_max": "1,720",
+        "照明:": "LED照明燈",
+        "排風口直徑:": "120mm",
+        "尺寸:": "135 x 600 x 500mm"
+    },
+    {
+        "names": "Candy 不銹鋼煙囪式抽油煙機 CCT985X",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,889",
+        "尺寸:": "1100 x 900 x 490mm"
+    },
+    {
+        "names": "Athens 金雅典 幸運星系列易拆式抽油煙機 NC-260EIEC",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,750",
+        "water_price_min": "3,280",
+        "water_price_max": "3,280",
+        "摩打轉速:": "2500",
+        "尺寸:": "590 x 120 x 510mm"
+    },
+    {
+        "names": "Teka 德格 牆壁煙囪式抽油煙機 C920",
+        "rating": "",
+        "hon_price_min": "1,770",
+        "hon_price_max": "2,350"
+    },
+    {
+        "names": "Misoko 電熱除油抽油煙機 MR-988",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "2,780",
+        "water_price_min": "1,950",
+        "water_price_max": "1,950",
+        "摩打轉速:": "2800轉",
+        "排風口直徑:": "152mm",
+        "尺寸:": "700 x 540 x 128mm"
+    },
+    {
+        "names": "NODOR Mirage Premium S 700 掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "6,080",
+        "耗電量:": "137W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "700 x 500 x 632-1030mm"
+    },
+    {
+        "names": "Summe 德國卓爾 易拆式抽油煙機 SCH-8800 (停產)",
+        "rating": "6.0",
+        "hon_price_min": "870",
+        "hon_price_max": "1,490",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "耗電量:": "700W",
+        "尺寸:": "W720xH125xD540mm"
+    },
+    {
+        "names": "Sanki 山崎 歐洲式 抽油煙機 SK-RH1189",
+        "rating": "",
+        "hon_price_min": "2,830",
+        "hon_price_max": "4,380",
+        "照明:": "節能LED照明系統",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 360 x 60mm"
+    },
+    {
+        "names": "Misoko 電熱除油抽油煙機 MR-SL70-R",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,600",
+        "摩打轉速:": "2800轉",
+        "尺寸:": "710 x 517 x 101mm"
+    },
+    {
+        "names": "Lighting 星暉 歐式倒T型抽油煙機 LG-480S7",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,780",
+        "water_price_min": "3,580",
+        "water_price_max": "3,580",
+        "耗電量:": "220W",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "696 x 370 x 350mm"
+    },
+    {
+        "names": "Candy 嵌入式煙囪式抽油煙機 CVM970LX (停產)",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "3,280",
+        "耗電量:": "摩打耗電量210瓦W",
+        "排風口直徑:": "120mm",
+        "尺寸:": "500-980 x 900x 500"
+    },
+    {
+        "names": "Pacific 太平洋 極速雙摩打系列抽油煙機 PR-90",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,520",
+        "照明:": "40W",
+        "尺寸:": "895 x 515 x 130mm"
+    },
+    {
+        "names": "MIELE 抽油煙機 DA 6890",
+        "rating": "",
+        "hon_price_min": "31,238",
+        "hon_price_max": "37,000",
+        "耗電量:": "280W",
+        "尺寸:": "916 x 646 x 361mm"
+    },
+    {
+        "names": "NODOR GTX L 900 嵌入式抽油煙機",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "7,010",
+        "耗電量:": "137W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "830 x 280 x 352mm"
+    },
+    {
+        "names": "Athens 金雅典 Gold Diamond Series 金鑽系列易拆式抽油煙機 GS-236V IEC",
+        "rating": "",
+        "hon_price_min": "5,940",
+        "hon_price_max": "6,350",
+        "摩打轉速:": "2500R.P.M",
+        "排風量:": "14.8m³/min",
+        "排風口直徑:": "152mm",
+        "尺寸:": "890 x 570 x 157mm"
+    },
+    {
+        "names": "Gaggenau 抽油煙機 AW 230 190",
+        "rating": "",
+        "hon_price_min": "19,680",
+        "hon_price_max": "20,100",
+        "摩打轉速:": "850m3/h",
+        "排風量:": "570m³/h",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900W"
+    },
+    {
+        "names": "Pacific 太平洋 嵌入式抽油煙機 PR2366S90",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "3,380",
+        "摩打轉速:": "2800轉",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Garwoods 樂思 煙囪式抽油煙機 HT-3592SG",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,800",
+        "照明:": "LED燈條照明",
+        "排風口直徑:": "150mm",
+        "尺寸:": "900 x 505 x 550-1030mm"
+    },
+    {
+        "names": "Bondini 雪白 易拆式抽油煙機 BT-210S",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "1,930",
+        "water_price_min": "900",
+        "water_price_max": "900",
+        "耗電量:": "335W",
+        "排風量:": "17m³/h",
+        "尺寸:": "705 x 505 x 125mm"
+    },
+    {
+        "names": "Pacific 太平洋 易拆洗不銹鋼抽油煙機 PR-6399S",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,780",
+        "尺寸:": "700 x 520 x 135mm"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET610X",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,150",
+        "排風量:": "1300",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Cristal 煙導式抽油煙機 C7008EB",
+        "rating": "",
+        "hon_price_min": "2,990",
+        "hon_price_max": "3,690",
+        "排風量:": "1020m³/h",
+        "尺寸:": "700 x 360 x 320-790mm"
+    },
+    {
+        "names": "Elica Adele 90/SS 煙囪式抽油煙機",
+        "rating": "",
+        "hon_price_min": "5,709",
+        "hon_price_max": "5,719",
+        "照明:": "帶狀 LED 1 x 7W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "640 x 898 x 454mm"
+    },
+    {
+        "names": "Athens 金雅典 歐陸式抽油煙機 - 掛牆 (玻璃) 系列 IA-302WG",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "6,210",
+        "water_price_min": "6,000",
+        "water_price_max": "6,000",
+        "摩打轉速:": "3",
+        "排風量:": "750m3/h",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Bondini 雪白 電熱除油易拆式抽油煙機 BT-330S-60",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,790",
+        "water_price_min": "1,500",
+        "water_price_max": "1,500",
+        "摩打轉速:": "2800轉",
+        "尺寸:": "595 x 400 x 120mm"
+    },
+    {
+        "names": "Elica Trendy 90厘米煙囪式抽油煙機",
+        "rating": "",
+        "hon_price_min": "5,648",
+        "hon_price_max": "5,688"
+    },
+    {
+        "names": "Lighting 星暉 歐式倒T型抽油煙機 LJ-603-7X",
+        "rating": "6.0",
+        "hon_price_min": "2,580",
+        "hon_price_max": "3,688",
+        "water_price_min": "2,050",
+        "water_price_max": "2,580",
+        "尺寸:": "700W x 515D x 55H (mm)"
+    },
+    {
+        "names": "Summe 德國卓爾 雙速易拆式抽油煙機 SCH-6900 (停產)",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "920",
+        "耗電量:": "700W",
+        "尺寸:": "W720xH130xD565mm"
+    },
+    {
+        "names": "Elica Joy IX/A/90 90厘米煙囪式抽油煙機",
+        "rating": "",
+        "hon_price_min": "5,648",
+        "hon_price_max": "5,688"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET612X",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,780",
+        "耗電量:": "320W",
+        "排風量:": "1000m3/h",
+        "尺寸:": "528-980 x 600 x 500mm"
+    },
+    {
+        "names": "NODOR Deimos Island 1400 特闊天花式抽油煙機",
+        "rating": "",
+        "hon_price_min": "49,988",
+        "hon_price_max": "57,000",
+        "耗電量:": "480W",
+        "排風口直徑:": "150mm x 2mm",
+        "尺寸:": "1400mm(W) x 700mm(D) x 285-500mm(H)"
+    },
+    {
+        "names": "Siemens 西門子 雙氣旋一體式摩打下置式抽油煙機 LU83A750HK",
+        "rating": "10",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,773",
+        "耗電量:": "302W",
+        "排風口直徑:": "120 / 150mm",
+        "尺寸:": "154 x 705 x 521mm"
+    },
+    {
+        "names": "Hitachi 日立 易拆式抽油煙機 HB-ST388",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "摩打轉速:": "1680RPM",
+        "排風量:": "16立方米 / 分鐘",
+        "排風口直徑:": "150mm",
+        "尺寸:": "711 x 140 x 520mm"
+    },
+    {
+        "names": "Cimatech 拉趙式抽油煙機 CH7630T",
+        "rating": "",
+        "hon_price_min": "2,048",
+        "hon_price_max": "2,700",
+        "water_price_min": "2,100",
+        "water_price_max": "2,100",
+        "照明:": "2 x 1.5W LED燈",
+        "排風口直徑:": "120/150mm",
+        "尺寸:": "598 x 456 x 269mm"
+    },
+    {
+        "names": "Hibachi 氣霸 抽拉式抽油煙機 HY-D23.9",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,500",
+        "water_price_min": "800",
+        "water_price_max": "800",
+        "尺寸:": "900mm x 280mm x 320mm"
+    },
+    {
+        "names": "CATA Sygma 900 抽油煙機",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,250",
+        "耗電量:": "240W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "900 x 500 x 540mm"
+    },
+    {
+        "names": "Siemens 西門子 下置式抽油煙機 LU85751HK",
+        "rating": "7.5",
+        "hon_price_min": "1,790",
+        "hon_price_max": "2,460",
+        "摩打轉速:": "4段",
+        "排風量:": "926m3/h",
+        "尺寸:": "W705 H136 D520 (mm)"
+    },
+    {
+        "names": "German Pool 德國寶 Cilindro 歐陸系列煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "8,268",
+        "照明:": "慳電膽 20W * 2",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Teka 德格 拉趟式抽油煙機 CNL6815 PLUS",
+        "rating": "",
+        "hon_price_min": "3,210",
+        "hon_price_max": "4,900",
+        "耗電量:": "274W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "600 x 300/490 x 274mm"
+    },
+    {
+        "names": "Zanussi 金章 易拆式抽油煙機 ZHT820X",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "3,080",
+        "摩打轉速:": "2000 rpm",
+        "排風量:": "1400 m3/hr",
+        "排風口直徑:": "152mm",
+        "尺寸:": "705 x 520 x 165mm"
+    },
+    {
+        "names": "Ocean 海洋 電熱除油抽油煙機 E2882LS",
+        "rating": "7.2",
+        "hon_price_min": "2,115",
+        "hon_price_max": "2,300",
+        "摩打轉速:": "2800R.P.M.",
+        "照明:": "40W",
+        "尺寸:": "890 x 535 x 125mm"
+    },
+    {
+        "names": "German Pool 德國寶 Luce 歐陸系列煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "7,600",
+        "hon_price_max": "9,160",
+        "照明:": "慳電膽 20W * 2",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Cimatech 60厘米拉趟式抽油煙機 CH601N-T",
+        "rating": "",
+        "hon_price_min": "2,148",
+        "hon_price_max": "2,890"
+    },
+    {
+        "names": "Philco 飛歌 煙囪式抽油煙機 PC900V",
+        "rating": "",
+        "hon_price_min": "2,780",
+        "hon_price_max": "3,400",
+        "摩打轉速:": "3段",
+        "尺寸:": "高660x1060x闊900x深500mm"
+    },
+    {
+        "names": "Giggas 上將 自動清洗式抽油煙機 G18S",
+        "rating": "7.5",
+        "hon_price_min": "1,120",
+        "hon_price_max": "2,680",
+        "摩打轉速:": "3800rpm",
+        "排風量:": "1220m3/hr",
+        "排風口直徑:": "153mm",
+        "尺寸:": "705 x 520 x 165/mm"
+    },
+    {
+        "names": "Garwoods 樂思 優美系列歐陸式抽油煙機 HT-3670SG",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "3,600",
+        "摩打轉速:": "1850 rpm",
+        "排風量:": "1080",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 360 x 365mm"
+    },
+    {
+        "names": "Baumatic 傾斜式抽油煙機 BES700BGL",
+        "rating": "",
+        "hon_price_min": "3,950",
+        "hon_price_max": "3,950",
+        "耗電量:": "383W",
+        "尺寸:": "360 x 700 x 430mm"
+    },
+    {
+        "names": "NODOR Extender Plus 600 X 嵌入式抽油煙機",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,680",
+        "耗電量:": "247W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "600 x 300 x 352mm"
+    },
+    {
+        "names": "UB Electric 抽油煙機 M22-36",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "5,280"
+    },
+    {
+        "names": "Athens 金雅典 享廚樂系列易拆式磨砂不銹鋼抽油煙機 LS-288E",
+        "rating": "",
+        "hon_price_min": "3,390",
+        "hon_price_max": "4,150",
+        "耗電量:": "2 x 80W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "716 x 550 x 145mm"
+    },
+    {
+        "names": "Cimatech 煙導式抽油煙機 CH201N-700",
+        "rating": "",
+        "hon_price_min": "3,358",
+        "hon_price_max": "3,772",
+        "照明:": "1.3W LED x 2",
+        "排風口直徑:": "120/150mm",
+        "尺寸:": "700 x 470 x 530-880mm"
+    },
+    {
+        "names": "Ocean 海洋 內置式油煙機 C3690",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,190",
+        "摩打轉速:": "2800",
+        "排風量:": "19.4m³/min",
+        "排風口直徑:": "152mm",
+        "尺寸:": "895 x 180 x 430mm"
+    },
+    {
+        "names": "CATA Selene 900 抽油煙機",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "4,850",
+        "耗電量:": "240W",
+        "排風口直徑:": "150/125mm",
+        "尺寸:": "900 x 505 x 540mm"
+    },
+    {
+        "names": "Philco 飛歌 拖拉式抽油煙機 GH609",
+        "rating": "4.0",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,360",
+        "摩打轉速:": "3段",
+        "排風量:": "每小時高達600立方米",
+        "尺寸:": "H175 * W900 * D280mm"
+    },
+    {
+        "names": "Lighting 星暉 台式抽油煙機 LG-4710S",
+        "rating": "10",
+        "hon_price_min": "3,310",
+        "hon_price_max": "3,680",
+        "water_price_min": "2,080",
+        "water_price_max": "2,080",
+        "耗電量:": "220W",
+        "排風口直徑:": "≥150mm",
+        "尺寸:": "710 x 515 x 160mm"
+    },
+    {
+        "names": "Athens 金雅典 歐陸式抽油煙機 - 掛牆 (玻璃) 系列 IA-303WG",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,420",
+        "water_price_min": "5,300",
+        "water_price_max": "5,300",
+        "摩打轉速:": "3",
+        "排風量:": "750m3/h",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Elica LOL-C 90厘米煙囪式抽油煙機",
+        "rating": "",
+        "hon_price_min": "6,338",
+        "hon_price_max": "6,378",
+        "照明:": "2 x 2.5W LED",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "TGC Senses 710 抽油煙機",
+        "rating": "10",
+        "hon_price_min": "2,999",
+        "hon_price_max": "3,820",
+        "摩打轉速:": "1850rpm",
+        "排風量:": "12.7",
+        "排風口直徑:": "150mm",
+        "尺寸:": "670-1210x710x500mm"
+    },
+    {
+        "names": "Athens 金雅典 Flurry Series 旋風系列抽油煙機 GH-268",
+        "rating": "8.4",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,220",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "摩打轉速:": "1600",
+        "尺寸:": "710 x 515 x 160mm"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 拉趟式抽油煙機 LI67SA530B",
+        "rating": "",
+        "hon_price_min": "7,180",
+        "hon_price_max": "8,550",
+        "耗電量:": "35.3千瓦時/年W",
+        "排風口直徑:": "直徑150毫米導管 (附上(120毫米連接器)mm",
+        "尺寸:": "299 x 1170 x 426"
+    },
+    {
+        "names": "Misoko 抽油煙機 MR-DA90",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,488",
+        "摩打轉速:": "兩段",
+        "排風量:": "18.1m3/min",
+        "尺寸:": "895(闊) x 175(高) x 511(深)mm"
+    },
+    {
+        "names": "Bondini 雪白 側抽式抽油煙機 BR-338",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "3,680",
+        "耗電量:": "180W",
+        "排風口直徑:": "150mm",
+        "尺寸:": "W750xD360xH470mm"
+    },
+    {
+        "names": "Hibachi 氣霸 易拆式抽油煙機 HY-2380",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "2,380",
+        "尺寸:": "720mm x 500mm x 100mm"
+    },
+    {
+        "names": "Garwoods 樂思 優美系列歐陸式抽油煙機 HT-3870S",
+        "rating": "",
+        "hon_price_min": "2,329",
+        "hon_price_max": "3,700",
+        "摩打轉速:": "1850 rpm",
+        "排風量:": "900",
+        "排風口直徑:": "150mm",
+        "尺寸:": "700 x 355 x 365mm"
+    },
+    {
+        "names": "German Pool 德國寶 Box 歐陸系列煙導掛牆式抽油煙機",
+        "rating": "",
+        "hon_price_min": "3,750",
+        "hon_price_max": "4,550",
+        "照明:": "慳電膽 20W * 2",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Athens 金雅典 Little Prince Series 小王子系列抽油煙機 JC-28 IEC",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "3,498",
+        "摩打轉速:": "(H) 1600R.P.M (L) 1350R.P.M",
+        "排風量:": "13.8m³/min",
+        "排風口直徑:": "152mm"
+    },
+    {
+        "names": "S.M.E.G. 島式抽油煙機 KI120XE",
+        "rating": "",
+        "hon_price_min": "11,068",
+        "hon_price_max": "19,439",
+        "耗電量:": "280W",
+        "排風口直徑:": "150mm"
+    },
+    {
+        "names": "Hitachi 日立 易拆式抽油煙機 HB-288GS",
+        "rating": "8.0",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,405",
+        "摩打轉速:": "1680RPM",
+        "排風量:": "16立方米 / 分鐘",
+        "排風口直徑:": "150mm",
+        "尺寸:": "711 x 141 x 507mm"
+    },
+    {
+        "names": "Nutzen 體感雙摩打加熱除油抽油煙機 NRH-20",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "4,005",
+        "排風量:": "1000m³/h",
+        "尺寸:": "710 x 400 x 120mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 掛牆煙囱式抽油煙機 AKR5000/IX",
+        "rating": "",
+        "hon_price_min": "3,099",
+        "hon_price_max": "4,870",
+        "照明:": "2 x 2W (LED燈)",
+        "尺寸:": "508-964 x 900 x 480mm"
+    },
+    {
+        "names": "Baumatic 煙囪式抽油煙機 BET910X",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,480",
+        "排風量:": "1300"
+    },
+    {
+        "names": "Primada 旋風無味抽油煙機 (分體機) PRH910S",
+        "rating": "",
+        "hon_price_min": "9,568",
+        "hon_price_max": "12,998",
+        "耗電量:": "160W"
+    },
+    {
+        "names": "Simpa 簡栢 抽油煙機 SWZR72",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,750",
+        "排風口直徑:": "150mm",
+        "尺寸:": "100 x 740 x 515mm"
+    },
+    {
+        "names": "Athens 金雅典 Gold Diamond Series 金鑽系列易拆式抽油煙機 GS-228V IEC",
+        "rating": "",
+        "hon_price_min": "5,910",
+        "hon_price_max": "6,290",
+        "摩打轉速:": "2500R.P.M",
+        "排風量:": "14.8m³/min",
+        "排風口直徑:": "152mm",
+        "尺寸:": "710 x 510 x 157mm"
+    }
+]
