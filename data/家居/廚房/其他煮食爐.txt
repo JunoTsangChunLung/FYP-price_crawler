@@ -1,0 +1,1687 @@
+[
+    {
+        "names": "German Pool 德國寶 韓式光波燒烤爐 KQB-315",
+        "rating": "9.8",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,980",
+        "類型:": "光波爐",
+        "時間掣:": "0-99分鐘",
+        "火力調校:": "80-280°C",
+        "尺寸:": "286 x 470 x 360mm"
+    },
+    {
+        "names": "German Pool 德國寶 迷你韓式光波燒烤爐 KQB-29E",
+        "rating": "9.1",
+        "hon_price_min": "888",
+        "hon_price_max": "1,398",
+        "類型:": "光波爐",
+        "最高火力:": "0.9kW",
+        "火力調校:": "高達250°C",
+        "尺寸:": "262 x 215 x 330mm"
+    },
+    {
+        "names": "German Pool 德國寶 韓式光波燒烤爐 KQB-415",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,850",
+        "類型:": "光波爐",
+        "時間掣:": "0-99分鐘",
+        "火力調校:": "80-280°C",
+        "尺寸:": "286 x 470 x 360mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『元氣』派對石板電烤爐 IHP-1308",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "478",
+        "類型:": "燒烤爐",
+        "最高火力:": "1.3kW",
+        "尺寸:": "235 x 235 x 135mm"
+    },
+    {
+        "names": "Breville the Smart Grill Pro 智能燒烤機 BGR840BSS",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,690",
+        "類型:": "燒烤爐",
+        "最高火力:": "2.4kW",
+        "尺寸:": "170 x 392 x 367mm"
+    },
+    {
+        "names": "Sigma 座檯式單頭電熱爐 HP-1",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "179",
+        "類型:": "電熱爐",
+        "爐頭數目:": "1",
+        "最高火力:": "1.5kW"
+    },
+    {
+        "names": "Hyundai 現代 纖薄型多功能雙頭萬用烤煮爐  HY-HP200",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "998",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "1.8kW",
+        "火力調校:": "20+20檔觸控",
+        "尺寸:": "570 x 288 x 76mm"
+    },
+    {
+        "names": "LIVEN 利仁 自動旋轉烤串機 KL-J121",
+        "rating": "",
+        "water_price_min": "480",
+        "water_price_max": "480",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Cookshack 高升牌 Smokette Elite Electric Smoker Oven 電煙燻爐 SM025",
+        "rating": "",
+        "hon_price_min": "19,700",
+        "hon_price_max": "19,700",
+        "類型:": "電煙燻爐"
+    },
+    {
+        "names": "Stilfer 斯麗華 Floor Type Single Tank Electric Fryer 座地式商用20公升單缸電炸爐 CE20",
+        "rating": "",
+        "hon_price_min": "18,300",
+        "hon_price_max": "18,300",
+        "類型:": "電炸爐",
+        "最高火力:": "10.95kW",
+        "火力調校:": "有",
+        "尺寸:": "400 x 700 x 900mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級旋轉光波爐 (12公升) CKY-989D",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,590",
+        "類型:": "光波爐",
+        "最高火力:": "1.3kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "360 x 332 x 443mm"
+    },
+    {
+        "names": "German Pool 德國寶 光波萬能煮食鍋 (7公升) CKY-298",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "808",
+        "類型:": "光波爐",
+        "最高火力:": "1kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "322 x 277 x 405mm"
+    },
+    {
+        "names": "Leego 利高牌 Mini Electric Griddle 迷你電扒爐 MG-18",
+        "rating": "",
+        "hon_price_min": "3,690",
+        "hon_price_max": "5,080",
+        "類型:": "電扒爐",
+        "火力調校:": "50-320℃",
+        "尺寸:": "460 x 460 x 280mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Single Tank Electric 3.5公升商用單缸電炸爐 Fryer0011C",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,200",
+        "類型:": "電炸爐",
+        "最高火力:": "1.8kW",
+        "火力調校:": "有",
+        "尺寸:": "180 x 380 x 255mm"
+    },
+    {
+        "names": "PEM 電炸爐",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "類型:": "電炸爐",
+        "最高火力:": "2kW",
+        "火力調校:": "0-190°C",
+        "尺寸:": "460 x 260 x 240mm"
+    },
+    {
+        "names": "Nichiwa 力之華 Electric Tempura Fryer 電天婦羅炸爐 SEFD-4H",
+        "rating": "",
+        "hon_price_min": "42,200",
+        "hon_price_max": "42,200",
+        "類型:": "電炸爐",
+        "火力調校:": "有",
+        "尺寸:": "500 x 600 x 300mm"
+    },
+    {
+        "names": "KALKO 搪瓷電爐 K-6633R",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "429",
+        "類型:": "電熱爐",
+        "最高火力:": "1.5kW"
+    },
+    {
+        "names": "Roller Grill Electric Gyros Grill 中東燒烤爐 GR40E",
+        "rating": "",
+        "hon_price_min": "9,000",
+        "hon_price_max": "9,000",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "BioloMix 雙面燒烤爐 BCG02D",
+        "rating": "",
+        "water_price_min": "849",
+        "water_price_max": "849",
+        "類型:": "燒烤爐",
+        "最高火力:": "2kW",
+        "火力調校:": "80-230°C",
+        "尺寸:": "355 x 338 x 165mm"
+    },
+    {
+        "names": "Roller Grill 雙槽獨立式炸爐 RFE20C",
+        "rating": "",
+        "hon_price_min": "9,200",
+        "hon_price_max": "9,200",
+        "類型:": "電炸爐",
+        "最高火力:": "12kW",
+        "尺寸:": "980 x 400 x 600mm"
+    },
+    {
+        "names": "Palace 皇宮 高身扇葉電熱爐 WF382",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "400",
+        "類型:": "電熱爐",
+        "最高火力:": "2kW",
+        "火力調校:": "設有 6 段高低溫調節功能",
+        "尺寸:": "230 x 230 x 130mm"
+    },
+    {
+        "names": "Leego 利高牌 Mini Electric Fryer 雙缸迷你電炸爐 MF-22",
+        "rating": "",
+        "hon_price_min": "5,740",
+        "hon_price_max": "6,880",
+        "類型:": "電炸爐",
+        "最高火力:": "5.7kW",
+        "尺寸:": "552 x 460 x 315mm"
+    },
+    {
+        "names": "De'Longhi Contact Grill Grill & BBQ 多功能燒烤爐 CGH1020D",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,080",
+        "類型:": "燒烤爐",
+        "時間掣:": "有",
+        "火力調校:": "有",
+        "尺寸:": "458 x 343 x 185mm"
+    },
+    {
+        "names": "German Pool 德國寶 韓式光波燒烤爐 KQB-215",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,498",
+        "類型:": "光波爐",
+        "火力調校:": "150 (±20°C)-236°C",
+        "尺寸:": "290 x 358 x 450mm"
+    },
+    {
+        "names": "Roller Grill Electric Grill With Lava Stones 火山石電燒烤爐 140",
+        "rating": "",
+        "hon_price_min": "2,275",
+        "hon_price_max": "2,600",
+        "類型:": "燒烤爐",
+        "最高火力:": "2.5kW",
+        "火力調校:": "有",
+        "尺寸:": "300 x 545 x 160mm"
+    },
+    {
+        "names": "MIELE ProLine 元件電加熱深底電炸鍋 CS 1411 F",
+        "rating": "",
+        "hon_price_min": "14,000",
+        "hon_price_max": "16,750",
+        "類型:": "電炸爐",
+        "最高火力:": "2.4kW",
+        "尺寸:": "288 x 520mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Floor Type Double Tanks Electric Fryer 座地式商用20公升雙缸電炸爐 CE20D",
+        "rating": "",
+        "hon_price_min": "20,300",
+        "hon_price_max": "20,300",
+        "類型:": "電炸爐",
+        "火力調校:": "有",
+        "尺寸:": "800 x 700 x 900mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『零水』健康營養RF射頻煮食爐 IIR-R7",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "729",
+        "類型:": "電熱爐",
+        "最高火力:": "0.8kW",
+        "火力調校:": "2種加熱模式: 自動 (約500°C), 保溫/慢煮 (約280°C)",
+        "尺寸:": "235 x 28mm"
+    },
+    {
+        "names": "Candy 嵌入式電炸鍋 PDF30X",
+        "rating": "",
+        "hon_price_min": "2,605",
+        "hon_price_max": "2,950",
+        "類型:": "電炸爐",
+        "最高火力:": "2.3kW",
+        "尺寸:": "155 x 290 x 510mm"
+    },
+    {
+        "names": "Eishin 日盛 Heavy Electric Grill 高效能日式電燒烤爐 T-3",
+        "rating": "",
+        "hon_price_min": "43,800",
+        "hon_price_max": "43,800",
+        "類型:": "燒烤爐",
+        "最高火力:": "4.5kW",
+        "火力調校:": "有",
+        "尺寸:": "740 x 340 x 250mm"
+    },
+    {
+        "names": "Sirman 舒文 Softcooker S 2/3 GN 低溫慢煮機",
+        "rating": "",
+        "hon_price_min": "6,300",
+        "hon_price_max": "6,300",
+        "類型:": "低溫慢煮爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Roller Grill Electric Gyros Grill 中東燒烤爐 GR80E",
+        "rating": "",
+        "hon_price_min": "11,440",
+        "hon_price_max": "11,440",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Stilfer 斯麗華 Floor Type Single Tank Electric Fryer 經濟型12LT商用落地式單缸電炸爐 CE12DE",
+        "rating": "",
+        "hon_price_min": "13,800",
+        "hon_price_max": "13,800",
+        "類型:": "電炸爐",
+        "最高火力:": "11kW",
+        "火力調校:": "有",
+        "尺寸:": "310 x 580 x 980mm"
+    },
+    {
+        "names": "Croquade Single Tank Electric Fryer 單缸電炸鍋 1948",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,390",
+        "類型:": "電炸爐",
+        "最高火力:": "3.2kW",
+        "尺寸:": "390 x 290 x 270mm"
+    },
+    {
+        "names": "recolte Grand Melt 雙層煎烤盤 RRF-2",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "799",
+        "類型:": "燒烤爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Roller Grill 座地電炸爐 RFE16C",
+        "rating": "",
+        "hon_price_min": "7,998",
+        "hon_price_max": "7,998",
+        "類型:": "電炸爐",
+        "最高火力:": "12kW",
+        "尺寸:": "400 x 600 x 980mm"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 嵌入式燒烤爐 ET375FUB1E",
+        "rating": "",
+        "hon_price_min": "12,600",
+        "hon_price_max": "12,808",
+        "類型:": "燒烤爐",
+        "最高火力:": "2.5kW",
+        "尺寸:": "108 x 302 x 520mm"
+    },
+    {
+        "names": "AQS 多功能電烤盤 適合健康的您與家人朋友聚餐 型號：AQS-G006",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "燒烤爐",
+        "最高火力:": "1.4kW",
+        "尺寸:": "680 x 280mm"
+    },
+    {
+        "names": "Tecnoinox 雙頭陶瓷面電爐  PCC35E/1",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "11,800",
+        "類型:": "電熱爐",
+        "爐頭數目:": "2",
+        "最高火力:": "2.5kW"
+    },
+    {
+        "names": "Michi I.G. 360° 光波燒烤爐",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "698",
+        "類型:": "光波爐",
+        "爐頭數目:": "1",
+        "最高火力:": "1.5kW"
+    },
+    {
+        "names": "Stilfer 斯麗華 Counter Top Half Smooth Half Grooved Fry Top 半平半坑電扒爐 0039C",
+        "rating": "",
+        "hon_price_min": "18,000",
+        "hon_price_max": "18,000",
+        "類型:": "電扒爐"
+    },
+    {
+        "names": "Stilfer 斯麗華 Single Tank Electric Fryer  6.5公升商用單缸炸爐 0065",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "6,800",
+        "類型:": "電炸爐",
+        "最高火力:": "3.1kW",
+        "火力調校:": "有",
+        "尺寸:": "300 x 400 x 265mm"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 Domino 嵌入式鐵板燒爐 ET475FYB1E",
+        "rating": "",
+        "hon_price_min": "23,850",
+        "hon_price_max": "32,800",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "2.5kW",
+        "尺寸:": "520 x 392 x 90mm"
+    },
+    {
+        "names": "German Pool 德國寶 超級旋轉光波爐升級版 CKY-990D",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,970",
+        "類型:": "光波爐",
+        "最高火力:": "1.6kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "360 x 332 x 484mm"
+    },
+    {
+        "names": "German Pool 德國寶 韓式光波燒烤爐 KQB-300",
+        "rating": "10",
+        "hon_price_min": "1,176",
+        "hon_price_max": "1,560",
+        "類型:": "光波爐",
+        "時間掣:": "0-120分鐘",
+        "火力調校:": "150 / 280 °C",
+        "尺寸:": "300 x 470 x 360mm"
+    },
+    {
+        "names": "MIELE ProLine 元件電加熱燒烤架 CS 1312 BG",
+        "rating": "",
+        "hon_price_min": "14,680",
+        "hon_price_max": "16,300",
+        "類型:": "燒烤爐",
+        "最高火力:": "3kW",
+        "尺寸:": "288 x 520mm"
+    },
+    {
+        "names": "Belshaw 巴素牌 CUT-N-FRY Electric Donut Fryer 甜甜圈電炸爐 616B",
+        "rating": "",
+        "hon_price_min": "56,500",
+        "hon_price_max": "56,500",
+        "類型:": "電炸爐"
+    },
+    {
+        "names": "Cookshack 高升牌 SmartSmoker Electric Smoker Oven 電煙燻爐 SM160",
+        "rating": "",
+        "hon_price_min": "51,550",
+        "hon_price_max": "51,550",
+        "類型:": "電煙燻爐",
+        "火力調校:": "74-158°C"
+    },
+    {
+        "names": "Tecnoinox 座檯式四方頭電爐 PCS70E7",
+        "rating": "",
+        "hon_price_min": "19,700",
+        "hon_price_max": "19,700",
+        "類型:": "電熱爐",
+        "時間掣:": "無",
+        "火力調校:": "有",
+        "尺寸:": "700 x 700 x 280mm"
+    },
+    {
+        "names": "Tecnoinox Salamander with Movable Cooking Plate 半自動電面火烤爐 SEL2",
+        "rating": "",
+        "hon_price_min": "12,500",
+        "hon_price_max": "12,500",
+        "類型:": "燒烤爐",
+        "時間掣:": "無",
+        "火力調校:": "有",
+        "尺寸:": "75 x 40 x 35cm"
+    },
+    {
+        "names": "Thermal Pro Sous-vide Cooker 低溫煮食爐 SVC-100D",
+        "rating": "",
+        "hon_price_min": "5,930",
+        "hon_price_max": "8,080",
+        "類型:": "低溫煮食爐",
+        "最高火力:": "1.3kW"
+    },
+    {
+        "names": "Stilfer 斯麗華 2-Tanks Electric Fryer 3.5公升商用雙缸電炸爐 0011D",
+        "rating": "",
+        "hon_price_min": "7,000",
+        "hon_price_max": "7,000",
+        "類型:": "電炸爐",
+        "最高火力:": "3.6kW",
+        "火力調校:": "有",
+        "尺寸:": "360 x 380 x 255mm"
+    },
+    {
+        "names": "APW Wyott Heavy Duty Electric Fryer 高效能電炸爐 EF-15N",
+        "rating": "",
+        "hon_price_min": "19,890",
+        "hon_price_max": "19,890",
+        "類型:": "電炸爐",
+        "火力調校:": "93-204℃",
+        "尺寸:": "305 x 610 x 416mm"
+    },
+    {
+        "names": "Roller Grill Panini XL 接觸式坑紋烤爐",
+        "rating": "",
+        "hon_price_min": "6,240",
+        "hon_price_max": "6,240",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Stilfer 斯麗華 12Lt Countertop Single Electric Fryer 12公升台式單缸電炸爐 CE12B",
+        "rating": "",
+        "hon_price_min": "7,500",
+        "hon_price_max": "7,500",
+        "類型:": "電炸爐"
+    },
+    {
+        "names": "Gemini 雙子星 3 合 1 石燒/鐵板/烘烤電焗爐 GBG900V",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "280",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "0.9kW",
+        "尺寸:": "395 x 125 x 215mm"
+    },
+    {
+        "names": "Leego 利高牌 Electric Griddle 電扒爐 LG-24K",
+        "rating": "",
+        "hon_price_min": "11,660",
+        "hon_price_max": "11,660",
+        "類型:": "電扒爐",
+        "最高火力:": "9kW",
+        "尺寸:": "600 x 700 x 360mm"
+    },
+    {
+        "names": "Waring Single Panini Grill 接觸式坑紋烤爐 WPG150K",
+        "rating": "",
+        "hon_price_min": "3,510",
+        "hon_price_max": "3,510",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "German Pool 德國寶 光波萬能煮食鍋 CKY-882",
+        "rating": "",
+        "hon_price_min": "1,305",
+        "hon_price_max": "1,380",
+        "類型:": "光波爐",
+        "最高火力:": "1.3kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "306 x 330 x 476mm"
+    },
+    {
+        "names": "Roller Grill Professional Electric Fryer Double Tank 雙格炸爐 FD80D",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "類型:": "電炸爐",
+        "最高火力:": "3.4kW",
+        "尺寸:": "540 x 425 x 320mm"
+    },
+    {
+        "names": "German Pool 德國寶 光波萬能煮食鍋 CKY-888",
+        "rating": "6.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,530",
+        "類型:": "光波爐",
+        "最高火力:": "1.3kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "306 x 330 x 476mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 旋風萬用光烤爐 (10公升) IHO-10L",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "1,210",
+        "類型:": "光波爐",
+        "最高火力:": "1.4kW",
+        "時間掣:": "60分鐘"
+    },
+    {
+        "names": "Stilfer 斯麗華 Electric Smooth Griddle 電平扒爐 0040B",
+        "rating": "",
+        "hon_price_min": "10,800",
+        "hon_price_max": "10,800",
+        "類型:": "電扒爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "KALKO 7吋座檯式電熱爐 K-6677",
+        "rating": "",
+        "hon_price_min": "445",
+        "hon_price_max": "518",
+        "類型:": "電熱爐",
+        "爐頭數目:": "1",
+        "最高火力:": "2kW"
+    },
+    {
+        "names": "Leego 利高牌 Tempura Fryer 天婦羅炸爐 TF-1",
+        "rating": "",
+        "hon_price_min": "20,500",
+        "hon_price_max": "22,780",
+        "類型:": "電炸爐",
+        "爐頭數目:": "1",
+        "最高火力:": "4kW"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 Domino 嵌入式電炸爐 ET375FAB1E",
+        "rating": "",
+        "hon_price_min": "14,040",
+        "hon_price_max": "14,248",
+        "類型:": "電炸爐",
+        "最高火力:": "2.5kW",
+        "尺寸:": "227 x 302 x 520mm"
+    },
+    {
+        "names": "Palace 皇宮 座檯式單頭高身電熱爐 WF382D",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "350",
+        "類型:": "電熱爐",
+        "最高火力:": "2kW",
+        "尺寸:": "220 x 130mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Electric Smooth Griddle 電平扒爐 0040",
+        "rating": "",
+        "hon_price_min": "7,300",
+        "hon_price_max": "7,300",
+        "類型:": "電扒爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Roller Grill Double Electric Lava Stone Grill 火山石燒烤爐 140D",
+        "rating": "",
+        "hon_price_min": "4,290",
+        "hon_price_max": "4,480",
+        "類型:": "燒烤爐",
+        "最高火力:": "5kW",
+        "尺寸:": "590 x 500 x 305mm"
+    },
+    {
+        "names": "Tecnoinox SE Classic Salamander With Movable Radiant Plate 升降式電面火烤爐 216041-SE40/0CB",
+        "rating": "",
+        "hon_price_min": "13,700",
+        "hon_price_max": "13,700",
+        "類型:": "燒烤爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Stilfer 斯麗華 Electric Grill 電燒烤爐 0048",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,800",
+        "類型:": "燒烤爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 座檯式單頭電熱爐 IHP-1500 (停產)",
+        "rating": "",
+        "hon_price_min": "186",
+        "hon_price_max": "250",
+        "類型:": "電熱爐",
+        "爐頭數目:": "1",
+        "最高火力:": "1.5kW"
+    },
+    {
+        "names": "Tefal 特福 Excelio Comfort 座檯式鐵板燒爐 TG5220",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,090",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "1.4kW",
+        "尺寸:": "350 x 230mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Electric Grooved Griddle 電坑扒爐 0039",
+        "rating": "",
+        "hon_price_min": "7,600",
+        "hon_price_max": "7,600",
+        "類型:": "電扒爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Roller Grill 電熱扒爐 PSR600E",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "4,550",
+        "類型:": "電扒爐"
+    },
+    {
+        "names": "Rasonic 樂信 陶瓷玻璃燒烤機 RCG-C12",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "類型:": "燒烤爐",
+        "最高火力:": "1.2kW",
+        "火力調校:": "7段",
+        "尺寸:": "520 x 330 x 68mm"
+    },
+    {
+        "names": "Leego 利高牌 Electric Fryer 雙缸電炸爐 LF-30K",
+        "rating": "",
+        "hon_price_min": "15,200",
+        "hon_price_max": "17,980",
+        "類型:": "電炸爐",
+        "最高火力:": "12kW",
+        "尺寸:": "650 x 700 x 360mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Floor Type 15Lt Single Tank Electric Fryer 商用座地式15公升單缸電炸爐 CE16E",
+        "rating": "",
+        "hon_price_min": "16,700",
+        "hon_price_max": "16,700",
+        "類型:": "電炸爐",
+        "最高火力:": "9kW",
+        "火力調校:": "有",
+        "尺寸:": "370 x 586 x 980mm"
+    },
+    {
+        "names": "MIELE ProLine 元件電加熱鐵板燒爐 CS 1327 Y",
+        "rating": "",
+        "hon_price_min": "24,880",
+        "hon_price_max": "27,350",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "2.6kW",
+        "尺寸:": "380 x 520mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Countertop Double Tanks Electric Fryer 12公升檯式雙缸電炸爐 CE13B",
+        "rating": "",
+        "hon_price_min": "11,700",
+        "hon_price_max": "11,700",
+        "類型:": "電炸爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "TOKIT 智能熱敏爐青春版",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "water_price_min": "850",
+        "water_price_max": "850",
+        "類型:": "電熱爐",
+        "最高火力:": "2.1kW",
+        "尺寸:": "335 x 261 x 74mm"
+    },
+    {
+        "names": "Roller Grill Savoye R Contact Grills 揭蓋式電熱坑扒爐",
+        "rating": "",
+        "hon_price_min": "3,900",
+        "hon_price_max": "4,280",
+        "類型:": "電扒爐",
+        "爐頭數目:": "1",
+        "最高火力:": "2kW"
+    },
+    {
+        "names": "Leego 利高牌 Electric Fryer 電炸爐 LF-15K",
+        "rating": "",
+        "hon_price_min": "8,568",
+        "hon_price_max": "11,280",
+        "類型:": "電炸爐",
+        "尺寸:": "350 x 700 x 360mm"
+    },
+    {
+        "names": "German Pool 德國寶 韓式光波燒烤爐 KQB-114",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,240",
+        "類型:": "光波爐",
+        "火力調校:": "100-250°C",
+        "尺寸:": "306 x 430 x 360mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 9Lt Countertop Single Electric Fryer 9公升台式單缸電炸爐 CE12",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,200",
+        "類型:": "電炸爐"
+    },
+    {
+        "names": "Candy 獨立式四頭煮食爐連電焗爐 (52公升) CVM6524PX",
+        "rating": "",
+        "hon_price_min": "8,608",
+        "hon_price_max": "8,608",
+        "類型:": "電熱爐,組合焗爐",
+        "尺寸:": "850 x 600 x 600mm"
+    },
+    {
+        "names": "Baumatic 嵌入式電炸爐 PF1SS",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,180",
+        "類型:": "電炸爐",
+        "最高火力:": "2.3kW",
+        "尺寸:": "155 x 28 x 510mm"
+    },
+    {
+        "names": "Roller Grill Professional Smoker - Large Model - 1 Level 煙燻爐 FM2",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "類型:": "電煙燻爐"
+    },
+    {
+        "names": "APW Wyott Heavy Duty Electrice Griddle 高效能電平扒爐 EG-48H",
+        "rating": "",
+        "hon_price_min": "47,000",
+        "hon_price_max": "47,000",
+        "類型:": "電扒爐"
+    },
+    {
+        "names": "Leego 利高牌 Electric Salamander 座檯式電熱面火爐 SM-8064",
+        "rating": "",
+        "hon_price_min": "12,200",
+        "hon_price_max": "12,900",
+        "類型:": "燒烤爐",
+        "最高火力:": "6kW",
+        "尺寸:": "798 x 625 x 490mm"
+    },
+    {
+        "names": "BBQ太郎 無煙自轉光波串燒燒烤爐 370P",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "980",
+        "類型:": "光波爐",
+        "爐頭數目:": "1"
+    },
+    {
+        "names": "Anvil 400mm Flat Top Griddle Plate 電熱扒爐 (2000W) FTA0400",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "類型:": "電扒爐",
+        "尺寸:": "623 × 470 × 241mm",
+        "開孔尺寸:": "32"
+    },
+    {
+        "names": "LIVEN 利仁 電燒烤爐烤串機 KL-J120",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "類型:": "燒烤爐",
+        "最高火力:": "1.1kW",
+        "尺寸:": "210 x 310mm"
+    },
+    {
+        "names": "Kingsun 燒烤套和3件餐具套裝 KSOD01",
+        "rating": "10",
+        "hon_price_min": "988",
+        "hon_price_max": "988",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Croquade Double Tank Electric Fryer 雙缸電炸鍋 1998",
+        "rating": "",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,190",
+        "類型:": "電炸爐",
+        "最高火力:": "3.2kW",
+        "尺寸:": "390 x 520 x 270mm"
+    },
+    {
+        "names": "Roller Grill 高速電炸爐 RFE12",
+        "rating": "",
+        "hon_price_min": "4,798",
+        "hon_price_max": "4,798",
+        "類型:": "電炸爐",
+        "最高火力:": "9kW",
+        "尺寸:": "400 x 610 x 445mm"
+    },
+    {
+        "names": "EGO 依芝奧 座檯式單頭電熱爐 52871-2KW",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "589",
+        "類型:": "電熱爐",
+        "最高火力:": "2kW",
+        "尺寸:": "90 x 260 x 285mm"
+    },
+    {
+        "names": "Candy 獨立式四頭煮食爐連電焗爐 (42公升) CEE5620W (停產)",
+        "rating": "",
+        "hon_price_min": "4,158",
+        "hon_price_max": "4,158",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "1.5kW",
+        "尺寸:": "510 x 850 x 580mm"
+    },
+    {
+        "names": "Sirman 舒文 Cort R Panini Grill 三文治 帕尼尼電烤爐",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,200",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Roller Grill 電熱扒爐 PSF 400 E",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "6,600",
+        "類型:": "電扒爐",
+        "最高火力:": "3kW",
+        "火力調校:": "有",
+        "尺寸:": "400 x 475 x 230mm"
+    },
+    {
+        "names": "Quamar Chocolat Port 熱朱古力爐 C/1",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "類型:": "朱古力爐"
+    },
+    {
+        "names": "APW Wyott Heavy Duty Electric Fryer 高效能雙缸電炸爐 EF-30NT",
+        "rating": "",
+        "hon_price_min": "31,590",
+        "hon_price_max": "31,590",
+        "類型:": "電炸爐",
+        "火力調校:": "93-204℃",
+        "尺寸:": "610 x 610 x 416mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Electric Grooved Griddle 電坑扒爐 0039B",
+        "rating": "",
+        "hon_price_min": "11,900",
+        "hon_price_max": "11,900",
+        "類型:": "電扒爐",
+        "最高火力:": "7.2kW"
+    },
+    {
+        "names": "Turbo Italy 戶外電燒烤爐 TBQ-367",
+        "rating": "",
+        "hon_price_min": "1,128",
+        "hon_price_max": "1,128",
+        "類型:": "燒烤爐",
+        "最高火力:": "2kW"
+    },
+    {
+        "names": "Roller Grill 鋼板電熱扒爐 PSR400E",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "類型:": "電扒爐"
+    },
+    {
+        "names": "Tecnoinox Electric Grills 商用電燒烤爐 GR70E/0",
+        "rating": "",
+        "hon_price_min": "18,300",
+        "hon_price_max": "18,300",
+        "類型:": "燒烤爐",
+        "最高火力:": "6kW"
+    },
+    {
+        "names": "Roller Grill Majestic 接觸式坑紋烤爐",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "5,950",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Russell Hobbs George Foreman 健康降油電燒烤爐 RH-18870",
+        "rating": "",
+        "hon_price_min": "758",
+        "hon_price_max": "758",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Palace 皇宮 座檯式單頭電熱爐 WF381",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "269",
+        "類型:": "電熱爐",
+        "最高火力:": "1.5kW",
+        "尺寸:": "85 x 280 x 250mm"
+    },
+    {
+        "names": "MAX PRO 麥士寶 Double Heads Chocolate Warmer 雙頭暖朱古力爐 921.552",
+        "rating": "",
+        "hon_price_min": "5,100",
+        "hon_price_max": "5,100",
+        "類型:": "朱古力爐"
+    },
+    {
+        "names": "Stilfer 斯麗華 Countertop Double Tanks Electric Fryer 9公升檯式雙缸電炸爐 CE13",
+        "rating": "",
+        "hon_price_min": "10,300",
+        "hon_price_max": "10,300",
+        "類型:": "電炸爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Candy 獨立式四頭煮食爐連電焗爐 (42公升) CCE5200W",
+        "rating": "",
+        "hon_price_min": "3,909",
+        "hon_price_max": "4,009",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "1.5kW",
+        "尺寸:": "865 x 510 x 550mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Floor Type 15Lt 2-Tanks Electric Fryer 商用座地式15公升雙缸電炸爐 CE16BE",
+        "rating": "",
+        "hon_price_min": "19,500",
+        "hon_price_max": "19,500",
+        "類型:": "電炸爐",
+        "最高火力:": "16.5kW",
+        "火力調校:": "有",
+        "尺寸:": "730 x 580 x 900mm"
+    },
+    {
+        "names": "Leego 利高牌 Tabletop Electric Char Broiler 座檯式電熱燒烤爐 CG-040",
+        "rating": "",
+        "hon_price_min": "14,600",
+        "hon_price_max": "15,680",
+        "類型:": "電熱爐",
+        "最高火力:": "4.8kW",
+        "尺寸:": "400 x 700 x 360mm"
+    },
+    {
+        "names": "Tecnoinox Electric Double Round Boiling Top 台式雙圓頭電爐 PC35E/1",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "6,600",
+        "類型:": "電熱爐",
+        "爐頭數目:": "2",
+        "最高火力:": "4kW"
+    },
+    {
+        "names": "Stilfer 斯麗華 Countertop Single Electric Fryer 26公升檯式單缸電炸爐 CE17",
+        "rating": "",
+        "hon_price_min": "10,500",
+        "hon_price_max": "10,500",
+        "類型:": "電炸爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Stilfer 斯麗華 Countertop Double Electric Fryer 6.5公升檯式雙缸電炸爐 0065B",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "類型:": "電炸爐",
+        "最高火力:": "3.1kW"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 Domino 嵌入式鐵板燒爐 ET475MY11E",
+        "rating": "",
+        "hon_price_min": "25,600",
+        "hon_price_max": "25,918",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "2.5kW",
+        "尺寸:": "520 x 392mm"
+    },
+    {
+        "names": "German Pool 德國寶 光波萬能煮食鍋 CKY-988D",
+        "rating": "",
+        "hon_price_min": "1,478",
+        "hon_price_max": "1,650",
+        "類型:": "光波爐",
+        "最高火力:": "1.4kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "350 x 483 x 334mm"
+    },
+    {
+        "names": "Tecnoinox SE Classic Salamander With Movable Radiant Plate 升降式電面火烤爐 SE60",
+        "rating": "",
+        "hon_price_min": "16,900",
+        "hon_price_max": "16,900",
+        "類型:": "燒烤爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "JNC 玻璃燒座檯式電烤爐 JHA-GGR-SCHOTT-SS",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "類型:": "燒烤爐",
+        "最高火力:": "0.8kW",
+        "火力調校:": "240°C",
+        "尺寸:": "56 x 465 x 270mm"
+    },
+    {
+        "names": "German Pool 德國寶 光波萬能煮食鍋 CKY-688F",
+        "rating": "10",
+        "hon_price_min": "1,153",
+        "hon_price_max": "1,200",
+        "類型:": "光波爐",
+        "最高火力:": "1.3kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "322 x 460 x 490mm"
+    },
+    {
+        "names": "MIELE ProLine 元件電加熱燒烤架 CS 1322 BG",
+        "rating": "",
+        "hon_price_min": "18,580",
+        "hon_price_max": "20,550",
+        "類型:": "燒烤爐",
+        "最高火力:": "3.4kW",
+        "尺寸:": "380 x 520mm"
+    },
+    {
+        "names": "Roller Grill 雙槽油炸爐 FD50D",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "類型:": "電炸爐",
+        "爐頭數目:": "2"
+    },
+    {
+        "names": "Stilfer 斯麗華 6Lt Countertop Single Tank Electric Fryer 6公升台式單缸電炸爐 CE63",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "類型:": "電炸爐"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 嵌入式電烤爐 ET375MU11E",
+        "rating": "",
+        "hon_price_min": "11,440",
+        "hon_price_max": "11,608",
+        "類型:": "燒烤爐",
+        "最高火力:": "2.5kW",
+        "尺寸:": "520 x 302mm"
+    },
+    {
+        "names": "Tecnoinox EElectric Four Round Boiling Tops 台式四圓頭電爐 PC70E/0",
+        "rating": "",
+        "hon_price_min": "10,700",
+        "hon_price_max": "10,700",
+        "類型:": "電熱爐",
+        "爐頭數目:": "4",
+        "最高火力:": "8kW"
+    },
+    {
+        "names": "Roller Grill Double Panini 接觸式坑紋烤爐",
+        "rating": "",
+        "hon_price_min": "8,320",
+        "hon_price_max": "8,320",
+        "類型:": "燒烤爐",
+        "安裝方式:": "座檯式"
+    },
+    {
+        "names": "Palace 皇宮 座檯式單頭電熱爐 WF380",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "130",
+        "類型:": "電熱爐",
+        "最高火力:": "0.35kW",
+        "尺寸:": "60 x 180 x 150mm"
+    },
+    {
+        "names": "Bosch Serie 2 嵌入式燒烤爐 PKU375V14E",
+        "rating": "",
+        "類型:": "燒烤爐",
+        "最高火力:": "2.5kW",
+        "火力調校:": "9段",
+        "尺寸:": "306 x 241 x 527mm"
+    },
+    {
+        "names": "Thomson 韓式 3D BBQ 光波爐 TM-LY003",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "類型:": "光波爐",
+        "爐頭數目:": "1"
+    },
+    {
+        "names": "Stilfer 斯麗華 6Lt Countertop Double Tanks Electric Fryer 6公升檯式雙缸電炸爐 CE63B",
+        "rating": "",
+        "hon_price_min": "8,100",
+        "hon_price_max": "8,100",
+        "類型:": "電炸爐"
+    },
+    {
+        "names": "Roller Grill Professional Smoker - 2 Levels 雙層電煙薰爐 FM4",
+        "rating": "",
+        "hon_price_min": "7,680",
+        "hon_price_max": "7,680",
+        "類型:": "電煙燻爐"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 Domino 嵌入式電炸鍋 ET375MA11E",
+        "rating": "",
+        "hon_price_min": "12,900",
+        "hon_price_max": "14,320",
+        "類型:": "電炸爐",
+        "最高火力:": "2.5kW",
+        "尺寸:": "520 x 302mm"
+    },
+    {
+        "names": "Roller Grill Professional Electric Fryer Double Tank (with Draining System) 炸爐 (有排油位置) FD80R",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,100",
+        "類型:": "電炸爐",
+        "最高火力:": "3.4kW",
+        "尺寸:": "305 x 450 x 360mm"
+    },
+    {
+        "names": "Roller Grill Professional Electric Fryer 1 Tank 炸爐 FD50",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "類型:": "電炸爐",
+        "最高火力:": "3.2kW",
+        "尺寸:": "215 x 425 x 320mm"
+    },
+    {
+        "names": "Anvil 600mm Flat Top Griddle Plate FTA4600",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "類型:": "電扒爐",
+        "尺寸:": "623 x 470 x 241mm"
+    },
+    {
+        "names": "KALKO 搪瓷迷你電爐 K-6622",
+        "rating": "",
+        "類型:": "電熱爐",
+        "尺寸:": "220 x 120 x 45mm"
+    },
+    {
+        "names": "Leego 利高牌 Mini Electric Fryer 迷你電炸爐 MF-11",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "4,580",
+        "類型:": "電炸爐",
+        "最高火力:": "2.85kW",
+        "尺寸:": "275 x 460 x 315mm"
+    },
+    {
+        "names": "Nemco Dual Cone Baker 雙頭烘雪糕皮機 7030-2240",
+        "rating": "",
+        "hon_price_min": "17,700",
+        "hon_price_max": "17,700",
+        "類型:": "電熱爐",
+        "爐頭數目:": "2",
+        "最高火力:": "1.78kW"
+    },
+    {
+        "names": "Sirman 舒文 Elio R Panini Grill 三明治烤爐",
+        "rating": "",
+        "hon_price_min": "5,300",
+        "hon_price_max": "5,300",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 嵌入式單頭平面電烤爐 EQL4520BOG",
+        "rating": "",
+        "hon_price_min": "10,460",
+        "hon_price_max": "27,880",
+        "類型:": "燒烤爐",
+        "爐頭數目:": "1",
+        "尺寸:": "60 x 300 x 510mm"
+    },
+    {
+        "names": "Roller Grill Glass Ceramic Flat Griddle 商用陶瓷面電平扒爐 PS 400 VCL",
+        "rating": "",
+        "hon_price_min": "9,300",
+        "hon_price_max": "9,300",
+        "類型:": "電扒爐",
+        "最高火力:": "1.5kW",
+        "尺寸:": "390 x 420 x 150mm"
+    },
+    {
+        "names": "Leego 利高牌 Electric Griddle 電扒爐 LG-18K",
+        "rating": "",
+        "hon_price_min": "7,188",
+        "hon_price_max": "9,300",
+        "類型:": "電扒爐",
+        "尺寸:": "450 x 700 x 360mm"
+    },
+    {
+        "names": "Nemco Single Cone Baker 單頭烘雪糕皮機 7030-240",
+        "rating": "",
+        "hon_price_min": "11,300",
+        "hon_price_max": "11,300"
+    },
+    {
+        "names": "Roller Grill Professional Electric Fryer 1 Tank 炸爐 FD80",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,600",
+        "類型:": "電炸爐",
+        "最高火力:": "3.4kW",
+        "尺寸:": "280 x 425 x 320mm"
+    },
+    {
+        "names": "Roller Grill Electric Gyros Grill 中東燒烤爐 GR60E",
+        "rating": "",
+        "hon_price_min": "10,010",
+        "hon_price_max": "10,010",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Russell Hobbs George Foreman 健康降油煎扒機 RH-18850",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "688",
+        "類型:": "電扒爐"
+    },
+    {
+        "names": "Tecnoinox Sel Classic Pass-through Electric Salamander 半自動電面火烤爐 216045-SEL1/0CB",
+        "rating": "",
+        "hon_price_min": "10,500",
+        "hon_price_max": "10,500",
+        "類型:": "燒烤爐",
+        "最高火力:": "2kW"
+    },
+    {
+        "names": "EGO 依芝奧 座檯式單頭電熱爐 18815-1500W",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "720",
+        "類型:": "電熱爐",
+        "最高火力:": "1.5kW",
+        "火力調校:": "6段",
+        "尺寸:": "250 x 250 x 135mm"
+    },
+    {
+        "names": "EGO 依芝奧 座檯式單頭電熱爐 22820-2000W",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "890",
+        "類型:": "電熱爐",
+        "最高火力:": "2kW",
+        "尺寸:": "250 x 250 x 135mm"
+    },
+    {
+        "names": "Famous 法國名家 多功能光波萬能煮食鍋 (12公升) FHO-12L(FAM)",
+        "rating": "",
+        "hon_price_min": "397",
+        "hon_price_max": "397",
+        "類型:": "光波爐",
+        "爐頭數目:": "1",
+        "火力調校:": "125-250°C"
+    },
+    {
+        "names": "Rosieres 嵌入式電炸爐 DVF11CPN",
+        "rating": "",
+        "hon_price_min": "6,210",
+        "hon_price_max": "6,210",
+        "類型:": "電炸爐",
+        "爐頭數目:": "1",
+        "尺寸:": "210 x 288 x 510mm"
+    },
+    {
+        "names": "Thermal Pro Chocolate Tempering Machine 朱古力溶化爐 BM-3543CT",
+        "rating": "",
+        "hon_price_min": "9,480",
+        "hon_price_max": "10,180",
+        "類型:": "朱古力爐",
+        "最高火力:": "0.16kW"
+    },
+    {
+        "names": "Bakeware 多功能燒烤盤 少油煙 燒烤 煎 炒 食物皆能 型號：PY-01",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "1.4kW",
+        "尺寸:": "680 x 280mm"
+    },
+    {
+        "names": "APW Wyott Heavy Duty Electrice Griddle 高效能電平扒爐 EG-24H",
+        "rating": "",
+        "hon_price_min": "17,790",
+        "hon_price_max": "17,790",
+        "類型:": "電扒爐"
+    },
+    {
+        "names": "Kingsun 美式燒烤爐",
+        "rating": "10",
+        "hon_price_min": "3,698",
+        "hon_price_max": "3,698",
+        "類型:": "燒烤爐",
+        "安裝方式:": "座地式"
+    },
+    {
+        "names": "Tecnoinox 四頭陶瓷面電爐 PCC70E/0",
+        "rating": "",
+        "hon_price_min": "19,300",
+        "hon_price_max": "19,300",
+        "類型:": "電熱爐",
+        "爐頭數目:": "4",
+        "最高火力:": "2.5kW"
+    },
+    {
+        "names": "Ariston 愛朗 嵌入式不銹鋼頂面雙頭電熱爐 DK02SIX",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "1,800",
+        "類型:": "電熱爐",
+        "最高火力:": "2kW",
+        "尺寸:": "288 x 42 x 510mm"
+    },
+    {
+        "names": "Roller Grill Professional Smoker - Large Model - 1 Level 單層電煙薰爐 FM3",
+        "rating": "",
+        "hon_price_min": "7,280",
+        "hon_price_max": "7,280",
+        "類型:": "電煙燻爐"
+    },
+    {
+        "names": "Waring Large Panini Grill 接觸式坑紋烤爐 WPG250K",
+        "rating": "",
+        "hon_price_min": "5,850",
+        "hon_price_max": "5,850",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Tecnoinox Electric Grills 高效能電燒烤爐 GR70E/0",
+        "rating": "",
+        "hon_price_min": "18,200",
+        "hon_price_max": "18,200",
+        "類型:": "燒烤爐",
+        "最高火力:": "6段kW"
+    },
+    {
+        "names": "Waring 接觸式坑紋烤爐 WPG300K",
+        "rating": "",
+        "hon_price_min": "7,150",
+        "hon_price_max": "7,150",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Dagood 大谷 雙區發熱扒爐 JG-CG4000-8802",
+        "rating": "",
+        "hon_price_min": "8,600",
+        "hon_price_max": "8,600",
+        "類型:": "電扒爐",
+        "時間掣:": "有",
+        "火力調校:": "有",
+        "尺寸:": "60.5 x 60 x 26cm"
+    },
+    {
+        "names": "Cuisinart 健康煎烤機 GR-4NHK",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,440",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "GoSun Sport 太陽能燒烤爐",
+        "rating": "",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "APW Wyott Heavy Duty Electrice Griddle 高效能電平扒爐 EG-36H",
+        "rating": "",
+        "hon_price_min": "38,800",
+        "hon_price_max": "38,800",
+        "類型:": "電扒爐"
+    },
+    {
+        "names": "Palace 皇宮 多用途光波爐 (12公升) WF933",
+        "rating": "",
+        "類型:": "光波爐",
+        "最高火力:": "1.3kW",
+        "火力調校:": "60-250°C",
+        "尺寸:": "335 x 166 x 355mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Countertop Double Tanks Electric Fryer 15公升檯式雙缸電炸爐 CE15BE",
+        "rating": "",
+        "hon_price_min": "14,200",
+        "hon_price_max": "14,200",
+        "類型:": "電炸爐",
+        "最高火力:": "9kW"
+    },
+    {
+        "names": "Bosch Serie 2 嵌入式燒烤爐 PKU375CA1E",
+        "rating": "",
+        "類型:": "燒烤爐",
+        "最高火力:": "2.5kW",
+        "火力調校:": "9段",
+        "尺寸:": "306 x 235 x 527mm"
+    },
+    {
+        "names": "Candy 獨立式四頭煮食爐連電焗爐 (50公升) CCV6525X",
+        "rating": "",
+        "hon_price_min": "7,930",
+        "hon_price_max": "8,040",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "2.3kW",
+        "尺寸:": "850 x 600 x 600mm"
+    },
+    {
+        "names": "Rasonic 樂信 陶瓷玻璃燒烤機 RCG-C142",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,490",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "Indesit 依達時 獨立式四頭電熱板爐連電焗爐 (50公升) K1E1(W)R",
+        "rating": "",
+        "hon_price_min": "6,608",
+        "hon_price_max": "6,608",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "2kW",
+        "尺寸:": "850 x 500 x 500mm"
+    },
+    {
+        "names": "MIELE ProLine 元件嵌入式電烤爐 CS 1421 S",
+        "rating": "",
+        "hon_price_min": "34,430",
+        "hon_price_max": "34,430",
+        "類型:": "燒烤爐",
+        "最高火力:": "1.7kW",
+        "尺寸:": "380 x 520mm"
+    },
+    {
+        "names": "Indesit 依達時 獨立式四頭電熱板爐連電焗爐 (52公升) K6E11",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "6,900",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "2kW",
+        "尺寸:": "850 x 600 x 600mm"
+    },
+    {
+        "names": "Gaggenau 嵌入式電烤爐 VR230112",
+        "rating": "",
+        "hon_price_min": "8,580",
+        "hon_price_max": "8,580",
+        "類型:": "燒烤爐",
+        "爐頭數目:": "1",
+        "尺寸:": "288 x 510 x 100mm"
+    },
+    {
+        "names": "Origo Stone Grill 迷你石頭燒 BQ-2004",
+        "rating": "",
+        "類型:": "燒烤爐",
+        "最高火力:": "0.6kW",
+        "尺寸:": "105 x 510 x 105mm"
+    },
+    {
+        "names": "German Pool 德國寶 光波萬能煮食鍋 (7公升) CKY-288",
+        "rating": "",
+        "類型:": "光波爐",
+        "最高火力:": "1kW",
+        "火力調校:": "50-250°C",
+        "尺寸:": "322 x 277 x 405mm"
+    },
+    {
+        "names": "Stilfer 斯麗華 Economic Type Double Tanks Floor Electric Fryer 12公升經濟型落地式雙缸電炸爐 CE14BE",
+        "rating": "",
+        "hon_price_min": "14,200",
+        "hon_price_max": "14,200",
+        "類型:": "電炸爐",
+        "最高火力:": "14kW"
+    },
+    {
+        "names": "Baumatic 嵌入式燒烤平面爐 PBQSS",
+        "rating": "",
+        "類型:": "燒烤爐",
+        "最高火力:": "2.40kW",
+        "尺寸:": "268mm x 490mm"
+    },
+    {
+        "names": "Rosieres 嵌入式電烤爐 DVB11CPN",
+        "rating": "",
+        "hon_price_min": "7,020",
+        "hon_price_max": "7,020",
+        "類型:": "燒烤爐",
+        "爐頭數目:": "1",
+        "尺寸:": "510 x 288 x 28mm"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 嵌入式鐵板燒爐 EQT4520IK",
+        "rating": "",
+        "類型:": "鐵板燒爐",
+        "最高火力:": "2.8kW",
+        "尺寸:": "55 x 155 x 520mm"
+    },
+    {
+        "names": "Russell Hobbs Grill & Melt Advanced 健康降油電燒烤爐 RH-22160",
+        "rating": "",
+        "類型:": "燒烤爐"
+    },
+    {
+        "names": "iTurbo SKJ-6092",
+        "rating": ""
+    },
+    {
+        "names": "German Pool 德國寶 光波萬能煮食鍋 (7公升) CKY-280",
+        "rating": "",
+        "類型:": "光波爐",
+        "最高火力:": "1000kW",
+        "尺寸:": "322 x 277 x 405mm"
+    },
+    {
+        "names": "Indesit 依達時 獨立式四頭電熱板爐連電焗爐 (56公升) K6C51",
+        "rating": "",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "2.1kW",
+        "尺寸:": "850 x 600 x 600mm"
+    },
+    {
+        "names": "HARROW 多用途煮食光波爐 (12公升) HT-AF1200",
+        "rating": "",
+        "類型:": "光波爐",
+        "時間掣:": "60分鐘",
+        "火力調校:": "125-250°C",
+        "尺寸:": "330 x 300 x 330mm"
+    },
+    {
+        "names": "Nardi 嵌入式雙頭平面爐 BHV02X",
+        "rating": "",
+        "hon_price_min": "3,088",
+        "hon_price_max": "3,088",
+        "類型:": "電熱爐",
+        "最高火力:": "1.7kW",
+        "尺寸:": "55 x 290 x 510mm"
+    },
+    {
+        "names": "Ariston 愛朗 嵌入式電炸爐 DKFIX",
+        "rating": "",
+        "類型:": "電炸爐",
+        "尺寸:": "288 x 155 x 510mm"
+    },
+    {
+        "names": "Siemens 西門子 Domino Grill 嵌入式燒烤爐 ET510501",
+        "rating": "",
+        "類型:": "燒烤爐",
+        "爐頭數目:": "1"
+    },
+    {
+        "names": "iTurbo KYQ-8240EN",
+        "rating": ""
+    },
+    {
+        "names": "La Germania 耐而美 獨立式四頭電熱爐+電焗爐 (60公升) M6044",
+        "rating": "",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "7.5kW",
+        "尺寸:": "850 x 600 x 600mm"
+    },
+    {
+        "names": "Thomson 光波多用途煮食爐 (12公升) TM-12",
+        "rating": "10",
+        "類型:": "光波爐",
+        "爐頭數目:": "1"
+    },
+    {
+        "names": "Larette 座檯式雙頭電熱爐 LRCP2250W",
+        "rating": "",
+        "類型:": "電熱爐",
+        "爐頭數目:": "2",
+        "最高火力:": "2.25kW"
+    },
+    {
+        "names": "Indesit 依達時 獨立式四頭電熱板爐連電焗爐 (52公升) KN6E11",
+        "rating": "",
+        "類型:": "電熱爐,組合焗爐",
+        "最高火力:": "2kW",
+        "尺寸:": "850 x 600 x 600mm"
+    },
+    {
+        "names": "Wakaii 萬家宜 營纖萬用爐光波爐 (12公升) WCR-803",
+        "rating": "",
+        "類型:": "光波爐",
+        "最高火力:": "1.4kW",
+        "尺寸:": "415 x 330 x 330mm"
+    },
+    {
+        "names": "Ariston 愛朗 嵌入式電烤爐 DKBIX",
+        "rating": "",
+        "類型:": "燒烤爐",
+        "尺寸:": "298 x 50 x 510mm"
+    },
+    {
+        "names": "Thomson 光波多用途煮食爐 (17公升) TM-E11",
+        "rating": "10",
+        "類型:": "光波爐",
+        "最高火力:": "2.5kW",
+        "尺寸:": "340 x 300mm"
+    },
+    {
+        "names": "Nakasumi 座檯式電烤爐 IT-010GT",
+        "rating": "",
+        "類型:": "燒烤爐",
+        "最高火力:": "1kW",
+        "尺寸:": "100 x 310 x 250mm"
+    },
+    {
+        "names": "EGO 依芝奧 座檯式單頭電熱爐 22720-2000W",
+        "rating": "10",
+        "類型:": "電熱爐",
+        "最高火力:": "2kW",
+        "尺寸:": "220 x 220 x 125mm"
+    },
+    {
+        "names": "Larette 座檯式單頭電熱爐 LRCP1500W",
+        "rating": "",
+        "類型:": "電熱爐",
+        "爐頭數目:": "1",
+        "最高火力:": "1.5kW"
+    }
+]

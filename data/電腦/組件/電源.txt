@@ -1,0 +1,3550 @@
+[
+    {
+        "names": "MSI MPG A850G PCIE5 Power Supply",
+        "rating": "10",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,199",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS TUF Gaming 1000W Gold",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS ROG Loki SFX-L 850W 80 Plus Platinum (ATX3.0)",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "功率:": "850W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair CV Series CV750 - 750 Watt 80 Plus Bronze Certified PSU",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "499",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Corsair RM850x SHIFT 80 PLUS Gold Fully Modular ATX Power Supply (CP-9020252)",
+        "rating": "6.0",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,299",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "FSP Hydro G PRO ATX3.0 (PCIe5.0) 1000W 電源",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM1000x SHIFT 80 PLUS Gold Fully Modular ATX Power Supply (CP-9020253)",
+        "rating": "",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,699",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic PRIME PX-850",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,299",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NE750G M 80Plus Gold 全模組化電源供應器",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "780",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec Neo Eco Platinum 850W 80Plus Platinum 鉑金牌全模組火牛",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,099",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Gigabtye Power Supply UD750GM",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "699",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MEG Ai1300P PCIE5 Power Supply",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,899",
+        "功率:": "1300W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS ROG Strix 850W 金牌電源供應器 ROG-STRIX-850G",
+        "rating": "",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,540",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone HELA 850R Platinum PCIe 5.0全模組ATX電源 SST-HA850R-PM",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,388",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MPG A1000G PCIE5 Power Supply",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,799",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MPG A1000G PCIE5 Power Supply",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,799",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec VP550P PLUS 550W 80Plus ATX 電源供應器",
+        "rating": "10",
+        "hon_price_min": "259",
+        "hon_price_max": "365",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus"
+    },
+    {
+        "names": "ASUS ROG Strix 1000W Gold Aura Edition (ATX3.0)",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "功率:": "1000W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone VIVA 650 Gold 650W 80 PLUS金牌認證ATX電源",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "580",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "ASUS ROG Thor II 1200W ROG-THOR-1200P2-GAMING",
+        "rating": "7.1",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,780",
+        "功率:": "1200W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Vinnic PS500W-532Wh 144,000 mAh 流動AC電源 充電站 VP-PS500W-532",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "5,999"
+    },
+    {
+        "names": "Antec NX550",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "FSP Hydro G Pro 1000W Power Supply",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,299",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM1000x (CP-9020201)",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,399",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS TUF Gaming 750W Power Supply TUF-GAMING-750B",
+        "rating": "9.0",
+        "hon_price_min": "489",
+        "hon_price_max": "679",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master V850 SFX 850W 80Plus Gold",
+        "rating": "",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,090",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM750e Fully Modular Low-Noise Power Supply (CP-9020248)",
+        "rating": "",
+        "hon_price_min": "695",
+        "hon_price_max": "859",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec High Current Gamer Gold 850W Power Supply HCG-850 Gold",
+        "rating": "10",
+        "hon_price_min": "910",
+        "hon_price_max": "989",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NeoECO Gold ZEN 700W NE700G",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "679",
+        "功率:": "700W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Corsair SF750",
+        "rating": "9.5",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,250",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS Strix 750W 金牌電源供應器 ROG-STRIX-750G",
+        "rating": "10",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,223",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MPG A1000G 金牌電源",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,599",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX Gold 650 Full Modular",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "735",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic Prime TX-1300",
+        "rating": "",
+        "hon_price_min": "3,258",
+        "hon_price_max": "3,258",
+        "功率:": "1300W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Vinnic PS500W-532Wh 144,000 mAh 流動AC電源 充電站 VP-PS500W-532",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "5,999"
+    },
+    {
+        "names": "ASUS ROG Loki SFX-L 1000W Platinum",
+        "rating": "2.0",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "功率:": "1000W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM850",
+        "rating": "10",
+        "hon_price_min": "830",
+        "hon_price_max": "1,080",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NeoECO Platinum 650W 全模組火牛 NE650",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "869",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MAG A650BN 650W 80 Plus Bronze ATX Power Supply",
+        "rating": "8.0",
+        "hon_price_min": "375",
+        "hon_price_max": "499",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Antec HCG-750 Gold",
+        "rating": "9.7",
+        "hon_price_min": "760",
+        "hon_price_max": "880",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "ASUS ROG Thor 1000W Platinum II EVA Edition",
+        "rating": "",
+        "hon_price_min": "2,670",
+        "hon_price_max": "2,999",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Platinum",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "NZXT 850W Power Supply Unit C850",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "999",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master G800 Gold Entry Level 80 Plus Gold ATX Power Supply Unit",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "690",
+        "功率:": "800W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "Corsair HX1200 80 PLUS Platinum",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,980",
+        "功率:": "1200W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS TUF-650B-GAMING 650W",
+        "rating": "10",
+        "hon_price_min": "460",
+        "hon_price_max": "629",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "ASUS ROG-THOR-1000P2-GAMING 1000W Platinum II 電源供應器",
+        "rating": "8.0",
+        "hon_price_min": "2,220",
+        "hon_price_max": "2,600",
+        "功率:": "1000W",
+        "產品特點:": "RGB,靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS ROG-STRIX-1000G 1000W 金牌電源供應器",
+        "rating": "10",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,699",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cougar GEX 850 PSU 80Plus Gold",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "839",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Antec Neo Eco 850W Gold Modular NE850G M",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "840",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec Antec NeoECO Modular 電腦電源 550W NE550M",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "420",
+        "功率:": "550W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Seasonic FOCUS PX-850",
+        "rating": "",
+        "hon_price_min": "989",
+        "hon_price_max": "1,299",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V750 Gold i Multi",
+        "rating": "",
+        "hon_price_min": "1,430",
+        "hon_price_max": "1,430",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V750 SFX Gold White Edition",
+        "rating": "",
+        "hon_price_min": "995",
+        "hon_price_max": "1,040",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Enermax CYBERBRON 700W 80 PLUS Bronze Non-Modular Power Supply (ECB700EWT)",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "398",
+        "功率:": "700W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "SilverStone ST50F-ES230",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "315",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec Cuprum Strike CSK650",
+        "rating": "10",
+        "hon_price_min": "420",
+        "hon_price_max": "476",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Thermaltake Toughpower GF3 1350W Gold - TT Premium Edition",
+        "rating": "",
+        "hon_price_min": "1,659",
+        "hon_price_max": "1,659",
+        "功率:": "1350W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Synology Adapter 100W_2 Level 2",
+        "rating": "",
+        "hon_price_min": "535",
+        "hon_price_max": "600"
+    },
+    {
+        "names": "Cooler Master GX GOLD 1050 ATX 3.0 80 Plus Gold Full Modular",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,590",
+        "功率:": "1050W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM1200x SHIFT 80 PLUS Gold Fully Modular ATX Power Supply (CP-9020254)",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,099",
+        "功率:": "1200W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V1000 Platinum",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,899",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Platinum",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NeoECO Gold ZEN 600W NE600G",
+        "rating": "6.0",
+        "hon_price_min": "420",
+        "hon_price_max": "579",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "NZXT 750W Power Supply Unit C750",
+        "rating": "10",
+        "hon_price_min": "725",
+        "hon_price_max": "860",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec 750W NeoECO 80 Plus Platinum NE750",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "989",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master MWE Bronze 650",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "560",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Corsair RM850x CP-9020200",
+        "rating": "",
+        "hon_price_min": "940",
+        "hon_price_max": "1,060",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM White Series RM850 White 850W 80 PLUS Gold Fully Modular ATX PSU (CP-9020232)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,192",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MPG A1000G 1000W 全模組 80 Plus Gold Certified",
+        "rating": "10",
+        "hon_price_min": "970",
+        "hon_price_max": "1,599",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec Cuprum Strike CSK550",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "380",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "ASUS ROG Strix 850W White Edition 金牌電源供應器  ROG-STRIX-850G-WHITE",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,540",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Antec NX650",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "489",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "FSP Hydro PTM PRO 1200W 電源",
+        "rating": "2.0",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,850",
+        "功率:": "1200W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "NZXT C1200 80+Gold 1200 Watt PSU",
+        "rating": "",
+        "hon_price_min": "1,670",
+        "hon_price_max": "1,699",
+        "功率:": "1200W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS Strix 650W 金牌電源供應器 ROG-STRIX-650G",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "1,019",
+        "功率:": "650W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "FSP Hydro G PRO ATX3.0 (PCIe5.0) 850W 電源",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX Gold 750 Full Modular",
+        "rating": "",
+        "hon_price_min": "735",
+        "hon_price_max": "805",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair TX-M Series TX650M 650W 80 PLUS Gold Semi Modular ATX PSU (CP-9020229)",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "709",
+        "功率:": "650W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "NZXT C1000 Gold 1000 Watt PSU",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,289",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "NZXT Bronze Semi-Modular ATX PSU C650",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "539",
+        "功率:": "650W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Enermax CYBERBRON 500W 80 PLUS Bronze Non-Modular Power Supply (ECB500AWT)",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "350",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Corsair RM750 750W 80+ Gold Power Supply",
+        "rating": "",
+        "hon_price_min": "738",
+        "hon_price_max": "860",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Gigabtye Modular Power Supply P850GM",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "829",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Phanteks AMP Modular PSU 1000W",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NeoECO Modular 電腦電源 650W NE650M",
+        "rating": "10",
+        "hon_price_min": "469",
+        "hon_price_max": "500",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "FSP DAGGER PRO 850W SFX 80Plus Gold 金牌火牛",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "999",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V650 Gold - V2",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "885",
+        "功率:": "650W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NE850 Platinum",
+        "rating": "",
+        "hon_price_min": "948",
+        "hon_price_max": "999",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Gigabtye AORUS P1200W 80+ Platinum Modular 電源",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,699",
+        "功率:": "1200W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Lenovo ThinkPad 135W AC Adapter (4X20E50566)",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "500",
+        "water_price_min": "299",
+        "water_price_max": "360"
+    },
+    {
+        "names": "FSP 2000W 電源供應器 Cannon Pro",
+        "rating": "",
+        "hon_price_min": "3,299",
+        "hon_price_max": "3,299",
+        "功率:": "2000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic FOCUS PLUS Gold 750W",
+        "rating": "",
+        "hon_price_min": "938",
+        "hon_price_max": "979",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic PRIME PX-1600",
+        "rating": "",
+        "hon_price_min": "3,188",
+        "hon_price_max": "3,188",
+        "功率:": "1600W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V850 Gold - V2",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,070",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic PRIME TX-1600",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,280",
+        "功率:": "1600W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone SST-SX750 Platinum SFX",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,180",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS TUF-550B-GAMING 550W",
+        "rating": "8.0",
+        "hon_price_min": "360",
+        "hon_price_max": "559",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master V550 Gold - V2",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "795",
+        "功率:": "550W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic Focus GX-650",
+        "rating": "10",
+        "hon_price_min": "780",
+        "hon_price_max": "899",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MPG A750GF",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "890",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone 750W 80 Plus Gold 電源供應器 SST-ET750-G",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "640",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Super Flower Leadex III Gold ARGB Pro Power Supply 650W",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,199",
+        "功率:": "650W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX Gold 650 Full Modular (White Edition)",
+        "rating": "",
+        "hon_price_min": "745",
+        "hon_price_max": "745",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master Elite P600 230V - V3",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "340",
+        "功率:": "600W",
+        "電源接口:": "MB 24 Pin x 1、CPU 4+4 Pin x 1、SATA x 5、Peripheral 4 Pin x 3、PCI-e 6+2 Pin x 2"
+    },
+    {
+        "names": "Corsair TX-M Series TX750M 750W 80PLUS Gold Semi Modular PSU (CP-9020131)",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "功率:": "750W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "ASUS TUF Gaming 550W Bronze Power Supply",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "559",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Seasonic Focus GX-1000",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,479",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS ROG-THOR-1200P",
+        "rating": "10",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,699",
+        "功率:": "1200W",
+        "產品特點:": "LED,RGB"
+    },
+    {
+        "names": "Thermaltake Toughpower GF1 850W - TT Premium Edition (PS-TPD-0850FNFAGx-1)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "899",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master Elite P500 230V - V3",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "310",
+        "功率:": "500W",
+        "電源接口:": "MB 24 Pin x 1、CPU 4+4 Pin x 1、SATA x 3、Peripheral 4 Pin x 2、PCI-e 6+2 Pin x 1"
+    },
+    {
+        "names": "SilverStone VIVA 750 Gold 750W 80 PLUS金牌認證ATX電源",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "660",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "Cooler Master G700 Gold Entry Level 80 Plus Gold ATX Power Supply Unit",
+        "rating": "",
+        "hon_price_min": "558",
+        "hon_price_max": "625",
+        "功率:": "700W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "Maxtron UA90A",
+        "rating": "",
+        "hon_price_min": "225",
+        "hon_price_max": "295",
+        "功率:": "90W"
+    },
+    {
+        "names": "Cooler Master MWE Gold 750 Full Modular",
+        "rating": "",
+        "hon_price_min": "710",
+        "hon_price_max": "759",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MPG A850GF",
+        "rating": "10",
+        "hon_price_min": "860",
+        "hon_price_max": "1,199",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MPG A650GF 電源供應器",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "899",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V1100 SFX 80 PLUS Platinum",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "功率:": "1100W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V1300 SFX 80 PLUS Platinum",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480",
+        "功率:": "1300W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone Extreme 500 Bronze SFX 電源",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "498",
+        "功率:": "500W",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "Seasonic PRIME PX-1000 1000W 80Plus Platinum Power Supply",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,950",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone SST-ST1000-PTS 1000W",
+        "rating": "",
+        "hon_price_min": "1,420",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Super Flower Leadex V Gold PRO 1000W SF-1000F14TG",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master MWE Bronze 500 V2 電源供應器 (230V)",
+        "rating": "",
+        "hon_price_min": "356",
+        "hon_price_max": "399",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Bronze",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "Corsair 650W CV Series 80 Plus Bronze Certified PSU CV650",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "489",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "ASUS Notebook 90W Charging AC Adaptor",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "250",
+        "water_price_max": "340",
+        "功率:": "90W"
+    },
+    {
+        "names": "Corsair HX1000i Fully Modular Ultra-Low Noise Platinum ATX 1000 Watt PC 火牛 CP-9020214",
+        "rating": "",
+        "hon_price_min": "1,730",
+        "hon_price_max": "1,730",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX Gold 750 Full Modular (White Edition)",
+        "rating": "",
+        "hon_price_min": "815",
+        "hon_price_max": "815",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair 450W CV Series 80 Plus Bronze Certified PSU CV450",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "349",
+        "功率:": "450W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Corsair HX1500i Fully Modular Ultra-Low Noise Platinum ATX 1000 Watt PC 火牛 CP-9020215",
+        "rating": "2.0",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,799",
+        "功率:": "1500W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "MSI MAG A550BN 550W 80 Plus Bronze ATX Power Supply",
+        "rating": "",
+        "hon_price_min": "345",
+        "hon_price_max": "449",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "FSP Hydro PTM PRO ATX3.0 (PCIe5.0) 1200W 電源",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "功率:": "1200W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NeoECO Gold ZEN 500W NE500G",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "479",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Seasonic Focus GX-850 白色",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,159",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V650 Gold - V2 (White Edition) MPY-650V-AGBAG",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "885",
+        "功率:": "650W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone 80 Plus 金牌認證750W全模組 SFX 電源 SX750 Gold",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "988",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec HCG1000 Gold Fully Modular Power Supply",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS ROG Strix 850W GUNDAM EDITION PSU",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,599",
+        "功率:": "850W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Super Flower Leadex Platinum 1600W Power Supply",
+        "rating": "",
+        "hon_price_min": "2,930",
+        "hon_price_max": "2,990",
+        "功率:": "1600W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone VIVA 550 Bronze 550W 80 PLUS",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "399",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "FSP DAGGER PRO SFX 650W Power Supply",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "799",
+        "功率:": "650W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Lenovo AC ADAPTER (ADLX56NCC3A)",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "water_price_min": "180",
+        "water_price_max": "350",
+        "功率:": "45W",
+        "電源接口:": "方咀"
+    },
+    {
+        "names": "ASUS ROG Strix 550W 金牌電源供應器(PSU)",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "899",
+        "功率:": "550W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX Gold 1250 - V2 Full Modular",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,550",
+        "功率:": "1250W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Super Flower Leadex III Gold ARGB Pro 650W Power Supply",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "820",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone SX700-G 電源供應器 700W SST-SX700-G",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,020",
+        "功率:": "700W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Xigmatek HYDRA M 650W Full Modular ATX Power Supply",
+        "rating": "10",
+        "hon_price_min": "365",
+        "hon_price_max": "468",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Gigabtye Power Supply 全模組化電源供應器 GP-UD850GM",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "860",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Super Flower Leadex III Gold 850W SF-850F14HG",
+        "rating": "",
+        "hon_price_min": "1,139",
+        "hon_price_max": "1,139",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM850x",
+        "rating": "5.0",
+        "hon_price_min": "940",
+        "hon_price_max": "1,060",
+        "功率:": "850W"
+    },
+    {
+        "names": "Corsair 550W CV Series 80 Plus Bronze Certified PSU CV550",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "429",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master MWE Bronze V2 550",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "475",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "Antec High Current Gamer Gold Power Supply HCG650 Gold",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "699",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair CX-750F RGB Series fully modular PSU (CP-902021)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "功率:": "750W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "DeepCool 850W PSU DQ850-M-V2L",
+        "rating": "",
+        "hon_price_min": "869",
+        "hon_price_max": "899",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone NJ600 電源供應器 600W SST-NJ600",
+        "rating": "",
+        "hon_price_min": "1,698",
+        "hon_price_max": "1,699",
+        "功率:": "600W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX Gold 550 全模組",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "650",
+        "功率:": "550W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "ASUS ROG-THOR-850P",
+        "rating": "8.0",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,899",
+        "功率:": "850W",
+        "產品特點:": "LED,RGB"
+    },
+    {
+        "names": "Corsair HX1000 1000 Watt 80 PLUS Platinum Certified Fully Modular PSU",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,850",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM1000x (CP-9020094)",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,380",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Super Flower Leadex III Gold 550W Power Supply",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "680",
+        "功率:": "550W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone SX500-G",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "699",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Fractal Design Ion SFX-L 650W Gold Power Supply",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "900",
+        "功率:": "650W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Enermax REVOLUTION D.F. ERF850EWT",
+        "rating": "10",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NE650G",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "720",
+        "功率:": "650W"
+    },
+    {
+        "names": "ASUS TUF GAMING 450W BRONZE",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "450",
+        "功率:": "450W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Antec Cuprum Strike CSK450",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "功率:": "450W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Super Flower Leadex Titanium 1600W SF-1600F14HT",
+        "rating": "",
+        "hon_price_min": "3,490",
+        "hon_price_max": "3,499",
+        "功率:": "1600W",
+        "80 Plus認證等級:": "80 Plus Titanium",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM850-21 CP-9020235",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "990",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "FSP RAIDER II 750W",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "599",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Cougar XTC ARGB 650W",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "功率:": "650W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "AeroCool Aero White 700W 80Plus Power Supply",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "499",
+        "功率:": "700W",
+        "80 Plus認證等級:": "80 Plus",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "FSP Hydro G Pro 850W",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,020",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Gigabtye GP-P1000GM 1000W 80Plus Gold",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Super Flower Leadex III Gold ARGB 650W Power Supply",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,089",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Corsair CX Series CX650F RGB 650W 80 Plus Bronze 全模組化電源",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "790",
+        "功率:": "650W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "GTR TFX系列電源 TFX-300W",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "285",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "功率:": "300W"
+    },
+    {
+        "names": "Fractal Design Ion+ 2 Platinum 860W",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,199",
+        "功率:": "860W",
+        "80 Plus認證等級:": "80 Plus Platinum",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM1000e Fully Modular Low-Noise ATX Power Supply (CP-9020250)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,259",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V650 SFX 650W 80Plus Gold",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "920",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair CX Series CX750F RGB - 750 Watt 80 Plus Bronze Certified Fully Modular RGB PSU",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "功率:": "750W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair TX-M Series TX650M 650W 80PLUS Gold Semi Modular PSU (CP-9020132)",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "功率:": "650W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Micronics Classic II Gold Full Modular 1050W",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "功率:": "1050W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Fractal Design Ion Gold 750W Fully Modular Power Supply",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone 1000W DA1000R Gold PCIe 5.0全模組ATX電源 SST-DA1000R-GM",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,480",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair AX1600i",
+        "rating": "10",
+        "hon_price_min": "3,530",
+        "hon_price_max": "3,680",
+        "功率:": "1600W"
+    },
+    {
+        "names": "Sharkoon SHP 600W 80+ Bronze 電源供應器",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "410",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Phanteks Revolt SFX 80 Plus Gold PSU 650W (PH-P650GSF)",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,040",
+        "功率:": "650W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Sharkoon WPM Gold ZERO 750",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Thermaltake Smart BX1 650W ATX Power Supply w/12cm Fan (80Plus Bronze) PS-SPD-0650NNSABE-1",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "625",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "DeepCool 600W PSU DA600",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "399",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Super Flower Leadex Platinum 1200W SF-1200F14MP",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "2,099",
+        "功率:": "1200W",
+        "80 Plus認證等級:": "80 Plus Platinum",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "NZXT Bronze Semi-Modular ATX PSU C750",
+        "rating": "4.0",
+        "hon_price_min": "470",
+        "hon_price_max": "599",
+        "功率:": "750W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "FSP 金鋼彈 SFX 350W",
+        "rating": "10",
+        "hon_price_min": "349",
+        "hon_price_max": "350",
+        "功率:": "350W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master GX Gold 850 Full Modular (White Edition)",
+        "rating": "",
+        "hon_price_min": "875",
+        "hon_price_max": "875",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master G600 Gold Entry Level 80 Plus Gold ATX Power Supply Unit",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "560",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "Synology Adapter 60W_1 Level VI",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "295",
+        "功率:": "60W"
+    },
+    {
+        "names": "Super Flower Leadex Gold_Special Edition 1000W SF-1000F14MG V1.0",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Smart RGB 500W",
+        "rating": "10",
+        "hon_price_min": "389",
+        "hon_price_max": "409",
+        "功率:": "500W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "GTR Type-Z 350W",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "170",
+        "功率:": "350W"
+    },
+    {
+        "names": "Xigmatek X-Power 500W Power Supply",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "398",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus"
+    },
+    {
+        "names": "Seasonic M12II-620 EVO",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "功率:": "620W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cougar VTE400",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "290",
+        "功率:": "400W"
+    },
+    {
+        "names": "Thermaltake Toughpower GF1 750W 金牌電源供應器 - TT Premium Edition 頂級版",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "799",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V850 Gold - V2 (White Edition)",
+        "rating": "",
+        "hon_price_min": "1,110",
+        "hon_price_max": "1,120",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic Focus Plus 1000 Gold",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,350",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Corsair SF Series SF450",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "850",
+        "功率:": "450W"
+    },
+    {
+        "names": "Antec HCG750 Bronze",
+        "rating": "",
+        "hon_price_min": "518",
+        "hon_price_max": "518",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM750x 750W 80PLUS Gold Fully Modular ATX PSU (CP-9020199)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "899",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ST1200-PT",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,850",
+        "功率:": "1200W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM750x (CP-9020179)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "899",
+        "功率:": "750W"
+    },
+    {
+        "names": "Cooler Master MWE Gold 650",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "649",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Super Flower Leadex III Gold ARGB 850W Power Supply",
+        "rating": "",
+        "hon_price_min": "1,289",
+        "hon_price_max": "1,289",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Corsair CX550M",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "573",
+        "功率:": "550W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Cooler Master V550 SFX 550W 80Plus Gold",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "830",
+        "功率:": "550W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic S12III 550W",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Thermaltake Toughpower GX1 700W Gold",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "750",
+        "功率:": "700W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Seasonic PRIME 1300W PLATINUM",
+        "rating": "",
+        "hon_price_min": "2,335",
+        "hon_price_max": "2,490",
+        "功率:": "1300W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Manson Remote Programming Lab.Grade Switching Mode Power Supply HCS-3402",
+        "rating": "",
+        "hon_price_min": "2,310",
+        "hon_price_max": "2,310"
+    },
+    {
+        "names": "Corsair RM750i",
+        "rating": "6.0",
+        "hon_price_min": "1,049",
+        "hon_price_max": "1,200",
+        "功率:": "750W"
+    },
+    {
+        "names": "FSP 黑爵士D Hydro GD 550W 80 Plus Gold",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Phanteks Revolt Pro PSU 850W (PH-P850GC)",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V850 SFX Gold White Edition",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,120",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V850 (RS-850-AFBA-G1)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair 1000 Watt 80 PLUS Titanium Certified Fully Modular ATX PSU AX1000",
+        "rating": "",
+        "hon_price_min": "2,085",
+        "hon_price_max": "2,099",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone 1200W HELA 1200R Platinum PCIe 5.0全模組ATX電源 SST-HA1200R-PM",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,999",
+        "功率:": "1200W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "FSP Hydro GT PRO ATX3.0 (PCIe5.0) 1000W 電源",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Thermaltake Toughpower Grand RGB 750W Gold (RGB Sync Edition)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "功率:": "750W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Gigabtye UD1000GM PG5 80 Plus Gold 電源供應器",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V750 SFX 750W 80Plus Gold",
+        "rating": "",
+        "hon_price_min": "955",
+        "hon_price_max": "1,010",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Phanteks Revolt X PSU 1200W 80+ Platinum 雙系統電源供應器",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,080",
+        "功率:": "1200W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Toughpower Grand RGB 850W Gold",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,049",
+        "功率:": "850W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Acer 原裝 W15-045N4A  45W (19V 2.37A) Power Supply",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "180",
+        "water_price_max": "299"
+    },
+    {
+        "names": "Phanteks Revolt Pro PSU 1000W (PH-P1000GC)",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,299",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "2the Max Trolley TT232PS",
+        "rating": "",
+        "hon_price_min": "22,000",
+        "hon_price_max": "22,000"
+    },
+    {
+        "names": "Corsair AX Series AX850 - 850 Watt 80 PLUS Titanium Certified Fully Modular ATX PSU",
+        "rating": "",
+        "hon_price_min": "1,729",
+        "hon_price_max": "1,729",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone 550W 半模組電源 ET550-HG",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "569",
+        "功率:": "550W",
+        "產品特點:": "靜音",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Cooler Master GX GOLD 1250 ATX 3.0 80 Plus Gold Full Modular",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,790",
+        "功率:": "1250W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V650 Gold",
+        "rating": "",
+        "hon_price_min": "785",
+        "hon_price_max": "860",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic FOCUS SGX-500 電源",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "899",
+        "功率:": "500W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ST30SF",
+        "rating": "8.0",
+        "hon_price_min": "329",
+        "hon_price_max": "379",
+        "功率:": "300W"
+    },
+    {
+        "names": "FSP SFX 450W",
+        "rating": "10",
+        "hon_price_min": "410",
+        "hon_price_max": "469",
+        "功率:": "450W",
+        "電源接口:": "24+4, 4+4, sata x3, molex x3, 6pin x1, 6+2pin x1, floppy x1"
+    },
+    {
+        "names": "XFX XTR Series 650W PSU P1-650B-BEFX",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ST70F-ES230 700W",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "449",
+        "功率:": "700W"
+    },
+    {
+        "names": "Super Flower Leadex Platinum 1000W SF-1000F14MP",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,949",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Platinum",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Synology Adapter 65W_2 Level VI",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "295",
+        "功率:": "65W"
+    },
+    {
+        "names": "GTR Power Com PS530 Plus",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "190",
+        "功率:": "530W"
+    },
+    {
+        "names": "Corsair HX850i 80 PLUS Platinum",
+        "rating": "",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,599",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Platinum"
+    },
+    {
+        "names": "Super Flower LEADEX V Gold PRO 1000W Power Supply",
+        "rating": "",
+        "hon_price_min": "1,369",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair VS Series VS500 - 500 Watt 80 PLUS White Certified PSU CP-9020118-NA",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "375",
+        "功率:": "500W"
+    },
+    {
+        "names": "Thermaltake Smart RGB 700W",
+        "rating": "",
+        "hon_price_min": "519",
+        "hon_price_max": "609",
+        "功率:": "700W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Maxxon A-series 550w ATX Power Supply",
+        "rating": "9.3",
+        "hon_price_min": "168",
+        "hon_price_max": "198",
+        "功率:": "550W"
+    },
+    {
+        "names": "Thermaltake Toughpower DPS G RGB 1500W Titanium",
+        "rating": "",
+        "hon_price_min": "3,339",
+        "hon_price_max": "3,609",
+        "功率:": "1500W",
+        "80 Plus認證等級:": "80 Plus Titanium",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Corsair HX1200i 80 PLUS Platinum",
+        "rating": "",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,199",
+        "功率:": "1200W",
+        "80 Plus認證等級:": "80 Plus Platinum"
+    },
+    {
+        "names": "SilverStone 1300W 全模組化電源供應器 80PLUS Titanium ST1300-Ti",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,490",
+        "功率:": "1300W",
+        "80 Plus認證等級:": "80 Plus Titanium",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone SFX 系列 SST-SX300-B",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "369",
+        "功率:": "300W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Seasonic Focus GX-750 白色",
+        "rating": "",
+        "hon_price_min": "959",
+        "hon_price_max": "999",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX Gold 1050 V2 Full Modular",
+        "rating": "10",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,470",
+        "功率:": "1050W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V1300 Platinum",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,280",
+        "功率:": "1300W",
+        "80 Plus認證等級:": "80 Plus Platinum",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Gigabtye AORUS P750W 80+ GOLD Modular",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "880",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec Signature 1000 Platinum Power Supply",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,780",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Toughpower Grand RGB 650W",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "899",
+        "功率:": "650W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Thermaltake Litepower 550W",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "319",
+        "功率:": "550W"
+    },
+    {
+        "names": "Thermaltake Smart BX1 750W (230V)",
+        "rating": "",
+        "hon_price_min": "533",
+        "hon_price_max": "619",
+        "功率:": "750W"
+    },
+    {
+        "names": "Seasonic S12ll-520",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "功率:": "520W"
+    },
+    {
+        "names": "Corsair RM850X White",
+        "rating": "10",
+        "hon_price_min": "1,139",
+        "hon_price_max": "1,299"
+    },
+    {
+        "names": "Xigmatek HYDRA M 750W Full Modular ATX Power Supply",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "429",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Super Flower Bronzo King ECO 500W Power Supply",
+        "rating": "",
+        "hon_price_min": "365",
+        "hon_price_max": "369",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master Elite V3 500W",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "功率:": "500W"
+    },
+    {
+        "names": "Maxxon Econ-Series M330",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "198",
+        "功率:": "330W",
+        "電源接口:": "24(20+4)+4,4pin x2, Sata x3,"
+    },
+    {
+        "names": "Micronics  Classic II Gold Full Modular 750W",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "688",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "FSP 黑爵士D HYDRO GD 650W GOLD",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Thermaltake SFX 450W 80 PLUS Gold",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "功率:": "450W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Cooler Master MWE 750 Bronze - V2",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "595",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Bronze",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "NZXT Bronze Semi-Modular ATX PSU C550",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "479",
+        "功率:": "550W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Corsair VS550",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "360",
+        "功率:": "550W"
+    },
+    {
+        "names": "Fractal Design Ion Gold 650W Fully Modular Power Supply",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "功率:": "650W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec Signature ST-1000 Titanium Power Supply",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,099",
+        "80 Plus認證等級:": "80 Plus Titanium"
+    },
+    {
+        "names": "Maxxon A-Series 280W Micro-ATX Power Supply QPA280WPS",
+        "rating": "10",
+        "hon_price_min": "148",
+        "hon_price_max": "165",
+        "功率:": "280W",
+        "電源接口:": "MB 20+4pin/  2x CPU 4pin - / 2x SATA/ 1x IDE"
+    },
+    {
+        "names": "Xigmatek X-Calibre XCP-A600 600W 80+",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "419",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus"
+    },
+    {
+        "names": "Thermaltake Toughpower 550W Gold (Modular)",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "660",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Enermax ERB500AWT RevoBron TGA 500W Power Supply with 3*RGB Fan",
+        "rating": "",
+        "hon_price_min": "689",
+        "hon_price_max": "689",
+        "功率:": "500W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "InWin Compact Series SFX Power Supply CS-700W",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,050",
+        "功率:": "700W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Toughpower GX1 RGB 700W Gold",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "729",
+        "功率:": "700W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Corsair RM650i",
+        "rating": "",
+        "hon_price_min": "969",
+        "hon_price_max": "999",
+        "功率:": "650W"
+    },
+    {
+        "names": "Gigabtye G750H",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "750",
+        "功率:": "750W",
+        "電源接口:": "MB 20+4 Pin x1, CPU 4+4 Pin x1, PCI-e 6+2 Pin x4, SATA x7, 4Pin Peripheral x3, 4Pin Floopy x1"
+    },
+    {
+        "names": "Sharkoon SilentStorm Cool Zero 850w Gold",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "899",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "GTR SFX 250W",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "功率:": "250W"
+    },
+    {
+        "names": "Cooler Master MWE Gold 550 Full Modular",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "620",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec CSK 750W 80 Plus Bronze Power Supply",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "530",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cougar CMX850-V3",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "功率:": "850W"
+    },
+    {
+        "names": "FSP HYPER K 600W",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "350",
+        "功率:": "600W"
+    },
+    {
+        "names": "Corsair AX1200i",
+        "rating": "7.3",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,798",
+        "功率:": "1200W",
+        "80 Plus認證等級:": "80 Plus Platinum"
+    },
+    {
+        "names": "Manson CC Switching Mode with Output On/Off Button NRP-6016",
+        "rating": "",
+        "hon_price_min": "1,025",
+        "hon_price_max": "1,025"
+    },
+    {
+        "names": "Phanteks Revolt X PSU 1000W 80+ Platinum 雙系統電源供應器",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "功率:": "1000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Toughpower Grand 650W (Fully Modular)",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Super Flower Leadex III Gold ARGB Pro Power Supply 850W",
+        "rating": "",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,139",
+        "功率:": "850W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Litepower RGB 550W",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "349",
+        "功率:": "550W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Gigabtye Modular Power Supply P750GM",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "750",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Toughpower iRGB PLUS 1000W Gold",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "功率:": "1000W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "GC-system 96W Notebook Adapter 多功能通用手提電腦火牛",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "198",
+        "功率:": "96W",
+        "電源接口:": "各大Notebook / Netbook - 共有7種接口"
+    },
+    {
+        "names": "Fractal Design Ion SFX-L 500W Gold Power Supply",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "740",
+        "功率:": "500W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair RM850e Fully Modular Low-Noise ATX Power Supply (CP-9020249)",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "879",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Sharkoon SHP 650W",
+        "rating": "",
+        "hon_price_min": "385",
+        "hon_price_max": "449",
+        "功率:": "650W"
+    },
+    {
+        "names": "Enermax ELT1000EWT-M Triathlor ECO",
+        "rating": "",
+        "功率:": "1000W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Cooler Master V550 Gold - V2 (White Edition)",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "825",
+        "功率:": "550W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "FSP HYDRO GE 650W (HGE-650)",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "770",
+        "功率:": "650W"
+    },
+    {
+        "names": "Thermaltake Smart DPS G DIGITAL 600W/80 PLUS Bronze",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus Bronze",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Xigmatek Minotaur 650W 80 Plus Gold Full Modular Flat Cable ATX Power Supply (PS-MIN650F)",
+        "rating": "",
+        "hon_price_min": "689",
+        "hon_price_max": "689",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "DeepCool 750W PSU DQ750",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "639",
+        "功率:": "750W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Enermax Maxrevo 1800w Power Supply EMR1800EXT",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "功率:": "1800W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Cooler Master V750 Gold - V2 (White Edition) MPY-750V-AGBAG",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "970",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair HX1000 80 PLUS Platinum",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,850",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair CX450",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "369",
+        "功率:": "450W"
+    },
+    {
+        "names": "Seasonic FOCUS-GM-650",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "679",
+        "功率:": "650W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Enermax REVOLUTION D.F. ERF750EWT",
+        "rating": "10",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Phanteks AMP Modular PSU 850W (PH-P850G)",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,050",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master MWE Bronze 500",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "365",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Enermax MaxTytan 1250W",
+        "rating": "",
+        "功率:": "1250W"
+    },
+    {
+        "names": "Seasonic Focus GX-750",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "990",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec HCG-750M",
+        "rating": "",
+        "hon_price_min": "875",
+        "hon_price_max": "880",
+        "功率:": "750W"
+    },
+    {
+        "names": "GTR Type-Z 400W",
+        "rating": "10",
+        "hon_price_min": "190",
+        "hon_price_max": "225",
+        "功率:": "400W"
+    },
+    {
+        "names": "SilverStone ST60F-ES230 600W",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "378",
+        "功率:": "600W"
+    },
+    {
+        "names": "Super Flower Leadex Silver 850W SF-850F14MT",
+        "rating": "",
+        "hon_price_min": "939",
+        "hon_price_max": "939",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Silver",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Enermax NAXN BRONZE 500W Power Supply",
+        "rating": "10",
+        "hon_price_min": "239",
+        "hon_price_max": "298",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "SilverStone ST85F-GS 模組 850 金",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ST70F-ESB",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "功率:": "700W",
+        "電源接口:": "1 x 24 / 20-Pin主機板接頭（500mm） 1 x 8 / 4-Pin EPS / ATX 12V接頭 （750mm） 2 x 8 / 6-Pin PCIE接頭（500mm） 2 x 6-Pin PCIE接頭（500mm / 150mm） 6 x SATA接頭（\"500mm / 150mm / 150mm\" x 2） 3 x 4-Pin Peripheral接頭（500mm / 150mm / 150mm） 1 x 4-Pin軟碟機接頭（500mm / 150mm / 150mm / 150m"
+    },
+    {
+        "names": "Cougar VTE500",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "330",
+        "功率:": "500W"
+    },
+    {
+        "names": "Super Flower Leadex Platinum 1600W SF-1600F14HP",
+        "rating": "",
+        "hon_price_min": "2,930",
+        "hon_price_max": "2,990",
+        "功率:": "1600W",
+        "80 Plus認證等級:": "80 Plus Platinum",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec Neo Eco TUF 550W 80 Plus Bronze Power Supply",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "499",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master V850 Gold i Multi",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Smart BX1 RGB 550W (230V)",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "480",
+        "功率:": "550W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Corsair TX850M",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "1,090",
+        "功率:": "850W",
+        "電源接口:": "ATX / EPS / PC1-E x 4 / 4pin x 8 / SATA x 8 / Floppy x 2"
+    },
+    {
+        "names": "Gamemax 500Q 80+ RGB Eco 12cm ATXZX Power Supply VP-500-RGB",
+        "rating": "4.0",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "ADATA XPG CORE REACTOR 650W 金牌火牛 (PS-CRT650G)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "FSP HYPER K 500W",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "310",
+        "功率:": "500W"
+    },
+    {
+        "names": "SilverStone HELA 2050 Platinum ATX 電源 (SST-HA2050-PT)",
+        "rating": "",
+        "hon_price_min": "3,299",
+        "hon_price_max": "3,399",
+        "功率:": "2050W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Phanteks Revolt SFX 80 Plus Gold PSU 750W (PH-P750GSF)",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,120",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec NE750G",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "790",
+        "功率:": "750W"
+    },
+    {
+        "names": "Cooler Master V550 Gold",
+        "rating": "",
+        "hon_price_min": "695",
+        "hon_price_max": "700",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone 1500W 80Plus Titanium 電源供應器 SST-ST1500-TI",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,260",
+        "功率:": "1500W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Micronics Compact SFX-L 700PT 700W",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "功率:": "700W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec 750W NeoECO GOLD AN-PS-NE-750G",
+        "rating": "",
+        "hon_price_min": "635",
+        "hon_price_max": "728",
+        "功率:": "750W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Super Flower Leadex III Gold 650W SF-650F14HG",
+        "rating": "",
+        "hon_price_min": "739",
+        "hon_price_max": "839",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Toughpower DPS 750W",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "功率:": "750W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec VP550P V2",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "320",
+        "功率:": "550W"
+    },
+    {
+        "names": "Thermaltake Smart BX1 650W (230V)",
+        "rating": "",
+        "hon_price_min": "494",
+        "hon_price_max": "560",
+        "功率:": "650W"
+    },
+    {
+        "names": "Phanteks Revolt SFX 80 Plus Platinum PSU 750W (PH-P750PSF)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ET550-B",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Seasonic 1000W 80PLUS Platinum",
+        "rating": "10",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,989",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Platinum"
+    },
+    {
+        "names": "Seasonic PRIME 1000 W Titanium",
+        "rating": "",
+        "hon_price_min": "2,470",
+        "hon_price_max": "2,539",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone Extreme 850R Platinum 全模組SFX電源 SST-EX850R-PM",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Lenovo AC Adapter 65W 20V (42T4416)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "390",
+        "water_price_min": "180",
+        "water_price_max": "350",
+        "功率:": "65W"
+    },
+    {
+        "names": "SilverStone 80 PLUS Gold 700W modular cable ATX switching power supply SST-ET700-MG",
+        "rating": "",
+        "hon_price_min": "689",
+        "hon_price_max": "700",
+        "功率:": "700W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Huntkey 航嘉 ES Ultra Edition",
+        "rating": "",
+        "water_price_min": "160",
+        "water_price_max": "160",
+        "功率:": "65W",
+        "電源接口:": "100V~240V"
+    },
+    {
+        "names": "NZXT 650W Power Supply Unit C650",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "749",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair TX-M Series TX750M 750W 80 PLUS Gold Semi Modular ATX PSU (CP-9020230)",
+        "rating": "",
+        "hon_price_min": "729",
+        "hon_price_max": "769",
+        "功率:": "750W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Xigmatek HYDRA M 550W Full Modular ATX Power Supply",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "349",
+        "功率:": "550W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master GX750 (RS750-ACAAB3-xx)",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "720",
+        "功率:": "750W",
+        "電源接口:": "20+4 Pin MB x 1 4+4 Pin CPU + 12V x 1 6+2 Pin PCI-e x 4 SATA x 8 4 Pin Peripheral x 6 4 Pin Floppy x 1"
+    },
+    {
+        "names": "Lenovo ThinkPad 90W AC Adapter (slim tip) (0b47002)",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "350",
+        "water_price_min": "230",
+        "water_price_max": "290",
+        "功率:": "90W",
+        "電源接口:": "13A"
+    },
+    {
+        "names": "Super Flower Leadex Platinum 1000W",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Platinum"
+    },
+    {
+        "names": "Enermax MARBLEBRON 650W 半模組 80+銅牌 電源",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "389",
+        "功率:": "650W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "1st Player STEAMPUNK 850W Power Supply",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Smart DPS G DIGITAL 650W/80 PLUS Gold",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Thermaltake Toughpower Grand 1050W (TPG-1050F)",
+        "rating": "",
+        "功率:": "1050W"
+    },
+    {
+        "names": "Cooler Master GX Gold 550 Full Modular",
+        "rating": "10",
+        "hon_price_min": "589",
+        "hon_price_max": "650",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic Focus GX-850",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,129",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Toughpower PF1 ARGB -1050W Power Supply",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,899",
+        "功率:": "1050W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone Strider Titanium ST80F-TI",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "功率:": "800W",
+        "80 Plus認證等級:": "80 Plus Titanium"
+    },
+    {
+        "names": "Thermaltake Toughpower Grand Digital 1050W",
+        "rating": "10",
+        "功率:": "1050W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "2the Max MN142VS",
+        "rating": ""
+    },
+    {
+        "names": "FSP CANNON 2000W 電源供應器",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,490",
+        "功率:": "2000W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master V550 (RS-550-AFBAG1-UK)",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "功率:": "550W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Thermaltake Litepower 450W",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "功率:": "450W"
+    },
+    {
+        "names": "Cooler Master V650 Semi-Modular 80PLUS GOLD",
+        "rating": "10",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "功率:": "650W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Cooler Master G500 Gold Entry Level 80 Plus Gold ATX Power Supply Unit",
+        "rating": "",
+        "hon_price_min": "485",
+        "hon_price_max": "489",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "產品特點:": "靜音"
+    },
+    {
+        "names": "SilverStone ST45SF",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "438",
+        "功率:": "450W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Thermaltake Smart BX1 550W (230V)",
+        "rating": "",
+        "hon_price_min": "394",
+        "hon_price_max": "430",
+        "功率:": "550W"
+    },
+    {
+        "names": "Thermaltake Toughpower DPS 850W",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ST40F-ESB 400 銅",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "功率:": "400W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Enermax Platimax D.F. 1200W EPM1200EWT",
+        "rating": "",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Seasonic Prime Ultra 1000 Platinum",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "1,989",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Platinum"
+    },
+    {
+        "names": "FSP HYDRO G 850W",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "功率:": "850W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "DeepCool 750W PSU DQ750ST",
+        "rating": "",
+        "hon_price_min": "619",
+        "hon_price_max": "639",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "SilverStone 750W 80 Plus 金 全模組電源供應器 SST-ST75F-GS (V3.0)",
+        "rating": "",
+        "hon_price_min": "719",
+        "hon_price_max": "779",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Seasonic FOCUS+ GOLD SSR-1000FX 電源供應器",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,399",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ST50F-ESG 500 金",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Fractal Design Ion Gold 850W Fully Modular Power Supply",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "890",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone SFX 系列 SST-SX450-B",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "459",
+        "功率:": "450W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master M2000 Platinum",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,390",
+        "功率:": "2000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec HCG-750",
+        "rating": "10",
+        "hon_price_min": "790",
+        "hon_price_max": "880",
+        "功率:": "750W",
+        "電源接口:": "Cable Management"
+    },
+    {
+        "names": "Cooler Master MasterWatt 650",
+        "rating": "",
+        "hon_price_min": "543",
+        "hon_price_max": "543",
+        "功率:": "650W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec VP500P",
+        "rating": "10",
+        "hon_price_min": "209",
+        "hon_price_max": "249",
+        "功率:": "500W"
+    },
+    {
+        "names": "Cooler Master V850 Gold",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,010",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "1st Player 400W Flex Power Supply PS-400FLE",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "255",
+        "功率:": "400W",
+        "電源接口:": "MB 20+4pin/  2x CPU 4pin - / 2x SATA/ 2x IDE"
+    },
+    {
+        "names": "Cougar VTE600",
+        "rating": "",
+        "hon_price_min": "379",
+        "hon_price_max": "379",
+        "功率:": "600W"
+    },
+    {
+        "names": "Enermax MaxTytan 800W",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,600",
+        "功率:": "800W"
+    },
+    {
+        "names": "Thermaltake Toughpower Grand RGB 1050W Platinum",
+        "rating": "",
+        "hon_price_min": "1,640",
+        "hon_price_max": "1,649",
+        "功率:": "1050W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Thermaltake Smart RGB 600W",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "509",
+        "功率:": "600W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Cougar CMX700-V3",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "功率:": "700W"
+    },
+    {
+        "names": "Thermaltake Toughpower 750W Gold (Modular)",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Xigmatek X-Power 700W",
+        "rating": "",
+        "hon_price_min": "435",
+        "hon_price_max": "439",
+        "功率:": "700W",
+        "80 Plus認證等級:": "80 Plus"
+    },
+    {
+        "names": "Antec TP-750C 80+Gold Standard",
+        "rating": "",
+        "hon_price_min": "825",
+        "hon_price_max": "825",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "Corsair CMPSU-750TXUK",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "功率:": "750W",
+        "電源接口:": "ATX (24-20)pin / EPS12V (8-4)pin / PC1-E 8pin x4 / SATA x8 / 4pin x10 / FDD x2"
+    },
+    {
+        "names": "Thermaltake Smart BM2 550W 銅牌認證電源供應器 - TT Premium 頂級版",
+        "rating": "",
+        "hon_price_min": "443",
+        "hon_price_max": "508",
+        "功率:": "550W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "河田生活 副廠充電器 Microsoft Windows Surface Pro 7 6 5 4 3 Go Laptop Charger",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "300",
+        "water_price_min": "298",
+        "water_price_max": "298"
+    },
+    {
+        "names": "Thermaltake Toughpower PF1 ARGB Platinum 1200W (TPD-1200AH3FCP-A)",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "功率:": "1200W",
+        "產品特點:": "RGB",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Lenovo AC Adapter 45W 20V-2.25A",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "390",
+        "water_price_min": "299",
+        "water_price_max": "350",
+        "功率:": "45W",
+        "電源接口:": "4.0*1.7MM"
+    },
+    {
+        "names": "Seasonic Prime TX-1000",
+        "rating": "",
+        "hon_price_min": "2,539",
+        "hon_price_max": "2,599",
+        "功率:": "1000W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Huntkey 航嘉 90W ES Ultra Edition",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "功率:": "90W"
+    },
+    {
+        "names": "Thermaltake SMART M850W 80PLUS",
+        "rating": "",
+        "功率:": "850W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Cooler Master V750 Gold",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Corsair HX750i 80 PLUS Platinum",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,350",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Platinum"
+    },
+    {
+        "names": "Thermaltake TR2 500W/80plus Bronze",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "1st Player 1ST-450AX-STD",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "功率:": "450W",
+        "80 Plus認證等級:": "80 Plus"
+    },
+    {
+        "names": "Antec EA-430",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "功率:": "430W",
+        "電源接口:": "1 x 20+4 pin + 1 x 4 Pin 12V + 4 x SATA + 6 x Molex + 1 x Floppy"
+    },
+    {
+        "names": "Gamemax 600W Semi Modular 80+ Bronze Power Supply VP-600 電源",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "功率:": "600W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Seasonic S12III 500W",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "450",
+        "功率:": "500W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Thermaltake Toughpower XT Gold 1475W",
+        "rating": "",
+        "hon_price_min": "2,709",
+        "hon_price_max": "2,709",
+        "功率:": "1475W",
+        "模組化:": "半模組"
+    },
+    {
+        "names": "Cooler Master V750 Gold - V2",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "965",
+        "功率:": "750W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone ST60EF",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "920",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    },
+    {
+        "names": "Antec HCG1000 Extreme",
+        "rating": "9.0",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,448",
+        "功率:": "1000W",
+        "電源接口:": "1 x MB 24(20+4) Pin 2 x 8(4+4) Pin EPS 12V 8 x 8(6+2) Pin PCI-E 12 x SATA  6 x Molex 1 x FDD"
+    },
+    {
+        "names": "Corsair CX650M",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "699",
+        "功率:": "650W"
+    },
+    {
+        "names": "Thermaltake TR2 600W/80 PLUS Gold",
+        "rating": "",
+        "功率:": "600W",
+        "80 Plus認證等級:": "80 Plus Gold"
+    },
+    {
+        "names": "SilverStone ST1000-G EVO 1000W 模組 金",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,695",
+        "功率:": "1000W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Wishes 90WPT14",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "功率:": "90W"
+    },
+    {
+        "names": "Thermaltake Smart BX1 RGB 650W (230V)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "540",
+        "功率:": "650W",
+        "產品特點:": "RGB"
+    },
+    {
+        "names": "Cooler Master MWE 700 WHITE 230V - V2 80 Plus Standard 230V EU Certified Power Supply",
+        "rating": "",
+        "hon_price_min": "495",
+        "hon_price_max": "550",
+        "功率:": "700W",
+        "80 Plus認證等級:": "80 Plus"
+    },
+    {
+        "names": "Cooler Master MasterWatt Maker 1200",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,500",
+        "功率:": "1200W",
+        "80 Plus認證等級:": "80 Plus Titanium"
+    },
+    {
+        "names": "Antec VP600P",
+        "rating": "",
+        "hon_price_min": "345",
+        "hon_price_max": "345",
+        "功率:": "600W"
+    },
+    {
+        "names": "Cisco Catalyst 4500 1300W AC Power Supply (Data and PoE) PWR-C45-1300ACV",
+        "rating": "",
+        "hon_price_min": "7,300",
+        "hon_price_max": "7,400",
+        "功率:": "1300W"
+    },
+    {
+        "names": "FSP HYDRO GE 550W (HGE-550)",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "680",
+        "功率:": "550W"
+    },
+    {
+        "names": "Super Flower Leadex III Gold 750W SF-750F14HG",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "929",
+        "功率:": "750W",
+        "80 Plus認證等級:": "80 Plus Gold",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Antec HCP-1300",
+        "rating": "",
+        "hon_price_min": "2,610",
+        "hon_price_max": "2,610",
+        "功率:": "1300W",
+        "電源接口:": "Cable Management"
+    },
+    {
+        "names": "Xigmatek Minotaur 850W (80Plus Gold) Power Supply",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "890",
+        "功率:": "850W",
+        "產品特點:": "靜音",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "SilverStone SX800-LTI 電源供應器 800W SST-SX800-LTI",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,499",
+        "功率:": "800W",
+        "模組化:": "全模組"
+    },
+    {
+        "names": "Cooler Master MWE Bronze 550",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "475",
+        "功率:": "550W",
+        "80 Plus認證等級:": "80 Plus Bronze"
+    }
+]

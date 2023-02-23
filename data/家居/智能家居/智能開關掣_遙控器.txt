@@ -1,0 +1,1638 @@
+[
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 D1 (零火線 三鍵版)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Hub M2 網關",
+        "rating": "10",
+        "hon_price_min": "428",
+        "hon_price_max": "528",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aqara Cube T1 Pro 魔方控制器",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "SwitchBot Hub Mini 智能紅外線遙控",
+        "rating": "9.3",
+        "hon_price_min": "230",
+        "hon_price_max": "320",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "SwitchBot Bot 智能開關按鈕",
+        "rating": "9.0",
+        "hon_price_min": "199",
+        "hon_price_max": "250",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Sensibo Sky 智能冷氣調控器",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "798",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Sensibo AirQ 智能空調遙控器 - 附有空氣質素監察器 (HomeKit 兼容)",
+        "rating": "8.0",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Cheerdots CheerTok 萬用智能迷你遙控器",
+        "rating": "10",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Blend Smart Switch 流光開關 1掣位",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "387",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Hub E1 (迷你網關)",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "247",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aqara Single Switch Module T1 (No Neutral) 智能單控開關模組 (無中線)",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Sensibo Air 智能空調遙控器 (HomeKit 兼容)",
+        "rating": "",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,088",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Xiaomi 小米 小米多功能網關2",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "199",
+        "water_price_min": "258",
+        "water_price_max": "300",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 H1 EU (零火線 三鍵版)",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 H1 EU (單火線 雙鍵版)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Blend Smart Switch 流光開關 3掣位",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "498",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Cube Multi-action Wireless Remote",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "water_price_min": "80",
+        "water_price_max": "148",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Defed Key Fob 場景按鍵",
+        "rating": "",
+        "hon_price_min": "163",
+        "hon_price_max": "169",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Nature Smart Switch 星玉開關 - 1 Button",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "385",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 H1 EU (單火線 單鍵版)",
+        "rating": "8.0",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "SwitchBot Remote 遙控開關",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "160",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Dimmer & Motion Sensor Switch 智能調光開關",
+        "rating": "",
+        "hon_price_min": "686",
+        "hon_price_max": "688",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Blend Smart Switch 流光開關 2掣位",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "3,080",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 H1 EU (零火線 單鍵版)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Nature Smart Switch 星玉開關 - 3 Button",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "498",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Flic 智能按鈕 - Starter kit",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Xiaomi 小米 智能多模網關2",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Xiaomi 小米 小米萬能遙控器",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Aqara Wireless Wall Switch 無線遙控開關 D1 (單鍵版)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "water_price_min": "140",
+        "water_price_max": "140",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Yeelight 遙控器",
+        "rating": "10",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "WiZ WiZmote 燈具遙控器",
+        "rating": "",
+        "hon_price_min": "151",
+        "hon_price_max": "168",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Moonstone Smart Switch 白玉開關 (3Gang)",
+        "rating": "10",
+        "hon_price_min": "438",
+        "hon_price_max": "460",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Moonstone Smart Switch 墨玉開關 (1Gang)",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "399",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Hub 網關 M1S",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "328",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Philips 飛利浦 Hue 遙控光暗調節器",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "218",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Central AC Smart Gateway 中央冷氣控制網關",
+        "rating": "",
+        "hon_price_min": "3,970",
+        "hon_price_max": "3,980",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Apshon 智能紅外線遙控",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "310",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 D1 (單火線 雙鍵版)",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "428",
+        "water_price_min": "180",
+        "water_price_max": "220",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Nature Smart Switch 星玉開關 - 2 Button",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "449",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Wireless Remote Switch H1 (Double Rocker) 2位無線開關",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "water_price_min": "140",
+        "water_price_max": "140",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Helvar Imagine 950 Lighting Control Router 智能燈具主控制器",
+        "rating": "",
+        "hon_price_min": "13,081",
+        "hon_price_max": "13,081",
+        "類型:": "智能燈具開關模組"
+    },
+    {
+        "names": "Aqara Single Switch Module T1 單控模組 附中性線 SSM-U01",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "water_price_min": "130",
+        "water_price_max": "130",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "UKGPro 1鍵WiFi無線一體化輕觸式智能調光器 (U-DS191)",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 H1 EU (零火線 雙鍵版)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "UKGPro 1鍵WiFi無線一體化輕觸式智能開關 (可選單火接線) U-DS101JL-1",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Smart Station",
+        "rating": "10",
+        "hon_price_min": "568",
+        "hon_price_max": "599",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "SensePlus 智能遙控器 MX-IR-01",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 D1 (零火線 單鍵版)",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Sensibo Air 智能空調遙控器 - 配有房間傳感器 (HomeKit 兼容)",
+        "rating": "10",
+        "hon_price_min": "1,210",
+        "hon_price_max": "1,250",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "RTI Handheld Remote Control T4x",
+        "rating": "",
+        "hon_price_min": "11,045",
+        "hon_price_max": "11,045",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Helvar RoomSet Lighting Control Kit (Standard Version)",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750",
+        "類型:": "智能燈具開關模組"
+    },
+    {
+        "names": "Newest Living Smart IR Remote 智能紅外線遙控器",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Ambi Labs Ambi Climate Mini 智能冷氣遙控器",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Ezviz 螢石 4-Piece Home Sensor Kit 智能 Home Kit 4件套 CS-B1",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "879",
+        "類型:": "智能家居組合"
+    },
+    {
+        "names": "Apshon 智能燈掣",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Terncy 小燕 白鷺智能開關 3路 (單火)",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Xiaomi 小米 多功能網關",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "280",
+        "water_price_min": "168",
+        "water_price_max": "258",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "LifeSmart Moonstone Smart Switch 墨玉開關 (2Gang)",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "449",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Smart Wall Switch H1 (單火線 三鍵版)",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Moonstone Smart Switch 白玉開關 (2Gang)",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "420",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Wireless Wall Switch 無線遙控開關 D1 (雙鍵版)",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "water_price_min": "160",
+        "water_price_max": "160",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara 牆壁開關 (單鍵版)",
+        "rating": "10",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Nature Mini 燈開關 - 1 Gang",
+        "rating": "",
+        "hon_price_min": "977",
+        "hon_price_max": "998",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "UKGPro WiFi無線一體化輕觸式智能窗簾開關 U-DS151",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Starry Smart Switch 辰星開關 (3Gang)",
+        "rating": "8.0",
+        "hon_price_min": "260",
+        "hon_price_max": "498",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Orvibo Magic Cube Wifi Remote Controller",
+        "rating": "10",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Philips 飛利浦 智睿遙控器",
+        "rating": "",
+        "water_price_min": "118",
+        "water_price_max": "129",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Smart Station 智慧中心 Ver.2 (HomeKit版)",
+        "rating": "10",
+        "hon_price_min": "568",
+        "hon_price_max": "580",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "BestCon RM4C mini 智能萬用遙控器",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Terncy 小燕 白鷺智能開關 1路 (單火)",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Starry Smart Switch 辰星開關 (2Gang)",
+        "rating": "8.0",
+        "hon_price_min": "260",
+        "hon_price_max": "449",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "BroadLink e-Remote RM Pro (IR + RF)",
+        "rating": "8.0",
+        "hon_price_min": "325",
+        "hon_price_max": "329",
+        "water_price_min": "298",
+        "water_price_max": "328",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 D1 (單火線 單鍵版)",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "water_price_min": "170",
+        "water_price_max": "180",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "UKGPro WiFi 智能 IR紅外線接收器 (U-IR01)",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Philips 飛利浦 CL AIO Remote Control 調色天花吸頂燈智能遙控器 9290022229",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "110",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "UKGPro 智能安防套裝 (警報器 + 門鈴 + 門磁傳感器 + PIR傳感器 + 2x遠程) U-W2-KIT",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "748",
+        "類型:": "組合"
+    },
+    {
+        "names": "LifeSmart Smart Light Switch (1 Gang)",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "380",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Xiaomi 小米 無線開關",
+        "rating": "10",
+        "hon_price_min": "38",
+        "hon_price_max": "69",
+        "water_price_min": "56",
+        "water_price_max": "58",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "LifeSmart Nature Mini 燈開關 - 3 Gang",
+        "rating": "",
+        "hon_price_min": "1,098",
+        "hon_price_max": "1,118",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Terncy 小燕 智能旋轉開關",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Newest Living Smart Control Panel 智能輕觸式中控顯示屏",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "類型:": "開關掣, 遙控器"
+    },
+    {
+        "names": "Aqara 無線迷你開關 WXKG11LM",
+        "rating": "10",
+        "hon_price_min": "116",
+        "hon_price_max": "118",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aeotec Nano Switch 開關控制器",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,070",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "UKGPro 1鍵WiFi無線一體化輕觸式20A熱水器/空調智能開關 U-DS161",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Nanoleaf Remote 遙控器",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Fibaro Double Switch 2 雙路開關模組",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "LifeSmart Cube Clicker",
+        "rating": "",
+        "hon_price_min": "114",
+        "hon_price_max": "199",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aeotec Bypass",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "UKG Smart 智能WiFi迷你IR紅外線遙控器 USW-IR-BK-S18",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "RSH 智能面板 (一鍵觸控) SP001",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "510",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Sensibo Single Kit 智能冷氣遙控器",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Nature Mini 燈開關 - 2 Gang",
+        "rating": "",
+        "hon_price_min": "1,047",
+        "hon_price_max": "1,068",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Samsung 三星 SmartThings Hub",
+        "rating": "",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "LifeSmart Smart Station 智慧中心 (HomeKit版)",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "999",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "AVIO 智能家居燈飾組合",
+        "rating": "8.0",
+        "hon_price_min": "29,900",
+        "hon_price_max": "29,900",
+        "類型:": "組合"
+    },
+    {
+        "names": "Smart XTR 智能遙控器 IR02",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Aqara Smart Wall Switch 智能牆壁開關 D1 (零火線 雙鍵版)",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "water_price_min": "210",
+        "water_price_max": "210",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Newest Living Smart Wireless Zigbee Gateway 智能 Zigbee 網關",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Broadlink e-Touch TC 2 智能觸碰牆掣 (1路)",
+        "rating": "8.0",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Moonstone Smart Switch 墨玉開關 (3Gang)",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "460",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara Wireless Relay Controller (2 Channels) 智能開關雙路控模組",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Terncy 小燕 感應開關",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO 2 Way 兩路掣智能觸碰燈掣 (1位) (支援手機操控) / 一對",
+        "rating": "8.0",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Fibaro FGBHS-213 Single Switch Homekit Version",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,490",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Aurora 智能無線藍牙遙控 AC-SWT-B2-D06",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "UKG Smart 智能WiFi IR+RF紅外射頻遙控器 USW-IRRF-BK-S12",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "AduroSmart ERIA Wireless Dimming Switch 開關調光器",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "BroadLink E-Remote 遙控器",
+        "rating": "10",
+        "hon_price_min": "279",
+        "hon_price_max": "285",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "UKGPro KinSwitch 1鍵RF+WiFi無線一體化智能開關 U-EWS0354-W",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Flic 智能按鈕 - 2粒裝",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aqara 無線開關 (升級版) (WXKG12LM)",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "1,151",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "ABB free@home 智能家居系統接入點 SAP-S-2",
+        "rating": "",
+        "hon_price_min": "7,103",
+        "hon_price_max": "7,103",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Airxed IRX Smart Home IR Hub 智能家居遙控器",
+        "rating": "",
+        "hon_price_min": "539",
+        "hon_price_max": "539",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "LifeSmart Starry Smart Switch 辰星開關 (1Gang)",
+        "rating": "9.5",
+        "hon_price_min": "260",
+        "hon_price_max": "357",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Terncy 小燕 白鷺智能開關 2路 (單火)",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "210",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Xiaomi 小米 魔方控制器",
+        "rating": "",
+        "water_price_min": "85",
+        "water_price_max": "85",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "UKGPro 1鍵WiFi無線一體化輕觸式智能調光器 U-DS171 (WH / GD)",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Smart Light Switch (2 Gang)",
+        "rating": "8.0",
+        "hon_price_min": "260",
+        "hon_price_max": "420",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aeotec Nano Dimmer 調光器",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,070",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "UKGPro 3鍵WiFi無線一體化輕觸式智能開關 U-DS101JL-3",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Samsung 三星 SmartThings V3 Hub",
+        "rating": "",
+        "water_price_min": "1,380",
+        "water_price_max": "1,380",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Fibaro Single Switch 2 開關模組",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Broadlink Universal Remote RM4 Mini",
+        "rating": "10",
+        "water_price_min": "188",
+        "water_price_max": "198",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "BroadLink RM Pro WiFi智能遙控",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Terncy 小燕 青鸞智慧開關 3路 (單火)",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Terncy 小燕 青鸞智慧開關 1路 (單火)",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO Wifi Light Switch Wall Panel  Wifi 智能燈掣 / 牆掣 (1路)",
+        "rating": "8.0",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Netzhome Wi-Fi Panic Button 緊急按鈕 WT05",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO 智能房間組合",
+        "rating": "10",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "類型:": "組合"
+    },
+    {
+        "names": "Logitech Pop Add-On Switch Starter Kit (2 switch + 1 bridge)",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Logitech Harmony Smart Control 遙控器",
+        "rating": "10",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "water_price_min": "1,399",
+        "water_price_max": "1,399",
+        "類型:": "組合"
+    },
+    {
+        "names": "LifeSmart SPOT",
+        "rating": "8.0",
+        "hon_price_min": "226",
+        "hon_price_max": "395",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "MCOHome MHS-212-EU 兩路開關模組",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Sensibo Pod 智能冷氣遙控器",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink RF介面智能觸控牆掣 TC1 (1路)",
+        "rating": "8.0",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "MCOHome MH-P311 一鍵觸控調光面板",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "898",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "UKGPro 4鍵WiFi無線一體化輕觸式智能開關 U-DS101JL-4",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Smart Light Switch Touch Panel (3 Gang)",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Smart Light Switch (3 Gang)",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "470",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Amazon Echo Plus with built-in Hub",
+        "rating": "",
+        "water_price_min": "809",
+        "water_price_max": "1,690",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Aqara Smart Wall Switch D1智能牆壁開關 D1 (單火線 三鍵版)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Fibaro The Button (FGPB-101-1 ZW5)",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Logitech Harmony Hub 智能萬能電視影音遙控中心",
+        "rating": "10",
+        "water_price_min": "830",
+        "water_price_max": "1,450",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "AVIO Dimmer Touch Panel Switch 智能家居燈掣系列觸控光暗燈掣 (附實體遙控器)",
+        "rating": "8.0",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Homi Kranium 網關",
+        "rating": "",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Fibaro Home Center Lite 網關",
+        "rating": "",
+        "hon_price_min": "10,999",
+        "hon_price_max": "10,999",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Broadlink RM Mini 3 智能萬用遙控器",
+        "rating": "8.0",
+        "hon_price_min": "258",
+        "hon_price_max": "269",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink e-Touch TC 2 智能觸碰牆掣 (2路)",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Logitech Harmony One Advanced Universal Remote 遙控器",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "ZemiSmart Smart IR Control 萬能遙控",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Broadlink RM2 遙控器",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "UKG Smart 智能ZigBee IR紅外線遙控器 USZ-IR-BK-ZS08",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "UCON Smart Remote 智慧遙控器",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "LifeSmart Moonstone Smart Switch 白玉開關 (1Gang)",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "370",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Philips 飛利浦 Philips Hue Smart Button 智能燈掣",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Intesis Universal AC Control Module",
+        "rating": "",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Fibaro The Button (FGBHPB-101)",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Broadlink 智能保安套裝S1配件 (Security Set Accessory) - Door Sensor 門磁開關",
+        "rating": "8.0",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "UKGPro 2鍵WiFi無線一體化輕觸式智能開關 (可選單火接線) U-DS101JL-2",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Tuya Wifi 無線智能燈掣 Smart Switch (1路)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "MCOHome MH-SH312 二鍵觸控開關面板",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "898",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Fibaro Dimmer 2 調光控制器",
+        "rating": "8.0",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Broadlink IR & RF Universal Remote RM4 pro",
+        "rating": "",
+        "water_price_min": "338",
+        "water_price_max": "368",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Logitech Harmony Elite 遙控器",
+        "rating": "10",
+        "water_price_min": "4,000",
+        "water_price_max": "4,000",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink Alarm & Security Kit 智能監控保安系統 S1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "警報器"
+    },
+    {
+        "names": "Imou Remote 場景遙控器",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Terncy 小燕 青鸞智慧開關 2路 (單火)",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "MCOHome MH-S2220EU 一鍵開關模組",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "AVIO 智能家居入門組合",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "類型:": "組合"
+    },
+    {
+        "names": "Broadlink e-Touch TC 2 智能觸碰牆掣 (3路)",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "UKGPro 智能IR紅外線接收器 U-SW85",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "RSH 智能面板 (可調式觸控) SP003D",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "540",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Logitech Harmony Ultimate 遙控器",
+        "rating": "10",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "water_price_min": "1,800",
+        "water_price_max": "1,800",
+        "類型:": "組合"
+    },
+    {
+        "names": "Apple Eve Button - 智能家居遙控",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "399",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink WiFi 智能控制盒智能定時遠程控制開關 Switch FA1",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "AVIO Broadlink TC1 兼容 e-Touch 智能牆掣 (2路)",
+        "rating": "8.0",
+        "hon_price_min": "369",
+        "hon_price_max": "369",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO Broadlink TC1 輕觸式牆掣 (3位)",
+        "rating": "8.0",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Smartiblue Premium Boxset 遙控器",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "RSH 智能面板 (三鍵觸控) SP003",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "540",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Momit Cool Starter Kit (momit Gateway+ momit Cool)",
+        "rating": "",
+        "類型:": "組合"
+    },
+    {
+        "names": "AVIO 2 Way 兩路掣智能觸碰燈掣 (2位) (支援手機操控) / 一對",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Terncy 小燕 家庭中心",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "AVIO 智能家居智能窗廉組合",
+        "rating": "10",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999",
+        "類型:": "組合"
+    },
+    {
+        "names": "Aeotec Z-Stick Gen5",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,170",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "AVIO 2 Way 兩路掣智能觸碰燈掣 (3位) (支援手機操控) / 一對",
+        "rating": "8.0",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO Wifi Light Switch Wall Panel Wifi 智能燈掣 / 牆掣 (2路)",
+        "rating": "8.0",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aeotec WallMote Quad  4 鍵無線 Z-Wave遙控器",
+        "rating": "10",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,230",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "NodOn Z-Wave軟遙控器 CRC-03-6-X",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink RM-Pro 遙控器",
+        "rating": "10",
+        "hon_price_min": "325",
+        "hon_price_max": "329",
+        "water_price_min": "338",
+        "water_price_max": "338",
+        "類型:": "智能家居遙控"
+    },
+    {
+        "names": "Panasonic 樂聲 智能家居系列 -主機 KX-HNB600HM",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200"
+    },
+    {
+        "names": "Broadlink RF介面智能觸控牆掣 TC1 (3路)",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO Broadlink TC1 兼容 e-Touch 智能牆掣 (3路)",
+        "rating": "8.0",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "CHUGUAN 智能觸控無線射頻遙控鋼化玻璃面板開關單控",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "MCOHome MH-P2220EU 一鍵調光模組",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Fibaro RGBW Controller 控制器",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Xiaomi 小米 小米藍牙語音體感遙控器",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "RSH 智能面板 (二鍵觸控) SP002",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO Broadlink TC1 輕觸式牆掣 (2位)",
+        "rating": "8.0",
+        "hon_price_min": "369",
+        "hon_price_max": "369",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Ambi Labs Ambi Climate 智能冷氣搖控",
+        "rating": "8.0",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink 智能保安套裝S1配件 (Security Set Accessory) - Remote Controller 遙控器",
+        "rating": "8.0",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink RM Home 遙控器",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Broadlink RF介面智能觸控牆掣 TC1 (2路)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "RSH 萬能遙控器 IR01",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Homi 智慧照明可調光模組 Lighting Dimmable Module",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "AVIO 智能家居保安組合",
+        "rating": "8.0",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "組合"
+    },
+    {
+        "names": "Xiaomi 小米 小米智能家庭套裝",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "組合"
+    },
+    {
+        "names": "Logitech Harmony 350 Control 遙控器",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "MCOHome MH-SH311 一鍵觸控開關面板",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "NodOn Z-Wave Wall Switch牆壁開關 CWS-3-1-01/02",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "RSH 萬能遙控器 (溫度/濕度感應) IR02",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "AVIO Broadlink TC1 輕觸式牆掣 (1位)",
+        "rating": "8.0",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Plaay Wifi Smart Infrared Remote Contol IR02",
+        "rating": "2.0",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Logitech Pop Add-On Switch Starter Kit (2switch + 1 bridge)",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Ambi Lab Ambi Climate 2 智能冷氣遙控器",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "890",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Fibaro Home Center 2 智能控制主機",
+        "rating": "8.0",
+        "hon_price_min": "14,999",
+        "hon_price_max": "14,999",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Logitech Harmony Touch 遙控器",
+        "rating": "",
+        "water_price_min": "2,200",
+        "water_price_max": "2,200",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "AVIO Smart home system with Amazon echo voice control integration",
+        "rating": "10",
+        "hon_price_min": "4,989",
+        "hon_price_max": "4,989"
+    },
+    {
+        "names": "NodOn Z-Wave Octan Remote CRC-3-1-00",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "MCOHome MH-S314 四鍵開關面板",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Logitech Harmony 300 遙控器",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "AVIO 智能大廳組合",
+        "rating": "8.0",
+        "hon_price_min": "2,998",
+        "hon_price_max": "2,998",
+        "類型:": "組合"
+    },
+    {
+        "names": "AVIO Broadlink TC1 兼容 e-Touch 智能牆掣 (1路)",
+        "rating": "8.0",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Fibaro Single Switch 單路開關模組 FGBHS-213",
+        "rating": "",
+        "類型:": "開關模組"
+    },
+    {
+        "names": "Logitech Harmony 1100i Advanced Universal Remote 遙控器",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Momit Cool 連接器",
+        "rating": "",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Broadlink Mini Universal Remote RM4",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Xiaomi 小米 多功能網關升級版 DGNWG02LM",
+        "rating": "",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "Remotec BW8590 SmartAirCon智能冷氣控制系統",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "LifeSmart Smart Light Switch Touch Panel (2 Gang)",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "VeraPlus Advanced Home Controller - EU",
+        "rating": "10",
+        "類型:": "網關, 橋接器"
+    },
+    {
+        "names": "LifeSmart Smart Light Switch Touch Panel (1 Gang)",
+        "rating": "",
+        "類型:": "開關掣"
+    },
+    {
+        "names": "Aico Smart Egg 智能搖控器",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Logitech Harmony 650 遙控器",
+        "rating": "8.0",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Logitech Harmony 700 Advanced Universal Remote 遙控器",
+        "rating": "",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Orvibo Allone 智能家居遙控器",
+        "rating": "",
+        "類型:": "智能家居遙控"
+    },
+    {
+        "names": "Logitech Harmony Touch",
+        "rating": "8.0",
+        "類型:": "搖控器"
+    },
+    {
+        "names": "Logitech Harmony 900 遙控器",
+        "rating": "",
+        "類型:": "遙控器"
+    }
+]

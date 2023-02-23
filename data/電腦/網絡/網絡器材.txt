@@ -1,0 +1,3252 @@
+[
+    {
+        "names": "TP-Link Archer TX20U Plus AX1800 雙天線高增益雙頻 USB 無線網卡",
+        "rating": "10",
+        "hon_price_min": "366",
+        "hon_price_max": "399",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "TP-Link SafeStream Gigabit Multi-WAN VPN Router (TL-ER7206)",
+        "rating": "",
+        "hon_price_min": "1,478",
+        "hon_price_max": "1,498",
+        "種類:": "VPN Router"
+    },
+    {
+        "names": "TP-Link AX3000 Mesh WiFi 6 訊號延伸器 RE705X",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "899",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "Netgear 商用 Essentials WiFi 6 AP 無線接入點 (AX1800) WAX202",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "790",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "ASUS USB無線網卡 USB-AX56",
+        "rating": "3.5",
+        "hon_price_min": "633",
+        "hon_price_max": "810",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "AX1800"
+    },
+    {
+        "names": "TP-Link AV1300 Gigabit Passthrough Powerline ac Wi-Fi Kit WPA8631P KIT",
+        "rating": "10",
+        "hon_price_min": "810",
+        "hon_price_max": "980",
+        "種類:": "HomePlug",
+        "規格:": "● All-in-One: AV1300 + AC1200 + 3*Giga LAN + 2*AC Passthrough ● OneMesh - 組合多部 OneMesh 裝置打造全覆蓋Mesh Wi-Fi網絡!!! ● 超極速 AV2 2x2 MIMO 制式 ● 2x2 MIMO w/Beamforming ● 內置四天線設計"
+    },
+    {
+        "names": "TP-Link RE450",
+        "rating": "9.3",
+        "hon_price_min": "407",
+        "hon_price_max": "539",
+        "種類:": "WiFi Extender",
+        "規格:": "802.11b/g/n/ac"
+    },
+    {
+        "names": "TP-Link AC1200 Wi-Fi AV1000 Gigabit HomePlug Extender Kit WPA7617-KIT",
+        "rating": "6.0",
+        "hon_price_min": "650",
+        "hon_price_max": "738",
+        "種類:": "HomePlug",
+        "規格:": "AV1000"
+    },
+    {
+        "names": "Netgear 商用 Essentials WiFi 6 AP 無線接入點 (AX3200) WAX206",
+        "rating": "",
+        "hon_price_min": "1,132",
+        "hon_price_max": "1,280",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "Ubiquiti UniFi 6 Lite Access Point",
+        "rating": "9.5",
+        "hon_price_min": "980",
+        "hon_price_max": "1,180",
+        "water_price_min": "870",
+        "water_price_max": "940",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "TP-Link AV1000 Gigabit Powerline ac Wi-Fi Kit WPA7517-kit",
+        "rating": "",
+        "hon_price_min": "431",
+        "hon_price_max": "599",
+        "種類:": "HomePlug"
+    },
+    {
+        "names": "Ubiquiti UniFi 6 Pro Access Point 高效能無線基地台 (U6-Pro)",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,579",
+        "water_price_min": "1,256",
+        "water_price_max": "1,258",
+        "種類:": "Access Point",
+        "速度:": "573.5+4800M"
+    },
+    {
+        "names": "Netgear 8 Port Gigabit Ethernet Unmanaged Switch GS308",
+        "rating": "10",
+        "hon_price_min": "269",
+        "hon_price_max": "350",
+        "種類:": "Unmanaged Switch",
+        "速度:": "10/100/1000M"
+    },
+    {
+        "names": "TP-Link AC1200 Mesh Wi-Fi Extender RE330",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "320",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "D-Link AX1800 Wi-Fi 6 USB Adapter DWA-X1850",
+        "rating": "8.0",
+        "hon_price_min": "340",
+        "hon_price_max": "469",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB"
+    },
+    {
+        "names": "D-Link AX1800 Wi-Fi 6 USB Adapter DWA-X1850",
+        "rating": "8.0",
+        "hon_price_min": "340",
+        "hon_price_max": "469",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB"
+    },
+    {
+        "names": "QNAP 4 Ports 2.5GbE Unmanaged Switch QSW-2104-2S",
+        "rating": "10",
+        "hon_price_min": "966",
+        "hon_price_max": "1,299",
+        "種類:": "Unmanaged Switch",
+        "速度:": "2500M"
+    },
+    {
+        "names": "TP-Link Omada Gigabit VPN Router - ER605 (TL-R605)",
+        "rating": "8.0",
+        "hon_price_min": "660",
+        "hon_price_max": "678",
+        "種類:": "VPN Router"
+    },
+    {
+        "names": "Ubiquiti PoE Injector, 802.3AT (30W) U-POE-at",
+        "rating": "10",
+        "hon_price_min": "170",
+        "hon_price_max": "195",
+        "種類:": "PoE Injector",
+        "規格:": "802.3AT"
+    },
+    {
+        "names": "ASUS AX1800 Dual Band WiFi 6 USB Adapter 轉接器 USB-AX55 Nano",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "500",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "TP-Link 5-Port Gigabit Desktop PoE Switch with 4-Port PoE+ (TL-SG1005LP)",
+        "rating": "10",
+        "hon_price_min": "386",
+        "hon_price_max": "386",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link Archer T3U Plus AC1300 高增益無線雙頻 USB 網卡",
+        "rating": "4.0",
+        "hon_price_min": "225",
+        "hon_price_max": "268",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB 3.0"
+    },
+    {
+        "names": "Linksys LGS105-AP 5port Unmanaged GIGA Switch",
+        "rating": "10",
+        "hon_price_min": "169",
+        "hon_price_max": "298",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "TP-Link TL-SG105",
+        "rating": "10",
+        "hon_price_min": "124",
+        "hon_price_max": "199",
+        "water_price_min": "118",
+        "water_price_max": "118",
+        "種類:": "Unmanaged Switch",
+        "規格:": "5-Port"
+    },
+    {
+        "names": "TP-Link Archer TXE75E AXE5400 Tri-Band Wi-Fi 6E Bluetooth 5.2 PCI Express Adapter",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "Wireless PCI-E Card"
+    },
+    {
+        "names": "Ubiquiti Ubnt Access Point WiFi 6 Long-Range U6-LR-US",
+        "rating": "9.3",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,398",
+        "water_price_max": "1,398",
+        "種類:": "Access Point",
+        "規格:": "802.11ax (Wi-Fi 6)"
+    },
+    {
+        "names": "Netgear 雙網絡 4G SIM Router LM1200",
+        "rating": "",
+        "hon_price_min": "1,246",
+        "hon_price_max": "1,250",
+        "種類:": "Router",
+        "速度:": "Download up to 150M and Upload up to 50M"
+    },
+    {
+        "names": "Cisco 8-GE Business 250 Series 2x1G SFP Smart Switch CBS250-8T-E-2G",
+        "rating": "",
+        "hon_price_min": "1,488",
+        "hon_price_max": "1,519",
+        "種類:": "Managed Switch",
+        "規格:": "8 Port GE Ext PS | 2x1G Combo"
+    },
+    {
+        "names": "TP-Link TL-WA850RE",
+        "rating": "9.3",
+        "hon_price_min": "145",
+        "hon_price_max": "198",
+        "種類:": "WiFi Repeater",
+        "規格:": "802.11N"
+    },
+    {
+        "names": "TP-Link Archer T3U AC1300 Mini Wireless MU-MIMO USB Adapter",
+        "rating": "5.1",
+        "hon_price_min": "181",
+        "hon_price_max": "210",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "Cisco Business 24-GE 2 x 1G SFP Unmanaged Switch (CBS110-24T)",
+        "rating": "",
+        "hon_price_min": "1,517",
+        "hon_price_max": "1,699",
+        "種類:": "Unmanaged Switch",
+        "規格:": "24 Port GE, 2x1G SFP"
+    },
+    {
+        "names": "TP-Link 5-Port 10/100/1000Mbps Desktop Switch TL-SG105S",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "1,450",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "TP-Link TL-PA9020P KIT (一對)",
+        "rating": "9.5",
+        "hon_price_min": "644",
+        "hon_price_max": "778",
+        "種類:": "HomePlug",
+        "規格:": "設有2個Gigabit LAN Port+每部設有電源插座"
+    },
+    {
+        "names": "TP-Link 10 Gigabit PCI Express Network Adapter TX401",
+        "rating": "",
+        "hon_price_min": "596",
+        "hon_price_max": "690",
+        "種類:": "Wireless PCI-E Card",
+        "規格:": "PCI Express 3.0 x4"
+    },
+    {
+        "names": "Netgear 300 Series SOHO Plus (GS308E)",
+        "rating": "9.0",
+        "hon_price_min": "436",
+        "hon_price_max": "510",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear GS324",
+        "rating": "9.0",
+        "hon_price_min": "928",
+        "hon_price_max": "1,180",
+        "種類:": "Unmanaged Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "TP-Link TL-WPA4220-KIT",
+        "rating": "8.9",
+        "hon_price_min": "335",
+        "hon_price_max": "598",
+        "water_price_min": "335",
+        "water_price_max": "335",
+        "種類:": "HomePlug",
+        "規格:": "設有2個LAN Port"
+    },
+    {
+        "names": "Wavlink AX3000 雙頻無線 WiFi 6 藍牙5.0 PCIe 無線網絡卡 WN675X2",
+        "rating": "10",
+        "hon_price_min": "342",
+        "hon_price_max": "348",
+        "種類:": "Wireless PCI-E Card",
+        "規格:": "IEEE 802.11 ax, Bluetooth5.0, PCI-E"
+    },
+    {
+        "names": "TP-Link 5-port 2.5G Multi-Giga Desktop Switch TL-SG105-M2",
+        "rating": "10",
+        "hon_price_min": "974",
+        "hon_price_max": "988",
+        "種類:": "Unmanaged Switch",
+        "規格:": "5 x 2.5G/1G/100M Ports"
+    },
+    {
+        "names": "TP-Link Archer T4U AC1300 Wireless Dual Band USB Adapter",
+        "rating": "9.5",
+        "hon_price_min": "225",
+        "hon_price_max": "299",
+        "種類:": "Wireless Adapter",
+        "規格:": "802.11b/g/n 2.4GHz / 802.11a/n/g 5GHz"
+    },
+    {
+        "names": "Linksys LGS116-AP 16port Unmanaged GIGA Switch",
+        "rating": "10",
+        "hon_price_min": "618",
+        "hon_price_max": "899",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "TP-Link AX1800 Wi-Fi Range Extender (TL-RE605X)",
+        "rating": "10",
+        "hon_price_min": "675",
+        "hon_price_max": "715",
+        "種類:": "WiFi Extender",
+        "規格:": "AX1800"
+    },
+    {
+        "names": "TP-Link Archer TX50E AX3000 Wi-Fi 6 藍牙 5.0 PCIe 無線網路卡",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "429",
+        "種類:": "Wireless PCI-E Card",
+        "規格:": "AX3000"
+    },
+    {
+        "names": "GlocalMe Numen Air 便携式5G WiFi機",
+        "rating": "",
+        "hon_price_min": "2,599",
+        "hon_price_max": "2,599",
+        "種類:": "Pocket WiFi",
+        "規格:": "尺寸: 151.5 x 68 x 14.3mm ; 重量:194g"
+    },
+    {
+        "names": "Netgear 5-Port Gigabit Ethernet Unmanaged Switch GS305",
+        "rating": "8.7",
+        "hon_price_min": "172",
+        "hon_price_max": "245",
+        "種類:": "Unmanaged Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "ASUS RP-AC55",
+        "rating": "10",
+        "hon_price_min": "436",
+        "hon_price_max": "520",
+        "種類:": "WiFi Repeater"
+    },
+    {
+        "names": "TP-Link TL-WN725N",
+        "rating": "10",
+        "hon_price_min": "49",
+        "hon_price_max": "129",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "802.11b/g/n"
+    },
+    {
+        "names": "TP-Link USB Type-C Gigabit 網路卡 UE300C",
+        "rating": "10",
+        "hon_price_min": "112",
+        "hon_price_max": "159",
+        "種類:": "Ethernet Adapter",
+        "速度:": "1 10/100/1000M"
+    },
+    {
+        "names": "MSI HERALD-AX INTEL AX200NGW WIFI 6",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "389",
+        "種類:": "Wireless PCI-E Card",
+        "速度:": "Wireless-AXM"
+    },
+    {
+        "names": "TP-Link Archer TX20UH AX1800 Wi-Fi 6 USB 高增益無線網卡",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "399",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "TP-Link Archer T2U",
+        "rating": "9.0",
+        "hon_price_min": "145",
+        "hon_price_max": "199",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "5GHz 2.4GHz"
+    },
+    {
+        "names": "Linksys USB3GIG USB 3.0 Gigabit Ethernet Adapter",
+        "rating": "",
+        "hon_price_min": "174",
+        "hon_price_max": "299",
+        "種類:": "Ethernet Adapter",
+        "規格:": "USB3.0"
+    },
+    {
+        "names": "Netgear Nighthawk Dual-Band WiFi 6 Mesh Add-on Satellite (MS60)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "990",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "TP-Link 300Mbps 迷你無線N USB網路卡 TL-WN823N",
+        "rating": "7.5",
+        "hon_price_min": "50",
+        "hon_price_max": "149",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "802.11b/g/n"
+    },
+    {
+        "names": "Uniview NSW5110 Series 24 Ports Ethernet Switch (NSW5110-24GT4GP-IN)",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "種類:": "Managed Switch",
+        "規格:": "24×1000Mbpsports (RJ45)+2×1000Mbps Fiber(SFP)ports+2G Combo ports"
+    },
+    {
+        "names": "TP-Link AV1000 Gigabit Powerline Starter Kit TL-PA7017 KIT",
+        "rating": "8.6",
+        "hon_price_min": "303",
+        "hon_price_max": "399",
+        "種類:": "HomePlug",
+        "規格:": "AV1000"
+    },
+    {
+        "names": "ASUS AX3000 Dual Band PCI-E WiFi 6 (802.11ax) PCe-AX3000",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "510",
+        "water_price_min": "288",
+        "water_price_max": "290",
+        "種類:": "Wireless PCI-E Card",
+        "速度:": "Wireless-AXM"
+    },
+    {
+        "names": "ASUS PCE-AX58BT AX3000 Dual Band PCI-E WiFi 6 (802.11ax) Adapter with 2 external antennas",
+        "rating": "10",
+        "hon_price_min": "528",
+        "hon_price_max": "610",
+        "種類:": "Wireless PCI-E Card",
+        "規格:": "IEEE 802.11 ax, Bluetooth 5.0"
+    },
+    {
+        "names": "TP-Link 8-Port 10/100/1000Mbps Desktop Network Switch TL-SG108S",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "240",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "TP-Link 24-Port Gigabit Desktop/Rackmount Switch TL-SG1024S",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Gigabyte 2x2 802.11ax雙頻無線網路及藍牙擴充卡 GC-WBAX200",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "399",
+        "種類:": "Wireless PCI-E Card"
+    },
+    {
+        "names": "Aspirations 4-Port KVM, 電腦主機整合器 AKVM100",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "種類:": "KVM Switch",
+        "規格:": "4K"
+    },
+    {
+        "names": "TP-Link AV1000 Gigabit Passthrough Powerline Starter Kit TL-PA7017P KIT (停產)",
+        "rating": "10",
+        "hon_price_min": "419",
+        "hon_price_max": "468",
+        "種類:": "HomePlug",
+        "規格:": "AV1000"
+    },
+    {
+        "names": "TP-Link Archer T3U Nano New AC1300 Nano Wireless MU-MIMO USB Adapter",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "Netgate pfSense+ Security Gateway 下一代防火牆 4100 MAX",
+        "rating": "10",
+        "hon_price_min": "7,600",
+        "hon_price_max": "7,941",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "TP-Link  AC1200 Mesh Wi-Fi Range Extender RE315",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "種類:": "WiFi Extender",
+        "規格:": "AC1200"
+    },
+    {
+        "names": "Xiaomi 小米 WiFi放大器Pro",
+        "rating": "7.1",
+        "hon_price_min": "130",
+        "hon_price_max": "170",
+        "water_price_min": "100",
+        "water_price_max": "228",
+        "種類:": "WiFi Booster"
+    },
+    {
+        "names": "TP-Link 5-Port 10/100/1000Mbps Desktop Switch LS105G",
+        "rating": "9.3",
+        "hon_price_min": "122",
+        "hon_price_max": "168",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "種類:": "Unmanaged Switch",
+        "規格:": "5 Ports"
+    },
+    {
+        "names": "Cisco Catalyst 9300 Series Switch C9300-24U-E",
+        "rating": "",
+        "hon_price_min": "48,000",
+        "hon_price_max": "48,000",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link AC750 Wi-Fi 訊號延伸器 RE200",
+        "rating": "10",
+        "hon_price_min": "207",
+        "hon_price_max": "280",
+        "種類:": "WiFi Extender",
+        "規格:": "802.11 b/g/n/ac"
+    },
+    {
+        "names": "Netgear 商用 WiFi 6 PoE AP 無線接入點 (AX1800) WAX214",
+        "rating": "10",
+        "hon_price_min": "895",
+        "hon_price_max": "1,380",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "DrayTek Vigor2927 Series Gigabit Dual-WAN VPN Firewall Router",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,780",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "TP-Link T2U Plus",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "228",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "5dBi天線 ,57.8 x 18 x 173.4 毫米(mm),USB2.0 , AC600 wifi"
+    },
+    {
+        "names": "ASUS USB-AC53 Nano",
+        "rating": "9.6",
+        "hon_price_min": "180",
+        "hon_price_max": "260",
+        "種類:": "Wireless USB Adapter",
+        "速度:": "Wireless-AC1200M"
+    },
+    {
+        "names": "Linksys LGS108-AP 8port Unmanaged GIGA Switch",
+        "rating": "10",
+        "hon_price_min": "252",
+        "hon_price_max": "359",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Cisco Business 8-GE Unmanaged Switch (CBS110-8T-D)",
+        "rating": "",
+        "hon_price_min": "446",
+        "hon_price_max": "475",
+        "種類:": "Unmanaged Switch",
+        "規格:": "8 Port GE | Desktop | Ext PS(UK)"
+    },
+    {
+        "names": "TP-Link Archer T9UH",
+        "rating": "9.2",
+        "hon_price_min": "349",
+        "hon_price_max": "399",
+        "種類:": "Wireless Adapter",
+        "規格:": "802.11b/g/n/ac"
+    },
+    {
+        "names": "TP-Link Archer T2UB Nano AC600 超迷你型 Wi-Fi 藍牙 4.2 USB無線網卡",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "199",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "5GHz / 2.4GHz + Bluetooth 4.2"
+    },
+    {
+        "names": "Huawei 4G LTE Sim Card USB Dongle E8372h-820",
+        "rating": "10",
+        "hon_price_min": "365",
+        "hon_price_max": "499",
+        "種類:": "Wireless USB Adapter",
+        "速度:": "150M"
+    },
+    {
+        "names": "Tenda Powerline AV1000 Gigabit Powerline Adapter Kit PH3",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "300"
+    },
+    {
+        "names": "Huawei R216 4G Pocket Wifi 4G 移動WIFI蛋",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "598",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "種類:": "Pocket Wifi"
+    },
+    {
+        "names": "D-Link DGS-108 8 Port Gigabit Switch",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "262",
+        "種類:": "Unmanaged Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "Fortinet FortiGate 61F 防火牆 FG-61F-BDL-950-12",
+        "rating": "",
+        "hon_price_min": "7,100",
+        "hon_price_max": "7,580",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "QNAP 2.5GbE 無網管型交換器 QSW-1108-8T",
+        "rating": "10",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,399",
+        "種類:": "Unmanaged Switch",
+        "速度:": "2500M"
+    },
+    {
+        "names": "TP-Link TG-3468",
+        "rating": "7.0",
+        "hon_price_min": "66",
+        "hon_price_max": "129",
+        "種類:": "Wireless PCI-E Card",
+        "規格:": "PCI-e"
+    },
+    {
+        "names": "QNAP 2.5GbE Switch QSW-1105-5T",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "999",
+        "種類:": "Unmanaged Switch",
+        "規格:": "2.5GbE"
+    },
+    {
+        "names": "Comfast WiFi6 AX1800 USB 網卡 957AX",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "360",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "802.11ax"
+    },
+    {
+        "names": "Netgear 16-Port Gigabit Ethernet Unmanaged Switch GS316",
+        "rating": "8.0",
+        "hon_price_min": "585",
+        "hon_price_max": "970",
+        "種類:": "Unmanaged Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "Fenvi AX1800 WiFi 6 USB Adapter",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "315",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "802.11ax"
+    },
+    {
+        "names": "TP-Link Archer TX3000E AX3000 Wi-Fi 6 藍牙 5.0 PCIe 無線網路卡",
+        "rating": "9.0",
+        "hon_price_min": "469",
+        "hon_price_max": "630"
+    },
+    {
+        "names": "Dahua 大華 5-Port Desktop Gigabit Ethernet Switch PFS3005-5GT-L",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "種類:": "Ethernet Switch"
+    },
+    {
+        "names": "TP-Link Bluetooth 4.0 Nano USB Adapter 藍牙4.0迷你USB接收器 UB4A",
+        "rating": "",
+        "hon_price_min": "83",
+        "hon_price_max": "129",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB2.0即插即用"
+    },
+    {
+        "names": "TP-Link 10GBase-LR SFP+ LC Transceiver (TL-SM5110-LR)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "828",
+        "種類:": "SFP+ LC Transceiver"
+    },
+    {
+        "names": "TP-Link TL-WPA4220",
+        "rating": "9.5",
+        "hon_price_min": "244",
+        "hon_price_max": "299",
+        "種類:": "HomePlug",
+        "規格:": "設有2個LAN Port"
+    },
+    {
+        "names": "ZMI 紫米 4G隨身路由器 MF855",
+        "rating": "8.3",
+        "hon_price_min": "415",
+        "hon_price_max": "498",
+        "water_price_min": "340",
+        "water_price_max": "350",
+        "種類:": "Pocket WiFi"
+    },
+    {
+        "names": "Ubiquiti UniFi Security Gateway (USG-U)",
+        "rating": "10",
+        "hon_price_min": "888",
+        "hon_price_max": "1,180",
+        "種類:": "Gateway",
+        "規格:": "Giga Lan"
+    },
+    {
+        "names": "TP-Link JetStream 8-Port 10GE SFP+ L2+ Managed Switch TL-SX3008F",
+        "rating": "",
+        "hon_price_min": "2,668",
+        "hon_price_max": "3,050",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link AX1800 Wireless Dual Band Ceiling Mount Access Point EAP610",
+        "rating": "",
+        "hon_price_min": "1,223",
+        "hon_price_max": "1,229",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "Cisco C9300-NM-8X Catalyst 9300 8 x 10GE Network Module",
+        "rating": "",
+        "hon_price_min": "8,600",
+        "hon_price_max": "8,910",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link AX3600 Wireless Dual Band Multi-Gigabit Ceiling Mount Access Point EAP660 HD",
+        "rating": "",
+        "hon_price_min": "2,582",
+        "hon_price_max": "2,788",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "TP-Link JetStream 52-Port Gigabit L2+ Managed Switch with 48-Port PoE+ (TL-SG3452P)",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,990",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link UE300",
+        "rating": "9.5",
+        "hon_price_min": "96",
+        "hon_price_max": "149",
+        "種類:": "Ethernet Adapter",
+        "規格:": "Usb3.0"
+    },
+    {
+        "names": "Linksys 8-Port Managed Gigabit Switch LGS310C",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "999",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link 2.5G Multi-Giga PCIe 網卡 TL-NG421",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "種類:": "Wireless PCI-E Card",
+        "規格:": "芯片組：RTL8125B"
+    },
+    {
+        "names": "Cisco Catalyst 9500 Series Ethernet Switch C9500-48Y4C-A",
+        "rating": "",
+        "hon_price_min": "145,000",
+        "hon_price_max": "145,000",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "QNAP 2.5 GbE PCIe 網路擴充卡 QXG-2G1T-I225",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "539",
+        "種類:": "Wireless PCI-E Card",
+        "規格:": "PCIe Gen2 x1"
+    },
+    {
+        "names": "Cisco Catalyst 9500 Series Ethernet Switch C9500-24Y4C-A",
+        "rating": "",
+        "hon_price_min": "120,000",
+        "hon_price_max": "120,000",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear GS205",
+        "rating": "9.0",
+        "hon_price_min": "120",
+        "hon_price_max": "280",
+        "種類:": "Unmanaged Switch",
+        "規格:": "5Ports"
+    },
+    {
+        "names": "TP-Link TL-SG1008D",
+        "rating": "10",
+        "hon_price_min": "145",
+        "hon_price_max": "225",
+        "water_price_min": "130",
+        "water_price_max": "130",
+        "種類:": "Unmanaged Switch",
+        "規格:": "IEEE 802.3i/802.3u/ 802.3ab/802.3x"
+    },
+    {
+        "names": "Netgear 8-Port Gigabit ports with 2-Port Multi-Gig ports (100M/1G/2.5G/5G/10G) GS110EMX",
+        "rating": "10",
+        "hon_price_min": "1,848",
+        "hon_price_max": "2,640",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Hikvision 海康威視 4 Port Gigabit Unmanaged POE Switch DS-3E0505P-E/M",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "種類:": "POE Switch",
+        "規格:": "802.3AT"
+    },
+    {
+        "names": "Logitech Group Video Conferencing Bundle with Expansion Mics",
+        "rating": "10",
+        "hon_price_min": "11,500",
+        "hon_price_max": "12,800",
+        "water_price_min": "8,980",
+        "water_price_max": "11,300",
+        "種類:": "IP Phone / Conference Phone"
+    },
+    {
+        "names": "TP-Link 5GHz AC 867Mbps 23dBi Outdoor CPE CPE710",
+        "rating": "10",
+        "hon_price_min": "828",
+        "hon_price_max": "1,098",
+        "種類:": "Outdoor CPE"
+    },
+    {
+        "names": "Ubiquiti UNIFI U6-MESH Access Point",
+        "rating": "",
+        "hon_price_min": "1,578",
+        "hon_price_max": "1,699",
+        "種類:": "Access Point",
+        "速度:": "5400M"
+    },
+    {
+        "names": "Huawei WiFi 2 Mini E8372h-155",
+        "rating": "10",
+        "hon_price_min": "342",
+        "hon_price_max": "499",
+        "water_price_min": "378",
+        "water_price_max": "378"
+    },
+    {
+        "names": "ASUS XG-C100C",
+        "rating": "10",
+        "hon_price_min": "870",
+        "hon_price_max": "999",
+        "種類:": "RJ-45 for 1 x 100Mbps/1Gbps/2.5Gbps/5Gbps/10Gbps Mbps Ethernet Ports",
+        "規格:": "IEEE 802.3an, 10GBASE-T IEEE 802.3u, 100Base-TX Fast Ethernet  IEEE 802.3ab, 1000BASE-T Gigabit Ethernet  IEEE 802.3az, Energy Efficient Ethernet IEEE 802.1p, Priority Queuing"
+    },
+    {
+        "names": "Xiaomi 小米 WiFi放大器2",
+        "rating": "6.0",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "種類:": "Repeater"
+    },
+    {
+        "names": "ZyXEL 5G PoE++ Injector (PoE12-60W)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "種類:": "Poe Injector"
+    },
+    {
+        "names": "Netgear 24-port Gigabit Ethernet Unmanaged POE+ Switch (GS324P)",
+        "rating": "",
+        "hon_price_min": "2,388",
+        "hon_price_max": "2,493",
+        "種類:": "PoE Switch",
+        "規格:": "POE+ Switch"
+    },
+    {
+        "names": "TP-Link 18-Port Gigabit Easy Smart Switch with 16-Port PoE+ TL-SG1218MPE",
+        "rating": "",
+        "hon_price_min": "2,138",
+        "hon_price_max": "2,248",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link 5埠 10/100/1000Mbps 桌上型交換器 LS1005G",
+        "rating": "9.3",
+        "hon_price_min": "105",
+        "hon_price_max": "169",
+        "種類:": "Unmanaged Switch",
+        "規格:": "5 Port 1000Mbps"
+    },
+    {
+        "names": "Netgear 5 Port Gigabit Ethernet Unmanaged Switch with 4-Port PoE GS305P",
+        "rating": "10",
+        "hon_price_min": "408",
+        "hon_price_max": "580",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Intel Wi-Fi 6E AX210 Gig+ WiFi Card AX210NGW",
+        "rating": "",
+        "water_price_min": "150",
+        "water_price_max": "180",
+        "種類:": "WiFi Card",
+        "規格:": "802.11AX"
+    },
+    {
+        "names": "TP-Link 8-Port Gigabit Smart Switch (TL-SG2008)",
+        "rating": "",
+        "hon_price_min": "513",
+        "hon_price_max": "548",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 1-Local/4-Remote Access 16-Port Multi-Interface Cat 5 KVM over IP Switch (KN4116VA)",
+        "rating": "",
+        "hon_price_min": "42,888",
+        "hon_price_max": "57,840",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Multipro Dual Band USB Adapter (AC1200 WiFi)",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "Wavlink AX1800 Dual Band WiFi 6 (802.11ax) Range Extender / Mesh Router / AP WL-WN583AX1",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "ASUS USB Type-A 2.5G Base-T Ethernet Adapter USB-C2500",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "499",
+        "種類:": "USB to Ethernet Adapter",
+        "速度:": "2500M"
+    },
+    {
+        "names": "Fortinet FortiGate 101F (NGFW) FG-101F-BDL-950-12",
+        "rating": "",
+        "hon_price_min": "46,200",
+        "hon_price_max": "46,800",
+        "種類:": "Firewall",
+        "規格:": "Multiple GE RJ45, GE SFP and 10 GE SFP+ slots"
+    },
+    {
+        "names": "TP-Link 10-Port Gigabit Desktop Switch with 8-Port PoE+ (TL-SG1210MP)",
+        "rating": "",
+        "hon_price_min": "892",
+        "hon_price_max": "1,036",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link Archer T4U Plus AC1300 Dual Antennas High-Gain Wireless USB Adapter 雙頻無線網卡",
+        "rating": "",
+        "hon_price_min": "277",
+        "hon_price_max": "328",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "AC1300"
+    },
+    {
+        "names": "ASUS USB-AC56",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "460",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "TP-Link Gigabit WDM Media Converter (TL-FC311A-20)",
+        "rating": "",
+        "hon_price_min": "657",
+        "hon_price_max": "659",
+        "種類:": "Media Converter"
+    },
+    {
+        "names": "Netgear 8 Port Gigabit Ethernet Unmanaged Switch with 8-Port PoE/PoE+ GS108PP",
+        "rating": "",
+        "hon_price_min": "826",
+        "hon_price_max": "1,060",
+        "種類:": "Unmanaged Switch",
+        "速度:": "10/100/1000M"
+    },
+    {
+        "names": "Fortinet FortiGate 80F SMB FG-80F-BDL-950-36-M100 (S)",
+        "rating": "",
+        "hon_price_min": "20,000",
+        "hon_price_max": "21,800",
+        "種類:": "Firewall",
+        "規格:": "2x WAN GE RJ45 Ports | Multiple GE RJ45"
+    },
+    {
+        "names": "TP-Link JetStream 52-Port Gigabit Stackable L3 Managed Switch (TL-T3700-52TQ)",
+        "rating": "",
+        "hon_price_min": "21,590",
+        "hon_price_max": "22,590",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear AX1600 4-Stream WiFi 6 Mesh Extender (EAX12)",
+        "rating": "10",
+        "hon_price_min": "748",
+        "hon_price_max": "750",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "Netgear AC1200 Dual Band WiFi USB Mini Adapter 適配器 (A6150)",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "360",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "Cisco Catalyst 2960-L Series Switch WS-C2960L-24PS-LL",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "8,999",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Cisco GLC-LH-SMD",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,980",
+        "種類:": "Network Module",
+        "速度:": "1000M"
+    },
+    {
+        "names": "TP-Link JetStream 48-Port Gigabit L2 Managed Switch with 4 SFP Slots (TL-SG3452)",
+        "rating": "",
+        "hon_price_min": "3,220",
+        "hon_price_max": "3,238",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear 12-Port 10G-Gigabit/Multi-Gigabit Ethernet Switch with 2 SFP+ Combo Ports XS512EM",
+        "rating": "",
+        "hon_price_min": "8,240",
+        "hon_price_max": "8,990",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link 16-Port 10/100Mbps Desktop Switch TL-SF1016D",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "199",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "TP-Link Omada 硬體控制器 OC200",
+        "rating": "",
+        "hon_price_min": "1,554",
+        "hon_price_max": "1,678",
+        "種類:": "Hardware Controller"
+    },
+    {
+        "names": "TP-Link AX1500 802.11ax Wi-Fi 6 Range Extender - RE500X",
+        "rating": "",
+        "hon_price_min": "526",
+        "hon_price_max": "599",
+        "種類:": "WiFi Extender",
+        "規格:": "內置天線, 1x Giga LAN"
+    },
+    {
+        "names": "Aruba Wi-Fi 6 (802.11ax) 4x5 MIMO AP-515",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "4,980",
+        "種類:": "Access Point",
+        "規格:": "Wi-Fi 6 (802.11ax) 4x4 MIMO"
+    },
+    {
+        "names": "TP-Link 16-Port Gigabit 網絡交換器 TL-SG116",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "568",
+        "種類:": "Unmanaged Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "Cisco Business 8-GE | 2x1G SFP Smart Switch (CBS220-8T-E-2G)",
+        "rating": "",
+        "hon_price_min": "958",
+        "hon_price_max": "1,090",
+        "種類:": "Managed Switch",
+        "規格:": "8 Port GE | 2x1G SFP"
+    },
+    {
+        "names": "TP-Link JetStream 16-Port Gigabit Smart Switch with 2 SFP Slots (TL-SG2218)",
+        "rating": "",
+        "hon_price_min": "1,138",
+        "hon_price_max": "1,148",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link Archer T2U Nano",
+        "rating": "7.0",
+        "hon_price_min": "117",
+        "hon_price_max": "199",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "TP-Link JetStream 16-Port 10GE SFP+ L2+ Managed Switch TL-SX3016F",
+        "rating": "",
+        "hon_price_min": "5,650",
+        "hon_price_max": "5,998",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear 8-Port Gigabit Ethernet PoE+ Smart Managed Pro Switch with 2 SFP Ports (GS310TP)",
+        "rating": "",
+        "hon_price_min": "1,104",
+        "hon_price_max": "1,590",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear Nighthawk AXE3000 WiFi 6E USB 3.0 Adapter 轉接器",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB 3.0 port"
+    },
+    {
+        "names": "TP-Link 8-Port 10/100Mbps + 3-Port Gigabit Desktop Switch with 8-Port PoE+ (TL-SL1311MP)",
+        "rating": "",
+        "hon_price_min": "836",
+        "hon_price_max": "838",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link 10GBase-SR SFP+ LC Transceiver (TL-SM5110-SR)",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "488",
+        "種類:": "SFP+ LC Transceiver"
+    },
+    {
+        "names": "Aten 4K HDMI over IP Transmitter with PoE (VE8952T)",
+        "rating": "",
+        "hon_price_min": "5,926",
+        "hon_price_max": "7,658",
+        "種類:": "Transmitter"
+    },
+    {
+        "names": "Netgear S350 Smart Switches (GS324TP)",
+        "rating": "",
+        "hon_price_min": "2,848",
+        "hon_price_max": "3,580",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear 24x1G PoE+ 300W 2x1G and 4xSFP Managed Switch GSM4230P",
+        "rating": "",
+        "hon_price_min": "14,400",
+        "hon_price_max": "14,400",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 4-Output PoH/PoE Power Injector (VE44PB)",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "4,488",
+        "種類:": "Power Injector 電源供應器"
+    },
+    {
+        "names": "Ruckus Indoor 802.11ax Wi-Fi 6 Access Point R350",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,150",
+        "種類:": "Access Point",
+        "規格:": "802.11ax"
+    },
+    {
+        "names": "TP-Link 28-Port Gigabit Easy Smart PoE Switch with 24-Port PoE+ TL-SG1428PE",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,538",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Linksys 8-Port Managed Gigabit PoE+ Switch LGS310MPC",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "2,500",
+        "water_price_min": "2,500",
+        "water_price_max": "2,500",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Hikvision 海康威視 16 Port Gigabit Unmanaged POE Switch DS-3E0518P-E/M",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "種類:": "POE Switch",
+        "規格:": "802.3AT"
+    },
+    {
+        "names": "DrayTek Vigor2962 Series High Performance Dual-WAN Router/VPN Gateway 高效能雙WAN VPN路由器",
+        "rating": "",
+        "hon_price_min": "3,538",
+        "hon_price_max": "3,689",
+        "種類:": "VPN Router",
+        "速度:": "1000M"
+    },
+    {
+        "names": "Cisco Business 16-GE | 2 x 1G SFP | PoE+ (120W) Smart Switch (CBS350-16P-2G)",
+        "rating": "",
+        "hon_price_min": "3,448",
+        "hon_price_max": "3,990",
+        "種類:": "Managed Switch",
+        "規格:": "16-GE | 2 x1G RJ45 / SFP Combo | PoE+ (60W)"
+    },
+    {
+        "names": "TP-Link 10/100 Mbps WDM Media Converter (TL-FC111A-20)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "339",
+        "種類:": "Media Converter"
+    },
+    {
+        "names": "Netgear Cloud Managed WiFi (WAX630)",
+        "rating": "10",
+        "hon_price_min": "3,923",
+        "hon_price_max": "3,930",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "Netgear 52-Port Gigabit Ethernet PoE with Smart Management Switch (GC752XP)",
+        "rating": "",
+        "hon_price_min": "8,120",
+        "hon_price_max": "11,505",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Cisco Business 16-GE Unmanaged Switch (CBS110-16T)",
+        "rating": "",
+        "hon_price_min": "1,166",
+        "hon_price_max": "1,300",
+        "種類:": "Unmanaged Switch",
+        "規格:": "16 Port GE | Desktop | Ext PS(UK)"
+    },
+    {
+        "names": "Netgear 135W Power Supply Unit (APS135W)",
+        "rating": "",
+        "hon_price_min": "4,203",
+        "hon_price_max": "4,203",
+        "種類:": "Power Supply"
+    },
+    {
+        "names": "TP-Link JetStream 10-Port Gigabit Smart PoE Switch with 8-Port PoE+ (TL-SG2210MP)",
+        "rating": "",
+        "hon_price_min": "1,428",
+        "hon_price_max": "1,498",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "COMFAST 1800Mbps High-Speed Dual-Band USB WiFi (Support WiFi 6) CF-953AX",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB3.0, WiFi 6"
+    },
+    {
+        "names": "Level One RJ45 to SC Fast Ethernet Media Converter, Single-Mode Fiber, 20km FVT-2201",
+        "rating": "",
+        "hon_price_min": "523",
+        "hon_price_max": "525",
+        "種類:": "Fiber Converter"
+    },
+    {
+        "names": "TP-Link 8-Port 10/100Mbps Desktop Switch with 4-Port PoE (TL-SF1008LP)",
+        "rating": "",
+        "hon_price_min": "377",
+        "hon_price_max": "379",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Fortinet FortiWiFi-60F FWF-60F-A-BDL-950-12-M60 (S)",
+        "rating": "",
+        "hon_price_min": "7,680",
+        "hon_price_max": "8,400",
+        "種類:": "Firewall",
+        "規格:": "10x GE RJ45 ports (including 7x Internal Ports, 2x WAN Ports, 1x DMZ Port), Wireless (802.11 a/b/g/n/ac-W2)"
+    },
+    {
+        "names": "Netgear 16-Port PoE+ Gigabit Ethernet Plus Switch (180W) with 1 SFP Port GS316EP",
+        "rating": "",
+        "hon_price_min": "2,112",
+        "hon_price_max": "2,250",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link TL-SG108",
+        "rating": "9.5",
+        "hon_price_min": "186",
+        "hon_price_max": "268",
+        "water_price_min": "189",
+        "water_price_max": "189",
+        "種類:": "Unmanaged Switch",
+        "規格:": "8port"
+    },
+    {
+        "names": "Netgear 8-Port Multi-Gigabit/10G Ethernet Ultra60 PoE++ Smart Switch with 2 SFP+ Ports MS510TXUP",
+        "rating": "10",
+        "hon_price_min": "7,310",
+        "hon_price_max": "9,200",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "ZyXEL 5埠GbE無網管PoE交換器 RGS100-5P",
+        "rating": "",
+        "hon_price_min": "2,523",
+        "hon_price_max": "3,090",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Cisco Business 48-GE | 4x1G SFP Smart Switch (CBS250-48P-4G)",
+        "rating": "",
+        "hon_price_min": "7,312",
+        "hon_price_max": "7,700",
+        "種類:": "Managed Switch",
+        "規格:": "48 Port GE, PoE, 4x1G SFP"
+    },
+    {
+        "names": "ZyXEL ZyWALL ATP700 ATP Firewall",
+        "rating": "",
+        "hon_price_min": "30,528",
+        "hon_price_max": "35,900",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "Netgear 28-Port Gigabit Ethernet Smart w/optional Remote/Cloud Management Switch GC728X",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "ZyXEL 8埠GbE無網管IP監控PoE交換器 GS1300-10HP",
+        "rating": "",
+        "hon_price_min": "2,290",
+        "hon_price_max": "2,320",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Ubiquiti UniFi Switch 24 PoE USW-24-PoE",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,499",
+        "種類:": "PoE Switch",
+        "規格:": "802.3at PoE+ ports"
+    },
+    {
+        "names": "Netgear ProSAFE Spare Module Fan Tray (AFT200)",
+        "rating": "",
+        "hon_price_min": "2,953",
+        "hon_price_max": "2,953",
+        "種類:": "Fan Tray"
+    },
+    {
+        "names": "TP-Link 1000Base-BX WDM Bi-Directional SFP Module (TL-SM321B-2)",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "488",
+        "種類:": "SFP Module"
+    },
+    {
+        "names": "Aten HDMI over IP Transmitter (1080p@100m) VE8900T",
+        "rating": "",
+        "hon_price_min": "3,763",
+        "hon_price_max": "4,878",
+        "種類:": "Transmitter"
+    },
+    {
+        "names": "Ubiquiti UniFi Cloud Key Gen2 Plus 遠端控制器 UCK-G2-PLUS",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,880",
+        "種類:": "Cloud Key",
+        "速度:": "1000M"
+    },
+    {
+        "names": "TP-Link 8埠 10/100/1000Mbps 桌上型交換器 LS1008G",
+        "rating": "",
+        "hon_price_min": "157",
+        "hon_price_max": "249",
+        "種類:": "Unmanaged Switch",
+        "規格:": "8 Port"
+    },
+    {
+        "names": "Netgear GS752TX",
+        "rating": "",
+        "hon_price_min": "8,650",
+        "hon_price_max": "9,150",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear A6210",
+        "rating": "7.0",
+        "hon_price_min": "298",
+        "hon_price_max": "398",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "AC1200"
+    },
+    {
+        "names": "Aten 1-Local/Remote Share Access Single Port VGA KVM over IP Switch (CN9000)",
+        "rating": "",
+        "hon_price_min": "7,450",
+        "hon_price_max": "8,390",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "TP-Link SG1048 48port Gigabit Network Switch TL-sg1048",
+        "rating": "10",
+        "hon_price_min": "2,170",
+        "hon_price_max": "2,378",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear 32x100G/50G/40G QSFP28 Managed Switch CSM4532",
+        "rating": "",
+        "hon_price_min": "188,260",
+        "hon_price_max": "188,260",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear 10-Port Gigabit Ethernet High-Power PoE+ with PoE++ Ports Smart Desktop Switch (240W) (GS110TUP)",
+        "rating": "",
+        "hon_price_min": "3,095",
+        "hon_price_max": "4,850",
+        "water_price_min": "3,095",
+        "water_price_max": "3,095",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Cisco Business 16-GE | 2x1G SFP | 130W POE Smart Switch (CBS220-16P-2G)",
+        "rating": "",
+        "hon_price_min": "2,654",
+        "hon_price_max": "2,700",
+        "種類:": "Managed Switch",
+        "規格:": "16 Port GE | 2x1G SFP"
+    },
+    {
+        "names": "Aten 1-Local/2-Remote Access 16-Port Multi-Interface Cat 5 KVM over IP Switch (KN2116VA)",
+        "rating": "",
+        "hon_price_min": "29,426",
+        "hon_price_max": "39,690",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Huawei E8372h-153",
+        "rating": "7.0",
+        "hon_price_min": "342",
+        "hon_price_max": "498",
+        "water_price_min": "358",
+        "water_price_max": "378",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "4G/3G"
+    },
+    {
+        "names": "SONICWALL TZ500 TotalSecure - 1 Year",
+        "rating": "",
+        "hon_price_min": "17,300",
+        "hon_price_max": "17,300",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "Cisco Firepower 2130 NGFW Appliance, 1U, 1 x NetMod Bay FPR2130-NGFW-K9",
+        "rating": "",
+        "hon_price_min": "134,000",
+        "hon_price_max": "140,000",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "TP-Link 5 埠 10G 桌上型交換器 TL-SX105",
+        "rating": "10",
+        "hon_price_min": "2,448",
+        "hon_price_max": "2,990",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Aten 16-Port Multi-Interface (DisplayPort, HDMI, DVI, VGA) Cat 5 KVM Switch (KH1516A)",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "5,258",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "GC-system USB WiFi 無線接收網卡天線 (150Mbps-802.IIN)",
+        "rating": "",
+        "hon_price_min": "53",
+        "hon_price_max": "55",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB 2.0"
+    },
+    {
+        "names": "Aten 16-Port Serial Console Server with Dual Power/LAN (SN0116CO)",
+        "rating": "",
+        "hon_price_min": "15,350",
+        "hon_price_max": "16,280",
+        "種類:": "Console Server"
+    },
+    {
+        "names": "Cisco Business 5-GE Unmanaged Switch (CBS110-5T-D)",
+        "rating": "",
+        "hon_price_min": "408",
+        "hon_price_max": "429",
+        "種類:": "Unmanaged Switch",
+        "規格:": "5 Ports -GE"
+    },
+    {
+        "names": "DrayTek VigorAP 918R 802.11ac Wave 2 Dual-Band PoE Outdoor Access Point",
+        "rating": "",
+        "hon_price_min": "2,205",
+        "hon_price_max": "2,680",
+        "種類:": "Access Point",
+        "速度:": "AC1300M"
+    },
+    {
+        "names": "Netgear 24端口千兆智能網管 Pro 交換機 GS324T",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,760",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 1-Local/2-Remote Access 24-Port Multi-Interface Cat 5 KVM over IP Switch (KN2124VA)",
+        "rating": "",
+        "hon_price_min": "30,560",
+        "hon_price_max": "41,220",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Cisco Catalyst 1000 Series Switches C1000-8T-2G-L",
+        "rating": "",
+        "hon_price_min": "2,394",
+        "hon_price_max": "3,500",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "SONICWALL TZ470 TotalSecure - Threat Edition (1 Year)",
+        "rating": "",
+        "hon_price_min": "16,900",
+        "hon_price_max": "16,900",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "Wavlink Arieal-G Wireless AC1200 Range Extender #WL-WN579G3",
+        "rating": "",
+        "hon_price_min": "33",
+        "hon_price_max": "363",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "Netgear S350 Smart Switches (GS308T)",
+        "rating": "",
+        "hon_price_min": "632",
+        "hon_price_max": "920",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Linksys 24-Port Managed Gigabit PoE+ Switch LGS328MPC",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "6,000",
+        "water_price_min": "6,000",
+        "water_price_max": "6,000",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link PoE 電源分離器 TL-POE10R",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "種類:": "PoE Splitter"
+    },
+    {
+        "names": "TP-Link Archer T5E AC1200 WiFi Bluetooth 4.2 PCIe Adapter",
+        "rating": "",
+        "hon_price_min": "276",
+        "hon_price_max": "318",
+        "規格:": "AC1200"
+    },
+    {
+        "names": "TP-Link JetStream 8-Port 2.5GBASE-T and 2-Port 10GE SFP+ L2+ Managed Switch with 8-Port PoE+ TL-SG3210XHP-M2",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,790",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Aten 1-Local/Remote Share Access 8-Port PS/2-USB VGA Single Rail LCD KVM over IP Switch CL5708IN",
+        "rating": "",
+        "hon_price_min": "11,077",
+        "hon_price_max": "12,690",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Aten 8-Port Serial Console Server (SN9108CO)",
+        "rating": "",
+        "hon_price_min": "7,092",
+        "hon_price_max": "8,570",
+        "種類:": "Console Server"
+    },
+    {
+        "names": "Ubiquiti UniFi Switch US-8-150W",
+        "rating": "",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,899",
+        "種類:": "PoE Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "TP-Link TL-SF1008D",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "108",
+        "種類:": "Unmanaged Switch",
+        "速度:": "100M"
+    },
+    {
+        "names": "Netgear 40x1G PoE+ 960W and 8xSFP+ Managed Switch GSM4248PX",
+        "rating": "",
+        "hon_price_min": "33,000",
+        "hon_price_max": "33,100",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 8-Port 19in. Dual Rail CAT5 LCD KVM over IP Switch KL1508AiN",
+        "rating": "",
+        "hon_price_min": "14,450",
+        "hon_price_max": "16,150",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Linksys 48-Port Managed Gigabit PoE+ Switch LGS352MPC",
+        "rating": "",
+        "hon_price_min": "9,950",
+        "hon_price_max": "10,999",
+        "water_price_min": "9,900",
+        "water_price_max": "9,900",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Cisco C1000-8P-2G-L",
+        "rating": "",
+        "hon_price_min": "3,890",
+        "hon_price_max": "5,125",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "DrayTek VigorAP 960C 2x2 Dual Band 802.11ax Ceiling AP",
+        "rating": "",
+        "hon_price_min": "1,870",
+        "hon_price_max": "2,150",
+        "種類:": "Access Point",
+        "速度:": "1000M"
+    },
+    {
+        "names": "ZyXEL ZyWALL VPN100 VPN Firewall",
+        "rating": "",
+        "hon_price_min": "5,247",
+        "hon_price_max": "6,190",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "ZyXEL 24-Port Gigabit PoE+ L2 Web Managed Switch GS1350-26HP",
+        "rating": "",
+        "hon_price_min": "5,640",
+        "hon_price_max": "5,690",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "ZyXEL 8埠GbE無網管IP監控PoE交換器 GS1300-18HP",
+        "rating": "",
+        "hon_price_min": "3,070",
+        "hon_price_max": "3,100",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear SFP Transceiver 1000BASE-T (AGM734)",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "1,900",
+        "種類:": "SFP Transceiver"
+    },
+    {
+        "names": "TP-Link 2 Gigabit ports POE++ Injector 電源供應器/注入器 TL-POE170S (60W)",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488",
+        "種類:": "電源供應器/注入器"
+    },
+    {
+        "names": "Netgear 5 Port 10-Gigabit/Multi-Gigabit Ethernet Unmanaged Switch (XS505M)",
+        "rating": "",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,990",
+        "種類:": "Unmanaged Switch",
+        "規格:": "RJ45, SFP+"
+    },
+    {
+        "names": "TP-Link AC1200 Wireless Access Point TL-WA1201",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "499",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "Netgear 8-Port Gigabit Ethernet Plus Switch with Cable Management GS908E",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Fortinet Fortigate 100F FG-100F-BDL-950-12",
+        "rating": "10",
+        "hon_price_min": "36,000",
+        "hon_price_max": "36,850",
+        "種類:": "Firewall",
+        "規格:": "2 x 10GE SFP+ Slots, 18 x GE RJ45, 8x 1GE SFP, 4xGE"
+    },
+    {
+        "names": "TP-Link 100-240V Redundant Power Supply Module (TL-MCRP100)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "Power Supply"
+    },
+    {
+        "names": "Wavlink Arieal-G AC1200 Wi-Fi訊號延伸器",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "365",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "ZyXEL ZyWALL ATP800 ATP Firewall",
+        "rating": "",
+        "hon_price_min": "49,608",
+        "hon_price_max": "58,400",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "Aten 8-Port USB 3.0 4K HDMI KVM Switch (CS18208)",
+        "rating": "",
+        "hon_price_min": "8,109",
+        "hon_price_max": "10,890",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "ZyXEL Nebula 雲端管理安全閘道器 NSG50",
+        "rating": "",
+        "hon_price_min": "2,237",
+        "hon_price_max": "3,680",
+        "種類:": "Gateway"
+    },
+    {
+        "names": "TP-Link 2 Gigabit ports POE+ INJECTOR TL-POE160S",
+        "rating": "10",
+        "hon_price_min": "202",
+        "hon_price_max": "288",
+        "種類:": "Injector",
+        "規格:": "IEEE802.3i, IEEE802.3u, IEEE802.3ab, IEEE802.3af, IEEE802.3at"
+    },
+    {
+        "names": "TP-Link 16-Port Gigabit Easy Smart Switch TL-SG116E",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "598",
+        "種類:": "Switch"
+    },
+    {
+        "names": "Netgear 550W Modular Power Supply Unit for M4300 series Switches (PoE PA models) APS550W",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,250",
+        "種類:": "Power Supply"
+    },
+    {
+        "names": "Gigabyte 無線網路及藍牙擴充卡 GC-WBAX210",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "489",
+        "種類:": "Wireless PCI-E Card"
+    },
+    {
+        "names": "TP-Link 14-Slot Rackmount Chassis (TL-FC1420)",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,898",
+        "種類:": "Rackmount Chassis"
+    },
+    {
+        "names": "Netgear Business Security Router (BR200)",
+        "rating": "",
+        "hon_price_min": "1,798",
+        "hon_price_max": "1,880",
+        "種類:": "Router"
+    },
+    {
+        "names": "Netgear SFP+ DAC CABLE (AXC765)",
+        "rating": "",
+        "hon_price_min": "2,860",
+        "hon_price_max": "2,866",
+        "種類:": "SFP+ DAC Cable"
+    },
+    {
+        "names": "Synology M.2 SSD & 10GbE 複合式轉接卡 E10M20-T1",
+        "rating": "",
+        "hon_price_min": "2,145",
+        "hon_price_max": "2,299",
+        "種類:": "M.2 SSD & 10GbE Adapter Card"
+    },
+    {
+        "names": "TP-Link TL-WA855RE",
+        "rating": "7.0",
+        "hon_price_min": "166",
+        "hon_price_max": "229",
+        "water_price_min": "129",
+        "water_price_max": "129",
+        "種類:": "Wifi Extender",
+        "規格:": "802.11b/g/n"
+    },
+    {
+        "names": "ZyXEL 24 埠GbE智慧型網管交換器 GS-1920-24 V2",
+        "rating": "",
+        "hon_price_min": "2,205",
+        "hon_price_max": "2,710",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 1-Local/Remote Share Access 8-Port PS/2-USB VGA Single Rail LCD KVM over IP Switch CL5708IM",
+        "rating": "",
+        "hon_price_min": "10,420",
+        "hon_price_max": "11,950",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "TP-Link 16-Port 10/100Mbps Desktop/Rackmount Network Switch (TL-SF1016DS)",
+        "rating": "",
+        "hon_price_min": "286",
+        "hon_price_max": "299",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "TP-Link Archer T2E AC600 Wireless Dual Band PCI Express Adapter",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "169",
+        "速度:": "433 Mbps on the 5 GHz band and 200 Mbps on the 2.4 GHz bandM"
+    },
+    {
+        "names": "Cisco Catalyst Switch Accessories C9300L-STACK-KIT",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "5,999",
+        "種類:": "Switch Accessories"
+    },
+    {
+        "names": "Aten Serial Console Adapter (KA7140)",
+        "rating": "",
+        "hon_price_min": "759",
+        "hon_price_max": "938",
+        "種類:": "Console Adapter"
+    },
+    {
+        "names": "TP-Link 1000Base-BX WDM Bi-Directional SFP Module (TL-SM321A)",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "799",
+        "種類:": "SFP Module"
+    },
+    {
+        "names": "TP-Link 16埠Gigabit簡易智慧型交換器 TL-SG1016DE",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "798",
+        "種類:": "Switch",
+        "規格:": "16-Port"
+    },
+    {
+        "names": "Level One 2-Port Gigabit PoE-Plus Repeater, Cascadable POR-0222",
+        "rating": "",
+        "hon_price_min": "2,878",
+        "hon_price_max": "2,898",
+        "種類:": "PoE-Plus Repeater"
+    },
+    {
+        "names": "ZyXEL 48-port GbE L2 Switch with 10GbE Uplink XGS2210-52",
+        "rating": "",
+        "hon_price_min": "16,500",
+        "hon_price_max": "16,700",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Huawei S5700 Series Switches S5720-52X-PWR-SI-AC",
+        "rating": "",
+        "hon_price_min": "15,800",
+        "hon_price_max": "16,000",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Cisco Business 8-GE | 2 x1G RJ45 / SFP Combo | PoE+ (60W) Smart Switch (CBS350-8P-E-2G)",
+        "rating": "",
+        "hon_price_min": "2,388",
+        "hon_price_max": "2,590",
+        "種類:": "Managed Switch",
+        "規格:": "8-GE | 2 x1G RJ45 / SFP Combo | PoE+ (60W)"
+    },
+    {
+        "names": "H3C Ethernet Switch S5500V2-28C-EI",
+        "rating": "",
+        "hon_price_min": "7,249",
+        "hon_price_max": "7,250",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "ZyXEL 48-port GbE Smart Managed PoE Switch GS1920-48HP v2",
+        "rating": "",
+        "hon_price_min": "8,240",
+        "hon_price_max": "8,290",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "H3C PoE Switch Magic S5G-P",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "650",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link TL-WPA8630P KIT (停產)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "980",
+        "種類:": "HomePlug",
+        "規格:": "設有3個及1個GigaBit LAN Ports及電源插座"
+    },
+    {
+        "names": "Cisco 950W AC Config 4 Power Supply front to back cooling (PWR-C4-950WAC-R)",
+        "rating": "",
+        "hon_price_min": "6,490",
+        "hon_price_max": "6,500",
+        "種類:": "Power Supply"
+    },
+    {
+        "names": "TP-Link JetStream 8-Port Gigabit Smart PoE+ Switch with 2 SFP Slots (TL-SG2210P)",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "988",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link 10/100Mbps WDM Media Converter with 1-Port PoE (TL-FC111PB-20)",
+        "rating": "",
+        "hon_price_min": "657",
+        "hon_price_max": "659",
+        "種類:": "Media Converter"
+    },
+    {
+        "names": "Netgear SFP+ Transceiver 10GBASE-SR (AXM761)",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,450",
+        "種類:": "SFP+ Transceiver"
+    },
+    {
+        "names": "TP-Link 5埠Gigabit簡易智慧型交換器 TL-SG105E",
+        "rating": "10",
+        "hon_price_min": "197",
+        "hon_price_max": "238",
+        "種類:": "Switch"
+    },
+    {
+        "names": "Netgear WAC720",
+        "rating": "",
+        "hon_price_min": "1,998",
+        "hon_price_max": "2,550",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "HPE Aruba Instant On 1930 24G Class4 PoE 4SFP/SFP+ 370W Switch (JL684A)",
+        "rating": "",
+        "hon_price_min": "4,930",
+        "hon_price_max": "4,960",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "H3C Enterprise-level wireless AP routing manager GR3200",
+        "rating": "",
+        "hon_price_min": "1,149",
+        "hon_price_max": "1,150",
+        "種類:": "Router"
+    },
+    {
+        "names": "Aten 2-Port RS-232 Secure Device Server (SN3002)",
+        "rating": "",
+        "hon_price_min": "2,090",
+        "hon_price_max": "2,438",
+        "種類:": "Device Server"
+    },
+    {
+        "names": "HPE Aruba Instant On 1930 24G Class4 PoE 4SFP/SFP+ 195W 交換器 (JL683A)",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,100",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Aten Professional Optical Fiber Extension Solution - SM/10km (VE883K2)",
+        "rating": "",
+        "hon_price_min": "15,680",
+        "hon_price_max": "15,690",
+        "種類:": "Optical Extender 光纖延長器"
+    },
+    {
+        "names": "APC UPS Network Management Card 3 (AP9640)",
+        "rating": "",
+        "hon_price_min": "2,330",
+        "hon_price_max": "2,580"
+    },
+    {
+        "names": "DrayTek VigorAP 918RPD 802.11ac Wave 2 Dual-Band PoE Outdoor Access Point",
+        "rating": "",
+        "hon_price_min": "2,629",
+        "hon_price_max": "3,180",
+        "種類:": "Access Point",
+        "速度:": "AC1300M"
+    },
+    {
+        "names": "GlocalMe U3 便攜式4G WiFi機",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "種類:": "Pocket WiFi",
+        "規格:": "尺寸:126 x 66 x 10mm"
+    },
+    {
+        "names": "TP-Link JetStream 24-Port Gigabit and 4-Port 10GE SFP+ L2+ Managed Switch with 24-Port PoE+ TL-SG3428XMP",
+        "rating": "",
+        "hon_price_min": "4,170",
+        "hon_price_max": "4,178",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "TP-Link 1000Base-BX WDM Bi-Directional SFP Module (TL-SM321B)",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "578",
+        "種類:": "SFP Module"
+    },
+    {
+        "names": "TP-Link N300 Wireless N Ceiling Mount Access Point EAP115",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "469",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "Netgear 150W Modular Power Supply Unit for M4300 series Switches (1G non-PoE models) APS150W",
+        "rating": "",
+        "hon_price_min": "2,408",
+        "hon_price_max": "2,408",
+        "種類:": "Power Supply"
+    },
+    {
+        "names": "Aten 1-Port RS-232 Secure Device Server with PoE (SN3001P)",
+        "rating": "",
+        "hon_price_min": "1,815",
+        "hon_price_max": "2,128",
+        "種類:": "Device Server"
+    },
+    {
+        "names": "Huawei CloudEngine系列交換機 S300-24T4S",
+        "rating": "",
+        "hon_price_min": "3,730",
+        "hon_price_max": "3,732",
+        "種類:": "Switch"
+    },
+    {
+        "names": "Aten 2埠 USB-C KVM 攜帶裝置切換器 US3310",
+        "rating": "",
+        "hon_price_min": "1,830",
+        "hon_price_max": "1,858",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "QNAP 8埠 10GbE非網管型交換器 QSW-M804-4C",
+        "rating": "",
+        "hon_price_min": "2,956",
+        "hon_price_max": "4,999",
+        "種類:": "Unmanaged Switch",
+        "速度:": "10000M"
+    },
+    {
+        "names": "H3C Daul Band WiFi5 Wireless Access Point WAP822",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "Level One 28-Port L3 Lite Managed Gigabit PoE Switch, 4 x 10GbE SFP+, 24 PoE Outputs, 400W GTP-2871",
+        "rating": "",
+        "hon_price_min": "5,640",
+        "hon_price_max": "5,660",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link 2.5G Multi-Giga 5-port network Switch/網絡交換機 TL-SH1005",
+        "rating": "10",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "種類:": "Unmanaged Switch",
+        "速度:": "5 x 2.5G/1G/100M Ports (RJ45)M"
+    },
+    {
+        "names": "TP-Link AC1900 Wi-Fi Range Extender RE550",
+        "rating": "8.0",
+        "hon_price_min": "510",
+        "hon_price_max": "578",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "Level One RJ45 to SC Gigabit Media Converter, Single-Mode Fiber, 20km GVT-2002",
+        "rating": "",
+        "hon_price_min": "947",
+        "hon_price_max": "959",
+        "種類:": "Fiber Converter"
+    },
+    {
+        "names": "H3C Dual WAN+8LAN Gigabit enterprise-class wired router with 150-200 VLAN division ER3208G3",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,000",
+        "種類:": "Router"
+    },
+    {
+        "names": "ASUS USB-AC68",
+        "rating": "7.3",
+        "hon_price_min": "518",
+        "hon_price_max": "620",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "ZyXEL ZyWALL ATP100 ATP Firewall",
+        "rating": "",
+        "hon_price_min": "4,537",
+        "hon_price_max": "5,370",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "DrayTek VigorSwitch P2280x 28-Port L2+ Managed 10G PoE Switch",
+        "rating": "",
+        "hon_price_min": "4,323",
+        "hon_price_max": "5,360",
+        "種類:": "PoE Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "Netgear 5 端口千兆以太網交換機  (4 個端口支持PoE+) (83W) GS305PP",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "910",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "ZyXEL ZyWall USG Flex 500 智能防火牆",
+        "rating": "",
+        "hon_price_min": "8,140",
+        "hon_price_max": "9,590",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "H3C Gigabit port Enterprise VPN wired router Built-in AC PSU GR2200",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "650",
+        "種類:": "Router"
+    },
+    {
+        "names": "H3C Core Network Managed Switch S5500V2-48P-SI",
+        "rating": "",
+        "hon_price_min": "9,099",
+        "hon_price_max": "9,100",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link Gigabit Multi-Mode Media Converter TL-MC200CM",
+        "rating": "",
+        "hon_price_min": "515",
+        "hon_price_max": "519",
+        "種類:": "Converter"
+    },
+    {
+        "names": "Level One RJ45 to SC Managed Gigabit Media Converter, Single-Mode Fiber, 20km GVM-1220",
+        "rating": "",
+        "hon_price_min": "1,679",
+        "hon_price_max": "1,689",
+        "種類:": "Media Converter"
+    },
+    {
+        "names": "TP-Link TL-WA860RE",
+        "rating": "10",
+        "hon_price_min": "207",
+        "hon_price_max": "239",
+        "種類:": "WiFi Extender",
+        "規格:": "2支外置天線"
+    },
+    {
+        "names": "TP-Link TL-PA8010P KIT (停產)",
+        "rating": "9.0",
+        "hon_price_min": "454",
+        "hon_price_max": "599",
+        "種類:": "HomePlug",
+        "規格:": "Gigabit LAN Port +設有電源插座"
+    },
+    {
+        "names": "Aten CL5716iN",
+        "rating": "",
+        "hon_price_min": "12,990",
+        "hon_price_max": "16,190",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Netgear 16x Multi-Gig, PoE+ (199W) Managed Switch XSM4316PA",
+        "rating": "",
+        "hon_price_min": "23,850",
+        "hon_price_max": "23,860",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "ZyXEL 12-port Multi-Gigabit Smart Managed Switch XS-1930-12HP",
+        "rating": "",
+        "hon_price_min": "10,388",
+        "hon_price_max": "12,700",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear 10-Gigabit Plus Series (XS708Ev2)",
+        "rating": "",
+        "hon_price_min": "4,870",
+        "hon_price_max": "4,880",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "SONICWALL TZ600 TotalSecure - 1 Year",
+        "rating": "",
+        "hon_price_min": "22,900",
+        "hon_price_max": "22,900",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "Aruba Instant On AP22 室內存取點",
+        "rating": "",
+        "hon_price_min": "1,670",
+        "hon_price_max": "1,880",
+        "種類:": "Access Point",
+        "速度:": "1200M"
+    },
+    {
+        "names": "Netgear GS724TPv2",
+        "rating": "",
+        "hon_price_min": "2,620",
+        "hon_price_max": "3,890",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "ZyXEL 28-port GbE L2+ Managed SwitchGS-2220-28",
+        "rating": "",
+        "hon_price_min": "2,544",
+        "hon_price_max": "3,110",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 2埠 USB 3.0 4K DisplayPort MST KVMP 多電腦切換器 CS1922M",
+        "rating": "",
+        "hon_price_min": "3,445",
+        "hon_price_max": "4,498",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Aten 1-Local/2-Remote Access 40-Port Multi-Interface Cat 5 KVM over IP Switch (KN2140VA)",
+        "rating": "",
+        "hon_price_min": "37,079",
+        "hon_price_max": "50,040",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "H3C Dual WAN+4LAN port Gigabit enterprise-class wired router MER3220",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750",
+        "種類:": "Router"
+    },
+    {
+        "names": "Netgear 8-Port Multi-Gigabit Ethernet Smart Switch with 2 Dedicated 10-Gigabit Uplink Ports (1 Copper/1 SFP+) MS510TX",
+        "rating": "",
+        "hon_price_min": "3,375",
+        "hon_price_max": "3,580",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 32-Port Serial Console Server with Dual Power/LAN (SN0132CO)",
+        "rating": "",
+        "hon_price_min": "18,423",
+        "hon_price_max": "22,280",
+        "種類:": "Console Server"
+    },
+    {
+        "names": "Huawei CloudEngine S1730S Series Switch S1730S-S24P4S-A1",
+        "rating": "",
+        "hon_price_min": "3,770",
+        "hon_price_max": "3,798",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "APC KVM 2G, Server Module, USB with Virtual Media KVM-USBVM",
+        "rating": "",
+        "hon_price_min": "1,465",
+        "hon_price_max": "1,465",
+        "種類:": "Server Module"
+    },
+    {
+        "names": "QNAP USB 3.2 Gen 1 to 5GbE Adapter QNA-UC5G1T",
+        "rating": "",
+        "hon_price_min": "938",
+        "hon_price_max": "1,000",
+        "種類:": "Ethernet Adapter",
+        "規格:": "5GBASE-T"
+    },
+    {
+        "names": "Netgear 48 端口 + 2 SFP 千兆智能網管Plus 交換機 gs750e",
+        "rating": "",
+        "hon_price_min": "2,488",
+        "hon_price_max": "2,620",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link TL-SG108E",
+        "rating": "10",
+        "hon_price_min": "256",
+        "hon_price_max": "330",
+        "種類:": "Managed Switch",
+        "規格:": "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.1q, IEEE 802.1p"
+    },
+    {
+        "names": "Aten 1-Local/1-Remote Access 16-Port Cat 5 KVM over IP Switch with Virtual Media (1920 x 1200) (KN1116VA)",
+        "rating": "",
+        "hon_price_min": "19,890",
+        "hon_price_max": "26,820",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Level One 8-Port Gigabit PoE Switch, 802.3at/af PoE, 123.2W GEP-0821",
+        "rating": "",
+        "hon_price_min": "1,788",
+        "hon_price_max": "1,798",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "APC NetBotz Vibration Sensor - 12ft NBES0306",
+        "rating": "",
+        "hon_price_min": "1,095",
+        "hon_price_max": "1,095",
+        "種類:": "Vibration Sensor"
+    },
+    {
+        "names": "D-Link 6-Port Multi-Gigabit Unmanaged Switch DMS-106XT",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,599",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Aten 8-Port Cat 5 High-Density Dual Rail LCD KVM Switch KL1508AM",
+        "rating": "",
+        "hon_price_min": "9,910",
+        "hon_price_max": "12,530",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Aten 2埠USB DVI/音訊 KVMP 多電腦切換器 CS1762A",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,538",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Level One 2-Port RJ-45 Gigabit PoE Repeater, Cascadable POR-0122",
+        "rating": "",
+        "hon_price_min": "2,538",
+        "hon_price_max": "2,558",
+        "種類:": "PoE Repeater"
+    },
+    {
+        "names": "Cisco SM-X Module with 6-Port Dual-Mode GE / SFP SM-X-6X1G",
+        "rating": "",
+        "hon_price_min": "20,900",
+        "hon_price_max": "21,000",
+        "種類:": "Module"
+    },
+    {
+        "names": "Logitech Tap 觸控螢幕控制器",
+        "rating": "",
+        "hon_price_min": "8,250",
+        "hon_price_max": "8,950",
+        "water_price_min": "8,250",
+        "water_price_max": "8,250"
+    },
+    {
+        "names": "TP-Link 5-Port Gigabit Easy Smart Switch with 4-Port PoE+ TL-SG105PE",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "529",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "H3C 24-port Gigabit Ethernet Switch S1224F",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,000",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "TP-Link Gigabit SFP Media Converter (MC220L)",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "377",
+        "種類:": "Converter"
+    },
+    {
+        "names": "Huawei CloudEngine S1730S Series Switch S1730S-S24T4S-A1",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,488",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "SONICWALL TZ570 TotalSecure - Essential Edition (1 Year)",
+        "rating": "",
+        "hon_price_min": "25,900",
+        "hon_price_max": "25,900",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "H3C WiFi5 Wireless Access Point WA5530",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,000",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "DrayTek VigorAP 1000C Tri-Band 11ac Ceiling-Mount Wireless AP",
+        "rating": "",
+        "hon_price_min": "1,955",
+        "hon_price_max": "2,190",
+        "種類:": "Access Point",
+        "速度:": "1000M"
+    },
+    {
+        "names": "Fortinet FortiGate/FortiWiFi 40F Series FWF-40F-BDL-950-12-M40",
+        "rating": "",
+        "hon_price_min": "6,650",
+        "hon_price_max": "7,425",
+        "種類:": "Firewall",
+        "規格:": "1WAN 4LAN  Wireless  (802.11a/b/g/n/ac)"
+    },
+    {
+        "names": "APC NetBotz Room Monitor 755 NBWL0755",
+        "rating": "",
+        "hon_price_min": "24,300",
+        "hon_price_max": "24,300",
+        "種類:": "Room Monitor"
+    },
+    {
+        "names": "IB USB WiFi 6 AX1800 Adapter 無線網卡手指",
+        "rating": "10",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB 3.0"
+    },
+    {
+        "names": "ZyXEL ZyWALL ATP500 ATP Firewall",
+        "rating": "",
+        "hon_price_min": "11,533",
+        "hon_price_max": "13,500",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "Aten 4埠USB DVI Dual Link/音訊 KVMP 多電腦切換器 CS1784A",
+        "rating": "",
+        "hon_price_min": "1,962",
+        "hon_price_max": "2,525",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Poly Studio X30 Video Bar",
+        "rating": "",
+        "hon_price_min": "18,440",
+        "hon_price_max": "18,440",
+        "種類:": "All in One Video Bar"
+    },
+    {
+        "names": "Aten 8-Port 19in. Dual Rail CAT5 LCD KVM KL1508AN",
+        "rating": "",
+        "hon_price_min": "11,588",
+        "hon_price_max": "13,420",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Tenda AX1800 Wi-Fi 6 Dual Band USB Adapter U18",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "299",
+        "種類:": "Wireless USB Adapter"
+    },
+    {
+        "names": "Level One Kilby 28-Port L3 Lite Managed Gigabit Fiber Switch, 4 x 10GbE SFP+, 4 x Gigabit SFP/RJ45 Combo GTL-2872",
+        "rating": "",
+        "hon_price_min": "6,340",
+        "hon_price_max": "6,390",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "D-Link DGS-105 5 Port Gigabit Switch",
+        "rating": "8.0",
+        "hon_price_min": "140",
+        "hon_price_max": "180",
+        "種類:": "Unmanaged Switch",
+        "速度:": "1000M"
+    },
+    {
+        "names": "H3C Daul Band WiFi5 Wireless Access Point WAP722S-HI",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "ZyXEL 16-Port Gigabit PoE+ L2 Web Managed Switch GS1350-18HP",
+        "rating": "",
+        "hon_price_min": "4,440",
+        "hon_price_max": "4,580",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear SFP+ Transceiver 10GBASE-T (AXM765)",
+        "rating": "",
+        "hon_price_min": "4,740",
+        "hon_price_max": "4,750",
+        "種類:": "SFP+ Transceiver"
+    },
+    {
+        "names": "Netgear 48-Port Gigabit Ethernet Unmanaged Switch GS348",
+        "rating": "10",
+        "hon_price_min": "2,276",
+        "hon_price_max": "2,930",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Netgear SFP+ Transceiver 10GBASE-LRM (AXM763)",
+        "rating": "",
+        "hon_price_min": "6,530",
+        "hon_price_max": "6,533",
+        "種類:": "SFP+ Transceiver"
+    },
+    {
+        "names": "HPE Aruba Instant On 1930 8G 2SFP 交換器 (JL680A)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,200",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Asustor Switch'nstor 2.5GbE 網路交換器 (ASW205T)",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "999",
+        "種類:": "Unmanaged Switch",
+        "規格:": "5 * 2.5Gbps /1Gbps / 100M 連接埠"
+    },
+    {
+        "names": "Aten VGA/HDMI KVM over IP Console Station (KA8278)",
+        "rating": "",
+        "hon_price_min": "5,777",
+        "hon_price_max": "7,790",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Huawei Optical Transceivers + 1m Passive Direct Attach Copper Twinax Cable SFP-10G-CU1M",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "629",
+        "種類:": "Transceiver + Cable"
+    },
+    {
+        "names": "Level One RJ45 to SC Managed Gigabit Media Converter, Multi-Mode Fiber GVM-1101",
+        "rating": "",
+        "hon_price_min": "1,589",
+        "hon_price_max": "1,599",
+        "種類:": "Media Converter"
+    },
+    {
+        "names": "ZyXEL 10-port GbE L2+ Managed Switch GS-2220-10",
+        "rating": "",
+        "hon_price_min": "1,969",
+        "hon_price_max": "2,370",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Schneider Cable management panel - 1U ACTRJ1UCMPM",
+        "rating": "",
+        "hon_price_min": "102",
+        "hon_price_max": "102",
+        "種類:": "Cable management panel"
+    },
+    {
+        "names": "Fortinet FortiGate NGFW Middle-range Series 200F FG-200F-BDL-950-12",
+        "rating": "",
+        "hon_price_min": "77,600",
+        "hon_price_max": "77,800",
+        "種類:": "Firewall",
+        "規格:": "18 x GE RJ45 (including 1 x MGMT port, 1 X HA port, 16 x switch ports), 8 x GE SFP slots, 4 x 10GE SFP+ slots, SoC4 and CP9 hardware accelerated."
+    },
+    {
+        "names": "Aruba Wi-Fi 6 (802.11ax) 2x2 MIMO AP-505",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "3,980",
+        "種類:": "Access Point",
+        "規格:": "Wi-Fi 6 (802.11ax) 2x2 MIMO"
+    },
+    {
+        "names": "ZyXEL Cloud Managed Switch 24埠GbE Nebula智慧型雲端管理交換器 NSW100-28",
+        "rating": "",
+        "hon_price_min": "3,286",
+        "hon_price_max": "3,870",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link TL-SG1005P",
+        "rating": "",
+        "hon_price_min": "386",
+        "hon_price_max": "499",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear SFP+ DAC CABLE (AXC7620)",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "種類:": "SFP+ DAC Cable"
+    },
+    {
+        "names": "TP-Link AC1750 Wireless MU-MIMO Gigabit Ceiling Mount Access Point EAP265 HD",
+        "rating": "",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,048",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "EnGenius 24-Port Managed Gigabit 410W PoE+ Switch EWS1200-28TFP",
+        "rating": "",
+        "hon_price_min": "5,078",
+        "hon_price_max": "5,970",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "H3C S5120V3-LI系列網管接入交換機 S5120V3-28P-HPWR-LI",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,250",
+        "種類:": "Switch"
+    },
+    {
+        "names": "TP-Link 5-Port 10/100Mbps Desktop Switch with 4-Port PoE+ (TL-SF1005P-V2)",
+        "rating": "",
+        "hon_price_min": "376",
+        "hon_price_max": "376",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Sophos XG330 Firewall with EnterpriseProtect (1 Year)",
+        "rating": "",
+        "hon_price_min": "73,000",
+        "hon_price_max": "74,000",
+        "種類:": "Firewall"
+    },
+    {
+        "names": "Netgear 商用 WiFi 6 PoE AP 無線接入點 (AX3600) WAX218",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "2,290",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "TP-Link TL-POE150S",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "189",
+        "種類:": "PoE Injector",
+        "速度:": "1000M"
+    },
+    {
+        "names": "Aten 4-Port USB 4K HDMI Multi-View KVMP Switch (CM1284)",
+        "rating": "",
+        "hon_price_min": "15,370",
+        "hon_price_max": "20,930",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Cisco ISR 4351 Integrated Services Router ISR4351-V/K9",
+        "rating": "",
+        "hon_price_min": "24,970",
+        "hon_price_max": "25,000",
+        "種類:": "Router"
+    },
+    {
+        "names": "H3C 48口千兆POE交換機 S5048PV5-EI",
+        "rating": "",
+        "hon_price_min": "5,790",
+        "hon_price_max": "5,800",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "QNAP Thunderbolt 3 對 10GbE 網路轉換器 QNA-T310G1S",
+        "rating": "",
+        "hon_price_min": "2,268",
+        "hon_price_max": "2,280",
+        "種類:": "Switch",
+        "規格:": "1 x Thunderbolt 3、1 x 10GbE SFP+ 連接器"
+    },
+    {
+        "names": "Netgear 16-Port High-Power PoE+ Gigabit Ethernet Plus Switch (231W) with 1 SFP Port GS316EPP",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "3,040",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 1-Local/Remote Share Access Single Port VGA KVM over IP Switch (CN8000A)",
+        "rating": "",
+        "hon_price_min": "4,230",
+        "hon_price_max": "5,490",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "TP-Link JetStream 28-Port Gigabit L2 Managed Switch with 24-Port PoE+ (TL-SG3428MP)",
+        "rating": "",
+        "hon_price_min": "3,118",
+        "hon_price_max": "3,628",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 48-Port Serial Console Server with Dual Power/LAN (SN0148CO)",
+        "rating": "",
+        "hon_price_min": "25,430",
+        "hon_price_max": "30,790",
+        "種類:": "Console Server"
+    },
+    {
+        "names": "QNAP L2 Web管理型10GbE交換器 QSW-M408-4C",
+        "rating": "10",
+        "hon_price_min": "3,316",
+        "hon_price_max": "3,690",
+        "種類:": "Managed Switch",
+        "速度:": "10000M"
+    },
+    {
+        "names": "Netgear GSM4328S",
+        "rating": "",
+        "hon_price_min": "10,660",
+        "hon_price_max": "12,280",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 1-Local/Remote Share Access 16-Port Multi-Interface Cat 5 Dual Rail LCD KVM over IP switch  KL1516AiN",
+        "rating": "",
+        "hon_price_min": "14,257",
+        "hon_price_max": "18,350",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "TP-Link HS110 (停產)",
+        "rating": "7.3",
+        "hon_price_min": "181",
+        "hon_price_max": "238",
+        "種類:": "Wi-Fi 電源控制",
+        "規格:": "標準13A電源"
+    },
+    {
+        "names": "Linksys LGS124-AP 24port Unmanaged GIGA Switch",
+        "rating": "",
+        "hon_price_min": "771",
+        "hon_price_max": "1,268",
+        "water_price_min": "808",
+        "water_price_max": "808",
+        "種類:": "Unmanaged Switch"
+    },
+    {
+        "names": "Level One 52-Port L3 Lite Managed Gigabit PoE Switch, 4 x 10GbE SFP+, 48 PoE Outputs, 400W GTP-5271",
+        "rating": "",
+        "hon_price_min": "10,340",
+        "hon_price_max": "10,490",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Wavlink Aerial K AC1200 Dual-Band Wi-Fi Range Extender / Repeater WL-WN579A3",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "338",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "D-Link DWA-171",
+        "rating": "",
+        "hon_price_min": "141",
+        "hon_price_max": "198",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "802.11g/n/AC"
+    },
+    {
+        "names": "Netgear 8-Port Gigabit Ethernet Smart Cloud Switch with 2 SFP Fiber Ports GC110",
+        "rating": "",
+        "hon_price_min": "672",
+        "hon_price_max": "672",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "H3C Ethernet Switch LS-5008PV5-EI-HPWR",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,700",
+        "種類:": "Ethernet Switch"
+    },
+    {
+        "names": "Fortinet FortiAP 221E 802.11ac wave 2 Wireless Access Point",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "種類:": "Access Point",
+        "速度:": "400+867M"
+    },
+    {
+        "names": "Level One RJ45 to SC BIDI Fast Ethernet Media Converter Set, Single-Mode Fiber, 20km FVT-2202",
+        "rating": "",
+        "hon_price_min": "1,078",
+        "hon_price_max": "1,088",
+        "種類:": "Fiber Converter"
+    },
+    {
+        "names": "APC KVM 2G, Server Module, Serial KVM-SERIAL",
+        "rating": "",
+        "hon_price_min": "1,165",
+        "hon_price_max": "1,165",
+        "種類:": "Server Module"
+    },
+    {
+        "names": "Wavlink AC1900 Dual Band USB3.0 Wireless Network Adapter WL-WN690A5",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "338",
+        "種類:": "Wireless Adapter",
+        "規格:": "IEEE 802.11ac: up to 1300Mbps / IEEE 802.11n: up to 600Mbps"
+    },
+    {
+        "names": "Aten 4-Port USB VGA/Audio KVM Switch (CS74U)",
+        "rating": "",
+        "hon_price_min": "735",
+        "hon_price_max": "858",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "HPE Aruba 6100 48G CLASS4 POE 4SFP+ 370W 交換器 (JL675A)",
+        "rating": "",
+        "hon_price_min": "18,800",
+        "hon_price_max": "19,800",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Aten 4K HDMI over IP Receiver (VE8950R)",
+        "rating": "",
+        "hon_price_min": "5,290",
+        "hon_price_max": "6,878",
+        "種類:": "Receiver"
+    },
+    {
+        "names": "Netgear Insight Instant Wireless AirBridge WBC502",
+        "rating": "",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,540",
+        "種類:": "WiFi Extender"
+    },
+    {
+        "names": "Cisco Business 8-GE | 2 x1G RJ45 / SFP Combo Smart Switch (CBS350-8T-E-2G)",
+        "rating": "",
+        "hon_price_min": "1,804",
+        "hon_price_max": "1,899",
+        "種類:": "Managed Switch",
+        "規格:": "8-GE | 2 x1G RJ45 / SFP Combo"
+    },
+    {
+        "names": "H3C 3-band WiFi6 Wireless Access Point WA6338-LI",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "Aten USB-PS/2 KVM Adapter Module with Local Console (KA7171)",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,148",
+        "種類:": "KVM Adapter"
+    },
+    {
+        "names": "Ruijie RG-ES100 Series Unmanaged Switch RG-ES106D-P",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "450",
+        "種類:": "Unmanaged Switch",
+        "規格:": "4 x 10/100 Mbps PoE/PoE+ Ports"
+    },
+    {
+        "names": "Level One PoE+ Repeater POR-0101",
+        "rating": "",
+        "hon_price_min": "636",
+        "hon_price_max": "648",
+        "種類:": "PoE-Plus Repeater"
+    },
+    {
+        "names": "ZyXEL 28-port GbE L3 Managed Switch with 4 SFP+ Uplink XGS4600-32F",
+        "rating": "",
+        "hon_price_min": "19,292",
+        "hon_price_max": "23,700",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "ZyXEL Cloud Managed Switch 8埠GbE Nebula智慧型雲端管理交換器 NSW100-10",
+        "rating": "",
+        "hon_price_min": "1,639",
+        "hon_price_max": "1,870",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "TP-Link Gigabit Single-Mode Media Converter (MC210CS)",
+        "rating": "",
+        "hon_price_min": "577",
+        "hon_price_max": "579",
+        "種類:": "Converter"
+    },
+    {
+        "names": "CyberTech AC1300 1300Mbps USB3.0 WiFi Adapter 雙頻 2.4G/5.8G 雙天線接收器發射器",
+        "rating": "8.0",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "種類:": "Wireless USB Adapter",
+        "規格:": "USB3.0"
+    },
+    {
+        "names": "Sophos XGS 126 Firewall with Xstream Protection Bundle - 36 Months",
+        "rating": "",
+        "hon_price_min": "13,590",
+        "hon_price_max": "13,880",
+        "種類:": "Firewall",
+        "規格:": "10 x GE copper | 2 x SFP Fiber | 1 x Expansion Slots"
+    },
+    {
+        "names": "Netgear GS728TPP",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "5,810",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Level One 8-Port Gigabit PoE Switch, 802.3at/af PoE, 65W GEP-0820",
+        "rating": "",
+        "hon_price_min": "1,028",
+        "hon_price_max": "1,028",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear 48xSFP+ and 2x10G (shared) Managed Switch XSM4348FS",
+        "rating": "",
+        "hon_price_min": "42,880",
+        "hon_price_max": "42,880",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Synology 雙埠 10GbE SFP+ 網路擴充卡 E10G21-F2",
+        "rating": "",
+        "hon_price_min": "2,575",
+        "hon_price_max": "2,599"
+    },
+    {
+        "names": "Cisco 4-Port Network Interface Module NIM-4FXSP",
+        "rating": "",
+        "hon_price_min": "8,390",
+        "hon_price_max": "8,500",
+        "種類:": "Module"
+    },
+    {
+        "names": "Cisco Business 24-GE | 4x1G SFP Smart Switch (CBS250-24T-4G)",
+        "rating": "",
+        "hon_price_min": "2,178",
+        "hon_price_max": "2,200",
+        "種類:": "Managed Switch",
+        "規格:": "24 Port GE | 4x1G SFP"
+    },
+    {
+        "names": "H3C Daul Band WiFi5 Wireless Access Point WAP722E-W2",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,100",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "ZyXEL 8-Port Gigabit PoE+ L2 Web Managed Switch GS1350-12HP",
+        "rating": "",
+        "hon_price_min": "2,940",
+        "hon_price_max": "2,980",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "ZyXEL 48-port GbE Smart Managed PoE Switch with 4 SFP+ Uplink XGS1930-52HP",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "12,800",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear GSM7328FS-200",
+        "rating": "",
+        "hon_price_min": "16,500",
+        "hon_price_max": "21,960",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Yealink HD IP Conference Phone CP925",
+        "rating": "",
+        "hon_price_min": "3,888",
+        "hon_price_max": "3,888",
+        "種類:": "IP Phone / Conference Phone"
+    },
+    {
+        "names": "Hikvision 海康威視 5 Port Pro Series Gigabit Unmanaged POE Switch (Max 65W) DS-3E0505P-E",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "種類:": "POE Switch"
+    },
+    {
+        "names": "Level One 10-Port Web Smart Gigabit Switch, 2 x Gigabit SFP GEL-1051",
+        "rating": "",
+        "hon_price_min": "1,126",
+        "hon_price_max": "1,138",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Cisco Catalyst 2960-X 48 GigE PoE 370W, 4 x 1G SFP, LAN Base WS-C2960X-48LPS-L",
+        "rating": "",
+        "hon_price_min": "41,800",
+        "hon_price_max": "42,000",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear SFP Transceiver 1000BASE-SX (AGM731F)",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "863",
+        "種類:": "SFP Transceiver"
+    },
+    {
+        "names": "Netgear GSS108EPP",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,560",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Konftel IP Conference Phone 通訊會議電話 300IPx",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,680",
+        "種類:": "IP Phone / Conference Phone"
+    },
+    {
+        "names": "Aten HDMI over IP Receiver (1080p@100m) VE8900R",
+        "rating": "",
+        "hon_price_min": "3,763",
+        "hon_price_max": "4,878",
+        "種類:": "Receiver"
+    },
+    {
+        "names": "Cisco Business 48-GE | 4x1G SFP | PoE+(382W) Smart Switch (CBS220-48P-4G)",
+        "rating": "",
+        "hon_price_min": "6,788",
+        "hon_price_max": "6,800",
+        "種類:": "Managed Switch",
+        "規格:": "48-GE | 4x1G SFP | PoE+(382W)"
+    },
+    {
+        "names": "Netgear Cloud Managed WiFi 6 (WAX610Y)",
+        "rating": "",
+        "hon_price_min": "2,373",
+        "hon_price_max": "2,980",
+        "種類:": "Access Point"
+    },
+    {
+        "names": "H3C L3 Ethernet Switch S6520-16S-SI",
+        "rating": "",
+        "hon_price_min": "9,999",
+        "hon_price_max": "10,000",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Aten 2埠USB VGA雙螢幕/音訊 KVMP 多電腦切換器 CS1742C",
+        "rating": "",
+        "hon_price_min": "1,133",
+        "hon_price_max": "1,218",
+        "種類:": "KVM Switch"
+    },
+    {
+        "names": "Huawei S2300 Series Switch LS-S2318TP-EI-AC",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,250",
+        "種類:": "Managed Switch"
+    },
+    {
+        "names": "Netgear 智能雲交換機 - Insight 網管 8 端口千兆 PoE+ (64W) GC108P",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,280",
+        "種類:": "PoE Switch"
+    },
+    {
+        "names": "Netgear 12x1G and 2xSFP (shared) Managed Switch M4100-D12G",
+        "rating": "",
+        "hon_price_min": "2,805",
+        "hon_price_max": "2,805",
+        "種類:": "Managed Switch",
+        "規格:": "12 x 1000Base-T Layer 2+ switch with 2 shared SFPs, External fanless PSU and can be powered by PoE+"
+    },
+    {
+        "names": "ZyXEL Nebula 雲管理安全網關 NSG200",
+        "rating": "",
+        "hon_price_min": "7,219",
+        "hon_price_max": "8,510",
+        "種類:": "Gateway"
+    },
+    {
+        "names": "TP-Link TL-SG1024DE",
+        "rating": "",
+        "hon_price_min": "926",
+        "hon_price_max": "1,080",
+        "種類:": "Managed Switch",
+        "規格:": "24port"
+    },
+    {
+        "names": "Cisco 16-Port Gigabit Desktop Switch SG95D-16",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,380",
+        "種類:": "Unmanaged Switch"
+    }
+]

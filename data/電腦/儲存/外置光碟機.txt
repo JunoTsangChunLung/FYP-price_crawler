@@ -1,0 +1,1226 @@
+[
+    {
+        "names": "Verbatim External Slimline CD/DVD Writer (66817)",
+        "rating": "9.7",
+        "hon_price_min": "165",
+        "hon_price_max": "218",
+        "介面:": "USB"
+    },
+    {
+        "names": "Verbatim External Multi-Function CD/DVD Writer (66717)",
+        "rating": "9.2",
+        "hon_price_min": "186",
+        "hon_price_max": "258"
+    },
+    {
+        "names": "Buffalo Blu-Ray 外置光碟機 BRXL-PTV6U3-SVA",
+        "rating": "9.6",
+        "hon_price_min": "678",
+        "hon_price_max": "799",
+        "介面:": "USB 3.2 Gen1"
+    },
+    {
+        "names": "XPower Type-C / USB 2合1外置DVD燒錄器 DW1",
+        "rating": "7.7",
+        "hon_price_min": "178",
+        "hon_price_max": "238",
+        "介面:": "Type-C / USB 3.0"
+    },
+    {
+        "names": "Hitachi-LG Slim Portable Blu-ray Writer 外置藍光碟機 BP55",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "569",
+        "DVD-R/RW:": "6x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB 2.0 (3.0 Compatible)"
+    },
+    {
+        "names": "ASUS SDRW-08D2S-U LITE",
+        "rating": "8.7",
+        "hon_price_min": "168",
+        "hon_price_max": "280",
+        "water_price_min": "175",
+        "water_price_max": "175",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "Pioneer 外置藍光燒錄機 BDR-X13J-S",
+        "rating": "",
+        "water_price_min": "2,399",
+        "water_price_max": "2,399",
+        "介面:": "USB"
+    },
+    {
+        "names": "ASUS Ultra-slim Portable USB 3.1 Gen 1 Blu-ray burner SBW-06D5H-U",
+        "rating": "10",
+        "hon_price_min": "775",
+        "hon_price_max": "850",
+        "介面:": "USB 3.1 Gen 1"
+    },
+    {
+        "names": "ASUS ZenDrive U9M (SDRW-08U9M-U)",
+        "rating": "10",
+        "hon_price_min": "343",
+        "hon_price_max": "389",
+        "water_price_min": "310",
+        "water_price_max": "310"
+    },
+    {
+        "names": "ASUS SBC-06D2X-U",
+        "rating": "8.0",
+        "hon_price_min": "510",
+        "hon_price_max": "609",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "Pioneer 外置光碟機 BDR-XD08MB-S",
+        "rating": "",
+        "hon_price_min": "1,349",
+        "hon_price_max": "1,349",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "DVD-R/RW:": "6X、4X、2X、1X",
+        "CD-R/RW:": "24X、16X、10X、4X",
+        "介面:": "USB 3.2 Gen1 / 3.1 Gen1 / 3.0 / 2.0 (USB Type-C)"
+    },
+    {
+        "names": "Hitachi-LG Slim Portable DVD-Writer GP65",
+        "rating": "10",
+        "hon_price_min": "205",
+        "hon_price_max": "210",
+        "DVD-R/RW:": "8x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB 2.0 (3.0 compatible)"
+    },
+    {
+        "names": "Pioneer BDR-XD07J-UHD",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "DVD-R/RW:": "8X",
+        "介面:": "USB 3.0, Type C"
+    },
+    {
+        "names": "Hitachi-LG Slim Portable DVD-Writer for Multi OS GPM1",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "279",
+        "DVD-R/RW:": "8x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB Type-A"
+    },
+    {
+        "names": "Dell USB 薄型 DVD+/-RW 光碟機 DW316",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "360"
+    },
+    {
+        "names": "Hitachi-LG HLDS x BTS Dynamite Multi OS DVD Writer Purple (Disco House)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "670",
+        "DVD+R/RW:": "8X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB; Type-C/Type-A 傳輸線"
+    },
+    {
+        "names": "Buffalo BRXL-PT6U2VB",
+        "rating": "6.0",
+        "hon_price_min": "640",
+        "hon_price_max": "660",
+        "DVD-R/RW:": "8x/6x",
+        "CD-R/RW:": "24x/24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Hitachi-LG Slim Portable UHD-BD Writer 外置UHD藍光碟機 BP60",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "849",
+        "DVD-R/RW:": "8x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB 2.0 (3.0 Compatible)"
+    },
+    {
+        "names": "ARTEK A6XBCO",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "DVD-R/RW:": "BD-ROM 6X,DVD-R 8X",
+        "CD-R/RW:": "24x / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "LG 樂金 GP65NG60",
+        "rating": "8.0",
+        "hon_price_min": "205",
+        "hon_price_max": "210",
+        "介面:": "USB"
+    },
+    {
+        "names": "Buffalo USB2.0 外置式DVD光碟機 DVSM-PLV8U2",
+        "rating": "8.0",
+        "hon_price_min": "210",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "ASUS SBW-06D2X-U 3D Blu-ray Writer",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "850",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Orico External DVD-RW Drive XD010",
+        "rating": "10",
+        "hon_price_min": "208",
+        "hon_price_max": "309"
+    },
+    {
+        "names": "Hitachi-LG HLDS x BTS Dynamite Multi OS DVD Writer Pink (Donut House)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "670",
+        "DVD+R/RW:": "8X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB; Type-C/Type-A 傳輸線"
+    },
+    {
+        "names": "Buffalo DVSM-PT58U2V",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "290",
+        "DVD-R/RW:": "8x/6x",
+        "CD-R/RW:": "24x",
+        "介面:": "Usb2.0"
+    },
+    {
+        "names": "Hitachi-LG 多合一功能超薄便攜式 USB DVD 讀寫器 UD10",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "DVD-R/RW:": "8x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB 3.0 Type A port x 2, Micro SD Card Slot x1, HDMI 1.4 port x1, USB Type-C port (to Host Side), USB PD Support"
+    },
+    {
+        "names": "Buffalo BRUHD-PU3-BK Ultra HD Blu-Ray Writer",
+        "rating": "2.0",
+        "hon_price_min": "1,340",
+        "hon_price_max": "1,380",
+        "介面:": "USB3.1 Type-A"
+    },
+    {
+        "names": "ARTEK A6X100BRW",
+        "rating": "8.0",
+        "hon_price_min": "355",
+        "hon_price_max": "355",
+        "DVD-R/RW:": "BD-R 6X,DVD-R 8X",
+        "CD-R/RW:": "24x / 16X",
+        "介面:": "usb2.0"
+    },
+    {
+        "names": "H.Ldata storage Slim Portable Blu-ray Writer BP55",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "ASUS ZenDrive U8M Ultraslim External DVD Drive & Writer",
+        "rating": "10",
+        "hon_price_min": "308",
+        "hon_price_max": "320",
+        "DVD-R/RW:": "8x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB Type-C"
+    },
+    {
+        "names": "Lenovo ThinkPad UltraSlim USB DVD 燒錄器 (4XA0E97775)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380"
+    },
+    {
+        "names": "Buffalo BRXL-PT6U2V",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "699",
+        "DVD-R/RW:": "6x",
+        "CD-R/RW:": "16x",
+        "介面:": "USB2.0"
+    },
+    {
+        "names": "Maxxon DVD002",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "249",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Liteon 藍光碟機 DH-12B2SH",
+        "rating": "",
+        "water_price_min": "330",
+        "water_price_max": "330"
+    },
+    {
+        "names": "Buffalo External DVD Writer DR-JPT582S",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Pioneer 4K Ultra HD Blu-ray 藍光燒錄機 BDR-X12J-UHD",
+        "rating": "",
+        "介面:": "USB3.1/USB3.0/USB2.0"
+    },
+    {
+        "names": "ASUS External Slim Blu-Ray Writer SBW-06D2X-U PRO",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "858",
+        "DVD-R/RW:": "8X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "ASUS BW-16D1H-U Pro",
+        "rating": "10",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,157",
+        "介面:": "USB 2.0/USB 3.0"
+    },
+    {
+        "names": "LG 樂金 16x 藍光刻錄機 BH16NS48",
+        "rating": "10",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "water_price_min": "460",
+        "water_price_max": "460"
+    },
+    {
+        "names": "ARTEK A6XBRW U3",
+        "rating": "10",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "DVD-R/RW:": "BD-R 6X,DVD-R 8X",
+        "CD-R/RW:": "24x / 16X",
+        "介面:": "USB3.0"
+    },
+    {
+        "names": "ASUS ZenDrive U7M ‏(SDRW-08U7M-U)‏",
+        "rating": "",
+        "hon_price_min": "386",
+        "hon_price_max": "386",
+        "water_price_min": "369",
+        "water_price_max": "369"
+    },
+    {
+        "names": "ARTEK A6XBRWE U3",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "DVD-R/RW:": "BD-R 6X,DVD-R 8X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB3.0.USB2.0"
+    },
+    {
+        "names": "Orico USB3.0 & Type-C External DVD Writer 外置移動光驅燒錄器 XD007",
+        "rating": "10",
+        "hon_price_min": "269",
+        "hon_price_max": "299",
+        "water_price_min": "289",
+        "water_price_max": "289",
+        "介面:": "USB3.0 & Type C"
+    },
+    {
+        "names": "GC-system USB 3.0 外置DVD-RW燒錄機",
+        "rating": "",
+        "介面:": "USB3.0"
+    },
+    {
+        "names": "ARTEK A6XBCO U3",
+        "rating": "10",
+        "hon_price_min": "418",
+        "hon_price_max": "418",
+        "DVD-R/RW:": "BD-ROM 6X,DVD-R 8X",
+        "CD-R/RW:": "24x / 16X",
+        "介面:": "USB3.0"
+    },
+    {
+        "names": "Acer USB 3.0 DVD-RW (NP.HKAFE.001)",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "DVD-R/RW:": "8X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "H.Ldata storage Slim Portable DVD-Writer GP65",
+        "rating": "",
+        "hon_price_min": "205",
+        "hon_price_max": "229"
+    },
+    {
+        "names": "Transcend TS8XDVDS",
+        "rating": "10",
+        "hon_price_min": "210",
+        "hon_price_max": "298",
+        "DVD-R/RW:": "8X / 8X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Transcend TS8XDVDS-K",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "230",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "ARTEK A6XBRW",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "DVD-R/RW:": "BD-R 6X,DVD-R 8X",
+        "CD-R/RW:": "24x / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "ARTEK A6X100BRWE U3",
+        "rating": "10",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "DVD-R/RW:": "BD-R 6X,DVD-R 8X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB3.0.USB2.0"
+    },
+    {
+        "names": "Liteon eBAU108-01",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "210",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Pioneer BDR-209DBK",
+        "rating": "9.0",
+        "water_price_min": "470",
+        "water_price_max": "470",
+        "DVD-R/RW:": "16X/6X, DL 8x,  BD-R/DL 16X/14, BD-RE/DL 2X/2X",
+        "CD-R/RW:": "40X/24X",
+        "介面:": "SATA"
+    },
+    {
+        "names": "H.Ldata storage Slim Portable UHD-BD Writer BP60",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,099"
+    },
+    {
+        "names": "Samsung 三星 SE-208AB/CABS",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "ASUS SDRW-08D3S-U",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "Hitachi-LG Slim Portable DVD-Writer for Multi OS GP96",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "DVD-R/RW:": "8x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB 2.0 (3.0 compatible)"
+    },
+    {
+        "names": "Buffalo BRXL-PC6U2B",
+        "rating": "10",
+        "hon_price_min": "770",
+        "hon_price_max": "770",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Acer Accessory Kit",
+        "rating": "",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "DVD-R/RW:": "8x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB"
+    },
+    {
+        "names": "Bekki External DVD-Rom BT668",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "ASUS SDRW-08U5S-U",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "380",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "LG 樂金 CP40NG10",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "610",
+        "DVD-R/RW:": "8x/6x",
+        "CD-R/RW:": "24x/24x",
+        "介面:": "Usb2.0"
+    },
+    {
+        "names": "LG 樂金 GP50NB40",
+        "rating": "",
+        "hon_price_min": "205",
+        "hon_price_max": "205",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Buffalo DVSM-PTS58U2",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259"
+    },
+    {
+        "names": "Pioneer 24速DVD燒錄機 DVR-221CHV",
+        "rating": "10",
+        "water_price_min": "150",
+        "water_price_max": "150"
+    },
+    {
+        "names": "ASUS ESEDRW-08-H",
+        "rating": ""
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-160TEAL-U3-SL",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 6x",
+        "CD-R/RW:": "24x/16x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ8C2TEAL-U3-SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "DVD-RAM:": "5X",
+        "CD-R/RW:": "24X / 16X"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-240TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 4X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Pioneer BDR-XS05",
+        "rating": "9.7",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Pioneer BDR-XS06",
+        "rating": "9.8",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "LaCie Slim Blu-ray USB 3.0",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Plextor PX-610U",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Liteon eHBU312",
+        "rating": "",
+        "DVD-R/RW:": "16x / 6x",
+        "CD-R/RW:": "48x / 24x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-141TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 4x",
+        "CD-R/RW:": "24x/16x + BD-ROM 6x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Samsung 三星 SE-406AB/CABD",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-892TE",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x / DL 6x",
+        "CD-R/RW:": "24x / 16x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "ASUS SBW-06C2X-U",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "imation 6X Slim Blu-Ray Writer",
+        "rating": "8.0",
+        "DVD-R/RW:": "8x / 8x",
+        "CD-R/RW:": "Blu-ray : 6x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-272TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8x/8x",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ8E2-TEAL-U3-BK / SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8E1TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x, DL: 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo BRXL-PC6VU2",
+        "rating": "6.0",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Pioneer BDR-UX03",
+        "rating": "9.8",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-160-TEAL-U3-SW",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 6x",
+        "CD-R/RW:": "24x/16x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8A0TEAL",
+        "rating": "",
+        "DVD-R/RW:": "8X/6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "ASUS SBW-S1",
+        "rating": "10",
+        "DVD-R/RW:": "6X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB2.0"
+    },
+    {
+        "names": "Buffalo DVSM-PN58U2VB",
+        "rating": "8.5",
+        "DVD-R/RW:": "DVD-R (SL) 8x / DVD-R (DL) 6x / DVD-RW 6x",
+        "CD-R/RW:": "CD-R 24x / CD-RW 24x",
+        "介面:": "USB 2.0 Interface"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8D1TEAL-U3",
+        "rating": "10",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ8C2-TEAL-U3-BK / SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-260TEAL",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x, DVD-R DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-265SEAL-U3-SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X/16X/BD-R (SL/DL) 6X / BD-R (TL/QL) 4X / DB-RE (SL/DL) 2X / BD-RE TL 2X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo BRXL-PT6U3",
+        "rating": "",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "ARTEK A8XUI",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "DVD-R/RW:": "8x / 6X",
+        "CD-R/RW:": "24x / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "ASUS SBW-06C1S-U",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "BD-R 6x / BD-R (DL) 4x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "TEAC DV-W28SS-R93-EXT",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "DVD-R/RW:": "8x / 6x, DVD-R DL 6X",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Pioneer BDR-XD06J-UHD",
+        "rating": "",
+        "DVD-R/RW:": "8x",
+        "介面:": "BDXL/BD/DVD/CD"
+    },
+    {
+        "names": "Samsung 三星 SE-S084F/CABS",
+        "rating": "",
+        "DVD-R/RW:": "8X/6X/DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8E0TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x, DL: 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "ARTEK A8XU",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "DVD-R/RW:": "8x / 6X",
+        "CD-R/RW:": "24x / 16X",
+        "介面:": "USB"
+    },
+    {
+        "names": "Archgon MD-8107G-U3-UJ8A7",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 10X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo 6x Blu-ray Portable Writer",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Plextor PX-B120U",
+        "rating": "4.0",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8A0TEAL-U3-BK",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-162TEAL-U3-BK",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 6x",
+        "CD-R/RW:": "24x/16x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Liteon eSEU306",
+        "rating": "",
+        "DVD-R/RW:": "8x / 4x",
+        "DVD-RAM:": "5x"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8C1TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x, DL: 6X",
+        "CD-R/RW:": "24x/24x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo DVSM-PC58U2V",
+        "rating": "",
+        "hon_price_min": "257",
+        "hon_price_max": "257",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "imation HQT Slim DVD Recorder",
+        "rating": "9.0",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8D1TEAL-U2",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-260TEAL-U3-SW",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Plextor PlexEasy",
+        "rating": "",
+        "DVD-R/RW:": "8X",
+        "CD-R/RW:": "8X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-160TEAL-U2",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 6x",
+        "CD-R/RW:": "24x/16x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "ASUS BW-12D1S-U USB3.0 12X Blu-ray Writer",
+        "rating": "",
+        "DVD-R/RW:": "16X / 6X",
+        "CD-R/RW:": "40X / 24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Pioneer 4K UHD 光碟機 BDR-XS07B-UHD",
+        "rating": "",
+        "DVD-R/RW:": "6x",
+        "CD-R/RW:": "24x",
+        "介面:": "USB 3.0, Type C"
+    },
+    {
+        "names": "Pioneer BDR-XD05T",
+        "rating": "",
+        "介面:": "USB3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-172TEAL-U3-BK / SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 4X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Archgon MD-3107G-U3-UJ265",
+        "rating": "",
+        "DVD-R/RW:": "8X, 6X, DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ8G2TEAL-U3-BK",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-265SEAL-U2",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X/16X/BD-R (SL/DL) 6X / BD-R (TL/QL) 4X / DB-RE (SL/DL) 2X / BD-RE TL 2X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8E0TEAL-U2",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x, DL: 6X",
+        "CD-R/RW:": "24x / 16x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8A0TEAL-U2-BK",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ8C2TEAL-U3-BK",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8C0TEAL-U3-SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Archgon MD-8107S-U3-UJ892",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X/ DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-240ATEAL",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x , DVD-R DL 4x",
+        "CD-R/RW:": "24x / 10x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Fujitsu HACCE0013A/B/C",
+        "rating": "8.0",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Samsung 三星 SE-208DB/TSBS",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Iomega SuperSlim Ext. DVD Portable Writer",
+        "rating": "",
+        "DVD-R/RW:": "8x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-141TEAL",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 4x",
+        "CD-R/RW:": "24x/16x + BD-ROM 6x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8A0TEAL-U3-SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "MSI UO800",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "DVD-R/RW:": "6X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-141-TEAL-U3-SW",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 4x",
+        "CD-R/RW:": "24x/16x + BD-ROM 6x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo DVSM-PC58U2VB",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Pioneer DVR-XT11T",
+        "rating": "",
+        "介面:": "USB2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-240TEAL-U3-SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 4X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo BR-X816U2",
+        "rating": "10",
+        "DVD-R/RW:": "16x + Blu-ray 8x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8B0TEAL-U3",
+        "rating": "10",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo DVSM-PN58U2VW",
+        "rating": "10",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-272TEAL-U3-BK",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "LG 樂金 BH10LS30-EXT",
+        "rating": "8.0",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "DVD-R/RW:": "16x/6x/DL 6x",
+        "CD-R/RW:": "48x/24x/BD-R/RE: 10x/2x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8B0TEAL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Lacie Slim DVD±RW",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "LG 樂金 BP40NS20",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X, BD-R 6X, BD-RE 2X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Liteon eTAU108",
+        "rating": "7.0",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "I-O DATA DVRP-U8SLE",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 16x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Samsung 三星 HF-MS633B",
+        "rating": "",
+        "DVD-R/RW:": "8x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "imation SOHOT Slim Recorder",
+        "rating": "10",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Pioneer BDR-207DBK",
+        "rating": "",
+        "DVD-R/RW:": "16X/8X",
+        "CD-R/RW:": "40X/24X",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Samsung 三星 SE-S084F/CHBS",
+        "rating": ""
+    },
+    {
+        "names": "ASUS SBC-06D1S-U",
+        "rating": "",
+        "DVD-R/RW:": "8x / 8x",
+        "CD-R/RW:": "24x / 16x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Samsung 三星 SE-208AB/CAWS",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-890ATEAL",
+        "rating": "9.0",
+        "DVD-R/RW:": "8X/6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Buffalo DR-PC582",
+        "rating": "10",
+        "DVD-R/RW:": "8x / 8x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-160TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8x/6x + DVD-DL 6x",
+        "CD-R/RW:": "24x/16x",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ8FB-TEAL-U3-BK / SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-265SEAL-U3-SW",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X/16X/BD-R (SL/DL) 6X / BD-R (TL/QL) 4X / DB-RE (SL/DL) 2X / BD-RE TL 2X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-260TEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ8HC-TEAL-U3-BK / SL",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 16X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Buffalo BR-PX68u2/BK-AP",
+        "rating": "",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-265SEAL-U3",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DL 6X",
+        "CD-R/RW:": "24X/16X/BD-R (SL/DL) 6X / BD-R (TL/QL) 4X / DB-RE (SL/DL) 2X / BD-RE TL 2X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Archgon MD-3107G-U3-UJ8C5",
+        "rating": "",
+        "DVD-R/RW:": "8X, 6X, DL 6X",
+        "CD-R/RW:": "24X/24X",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Panasonic 樂聲 UJ-8C1TEAL-U2",
+        "rating": "",
+        "DVD-R/RW:": "8X / 6X / DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Samsung 三星 SE-208AB/TSBS",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x",
+        "CD-R/RW:": "24x / 24x",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Archgon MD-8102S-U3-UJ272-SL",
+        "rating": "",
+        "DVD-R/RW:": "8X/6X, DL 6X, BD-R 6X, DL 6X, TL 4X, QL4X",
+        "CD-R/RW:": "24X/16",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "TEAC DV-W28SS-R93AL",
+        "rating": "",
+        "DVD-R/RW:": "8x / 6x, DVD-R DL 6X",
+        "CD-R/RW:": "24X / 24X",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Samsung 三星 SE-S084C/RSBN",
+        "rating": "9.0",
+        "DVD-R/RW:": "8X/6X/DL 6X",
+        "CD-R/RW:": "24X/16X",
+        "介面:": "USB 2.0"
+    }
+]

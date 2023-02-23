@@ -1,0 +1,3518 @@
+[
+    {
+        "names": "Cooler Master Oracle Air NVME M.2 SSD Enclosure (SOA010-ME-00)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "介面:": "USB 3.2 Gen 2 Type-C",
+        "尺寸:": "128.5 x 42 x 18.5mm"
+    },
+    {
+        "names": "Orico NVMe M.2 SSD Enclosure (10Gbps) TCM2-C3",
+        "rating": "8.0",
+        "hon_price_min": "168",
+        "hon_price_max": "249",
+        "介面:": "USB3.1 Type-C GEN2 10Gbps",
+        "尺寸:": "108 x 34 x 11.5mm"
+    },
+    {
+        "names": "Orico M.2 NVMe SSD Enclosure M2PV-C3",
+        "rating": "8.7",
+        "hon_price_min": "150",
+        "hon_price_max": "239",
+        "water_price_min": "158",
+        "water_price_max": "158",
+        "尺寸:": "108 x 29.5 x 13.5mm"
+    },
+    {
+        "names": "ASUS ROG Strix Arion EVA 限定版 M.2 SSD 外接盒",
+        "rating": "10",
+        "hon_price_min": "510",
+        "hon_price_max": "550",
+        "介面:": "USB3.2 Gen 2X1",
+        "尺寸:": "124.5 x 47.7 x 10.9 mm",
+        "重量:": "98g"
+    },
+    {
+        "names": "ASUS ROG Strix Arion M.2 NVMe SSD 外接盒",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "499",
+        "介面:": "USB3.2 Gen2 Type-C (10 Gbps)",
+        "硬碟數量:": "1",
+        "尺寸:": "M.2 M Key PCIe (NVMe) SSD with 2280, 2260, 2242, 2230"
+    },
+    {
+        "names": "SilverStone USB 3.2 Gen2 Type-C NVMe/SATA RGB M.2固態硬碟外接盒 SST-MS13",
+        "rating": "6.0",
+        "hon_price_min": "305",
+        "hon_price_max": "320",
+        "介面:": "USB-C USB3.2 Gen2(10Gbps)",
+        "尺寸:": "43.8 x 15.9 x 104.8mm",
+        "重量:": "97g"
+    },
+    {
+        "names": "Orico 2139C3",
+        "rating": "5.0",
+        "hon_price_min": "78",
+        "hon_price_max": "139",
+        "介面:": "USB 3.0 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "124.5 x 79 x 13mm"
+    },
+    {
+        "names": "Unitek Y-1078",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "169",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek Y-3032",
+        "rating": "8.5",
+        "hon_price_min": "210",
+        "hon_price_max": "260",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico USB3.1 Gen2 Type-C 10Gbps M.2 NVMe SSD Enclosure HM2-G2",
+        "rating": "10",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "介面:": "USB3.1 Gen2 Type-C 10Gbps",
+        "尺寸:": "110 x 38 x 14mm"
+    },
+    {
+        "names": "Orico 2.5/3.5 inch HDD and SSD Hard Drive Dock 9818U3",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "151.34 x 74.34 x 69.66mm"
+    },
+    {
+        "names": "SanDisk Professional Pro-Dock 4 磁碟槽",
+        "rating": "",
+        "hon_price_min": "3,725",
+        "hon_price_max": "3,925",
+        "water_price_min": "3,895",
+        "water_price_max": "3,895",
+        "介面:": "2 x Thunderbolt 3, 2 x USB-C, 2 x USB-A, 1 x 3.5mm, 1 x DisplayPort 1.4, 1 x Gigabit Ethernet",
+        "尺寸:": "208 x 115 x 155mm"
+    },
+    {
+        "names": "Orico 2.5inch USB 3.0 Hard Drive Enclosure (7mm thickness) 2578U3",
+        "rating": "10",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "126 x 80 x 12mm"
+    },
+    {
+        "names": "Wavlink USB 3.0 to SATA Dual Bay External Hard Drive Docking Station (ST334U)",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2",
+        "尺寸:": "140 x 120 x 75mm"
+    },
+    {
+        "names": "WAVLINK Thunderbolt 3 M.2 NVME SSD External Case 外置固態硬碟盒 WL-UTE02",
+        "rating": "2.0",
+        "hon_price_min": "550",
+        "hon_price_max": "699",
+        "介面:": "Thunderbolt 3",
+        "尺寸:": "142 x 34 x 15mm"
+    },
+    {
+        "names": "Orico Tool-free design USB3.1 Gen2 M-Key NVME SSD Enclosure M2L2-V03C3",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "介面:": "USB 3.1 Gen2 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "108 x 35.5 x 11.2mm"
+    },
+    {
+        "names": "Unitek SolidForce Reefer Either USB-C 轉 M.2 SSD (NVMe/SATA) 硬碟盒 S1225A",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "介面:": "USB3.2 Gen2 10Gbps",
+        "尺寸:": "107 x 46 x 24mm"
+    },
+    {
+        "names": "Orico External 3.5-inch USB3.0 Hard Disk Box 3521U3",
+        "rating": "2.0",
+        "hon_price_min": "138",
+        "hon_price_max": "178",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "192 x 120 x 35mm"
+    },
+    {
+        "names": "QNAP Dual M.2 2280 SATA SSD to 2.5\" SATA Drive Adapter (QDA-A2MAR)",
+        "rating": "",
+        "hon_price_min": "492",
+        "hon_price_max": "499",
+        "硬碟尺寸:": "2.5\"",
+        "尺寸:": "100.5 x 69.9 x 9.5mm",
+        "重量:": "100g"
+    },
+    {
+        "names": "ADATA EC700G M.2 PCIe/SATA SSD Enclosure",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "599",
+        "介面:": "USB 3.2 Gen2 Type-C",
+        "尺寸:": "112 x 45 x 12.24mm",
+        "重量:": "90g"
+    },
+    {
+        "names": "Orico 6619S3",
+        "rating": "2.0",
+        "hon_price_min": "150",
+        "hon_price_max": "199",
+        "介面:": "USB 3.0 + SATA 3",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 6629S3",
+        "rating": "5.0",
+        "hon_price_min": "208",
+        "hon_price_max": "288",
+        "介面:": "USB 3.0 + SATA3",
+        "硬碟尺寸:": "2.5\" / 3.5\""
+    },
+    {
+        "names": "OWC ThunderBay 4 mini Thunderbolt 3 硬碟盒",
+        "rating": "",
+        "hon_price_min": "3,180",
+        "hon_price_max": "3,199",
+        "介面:": "Thunderbolt 3 Interface",
+        "硬碟數量:": "4",
+        "尺寸:": "191 x 117 x 96mm"
+    },
+    {
+        "names": "Orico 2.5inch USB3.0 Hard Drive Enclosure 2179U3",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "127.5 x 80 x 14mm"
+    },
+    {
+        "names": "Unitek Y-3026",
+        "rating": "9.0",
+        "hon_price_min": "240",
+        "hon_price_max": "290",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "OWC Envoy Express 隨身 Thunderbolt 3 SSD 外接盒",
+        "rating": "9.0",
+        "hon_price_min": "560",
+        "hon_price_max": "680",
+        "介面:": "Thunderbolt 3",
+        "尺寸:": "4.4 x 1.2 x 106mm",
+        "重量:": "88g"
+    },
+    {
+        "names": "SilverStone USB 3.2 Gen2 Type-C NVMe/SATA Docking M.2固態硬碟外置座 SST-TS16",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "USB 3.2 Gen2 Type-C",
+        "尺寸:": "107.9 x 17.48 x 42mm",
+        "重量:": "67.7g"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE 4 24TB (SDPH34H-024T-ZBAAB)",
+        "rating": "",
+        "hon_price_min": "15,660",
+        "hon_price_max": "16,485",
+        "water_price_min": "16,360",
+        "water_price_max": "16,360",
+        "介面:": "Thunderbolt 3 (40Gbps) 和 USB-C (10Gbps)"
+    },
+    {
+        "names": "Orico USB 4.0 Type-C NVMe M.2 SSD Enclosure 40Gbps M208C3-U4",
+        "rating": "10",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "介面:": "USB 4.0 / Thunderbolt 4",
+        "Raid 支援:": "No",
+        "尺寸:": "108 x 50 x 17mm"
+    },
+    {
+        "names": "Orico Multi-Color Glowing RGB Gaming Style M.2 NVMe Gen2 10Gbps SSD Enclosure M2R1-G2",
+        "rating": "10",
+        "hon_price_min": "228",
+        "hon_price_max": "248",
+        "介面:": "USB3.2 Gen2 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "114 x 52.5 x 15.1mm"
+    },
+    {
+        "names": "OWC ThunderBay Flex 8 (8-Bay) Thunderbolt 3 外置硬碟盒",
+        "rating": "",
+        "hon_price_min": "11,999",
+        "hon_price_max": "11,999",
+        "硬碟尺寸:": "2.5\" SSD & 3.5\" HDD",
+        "Raid 支援:": "0/1/4/5"
+    },
+    {
+        "names": "OWC ThunderBay 4 RAID 4-Bay Thunderbolt3 外置儲存系統 (HD-TB4RAID)",
+        "rating": "10",
+        "hon_price_min": "3,740",
+        "hon_price_max": "4,780"
+    },
+    {
+        "names": "Orico USB4.0 NVMe SSD Enclosure M2V01-C4",
+        "rating": "10",
+        "hon_price_min": "890",
+        "hon_price_max": "1,180",
+        "water_price_min": "870",
+        "water_price_max": "870",
+        "介面:": "USB 4.0 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "121.6 x 50 x 17.6mm"
+    },
+    {
+        "names": "Orico USB 4.0 Type-C NVMe M.2 SSD Enclosure 40Gbps M224C3-U4",
+        "rating": "6.0",
+        "hon_price_min": "880",
+        "hon_price_max": "900",
+        "介面:": "USB 4.0 / Thunderbolt 4",
+        "尺寸:": "108 x 50 x 17mm",
+        "重量:": "185g"
+    },
+    {
+        "names": "WAVLINK USB-C 3.1 M.2 NVMe PCIe SSD 外置固態硬碟盒 (Type-C Gen 2 10G) WL-ST338C",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "228",
+        "介面:": "USB-C Gen2 3.1",
+        "尺寸:": "109 x 29 x 10mm",
+        "重量:": "40g"
+    },
+    {
+        "names": "Wavlink USB 3.0 to SATA Dual Bay External Hard Drive Docking Station for 2.5\" & 3.5\" SSD HDD WL-ST336A",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "368",
+        "介面:": "USB-C / USB3.0",
+        "硬碟數量:": "2",
+        "尺寸:": "155 x 130 x 120mm"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 10Gbps M.2 M-Key NVME SSD Enclosure BM2C3-G2",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "介面:": "USB3.1 Gen2",
+        "硬碟尺寸:": "M.2 NVMe"
+    },
+    {
+        "names": "Orico RGB 2.5 inch / 3.5 inch HDD/SSD Single Bay Type-C GEN 2 Hard Drive Dock 8818C3",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "介面:": "Type-C Gen 2 / USB 3.0",
+        "Raid 支援:": "No",
+        "尺寸:": "147 x 73.3 x 68mm"
+    },
+    {
+        "names": "OWC ThunderBay 4 Mini with Thunderbolt 3 (4TB) (Hard Drive Models with SoftRAID XT) OWCTB3QMSR04T7",
+        "rating": "",
+        "hon_price_min": "6,658",
+        "hon_price_max": "6,699",
+        "硬碟尺寸:": "2.5",
+        "Raid 支援:": "0/1/4/5/10"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 10Gbps M.2 M-Key NVME SSD Enclosure M212C3-G2",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "介面:": "USB3.1 Gen2 10Gbps",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2.5 inch USB 3.0 Micro-B Hard Drive Enclosure 25PW1-U3",
+        "rating": "10",
+        "hon_price_min": "55",
+        "hon_price_max": "68",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "Raid 支援:": "No"
+    },
+    {
+        "names": "Orico USB3.2 GEN2 x 2 20Gbps M.2 NVMe SSD Enclosure Built-in Fan M2PVC3-G20",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "350",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "介面:": "USB 3.2 GEN2 x 2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "WAVLINK USB 3.0 SATA 移動硬盤盒 (2.5' HDD SSD) WL-ST239",
+        "rating": "7.0",
+        "hon_price_min": "70",
+        "hon_price_max": "99",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "126 x 80 x 16mm"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 10Gbps M.2 M-Key NVME SSD Enclosure M206C3-G2",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "248",
+        "介面:": "USB3.1 Gen2 10Gbps",
+        "硬碟數量:": "1",
+        "Raid 支援:": "No"
+    },
+    {
+        "names": "SilverStone USB3.2 Gen2x2 Type-C NVMe M.2固態硬碟外接盒 SST-MS12",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "425",
+        "介面:": "USB-C USB3.2 Gen2x2 (20Gbps)",
+        "尺寸:": "107 x 10.9 x 32.4mm",
+        "重量:": "53g"
+    },
+    {
+        "names": "ASUS TUF Gaming A1 M.2 SSD 外接盒",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "439",
+        "介面:": "USB3.2 Gen 2",
+        "尺寸:": "125.28 x 54.27 x 13.3mm",
+        "重量:": "142g"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 NVMe M.2 SSD Clone Duplicator M2P2-C3-C",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "608",
+        "water_price_min": "599",
+        "water_price_max": "608",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "2",
+        "尺寸:": "82.2 x 62 x 13.8mm"
+    },
+    {
+        "names": "QNAP M.2 2280 to 2.5 Inch U.2 NVMe PCIe 4.0 SSD 轉接盒 (QDA-UMP4)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "介面:": "U.2 (SFF-8639) PCIe 4.0 x 4",
+        "尺寸:": "100.4 x 69.85 x 15mm",
+        "重量:": "104.5g"
+    },
+    {
+        "names": "Orico M.2 NVMe SSD Enclosure M2P2J-C3",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "690",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "2",
+        "尺寸:": "106.6 x 62 x 14.9mm"
+    },
+    {
+        "names": "Orico Aluminum Dual-bay M.2 NVME + NVME SSD Enclosure AM2C3-2N",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "360",
+        "介面:": "Type-C 10Gbps (Dual bays)",
+        "硬碟數量:": "2",
+        "Raid 支援:": "no"
+    },
+    {
+        "names": "Orico Aluminum USB3.2 GEN2 x 2 20Gbps M.2 NVMe SSD Enclosure M2PAC3-G20",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "369",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "介面:": "Type-C USB 3.2 GEN2 x 2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE 8 48TB ( SDPH48H-048T-ZBAAB)",
+        "rating": "",
+        "hon_price_min": "29,830",
+        "hon_price_max": "33,755",
+        "water_price_min": "31,160",
+        "water_price_max": "31,160",
+        "介面:": "Thunderbolt 3, USB 3.2 Gen 2"
+    },
+    {
+        "names": "Orico 2-Bay Type-C 10Gbps Hard Disk Docking Station with Auto-Sleep Offline Clone 8828C3-C",
+        "rating": "10",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "介面:": "Type-C Gen 2 / USB 3.0",
+        "Raid 支援:": "No",
+        "尺寸:": "152.7 x 136 x 73.1mm"
+    },
+    {
+        "names": "Orico Type-C Gen 2 10Gbps 2.5 inch/3.5 inch HDD/SSD Dual-bay Dock with Offline Clone Function 6829C3-C",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "介面:": "Type-C Gen 2 / USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Unitek USB3.1 to SATA6G 2.5/3.5 inch Hard Disk Docking Station Y-3605",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "243"
+    },
+    {
+        "names": "Orico 3588US3",
+        "rating": "9.3",
+        "hon_price_min": "128",
+        "hon_price_max": "199",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Tool-free design Type-C M.2 B-Key NGFF SSD Enclosure M2L2-N03C3",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "介面:": "USB 3.1 Gen2 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "108 x  35.5 x 11.2mm"
+    },
+    {
+        "names": "Orico Multi-Color Glowing RGB Gaming Style M.2 NVMe Gen2 10Gbps SSD Enclosure M2R2-G2",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "248",
+        "介面:": "USB3.2 Gen2 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "114 x 52.5 x 15.1mm"
+    },
+    {
+        "names": "Unitek Y-3026",
+        "rating": "9.0",
+        "hon_price_min": "240",
+        "hon_price_max": "290",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico Aluminum M.2 NGFF SSD Enclosure M231C3",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "208",
+        "介面:": "B-Key / B&M-Key",
+        "Raid 支援:": "No",
+        "尺寸:": "109 x 30 x 13.2mm"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 M.2 M-Key NVMe SSD Enclosure with Built-in Fan M2PY-C3",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "300",
+        "介面:": "USB3.1 Gen2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "UNITEK S1203ABK SolidForce PCIe/NVMe M.2 SSD 10Gbps Enclosure Lite",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "258",
+        "介面:": "USB3.1 Type-C"
+    },
+    {
+        "names": "Orico PCM2-C3",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "318",
+        "介面:": "USB3.1 Gen2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "OWC ThunderBay 8 - 專業級 8-Bay Thunderbolt 3 - HD-TB8RAID",
+        "rating": "",
+        "hon_price_min": "6,490",
+        "hon_price_max": "7,990",
+        "硬碟尺寸:": "2.5\" & 3.5\" HDD & SSD",
+        "Raid 支援:": "支援 RAID 0, 1, 4, 5, 1+0  (10)",
+        "尺寸:": "18 x 26 x 24 cm"
+    },
+    {
+        "names": "OWC ThunderBay 6 RAID 6-Bay Thunderbolt 3 外置儲存系統 (HD-TB6RAID)",
+        "rating": "",
+        "hon_price_min": "5,109",
+        "hon_price_max": "5,419"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE SSD 8TB (SDPS24H-008T)",
+        "rating": "",
+        "water_price_min": "35,055",
+        "water_price_max": "35,055",
+        "介面:": "USB 3.2 Gen 2, Thunderbolt 3",
+        "Raid 支援:": "0, 1, 5, 10, 50"
+    },
+    {
+        "names": "Orico Backuper Backup for Phone BA3510",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "介面:": "USB2.0 Type-A 或 USB3.1 GEN1 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 5 Bay 2.5 / 3.5 inch Hard Drive Enclosure with Duplicator 6558US3-C",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "690",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE 4 72TB (SDPH34H-072T-ZBAAB)",
+        "rating": "",
+        "hon_price_min": "31,320",
+        "hon_price_max": "37,680",
+        "介面:": "Thunderbolt 3 (40Gbps) 和 USB-C (10Gbps)"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 M.2 M-Key NVME SSD Enclosure M2PJ-C3",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "279",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "106.5 x 29 x 11.5mm"
+    },
+    {
+        "names": "Acasis 台式機3.5英吋移動硬盤盒 DT-3608",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "310",
+        "介面:": "USB 3.0",
+        "尺寸:": "195 x 125 x 75mm",
+        "重量:": "805g"
+    },
+    {
+        "names": "J5CREATE USB-C to M.2 NVMe SSD Enclosure JEE256",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "348",
+        "介面:": "USB-C female: USB-C 3.1 Gen 2, 10 Gbps",
+        "重量:": "40.5g"
+    },
+    {
+        "names": "Unitek SyncStation Marshmallow M.2 NVMe 雙槽 USB-C 硬盤座 (S1207A)",
+        "rating": "",
+        "hon_price_min": "755",
+        "hon_price_max": "758",
+        "water_price_min": "758",
+        "water_price_max": "758",
+        "介面:": "USB3.2 Gen2 USB-C",
+        "硬碟數量:": "2",
+        "尺寸:": "93 x 93 x 132mm"
+    },
+    {
+        "names": "Orico External 3.5-inch Type-C USB3.1 GEN1 Hard Disk Box 3521C3",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "208",
+        "介面:": "USB3.1 Type-C GEN1",
+        "硬碟數量:": "1",
+        "尺寸:": "192 x 120 x 35mm"
+    },
+    {
+        "names": "Orico 2.5 inch Transparent USB3.0 Hard Drive Enclosure 移動硬盤盒 2129U3",
+        "rating": "",
+        "hon_price_min": "101",
+        "hon_price_max": "129",
+        "介面:": "USB3.0 Micro B",
+        "尺寸:": "124.5 x 79 x 13 mm"
+    },
+    {
+        "names": "WAVLINK WS-ST334U",
+        "rating": "",
+        "hon_price_min": "191",
+        "hon_price_max": "248",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico 單盤位 (橫卧式) 外置硬盤盒 6518US3",
+        "rating": "6.0",
+        "hon_price_min": "135",
+        "hon_price_max": "219",
+        "介面:": "USB 3.0",
+        "尺寸:": "180 x 120 x 40mm",
+        "重量:": "372g"
+    },
+    {
+        "names": "Orico Aluminum 4 bay 3.5 inch SATA Hard Drive Enclosure 9548U3",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "1,000",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "4",
+        "尺寸:": "258 x 146 x 161mm"
+    },
+    {
+        "names": "Orico WS500U3",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "980",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "Acasis 3.5吋 USB3.0 IDE SATA 通用移動硬盤盒 BA-06US",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "介面:": "USB 3.0",
+        "尺寸:": "190 x 112 x 32mm"
+    },
+    {
+        "names": "AKiTiO Thunder3 Duo Pro",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "3,100",
+        "介面:": "Thunderbolt 3",
+        "Raid 支援:": "Raid 0 Raid 1",
+        "尺寸:": "33.1cm x 25.7cm x 12.3 cm"
+    },
+    {
+        "names": "Elementz NVMe SSD Enclosure USB3.2 Gen2 M22",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "298",
+        "介面:": "USB3.2 TypeC",
+        "尺寸:": "90 x 20 x 185mm",
+        "重量:": "54g"
+    },
+    {
+        "names": "OWC Mercury Pro U.2 Dual Thunderbolt 3 外置硬碟盒 (OWCTB3MPDU000J)",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,839",
+        "介面:": "Thunderbolt 3 (USB-C)",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico 2.5/3.5inch 2 Bay Transparent Type-C Hard Drive Dock with Offline Clone Function 6239C3-C",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "299",
+        "介面:": "Type-C",
+        "尺寸:": "148 x 113.8 x 60mm"
+    },
+    {
+        "names": "Sabrent 5-Bay USB 3.2 Hard Drive Docking Station (DS-SC5B)",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "2,999",
+        "介面:": "USB 3.2 Type-C",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "QNAP M.2 PCIe NVMe to U.2 PCIe NVMe SSD Adapter (QDA-UMP)",
+        "rating": "",
+        "hon_price_min": "495",
+        "hon_price_max": "499",
+        "硬碟數量:": "1",
+        "重量:": "104.5g"
+    },
+    {
+        "names": "Orico 6629US3",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "Orico Aluminum Dual-bay M.2 NVME + SATA SSD Enclosure AM2C3-2SN",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "348",
+        "介面:": "USB 3.2 Gen 2 Type-C"
+    },
+    {
+        "names": "Orico 2588US3",
+        "rating": "9.3",
+        "hon_price_min": "65",
+        "hon_price_max": "99",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek Y-1091",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "195",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2588C3-G2",
+        "rating": "10",
+        "hon_price_min": "138",
+        "hon_price_max": "148",
+        "介面:": "USB3.1 Gen2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE 8 96TB (SDPH48H-096T-ZBAAB)",
+        "rating": "",
+        "hon_price_min": "48,475",
+        "hon_price_max": "57,300",
+        "介面:": "Thunderbolt 3, USB 3.2 Gen 2"
+    },
+    {
+        "names": "Orico 2139U3-CR",
+        "rating": "8.0",
+        "hon_price_min": "58",
+        "hon_price_max": "129",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Aluminum 4 Bay 3.5-Inch External Hard Drive Enclosure With RAID 9548RU3",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "1,100",
+        "介面:": "USB 3.0",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10, Large and Normal mode",
+        "尺寸:": "258 x 146 x 161mm"
+    },
+    {
+        "names": "Orico 2588C3",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "128",
+        "硬碟尺寸:": "2.5\"",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AKiTiO Thunder3 Quad",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,980",
+        "介面:": "Thunderbolt 3",
+        "硬碟數量:": "4",
+        "尺寸:": "24.2cm x 13.5cm x 18.4cm"
+    },
+    {
+        "names": "Orico Thunderbolt 3 (40Gbps) NVMe M.2 SSD Enclosure SCM2T3-G40",
+        "rating": "9.0",
+        "hon_price_min": "790",
+        "hon_price_max": "870",
+        "water_price_min": "760",
+        "water_price_max": "760",
+        "介面:": "Thunderbolt 3",
+        "硬碟尺寸:": "NVMe M.2"
+    },
+    {
+        "names": "Orico 2.5\" Type-C Portable Hard Drive Enclosure 2526C3",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "149",
+        "介面:": "USB3.1 GEN1 Type-C",
+        "尺寸:": "138 x 80 x 14mm"
+    },
+    {
+        "names": "WAVLINK WS-ST236C",
+        "rating": "",
+        "hon_price_min": "177",
+        "hon_price_max": "198",
+        "介面:": "TYPE-C + USB",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico NVME M.2 SSD Enclosure Case",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "290",
+        "介面:": "Type-c"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE 8 144TB (SDPH48H-144T-ZBAAB)",
+        "rating": "",
+        "hon_price_min": "59,600",
+        "hon_price_max": "78,500",
+        "介面:": "Thunderbolt 3, USB 3.2 Gen 2"
+    },
+    {
+        "names": "Orico WS500RU3",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,388",
+        "介面:": "USB3.0",
+        "硬碟數量:": "5",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10 Combine, and other modes"
+    },
+    {
+        "names": "Orico NGFF M.2 SSD Enclosure (TCM2F-C3)",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "160",
+        "water_price_min": "160",
+        "water_price_max": "160",
+        "介面:": "USB3.1 Type-C (5Gbps)",
+        "硬碟數量:": "1",
+        "尺寸:": "108 x 34 x 11.5mm"
+    },
+    {
+        "names": "Orico Aluminum USB3.2 Gen2X2 20Gbps M.2 M-Key NVME SSD Enclosure M213C3-G4",
+        "rating": "10",
+        "hon_price_min": "358",
+        "hon_price_max": "378",
+        "介面:": "USB3.2 Gen2X2 Type-C 20Gbps",
+        "硬碟數量:": "1",
+        "尺寸:": "113.5 x 40 x 14mm"
+    },
+    {
+        "names": "Orico 6139U3",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "219",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "78 x 60 x 145mm"
+    },
+    {
+        "names": "Orico NS800C3",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "2,190",
+        "介面:": "Type-C",
+        "硬碟數量:": "8"
+    },
+    {
+        "names": "Elementz NVMe SSD Enclosure USB3.2 Gen2 M26",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "298",
+        "介面:": "USB3.2 TypeC",
+        "尺寸:": "101 x 30 x 10mm",
+        "重量:": "46g"
+    },
+    {
+        "names": "Orico 6638US3-C",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "570",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "3"
+    },
+    {
+        "names": "WAVLINK USB-C (Gen2 10G) M.2 NVME SSD External Case 外置固態硬碟盒 WL-ST238C",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "299",
+        "介面:": "USB-C Gen2 3.1",
+        "尺寸:": "142 x 34 x 15mm"
+    },
+    {
+        "names": "Orico Transparent Series Dual-Bay 2.5\" Hard Drive Enclosure 2259U3",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "249",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico 3549U3 外置硬盤櫃 (Support 16TB HDD) without RAID",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,090",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "4",
+        "尺寸:": "264.8 x 135 x 166.7mm"
+    },
+    {
+        "names": "Orico 2.5 / 3.5 inch Hard Drive Enclosure with Duplicator 6528US3-C",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "319",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "G-Technology G-Speed Shuttle SSD Thunderbolt 3 16TB (HD-GS416ES)",
+        "rating": "",
+        "hon_price_min": "53,380",
+        "hon_price_max": "53,380"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 M.2 M-Key NVMe SSD Enclosure M2PG-C3",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "249",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico MS2TS",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "118",
+        "介面:": "MSATA 或 M.2 B-Key, SATA3.0",
+        "硬碟尺寸:": "2230/2242/2260/2280 M.2 SSD"
+    },
+    {
+        "names": "AKiTiO Thunder2 PCIe",
+        "rating": "",
+        "hon_price_min": "2,098",
+        "hon_price_max": "2,100"
+    },
+    {
+        "names": "Orico Dual-bay M.2 NGFF SATA SSD Enclosure With Raid M2N210-RC3",
+        "rating": "10",
+        "hon_price_min": "308",
+        "hon_price_max": "360",
+        "介面:": "USB3.1 GEN2 Type-C",
+        "硬碟數量:": "2",
+        "Raid 支援:": "YES"
+    },
+    {
+        "names": "OWC Drive Dock USB-C 2-Bay SATA3 USB3.1 Gen2 Docking",
+        "rating": "10",
+        "hon_price_min": "690",
+        "hon_price_max": "798",
+        "介面:": "USB3.1 Gen2 (10Gbps)",
+        "硬碟數量:": "2",
+        "尺寸:": "85 x 160 x 150mm"
+    },
+    {
+        "names": "Promise Pegasus3 R4 16TB (4 x 4TB) RAID 儲存設備",
+        "rating": "",
+        "hon_price_min": "12,348",
+        "hon_price_max": "12,348",
+        "硬碟數量:": "4",
+        "尺寸:": "19.05 x 18.54 x 24.38cm",
+        "重量:": "15g"
+    },
+    {
+        "names": "Orico 2169U3",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "128 x 83 x 14mm"
+    },
+    {
+        "names": "WAVLINK WS-ST237C",
+        "rating": "",
+        "hon_price_min": "172",
+        "hon_price_max": "198",
+        "介面:": "TYPE-C + USB",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico M.2 NGFF SSD Enclosure M2PF-C3",
+        "rating": "",
+        "hon_price_min": "115",
+        "hon_price_max": "138",
+        "water_price_min": "118",
+        "water_price_max": "118",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "108 x 29.5 x 13.5mm"
+    },
+    {
+        "names": "Orico 3259RU3-CR 3.5 Inch Dual-Bay USB3.0 Hard-Drive Enclosure",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "309",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2",
+        "Raid 支援:": "RAID 0, 1, PM(normal) and SPAN(capacity stacking)"
+    },
+    {
+        "names": "AKiTiO Thunder2 Duo Pro",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,600",
+        "介面:": "2x Thunderbolt 2 極速連接埠 1x USB3.0 高速 連接埠 1x HDMI 1.4b 連接埠",
+        "Raid 支援:": "hardware raid 0,1",
+        "尺寸:": "23.8cm x 14.3cm x 9.4cm"
+    },
+    {
+        "names": "Orico 2.5 inch USB3.1 Gen2 Type-C Hard Drive Enclosure (7mm thickness) 2578C3-G2",
+        "rating": "6.0",
+        "hon_price_min": "145",
+        "hon_price_max": "147",
+        "介面:": "USB3.1 Gen2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2.5 inch Aluminum Alloy Hollow USB3.0 Hard Drive Enclosure DY251U3",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico DS500C3",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "890",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "Orico WS400C3",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "AKiTiO 2-bay 2.5\" SATA 3 Enclosure With RAID (SK-2520 U3.1)",
+        "rating": "",
+        "hon_price_min": "636",
+        "hon_price_max": "960",
+        "介面:": "USB3.1 Gen2 (10Gbps)",
+        "硬碟數量:": "2",
+        "尺寸:": "155 x 152 x 220mm"
+    },
+    {
+        "names": "Orico 2.5 inch 4 Bay Aluminum Alloy USB3.0 Hollow Hard Drive Enclosure DY254U3",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "Orico WS200C3",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico 2.5 inch/3.5 inch HDD/SSD Single Bay Type-C GEN 2 Hard Drive Dock 6819C3",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "介面:": "Type-C Gen 2 / USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico USB3.1 Gen2 Type-C 10Gbps M.2 NVMe SSD Enclosure MM2C3-G2",
+        "rating": "10",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "介面:": "USB3.1 Gen2 Type-C 10Gbps",
+        "硬碟數量:": "1",
+        "尺寸:": "108 x 42 x 13.8mm"
+    },
+    {
+        "names": "Orico 6619us3",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "199",
+        "介面:": "USB 3.0",
+        "尺寸:": "132(L)×72(W)×65(H)mm",
+        "重量:": "155g"
+    },
+    {
+        "names": "Orico WS500U",
+        "rating": "",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,360",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "OWC Mercury Elite Pro USB 3.2 3.5 inch External Storage Enclosure ME3NH7T00",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "398",
+        "介面:": "USB 3.2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "OWC Mercury Elite Pro Dock Dual-Drive RAID Thunderbolt 3 Docking Station",
+        "rating": "",
+        "hon_price_min": "2,238",
+        "hon_price_max": "2,980",
+        "介面:": "Thunderbolt 3",
+        "Raid 支援:": "JBOD / Raid 0 / Raid 1 / SPAN",
+        "尺寸:": "147 x 85 x 238mm",
+        "重量:": "1600g"
+    },
+    {
+        "names": "Orico 9548RU3",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "硬碟尺寸:": "全網首款極具性價比4盤位3.5寸sata串口硬盤盒",
+        "Raid 支援:": "支持"
+    },
+    {
+        "names": "Orico 6518S3",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Aluminum 2 bay 3.5-Inch External Hard Drive Enclosure With RAID 9528RU3",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "600",
+        "介面:": "USB 3.0",
+        "Raid 支援:": "RAID 0, 1, Large and Normal mode",
+        "尺寸:": "233.5mm(L)*145mm(W)*93.5mm(H)"
+    },
+    {
+        "names": "Fideco D3U-U3 USB 3.0 3.5\" SATA HDD Enclosure",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "168",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico NS400U3",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "890",
+        "介面:": "USB3.0",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "Orico 3.5-Inch Portable Built-in Power Hard-Drive Enclosure 3599U3",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "168",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico NS800U3",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,899",
+        "介面:": "USB3.0",
+        "硬碟數量:": "8"
+    },
+    {
+        "names": "AirDisk T2 2.5\" 智能雲端硬盤盒",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "介面:": "USB 3.0 , RJ45 PORT",
+        "尺寸:": "131 x 84 x14.5mm",
+        "重量:": "250g"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 2 24TB",
+        "rating": "",
+        "hon_price_min": "21,600",
+        "hon_price_max": "21,600",
+        "介面:": "Thunderbolt 2"
+    },
+    {
+        "names": "Orico 2518C3-G2",
+        "rating": "2.0",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "介面:": "USB 3.1 Gen2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2599US3",
+        "rating": "8.0",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "OWC Mercury Pro LTO-7 Thunderbolt 3 (OWCTBLTMP70000)",
+        "rating": "",
+        "hon_price_min": "37,899",
+        "hon_price_max": "37,899",
+        "介面:": "Thunderbolt 3 (USB-C)",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "OWC ThunderBay 4 RAID - 4-Bay Thunderbolt 3 - HD-TB4RAID",
+        "rating": "",
+        "hon_price_min": "3,740",
+        "hon_price_max": "5,990",
+        "硬碟尺寸:": "2.5\" & 3.5\" HDD & SSD",
+        "Raid 支援:": "支援 RAID 0, 1, 4, 5, 1+0  (10)",
+        "尺寸:": "17.7 x 13.5 x 24.5 cm"
+    },
+    {
+        "names": "Fideco 2.5\" / 3.5\" SATA USB 3.0 硬盤底座 YPZ04",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Transcend StoreJet 25CK3 Enclosure Kit",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "168",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "129.5 x 80.8 x 18.8mm"
+    },
+    {
+        "names": "Orico Mini mSATA SSD Enclosure MSG-U3",
+        "rating": "2.0",
+        "hon_price_min": "86",
+        "hon_price_max": "88",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-Speed Shuttle SSD Thunderbolt 3 32TB (HD-GS432E)",
+        "rating": "",
+        "hon_price_min": "67,510",
+        "hon_price_max": "67,510"
+    },
+    {
+        "names": "Orico Aluminum 5 Bay Series Daisy-Chain Hard Drive Enclosure 3559C3",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,690",
+        "介面:": "USB 3.1 Gen2 Type-C",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "Acasis 2.5英吋 USB3.0 移動硬盤盒 FA-07US",
+        "rating": "",
+        "hon_price_min": "51",
+        "hon_price_max": "51",
+        "介面:": "USB 3.0",
+        "硬碟尺寸:": "2.5\""
+    },
+    {
+        "names": "Orico Aluminum USB3.2 Gen2X2 20Gbps M.2 M-Key NVME SSD Enclosure M223C3-G4",
+        "rating": "10",
+        "hon_price_min": "358",
+        "hon_price_max": "378",
+        "介面:": "USB3.2 Gen2X2 Type-C 20Gbps",
+        "硬碟數量:": "1",
+        "尺寸:": "115 x 40 x 15mm"
+    },
+    {
+        "names": "Orico 3588C3",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "219",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AKiTiO Neutrino Bridge USB3.1",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "340",
+        "介面:": "USB 3.1 與 SATA",
+        "硬碟數量:": "1",
+        "尺寸:": "10.16cm x 14.7cm x 1cm"
+    },
+    {
+        "names": "SilverStone Drive Bay FP510",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "USB 3.1 Gen 1 Type-A x 2",
+        "尺寸:": "146 x 42 x 192mm",
+        "重量:": "640g"
+    },
+    {
+        "names": "Orico Aluminum NVME M.2 SSD Enclosure (PAM2-C3)",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "239",
+        "介面:": "USB 3.1 Gen2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2.5 inch 2 Bay Aluminum Alloy Hollow Type-C Hard Drive Enclosure DY252C3",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "介面:": "Type-C",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico USB3.2 Gen2 Type-C M.2 NVMe SSD Enclosure (10Gbps) PWM2-G2",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "介面:": "Type-C",
+        "Raid 支援:": "No",
+        "尺寸:": "124 x 35 x 14mm"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 M.2 M-Key NVMe SSD Enclosure with Built-in Fan + LCD Display M2PX-C3",
+        "rating": "10",
+        "hon_price_min": "308",
+        "hon_price_max": "340",
+        "介面:": "USB3.1 Gen2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Aluminum 2 bay 3.5-Inch External Hard Drive Enclosure 9528U3",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "530",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2",
+        "尺寸:": "233.5 x 145 x 93.5mm"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE Thunderbolt 3 72TB (HD-GS4072E)",
+        "rating": "",
+        "hon_price_min": "37,680",
+        "hon_price_max": "37,680"
+    },
+    {
+        "names": "Orico 2139C3-G2 2.5英寸全透視Type-C移動硬盤盒",
+        "rating": "8.0",
+        "hon_price_min": "88",
+        "hon_price_max": "139",
+        "介面:": "USB3.1 Gen2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2.5吋USB3.0移動硬盤盒 2577U3",
+        "rating": "2.0",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "介面:": "USB3.0 Mrico B + SATA3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "126.5 x 80 x 15mm"
+    },
+    {
+        "names": "OWC Envoy Pro EX M.2 NVMe SSD USB-C 外置儲存盒 (HD-ENPROEX)",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "590",
+        "介面:": "USB 3.1 Type-C",
+        "重量:": "148g"
+    },
+    {
+        "names": "Orico USB 4.0 Type-C NVMe M.2 SSD Enclosure 40Gbps M214C3-U4",
+        "rating": "6.0",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "介面:": "USB 4.0 / Thunderbolt 4",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Red Silica Gel 2.5\" Inch Triple-Protection HDD Enclosure 2769U3",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Ugreen USB 3.0 to SATA III Hard Drive Enclosure 移動硬盤盒",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "115",
+        "介面:": "USB 3.0",
+        "尺寸:": "128 x 14 x 82mm"
+    },
+    {
+        "names": "Orico 3.5 inch Dual Bay Aluminum Alloy USB3.0 Hollow Hard Drive Enclosure DY352U3",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico 3559U3 外置硬盤櫃 (Support 16TB HDD) without RAID",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,390",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "5",
+        "尺寸:": "264.8 x 137 x 200.7mm"
+    },
+    {
+        "names": "Orico 2.5 inch USB 3.0 External Hard Drive Enclosure 2521U3",
+        "rating": "9.0",
+        "hon_price_min": "66",
+        "hon_price_max": "99",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "OWC ThunderBay 4 Mini with Thunderbolt 3 (2TB) (SSD Models with SoftRAID XT) OWCTB3QMSRS02TP",
+        "rating": "",
+        "hon_price_min": "6,890",
+        "hon_price_max": "6,999",
+        "硬碟尺寸:": "2.5吋",
+        "Raid 支援:": "0/1/4/5/10"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE SSD 32TB (SDPS24H-032T)",
+        "rating": "",
+        "water_price_min": "62,320",
+        "water_price_max": "62,320",
+        "介面:": "USB 3.2 Gen 2, Thunderbolt 3",
+        "Raid 支援:": "0, 1, 5, 10, 50"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL EV Thunderbolt 3 24TB",
+        "rating": "",
+        "介面:": "EV Thunderbolt 3"
+    },
+    {
+        "names": "Orico 6619SUSI3",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "介面:": "sata串口2.5寸及3.5寸硬盤",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 80TB (HD-GS8080E)",
+        "rating": ""
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 64TB",
+        "rating": "",
+        "介面:": "Thunderbolt 3"
+    },
+    {
+        "names": "Orico Red Silica Gel 2.5\" Triple-Protection HDD Enclosure 2799U3",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AKiTiO Thunder3 Quad X",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "3,588",
+        "硬碟尺寸:": "3.5\" / 2.5\" / SSD",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "Orico 9528RU3",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE 4 48TB (SDPH34H-048T-ZBAAB)",
+        "rating": "",
+        "hon_price_min": "26,100",
+        "hon_price_max": "27,475",
+        "介面:": "Thunderbolt 3 (40Gbps) 和 USB-C (10Gbps)"
+    },
+    {
+        "names": "OWC Mercury Elite Pro Dual with 3-Port Hub 外置硬碟盒 (OWCMEDCH7T00)",
+        "rating": "10",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,498",
+        "介面:": "USB 3.2 Gen 2 Type-C up to 10Gb/s (1250MB/s) - USB 2.0/3.0 backwards compatible",
+        "Raid 支援:": "0/1",
+        "尺寸:": "147 x 239 x 85mm",
+        "重量:": "1400g"
+    },
+    {
+        "names": "Blueendless BS-M280N M.2 NVMe USB3.1 Enclosure",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "介面:": "USB3.1 Type-C",
+        "尺寸:": "111 x 40 x 10mm"
+    },
+    {
+        "names": "Orico DS200U3",
+        "rating": "8.7",
+        "hon_price_min": "408",
+        "hon_price_max": "459",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 10Gbps M.2 M-Key NVME SSD Enclosure M222C3-G2",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "介面:": "USB3.1 Gen2 10Gbps",
+        "Raid 支援:": "No",
+        "尺寸:": "107 x 29 x 12.5mm",
+        "重量:": "140g"
+    },
+    {
+        "names": "Acasis USB Type-C SSD Enclosure for Apple MAC SSD AC-MAC3W",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 7618SUS3",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "275",
+        "介面:": "usb 3.0 + eSATA",
+        "硬碟數量:": "1",
+        "尺寸:": "200 * 43 * 139 mm"
+    },
+    {
+        "names": "Orico 2.5\" Type-C USB 3.1 HDD Enclosure 2169C3",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "介面:": "USB 3.1 TYPE-C",
+        "硬碟尺寸:": "2.5\""
+    },
+    {
+        "names": "Orico USB 4.0 Type-C NVMe M.2 SSD Enclosure 40Gbps M234C3-U4",
+        "rating": "7.3",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "介面:": "USB 4.0 / Thunderbolt 4",
+        "硬碟數量:": "1",
+        "尺寸:": "107 x 50 x 17mm"
+    },
+    {
+        "names": "Orico 3559RU3 外置硬盤櫃 (Support 16TB HDD) with RAID",
+        "rating": "2.0",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,490",
+        "介面:": "USB 3.0",
+        "Raid 支援:": "RAID 0, 1, 5, 10, SPAN, CLONE, Normal",
+        "尺寸:": "264.8 x 137 x 200.7mm"
+    },
+    {
+        "names": "Orico Transparent Series Dual-Bay 3.5 inch Portable Hard Drive Enclosure 3259U3",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "309",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2",
+        "尺寸:": "173.7 x 60bx 112.6mm"
+    },
+    {
+        "names": "Orico 2538u3",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 3549RU3 外置硬盤櫃 (Support 16TB HDD) with RAID",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,290",
+        "介面:": "USB 3.0",
+        "Raid 支援:": "RAID 0, 1, 5, 10, SPAN, CLONE, Normal",
+        "尺寸:": "264.8 x 135 x 166.7mm"
+    },
+    {
+        "names": "Akasa AK-HDA-01 SSD & HDD adapter",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "介面:": "5.25\" PC bay",
+        "尺寸:": "147(L) x 122(W) x 28(H) mm",
+        "重量:": "125g"
+    },
+    {
+        "names": "AkiTiO Neutrino U3.1",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "368",
+        "介面:": "USB 3.1",
+        "硬碟尺寸:": "2.5 吋"
+    },
+    {
+        "names": "Unitek Y-3027 USB3.1 to SATA6G 2.5\"/3.5\" Dual Bay Station",
+        "rating": "9.0",
+        "hon_price_min": "346",
+        "hon_price_max": "400",
+        "介面:": "USB3.1 SuperSpeed + data transfer (up to 10Gbps)"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE Thunderbolt 3 56TB (HD-GS4056E)",
+        "rating": ""
+    },
+    {
+        "names": "Fideco USB3.0 TO 2.5/3.5\" SATA HDD / SSD ADAPTER (2535)",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 3.5 inch USB 3.0 Tool free Hard Drive Enclosure 9518U3",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 7688U3",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "199",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 96TB",
+        "rating": "",
+        "hon_price_min": "57,300",
+        "hon_price_max": "57,300",
+        "介面:": "Thunderbolt 3"
+    },
+    {
+        "names": "Orico 6638USJ3",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "介面:": "USB 3.0",
+        "尺寸:": "142mm X 122mm X 80mm",
+        "重量:": "540g"
+    },
+    {
+        "names": "Drobo 8D",
+        "rating": "",
+        "hon_price_min": "12,440",
+        "hon_price_max": "12,800",
+        "介面:": "Thunderbolt 3",
+        "硬碟數量:": "8"
+    },
+    {
+        "names": "Orico 2668U3 2.5吋自帶線硬盤盒",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "129",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Aluminum 4 Bay Series Daisy-Chain Hard Drive Enclosure (Support 16TB HDD) 3549C3",
+        "rating": "10",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,490",
+        "介面:": "USB3.1 Gen2 Type-C",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "AKiTiO NT2 鐵甲威龍 U31C",
+        "rating": "10",
+        "hon_price_min": "950",
+        "hon_price_max": "998",
+        "介面:": "1x USB-C 接頭 ; 支援 USB 3.1 Gen2 (轉接可兼容USB 3.0 & 2.0)",
+        "硬碟數量:": "2",
+        "尺寸:": "18.2cm x 8.1cm x 12.3cm"
+    },
+    {
+        "names": "CLiPtec RZE270 2.5\" SATA HDD Enclosure",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "介面:": "SATA",
+        "硬碟數量:": "1",
+        "尺寸:": "120 x 70 x 11mm"
+    },
+    {
+        "names": "Orico 2.5\" HDD Enclosure 2020U3",
+        "rating": "",
+        "hon_price_min": "66",
+        "hon_price_max": "99",
+        "介面:": "USB3.0 Micro-B",
+        "尺寸:": "130.8 x 78 x 15mm"
+    },
+    {
+        "names": "Orico 2.5 inch 2 Bay Aluminum Alloy USB3.0 Hollow Hard Drive Enclosure DY252U3",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE EV Thunderbolt 3 24TB",
+        "rating": "",
+        "hon_price_min": "16,485",
+        "hon_price_max": "16,485"
+    },
+    {
+        "names": "Promise Pegasus3 R8 64TB",
+        "rating": "",
+        "hon_price_min": "47,000",
+        "hon_price_max": "47,000",
+        "介面:": "2x Thunderbolt 3 技術連接埠 (40Gbps)",
+        "尺寸:": "310 x 187 x 245mm",
+        "重量:": "11000g"
+    },
+    {
+        "names": "Fideco USB 3.0 to SATA轉換器",
+        "rating": "10",
+        "hon_price_min": "139",
+        "hon_price_max": "139",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Aluminum 2.5 inch USB3.0 Hard Drive Enclosure 2667U3",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "149",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek 2.5吋 USB 3.0 硬碟盒 Y-3036",
+        "rating": "",
+        "hon_price_min": "62",
+        "hon_price_max": "95"
+    },
+    {
+        "names": "ICY Dock MB876SK-B",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368"
+    },
+    {
+        "names": "Promise Pegasus3 R4 12TB (4 x 3TB) RAID儲存設備",
+        "rating": "",
+        "hon_price_min": "9,900",
+        "hon_price_max": "10,500",
+        "介面:": "2x Thunderbolt 3 技術連接埠 (40Gbps)",
+        "Raid 支援:": "0、1、5、6、10、JBOD",
+        "尺寸:": "192 x 187 x 245mm"
+    },
+    {
+        "names": "Promise Pegasus R6",
+        "rating": "",
+        "hon_price_min": "12,890",
+        "hon_price_max": "13,280",
+        "介面:": "2 x Thunderbolt technology Ports",
+        "硬碟數量:": "6",
+        "Raid 支援:": "0, 1, 5, 50, 6, 60, 10"
+    },
+    {
+        "names": "Orico 6518SUS3",
+        "rating": "10",
+        "hon_price_min": "188",
+        "hon_price_max": "219",
+        "介面:": "USB 3.0 + eSATA",
+        "尺寸:": "180mm X 120mm X 40mm",
+        "重量:": "372g"
+    },
+    {
+        "names": "Fideco USB 3.0 2.5\"/3.5\" IDE / SATA 三位硬盤座〈支援離線備份〉",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "260",
+        "介面:": "USB3.0",
+        "硬碟數量:": "3 (最多兩隻HDD同時運作)"
+    },
+    {
+        "names": "Fideco S3G-PL02",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "200",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "3"
+    },
+    {
+        "names": "Orico NS400RU3",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,090",
+        "介面:": "USB3.0",
+        "Raid 支援:": "RAID 0，1，3，5，10和Combine",
+        "尺寸:": "136 x 252.3 x 137.5mm"
+    },
+    {
+        "names": "Orico NS400C3",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "990",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "UNITEK S1204B SolidForce USB-C to NVMe/SATA M.2 SSD 10Gbps Enclosure Lite",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "299",
+        "介面:": "USB3.1 Type-C"
+    },
+    {
+        "names": "Orico 2528C3-G2",
+        "rating": "2.0",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "介面:": "USB 3.1 Gen2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL EV Thunderbolt 3 36TB",
+        "rating": "",
+        "介面:": "EV Thunderbolt 3"
+    },
+    {
+        "names": "Unitek Y-1039B",
+        "rating": "",
+        "hon_price_min": "83",
+        "hon_price_max": "105"
+    },
+    {
+        "names": "Orico 6228US3-C",
+        "rating": "6.0",
+        "hon_price_min": "188",
+        "hon_price_max": "299",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "介面:": "USB3.0 Type-B",
+        "硬碟數量:": "2",
+        "尺寸:": "142 x 110 x 57mm"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 Mini Clip-open M.2 M-Key NVME SSD Enclosure (PVM2-C3)",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "290",
+        "介面:": "USB3.1 Gen2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-Speed Shuttle SSD Thunderbolt 3 8TB (HD-GS408ES)",
+        "rating": "",
+        "hon_price_min": "36,480",
+        "hon_price_max": "36,500"
+    },
+    {
+        "names": "UNITEK S1201A M.2 PCIe/ NVMe USB3.1 Gen2 Enclosure",
+        "rating": "",
+        "hon_price_min": "227",
+        "hon_price_max": "268",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2588H3",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Acasis 2.5英吋金屬移動硬盤盒 FA-08US",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "介面:": "USB 3.0",
+        "硬碟尺寸:": "2.5\""
+    },
+    {
+        "names": "Lexar Professional Workflow CFR1 Reader for CompactFlash",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "350"
+    },
+    {
+        "names": "UNITEK Y-1061",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "介面:": "FireWire 400 / USB 2.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AKiTiO 1-bay 3.5\" SATA3 Enclosure (SK-3501 U3.1)",
+        "rating": "",
+        "hon_price_min": "676",
+        "hon_price_max": "676",
+        "介面:": "USB3.1 Gen2 (10Gbps)",
+        "硬碟數量:": "1",
+        "尺寸:": "193 x 114 x 400mm"
+    },
+    {
+        "names": "Blueendless M280T M.2 NVMe USB3.1 Enclosure",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "介面:": "USB3.1 Type-C",
+        "尺寸:": "11 x 43 x 111mm"
+    },
+    {
+        "names": "ICY Dock MB982SP-1S",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228"
+    },
+    {
+        "names": "Fideco SATA x 2 HDD Docking YPZ04-S2H",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Netstor NS160S",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "介面:": "miniSAS (SFF-8087)",
+        "Raid 支援:": "support",
+        "尺寸:": "146(W) x 126(H) x 220(D) mm",
+        "重量:": "1800g"
+    },
+    {
+        "names": "Orico 9558RU3 Aluminum 5 bay 3.5-Inch External Hard Drive Enclosure With RAID (Support 16TB HDD)",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,200",
+        "介面:": "USB 3.0",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10, Large and Normal mode",
+        "尺寸:": "258 x 146 x 196mm"
+    },
+    {
+        "names": "Unitek 硬碟盒 2.5/3.5吋 USB 3.0 外置SATA外接硬碟底座 Y-3035",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "188"
+    },
+    {
+        "names": "Promise Pegasus2 R8 32TB (8 x 4TB) Thunderbolt 2 RAID 系統",
+        "rating": "",
+        "hon_price_min": "22,728",
+        "hon_price_max": "22,782",
+        "尺寸:": "31 x 25 x 18.7cm",
+        "重量:": "11200g"
+    },
+    {
+        "names": "Orico USB3.2 20Gbps M.2 NVMe SSD Enclosure M233C3-G4",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "378",
+        "介面:": "USB3.2 Gen2X2 Type-C 20Gbps",
+        "硬碟數量:": "1",
+        "尺寸:": "116 x 42 x 14mm"
+    },
+    {
+        "names": "Orico Aluminum USB3.1 Gen2 10Gbps M.2 M-Key NVME SSD Enclosure AM2C3-G2",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "228",
+        "介面:": "USB3.1 Gen2 Type-C 10Gbps",
+        "硬碟數量:": "1",
+        "Raid 支援:": "no"
+    },
+    {
+        "names": "Unitek SyncStation Marshmallow 2.5\" USB3.0 to SATA6G 2.5\" Docking Station with UASP Function S1105A",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "267"
+    },
+    {
+        "names": "Orico 6648US3-C",
+        "rating": "",
+        "hon_price_min": "585",
+        "hon_price_max": "660",
+        "介面:": "SATA I,II,III",
+        "硬碟數量:": "4",
+        "尺寸:": "144 x 80.7 x 216.7mm"
+    },
+    {
+        "names": "Orico WS200RU3",
+        "rating": "2.0",
+        "hon_price_min": "630",
+        "hon_price_max": "650",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2",
+        "Raid 支援:": "RAID 0, 1,Combine and Clear modes"
+    },
+    {
+        "names": "Acasis USB-C NVMe M.2 Dual-Bay Offline Cloner 10Gbp for Key M 外置硬碟盒 AC-M03",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "660",
+        "介面:": "USB 3.1 Gen2 Type-C",
+        "尺寸:": "84 x 49 x 16mm",
+        "重量:": "96g"
+    },
+    {
+        "names": "Fideco USB 3.0 3.5\" IDE 及 SATA並用移動硬盤盒",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "250",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2579S3",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "介面:": "SATA3 / USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 8619US3",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "Stardom SR4-TB3-B",
+        "rating": "",
+        "hon_price_min": "7,499",
+        "hon_price_max": "7,499",
+        "介面:": "Thunderbolt 3 Port x 2,Mini DisplayPort x 1",
+        "Raid 支援:": "RAID 0, 1, 5, 10 and JBOD",
+        "尺寸:": "Height: 166 mm   Width: 124 mm    Depth: 248 mm"
+    },
+    {
+        "names": "Orico 1109SS",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "ICY DOCK MB981U3-1SA",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "介面:": "SATA / 1DE",
+        "尺寸:": "150 x 79.7 x 92mm",
+        "重量:": "412g"
+    },
+    {
+        "names": "WAVLINK WS-ST333U",
+        "rating": "",
+        "hon_price_min": "146",
+        "hon_price_max": "188",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AKiTiO SK2520 迷你金牛 U3.1",
+        "rating": "",
+        "hon_price_min": "635",
+        "hon_price_max": "960",
+        "硬碟尺寸:": "2.5 x 2\"",
+        "重量:": "155 x 152 x 22mmg"
+    },
+    {
+        "names": "Orico 20UTS",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "109",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2012SUS3-C",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "介面:": "USB 3.0 + ESATA",
+        "尺寸:": "97*83*25mm",
+        "重量:": "130g"
+    },
+    {
+        "names": "Orico 6818US3",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "介面:": "首款真SATA3.0轉USB3.0橋接芯片"
+    },
+    {
+        "names": "Fideco M.2 (NGFF) SSD 30mm 42mm 60mm  to USB 3.0 Enclosure",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "170",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico WS200RC3",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "730",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "2",
+        "Raid 支援:": "RAID 0, 1,Combine and Clear modes"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE Thunderbolt 3 32TB",
+        "rating": ""
+    },
+    {
+        "names": "Orico 3.5 inch Dual Bay Aluminum Alloy Type-C Hollow Hard Drive Enclosure DY352C3",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico WS400RU3",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,110",
+        "介面:": "USB3.0",
+        "硬碟數量:": "4",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10 Combine, and other modes"
+    },
+    {
+        "names": "Orico Enterprise Series Aluminum 2 bay External Hard Drive Enclosure (Support 16TB HDD) 3529U3",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "590",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico NVME M.2 SSD 硬盤盒 PRM2-C3",
+        "rating": "10",
+        "hon_price_min": "188",
+        "hon_price_max": "258",
+        "介面:": "USB3.1 Gen2 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "103.5 x 33 x 10mm"
+    },
+    {
+        "names": "Transcend StoreJet 25S3 2.5\" USB 3.0 ext. HDD Case",
+        "rating": "6.0",
+        "hon_price_min": "115",
+        "hon_price_max": "129",
+        "介面:": "Sata",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Promise Pegasus R4",
+        "rating": "",
+        "hon_price_min": "8,470",
+        "hon_price_max": "8,588",
+        "介面:": "2 x Thunderbolt technology Ports",
+        "硬碟數量:": "4",
+        "Raid 支援:": "0, 1, 5, 50, 6, 60, 10"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 32TB",
+        "rating": "",
+        "hon_price_min": "30,600",
+        "hon_price_max": "30,600",
+        "介面:": "Thunderbolt 3"
+    },
+    {
+        "names": "Orico WS200U3",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico USB 3.1 Gen.2 Transparent 2.5吋 Type-C Alloy Hard Drive Enclosure with Stand 2159C3-G2",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "159",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 3569S3",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "148",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Newertech Voyager S3 SATA3 USB3.0 Docking",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "280",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "134.11 x 93.98 x 68.07mm"
+    },
+    {
+        "names": "Akasa AK-IC20U3-BK Noir S 3.5\" SATA to USB3.0 Enclosure",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "介面:": "USB 3.0",
+        "尺寸:": "215 x 120 x 31mm"
+    },
+    {
+        "names": "AKiTiO mBack",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "70"
+    },
+    {
+        "names": "ICY Dock MB973SP-2B",
+        "rating": "",
+        "hon_price_min": "988",
+        "hon_price_max": "988"
+    },
+    {
+        "names": "Orico 3.5 inch 4 Bay Aluminum Alloy Type-C Hard Drive Enclosure with Raid and Silicone Cover RS400RC3",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,060",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "Orico Triple Protection 2.5 Hard Drive Enclosure FDE encryption With Hook 2719U3-GM",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AKiTiO Thunder3 Quad Mini",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,580",
+        "water_price_min": "2,490",
+        "water_price_max": "2,490",
+        "介面:": "Thunderbolt3, Display Port",
+        "硬碟數量:": "2",
+        "Raid 支援:": "0,1,5,6,10"
+    },
+    {
+        "names": "Promise Pegasus3 R8 48TB (8 x 6TB) RAID 儲存設備",
+        "rating": "",
+        "hon_price_min": "34,990",
+        "hon_price_max": "35,000",
+        "介面:": "2x Thunderbolt 3 technology ports (40Gbps)",
+        "Raid 支援:": "0, 1, 5, 6, 10, 50, 60 JBOD",
+        "尺寸:": "310 x 187 x 245mm"
+    },
+    {
+        "names": "ICY Dock MB082SP",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88"
+    },
+    {
+        "names": "Orico 2189U3",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "80",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico NS100-C3",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "134 x 216 x 58mm"
+    },
+    {
+        "names": "Orico WS400RC3",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "4",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10 Combine, and other modes"
+    },
+    {
+        "names": "OWC OWCMAU3ENPRPCI",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "10 x 53 x 114mm"
+    },
+    {
+        "names": "Orico 2189C3",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "98",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Fideco YPZ09-U3",
+        "rating": "8.0",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico RGB M.2 NVMe SSD Enclosure M2VG01-C3",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "278",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AODUKE M.2 SATA USB3.1 Adapter DM201SUA",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "介面:": "USB3.1 Type-A",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 6218US3",
+        "rating": "10",
+        "hon_price_min": "119",
+        "hon_price_max": "199",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico DS500U3",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "799",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Fideco USB 3.0 IDE SATA 多合一轉接器",
+        "rating": "10",
+        "hon_price_min": "205",
+        "hon_price_max": "208",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Promise Pegasus3 R6 24TB (6 x 4TB) RAID儲存設備",
+        "rating": "",
+        "hon_price_min": "17,790",
+        "hon_price_max": "18,800",
+        "介面:": "2x Thunderbolt 3 技術連接埠 (40Gbps)",
+        "尺寸:": "251 x 187 x 245mm",
+        "重量:": "9100g"
+    },
+    {
+        "names": "Akasa AK-IC19U3-BK NoirS 2.5\" SATA Enclosure",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Fideco USB 3.0 2.5\" External HDD Case",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "90",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "AKiTiO NT2 鐵甲武士 U3.1 (NT2 U3.1)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "890",
+        "介面:": "USB3.1 Gen 2",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Unitek Y-3365 USB3.0 M.2 SSD (NGFF/SATA) Aluminium Enclosure",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "130",
+        "介面:": "M.2 SSD (NGFF/SATA)",
+        "硬碟尺寸:": "M.2 SSD (30mm / 42mm / 60mm / 80mm)."
+    },
+    {
+        "names": "Orico 6628SUSC",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "介面:": "USB 2.0 + eSATA + CLONE",
+        "硬碟數量:": "2",
+        "尺寸:": "142 * 122 * 80 mm"
+    },
+    {
+        "names": "Orico 10Gbps 2.5/3.5 inch Hard Drive Docking Station 6619C3-G2",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "208",
+        "介面:": "USB 3.1 Type-C GEN 2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "SanDisk Professional G-RAID SHUTTLE SSD 16TB (SDPS24H-016T)",
+        "rating": "",
+        "water_price_min": "46,740",
+        "water_price_max": "46,740",
+        "介面:": "USB 3.2 Gen 2, Thunderbolt 3",
+        "Raid 支援:": "0, 1, 5, 10, 50"
+    },
+    {
+        "names": "SILICON POWER M.2 PCIe NVMe SSD / M.2 SATA SSD Enclosure PD60",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "介面:": "USB 3.2 Gen 2",
+        "尺寸:": "102.2 x 28.1 x 12.6mm",
+        "重量:": "38g"
+    },
+    {
+        "names": "Orico NS200U3",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2",
+        "尺寸:": "134 x 224 x 71mm"
+    },
+    {
+        "names": "Orico 9558U3",
+        "rating": "7.3",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,090",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE Thunderbolt 3 16TB",
+        "rating": "",
+        "hon_price_min": "11,875",
+        "hon_price_max": "11,875"
+    },
+    {
+        "names": "Orico NS500RU3",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,390",
+        "硬碟尺寸:": "3.5\" SATA",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10 Combine, and other modes"
+    },
+    {
+        "names": "G-Technology G-DOCK ev Solo",
+        "rating": "",
+        "water_price_min": "530",
+        "water_price_max": "530",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "First Champion M.2 PCIe SSD to USB-C Enclosure 固態硬碟外接盒 (USB 3.1 Gen 2 Type-C) FC-SSDE-NV01",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "299",
+        "介面:": "USB 3.1 Gen2 Type-C",
+        "重量:": "41g"
+    },
+    {
+        "names": "AirDisk 3.5\" 智能雲端硬盤盒 Q3C",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "介面:": "USB 3.0 , RJ45 PORT",
+        "尺寸:": "176 x124 x46.5 mm",
+        "重量:": "700g"
+    },
+    {
+        "names": "Promise Pegasus2 R4 12TB (4 x 3TB) Thunderbolt 2 RAID 系統",
+        "rating": "",
+        "hon_price_min": "9,400",
+        "hon_price_max": "9,410",
+        "Raid 支援:": "0、1、5、6、10",
+        "尺寸:": "19.2 x 25 x 18.7cm"
+    },
+    {
+        "names": "AKiTiO Thunder2 Quad mini",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,200",
+        "硬碟尺寸:": "2.5\" SATA-I~III 硬碟",
+        "尺寸:": "19.1 x 9.6 x 11.5cm"
+    },
+    {
+        "names": "Orico Backuper Backup for Phone Support 2.5\" HDD/SSD Capacity One-touch Backup/Delete BA2110",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "249",
+        "硬碟尺寸:": "2.5\"",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 6619SUS3",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "Orico 6139C3",
+        "rating": "10",
+        "hon_price_min": "156",
+        "hon_price_max": "249",
+        "介面:": "USB3.1 / Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek Y-3363 USB3.1 to SATA6G 2.5\" Hard Disk Enclosure",
+        "rating": "",
+        "hon_price_min": "153",
+        "hon_price_max": "169"
+    },
+    {
+        "names": "Orico NS200RU3",
+        "rating": "",
+        "hon_price_min": "708",
+        "hon_price_max": "708",
+        "介面:": "USB3.0",
+        "硬碟數量:": "2",
+        "Raid 支援:": "RAID 0、RAID 1、Combine、CLEAR"
+    },
+    {
+        "names": "G-Technology G-RAID with Thunderbolt 3 36TB",
+        "rating": "",
+        "hon_price_min": "12,560",
+        "hon_price_max": "12,560",
+        "介面:": "Thunderbolt3 / USB-C / HDMI"
+    },
+    {
+        "names": "Orico Type-C USB3.1 Gen 2 (10Gbps) 3.5 inch Hard Drive Enclosure with Holder 3159C3-G2-CR",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "269",
+        "介面:": "USB 3.1 Type-C Gen 2",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "ICY Dock MB882SP-1S-1B",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148"
+    },
+    {
+        "names": "Aerotek USB 3.0 to 16+12 Pin Mobile Box HDD Enclosure U3-009",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "介面:": "Micro USB3.0",
+        "硬碟數量:": "0",
+        "重量:": "74g"
+    },
+    {
+        "names": "Orico Enterprise Series 2 Bay External Hard Drive Enclosure With RAID (Support 16TB HDD) 3529RU3",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "700",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2",
+        "Raid 支援:": "RAID 0 , RAID 1 , SPAN , PM"
+    },
+    {
+        "names": "Fideco USB 3.0 2.5\" / 3.5\" SATA 雙硬盤底座",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "219",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "Orico NS500U3",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "990",
+        "介面:": "USB3.0",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "Orico WS500RC3",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "5",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10 Combine, and other modes"
+    },
+    {
+        "names": "Promise VTrak x30 Series 32TB (16x 2TB SAS) 3U 擴充機架",
+        "rating": "",
+        "hon_price_min": "89,998",
+        "hon_price_max": "89,998"
+    },
+    {
+        "names": "Orico 3.5 inch Transparent USB3.0 External Hard Drive Enclosure 3139U3",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "199",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "178 x 125 x 30mm"
+    },
+    {
+        "names": "Synology DiskStation DS1618+",
+        "rating": "",
+        "hon_price_min": "5,225",
+        "hon_price_max": "5,870"
+    },
+    {
+        "names": "TerraMaster 2-bay TD2 Thunderbolt 3",
+        "rating": "",
+        "hon_price_min": "1,929",
+        "hon_price_max": "1,929",
+        "介面:": "40Gb Thunderbolt 3 x 2,",
+        "Raid 支援:": "SINGLE DISK,JBOD,RAID 0,RAID 1",
+        "尺寸:": "227 x 119 x 173mm",
+        "重量:": "1400g"
+    },
+    {
+        "names": "Western Digital My Book Duo 6T",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,080",
+        "介面:": "USB 3.0",
+        "尺寸:": "180 x 100 x 160mm"
+    },
+    {
+        "names": "Fideco M.2 SSD NVME Enclosure USB3.1",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek Y-1072",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "190",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 2 80TB",
+        "rating": "",
+        "hon_price_min": "51,810",
+        "hon_price_max": "51,810",
+        "介面:": "Thunderbolt 2"
+    },
+    {
+        "names": "TerraMaster 5-bay D5 Thunderbolt 3",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "介面:": "40Gb Thunderbolt 3 x 2,",
+        "Raid 支援:": "SINGLE DISK,JBOD,RAID 0,RAID 1,RAID5,RAID10",
+        "尺寸:": "227 x 225 x 176mm",
+        "重量:": "2300g"
+    },
+    {
+        "names": "ICY DOCK MB973SP-1B",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "介面:": "SATA",
+        "尺寸:": "146 x 85 x 210 mm",
+        "重量:": "832g"
+    },
+    {
+        "names": "Areca ARC-8050T3-8",
+        "rating": "",
+        "hon_price_min": "13,000",
+        "hon_price_max": "13,000",
+        "介面:": "8 x 12Gb/s SAS",
+        "Raid 支援:": "12G SAS dual-core controller  @ 1.2 GHz"
+    },
+    {
+        "names": "Orico 9558RU3 USB 3.0 5-bay RAID HDD Enclosure (Supports Up to 4TB Drives Each) [2014 Version]",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "介面:": "USB 3.0",
+        "Raid 支援:": "0/1/3/5/10/Combine/Clear",
+        "尺寸:": "146 x 230 x 211mm",
+        "重量:": "2929gg"
+    },
+    {
+        "names": "Fideco U3-009",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "介面:": "USB3.0 M.2 SSD NGFF"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL EV Thunderbolt 2 18TB",
+        "rating": "",
+        "hon_price_min": "21,600",
+        "hon_price_max": "21,600",
+        "介面:": "Thunderbolt 2"
+    },
+    {
+        "names": "Aerotek eSATA / USB to Dual 2.5\" 3.5\" SATA HDD Docking Station with Card Reader & USB Hubs AE-2040",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "eSATA, USB",
+        "硬碟數量:": "2"
+    },
+    {
+        "names": "ICY Dock MB971SP-B",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488"
+    },
+    {
+        "names": "SilverStone ECM25 M.2 擴充卡",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "120",
+        "介面:": "PCI Express x 4",
+        "尺寸:": "32 x 6 x 100mm",
+        "重量:": "11.5g"
+    },
+    {
+        "names": "Orico 9548U3",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "990",
+        "介面:": "USB3.0",
+        "硬碟數量:": "4個 最多可擴高達16TB超大容量"
+    },
+    {
+        "names": "Fideco M.2 SSD NGFF/SATA Enclosure USB 3.1, Gen 2, 10Gbps",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "介面:": "USB 3.1, TYPE C",
+        "硬碟數量:": "1",
+        "尺寸:": "30mm / 42mm / 60mm / 80mm"
+    },
+    {
+        "names": "Fideco YPZ08B-S3",
+        "rating": "8.0",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "3"
+    },
+    {
+        "names": "Orico USB3.1 Gen2接口NVME M.2高速硬碟盒 PFM2-C3",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "270",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "1",
+        "尺寸:": "102.4 x 31 x 9.2mm"
+    },
+    {
+        "names": "Orico Blue Silica Gel 2.5 inch Triple-Protection HDD Enclosure 2739U3",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "介面:": "USB3.0 Type-A",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Promise Pegasus3 R4 Mac Edition 16TB (4 x 4TB) RAID儲存設備",
+        "rating": "",
+        "hon_price_min": "16,500",
+        "hon_price_max": "16,500",
+        "介面:": "2x Thunderbolt 3 技術連接埠 (40Gbps)",
+        "尺寸:": "192 x 187 x 245mm"
+    },
+    {
+        "names": "Orico 2569S3",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "介面:": "SATA3, USB 3.0"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 80TB",
+        "rating": "",
+        "hon_price_min": "62,578",
+        "hon_price_max": "62,578",
+        "介面:": "Thunderbolt 3"
+    },
+    {
+        "names": "KMD 2.5″ SATA 6G 轉 Type C  HDD / SSD 金屬外罝硬碟盒",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "介面:": "Type-C to A",
+        "尺寸:": "125 x 78 x 15mm",
+        "重量:": "104g"
+    },
+    {
+        "names": "Orico 2.5 inch USB 3.0 External Hard Drive Enclosure 2520U3",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "99",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico Transparent Series Dual-Bay 2.5\" Hard Drive Enclosure with RAID 2259RU3",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "250",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "2",
+        "Raid 支援:": "RAID 0, 1, PM, SPAN"
+    },
+    {
+        "names": "Promise VTrak x30 Series 32TB (16x 2TB SAS) 3U RAID 子系統",
+        "rating": "",
+        "hon_price_min": "119,998",
+        "hon_price_max": "119,998",
+        "Raid 支援:": "0、1、1E、5、6、10、50、60"
+    },
+    {
+        "names": "Orico 2.5 inch 4 Bay Aluminum Alloy Hollow Type-C Hard Drive Enclosure DY254C3",
+        "rating": "",
+        "hon_price_min": "605",
+        "hon_price_max": "605",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "Aerotek USB 3.0 to 12+6pin SSD m.2 NGFF HDD Hard Disk Drive",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "USB3.0",
+        "硬碟數量:": "0",
+        "重量:": "59g"
+    },
+    {
+        "names": "Unitek Y-1065",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "介面:": "USB 2.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Magic-Pro MP-F22",
+        "rating": "",
+        "hon_price_min": "87",
+        "hon_price_max": "87",
+        "介面:": "USB 3.0",
+        "Raid 支援:": "主控晶片是VIA的VL700",
+        "尺寸:": "USB Attached SCSI Protocol"
+    },
+    {
+        "names": "Unitek Y-3602",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "介面:": "USB 3.0 + eSATA",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico M.2 NVMe to Thunderbolt 3 Case TCM2T3-G40",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "939",
+        "介面:": "Thunderbolt 3",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek Y-1039C",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED Shuttle XL Protective Case IM2500 GSPSXCIM2500EVAW",
+        "rating": "",
+        "尺寸:": "55.1 x 35.8 x 22.6 cm",
+        "重量:": "6.2kg (with foam) / 5kg (w/o foam)g"
+    },
+    {
+        "names": "Orico 2.5 inch Transparent USB3.0 Hard Drive Enclosure with Stand 2159U3",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "129",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 144TB (HD-GS8144E)",
+        "rating": "",
+        "hon_price_min": "78,500",
+        "hon_price_max": "78,500"
+    },
+    {
+        "names": "Fideco M.2 (NGFF) 42 mm SSD to USB 3.0 Enclosure",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "180",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL EV Thunderbolt 3 60TB",
+        "rating": "",
+        "hon_price_min": "50,848",
+        "hon_price_max": "50,848",
+        "介面:": "EV Thunderbolt 3"
+    },
+    {
+        "names": "Western Digital My Book Duo 4T",
+        "rating": "",
+        "hon_price_min": "1,818",
+        "hon_price_max": "1,818",
+        "介面:": "USB 3.0",
+        "尺寸:": "180 x 100 x 160mm"
+    },
+    {
+        "names": "Orico 移動硬碟盒 M2TS",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "尺寸:": "70 x 100 x 7 mm"
+    },
+    {
+        "names": "Zalman ZM-VE350",
+        "rating": "8.0",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "介面:": "USB 3.0; SATA 1 2 3",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Box2s HD-848D-U3",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "硬碟尺寸:": "2.5\" or 3.5\" SATA",
+        "尺寸:": "120(L) x 145(W) x 75(H)mm"
+    },
+    {
+        "names": "SilverStone MS09-MINI M.2 SATA Ext. SSD w/USB3.1 Gen2",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "介面:": "USB 3.1",
+        "尺寸:": "71 x 9 x 26mm",
+        "重量:": "22g"
+    },
+    {
+        "names": "Acasis 磁盤陣列 USB3.0 雙硬盤盒",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140"
+    },
+    {
+        "names": "Orico 6648USJ3",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "Unitek Y-3257",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "87",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "G-Technology G-SPEED Shuttle XL Protective Case IM2500 GSPSXCIM2500SAW",
+        "rating": "",
+        "尺寸:": "55.1 x 35.8 x 22.6 cm",
+        "重量:": "6.2kg (with foam) / 5kg (w/o foam)g"
+    },
+    {
+        "names": "Hagibis USB-C 集線器帶硬盤盒 MC25 Pro",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,020",
+        "介面:": "Type-C"
+    },
+    {
+        "names": "Orico 3.5/2.5inch 2 Bay Transparent USB3.0 Hard Drive Dock with Offline Clone Function 6239U3-C",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "279",
+        "介面:": "USB 3.0 Type-B",
+        "尺寸:": "148 x 113.8 x 60mm"
+    },
+    {
+        "names": "AODUKE M.2 PCI-E NVMe USB3.1 Adapter DM201PUA",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "介面:": "USB3.1 Type-A",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 2598US",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "175",
+        "介面:": "USB 2.0",
+        "尺寸:": "132 x 90 x 19mm",
+        "重量:": "190g"
+    },
+    {
+        "names": "Unitek Y-1092",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "228",
+        "介面:": "SATA6G + USB Port + SD Card Reader"
+    },
+    {
+        "names": "SilverStone USB 3.1 Type-C NVMe M.2固態硬碟外接盒 SST-MS11",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "420",
+        "介面:": "USB3.1 Type-C",
+        "尺寸:": "107 x 10.9 x 32.4mm",
+        "重量:": "53g"
+    },
+    {
+        "names": "Netstor NS765S",
+        "rating": "",
+        "hon_price_min": "9,950",
+        "hon_price_max": "9,950",
+        "介面:": "SAS",
+        "Raid 支援:": "depend on raid card",
+        "尺寸:": "23.15cm x 15.68cm x 31.0cm"
+    },
+    {
+        "names": "ZOMY 移動硬盤盒 HD6017",
+        "rating": "",
+        "尺寸:": "116 x 41 x 8.8 mm"
+    },
+    {
+        "names": "Orico 3549SUSJ3",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "介面:": "USB 3.0 + eSATA",
+        "尺寸:": "266mm X 155mm X 176mm",
+        "重量:": "2400g"
+    },
+    {
+        "names": "Orico WS400U3",
+        "rating": "",
+        "hon_price_min": "785",
+        "hon_price_max": "800",
+        "介面:": "USB3.0",
+        "硬碟數量:": "4"
+    },
+    {
+        "names": "Fideco USB2.0 IDE / SATA 雙硬盤座連讀卡器",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "190",
+        "介面:": "USB2.0 及 e-SATA",
+        "尺寸:": "180 mm x 110 mm x 90 mm",
+        "重量:": "269g"
+    },
+    {
+        "names": "Orico NVMe M.2 SSD Enclosure USB3.1 Gen2 (10Gbps) PBM2-C3",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "270",
+        "介面:": "USB 3.1 Gen2 Type-C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek Y-3366 USB3.1 to SATA6G 2.5''/3.5” Hard Disk Enclosure",
+        "rating": "",
+        "hon_price_min": "227",
+        "hon_price_max": "227"
+    },
+    {
+        "names": "Orico Aluminum Alloy M.2 to Micro B High-speed SSD Enclosure M2G-U3",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "介面:": "USB3.0 Micro B",
+        "硬碟數量:": "1",
+        "尺寸:": "103 x 44 x 11mm"
+    },
+    {
+        "names": "AKiTiO Thunder 2 Quad",
+        "rating": "8.0",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,890"
+    },
+    {
+        "names": "Orico Aluminum 5 bay 3.5-Inch External Hard Drive Enclosure 9558U3",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,100",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "5",
+        "尺寸:": "258 x 146 x 196mm"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE Thunderbolt 3 40TB (HD-GS4040E)",
+        "rating": ""
+    },
+    {
+        "names": "Fideco USB 3.0 2.5\" / 3.5\" IDE SATA 硬盤連接器",
+        "rating": "8.0",
+        "hon_price_min": "165",
+        "hon_price_max": "169",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "3"
+    },
+    {
+        "names": "Orico 3.5吋Type-C全柵格硬盤盒 3169U3",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "188",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1",
+        "尺寸:": "195 x 119 x 29mm"
+    },
+    {
+        "names": "Kingston SNA-DC2/35 SATA Drive Carrier & Screws",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "180",
+        "硬碟尺寸:": "2.5\" to 3.5\""
+    },
+    {
+        "names": "Orico 2598S3",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "介面:": "SATA3 + USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico 3.5\"硬盤盒底座 3159U3-CR",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "199",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Fideco SA-161",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "介面:": "USB3.0 M.2 SSD NGFF",
+        "硬碟數量:": "１",
+        "尺寸:": "M.2 NGFF"
+    },
+    {
+        "names": "Orico NS500RC3",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,590",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "5",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10 Combine, and other modes"
+    },
+    {
+        "names": "Orico 1106SS",
+        "rating": "4.0",
+        "hon_price_min": "93",
+        "hon_price_max": "108"
+    },
+    {
+        "names": "Orico Aluminum Alloy M.2 to Micro B High-speed SSD Enclosure M2D-U3",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Unitek Y-3603",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "介面:": "USB3.0 + 1394B",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Blueendless DB280C Dual M.2 SATA USB3.1 Enclosure 外置硬碟盒",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "2",
+        "Raid 支援:": "JBOD / Raid 0 / Raid 1"
+    },
+    {
+        "names": "Ugreen 2.5\" External USB 3.0 Drive Enclosure 移動硬盤盒",
+        "rating": "",
+        "介面:": "USB 3.0",
+        "尺寸:": "128 x 14 x 82mm"
+    },
+    {
+        "names": "AKiTiO Thunder3 PCIe SSD Box",
+        "rating": "",
+        "hon_price_min": "9,000",
+        "hon_price_max": "10,800",
+        "硬碟尺寸:": "1.2TB PCIe SSD",
+        "尺寸:": "23.3 x 15.2 x 7.6mm"
+    },
+    {
+        "names": "AKiTiO Thunder2 Dock",
+        "rating": "",
+        "hon_price_min": "2,008",
+        "hon_price_max": "2,269",
+        "water_price_min": "2,150",
+        "water_price_max": "2,150",
+        "介面:": "2 x Thunderbolt2 極速接頭 2 x eSATA 主機端連接埠 2 x USB 3.0 主機端連接埠 1 x 1394B 主機端連接埠"
+    },
+    {
+        "names": "Orico 2538c3",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "硬碟尺寸:": "2.5",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "ICY Dock MB991SK-B",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238"
+    },
+    {
+        "names": "Zalman ZM-SHE 350",
+        "rating": "8.0",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "介面:": "USB 3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Century CRCH35U3IS2",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "1,900",
+        "介面:": "USB3.0",
+        "尺寸:": "260mm(D) x 130mm(W) x 185mm(H)",
+        "重量:": "3200（不含硬盘)g"
+    },
+    {
+        "names": "Orico 7618SUS",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "介面:": "USB2.0 + eSATA",
+        "硬碟數量:": "1",
+        "尺寸:": "200*43*139mm"
+    },
+    {
+        "names": "Ugreen Type-C 3.1可換線移動硬盤盒",
+        "rating": "",
+        "尺寸:": "128 x 14 x 82mm"
+    },
+    {
+        "names": "ZOMY SSD 固態硬盤盒 HD6102",
+        "rating": "",
+        "介面:": "USB 3.1 Type-C",
+        "尺寸:": "103.4 x 48.4 x 10.6mm"
+    },
+    {
+        "names": "Acasis USB3.0 SSD Enclosure for Apple MAC SSD AC-MAC3E",
+        "rating": "",
+        "介面:": "USB3.1 Type-C",
+        "尺寸:": "108 x 38 x 18mm",
+        "重量:": "62g"
+    },
+    {
+        "names": "Orico 25AU3",
+        "rating": "6.0",
+        "hon_price_min": "160",
+        "hon_price_max": "160"
+    },
+    {
+        "names": "Aerotek M.2 NGFF/SATA SSD USB 3.0/3.1 Aluminum Case",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "介面:": "USB3.0 USB3.1 SSD  SATA",
+        "硬碟數量:": "0",
+        "重量:": "59g"
+    },
+    {
+        "names": "Orico 7518US3",
+        "rating": "10",
+        "hon_price_min": "166",
+        "hon_price_max": "166",
+        "介面:": "USB3.0",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Promise Pegasus3 R8 80TB",
+        "rating": "",
+        "hon_price_min": "59,600",
+        "hon_price_max": "59,600",
+        "介面:": "2x Thunderbolt 3 技術連接埠 (40Gbps)",
+        "尺寸:": "310 x 187 x 245mm",
+        "重量:": "11000g"
+    },
+    {
+        "names": "Fideco M203CB - M.2 SSD NVME Enclosure USB 3.1",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "介面:": "USB 3.1 Type C",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico NS400RC3",
+        "rating": "",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "4",
+        "Raid 支援:": "RAID 0, 1, 3, 5, 10 Combine, and other modes"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 112TB (HD-GS8112E)",
+        "rating": ""
+    },
+    {
+        "names": "iSWAP 1000",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "介面:": "SATA",
+        "硬碟數量:": "1"
+    },
+    {
+        "names": "Orico WS500C3",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,020",
+        "介面:": "USB 3.1 Type-C",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "Orico 9558RUS3",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "介面:": "USB 3.0 + eSATA",
+        "Raid 支援:": "0/1/3/5/10/Combine/Clear",
+        "尺寸:": "146mm X 230mm X 211mm",
+        "重量:": "2929g"
+    },
+    {
+        "names": "Promise Pegasus3 R8 32TB",
+        "rating": "",
+        "hon_price_min": "31,000",
+        "hon_price_max": "31,000",
+        "介面:": "2x Thunderbolt 3 技術連接埠 (40Gbps)",
+        "尺寸:": "310 x 187 x 245mm",
+        "重量:": "11000g"
+    },
+    {
+        "names": "ICY Dock MB990SP-B",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78"
+    },
+    {
+        "names": "Akasa AK-HDA-05",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "Orico NS500C3",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,120",
+        "介面:": "USB3.1 Type-C",
+        "硬碟數量:": "5"
+    },
+    {
+        "names": "Stardom ST2-B3",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "960",
+        "介面:": "USB 3.0 Port ( up to 5 Gbps )",
+        "尺寸:": "120 mm x 64 mm x 200 mm",
+        "重量:": "1200g"
+    },
+    {
+        "names": "Stardom SR2-SB3+",
+        "rating": "",
+        "介面:": "USB 3.0 + e-SATA",
+        "Raid 支援:": "0/1",
+        "尺寸:": "122 x 102 x 205mm",
+        "重量:": "2750g"
+    },
+    {
+        "names": "Netstor NA762TB",
+        "rating": "",
+        "hon_price_min": "13,900",
+        "hon_price_max": "13,900",
+        "介面:": "Thunderbolt 2",
+        "Raid 支援:": "RAID 0, 1, 10, 5, 6, 50, 60, Single Disk or JBOD",
+        "尺寸:": "231(D) x 156(W) x 365(H) mm",
+        "重量:": "8kgg"
+    },
+    {
+        "names": "SilverStone 可伸縮式M.2隨身硬碟外接盒 MS09",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "275"
+    },
+    {
+        "names": "G-Technology G-SPEED SHUTTLE XL Thunderbolt 3 48TB",
+        "rating": "",
+        "hon_price_min": "33,755",
+        "hon_price_max": "33,755",
+        "介面:": "Thunderbolt 3"
+    }
+]

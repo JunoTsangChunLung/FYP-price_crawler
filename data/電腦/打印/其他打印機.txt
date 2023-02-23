@@ -1,0 +1,3463 @@
+[
+    {
+        "names": "Canon SELPHY CP1500 便攜式打印機",
+        "rating": "9.8",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,380",
+        "water_price_min": "990",
+        "water_price_max": "1,150",
+        "類型:": "相片打印機",
+        "尺寸:": "182.2 x 133  x 57.6mm",
+        "重量:": "850g"
+    },
+    {
+        "names": "DAJA 小型便攜式激光雕刻機 DJ6",
+        "rating": "10",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,680",
+        "water_price_min": "1,310",
+        "water_price_max": "1,310",
+        "類型:": "激光雕刻機"
+    },
+    {
+        "names": "Fujifilm Instax Square Link 手機相片打印機",
+        "rating": "10",
+        "hon_price_min": "940",
+        "hon_price_max": "1,198",
+        "water_price_min": "980",
+        "water_price_max": "1,020",
+        "類型:": "手機相片打印機",
+        "重量:": "236g (不包括底片盒)"
+    },
+    {
+        "names": "Fujifilm instax mini Link Smartphone Printer",
+        "rating": "9.5",
+        "hon_price_min": "780",
+        "hon_price_max": "990",
+        "water_price_min": "720",
+        "water_price_max": "890",
+        "類型:": "手機相片打印機",
+        "重量:": "209g"
+    },
+    {
+        "names": "Fujifilm Instax Mini Link 2 Smartphone Printer",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,380",
+        "water_price_min": "799",
+        "water_price_max": "920",
+        "類型:": "手機相片打印機",
+        "重量:": "210g"
+    },
+    {
+        "names": "Fujifilm Instax Link Wide 寬幅相片打印機",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,300",
+        "water_price_min": "979",
+        "water_price_max": "1,190",
+        "類型:": "手機相片打印機",
+        "尺寸:": "139 x 127.5 x 33.7mm",
+        "重量:": "340g"
+    },
+    {
+        "names": "Brother PTP300BT",
+        "rating": "8.8",
+        "hon_price_min": "467",
+        "hon_price_max": "598",
+        "類型:": "標籤機",
+        "重量:": "380g"
+    },
+    {
+        "names": "Canon SELPHY CP1300",
+        "rating": "7.2",
+        "hon_price_min": "880",
+        "hon_price_max": "1,298",
+        "water_price_min": "748",
+        "water_price_max": "1,138",
+        "類型:": "相片打印機"
+    },
+    {
+        "names": "Brother PTD200HK",
+        "rating": "10",
+        "hon_price_min": "237",
+        "hon_price_max": "298",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "類型:": "標籤機",
+        "重量:": "490g"
+    },
+    {
+        "names": "Fujifilm Instax Mini Link 2 Print Kit 打印機套裝",
+        "rating": "10",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "water_price_min": "899",
+        "water_price_max": "899",
+        "類型:": "手機相片打印機"
+    },
+    {
+        "names": "Godex 桌上型智慧條碼打印機 RT863i",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "類型:": "條碼打印機",
+        "介面:": "USB and Ethernet"
+    },
+    {
+        "names": "Brother PTP710BT",
+        "rating": "10",
+        "hon_price_min": "915",
+        "hon_price_max": "1,098",
+        "類型:": "標籤機",
+        "尺寸:": "128 x 67 x 128mm",
+        "重量:": "670g"
+    },
+    {
+        "names": "Brother P-Touch Cube Pro 智能手機專用標籤機 PTP910BT",
+        "rating": "",
+        "hon_price_min": "2,879",
+        "hon_price_max": "3,288",
+        "類型:": "標籤打印機",
+        "尺寸:": "138 x 94 x 138mm",
+        "重量:": "1.06kg"
+    },
+    {
+        "names": "LaserPecker 2 鐳射雕刻機",
+        "rating": "",
+        "hon_price_min": "6,588",
+        "hon_price_max": "7,988",
+        "water_price_min": "5,980",
+        "water_price_max": "6,988",
+        "類型:": "鐳射雕刻機"
+    },
+    {
+        "names": "Xiaomi 小米 口袋照片打印機",
+        "rating": "10",
+        "hon_price_min": "395",
+        "hon_price_max": "469",
+        "water_price_min": "370",
+        "water_price_max": "418",
+        "類型:": "手機相片打印機",
+        "重量:": "181g"
+    },
+    {
+        "names": "LaserPecker 2 鐳射雕刻機",
+        "rating": "",
+        "hon_price_min": "6,588",
+        "hon_price_max": "7,988",
+        "water_price_min": "5,980",
+        "water_price_max": "6,988",
+        "類型:": "鐳射雕刻機"
+    },
+    {
+        "names": "Xiaomi 小米 口袋照片打印機",
+        "rating": "10",
+        "hon_price_min": "395",
+        "hon_price_max": "469",
+        "water_price_min": "370",
+        "water_price_max": "418",
+        "類型:": "手機相片打印機",
+        "重量:": "181g"
+    },
+    {
+        "names": "MEGIVO Pocket Mini Label Printer 迷你多功能貼紙打印機",
+        "rating": "9.0",
+        "hon_price_min": "359",
+        "hon_price_max": "399",
+        "類型:": "標籤打印機",
+        "尺寸:": "80 x 80mm"
+    },
+    {
+        "names": "Laser Pecker 2 配件 - (第三軸組件) 輔助助推器",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000"
+    },
+    {
+        "names": "Xprinter 熱敏票據打印機 XP-N160II",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "類型:": "標籤打印機",
+        "尺寸:": "190 x 140 x 131mm",
+        "重量:": "1.03kg"
+    },
+    {
+        "names": "Laser Pecker L2 Pro 2合1激光雕刻機和切割機",
+        "rating": "",
+        "hon_price_min": "8,998",
+        "hon_price_max": "9,998",
+        "water_price_min": "6,980",
+        "water_price_max": "6,980",
+        "類型:": "鐳射雕刻機"
+    },
+    {
+        "names": "Maikesub 8合1 多功能熱壓印刷機 38 x 38英吋",
+        "rating": "",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180"
+    },
+    {
+        "names": "Epson  LABELWORKS LW-600P",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "類型:": "標籤機",
+        "尺寸:": "6-24MM"
+    },
+    {
+        "names": "MEGIVO Pocket Label Printer (1+3Gift Pack)  多功能貼紙打印機",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "類型:": "手機相片打印機",
+        "尺寸:": "131.5 x 75.5 x 29mm"
+    },
+    {
+        "names": "LaserPecker 3 Pro 鐳射雕刻機",
+        "rating": "",
+        "hon_price_min": "13,980",
+        "hon_price_max": "13,980",
+        "water_price_min": "13,680",
+        "water_price_max": "13,980",
+        "類型:": "鐳射雕刻機"
+    },
+    {
+        "names": "Zebra 桌面條碼打印機 GT810",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "2,850",
+        "類型:": "條碼打印機",
+        "尺寸:": "197 x 184 x 273mm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Freesub 迷你燙畫機 小型手持熱轉印機",
+        "rating": "",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280"
+    },
+    {
+        "names": "Casio 藍牙標籤機 KL-BT1",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "550",
+        "類型:": "標籤打印機",
+        "尺寸:": "57 x 154 x 137.5mm",
+        "重量:": "425g"
+    },
+    {
+        "names": "DAJA Mr. Carve 鐳射打標機 M1",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "類型:": "激光雕刻機"
+    },
+    {
+        "names": "Wainlux 迷你雷射雕刻機 K6",
+        "rating": "",
+        "hon_price_min": "1,648",
+        "hon_price_max": "1,699",
+        "類型:": "迷你雷射雕刻機"
+    },
+    {
+        "names": "Epson 收據打印機 POS Receipt Printer TM-m30II #C31CJ27512",
+        "rating": "",
+        "hon_price_min": "2,040",
+        "hon_price_max": "2,388",
+        "類型:": "Receipt Printer",
+        "介面:": "Usb+Lan+BT"
+    },
+    {
+        "names": "Epson  LABELWORKS LW-600P",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "類型:": "標籤機",
+        "尺寸:": "6-24MM"
+    },
+    {
+        "names": "Brother Line Friends 造型藍牙電子標籤機 PTP300BTLB",
+        "rating": "",
+        "hon_price_min": "539",
+        "hon_price_max": "698",
+        "類型:": "電子標籤機",
+        "尺寸:": "115 x 61 x 115mm",
+        "重量:": "380g"
+    },
+    {
+        "names": "Zebra 條碼打印機 ZT51043-T290000Z",
+        "rating": "",
+        "hon_price_min": "16,800",
+        "hon_price_max": "16,800",
+        "類型:": "條碼打印機",
+        "尺寸:": "512 x 268 x 396mm",
+        "重量:": "22.7kg"
+    },
+    {
+        "names": "Seiko 精工 文件收發機 TP-50",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,180",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "漢印 HPRT 無線攜帶式 A4 打印機 MT800",
+        "rating": "5.0",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "類型:": "攜帶式 A4 打印機",
+        "尺寸:": "310.5 x 63.5 x 39.5mm"
+    },
+    {
+        "names": "Niimbot 精臣 藍芽無線標籤打印機 D101",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "標籤打印機",
+        "尺寸:": "130 x 79 x 45mm",
+        "重量:": "300g"
+    },
+    {
+        "names": "Laser Pecker L1 Pro Suit",
+        "rating": "",
+        "hon_price_min": "3,889",
+        "hon_price_max": "4,899",
+        "類型:": "激光雕刻機"
+    },
+    {
+        "names": "Kodak 升級版便攜式相片打印機 PD460",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,190",
+        "類型:": "手機相片打印機",
+        "介面:": "藍牙, USB-C"
+    },
+    {
+        "names": "Niimbot 精臣 藍芽無線標籤打印機 D11",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "279",
+        "water_price_min": "209",
+        "water_price_max": "229",
+        "類型:": "標籤打印機",
+        "尺寸:": "130 x 75 x 28mm",
+        "重量:": "208g"
+    },
+    {
+        "names": "Evebot PrintPen 便攜式打印筆",
+        "rating": "6.7",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,580",
+        "類型:": "打印筆"
+    },
+    {
+        "names": "Brother PTD200HK",
+        "rating": "10",
+        "hon_price_min": "237",
+        "hon_price_max": "298",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "類型:": "標籤機",
+        "重量:": "490g"
+    },
+    {
+        "names": "Brother PocketJet 流動打印機 PJ773",
+        "rating": "",
+        "hon_price_min": "4,888",
+        "hon_price_max": "4,900",
+        "類型:": "流動打印機",
+        "介面:": "Wi-Fi, USB",
+        "重量:": "480g"
+    },
+    {
+        "names": "LaserPecker L1 Pro 專業款自動調節迷你鐳射雕刻機",
+        "rating": "",
+        "hon_price_min": "3,899",
+        "hon_price_max": "4,899",
+        "類型:": "鐳射雕刻機",
+        "重量:": "860g"
+    },
+    {
+        "names": "Xiaomi 小米 米家照片打印機1S",
+        "rating": "",
+        "water_price_min": "730",
+        "water_price_max": "750",
+        "類型:": "手機相片打印機",
+        "尺寸:": "194 x 124.6 x 83.6mm",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Panasonic 樂聲 輕巧型感熱紙傳真機 KX-FT984HK",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,180",
+        "類型:": "感熱式傳真機",
+        "重量:": "2.8kg"
+    },
+    {
+        "names": "Epson LQ-2190",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "7,100",
+        "類型:": "點陣式",
+        "尺寸:": "639 x 402 x 256mm",
+        "重量:": "13kg"
+    },
+    {
+        "names": "LaserPecker 3 鐳射雕刻機",
+        "rating": "",
+        "hon_price_min": "12,229",
+        "hon_price_max": "12,229",
+        "water_price_min": "9,980",
+        "water_price_max": "11,180",
+        "類型:": "鐳射雕刻機",
+        "尺寸:": "168.6 x 62.1 x 169.5mm",
+        "重量:": "2.54kg"
+    },
+    {
+        "names": "Brother PTD200",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "298",
+        "water_price_min": "158",
+        "water_price_max": "158",
+        "類型:": "標籤機",
+        "重量:": "490g"
+    },
+    {
+        "names": "Brother Hello Kitty 藍牙手提式標籤機 PTP300BTKN",
+        "rating": "10",
+        "hon_price_min": "520",
+        "hon_price_max": "698",
+        "類型:": "標籤打印機",
+        "尺寸:": "115 x 61 x 115mm",
+        "重量:": "380g"
+    },
+    {
+        "names": "Evebot PrintPods 口袋打印機",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "1,159",
+        "類型:": "口袋打印機"
+    },
+    {
+        "names": "Laser Pecker L2 Basic 2合1激光雕刻機和切割機",
+        "rating": "",
+        "hon_price_min": "6,988",
+        "hon_price_max": "7,988",
+        "類型:": "鐳射雕刻機"
+    },
+    {
+        "names": "Epson 收據打印機 TM-T88VI",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,790",
+        "類型:": "熱敏打印機",
+        "尺寸:": "145 x 195 x 148mm",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "Lazervida 特強功率10W雷射雕刻切割機",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "類型:": "鐳射雕刻機",
+        "尺寸:": "582 x 574 x 100mm"
+    },
+    {
+        "names": "Casio Label It 標籤打印機 KL-120",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "300",
+        "類型:": "標籤打印機",
+        "尺寸:": "54.5 x 189 x 115mm",
+        "重量:": "430g"
+    },
+    {
+        "names": "ZEBRA Dual-Sided Card Printer ZC300",
+        "rating": "",
+        "hon_price_min": "12,900",
+        "hon_price_max": "12,980",
+        "類型:": "印卡機",
+        "介面:": "USB 2.0"
+    },
+    {
+        "names": "Brother PTD450",
+        "rating": "9.0",
+        "hon_price_min": "540",
+        "hon_price_max": "748",
+        "water_price_min": "478",
+        "water_price_max": "478",
+        "類型:": "標籤機",
+        "尺寸:": "186mm(w) x 178mm(d) x 72mm(h)",
+        "重量:": "730g"
+    },
+    {
+        "names": "Godex G500U",
+        "rating": "",
+        "hon_price_min": "1,268",
+        "hon_price_max": "1,760",
+        "water_price_min": "1,268",
+        "water_price_max": "1,268",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "Zebra ZT610 工業級標簽打印機 ZT61043-T290100Z",
+        "rating": "",
+        "hon_price_min": "17,800",
+        "hon_price_max": "17,800",
+        "類型:": "標簽打印機",
+        "尺寸:": "505 x 268 x 396mm",
+        "重量:": "22.7kg"
+    },
+    {
+        "names": "Fujifilm Instax SHARE SP-3",
+        "rating": "7.3",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,680",
+        "water_price_min": "880",
+        "water_price_max": "890",
+        "類型:": "相片打印機",
+        "尺寸:": "116 x 130.5 x 44.4mm",
+        "重量:": "312g"
+    },
+    {
+        "names": "Epson ColorWorks C6530A Color Label Printer 彩色噴墨標籤打印機",
+        "rating": "",
+        "hon_price_min": "50,800",
+        "hon_price_max": "50,800",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "STAR Compact POS Receipt Printer TSP100IV",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,850",
+        "類型:": "收據打印機",
+        "尺寸:": "140 x 169 x 123mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Epson LQ-590II",
+        "rating": "10",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,700",
+        "類型:": "A4 點陣式打印機",
+        "尺寸:": "437mm x 375mm x 176.5mm",
+        "重量:": "7.2kg"
+    },
+    {
+        "names": "Olympia Carrera Deluxe MD 打字機 Typewriter",
+        "rating": "",
+        "hon_price_min": "3,170",
+        "hon_price_max": "3,180",
+        "類型:": "打字機",
+        "尺寸:": "闊412 x 深375 x 高117 毫米",
+        "重量:": "5.4 千克"
+    },
+    {
+        "names": "OCOM 80mm POS Thermal Receipt Printer OCPP-80K",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "類型:": "條碼打印機",
+        "尺寸:": "196 x 145 x 135mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Epson ColorWorks C6030P Color Label Printer 高精度全彩色標簽打印機",
+        "rating": "",
+        "hon_price_min": "43,800",
+        "hon_price_max": "43,800",
+        "類型:": "標籤打印機",
+        "介面:": "USB, 以太網"
+    },
+    {
+        "names": "Epson LQ-2090llN A3 24針中文點陣印表機",
+        "rating": "",
+        "hon_price_min": "6,375",
+        "hon_price_max": "6,550",
+        "類型:": "點陣式打印機",
+        "尺寸:": "612‎ x 375 x 177mm",
+        "重量:": "21 lb"
+    },
+    {
+        "names": "Brother PT-E550WVPHK 工程標籤機 (中文版)",
+        "rating": "",
+        "hon_price_min": "2,320",
+        "hon_price_max": "2,598",
+        "類型:": "工程標籤機"
+    },
+    {
+        "names": "Brother QL820NWB",
+        "rating": "10",
+        "hon_price_min": "1,838",
+        "hon_price_max": "2,380",
+        "類型:": "標籤機",
+        "尺寸:": "125 x 234 x 145mm",
+        "重量:": "1.16 kg"
+    },
+    {
+        "names": "Canon Selphy Square QX10 流動無線相片打印機",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,570",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "類型:": "手機相片打印機",
+        "介面:": "Wi-Fi",
+        "尺寸:": "102.2 x 143.3 x 31mm"
+    },
+    {
+        "names": "Brother PT-E300VP",
+        "rating": "",
+        "hon_price_min": "1,032",
+        "hon_price_max": "1,395",
+        "類型:": "工程標籤機",
+        "重量:": "740g"
+    },
+    {
+        "names": "Epson ColorWorks C6530P Color Label Printer 彩色噴墨標籤打印機",
+        "rating": "",
+        "hon_price_min": "54,800",
+        "hon_price_max": "54,800",
+        "類型:": "標籤打印機",
+        "介面:": "USB 2.0 ; 以太網 1000Base-T / 100Base-TX / 10Base-T"
+    },
+    {
+        "names": "Epson LQ-310",
+        "rating": "",
+        "hon_price_min": "2,030",
+        "hon_price_max": "2,285",
+        "類型:": "24-pin Dot Matrix Printer",
+        "介面:": "Bi-directional parallel interface (IEEE 1284 nibble mode support), USB (ver 2.0 Full Speed)"
+    },
+    {
+        "names": "Brother PTD200DR",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "450",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "類型:": "標籤機",
+        "尺寸:": "165 x 155 x 66mm",
+        "重量:": "490g"
+    },
+    {
+        "names": "Niimbot 精臣 藍芽無線標籤打印機 B21",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "標籤打印機",
+        "尺寸:": "130 x 84 x 60mm",
+        "重量:": "300g"
+    },
+    {
+        "names": "Brother PTD200SN",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "448",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "類型:": "標籤機",
+        "重量:": "470g"
+    },
+    {
+        "names": "HP Sprocket 200 相片打印機 (1AS85A)",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "890",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "類型:": "相片打印機",
+        "尺寸:": "80 x 117.5 x 25mm",
+        "重量:": "0.172kg"
+    },
+    {
+        "names": "Epson LQ-590IIN",
+        "rating": "",
+        "hon_price_min": "4,940",
+        "hon_price_max": "5,350",
+        "類型:": "點陣式打印機",
+        "介面:": "USB, PARALLEL, SERIAL, ETHERNET"
+    },
+    {
+        "names": "PRTFOX 智能手持打印機",
+        "rating": "",
+        "water_price_min": "2,080",
+        "water_price_max": "2,080",
+        "類型:": "標籤打印機",
+        "尺寸:": "110 x 90 x 40mm",
+        "重量:": "195g"
+    },
+    {
+        "names": "ZEBRA 105SLPLUS",
+        "rating": "",
+        "hon_price_min": "10,390",
+        "hon_price_max": "10,669",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "DYMO LabelWriter 450 Twin Turbo Direct Thermal Label Printer",
+        "rating": "",
+        "water_price_min": "3,480",
+        "water_price_max": "3,480",
+        "類型:": "標籤打印機",
+        "尺寸:": "‎288.8 x 139.7 x 212.6mm",
+        "重量:": "‎1.88kg"
+    },
+    {
+        "names": "Kodak PD-480",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "720",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "類型:": "便攜式相片打印機",
+        "尺寸:": "166 x 100 x 69mm",
+        "重量:": "760g"
+    },
+    {
+        "names": "Polaroid ZIP Instant Photoprinter",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,080",
+        "類型:": "相片打印機",
+        "尺寸:": "Compact 2.91\" x 4.72\" size",
+        "重量:": "Weighs only .41 lbs."
+    },
+    {
+        "names": "Godex 輕量型條碼打印機 DT2x",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "類型:": "條碼打印機",
+        "介面:": "USB and Ethernet",
+        "尺寸:": "218 x 172 x 100mm"
+    },
+    {
+        "names": "Phomemo 超便攜多功能打印機 M02 Pro",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "類型:": "標籤打印機",
+        "尺寸:": "86 x 82 x 42mm",
+        "重量:": "190g"
+    },
+    {
+        "names": "Brother PTD200KN",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "448",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "類型:": "標籤機",
+        "尺寸:": "165 x 155 x 66mm",
+        "重量:": "490g"
+    },
+    {
+        "names": "Brother PT-P700",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,008",
+        "類型:": "標籤打印機",
+        "尺寸:": "78 (w) x 152 (d) x 143(h) mm",
+        "重量:": "710g"
+    },
+    {
+        "names": "Laser Pecker 2 Deluxe 鐳射雕刻機 - 豪華版",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "9,488",
+        "類型:": "鐳射雕刻機"
+    },
+    {
+        "names": "Epson Thermal POS Receipt Printer TM-T82IIU",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,690",
+        "類型:": "標籤打印機",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-FL323HK",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "類型:": "鐳射式傳真機",
+        "重量:": "7.4 (千克)"
+    },
+    {
+        "names": "Brother 角落小夥伴 藍牙電子標籤機 PTP300BTSG",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "628",
+        "類型:": "標籤打印機",
+        "尺寸:": "115 x 61 x 115mm",
+        "重量:": "380g"
+    },
+    {
+        "names": "PhotoBee Portable Photo Printer",
+        "rating": "6.0",
+        "hon_price_min": "820",
+        "hon_price_max": "950",
+        "water_price_min": "810",
+        "water_price_max": "810",
+        "類型:": "相片打印機",
+        "尺寸:": "96 x 147 x 25mm",
+        "重量:": "363g"
+    },
+    {
+        "names": "ZEBRA Card Printer ZC100",
+        "rating": "",
+        "hon_price_min": "7,290",
+        "hon_price_max": "7,888",
+        "類型:": "Card Printer"
+    },
+    {
+        "names": "Xiaomi 小米 米家照片打印機",
+        "rating": "8.0",
+        "hon_price_min": "728",
+        "hon_price_max": "728",
+        "water_price_min": "520",
+        "water_price_max": "688",
+        "類型:": "照片打印機",
+        "重量:": "194 x 124.6 x 83.6mm"
+    },
+    {
+        "names": "Zebra 桌面標籤打印機 ZD888t",
+        "rating": "",
+        "hon_price_min": "2,860",
+        "hon_price_max": "2,880",
+        "類型:": "標籤打印機",
+        "尺寸:": "267  x 197 x 191mm",
+        "重量:": "1100g"
+    },
+    {
+        "names": "Memobird 迷你熱感打印機",
+        "rating": "9.0",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "類型:": "熱敏打印",
+        "重量:": "162g"
+    },
+    {
+        "names": "Epson TM-T88V",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,788",
+        "類型:": "熱敏式打印機",
+        "介面:": "支援58mm及80mm紙張寛度"
+    },
+    {
+        "names": "Epson TM-C7520G 彩色噴墨標籤打印機",
+        "rating": "",
+        "hon_price_min": "53,800",
+        "hon_price_max": "59,000",
+        "類型:": "標籤打印機",
+        "介面:": "高速 USB 2.0，以太網",
+        "重量:": "37kg"
+    },
+    {
+        "names": "Kodak PD-450W",
+        "rating": "",
+        "hon_price_min": "829",
+        "hon_price_max": "880",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "類型:": "相片打印機"
+    },
+    {
+        "names": "Canon 迷你相片打印機 PV-123",
+        "rating": "7.5",
+        "hon_price_min": "599",
+        "hon_price_max": "980",
+        "類型:": "相片打印機",
+        "尺寸:": "118.31 x 82.36 x 18.7mm",
+        "重量:": "160g"
+    },
+    {
+        "names": "ZEBRA 熱敏打印機 ZD410LAN",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "3,300",
+        "類型:": "熱敏打印機",
+        "尺寸:": "220 x 115 x 151mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Epson LQ-590",
+        "rating": "",
+        "hon_price_min": "3,530",
+        "hon_price_max": "3,703",
+        "類型:": "點陣式",
+        "尺寸:": "414 x 350 x 167.5mm",
+        "重量:": "7.1kg"
+    },
+    {
+        "names": "Brother QL1110NWB",
+        "rating": "",
+        "hon_price_min": "2,545",
+        "hon_price_max": "3,318",
+        "類型:": "標籤機",
+        "尺寸:": "170 x 222 x 151mm",
+        "重量:": "1.74kg"
+    },
+    {
+        "names": "Casio Label It 英文電動標籤打印機 KL-820",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "390",
+        "類型:": "標籤打印機",
+        "尺寸:": "52.5 x 167 x 223mm",
+        "重量:": "610g"
+    },
+    {
+        "names": "ZEBRA USB 熱敏打印機 ZD411D",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "2,090",
+        "類型:": "條碼打印機",
+        "尺寸:": "220 x 115 x 151mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Brother PTP750W",
+        "rating": "",
+        "hon_price_min": "1,249",
+        "hon_price_max": "1,598",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "類型:": "標籤機",
+        "重量:": "820g"
+    },
+    {
+        "names": "Brother 彩色打印標籤機 VC500W",
+        "rating": "9.0",
+        "hon_price_min": "1,129",
+        "hon_price_max": "1,428",
+        "類型:": "標籤打印機",
+        "重量:": "0.66kg"
+    },
+    {
+        "names": "Zebra 移動標籤打印機 ZQ320",
+        "rating": "",
+        "hon_price_min": "3,210",
+        "hon_price_max": "3,210",
+        "類型:": "標籤打印機",
+        "尺寸:": "130 x 117.7 x 49.5mm",
+        "重量:": "430g"
+    },
+    {
+        "names": "Brother PT-D200SN",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "453",
+        "類型:": "標籤機",
+        "尺寸:": "165 mm(W) x 155 mm(D) x 66 mm(H)",
+        "重量:": "470g"
+    },
+    {
+        "names": "Epson LabelWorks LW-700",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "1,335",
+        "類型:": "標籤機"
+    },
+    {
+        "names": "xTool 雷射雕刻機 D1",
+        "rating": "",
+        "water_price_min": "6,988",
+        "water_price_max": "6,988",
+        "類型:": "雷射雕刻機",
+        "尺寸:": "600 x 590 x 150mm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Brother PTP900W",
+        "rating": "10",
+        "hon_price_min": "1,989",
+        "hon_price_max": "2,628",
+        "類型:": "標籤機",
+        "尺寸:": "118 x 192 x 146mm",
+        "重量:": "1.48kg"
+    },
+    {
+        "names": "Star Micronics 熱敏接收打印機 TSP143IV",
+        "rating": "",
+        "hon_price_min": "1,670",
+        "hon_price_max": "1,670",
+        "類型:": "收據打印機",
+        "尺寸:": "140 x 169 x 123mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Brother 手提式電腦連接標籤機 PTD450HK",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "798",
+        "water_price_min": "648",
+        "water_price_max": "648",
+        "類型:": "標籤機",
+        "尺寸:": "186 x 178 x 72mm",
+        "重量:": "730g"
+    },
+    {
+        "names": "Epson A3 24針中文點陣印表機 LQ-2090ll",
+        "rating": "",
+        "hon_price_min": "5,030",
+        "hon_price_max": "5,390",
+        "類型:": "點陣式打印機",
+        "介面:": "USB , Parallel 並行連接",
+        "尺寸:": "612‎ x 375 x 177mm"
+    },
+    {
+        "names": "Brother PTP300BTKT",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "615",
+        "類型:": "標籤機",
+        "重量:": "380g"
+    },
+    {
+        "names": "STAR TSP650II",
+        "rating": "",
+        "hon_price_min": "1,970",
+        "hon_price_max": "2,100",
+        "類型:": "Thermal Printer",
+        "介面:": "USB"
+    },
+    {
+        "names": "Memobird GT1 熱感打印機",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "558",
+        "water_price_min": "259",
+        "water_price_max": "299",
+        "類型:": "熱感打印機"
+    },
+    {
+        "names": "Epson TM-T82",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,860",
+        "類型:": "熱敏式打印機",
+        "打印速度:": "最高速150mm/sec"
+    },
+    {
+        "names": "TSC 工業型標籤印表機 MH340T",
+        "rating": "",
+        "hon_price_min": "7,090",
+        "hon_price_max": "7,140",
+        "類型:": "標籤打印機",
+        "打印速度:": "12ips"
+    },
+    {
+        "names": "Epson TM-m30 Wifi 收據打印機",
+        "rating": "",
+        "hon_price_min": "2,430",
+        "hon_price_max": "2,688",
+        "類型:": "收據打印機",
+        "介面:": "WiFi"
+    },
+    {
+        "names": "Prinker S 一次性紋身打印套裝",
+        "rating": "",
+        "hon_price_min": "2,398",
+        "hon_price_max": "2,398",
+        "water_price_min": "3,580",
+        "water_price_max": "3,880",
+        "類型:": "紋身打印套裝"
+    },
+    {
+        "names": "Brother PT-1280 電子標籤機",
+        "rating": "6.0",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "類型:": "電子標籤機"
+    },
+    {
+        "names": "ZEBRA GX430T GX430T with Ethernet Port",
+        "rating": "",
+        "hon_price_min": "4,230",
+        "hon_price_max": "4,470",
+        "water_price_min": "4,249",
+        "water_price_max": "4,249",
+        "類型:": "條形碼標籤打印機",
+        "尺寸:": "194 x 191 x 254mm",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "Wainlux 激光雕刻機 Z2 Pro (20W)",
+        "rating": "",
+        "water_price_min": "10,080",
+        "water_price_max": "10,080"
+    },
+    {
+        "names": "ZEBRA Label Printer ZD220",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,780",
+        "類型:": "Label Printer"
+    },
+    {
+        "names": "OCOM 80G 80mm Thermal Receipt Printer With Auto Cutter",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "類型:": "條碼打印機",
+        "尺寸:": "190 x 145 x 143mm",
+        "重量:": "1.25kg"
+    },
+    {
+        "names": "TSC 桌上型條碼標籤列印機 TX600",
+        "rating": "",
+        "hon_price_min": "5,680",
+        "hon_price_max": "5,760",
+        "類型:": "標籤打印機",
+        "介面:": "Wi-Fi, USB"
+    },
+    {
+        "names": "ZEBRA Label Printer ZT411",
+        "rating": "",
+        "hon_price_min": "8,950",
+        "hon_price_max": "8,960",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "STAR TSP100",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,600",
+        "類型:": "Thermal Printer",
+        "介面:": "USB + Parallel"
+    },
+    {
+        "names": "Epson TM-M30 POS 3\" Receipt Printer",
+        "rating": "10",
+        "hon_price_min": "1,970",
+        "hon_price_max": "2,180",
+        "類型:": "收據打印機"
+    },
+    {
+        "names": "HP Sprocket Studio 4R 相片打印機 (3MP72A)",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,280",
+        "類型:": "手機相片打印機",
+        "尺寸:": "169 x 273 x 68mm",
+        "重量:": "0.93kg"
+    },
+    {
+        "names": "Kodak PM-220",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "950",
+        "類型:": "迷你相片打印機",
+        "尺寸:": "78.2 x 132.4 x 25.4mm",
+        "重量:": "245g"
+    },
+    {
+        "names": "Epson Thermal POS Receipt Printer TM-T82IILAN",
+        "rating": "",
+        "hon_price_min": "1,670",
+        "hon_price_max": "1,690",
+        "類型:": "標籤打印機",
+        "尺寸:": "146 x 199 x 140mm",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Brother PTP950NW",
+        "rating": "",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,778",
+        "類型:": "標籤機",
+        "尺寸:": "118 x 192 x 146mm",
+        "重量:": "1.51kg"
+    },
+    {
+        "names": "EC Line EC-PM-80320",
+        "rating": "10",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,380",
+        "類型:": "POS System ( Point of Sale )",
+        "尺寸:": "145mm(W) X 200mm(D) X 145mm(H)",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Casio Label It 可連接電腦標籤打印機 KL-G2",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "標籤打印機",
+        "尺寸:": "67.5 x 202 x 212mm",
+        "重量:": "850g"
+    },
+    {
+        "names": "Epson 彩色噴墨標籤打印機 TM-C3520",
+        "rating": "",
+        "hon_price_min": "11,480",
+        "hon_price_max": "12,980",
+        "類型:": "標籤打印機",
+        "介面:": "高速 USB 2.0 ， 以太網10/100 BASE-T"
+    },
+    {
+        "names": "TSC 桌上型條碼印表機 TE300",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,300",
+        "類型:": "標籤打印機",
+        "尺寸:": "204 x 164 x 280mm",
+        "重量:": "2.4kg"
+    },
+    {
+        "names": "ZEBRA Series 3 証卡打印機 ZXP3",
+        "rating": "",
+        "hon_price_min": "7,340",
+        "hon_price_max": "7,340",
+        "類型:": "印卡機",
+        "尺寸:": "368 x 236 x 200mm",
+        "重量:": "5.3kg"
+    },
+    {
+        "names": "Bixolon SRP-350III",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,660",
+        "類型:": "收據打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "Honor 榮耀 Mini 迷你相片打印機",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "類型:": "相片打印機",
+        "重量:": "195g"
+    },
+    {
+        "names": "ZEBRA Standard ZT410 (300dpi) 條碼打印機",
+        "rating": "",
+        "hon_price_min": "8,350",
+        "hon_price_max": "8,650",
+        "類型:": "條碼打印機 Barcode Printer",
+        "尺寸:": "495 mm L x 269 mm W x 324 mm H",
+        "重量:": "16.33kg"
+    },
+    {
+        "names": "Brother QL800",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,428",
+        "類型:": "標籤機",
+        "尺寸:": "125 x 213 x 142mm",
+        "重量:": "1.15kg"
+    },
+    {
+        "names": "MAX EC-70",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,600",
+        "類型:": "電子支票機"
+    },
+    {
+        "names": "HP Sprocket Plus - Hello Kitty 45周年限量版 (2FR85A-HK)",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "1,008",
+        "類型:": "手機相片打印機",
+        "尺寸:": "142 x 18 x 89mm"
+    },
+    {
+        "names": "Epson LW-C410 標籤絲帶打印機",
+        "rating": "10",
+        "hon_price_min": "490",
+        "hon_price_max": "650",
+        "類型:": "標籤機"
+    },
+    {
+        "names": "Brother PT-E300VP HK",
+        "rating": "",
+        "hon_price_min": "1,335",
+        "hon_price_max": "1,598",
+        "類型:": "工業標籤機",
+        "重量:": "740g"
+    },
+    {
+        "names": "TSC TE-244",
+        "rating": "",
+        "hon_price_min": "1,470",
+        "hon_price_max": "1,520",
+        "類型:": "條碼標籤列印機"
+    },
+    {
+        "names": "STAR TSP043",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,800",
+        "類型:": "Thermal Printer"
+    },
+    {
+        "names": "Evolis Primacy (Single Side)",
+        "rating": "",
+        "hon_price_min": "10,100",
+        "hon_price_max": "10,100",
+        "類型:": "Card Printer",
+        "重量:": "4.02 kg"
+    },
+    {
+        "names": "Brother 手提式標籤機 PT-D200HK",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "353",
+        "類型:": "標籤打印機",
+        "尺寸:": "165 x 155 x 66mm",
+        "重量:": "490g"
+    },
+    {
+        "names": "Brother Hello Kitty 標籤機 (PT-D200KT)",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "450",
+        "類型:": "Label printer",
+        "重量:": "0.49"
+    },
+    {
+        "names": "PMX 80mm 熱感發票打印機 (網路版) 80E",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,100",
+        "類型:": "發票打印機",
+        "介面:": "LAN"
+    },
+    {
+        "names": "TSC 桌上型條碼印表機 TE200",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "1,800",
+        "類型:": "標籤打印機",
+        "尺寸:": "204 x 164 x 280mm",
+        "重量:": "2.4kg"
+    },
+    {
+        "names": "HP Sprocket 200 相片打印機 (1AS86A)",
+        "rating": "2.0",
+        "hon_price_min": "798",
+        "hon_price_max": "890",
+        "類型:": "相片打印機",
+        "尺寸:": "80 x 117.5 x 25mm",
+        "重量:": "0.172kg"
+    },
+    {
+        "names": "ZEBRA 熱敏桌面打印機 ZP888",
+        "rating": "",
+        "water_price_min": "1,300",
+        "water_price_max": "1,300",
+        "類型:": "條碼標籤打印機",
+        "尺寸:": "20 (W) x 170 x 208mm",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "EC Line EC-3150D",
+        "rating": "10",
+        "hon_price_min": "1,460",
+        "hon_price_max": "1,540",
+        "類型:": "Label Printer",
+        "尺寸:": "230 (W) x 156 (D) x 147 (H) mm",
+        "重量:": "1.65 kg"
+    },
+    {
+        "names": "ZEBRA 10SL PLUS",
+        "rating": "",
+        "hon_price_min": "10,400",
+        "hon_price_max": "11,800",
+        "類型:": "Barcode Printer",
+        "尺寸:": "10.31*15.5*20.38 inch",
+        "重量:": "22.7kg"
+    },
+    {
+        "names": "Fujitsu FP-2000",
+        "rating": "",
+        "hon_price_min": "1,920",
+        "hon_price_max": "1,968",
+        "類型:": "收據打印機",
+        "尺寸:": "128 x 170 x 126mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Brother PTD200KT",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "428",
+        "類型:": "標籤機",
+        "重量:": "470g"
+    },
+    {
+        "names": "Brother QL-820NWB",
+        "rating": "",
+        "hon_price_min": "1,898",
+        "hon_price_max": "2,378",
+        "類型:": "專業無線標籤機",
+        "介面:": "USB 2.0 + LAN + WIFI (802.11B/G/N) + Bluetooth",
+        "尺寸:": "125 x 234 x 145mm"
+    },
+    {
+        "names": "Star Micronics 熱敏接收打印機 TSP143IIIBi",
+        "rating": "",
+        "hon_price_min": "2,360",
+        "hon_price_max": "2,800",
+        "類型:": "熱敏接收打印機"
+    },
+    {
+        "names": "TSC TEC B-462",
+        "rating": "",
+        "hon_price_min": "5,290",
+        "hon_price_max": "5,350",
+        "類型:": "熱敏式打印機"
+    },
+    {
+        "names": "ZEBRA GT800",
+        "rating": "",
+        "hon_price_min": "2,018",
+        "hon_price_max": "2,070",
+        "類型:": "條形碼打印機",
+        "尺寸:": "197mm*184mm*273mm",
+        "重量:": "5 kg"
+    },
+    {
+        "names": "Brother PTD600",
+        "rating": "",
+        "hon_price_min": "915",
+        "hon_price_max": "1,268",
+        "類型:": "標籤機",
+        "尺寸:": "201mm(w) x 192mm(d) x 86mm(h)",
+        "重量:": "950g"
+    },
+    {
+        "names": "Fujifilm Instax SHARE SP-2 手機相片打印機",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "手機相片打印機",
+        "尺寸:": "89.5 x 131.8 x 40mm",
+        "重量:": "250g"
+    },
+    {
+        "names": "DYMO LabelWriter 450 Direct Thermal Label Printer",
+        "rating": "",
+        "類型:": "標籤打印機",
+        "尺寸:": "140 x 269 x 163mm",
+        "重量:": "0.65kg"
+    },
+    {
+        "names": "ZEBRA P330i",
+        "rating": "",
+        "hon_price_min": "7,490",
+        "hon_price_max": "7,600",
+        "類型:": "彩咭打印機"
+    },
+    {
+        "names": "Epson USB 收據打印機 TM-T82X",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,888",
+        "類型:": "收據打印機",
+        "尺寸:": "140 x 137 x 192mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Brother IntelliFax-2840",
+        "rating": "",
+        "hon_price_min": "1,660",
+        "hon_price_max": "1,898",
+        "類型:": "FAX",
+        "尺寸:": "14.7\" x 14.6\" x 12.2\"",
+        "重量:": "19.8 lbs."
+    },
+    {
+        "names": "Casio Label It 標籤打印機 KL-P350W",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "類型:": "標籤打印機",
+        "尺寸:": "61 x 131.7 x 136mm",
+        "重量:": "495g"
+    },
+    {
+        "names": "Godex BC-PG730I",
+        "rating": "",
+        "hon_price_min": "2,700",
+        "hon_price_max": "2,800",
+        "類型:": "Label Printer",
+        "介面:": "USB, Ethernet,RS232"
+    },
+    {
+        "names": "Godex Barcode Printer G530U",
+        "rating": "",
+        "hon_price_min": "1,770",
+        "hon_price_max": "2,150",
+        "water_price_min": "1,770",
+        "water_price_max": "1,770",
+        "類型:": "標籤打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "Zywell 808 Thermal Receipt Printer",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "類型:": "Thermal Receipt Printer 熱感票據打印機",
+        "尺寸:": "196(D)x145(W)x135(H)mm",
+        "重量:": "1.94kg"
+    },
+    {
+        "names": "ZEBRA GT820",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,610",
+        "類型:": "條碼打印機"
+    },
+    {
+        "names": "Epson LQ-680 Pro",
+        "rating": "",
+        "hon_price_min": "5,370",
+        "hon_price_max": "5,800",
+        "類型:": "點陣式",
+        "尺寸:": "497 x 387 x 230mm",
+        "重量:": "9.4kg"
+    },
+    {
+        "names": "Polaroid Lab Everying Box 即影即有打印機",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "1,080",
+        "類型:": "手機相片打印機",
+        "重量:": "655g"
+    },
+    {
+        "names": "STAR SP-742",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,400",
+        "類型:": "9 Pin   Serial Dot Matrix",
+        "介面:": "USB"
+    },
+    {
+        "names": "STAR Wireless LAN Receipt Printer 收據打印機 TSP143IIIW",
+        "rating": "",
+        "hon_price_min": "2,320",
+        "hon_price_max": "2,320",
+        "類型:": "收據打印機",
+        "尺寸:": "142 x 204 x 132mm",
+        "重量:": "1.68kg"
+    },
+    {
+        "names": "Ucom PO-PU328U",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "980",
+        "類型:": "標籤打印機",
+        "介面:": "USB",
+        "尺寸:": "198 x 140 x 130mm"
+    },
+    {
+        "names": "Brother PTP700",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,001",
+        "類型:": "標籤機",
+        "重量:": "710g"
+    },
+    {
+        "names": "Honeywell PC42t Thermal Transfer Printer",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,540",
+        "類型:": "Barcode Printer",
+        "尺寸:": "297 mm x 226 mm x 177 mm",
+        "重量:": "2.5 kg"
+    },
+    {
+        "names": "Brother PTD200LB",
+        "rating": "8.0",
+        "hon_price_min": "338",
+        "hon_price_max": "453",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "類型:": "標籤機",
+        "尺寸:": "165mm(w) x 155mm(d) x 66mm(h)",
+        "重量:": "490g"
+    },
+    {
+        "names": "ZEBRA GX420D-2025PO",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "4,350",
+        "water_price_min": "3,350",
+        "water_price_max": "3,350",
+        "類型:": "熱敏打印機",
+        "尺寸:": "171mm(W)*152mm(H)*210mm(D)",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Epson LQ-690",
+        "rating": "",
+        "hon_price_min": "4,370",
+        "hon_price_max": "4,795",
+        "類型:": "24 pins, 106 column",
+        "尺寸:": "W480 x D370 x H210mm",
+        "重量:": "6.8kg"
+    },
+    {
+        "names": "ZEBRA USB Desktop Label Printer (USB+Network) ZD420t",
+        "rating": "",
+        "hon_price_min": "3,920",
+        "hon_price_max": "3,920",
+        "類型:": "標籤打印機",
+        "介面:": "USB 連接及 LAN 網絡連接"
+    },
+    {
+        "names": "MBrush Portable Mobile Color Printer 手持彩色打印機",
+        "rating": "",
+        "hon_price_min": "946",
+        "hon_price_max": "998",
+        "類型:": "手提打印機"
+    },
+    {
+        "names": "TSC TDP-225W",
+        "rating": "",
+        "hon_price_min": "2,120",
+        "hon_price_max": "2,440",
+        "water_price_min": "2,060",
+        "water_price_max": "2,060",
+        "類型:": "腕帶專用列印機"
+    },
+    {
+        "names": "HP Sprocket Photo Printer (Z3Z92A)",
+        "rating": "2.0",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,010",
+        "類型:": "相片打印機",
+        "重量:": "0.172kg"
+    },
+    {
+        "names": "MAX EC-30A",
+        "rating": "6.0",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,580",
+        "類型:": "電子支票機"
+    },
+    {
+        "names": "TSC TTP-342M plus",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,330",
+        "類型:": "條碼標籤列印機"
+    },
+    {
+        "names": "Brother PT-7500",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "1,015",
+        "類型:": "標籤打印機",
+        "尺寸:": "134 (w) x 235 (d) x 78 (h) mm",
+        "重量:": "610g"
+    },
+    {
+        "names": "PMX 80mm 熱感發票打印機 80C III",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "類型:": "標籤打印機",
+        "介面:": "LAN, USB"
+    },
+    {
+        "names": "Canon SELPHY CP1200",
+        "rating": "6.0",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,198",
+        "類型:": "相片打印機",
+        "介面:": "USB + WIFI"
+    },
+    {
+        "names": "Epson DFX-9000",
+        "rating": "",
+        "hon_price_min": "24,969",
+        "hon_price_max": "32,792",
+        "類型:": "點陣式",
+        "尺寸:": "700 x 378 x 363mm",
+        "重量:": "34kg"
+    },
+    {
+        "names": "Sunmi V2 Pro 無線數據終端（帶4G功能）",
+        "rating": "",
+        "hon_price_min": "2,230",
+        "hon_price_max": "2,230",
+        "類型:": "無線數據終端"
+    },
+    {
+        "names": "Brother PTD200RK",
+        "rating": "10",
+        "hon_price_min": "338",
+        "hon_price_max": "453",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "類型:": "標籤機",
+        "尺寸:": "165mm(w) x 155mm(d) x 66mm(h)",
+        "重量:": "490g"
+    },
+    {
+        "names": "Epson ColorWorks C6030A Color Label Printer 高精度全彩色標簽打印機",
+        "rating": "",
+        "hon_price_min": "39,800",
+        "hon_price_max": "40,800",
+        "類型:": "標籤打印機",
+        "介面:": "USB, 以太網",
+        "尺寸:": "340 x 565 x 326mm"
+    },
+    {
+        "names": "Brother PocketJet 流動打印機 PJ763MFi",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "類型:": "流動打印機",
+        "介面:": "Wi-Fi, USB",
+        "重量:": "480g"
+    },
+    {
+        "names": "Fujifilm Princiao Smart II 小俏印照片打印機",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "類型:": "相片打印機",
+        "尺寸:": "206 x 136 x 85mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Polaroid Lab 即影即有打印機",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "1,080",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "類型:": "手機相片打印機"
+    },
+    {
+        "names": "Epson TM-U220",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "2,490",
+        "類型:": "零售餐飲打印機"
+    },
+    {
+        "names": "Scanhero Inkjet printer M68",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "類型:": "條碼打印機"
+    },
+    {
+        "names": "Oki ML791",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "4,000",
+        "類型:": "點陣印表機",
+        "介面:": "USB / Parallel / LAN"
+    },
+    {
+        "names": "DYMO LabelManager 280",
+        "rating": "10",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "類型:": "Label Makers"
+    },
+    {
+        "names": "ZEBRA 300dpi RFID Label Printer ZD500R",
+        "rating": "",
+        "hon_price_min": "11,200",
+        "hon_price_max": "11,200",
+        "類型:": "條碼打印機"
+    },
+    {
+        "names": "TSC TTP-244 Pro",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,730",
+        "類型:": "條碼標籤列印機",
+        "打印速度:": "5 ips"
+    },
+    {
+        "names": "Kongten PrinCube 口袋手握彩色打印機",
+        "rating": "6.0",
+        "hon_price_min": "958",
+        "hon_price_max": "968",
+        "類型:": "手握打印機",
+        "尺寸:": "72 x 51 x 68mm"
+    },
+    {
+        "names": "Pekoko 口袋手持式彩色噴墨無線打印機 K1",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "1,098",
+        "類型:": "口袋手持式彩色噴墨無線打印機"
+    },
+    {
+        "names": "TSC 輕量多功能工業型標籤印表機 MB240T",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,040",
+        "類型:": "標籤打印機",
+        "重量:": "9.2kg"
+    },
+    {
+        "names": "SATO CL4NX",
+        "rating": "",
+        "hon_price_min": "11,000",
+        "hon_price_max": "11,000",
+        "類型:": "智能型工業條碼打印機",
+        "尺寸:": "271mm*457mm*321mm",
+        "重量:": "15.1 Kg"
+    },
+    {
+        "names": "Epson TM-T88V-i",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "4,770",
+        "類型:": "熱敏式打印機"
+    },
+    {
+        "names": "xTool 三合ㄧ雷雕刀片切割機 M1",
+        "rating": "",
+        "water_price_min": "9,880",
+        "water_price_max": "10,280",
+        "類型:": "雷射雕刻機"
+    },
+    {
+        "names": "Epson TM-U220PB",
+        "rating": "10",
+        "hon_price_min": "2,020",
+        "hon_price_max": "2,120",
+        "類型:": "收據打印機"
+    },
+    {
+        "names": "DYMO LabelWriter 550 Label Printer",
+        "rating": "",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "類型:": "標籤打印機",
+        "尺寸:": "268 x 161 x 141mm",
+        "重量:": "1.26kg"
+    },
+    {
+        "names": "ZEBRA Thermal Transfer Desktop Label Printer ZD220t",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,990",
+        "類型:": "標籤打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "PMX 條碼標籤打印機 (USB) PMX-245",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,480",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "ZEBRA LP2824 Plus",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "2,050",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "Argox 桌上型條碼列印機 OS214",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "標籤打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "TSC TTP-243E Pro 4",
+        "rating": "",
+        "hon_price_min": "1,740",
+        "hon_price_max": "1,790",
+        "類型:": "條碼標籤列印機",
+        "打印速度:": "203dpi"
+    },
+    {
+        "names": "Epson TM-T70II 收據打印機",
+        "rating": "",
+        "hon_price_min": "2,165",
+        "hon_price_max": "2,165",
+        "類型:": "收據打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "DYMO LabelWriter 4XL Label Printer",
+        "rating": "",
+        "water_price_min": "2,680",
+        "water_price_max": "2,680",
+        "類型:": "標籤打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "Honeywell Thermal Transfer Desktop Printer PC43t",
+        "rating": "",
+        "hon_price_min": "3,165",
+        "hon_price_max": "3,590",
+        "water_price_min": "3,165",
+        "water_price_max": "3,165",
+        "類型:": "標籤打印機",
+        "介面:": "USB, Ethernet"
+    },
+    {
+        "names": "ZEBRA USB Desktop Label Printer ZD420t",
+        "rating": "",
+        "hon_price_min": "3,175",
+        "hon_price_max": "3,488",
+        "類型:": "條碼打印機",
+        "介面:": "USB, USB Host"
+    },
+    {
+        "names": "TSC 工業型標籤印表機 MH340",
+        "rating": "",
+        "hon_price_min": "6,690",
+        "hon_price_max": "6,690",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "Star Micronics 熱敏接收打印機 TSP143IIILAN",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,850",
+        "類型:": "熱敏接收打印機",
+        "介面:": "LAN"
+    },
+    {
+        "names": "Selpic 便攜式手持打印筆 P1",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "類型:": "打印筆"
+    },
+    {
+        "names": "HP DesignJet T830 36\" Printer (F9A30B)",
+        "rating": "",
+        "hon_price_min": "34,888",
+        "hon_price_max": "34,888",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1403 x 629 x 1155mm",
+        "重量:": "62.5kg"
+    },
+    {
+        "names": "Lifeprint 相片及影片打印機",
+        "rating": "",
+        "hon_price_min": "1,148",
+        "hon_price_max": "1,148",
+        "類型:": "相片及影片打印機",
+        "重量:": "0.29kg"
+    },
+    {
+        "names": "Brother QL800 Professional Label Printer",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,398",
+        "類型:": "標籤打印機",
+        "尺寸:": "125 x 213 x 142mm",
+        "重量:": "1.15"
+    },
+    {
+        "names": "Epson LabelWorks 工業用標籤打印機 LW-Z900",
+        "rating": "",
+        "hon_price_min": "2,998",
+        "hon_price_max": "2,998",
+        "類型:": "標籤打印機",
+        "打印速度:": "35mm/s"
+    },
+    {
+        "names": "ZEBRA GK888T",
+        "rating": "",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,410",
+        "類型:": "條碼標籤打印機",
+        "尺寸:": "201mm()W*173mm(H)*239mm(L)",
+        "重量:": "1.5KG"
+    },
+    {
+        "names": "Bixolon SRP-275III",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "類型:": "收據打印機",
+        "尺寸:": "239 x 160 x 157mm"
+    },
+    {
+        "names": "Hiti Pringo P232",
+        "rating": "10",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "類型:": "2R相片打印機",
+        "尺寸:": "96 x 154 x 24 mm",
+        "重量:": "約390g ± 10g"
+    },
+    {
+        "names": "HP DesignJet T1600ps 36吋繪圖機",
+        "rating": "",
+        "類型:": "繪圖機"
+    },
+    {
+        "names": "Brother PT-E550WVP",
+        "rating": "10",
+        "hon_price_min": "2,140",
+        "hon_price_max": "2,450",
+        "類型:": "工程標籤機"
+    },
+    {
+        "names": "Zebra Standard ZT410",
+        "rating": "",
+        "hon_price_min": "7,350",
+        "hon_price_max": "7,410",
+        "類型:": "Barcode Printer",
+        "介面:": "USB2.0",
+        "重量:": "16.33Kg"
+    },
+    {
+        "names": "HP Sprocket 相片打印機 2 合 1 2FB97A",
+        "rating": "",
+        "hon_price_min": "1,609",
+        "hon_price_max": "1,609",
+        "類型:": "手機相片打印機",
+        "尺寸:": "122 x 28.9 x 77.4mm",
+        "重量:": "0.191kg"
+    },
+    {
+        "names": "Star Micronics 收據打印機 TSP143IIIU",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,850",
+        "類型:": "熱敏打印機",
+        "打印速度:": "203DPI"
+    },
+    {
+        "names": "Brother PT-P750W",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,598",
+        "類型:": "標籤機",
+        "尺寸:": "78 mm (W) × 152 mm (D) × 143 mm (H)",
+        "重量:": "820g"
+    },
+    {
+        "names": "Huawei 便攜照片打印機 CV80",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "570",
+        "water_price_min": "310",
+        "water_price_max": "339",
+        "類型:": "手機相片打印機",
+        "尺寸:": "120 x 80 x 22.3mm",
+        "重量:": "195g"
+    },
+    {
+        "names": "Brother PT-E110VP",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "498",
+        "類型:": "標籤機",
+        "尺寸:": "110 x 204 x 58mm",
+        "重量:": "400g"
+    },
+    {
+        "names": "Xiaomi 小米 口袋照片打印機 皮卡丘定制款",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "類型:": "手機相片打印機",
+        "介面:": "藍牙",
+        "重量:": "181g"
+    },
+    {
+        "names": "Mcbazel 無線藍牙標籤機 熱敏打印 USB充電 免墨水 智能手機APP控制 (附白色標籤乙盒)",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "LG 樂金 PD261",
+        "rating": "",
+        "water_price_min": "660",
+        "water_price_max": "660",
+        "類型:": "相片打印機",
+        "重量:": "177g"
+    },
+    {
+        "names": "Kodak PD-450",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "730",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "類型:": "便攜式相片打印機",
+        "尺寸:": "166 x 100 x 69mm",
+        "重量:": "760g"
+    },
+    {
+        "names": "TSC TTP-342 Pro",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,830",
+        "類型:": "條碼標籤列印機"
+    },
+    {
+        "names": "Epson TM-T88V (LAN Ver.)",
+        "rating": "10",
+        "hon_price_min": "2,320",
+        "hon_price_max": "2,788",
+        "類型:": "標籤收據印表機",
+        "介面:": "LAN",
+        "尺寸:": "145 x 195 x 148mm"
+    },
+    {
+        "names": "Epson LX-310",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,320",
+        "類型:": "點陣式打印機",
+        "介面:": "Parallel + Serial + USB"
+    },
+    {
+        "names": "Toshiba 東芝 B-SA4TM",
+        "rating": "",
+        "hon_price_min": "7,060",
+        "hon_price_max": "7,200",
+        "類型:": "標籤打印機",
+        "尺寸:": "238 x 402 x 332mm",
+        "重量:": "15kg"
+    },
+    {
+        "names": "HP Sprocket 200 Printer (1AS89A)",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "890",
+        "類型:": "相片打印機",
+        "尺寸:": "80 x 117.5 x 25mm",
+        "重量:": "0.172kg"
+    },
+    {
+        "names": "Evolis Zenius",
+        "rating": "",
+        "hon_price_min": "7,500",
+        "hon_price_max": "7,500",
+        "類型:": "證卡打印機"
+    },
+    {
+        "names": "TSC 工業型標籤印表機 MH240T",
+        "rating": "",
+        "hon_price_min": "6,350",
+        "hon_price_max": "6,450",
+        "類型:": "標籤打印機",
+        "打印速度:": "14ips"
+    },
+    {
+        "names": "HP Sprocket Plus 相片打印機",
+        "rating": "",
+        "hon_price_min": "1,089",
+        "hon_price_max": "1,089",
+        "類型:": "相片打印機",
+        "尺寸:": "142 x 89 x 18mm",
+        "重量:": "0.204"
+    },
+    {
+        "names": "Star POP10",
+        "rating": "",
+        "hon_price_min": "3,499",
+        "hon_price_max": "3,610",
+        "類型:": "Direct Thermal",
+        "尺寸:": "308 x 300 x 100 mm (W x D x H)",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "Epson LQ-2090",
+        "rating": "",
+        "hon_price_min": "4,156",
+        "hon_price_max": "5,290",
+        "類型:": "點陣式",
+        "尺寸:": "589 x 350 x 167.5mm",
+        "重量:": "9.5kg"
+    },
+    {
+        "names": "Epson TM-T88IV",
+        "rating": "",
+        "hon_price_min": "1,860",
+        "hon_price_max": "2,200",
+        "類型:": "熱敏式打印機",
+        "尺寸:": "145x195x148mm",
+        "重量:": "1.8kg"
+    },
+    {
+        "names": "Epson TM-L90  High Speed Bard Code Label Receipt Printer",
+        "rating": "",
+        "hon_price_min": "3,290",
+        "hon_price_max": "3,380",
+        "類型:": "Thermal  Printer"
+    },
+    {
+        "names": "Epson DLQ-3500",
+        "rating": "",
+        "hon_price_min": "13,579",
+        "hon_price_max": "17,700",
+        "類型:": "點陣式",
+        "尺寸:": "660 x 432 x 276mm",
+        "重量:": "18.1kg"
+    },
+    {
+        "names": "Epson TM-U220B",
+        "rating": "10",
+        "hon_price_min": "1,690",
+        "hon_price_max": "2,288",
+        "類型:": "熱敏式打印機"
+    },
+    {
+        "names": "Brother SC2000USB",
+        "rating": "",
+        "hon_price_min": "9,339",
+        "hon_price_max": "9,388",
+        "類型:": "印章製造機"
+    },
+    {
+        "names": "ZEBRA GK420T",
+        "rating": "",
+        "hon_price_min": "3,175",
+        "hon_price_max": "3,380",
+        "類型:": "條碼標籤打印機",
+        "尺寸:": "7.6\" *4.5''*10.0''",
+        "重量:": "4.6 lbs (2.1 kg)"
+    },
+    {
+        "names": "Epson 收據打印機 TM-T82 LAN",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,590",
+        "類型:": "收據打印機",
+        "尺寸:": "146 x 199 x 140mm",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "HP Sprocket 200 Printer(Gift Box)",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "手提式相片打印機",
+        "尺寸:": "80 x 117.5 x 25mm",
+        "重量:": "172g"
+    },
+    {
+        "names": "Gprinter 佳博 Wifi熱敏標簽打印機 1324D",
+        "rating": "",
+        "類型:": "標籤打印機",
+        "尺寸:": "180 x 210 x 285mm",
+        "重量:": "2.09kg"
+    },
+    {
+        "names": "TSC TE344",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,800",
+        "類型:": "條碼標籤列印機"
+    },
+    {
+        "names": "TSC TDP-225",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,620",
+        "類型:": "203 DPI",
+        "打印速度:": "最快可達每秒 5 英吋"
+    },
+    {
+        "names": "Brother PT-9800PCN",
+        "rating": "",
+        "類型:": "標籤機",
+        "重量:": "1.58kg"
+    },
+    {
+        "names": "Epson LAN 收據打印機 TM-T82X",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,890",
+        "類型:": "收據打印機",
+        "尺寸:": "140 x 137 x 192mm",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "HP Sprocket 相片打印機 (Z3Z91A)",
+        "rating": "4.7",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,010",
+        "類型:": "相片打印機",
+        "重量:": "0.172kg"
+    },
+    {
+        "names": "Gprinter 佳博 100mm 熱敏標籤打印機 1924D",
+        "rating": "10",
+        "類型:": "標籤打印機",
+        "尺寸:": "285 x 210 x 180mm",
+        "重量:": "2.04kg"
+    },
+    {
+        "names": "ZEBRA ZT230 (300dpi)",
+        "rating": "",
+        "hon_price_min": "7,780",
+        "hon_price_max": "7,950",
+        "water_price_min": "7,780",
+        "water_price_max": "7,780",
+        "類型:": "Thermal Transfer",
+        "介面:": "USB/RS232",
+        "尺寸:": "4\" Wide"
+    },
+    {
+        "names": "PMX 80mm 熱感發票打印機 (USB) 80C II",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,010",
+        "類型:": "發票打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "DYMO LabelManager 160",
+        "rating": "",
+        "water_price_min": "558",
+        "water_price_max": "558",
+        "類型:": "手提式",
+        "重量:": "1kg"
+    },
+    {
+        "names": "ZEBRA ZT230",
+        "rating": "",
+        "hon_price_min": "5,744",
+        "hon_price_max": "5,798",
+        "類型:": "Thermal Transfer",
+        "介面:": "USB/RS232",
+        "尺寸:": "4\" Wide"
+    },
+    {
+        "names": "Brady 標籤打印機 TLS2200",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "類型:": "標籤打印機",
+        "打印速度:": "12mm/sec"
+    },
+    {
+        "names": "Lifeprint 3x4.5 相片及影片打印機",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,198",
+        "類型:": "相片及影片打印機",
+        "重量:": "0.34kg"
+    },
+    {
+        "names": "Olympia Carrera Deluxe 打字機 Typewriter",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,580",
+        "類型:": "打字機",
+        "尺寸:": "闊412 x 深375 x 高117 毫米",
+        "重量:": "5.4 kg"
+    },
+    {
+        "names": "STAR SP747",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,540",
+        "類型:": "Dot Matrix Printer",
+        "介面:": "USB"
+    },
+    {
+        "names": "Nippo NS-300S (W/Spell Check) 電子打字機",
+        "rating": "",
+        "hon_price_min": "2,688",
+        "hon_price_max": "2,688",
+        "類型:": "電子打字機"
+    },
+    {
+        "names": "TSC TTP-247",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,510",
+        "water_price_min": "2,280",
+        "water_price_max": "2,280",
+        "類型:": "條碼標籤列印機"
+    },
+    {
+        "names": "STAR TSP100II Thermal Printers",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,850",
+        "類型:": "POS printer"
+    },
+    {
+        "names": "Citizen Receipt Printer CT-D150",
+        "rating": "",
+        "hon_price_min": "1,460",
+        "hon_price_max": "1,460",
+        "類型:": "Receipt Printer",
+        "尺寸:": "125 x 165 x 108mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Gprinter 佳博 GP-3150TIN",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "類型:": "Direct thermal",
+        "尺寸:": "230(D) x 156(W) x 147(H) mm",
+        "重量:": "1.65KG"
+    },
+    {
+        "names": "OCOM 3 Inch Direct Thermal Barcode Label Printer",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "類型:": "80mm Thermal Barcode Printer",
+        "尺寸:": "220 x 148 x 150mm"
+    },
+    {
+        "names": "Prynt Pocket for iPhone5 or newer",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "類型:": "手機相片打印機",
+        "尺寸:": "3.3 x 2.8 x 1.9 inches",
+        "重量:": "164g"
+    },
+    {
+        "names": "Citizen Receipt Printer CT-D151",
+        "rating": "",
+        "hon_price_min": "1,910",
+        "hon_price_max": "1,910",
+        "類型:": "Receipt Printer",
+        "尺寸:": "125 x 165 x 108mm",
+        "重量:": "1.3KG"
+    },
+    {
+        "names": "HITI P910L",
+        "rating": "",
+        "hon_price_min": "15,000",
+        "hon_price_max": "15,000",
+        "類型:": "相片打印機"
+    },
+    {
+        "names": "Kodak PD-480W",
+        "rating": "",
+        "hon_price_min": "829",
+        "hon_price_max": "999",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "類型:": "便攜式相片打印機",
+        "尺寸:": "166 x 100 x 69mm",
+        "重量:": "760"
+    },
+    {
+        "names": "TSC 輕量多功能工業型標籤印表機 MB340T",
+        "rating": "",
+        "hon_price_min": "5,520",
+        "hon_price_max": "5,590",
+        "類型:": "標籤打印機",
+        "重量:": "9.2kg"
+    },
+    {
+        "names": "Takara Tomy Printoss Minions",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "398",
+        "water_price_min": "190",
+        "water_price_max": "350",
+        "類型:": "手機相片打印機"
+    },
+    {
+        "names": "Sony DPP-FP65",
+        "rating": "",
+        "類型:": "Digital Photo Printer",
+        "尺寸:": "180 x 65 x 137mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Paperang 喵喵機 口袋打印機",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "相片打印機",
+        "尺寸:": "83x83x45mm",
+        "重量:": "160g"
+    },
+    {
+        "names": "Zenpert 先擘 桌上型條碼打印機 (203DPI) 4T200",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,170",
+        "類型:": "條碼打印機",
+        "尺寸:": "211 x 164 x 286mm",
+        "重量:": "2.45kg"
+    },
+    {
+        "names": "Fujifilm Instax SHARE SP-1 櫻桃小丸子特別版",
+        "rating": "10",
+        "類型:": "即影即有相片打印",
+        "尺寸:": "101.6 mm × 42 mm × 122.5 mm",
+        "重量:": "253g"
+    },
+    {
+        "names": "STAR TSP143",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,850",
+        "類型:": "熱敏式打印機"
+    },
+    {
+        "names": "Datamax E-4205A Mark III Label Printer",
+        "rating": "",
+        "hon_price_min": "2,609",
+        "hon_price_max": "2,609",
+        "類型:": "Label Printer"
+    },
+    {
+        "names": "HP DesignJet T2530 44\" PostScript ePrinter (L2Y26A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1399 x 916 x 1110mm",
+        "重量:": "112kg"
+    },
+    {
+        "names": "ZEBRA GX430T",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,630",
+        "類型:": "條形碼標籤打印機",
+        "尺寸:": "194mm(W)*191mm(H)*254mm(D)",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "Epson TM-U220D",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,830",
+        "類型:": "收據打印機"
+    },
+    {
+        "names": "Epson LabelWorks LW-400",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "398",
+        "類型:": "標籤機"
+    },
+    {
+        "names": "HP Designjet T795 44\" ePrinter (CR649C)",
+        "rating": "",
+        "類型:": "攜帶式打印機",
+        "尺寸:": "69.7 x 27.6 x 41.3 in",
+        "重量:": "81.6 kg"
+    },
+    {
+        "names": "Lifeprint Ultra Slim 相片及影片打印機",
+        "rating": "",
+        "hon_price_min": "828",
+        "hon_price_max": "828",
+        "類型:": "相片及影片打印機",
+        "重量:": "159g"
+    },
+    {
+        "names": "XYZPrinting UV Curing Chamber 固化機",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "2,220",
+        "類型:": "UV固化機",
+        "重量:": "4kg"
+    },
+    {
+        "names": "PeriPage Pocket",
+        "rating": "",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "類型:": "迷你熱感打印機",
+        "重量:": "155g"
+    },
+    {
+        "names": "DYMO LabelWriter 450 Turbo",
+        "rating": "",
+        "water_price_min": "3,100",
+        "water_price_max": "3,188",
+        "類型:": "熱敏式打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "Ucom Thermal Receipt Printer 368",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "類型:": "收據打印機",
+        "尺寸:": "145 x 195 x 148mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "ZEBRA 熱敏打印機 ZD410USB",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "2,460",
+        "類型:": "熱敏打印機",
+        "尺寸:": "220 x 115 x 151mm",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Zink hAppy",
+        "rating": "",
+        "類型:": "Phone Photo & Labels Wireless Printer",
+        "尺寸:": "11.3cm x 11.6cm x 9.6cm",
+        "重量:": "660g"
+    },
+    {
+        "names": "TSC 工業型標籤印表機 MH240",
+        "rating": "",
+        "hon_price_min": "6,350",
+        "hon_price_max": "6,350",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "TSC TTP-345",
+        "rating": "",
+        "hon_price_min": "2,730",
+        "hon_price_max": "2,890",
+        "water_price_min": "2,720",
+        "water_price_max": "2,720",
+        "類型:": "條碼標籤列印機"
+    },
+    {
+        "names": "EC Line Thermal Receipt Printer EC-PM-80330",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,380",
+        "類型:": "熱感發票打印機",
+        "介面:": "USB",
+        "尺寸:": "180 x 139 x 127mm"
+    },
+    {
+        "names": "Oki MICROLINE 320 Turbo",
+        "rating": "10",
+        "hon_price_min": "2,588",
+        "hon_price_max": "2,588",
+        "類型:": "點陣式",
+        "尺寸:": "116 x 398 x 345mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "Kodak PM-210",
+        "rating": "",
+        "hon_price_min": "567",
+        "hon_price_max": "716",
+        "water_price_min": "728",
+        "water_price_max": "728",
+        "類型:": "迷你相片打印機",
+        "尺寸:": "80 x 156 x 25mm",
+        "重量:": "238g"
+    },
+    {
+        "names": "HP Designjet Z3200ps 44\" Photo Printer (Q6721A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "重量:": "47kg"
+    },
+    {
+        "names": "HITI P520L",
+        "rating": "",
+        "類型:": "相片打印機",
+        "打印速度:": "12秒一張"
+    },
+    {
+        "names": "TSC TTP-343",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,930",
+        "類型:": "標籤打印機",
+        "介面:": "USB"
+    },
+    {
+        "names": "Brother PJ-663",
+        "rating": "",
+        "類型:": "熱感式",
+        "尺寸:": "255 x 55 x 30mm",
+        "重量:": "473g"
+    },
+    {
+        "names": "HITI P750L",
+        "rating": "",
+        "類型:": "相片印表機",
+        "尺寸:": "300 x 424 x 425mm"
+    },
+    {
+        "names": "ZEBRA Mobile Printer ZQ110",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,300",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "Datamax E-4204B Mark III Label Printer",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "1,990",
+        "類型:": "Label Printer"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-P2868-CK2",
+        "rating": "",
+        "類型:": "點陣式打印機",
+        "重量:": "14千克"
+    },
+    {
+        "names": "ZEBRA GC420t",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,930",
+        "類型:": "Thermal Transfer",
+        "介面:": "USB/RS232/Parallel",
+        "尺寸:": "4\" Wide"
+    },
+    {
+        "names": "Polymaker Polysher",
+        "rating": "",
+        "類型:": "3D打印機"
+    },
+    {
+        "names": "PRIMEX PM-80260",
+        "rating": "",
+        "類型:": "熱感發票打印機",
+        "介面:": "serial usb ethernet"
+    },
+    {
+        "names": "Brother PT-1280SN",
+        "rating": "",
+        "類型:": "電子標籤機",
+        "重量:": "485g"
+    },
+    {
+        "names": "HP DesignJet T3500 36\" Production Multifunction Printer (B9E24A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1400 x 784 x 1109mm",
+        "重量:": "114kg"
+    },
+    {
+        "names": "Epson FX-890",
+        "rating": "",
+        "hon_price_min": "3,410",
+        "hon_price_max": "3,410",
+        "類型:": "點陣式",
+        "尺寸:": "414 x 350 x 167.5mm",
+        "重量:": "7.2kg"
+    },
+    {
+        "names": "Brother PT-H300",
+        "rating": "",
+        "類型:": "標籤機",
+        "尺寸:": "5.2\" x 8.4\" x 2.6\""
+    },
+    {
+        "names": "Xprinter 4 inch Wifi Desktop Thermal Label Printer XP-420B",
+        "rating": "",
+        "類型:": "標籤打印機",
+        "尺寸:": "215 x 178 x 155mm",
+        "重量:": "1.31kg"
+    },
+    {
+        "names": "Brother PT-1280KT",
+        "rating": "8.0",
+        "類型:": "電子標籤機",
+        "重量:": "485g"
+    },
+    {
+        "names": "Prinics PicKit M1",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "類型:": "手機相片打印機"
+    },
+    {
+        "names": "Xiaomi 小米 XPrint極印手機照片印表機",
+        "rating": "",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "類型:": "手機照片印表機",
+        "重量:": "268g"
+    },
+    {
+        "names": "HP DesignJet T930 36\" PostScript Printer (L2Y22A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1399 x 916 x 1110mm",
+        "重量:": "87kg"
+    },
+    {
+        "names": "Fujifilm Instax SHARE SP-1 Hello Kitty特別版",
+        "rating": "10",
+        "類型:": "即影即有相片打印",
+        "尺寸:": "101.6mm x 42mm x 122.5mm",
+        "重量:": "253g"
+    },
+    {
+        "names": "Airwolf3D Airwolf Evo R (For Educational And Professional Use)",
+        "rating": "",
+        "類型:": "3D打印機",
+        "尺寸:": "300 x 220 x 229mm",
+        "重量:": "55 lbs."
+    },
+    {
+        "names": "Gprinter 佳博 GP-1125T",
+        "rating": "10",
+        "類型:": "熱敏標簽條碼打印機",
+        "尺寸:": "285mm*210mm*180mm",
+        "重量:": "2.09kg"
+    },
+    {
+        "names": "HP DesignJet Z6800 60\" Photo Production Printer (F2S72A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "2430 x 690 x 1370mm",
+        "重量:": "190kg"
+    },
+    {
+        "names": "HP DesignJet T930 24\" Printer (L2Y21A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1399 x 916 x 1110mm",
+        "重量:": "87kg"
+    },
+    {
+        "names": "Hiti Pringo P231",
+        "rating": "",
+        "類型:": "wifi 行動相片印表機",
+        "尺寸:": "94x145.8x25.1mm",
+        "重量:": "394g"
+    },
+    {
+        "names": "Brother PT-2730",
+        "rating": "",
+        "類型:": "手提標籤機",
+        "打印速度:": "10mm/s"
+    },
+    {
+        "names": "LG 樂金 PD221",
+        "rating": "10",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "類型:": "相片打印機",
+        "打印速度:": "NFC手機"
+    },
+    {
+        "names": "Epson TM-T70",
+        "rating": "",
+        "hon_price_min": "2,175",
+        "hon_price_max": "2,175",
+        "類型:": "熱敏式打印機",
+        "打印速度:": "最高速170mm/sec"
+    },
+    {
+        "names": "Kodak Mini 2 Plus 迷你無線相片打印機",
+        "rating": "",
+        "類型:": "手機相片打印機",
+        "尺寸:": "183 x 165 x 28mm",
+        "重量:": "113g"
+    },
+    {
+        "names": "Brother PT-9600",
+        "rating": "",
+        "類型:": "標籤機",
+        "重量:": "1.9kg"
+    },
+    {
+        "names": "Gprinter 佳博 GP-80250IV",
+        "rating": "10",
+        "類型:": "熱敏式打印機",
+        "尺寸:": "140×196×140mm (寬×深×高)",
+        "重量:": "1.75KG"
+    },
+    {
+        "names": "HP Designjet T520 36\" ePrinter (CQ893A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "50.9 x 20.9 x 36.7 in",
+        "重量:": "39.2 kg"
+    },
+    {
+        "names": "OCOM Powerful High Speed 80mm Thermal Receipt Printer (OCPP-88A-BU)",
+        "rating": "",
+        "類型:": "Thermal line printing",
+        "尺寸:": "190 x 145 x 145mm",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "Epson FX-2190",
+        "rating": "",
+        "hon_price_min": "4,020",
+        "hon_price_max": "4,020",
+        "類型:": "點陣式",
+        "介面:": "Parallel / USB / Lan"
+    },
+    {
+        "names": "Nippo NP-1000 電子打字機",
+        "rating": "",
+        "類型:": "電子打字機"
+    },
+    {
+        "names": "Hiti Pringo Prinhome",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "類型:": "wifi 行動相片印表機",
+        "重量:": "998 ± 20克(不含耗材)"
+    },
+    {
+        "names": "Olympia Compact 5 Electronics Typewriter",
+        "rating": "",
+        "類型:": "電子打字機"
+    },
+    {
+        "names": "Evolis Primacy (Dual Side)",
+        "rating": "",
+        "hon_price_min": "13,000",
+        "hon_price_max": "13,000",
+        "類型:": "證卡打印機"
+    },
+    {
+        "names": "Paperang 條條機",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "標籤打印機"
+    },
+    {
+        "names": "Gprinter 佳博 條碼打印機 3100TU",
+        "rating": "",
+        "類型:": "條碼打印機",
+        "尺寸:": "227 x 152 x 143mm",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "HP Designjet T920 36\" ePrinter (CR354A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "55.1 x 27.3 x 37.4 in",
+        "重量:": "87 kg"
+    },
+    {
+        "names": "Epson TM-T70-i",
+        "rating": "",
+        "類型:": "熱敏式打印機",
+        "重量:": "1.8 kg"
+    },
+    {
+        "names": "Brother FAX-878",
+        "rating": "8.0",
+        "類型:": "普通紙熱感轉印",
+        "尺寸:": "324 x 271 x 340mm",
+        "重量:": "2.8KG"
+    },
+    {
+        "names": "Olympia Compact 5 DM Electronics Typewriter",
+        "rating": "",
+        "類型:": "電子打字機"
+    },
+    {
+        "names": "Oki MICROLINE 1120",
+        "rating": "",
+        "hon_price_min": "1,218",
+        "hon_price_max": "1,218",
+        "類型:": "點陣式",
+        "尺寸:": "35.0 x 23.1 x 14.9 inch",
+        "重量:": "4.2lbs"
+    },
+    {
+        "names": "LG 樂金 PD251",
+        "rating": "10",
+        "類型:": "口袋型打印機",
+        "尺寸:": "79 x 128 x 23.5 mm",
+        "重量:": "183g"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-P1668-CK2",
+        "rating": "",
+        "類型:": "點陣式打印機",
+        "重量:": "5.2KG"
+    },
+    {
+        "names": "LG 樂金 PD239",
+        "rating": "9.3",
+        "類型:": "口袋相印機",
+        "尺寸:": "76 x 126 x 20 mm",
+        "重量:": "221g"
+    },
+    {
+        "names": "HP Designjet D5800 60\" Production Printer (F2L45A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "95.7 x 27.2 x 53.9 in",
+        "重量:": "180 kg"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-FC228HK",
+        "rating": "",
+        "類型:": "傳真機",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "HP Designjet T120 24\" ePrinter (CQ891A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "38.9 x 20.9 x 11.2 in",
+        "重量:": "25.5kg"
+    },
+    {
+        "names": "Epson LabelWorks LW-300",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "標籤機"
+    },
+    {
+        "names": "Fujifilm SHARE SP-1",
+        "rating": "10",
+        "water_price_min": "950",
+        "water_price_max": "950",
+        "類型:": "即影即有相片打印",
+        "尺寸:": "101.6 mm × 42 mm × 122.5 mm",
+        "重量:": "253g"
+    },
+    {
+        "names": "Memobird G2 第二代 咕咕迷你打印機 熱感打印",
+        "rating": "10",
+        "類型:": "熱敏打印",
+        "重量:": "162g"
+    },
+    {
+        "names": "Partner RP-500",
+        "rating": "",
+        "類型:": "Thermal Receipt Printer",
+        "介面:": "parallel/serial/usb"
+    },
+    {
+        "names": "Brother PT-E300",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,320",
+        "類型:": "標籤機",
+        "尺寸:": "134 x 221 x 69mm (w x h x d)",
+        "重量:": "750g"
+    },
+    {
+        "names": "Oki MICROLINE 720",
+        "rating": "",
+        "類型:": "點陣式",
+        "尺寸:": "153 x 398 x 345mm",
+        "重量:": "7.5kg"
+    },
+    {
+        "names": "Olympia Supertype 330 Electronics Typewriter",
+        "rating": "",
+        "類型:": "電子打字機"
+    },
+    {
+        "names": "Zywell 809 Thermal Label and Receipt Printer",
+        "rating": "",
+        "類型:": "標籤打印機",
+        "尺寸:": "196 x 145 x 140mm",
+        "重量:": "1100g"
+    },
+    {
+        "names": "Gprinter 佳博 GP-3120TL",
+        "rating": "",
+        "類型:": "Direct thermal",
+        "尺寸:": "215(D) x 148(W) x 155(H) mm",
+        "重量:": "1.4KG"
+    },
+    {
+        "names": "OCOM Powerful High Speed 80mm Thermal Receipt Printer (OCPP-88A-U)",
+        "rating": "",
+        "類型:": "Thermal line printing",
+        "尺寸:": "190 x 145 x 145mm",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "Brother CM350",
+        "rating": "",
+        "類型:": "裁剪機"
+    },
+    {
+        "names": "HP Sprocket 相片打印機 Z3Z93A",
+        "rating": "",
+        "類型:": "手機相片打印機",
+        "尺寸:": "75 x 116 x 23mm",
+        "重量:": "0.172kg"
+    },
+    {
+        "names": "Gprinter 佳博 GP-3120TU",
+        "rating": "10",
+        "類型:": "熱感式條碼標籤機",
+        "尺寸:": "227(D)x152(W)x143(H)mm",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "HP DesignJet T1530 36\" PostScript Printer (L2Y24A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1399 x 916 x 1110mm",
+        "重量:": "88kg"
+    },
+    {
+        "names": "Brother FAX-837MCS",
+        "rating": "",
+        "類型:": "具有留言功能的傳真機",
+        "重量:": "2.8kg"
+    },
+    {
+        "names": "Brother PT-E100",
+        "rating": "",
+        "類型:": "標籤機",
+        "尺寸:": "110 x 208 x 59mm (w x h x d)",
+        "重量:": "390g"
+    },
+    {
+        "names": "Oki MICROLINE 184 Turbo +",
+        "rating": "",
+        "類型:": "點陣式",
+        "尺寸:": "80mm x 372mm x 275mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "Brother FAX837MCS",
+        "rating": "",
+        "類型:": "FAX",
+        "重量:": "2.8kg"
+    },
+    {
+        "names": "Tomy KiiPix Smartphone Picture Printer",
+        "rating": "",
+        "類型:": "手機相片打印機"
+    },
+    {
+        "names": "Oki MICROLINE 791",
+        "rating": "",
+        "類型:": "點陣式",
+        "尺寸:": "153 x 552 x 345mm",
+        "重量:": "9.6kg"
+    },
+    {
+        "names": "Gprinter 佳博 GP-C80180I",
+        "rating": "",
+        "類型:": "Direct thermal",
+        "尺寸:": "167 x 132 x 133mm",
+        "重量:": "0.9kg"
+    },
+    {
+        "names": "Godex RT200",
+        "rating": "",
+        "類型:": "Mini Barcode Printer",
+        "介面:": "USB"
+    },
+    {
+        "names": "HP DesignJet Z6200 42\" Photo Printer (CQ109A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1970 x 690 x 1370mm",
+        "重量:": "123kg"
+    },
+    {
+        "names": "HP PageWide XL 8000 Printer (L3A09A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1960 x 800 x 1527mm",
+        "重量:": "478kg"
+    },
+    {
+        "names": "LG 樂金 PD239 Hello Kitty 特別版",
+        "rating": "10",
+        "類型:": "手機相片打印機"
+    },
+    {
+        "names": "Gprinter 佳博 GP-1124T",
+        "rating": "",
+        "類型:": "熱敏標簽條碼打印機",
+        "尺寸:": "285mm*210mm*180mm",
+        "重量:": "2.09kg"
+    },
+    {
+        "names": "Datacard SP30 Plus",
+        "rating": "",
+        "類型:": "印卡機"
+    },
+    {
+        "names": "Gprinter 佳博 GP-2120TL",
+        "rating": "",
+        "類型:": "Direct thermal",
+        "尺寸:": "220(D) x 110(W) x 160(H) mm",
+        "重量:": "1.1KG"
+    },
+    {
+        "names": "Axco CW1024 電子支票機/國際貨幣",
+        "rating": "",
+        "類型:": "電子支票機/國際貨幣",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-FP208HK",
+        "rating": "",
+        "類型:": "普通紙傳真機",
+        "重量:": "約2.7 (千克)"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-FC966HK",
+        "rating": "",
+        "類型:": "數碼家居傳真機",
+        "重量:": "2.8 (千克)"
+    },
+    {
+        "names": "HP Designjet Z3200ps 24\" Photo Printer (Q6720B)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "49.7 x 27.2 x 41.2 in",
+        "重量:": "65 kg"
+    },
+    {
+        "names": "Godex RT230i",
+        "rating": "",
+        "類型:": "Standalone Label/Ticket Printer",
+        "介面:": "USB/Ethernet"
+    },
+    {
+        "names": "OCOM Powerful High Speed 80mm Thermal Receipt Printer (OCPP-88A-W0)",
+        "rating": "",
+        "類型:": "Thermal line printing",
+        "尺寸:": "190 x 145 x 145mm",
+        "重量:": "1.6kg"
+    },
+    {
+        "names": "PIckit  Wifi Photo Printer",
+        "rating": "",
+        "類型:": "2R相片打印機",
+        "尺寸:": "76.1 x 152.8 x 24mm",
+        "重量:": "238g"
+    },
+    {
+        "names": "Epson PLQ-20/20K/20KM",
+        "rating": "",
+        "類型:": "點陣式",
+        "尺寸:": "384 x 280 x 203mm",
+        "重量:": "7.7kg"
+    },
+    {
+        "names": "Panasonic 樂聲 UF-7300",
+        "rating": "",
+        "類型:": "鐳射式傳真",
+        "尺寸:": "450 x 440 x 360mm",
+        "重量:": "23KG"
+    },
+    {
+        "names": "EC Line EC-PM-520",
+        "rating": "4.0",
+        "類型:": "Dot Matrix Printer",
+        "介面:": "USB Serial Parallel Ethernet"
+    },
+    {
+        "names": "HITI CS200-e",
+        "rating": "",
+        "類型:": "卡打印機"
+    },
+    {
+        "names": "Gprinter 佳博 GP-58130IC",
+        "rating": "",
+        "類型:": "感熱式小票打印機",
+        "尺寸:": "145*186*140",
+        "重量:": "1.45KG"
+    },
+    {
+        "names": "HP DesignJet Z5400 44\" PostScript Printer (E1L21A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1770 x 721 x 1050mm",
+        "重量:": "86kg"
+    },
+    {
+        "names": "HP Sprocket Photo Printer (Swarovski) (Z3Z92A)",
+        "rating": "2.0",
+        "類型:": "相片打印機",
+        "重量:": "0.172kg"
+    },
+    {
+        "names": "LG 樂金 PD233",
+        "rating": "10",
+        "類型:": "NFC Printer"
+    },
+    {
+        "names": "Nippo NP-1500 電子打字機",
+        "rating": "",
+        "類型:": "電子打字機"
+    },
+    {
+        "names": "OCOM 80mm POS Thermal Receipt Printer (OCPP-80X)",
+        "rating": "",
+        "類型:": "Direct thermal",
+        "尺寸:": "190 x 145 x 143mm",
+        "重量:": "1.45kg"
+    },
+    {
+        "names": "HP Designjet Z5400PS 44\" ePrinter (E1L21A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "69.7 x 28.4 x 41.3 in",
+        "重量:": "86 kg"
+    },
+    {
+        "names": "HP Designjet T520 24\" ePrinter (CQ890A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "38.9 x 20.9 x 36.7 in",
+        "重量:": "34 kg"
+    },
+    {
+        "names": "HP DesignJet T1530 36\" Printer (L2Y23A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1399 x 916 x 1110mm",
+        "重量:": "88kg"
+    },
+    {
+        "names": "Fujifilm Instax SHARE SP-1",
+        "rating": "8.8",
+        "類型:": "Portable Printer",
+        "重量:": "253g (without battery and film pack)"
+    },
+    {
+        "names": "Brother QL700",
+        "rating": "",
+        "類型:": "標籤機",
+        "重量:": "1.12kg"
+    },
+    {
+        "names": "HITI P525L",
+        "rating": "",
+        "類型:": "相片印表機",
+        "尺寸:": "327 x 300 x 359mm"
+    },
+    {
+        "names": "Brother FAX-236S",
+        "rating": "",
+        "類型:": "直接熱感式",
+        "尺寸:": "299 x 240 x 137mm",
+        "重量:": "2.9kg"
+    },
+    {
+        "names": "HP DesignJet T790 24\" Printer (CR647A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1262 x 702 x 1050mm",
+        "重量:": "60kg"
+    },
+    {
+        "names": "DYMO Rhino 4200",
+        "rating": "",
+        "類型:": "標籤機",
+        "尺寸:": "157 x 87 x 230mm",
+        "重量:": "700g"
+    },
+    {
+        "names": "Gprinter 佳博 GP-U80250I",
+        "rating": "",
+        "類型:": "Direct thermal",
+        "尺寸:": "170(D) x 135(W) x 115(H) mm",
+        "重量:": "1.2KG"
+    },
+    {
+        "names": "Oki MICROLINE 721",
+        "rating": "",
+        "類型:": "點陣式",
+        "尺寸:": "153 x 552 x 345mm",
+        "重量:": "9.5kg"
+    },
+    {
+        "names": "Epson LX-300+II",
+        "rating": "",
+        "類型:": "點陣式",
+        "介面:": "USB, Parallel , Serial Interface"
+    },
+    {
+        "names": "Brother PT-H100",
+        "rating": "",
+        "類型:": "標籤機",
+        "尺寸:": "4.3\" w x 8.2\" h x 2.3\" d"
+    },
+    {
+        "names": "HP DesignJet T7200 42\" Production Printer (F2L46A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1974 x 700 x 1374mm",
+        "重量:": "187kg"
+    },
+    {
+        "names": "Brother QL-720NW",
+        "rating": "8.0",
+        "類型:": "專業無線標籤機",
+        "介面:": "USB 2.0 + LAN + WIFI (802.11B/G/N)",
+        "尺寸:": "128 mm x 236 mm x 153 mm"
+    },
+    {
+        "names": "MoneyScan EC-12 電子支票機/國際貨幣",
+        "rating": "",
+        "類型:": "電子支票機"
+    },
+    {
+        "names": "Oki MICROLINE 1190",
+        "rating": "",
+        "類型:": "點陣式",
+        "尺寸:": "150 x 349 x 232mm",
+        "重量:": "4.2kg"
+    },
+    {
+        "names": "DYMO LabelWriter 450 Duo",
+        "rating": "",
+        "類型:": "標籤打印機",
+        "介面:": "USB connected"
+    },
+    {
+        "names": "Epson LQ-300+II",
+        "rating": "",
+        "類型:": "點陣式",
+        "介面:": "USB, Parallel , Serial Interface"
+    },
+    {
+        "names": "Nippo NT-8000 電子打字機",
+        "rating": "",
+        "類型:": "電子打字機"
+    },
+    {
+        "names": "HP DesignJet T730 36\" Printer (F9A29B)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "重量:": "48kg"
+    },
+    {
+        "names": "Gprinter 佳博 GP-L80160I",
+        "rating": "",
+        "類型:": "Direct thermal",
+        "介面:": "64/76mm",
+        "尺寸:": "170(D) x 135(W) x 115(H) mm"
+    },
+    {
+        "names": "HP Page Wide XL 5000 Multifunction Printer (2RQ20A)",
+        "rating": "",
+        "類型:": "大幅面打印機",
+        "尺寸:": "1960 x 864 x 1303mm",
+        "重量:": "430kg"
+    }
+]

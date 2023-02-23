@@ -1,0 +1,3919 @@
+[
+    {
+        "names": "Western Digital Red Plus NAS 3.5-inch Hard Drive 4TB (WD40EFPX)",
+        "rating": "10",
+        "hon_price_min": "585",
+        "hon_price_max": "688",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 4TB ST4000VN006",
+        "rating": "10",
+        "hon_price_min": "591",
+        "hon_price_max": "648",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Red Plus 3.5\" NAS HDD 8TB (WD80EFZZ)",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,398",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 4TB 3.5'' Purple Surveillance HDD WD42EJRX",
+        "rating": "9.7",
+        "hon_price_min": "488",
+        "hon_price_max": "570",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise 16TB MG08ACA16TE",
+        "rating": "9.6",
+        "hon_price_min": "1,625",
+        "hon_price_max": "3,000",
+        "容量:": "16TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise 8TB MG08ADA800E",
+        "rating": "8.6",
+        "hon_price_min": "1,013",
+        "hon_price_max": "1,518",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate SkyHawk 4TB Hard Drive ST4000VX005",
+        "rating": "",
+        "hon_price_min": "497",
+        "hon_price_max": "560",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD40EJRX 4TB",
+        "rating": "8.0",
+        "hon_price_min": "488",
+        "hon_price_max": "699",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Toshiba 東芝 4TB Desktop HDD DT02ABA400",
+        "rating": "7.6",
+        "hon_price_min": "477",
+        "hon_price_max": "698",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 18TB (ST18000NE000)",
+        "rating": "10",
+        "hon_price_min": "2,999",
+        "hon_price_max": "3,680",
+        "容量:": "18TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 4TB HDD Red Plus WD40EFZX",
+        "rating": "10",
+        "hon_price_min": "585",
+        "hon_price_max": "788",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise 8TB HDD (MG06ACA800E)",
+        "rating": "10",
+        "hon_price_min": "1,013",
+        "hon_price_max": "2,180",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 16TB Ultrastar HDD He16",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "3,650",
+        "容量:": "16TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 20TB ST20000NE000",
+        "rating": "",
+        "hon_price_min": "3,530",
+        "hon_price_max": "4,475",
+        "容量:": "20TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 2TB Purple Surveillance Hard Drive (WD22EJRX)",
+        "rating": "8.0",
+        "hon_price_min": "360",
+        "hon_price_max": "416",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 10TB Ultrastar DC HC330 Enterprise HDD WUS721010ALE6L4",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,928",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD Red Plus NAS 3.5-inch Hard Drive 6TB (WD60EFPX)",
+        "rating": "",
+        "hon_price_min": "907",
+        "hon_price_max": "977",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 18TB Helium Enterprise MG09ACA18TE",
+        "rating": "8.7",
+        "hon_price_min": "1,861",
+        "hon_price_max": "3,100",
+        "容量:": "18TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 8TB Red NAS Hard Drive (WD80EFbX)",
+        "rating": "",
+        "hon_price_min": "1,148",
+        "hon_price_max": "2,400",
+        "water_price_min": "1,570",
+        "water_price_max": "1,570",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 10TB HDD Red Plus WD101EFBX",
+        "rating": "10",
+        "hon_price_min": "1,585",
+        "hon_price_max": "2,030",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Purple Surveillance Hard Drive 8TB, 128MB ,5640rpm WD84EJRX",
+        "rating": "10",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,380",
+        "water_price_min": "1,368",
+        "water_price_max": "1,368",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Western Digital 4TB 3.5\" Red NAS Hard Drive WD40EFAX",
+        "rating": "4.4",
+        "hon_price_min": "585",
+        "hon_price_max": "1,280",
+        "water_price_min": "693",
+        "water_price_max": "693",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD Blue 3.5\" HDD 6TB WD60EZAZ",
+        "rating": "9.1",
+        "hon_price_min": "770",
+        "hon_price_max": "985",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Blue PC Desktop Hard Drive 2TB WD20EZAZ",
+        "rating": "6.0",
+        "hon_price_min": "338",
+        "hon_price_max": "415",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate Exos X16 HDD 16TB ST16000NM001G",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "5,200",
+        "water_price_min": "2,230",
+        "water_price_max": "2,230",
+        "容量:": "16TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate 3.5\" BarraCuda 2TB - ST2000DM008",
+        "rating": "7.5",
+        "hon_price_min": "354",
+        "hon_price_max": "450",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Western Digital 4TB 3.5'' Purple Surveillance HDD WD42EJRX",
+        "rating": "9.7",
+        "hon_price_min": "488",
+        "hon_price_max": "570",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 2TB Purple Surveillance Hard Drive (WD22EJRX)",
+        "rating": "8.0",
+        "hon_price_min": "360",
+        "hon_price_max": "416",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 MQ04ABF100 Client HDD 1TB",
+        "rating": "8.5",
+        "hon_price_min": "256",
+        "hon_price_max": "310",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" Ultrastar DC HC530 14TB WUH721414ALE6L4",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "3,050",
+        "容量:": "14TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 2TB 7200rpm WD Blue PC Desktop Hard Drive WD20EZBX",
+        "rating": "8.0",
+        "hon_price_min": "365",
+        "hon_price_max": "419",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise 4TB MG08ADA400E",
+        "rating": "10",
+        "hon_price_min": "764",
+        "hon_price_max": "830",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 2TB 2.5\" Blue PC Mobile Hard Drive (WD20SPZX)",
+        "rating": "9.5",
+        "hon_price_min": "398",
+        "hon_price_max": "465",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD20SPZX 2TB",
+        "rating": "9.5",
+        "hon_price_min": "398",
+        "hon_price_max": "455",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Toshiba 東芝 HDD 2TB DT02ABA200",
+        "rating": "10",
+        "hon_price_min": "330",
+        "hon_price_max": "400",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 8TB ST8000VN004",
+        "rating": "9.5",
+        "hon_price_min": "1,136",
+        "hon_price_max": "1,860",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 6TB HDD Red Plus WD60EFZX",
+        "rating": "10",
+        "hon_price_min": "907",
+        "hon_price_max": "1,082",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Black Performance Mobile Hard Drive 500GB (WD5000LPSX)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "容量:": "500GB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 4TB ST4000NE0025",
+        "rating": "10",
+        "hon_price_min": "781",
+        "hon_price_max": "1,298",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive 2TB (WD20EFAX)",
+        "rating": "7.5",
+        "hon_price_min": "395",
+        "hon_price_max": "510",
+        "water_price_min": "595",
+        "water_price_max": "595",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise 8TB MG05ACA800E",
+        "rating": "8.7",
+        "hon_price_min": "1,013",
+        "hon_price_max": "2,180",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Western Digital Ultrastar DC HC560 SE SATA 20TB (0F38785)",
+        "rating": "",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,750",
+        "容量:": "20TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Red Pro 3.5\" NAS HDD 16TB (WD161KFGX)",
+        "rating": "",
+        "hon_price_min": "2,899",
+        "hon_price_max": "4,390",
+        "容量:": "16TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Red Pro NAS Hard Drive 8TB WD8003FFBX",
+        "rating": "",
+        "hon_price_min": "1,397",
+        "hon_price_max": "1,988",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise HDD 12TB MG07ACA12TE",
+        "rating": "10",
+        "hon_price_min": "1,508",
+        "hon_price_max": "1,950",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST1000DM010",
+        "rating": "10",
+        "hon_price_min": "274",
+        "hon_price_max": "370",
+        "water_price_min": "295",
+        "water_price_max": "295",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Western Digital Blue PC HDD 4TB WD40EZAZ",
+        "rating": "2.0",
+        "hon_price_min": "552",
+        "hon_price_max": "680",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive 6TB - WD60EFRX",
+        "rating": "6.0",
+        "hon_price_min": "907",
+        "hon_price_max": "1,650",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb s"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 10TB ST10000VN0008",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,250",
+        "water_price_min": "1,788",
+        "water_price_max": "1,788",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise Capacity 7200rpm HDD 6TB MG08ADA600E",
+        "rating": "2.0",
+        "hon_price_min": "938",
+        "hon_price_max": "1,299",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 DT01ACA100",
+        "rating": "7.4",
+        "hon_price_min": "250",
+        "hon_price_max": "378",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Seagate ST4000VN008",
+        "rating": "10",
+        "hon_price_min": "591",
+        "hon_price_max": "801",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate SkyHawk Surveillance 3.5吋硬碟機 4TB ST4000VX013",
+        "rating": "10",
+        "hon_price_min": "497",
+        "hon_price_max": "620",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 12TB ST12000NE0008",
+        "rating": "8.5",
+        "hon_price_min": "1,840",
+        "hon_price_max": "2,899",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3TB HDD Red Plus WD30EFZX",
+        "rating": "10",
+        "hon_price_min": "586",
+        "hon_price_max": "699",
+        "容量:": "3TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate BarraCuda 3.5-inch HDD 4TB ST4000DM004",
+        "rating": "9.7",
+        "hon_price_min": "478",
+        "hon_price_max": "730",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 4TB ST4000NE001",
+        "rating": "10",
+        "hon_price_min": "781",
+        "hon_price_max": "929",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital HGST Ultrastar DC HC320 7200rpm Enterprise Hard Disk 8TB HUS728T8TALE6L4",
+        "rating": "7.1",
+        "hon_price_min": "1,044",
+        "hon_price_max": "2,050",
+        "water_price_min": "2,180",
+        "water_price_max": "2,180",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 2TB Red Plus NAS 3.5\" Hard Drive WD20EFZX",
+        "rating": "10",
+        "hon_price_min": "395",
+        "hon_price_max": "498",
+        "water_price_min": "423",
+        "water_price_max": "423",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 4TB Enterprise Capacity 7200rpm HDD MG08ADA400N",
+        "rating": "9.0",
+        "hon_price_min": "764",
+        "hon_price_max": "899",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate Enterprise Capacity 3.5 HDD 2TB ST2000NM0008",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "990",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6GB"
+    },
+    {
+        "names": "Western Digital WD40EZRZ",
+        "rating": "7.0",
+        "hon_price_min": "552",
+        "hon_price_max": "799",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Western Digital 18TB Ultrastar HDD He18",
+        "rating": "9.7",
+        "hon_price_min": "1,940",
+        "hon_price_max": "2,200",
+        "容量:": "18TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Synology 3.5 吋 SAS HDD HAS5300-16T",
+        "rating": "",
+        "hon_price_min": "6,280",
+        "hon_price_max": "7,999",
+        "容量:": "16TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital Red Pro 3.5\" NAS HDD 18TB (WD181KFGX)",
+        "rating": "",
+        "hon_price_min": "3,190",
+        "hon_price_max": "5,380",
+        "容量:": "18TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 DT01ACA200 2TB",
+        "rating": "9.4",
+        "hon_price_min": "370",
+        "hon_price_max": "480",
+        "容量:": "2TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Lenovo ThinkSystem 2.5吋 1.2TB 10K SAS 12Gb Hot Swap 512n HDD (7XB7A00027)",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "2,980",
+        "容量:": "1.2TB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate 2.5\" BarraCuda 1TB - ST1000LM048",
+        "rating": "8.0",
+        "hon_price_min": "295",
+        "hon_price_max": "360",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 16TB ST16000VN001",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "3,899",
+        "water_price_min": "3,310",
+        "water_price_max": "3,310",
+        "容量:": "16TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 14TB ST14000NE0008",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "3,880",
+        "容量:": "14TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 16TB ST16000NT001",
+        "rating": "",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,699",
+        "容量:": "16TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate 2.5\" BarraCuda 4TB - ST4000LM024",
+        "rating": "",
+        "hon_price_min": "1,116",
+        "hon_price_max": "1,350",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 MG06ACA10TE 10TB",
+        "rating": "10",
+        "hon_price_min": "1,378",
+        "hon_price_max": "2,580",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 16TB ST16000NE000",
+        "rating": "10",
+        "hon_price_min": "2,546",
+        "hon_price_max": "3,280",
+        "容量:": "16TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 DT01ACA300",
+        "rating": "8.5",
+        "hon_price_min": "495",
+        "hon_price_max": "538",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Synology 8TB 3.5\" SATA HDD HAT5300 HD-HA538T",
+        "rating": "",
+        "hon_price_min": "2,689",
+        "hon_price_max": "3,424",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital HGST Ultrastar DC HA210 (7K2) 7200rpm Enterprise Hard Disk 2TB HUS722T2TALA604",
+        "rating": "",
+        "hon_price_min": "817",
+        "hon_price_max": "929",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 6TB ST6000NE0021",
+        "rating": "",
+        "hon_price_min": "953",
+        "hon_price_max": "1,899",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB"
+    },
+    {
+        "names": "Western Digital 1TB 2.5\" Blue PC Mobile Hard Drive (WD10SPZX)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "315",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 MQ04ABD200",
+        "rating": "10",
+        "hon_price_min": "385",
+        "hon_price_max": "488",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 8TB ST8000NE001",
+        "rating": "9.4",
+        "hon_price_min": "1,206",
+        "hon_price_max": "1,550",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Lenovo ThinkSystem 2.5吋 2.4TB 10K SAS 12Gb Hot Swap 512e HDD (7XB7A00069)",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "4,750",
+        "容量:": "2.4TB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise 14TB MG07ACA14TE",
+        "rating": "10",
+        "hon_price_min": "1,599",
+        "hon_price_max": "7,980",
+        "容量:": "14TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Purple Surveillance Hard Drive 8TB (WD82EJRX)",
+        "rating": "10",
+        "hon_price_min": "1,060",
+        "hon_price_max": "2,380",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Blue PC Desktop Hard Drive 2TB WD20EZAZ",
+        "rating": "6.0",
+        "hon_price_min": "338",
+        "hon_price_max": "415",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 14TB HDD Red Plus WD140EFGX",
+        "rating": "",
+        "hon_price_min": "2,128",
+        "hon_price_max": "3,980",
+        "容量:": "14TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red Pro NAS Hard Drive 4TB (WD4003FFBX)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,280",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 10TB ST10000NE0008",
+        "rating": "10",
+        "hon_price_min": "1,736",
+        "hon_price_max": "2,450",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Synology 3.5 吋 SATA HDD HAT5300-8T",
+        "rating": "",
+        "hon_price_min": "3,253",
+        "hon_price_max": "3,424",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Seagate 2TB SkyHawk Surveillance ST2000VX015",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "429",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 6TB ST6000NE000",
+        "rating": "10",
+        "hon_price_min": "953",
+        "hon_price_max": "1,230",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 10TB (ST10000VN000)",
+        "rating": "",
+        "hon_price_min": "1,598",
+        "hon_price_max": "1,857",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital HGST Ultrastar DC HC520 (He12) 7200rpm Enterprise Hard Disk 12TB HUH721212ALE600",
+        "rating": "8.7",
+        "hon_price_min": "1,720",
+        "hon_price_max": "2,700",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Synology 3.5 吋 SATA HDD HAT5300-12T",
+        "rating": "",
+        "hon_price_min": "4,832",
+        "hon_price_max": "5,086",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Dell 400-AHID",
+        "rating": "",
+        "hon_price_min": "3,490",
+        "hon_price_max": "3,490",
+        "容量:": "8TB",
+        "介面:": "ATA"
+    },
+    {
+        "names": "Seagate BarraCuda 硬盤 ST2000LM015",
+        "rating": "",
+        "hon_price_min": "454",
+        "hon_price_max": "595",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate 10TB EXOS Enterprise HDD ST10000NM001G",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,850",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf Pro NAS Hard Drive 12TB ST12000NT001",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive 8TB - WD80EFAX",
+        "rating": "",
+        "hon_price_min": "1,148",
+        "hon_price_max": "9,999",
+        "water_price_min": "1,510",
+        "water_price_max": "1,510",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Seagate SkyHawk DAHUA 監控專用硬碟 6TB (Bulk Pack)",
+        "rating": "",
+        "hon_price_min": "838",
+        "hon_price_max": "838",
+        "容量:": "6TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive  2TB - WD20EFRX",
+        "rating": "6.8",
+        "hon_price_min": "395",
+        "hon_price_max": "485",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6 Gb/秒"
+    },
+    {
+        "names": "Western Digital WD30EZRZ",
+        "rating": "4.4",
+        "hon_price_min": "487",
+        "hon_price_max": "630",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "Seagate 8TB EXOS Enterprise HDD ST8000NM000A",
+        "rating": "10",
+        "hon_price_min": "1,370",
+        "hon_price_max": "2,550",
+        "water_price_min": "1,385",
+        "water_price_max": "1,385",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HGST Ultrastar He12 512e HUH721212ALE600 12TB",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "3,120",
+        "容量:": "12TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Western Digital 6TB Purple Surveillance SATA-3 HDD -128MB 5400rpm 3.5\" WD62EJRX",
+        "rating": "",
+        "hon_price_min": "836",
+        "hon_price_max": "1,100",
+        "water_price_min": "1,050",
+        "water_price_max": "1,050",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate Barracuda Pro SATA Hard Drive 500GB (ST500LM034)",
+        "rating": "",
+        "hon_price_min": "473",
+        "hon_price_max": "473",
+        "容量:": "500GB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD_BLACK 2.5-Inch Gaming Hard Drive 250GB (WD2500LPLX)",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "容量:": "250GB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD60EJRX",
+        "rating": "",
+        "hon_price_min": "836",
+        "hon_price_max": "1,028",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 12TB ST12000VN0008",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,120",
+        "water_price_min": "2,080",
+        "water_price_max": "2,080",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST4000VX007",
+        "rating": "10",
+        "hon_price_min": "497",
+        "hon_price_max": "647",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate SkyHawk DAHUA 監控專用硬碟 2TB (Bulk Pack)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "容量:": "2TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Cavier Blue 1TB WD10EZEX",
+        "rating": "8.0",
+        "hon_price_min": "274",
+        "hon_price_max": "350",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital 8TB Purple Surveillance HDD by HIKVISION WD82PURX-78",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,835",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST2000VX008",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "424",
+        "water_price_min": "358",
+        "water_price_max": "358",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Synology 3.5 吋 SATA HDD HAT5300-16T",
+        "rating": "",
+        "hon_price_min": "6,505",
+        "hon_price_max": "6,848",
+        "容量:": "16TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Toshiba 東芝 MG04ACA400N",
+        "rating": "8.0",
+        "hon_price_min": "748",
+        "hon_price_max": "938",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATS III"
+    },
+    {
+        "names": "HPE 781518-B21",
+        "rating": "",
+        "hon_price_min": "3,700",
+        "hon_price_max": "3,990",
+        "容量:": "1.2TB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital 2TB Purple Surveillance HDD by HIKVISION WD20PURX-78",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "490",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate 3TB Surveillance HDD 監控專用硬碟 ST3000VM006",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "容量:": "3TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Surveillance DT02ABA400V 4TB",
+        "rating": "10",
+        "hon_price_min": "495",
+        "hon_price_max": "650",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Synology 3.5 吋 SATA HDD HAS5300-12T",
+        "rating": "",
+        "hon_price_min": "4,690",
+        "hon_price_max": "6,149",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD40EFRX",
+        "rating": "10",
+        "hon_price_min": "585",
+        "hon_price_max": "840",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital HGST Ultrastar DC HC310 (7K6) 7200rpm Enterprise Hard Disk 6TB HUS726T6TALE6L4",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "2,055",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 1TB SATA 7.2K SFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,575",
+        "容量:": "1TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 12TB ST12000VN0007",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "3,399",
+        "water_price_min": "2,650",
+        "water_price_max": "2,650",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "HP 600GB SAS 15K SFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "12,300",
+        "hon_price_max": "13,300",
+        "容量:": "600GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Lenovo ThinkStation 2TB 7200rpm 3.5吋 SATA 6Gbps 硬碟 (4XB0F18667)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "容量:": "2TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate SkyHawk DAHUA 監控專用硬碟 8TB (Bulk Pack)",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,090",
+        "容量:": "8TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate Exos 7E8 4TB 512n SATA 企業級硬碟機 ST4000NM000A",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "1,380",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "HP 4TB SAS 12G 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "11,000",
+        "hon_price_max": "11,158",
+        "容量:": "4TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST3000DM008",
+        "rating": "10",
+        "hon_price_min": "504",
+        "hon_price_max": "560",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate ST4000NM0035 4TB",
+        "rating": "",
+        "hon_price_min": "997",
+        "hon_price_max": "1,185",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6GB"
+    },
+    {
+        "names": "HPE 652564-B21",
+        "rating": "",
+        "hon_price_min": "1,670",
+        "hon_price_max": "1,690",
+        "容量:": "300GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital Red NAS Hard Drive 12TB WD120EFAX",
+        "rating": "",
+        "hon_price_min": "2,030",
+        "hon_price_max": "3,180",
+        "water_price_min": "2,150",
+        "water_price_max": "2,150",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Red Pro NAS Hard Drive 10TB (WD102KFBX)",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,336",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD20EJRX",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "420",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Synology 16TB 3.5\" SATA HDD HAT5300 HD-HA5316T",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "6,846",
+        "容量:": "16TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 6TB Purple Surveillance HDD by HIKVISION WD62PURX-78",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,020",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 781516-B21",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "2,090",
+        "容量:": "600GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate Barracuda Pro 1TB ST1000LM049",
+        "rating": "",
+        "hon_price_min": "416",
+        "hon_price_max": "499",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 765464-B21",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,260",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate 2.5\" BarraCuda 5TB - ST5000LM000",
+        "rating": "",
+        "hon_price_min": "1,438",
+        "hon_price_max": "1,698",
+        "容量:": "5TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Dell 400-AMTT",
+        "rating": "",
+        "hon_price_min": "3,840",
+        "hon_price_max": "3,850",
+        "容量:": "2TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate Enterprise Capacity 3.5 HDD ST8000NM0055",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,838",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate SkyHawk Surveillance 10TB (ST10000VE0008)",
+        "rating": "",
+        "hon_price_min": "1,820",
+        "hon_price_max": "2,080",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Toshiba 東芝 1TB DT01ABA100V",
+        "rating": "",
+        "hon_price_min": "265",
+        "hon_price_max": "320",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA3 6Gb"
+    },
+    {
+        "names": "Toshiba 東芝 MD04ACA400",
+        "rating": "9.4",
+        "hon_price_min": "695",
+        "hon_price_max": "790",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Seagate ST3000VN007",
+        "rating": "10",
+        "hon_price_min": "560",
+        "hon_price_max": "699",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Toshiba 東芝 2TB Surveillance HDD DT02ABA200V",
+        "rating": "",
+        "hon_price_min": "342",
+        "hon_price_max": "420",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Purple Surveillance Hard Drive 12TB (WD121EJRX)",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,460",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE MSA 450GB 12G SAS 15K 2.5in ENT HDD (J9F41A)",
+        "rating": "",
+        "hon_price_min": "4,050",
+        "hon_price_max": "4,075",
+        "容量:": "450GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD30EFRX",
+        "rating": "9.0",
+        "hon_price_min": "586",
+        "hon_price_max": "780",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital HGST Ultrastar DC HC510 (He10) 7200rpm Enterprise Hard Disk 10TB HUH721010ALE600",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "4,980",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 Surveillance (MD03ACA300V)",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "499",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3 (6Gbps)"
+    },
+    {
+        "names": "Toshiba 東芝 MG04ACA600E",
+        "rating": "",
+        "hon_price_min": "965",
+        "hon_price_max": "1,299",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Western Digital Red Pro NAS Hard Drive 14TB (WD141KFGX)",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "3,040",
+        "容量:": "14TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 785067-B21",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,490",
+        "容量:": "300GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD5000LUCT 500GB",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "320",
+        "容量:": "500GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA2"
+    },
+    {
+        "names": "Western Digital 3TB Purple Surveillance HDD by HIKVISION WD30PURX-78",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "699",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 6TB Purple Surveillance HDD by HIKVISION WD60PURX-78",
+        "rating": "",
+        "hon_price_min": "836",
+        "hon_price_max": "1,380",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 1TB 7200rpm SATA (NCQ/Smart IV) 6Gbp/s Hard Drive (QK555AA)",
+        "rating": "",
+        "hon_price_min": "605",
+        "hon_price_max": "605",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 3TB SAS 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "8,813",
+        "容量:": "3TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Dell 400-AJOQ",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,530",
+        "容量:": "300GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Toshiba 東芝 MG04ACA200N Enterprise HDD 2TB",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "705",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Seagate 1TB IronWolf ST1000VN002",
+        "rating": "",
+        "hon_price_min": "675",
+        "hon_price_max": "675",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 1TB SATA 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,005",
+        "容量:": "1TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD10JPLX",
+        "rating": "",
+        "hon_price_min": "546",
+        "hon_price_max": "546",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Dell 400-AJOE",
+        "rating": "",
+        "hon_price_min": "2,990",
+        "hon_price_max": "3,000",
+        "容量:": "6TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital Red Pro NAS Hard Drive 10TB WD101KFBX",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,936",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Dell 400-AJSB",
+        "rating": "",
+        "hon_price_min": "2,390",
+        "hon_price_max": "2,390",
+        "容量:": "600GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST1000NM0055",
+        "rating": "",
+        "hon_price_min": "637",
+        "hon_price_max": "720",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST1000DX001",
+        "rating": "",
+        "hon_price_min": "466",
+        "hon_price_max": "468",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD100EJRX",
+        "rating": "",
+        "hon_price_min": "1,746",
+        "hon_price_max": "1,746",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST4000VX000 4TB",
+        "rating": "6.0",
+        "hon_price_min": "497",
+        "hon_price_max": "880",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD Purple Pro Surveillance HDD 8TB (WD8001PURP)",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "water_price_min": "1,675",
+        "water_price_max": "1,675",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital Red Pro NAS Hard Drive 12TB WD121KFBX",
+        "rating": "",
+        "hon_price_min": "2,368",
+        "hon_price_max": "2,790",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST4000DM005",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "603",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate SkyHawk DAHUA 監控專用硬碟 4TB (Bulk Pack)",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "容量:": "4TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate SkyHawk Surveillance 8TB (ST8000VX004)",
+        "rating": "",
+        "hon_price_min": "1,153",
+        "hon_price_max": "1,380",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST3000VN000",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "798",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Seagate SkyHawk Surveillance 3TB (ST3000VX009)",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "560",
+        "容量:": "3TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Dell 400-ALNY",
+        "rating": "",
+        "hon_price_min": "2,340",
+        "hon_price_max": "2,350",
+        "容量:": "4TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "HP 2TB SATA 6G 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "5,100",
+        "hon_price_max": "5,127",
+        "容量:": "2TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate BarraCuda 硬盤 500GB ST500LM030",
+        "rating": "6.0",
+        "hon_price_min": "266",
+        "hon_price_max": "298",
+        "容量:": "500GB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Dell 400-ALUQ",
+        "rating": "",
+        "hon_price_min": "2,540",
+        "hon_price_max": "2,540",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD80EFZX",
+        "rating": "",
+        "hon_price_min": "1,148",
+        "hon_price_max": "1,880",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Seagate ST2000VX000",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "645",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Seagate Exos 7E8 Enterprise 2TB ST2000NM000A",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "999",
+        "容量:": "2TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate SkyHawk Surveillance 10TB (ST10000VE001)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,850",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red Pro NAS Hard Drive - WD4002FFWX",
+        "rating": "10",
+        "hon_price_min": "1,555",
+        "hon_price_max": "1,555",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gbs"
+    },
+    {
+        "names": "HPE 8TB SATA 7.2K LFF SC He 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "10,500",
+        "hon_price_max": "17,972",
+        "容量:": "8TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 2TB SAS 7.2K SFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "11,900",
+        "容量:": "2TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "IBM 42D0612 300GB",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "容量:": "300GB",
+        "緩衝記憶:": "160MB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST3000VX010",
+        "rating": "",
+        "hon_price_min": "485",
+        "hon_price_max": "560",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate ST8000VN0022",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,322",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "HP 4TB SAS 7.2K LFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "11,000",
+        "hon_price_max": "11,158",
+        "容量:": "4TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate Exos 7E8 Enterprise 6TB ST6000NM021A",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,570",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HGST HUH721010ALE600",
+        "rating": "10",
+        "hon_price_min": "1,624",
+        "hon_price_max": "3,680",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Western Digital WD Purple Surveillance Hard Drive 1TB (WD10EJRX)",
+        "rating": "10",
+        "hon_price_min": "263",
+        "hon_price_max": "360",
+        "water_price_min": "375",
+        "water_price_max": "375",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Seagate ST8000DM002",
+        "rating": "",
+        "hon_price_min": "1,748",
+        "hon_price_max": "1,748",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Synology 3.5 吋 SAS HDD HAS5300-8T",
+        "rating": "",
+        "hon_price_min": "3,190",
+        "hon_price_max": "4,329",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive 6TB (WD60EFAX)",
+        "rating": "",
+        "hon_price_min": "907",
+        "hon_price_max": "1,318",
+        "water_price_min": "1,099",
+        "water_price_max": "1,099",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 4TB Purple Surveillance HDD by HIKVISION WD40PURX-78",
+        "rating": "8.0",
+        "hon_price_min": "799",
+        "hon_price_max": "990",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 8TB SAS 7.2K LFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "18,500",
+        "hon_price_max": "18,642",
+        "容量:": "8TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST2000VN004",
+        "rating": "10",
+        "hon_price_min": "448",
+        "hon_price_max": "580",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate SkyHawk AI Surveillance 12TB (ST12000VE0008)",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,998",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST6000NM0115",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,358",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Western Digital Black 2.5\" WD10SPSX 7200rpm",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate FireCuda Solid State Hybrid 500GB ST500LX025",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "658",
+        "容量:": "500GB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST1000VX005",
+        "rating": "",
+        "hon_price_min": "305",
+        "hon_price_max": "340",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate 6TB SkyHawk Surveillance (ST6000VX001)",
+        "rating": "10",
+        "hon_price_min": "883",
+        "hon_price_max": "999",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate SkyHawk Surveillance 14TB (ST14000VE0008)",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,280",
+        "容量:": "14TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "HPE DL560 Gen9 Primary 2 Slot Rsr Kit",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,140"
+    },
+    {
+        "names": "HPE MSA 600GB 12G SAS 15K 2.5in ENT HDD (J9F42A)",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "5,380",
+        "容量:": "600GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital 2.5\" Blue Slim 10SPZX 1TB",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "420",
+        "容量:": "1TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD101EJRX",
+        "rating": "",
+        "hon_price_min": "1,734",
+        "hon_price_max": "1,938",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb s"
+    },
+    {
+        "names": "Seagate ST4000VN0001",
+        "rating": "10",
+        "hon_price_min": "591",
+        "hon_price_max": "1,455",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "Seagate ST2000LM007",
+        "rating": "",
+        "hon_price_min": "454",
+        "hon_price_max": "750",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate Enterprise Capacity 3.5 HDD ST6000NM0024 6TB",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,358",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6GB"
+    },
+    {
+        "names": "Western Digital HGST Ultrastar DC HA210 (7K2) 7200rpm Enterprise Hard Disk 1TB HUS722T1TALA604",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "680",
+        "water_price_min": "760",
+        "water_price_max": "760",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD Purple Surveillance Hard Drive 10TB WD102EJRX",
+        "rating": "",
+        "hon_price_min": "1,748",
+        "hon_price_max": "2,080",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Synology 12TB 3.5\" SATA HDD HAT5300 HD-HA5312T",
+        "rating": "",
+        "hon_price_min": "3,870",
+        "hon_price_max": "5,084",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD6400AAKS",
+        "rating": "9.0",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "容量:": "640GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Western Digital WD1005FBYZ",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "625",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST2000VN0001",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "928",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "HPE 10TB SATA 7.2K LFF SC He 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "9,000",
+        "hon_price_max": "24,226",
+        "容量:": "10TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD10SPSX 2.5\" 1TB 7200rpm",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "500",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE MSA 1.8TB 12G SAS 10K 2.5in 512e HDD (J9F49A)",
+        "rating": "",
+        "hon_price_min": "4,490",
+        "hon_price_max": "7,450",
+        "容量:": "1.8TB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST500LM021",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "355",
+        "容量:": "500GB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 3 (6Gb/s)"
+    },
+    {
+        "names": "Western Digital WD20PURX",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "HPE MSA 600GB 12G SAS 10K 2.5in ENT HDD (J9F46A)",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "3,070",
+        "容量:": "600GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "HP 10TB SAS 7.2K LFF SC He 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "25,000",
+        "hon_price_max": "25,120",
+        "容量:": "10TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate Exos X16 HDD 12TB ST12000NM001G",
+        "rating": "",
+        "hon_price_min": "2,090",
+        "hon_price_max": "3,800",
+        "water_price_min": "2,320",
+        "water_price_max": "2,320",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate ST3000VX000",
+        "rating": "",
+        "hon_price_min": "495",
+        "hon_price_max": "745",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Seagate ST500LT012BOX",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "415",
+        "容量:": "500GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA2"
+    },
+    {
+        "names": "Dell 400-AEGK",
+        "rating": "",
+        "hon_price_min": "2,130",
+        "hon_price_max": "2,140",
+        "容量:": "4TB",
+        "轉速:": "7200rpm",
+        "介面:": "ATA"
+    },
+    {
+        "names": "HP 2TB SATA 6Gb/s 7200 硬碟機 (QB576AA)",
+        "rating": "",
+        "hon_price_min": "905",
+        "hon_price_max": "905",
+        "容量:": "2TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red Pro NAS Hard Drive - WD6002FFWX",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6Gbps"
+    },
+    {
+        "names": "Seagate ST1000DM003",
+        "rating": "10",
+        "hon_price_min": "274",
+        "hon_price_max": "315",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6GB"
+    },
+    {
+        "names": "Seagate BarraCuda 7200.9 (160GB:ATA)",
+        "rating": "4.0",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "容量:": "160GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "ATA"
+    },
+    {
+        "names": "Seagate ST10000VN0004",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,499",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Hitachi 日立 HUA722010CLA330",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "628",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA 3 (6Gb/s)"
+    },
+    {
+        "names": "HP 2TB SAS 12G 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "6,800",
+        "容量:": "2TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Toshiba 東芝 500GB DT01ABA100V",
+        "rating": "",
+        "hon_price_min": "265",
+        "hon_price_max": "299",
+        "容量:": "500GB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA3 6Gb"
+    },
+    {
+        "names": "Seagate ST8000VX0002",
+        "rating": "",
+        "hon_price_min": "1,153",
+        "hon_price_max": "1,580",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red Pro NAS Hard Drive - WD2002FFSX",
+        "rating": "",
+        "water_price_min": "660",
+        "water_price_max": "660",
+        "容量:": "2TB",
+        "緩衝記憶:": "164MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST2000VX003",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "500",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST4000VN000",
+        "rating": "",
+        "hon_price_min": "591",
+        "hon_price_max": "799",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive - WD100EFAX",
+        "rating": "",
+        "hon_price_min": "1,771",
+        "hon_price_max": "2,168",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6GB/s"
+    },
+    {
+        "names": "HP 1TB SATA 7.2K SFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "1,700",
+        "容量:": "1TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate Hard Disk 3.5\" Surveillance 3TB SATA3 ST3000VX006",
+        "rating": "",
+        "hon_price_min": "495",
+        "hon_price_max": "497",
+        "容量:": "3TB",
+        "轉速:": "5900rpm",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate Enterprise Capacity 3.5 HDD ST10000NM0016",
+        "rating": "",
+        "hon_price_min": "2,078",
+        "hon_price_max": "2,980",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate 3.5\" BarraCuda 1TB - ST31000528AS",
+        "rating": "8.5",
+        "hon_price_min": "365",
+        "hon_price_max": "365",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "HPE 4TB SATA 7.2K LFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "8,813",
+        "容量:": "4TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD101KRYZ",
+        "rating": "",
+        "hon_price_min": "2,909",
+        "hon_price_max": "2,909",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Hitachi 日立 HTS545050B9A300",
+        "rating": "8.0",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "容量:": "500GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "HGST Ultrastar He8",
+        "rating": "",
+        "hon_price_min": "3,570",
+        "hon_price_max": "3,570",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6GB/s"
+    },
+    {
+        "names": "Seagate 3.5\" BarraCuda Pro 6TB - ST6000DM004",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,830",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST3000DM001",
+        "rating": "9.1",
+        "hon_price_min": "508",
+        "hon_price_max": "515",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Toshiba 東芝 MC04ACA600E",
+        "rating": "",
+        "hon_price_min": "967",
+        "hon_price_max": "1,290",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "HP 4TB SATA 6G 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "9,036",
+        "容量:": "4TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Hitachi 日立 CinemaStar P7K500 HCP725050GLAT80",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "500GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "IDE"
+    },
+    {
+        "names": "HP 1TB SATA 6Gb/s 7200 Hard Drive (LQ037AA)",
+        "rating": "",
+        "hon_price_min": "605",
+        "hon_price_max": "605",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 507284-001",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "1,990",
+        "容量:": "300GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Dell 400-AEFB",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "容量:": "1TB",
+        "轉速:": "7200rpm"
+    },
+    {
+        "names": "Toshiba 東芝 MG04ACA400E",
+        "rating": "10",
+        "hon_price_min": "764",
+        "hon_price_max": "960",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "HP 581311-001",
+        "rating": "",
+        "hon_price_min": "2,990",
+        "hon_price_max": "2,990",
+        "容量:": "600GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "HGST H3IKNAS1000025672SWW",
+        "rating": "",
+        "hon_price_min": "2,683",
+        "hon_price_max": "2,683",
+        "容量:": "10TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Western Digital WD6002FRYZ",
+        "rating": "",
+        "hon_price_min": "1,819",
+        "hon_price_max": "1,970",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gbps)"
+    },
+    {
+        "names": "Western Digital 14TB Purple Surveillance WD140EJRX",
+        "rating": "",
+        "hon_price_min": "3,030",
+        "hon_price_max": "3,048",
+        "容量:": "14TB",
+        "緩衝記憶:": "512MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 2TB SATA 7.2K SFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "9,750",
+        "hon_price_max": "11,828",
+        "容量:": "2TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 MG03ACA400",
+        "rating": "",
+        "hon_price_min": "764",
+        "hon_price_max": "764",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Western Digital WD5000LPVX 500GB",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "容量:": "500GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Seagate Hard Disk 3.5\" 6TB 5900RPM SATA III ST6000VX0003",
+        "rating": "",
+        "hon_price_min": "883",
+        "hon_price_max": "1,150",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 418399-001",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,490",
+        "容量:": "146GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD60EZRX 6TB",
+        "rating": "6.0",
+        "hon_price_min": "1,955",
+        "hon_price_max": "1,955",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3 (6Gb/s)"
+    },
+    {
+        "names": "HPE 652583-B21",
+        "rating": "",
+        "hon_price_min": "1,960",
+        "hon_price_max": "2,690",
+        "容量:": "600GB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Hitachi 日立 HDS724040ALE640",
+        "rating": "",
+        "hon_price_min": "1,840",
+        "hon_price_max": "1,840",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital Red Pro NAS Hard Drive 6TB WD6003FFBX",
+        "rating": "",
+        "hon_price_min": "1,385",
+        "hon_price_max": "1,580",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 MQ01ABF050",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "299",
+        "容量:": "500GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Fujitsu MHZ2320BH",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "320GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Lenovo ThinkCentre 1TB 7200rpm SATA 7 mm 2.5'' Hard Drive (4XB0R48453)",
+        "rating": "",
+        "hon_price_min": "705",
+        "hon_price_max": "705",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 300GB SAS 10K SFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "2,566",
+        "hon_price_max": "2,980",
+        "容量:": "300GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate 3.5\" Barracuda Green 2TB - ST2000DL003",
+        "rating": "8.0",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,088",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "HP 6TB SAS 7.2K LFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "14,000",
+        "hon_price_max": "14,286",
+        "容量:": "6TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate 4TB SkyHawk Surveillance (ST4000VX000)",
+        "rating": "6.0",
+        "hon_price_min": "497",
+        "hon_price_max": "880",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD10EARS 1TB",
+        "rating": "6.9",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Seagate BarraCuda 硬盤 ST3000DM007",
+        "rating": "",
+        "hon_price_min": "508",
+        "hon_price_max": "560",
+        "容量:": "3TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE MSA 1.2TB 12G SAS 10K 2.5in ENT HDD (J9F48A)",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "4,600",
+        "容量:": "1.2TB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST6000DM000",
+        "rating": "",
+        "hon_price_min": "1,648",
+        "hon_price_max": "1,648",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "HP 1.8TB SAS 10K SFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "8,900",
+        "hon_price_max": "14,000",
+        "容量:": "1.8TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Toshiba 東芝 Enterprise 6TB MG05ACA600E",
+        "rating": "",
+        "hon_price_min": "954",
+        "hon_price_max": "2,480",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Seagate 3.5\" BarraCuda 2TB - ST2000DM006",
+        "rating": "8.0",
+        "hon_price_min": "354",
+        "hon_price_max": "478",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Toshiba 東芝 MG03ACA300",
+        "rating": "",
+        "hon_price_min": "805",
+        "hon_price_max": "805",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "HP 300GB SAS 15K SFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "6,400",
+        "容量:": "300GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate 3.5\" BarraCuda 2TB - ST2000DM001",
+        "rating": "6.7",
+        "hon_price_min": "354",
+        "hon_price_max": "415",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Seagate ST1000VM002",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD2003FYYS 2TB RE4",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "water_price_min": "1,499",
+        "water_price_max": "1,499",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "HPE MSA 300GB 12G SAS 15K 2.5in ENT HDD (J9F40A)",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,270",
+        "容量:": "300GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate Exos Enterprise 10TB ST10000NM0086",
+        "rating": "",
+        "hon_price_min": "2,078",
+        "hon_price_max": "2,550",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate 8TB Exos 7E8 ST8000NM0055",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "2,550",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST6000VN0033",
+        "rating": "10",
+        "hon_price_min": "1,122",
+        "hon_price_max": "1,338",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Seagate ST1000LX015",
+        "rating": "10",
+        "hon_price_min": "882",
+        "hon_price_max": "882",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST2000NM0055",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "920",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Dell 400-APGL",
+        "rating": "",
+        "hon_price_min": "3,340",
+        "hon_price_max": "3,358",
+        "容量:": "900GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital 4000FYYZ",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,240",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD10EALS 1TB",
+        "rating": "9.5",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 3Gbps"
+    },
+    {
+        "names": "Dell 400-AMPG",
+        "rating": "",
+        "hon_price_min": "3,690",
+        "hon_price_max": "3,690",
+        "容量:": "8TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Toshiba 東芝 MQ01ABD050",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "容量:": "500GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "HP 900GB SAS 15K SFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "8,980",
+        "hon_price_max": "13,800",
+        "容量:": "900GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate 4TB EXOS Enterprise HDD",
+        "rating": "",
+        "hon_price_min": "968",
+        "hon_price_max": "1,068",
+        "容量:": "4TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 300GB SAS 15K LFF SCC HDD",
+        "rating": "",
+        "hon_price_min": "6,300",
+        "hon_price_max": "6,358",
+        "容量:": "300GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD_BLACK 3.5-Inch Gaming Hard Drive 500GB (WD5003AZEX)",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "容量:": "500GB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Toshiba 東芝 MD03ACA400V SURVEILLANCE",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "899",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB"
+    },
+    {
+        "names": "Dell 400-AGMN",
+        "rating": "",
+        "hon_price_min": "2,840",
+        "hon_price_max": "2,850",
+        "容量:": "6TB",
+        "介面:": "ATA"
+    },
+    {
+        "names": "Western Digital WD4002FYYZ WD Gold 4TB",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,230",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gbps)"
+    },
+    {
+        "names": "Seagate ST2000DX001",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "589",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Dell 400-AMUQ",
+        "rating": "",
+        "hon_price_min": "3,690",
+        "hon_price_max": "3,690",
+        "容量:": "2TB",
+        "轉速:": "7200rpm"
+    },
+    {
+        "names": "Western Digital WD8003VRYZ WD Gold 8TB",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,980",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6 Gb/s"
+    },
+    {
+        "names": "Seagate IronWolf NAS Hard Drive 14TB ST14000VN0008",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "4,388",
+        "water_price_min": "3,220",
+        "water_price_max": "3,220",
+        "容量:": "14TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP 600GB SAS 10K SFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "容量:": "600GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD60PURX",
+        "rating": "",
+        "hon_price_min": "836",
+        "hon_price_max": "1,308",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "S-ATA III"
+    },
+    {
+        "names": "Dell 400-ANVL",
+        "rating": "",
+        "hon_price_min": "4,190",
+        "hon_price_max": "4,200",
+        "容量:": "10TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "HGST HTS721010A9E630 1TB",
+        "rating": "10",
+        "hon_price_min": "404",
+        "hon_price_max": "450",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "HP 600GB SAS 15K LFF SC HDD",
+        "rating": "",
+        "hon_price_min": "12,000",
+        "hon_price_max": "12,281",
+        "容量:": "600GB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate EXOS 7E2 1TB ST1000NM0008",
+        "rating": "",
+        "hon_price_min": "655",
+        "hon_price_max": "728",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Seagate ST3000NM0033",
+        "rating": "",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,048",
+        "容量:": "3TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Seagate ST6000NM0004",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,358",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Dell ST3600057SS",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,990",
+        "容量:": "600GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD30EJRX",
+        "rating": "",
+        "hon_price_min": "496",
+        "hon_price_max": "699",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Western Digital WD40EZRX",
+        "rating": "",
+        "hon_price_min": "1,068",
+        "hon_price_max": "1,068",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "HP 1TB SAS 7.2K SFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,980",
+        "容量:": "1TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST3320613AS",
+        "rating": "8.0",
+        "hon_price_min": "270",
+        "hon_price_max": "270",
+        "容量:": "320GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Western Digital WD2003FZEX",
+        "rating": "",
+        "hon_price_min": "1,065",
+        "hon_price_max": "1,065",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Dell 400-ALQZ",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,700",
+        "容量:": "1TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Dell 400-AJPD",
+        "rating": "",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,200",
+        "容量:": "1.2TB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD80PUZX",
+        "rating": "",
+        "hon_price_min": "1,061",
+        "hon_price_max": "2,100",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Western Digital WD81EJRX",
+        "rating": "",
+        "hon_price_min": "1,061",
+        "hon_price_max": "1,698",
+        "water_price_min": "1,370",
+        "water_price_max": "1,370",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Seagate ST10000VX0004",
+        "rating": "",
+        "hon_price_min": "1,828",
+        "hon_price_max": "2,309",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Western Digital WD20EZRZ",
+        "rating": "8.7",
+        "hon_price_min": "338",
+        "hon_price_max": "450",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "HP 1TB SAS 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "4,280",
+        "容量:": "1TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Hitachi 日立 725050GLA360",
+        "rating": "9.0",
+        "hon_price_min": "269",
+        "hon_price_max": "269",
+        "容量:": "500GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "HP 8TB SAS 7.2K LFF SC He 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "18,500",
+        "hon_price_max": "18,642",
+        "容量:": "8TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Toshiba 東芝 DT01ABA200V",
+        "rating": "",
+        "hon_price_min": "384",
+        "hon_price_max": "405",
+        "容量:": "2TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD101VRYZ WD Gold 10TB",
+        "rating": "",
+        "hon_price_min": "2,909",
+        "hon_price_max": "2,909",
+        "容量:": "10TB"
+    },
+    {
+        "names": "HP 4TB SATA 7200 Hard Drive (K4T76AA)",
+        "rating": "",
+        "hon_price_min": "5,090",
+        "hon_price_max": "5,090",
+        "容量:": "4TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate Exos Enterprise 12TB ST12000NM0007",
+        "rating": "",
+        "hon_price_min": "2,320",
+        "hon_price_max": "2,850",
+        "容量:": "12TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HP DL580 5 SFF Drive Backplane Kit",
+        "rating": "",
+        "hon_price_min": "3,640",
+        "hon_price_max": "3,654"
+    },
+    {
+        "names": "Western Digital WD8001FFWX",
+        "rating": "",
+        "hon_price_min": "3,668",
+        "hon_price_max": "3,688",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "HP 1.2TB SAS 10K SFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500",
+        "容量:": "1.2TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD2005VBYZ 2TB",
+        "rating": "",
+        "hon_price_min": "868",
+        "hon_price_max": "868",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "HPE 6TB SATA 7.2K LFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "12,580",
+        "hon_price_max": "13,615",
+        "容量:": "6TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HGST Ultrastar 7K6000 HUS726040ALE610 4TB",
+        "rating": "",
+        "hon_price_min": "873",
+        "hon_price_max": "873",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive 1TB - WD10EFRX",
+        "rating": "8.0",
+        "hon_price_min": "454",
+        "hon_price_max": "475",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gbs"
+    },
+    {
+        "names": "Hitachi 日立 HDS723020BLA642 2TB",
+        "rating": "10",
+        "hon_price_min": "1,990",
+        "hon_price_max": "1,990",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Western Digital WD2005FBYZ",
+        "rating": "",
+        "hon_price_min": "868",
+        "hon_price_max": "878",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Dell 400-ANXI",
+        "rating": "",
+        "hon_price_min": "4,690",
+        "hon_price_max": "4,690",
+        "容量:": "10TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital Red 10TB WD101EFAX",
+        "rating": "",
+        "hon_price_min": "1,729",
+        "hon_price_max": "1,985",
+        "容量:": "10TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital 3000FYYZ",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "HPE MSA 900GB 12G SAS 10K 2.5in ENT HDD (J9F47A)",
+        "rating": "",
+        "hon_price_min": "3,440",
+        "hon_price_max": "3,730",
+        "容量:": "900GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate SkyHawk Surveillance 8TB (ST8000VX0022)",
+        "rating": "",
+        "hon_price_min": "1,153",
+        "hon_price_max": "1,537",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate ST6000DM001",
+        "rating": "",
+        "hon_price_min": "1,648",
+        "hon_price_max": "1,780",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gbps)"
+    },
+    {
+        "names": "Toshiba 東芝 MC04ACA400E",
+        "rating": "10",
+        "hon_price_min": "764",
+        "hon_price_max": "980",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gbps)"
+    },
+    {
+        "names": "Seagate ST6000VN0001",
+        "rating": "",
+        "hon_price_min": "1,122",
+        "hon_price_max": "1,124",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "HGST 2.5\" 1TB HDD HTS541010B7E610",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "415",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD6002VRYZ",
+        "rating": "",
+        "hon_price_min": "1,819",
+        "hon_price_max": "1,859",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Dell 400-AEGG",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750",
+        "容量:": "2TB",
+        "轉速:": "7200rpm",
+        "介面:": "ATA"
+    },
+    {
+        "names": "Hitachi 日立 HDP725025GLA380",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "250GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Seagate Enterprise Capacity 2.5 HDD v3 2TB ST2000NX0253",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,980",
+        "water_price_max": "2,980",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6GB"
+    },
+    {
+        "names": "Western Digital 3.5\" WD Red NAS Hard Drive 14TB (WD140EFFX)",
+        "rating": "",
+        "hon_price_min": "2,570",
+        "hon_price_max": "3,980",
+        "容量:": "14TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST4000NM0033",
+        "rating": "",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,048",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "HPE 765466-B21",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,690",
+        "容量:": "2TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital Caviar Black 500GB",
+        "rating": "",
+        "hon_price_min": "855",
+        "hon_price_max": "855",
+        "容量:": "500GB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD4002VYYZ 4TB",
+        "rating": "",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,230",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Toshiba 東芝 MD04ABA400V",
+        "rating": "",
+        "hon_price_min": "1,045",
+        "hon_price_max": "1,045",
+        "容量:": "4TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gbps)"
+    },
+    {
+        "names": "Western Digital WD1005VBYZ 1TB",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "625",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST500LM000",
+        "rating": "8.0",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "容量:": "500GB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA6Gb/s"
+    },
+    {
+        "names": "Western Digital WD10JUCT 1TB",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "395",
+        "容量:": "1TB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA2"
+    },
+    {
+        "names": "Seagate ST2000DL003",
+        "rating": "7.3",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Toshiba 東芝 3TB 2.5\"HDD MQ03ABB300",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "790",
+        "容量:": "3TB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Hitachi 日立 HDS721010DLE63",
+        "rating": "10",
+        "hon_price_min": "955",
+        "hon_price_max": "955",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Toshiba 東芝 MD04ACA600",
+        "rating": "",
+        "hon_price_min": "967",
+        "hon_price_max": "1,178",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "Western Digital WD80EJRX",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,370",
+        "water_price_min": "1,370",
+        "water_price_max": "1,370",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Dell ST3300656SS",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,990",
+        "容量:": "300GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD1003FZEX",
+        "rating": "10",
+        "hon_price_min": "662",
+        "hon_price_max": "662",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "Sata 6Gb/s"
+    },
+    {
+        "names": "HPE 6TB SATA 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "9,500",
+        "hon_price_max": "13,615",
+        "容量:": "6TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Seagate ST2000VM003",
+        "rating": "",
+        "hon_price_min": "595",
+        "hon_price_max": "595",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "Sata 6Gb/s"
+    },
+    {
+        "names": "Dell 400-ALOB",
+        "rating": "",
+        "hon_price_min": "1,790",
+        "hon_price_max": "1,790",
+        "容量:": "2TB",
+        "轉速:": "7200rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "HP 861693-B21",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,807",
+        "容量:": "3TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "Western Digital WD Blue 2.5 inch PC HDD WD5000LPCX",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "容量:": "500GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HGST HD-72NAS80 8TB",
+        "rating": "",
+        "hon_price_min": "2,073",
+        "hon_price_max": "2,073",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST3000VN0001",
+        "rating": "4.0",
+        "hon_price_min": "560",
+        "hon_price_max": "1,150",
+        "容量:": "3TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA3 (6Gb/s)"
+    },
+    {
+        "names": "Western Digital WD1003FBYZ",
+        "rating": "10",
+        "hon_price_min": "640",
+        "hon_price_max": "640",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Seagate ST6000VX0023",
+        "rating": "8.0",
+        "hon_price_min": "883",
+        "hon_price_max": "1,188",
+        "容量:": "6TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate ST4000DM000",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "603",
+        "容量:": "4TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Hitachi 日立 HD-H3IK300",
+        "rating": "",
+        "hon_price_min": "1,085",
+        "hon_price_max": "1,085",
+        "容量:": "3TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Seagate ST6000NM0024",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,168",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 3 (6Gb/s)"
+    },
+    {
+        "names": "Seagate ST2000LX001",
+        "rating": "4.0",
+        "hon_price_min": "1,379",
+        "hon_price_max": "1,379",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "HP 6TB SAS 7.2K LFF SC DS HDD",
+        "rating": "",
+        "hon_price_min": "14,000",
+        "hon_price_max": "14,286",
+        "容量:": "6TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "HPE MSA 300GB 12G SAS 10K 2.5in ENT HDD (J9F44A)",
+        "rating": "",
+        "hon_price_min": "2,340",
+        "hon_price_max": "2,360",
+        "容量:": "300GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital WD5000LPLX",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "容量:": "500GB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "HPE 8TB SATA 7.2K LFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "17,880",
+        "hon_price_max": "17,972",
+        "容量:": "8TB",
+        "介面:": "SATA"
+    },
+    {
+        "names": "HPE 1TB SAS 7.2K SFF SC 512e DS HDD",
+        "rating": "",
+        "hon_price_min": "4,650",
+        "hon_price_max": "4,800",
+        "容量:": "1TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Dell ST3146356SS",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,390",
+        "容量:": "146GB",
+        "轉速:": "10000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Seagate ST6000VN0041",
+        "rating": "",
+        "hon_price_min": "1,122",
+        "hon_price_max": "1,390",
+        "容量:": "6TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Western Digital WD5000AZLX",
+        "rating": "",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "容量:": "500GB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA3 (6Gbps)"
+    },
+    {
+        "names": "Seagate ST1000NM0033",
+        "rating": "",
+        "hon_price_min": "637",
+        "hon_price_max": "720",
+        "容量:": "1TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Dell 400-AJRK",
+        "rating": "",
+        "hon_price_min": "1,910",
+        "hon_price_max": "1,920",
+        "容量:": "300GB",
+        "轉速:": "15000rpm",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Western Digital 2.5\" Blue Slim WD10SPCX",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "容量:": "1TB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA 3 (6Gb/s)"
+    },
+    {
+        "names": "Seagate Enterprise Capacity 3.5 HDD v5 ST3000NM0005",
+        "rating": "",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,050",
+        "容量:": "3TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate ST3320620AS",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "270",
+        "容量:": "320GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Dell 400-AEFD",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "容量:": "1TB",
+        "轉速:": "7200rpm"
+    },
+    {
+        "names": "Toshiba 東芝 3TB DT01ABA300V",
+        "rating": "",
+        "hon_price_min": "475",
+        "hon_price_max": "495",
+        "容量:": "3TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA3 6Gb"
+    },
+    {
+        "names": "HGST Ultrastar He10 8TB",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,150",
+        "容量:": "8TB",
+        "緩衝記憶:": "256MB",
+        "介面:": "SATA III (6Gb/s)"
+    },
+    {
+        "names": "HGST HD-7250507",
+        "rating": "10",
+        "容量:": "500GB",
+        "轉速:": "7200rpm"
+    },
+    {
+        "names": "HGST HTS545050A7E680",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "容量:": "500GB",
+        "轉速:": "5400rpm"
+    },
+    {
+        "names": "HGST HD-72NAS10 10TB",
+        "rating": "",
+        "容量:": "10TB",
+        "轉速:": "7200rpm"
+    },
+    {
+        "names": "Western Digital WD60EZRZ",
+        "rating": "2.0",
+        "hon_price_min": "770",
+        "hon_price_max": "1,630",
+        "容量:": "6TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Dell 400-AJQP",
+        "rating": "",
+        "hon_price_min": "3,110",
+        "hon_price_max": "3,110",
+        "容量:": "1.8TB",
+        "介面:": "SAS"
+    },
+    {
+        "names": "Toshiba 東芝 MK5065GSX 500GB",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "415",
+        "容量:": "500GB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Hitachi 日立 H3IKNAS30003272SA",
+        "rating": "",
+        "容量:": "3TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA3"
+    },
+    {
+        "names": "Western Digital WD10JPVX",
+        "rating": "8.0",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "容量:": "1TB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Western Digital WD8002FRYZ WD Gold 8TB",
+        "rating": "",
+        "hon_price_min": "3,760",
+        "hon_price_max": "3,760",
+        "容量:": "8TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA III (6Gps)"
+    },
+    {
+        "names": "Seagate ST2000VN000",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "599",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Hitachi 日立 HDS723015BLA642 1.5TB",
+        "rating": "8.9",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "1.5TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 6Gb/s"
+    },
+    {
+        "names": "Seagate ST1000VX000",
+        "rating": "",
+        "hon_price_min": "305",
+        "hon_price_max": "440",
+        "容量:": "1TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Hitachi 日立 HDS721010CLA332 1TB",
+        "rating": "8.9",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Seagate ST2000NM0033",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "920",
+        "容量:": "2TB",
+        "緩衝記憶:": "128MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Western Digital WD20EZRX",
+        "rating": "",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 3"
+    },
+    {
+        "names": "Toshiba 東芝 MK2002TSKB",
+        "rating": "",
+        "容量:": "2TB",
+        "緩衝記憶:": "64MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Western Digital WD1500HLFS",
+        "rating": "",
+        "容量:": "150GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Western Digital WD-AV25 320GB WD3200BUCT",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "容量:": "320GB",
+        "緩衝記憶:": "16MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Toshiba 東芝 MQ01ABD100 1TB",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "容量:": "1TB",
+        "緩衝記憶:": "8MB",
+        "介面:": "SATA 2"
+    },
+    {
+        "names": "Seagate 1TB ST31000524NS",
+        "rating": "",
+        "容量:": "1TB",
+        "緩衝記憶:": "32MB",
+        "介面:": "SATA2 3Gbps"
+    },
+    {
+        "names": "HGST HD-72NAS40 4TB",
+        "rating": "",
+        "容量:": "4TB",
+        "轉速:": "7200rpm",
+        "介面:": "SATA3"
+    }
+]

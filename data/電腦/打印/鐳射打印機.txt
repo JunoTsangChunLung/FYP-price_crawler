@@ -1,0 +1,4313 @@
+[
+    {
+        "names": "HP LaserJet M111w 打印機 (7MD68A)",
+        "rating": "9.7",
+        "hon_price_min": "930",
+        "hon_price_max": "1,188",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "346.3 x 189.3 x 158.9mm"
+    },
+    {
+        "names": "Fujifilm Apeos C325 z A4 彩色多功能影印機",
+        "rating": "9.8",
+        "hon_price_min": "3,688",
+        "hon_price_max": "4,180",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "410 x 430 x 366mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M183fw 彩色鐳射打印機 (7KW56A)",
+        "rating": "8.2",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,788",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "1200 x 1200",
+        "打印技術:": "鐳射打印機",
+        "尺寸:": "435 x 435 x 343mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort C2410SD A4彩色多功能雙面打印機",
+        "rating": "8.5",
+        "hon_price_min": "3,090",
+        "hon_price_max": "3,790",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "345 x 412 x 395mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort 3410SD A4黑白多功能影印機",
+        "rating": "8.0",
+        "hon_price_min": "1,997",
+        "hon_price_max": "2,299",
+        "黑白/彩色:": "黑白",
+        "尺寸:": "415 x 360 x 352mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort Print 3410SD A4黑白打印機",
+        "rating": "8.0",
+        "hon_price_min": "1,298",
+        "hon_price_max": "1,599",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Monochrome Laser Printer",
+        "尺寸:": "355 x 333 x 215mm"
+    },
+    {
+        "names": "Fujifilm Apeos C325 dw A4 彩色多功能影印機",
+        "rating": "8.6",
+        "hon_price_min": "3,330",
+        "hon_price_max": "3,799",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "410 x 430 x 366mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M283fdw",
+        "rating": "8.0",
+        "hon_price_min": "4,565",
+        "hon_price_max": "5,288",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "424 x 475 x 338mm"
+    },
+    {
+        "names": "Brother MFCL3750CDW",
+        "rating": "2.4",
+        "hon_price_min": "2,295",
+        "hon_price_max": "3,120",
+        "water_price_min": "2,300",
+        "water_price_max": "2,698",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "掃描解像度:": "1200 x 2400",
+        "打印技術:": "鐳射",
+        "尺寸:": "410 x 475 x 414mm"
+    },
+    {
+        "names": "HP LaserJet M111a 打印機 (7MD67A)",
+        "rating": "10",
+        "hon_price_min": "800",
+        "hon_price_max": "999",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "346.3 x 189.3 x 158.9mm"
+    },
+    {
+        "names": "Pantum 三合一鐳射打印機 Pantum M6550NW",
+        "rating": "8.0",
+        "hon_price_min": "738",
+        "hon_price_max": "1,188",
+        "water_price_min": "898",
+        "water_price_max": "898",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "掃描解像度:": "1200 x 1200dpi",
+        "尺寸:": "417 x 305 x 301mm"
+    },
+    {
+        "names": "HP LaserJet MFP M141a 多功能打印機 (7MD73A)",
+        "rating": "8.0",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,265",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "Laser",
+        "尺寸:": "360 x 427 x 347mm"
+    },
+    {
+        "names": "HP LaserJet M141w 多功能打印機 (7MD74A)",
+        "rating": "8.0",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,488",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser",
+        "尺寸:": "360 x 264 x 197mm"
+    },
+    {
+        "names": "Pantum 黑白多功能鐳射打印機 M6500NW",
+        "rating": "8.0",
+        "hon_price_min": "738",
+        "hon_price_max": "999",
+        "water_price_min": "888",
+        "water_price_max": "938",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200dpi",
+        "掃描解像度:": "1200dpi",
+        "尺寸:": "417 x 305 x 244mm"
+    },
+    {
+        "names": "HP LaserJet MFP M236dw 多功能打印機 (9YF95A)",
+        "rating": "8.8",
+        "hon_price_min": "1,510",
+        "hon_price_max": "1,738",
+        "water_price_min": "1,520",
+        "water_price_max": "1,520",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "368 x 298.6 x 241.9mm"
+    },
+    {
+        "names": "Pantum 三合一鐳射打印機 Pantum M6550NW",
+        "rating": "8.0",
+        "hon_price_min": "738",
+        "hon_price_max": "1,188",
+        "water_price_min": "898",
+        "water_price_max": "898",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "掃描解像度:": "1200 x 1200dpi",
+        "尺寸:": "417 x 305 x 301mm"
+    },
+    {
+        "names": "HP LaserJet MFP M141a 多功能打印機 (7MD73A)",
+        "rating": "8.0",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,265",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "Laser",
+        "尺寸:": "360 x 427 x 347mm"
+    },
+    {
+        "names": "Pantum 黑白多功能鐳射打印機 M6500NW",
+        "rating": "8.0",
+        "hon_price_min": "738",
+        "hon_price_max": "999",
+        "water_price_min": "888",
+        "water_price_max": "938",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200dpi",
+        "掃描解像度:": "1200dpi",
+        "尺寸:": "417 x 305 x 244mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort 3410SD A4黑白多功能影印機",
+        "rating": "8.0",
+        "hon_price_min": "1,997",
+        "hon_price_max": "2,299",
+        "黑白/彩色:": "黑白",
+        "尺寸:": "415 x 360 x 352mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M28w (W2G55A)",
+        "rating": "5.1",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "尺寸:": "360 x 264 x 197mm"
+    },
+    {
+        "names": "Brother HLL3270CDW",
+        "rating": "3.4",
+        "hon_price_min": "1,495",
+        "hon_price_max": "1,998",
+        "water_price_min": "1,557",
+        "water_price_max": "1,898",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "439 x 461 x 252mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP6030w",
+        "rating": "4.8",
+        "hon_price_min": "728",
+        "hon_price_max": "1,388",
+        "water_price_min": "858",
+        "water_price_max": "858",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2,400 x 600 dpi",
+        "打印技術:": "LASER"
+    },
+    {
+        "names": "Canon imageCLASS MF756Cx 彩色鐳射雙面打印機",
+        "rating": "10",
+        "hon_price_min": "5,975",
+        "hon_price_max": "6,988",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200",
+        "掃描解像度:": "600 x 600",
+        "尺寸:": "430 x 460 x 430cm"
+    },
+    {
+        "names": "Canon imageCLASS LBP623Cdw Wi-Fi 網絡彩色鐳射打印機",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,988",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "Laserjet",
+        "尺寸:": "430 x 418 x 287mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort C2410SD A4彩色多功能雙面打印機",
+        "rating": "8.5",
+        "hon_price_min": "3,090",
+        "hon_price_max": "3,790",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "345 x 412 x 395mm"
+    },
+    {
+        "names": "Pantum P3300DW",
+        "rating": "7.8",
+        "hon_price_min": "648",
+        "hon_price_max": "1,288",
+        "water_price_min": "748",
+        "water_price_max": "748",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 600 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "354 x 334 x 232mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort Print 3410SD A4黑白打印機",
+        "rating": "8.0",
+        "hon_price_min": "1,298",
+        "hon_price_max": "1,599",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Monochrome Laser Printer",
+        "尺寸:": "355 x 333 x 215mm"
+    },
+    {
+        "names": "HP LaserJet M236sdw 鐳射多功能打印機 (9YG09A)",
+        "rating": "9.6",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,938",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "高達 600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "418 x 308 x 294.4mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M285z 雙面多功能黑白A4影印機",
+        "rating": "9.0",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "掃描解像度:": "1200 x 1200",
+        "尺寸:": "410 x 426.5 x 318.5mm"
+    },
+    {
+        "names": "Brother 黑白鐳射打印機 HLL2375DW",
+        "rating": "6.1",
+        "hon_price_min": "765",
+        "hon_price_max": "1,098",
+        "water_price_min": "988",
+        "water_price_max": "988",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi, HQ1200 (2,400 x 600dpi), 1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "356 x 360 x 183 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M285z 雙面多功能黑白A4影印機",
+        "rating": "9.0",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "掃描解像度:": "1200 x 1200",
+        "尺寸:": "410 x 426.5 x 318.5mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort Print 4020SD A4 黑白打印機",
+        "rating": "10",
+        "hon_price_min": "1,988",
+        "hon_price_max": "2,280",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "尺寸:": "368 x 363 x 222mm"
+    },
+    {
+        "names": "Brother 多功能鐳射打印機 MFCL9630CDN",
+        "rating": "",
+        "hon_price_min": "11,600",
+        "hon_price_max": "11,688",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600dpi , 2400dpi (2400 x 600) quality",
+        "掃描解像度:": "600 x 600dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "503 x 541 x 586mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CM315z 彩色A4雙面多功能4合1打印機",
+        "rating": "7.3",
+        "hon_price_min": "3,488",
+        "hon_price_max": "4,449",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 2400 dpi (Fuji Xerox 影像技術)",
+        "掃描解像度:": "600 x 600 dpi",
+        "打印技術:": "PCL6, PCL5e, PostScript 3 兼容",
+        "尺寸:": "420 x 503 x 500mm"
+    },
+    {
+        "names": "Brother MFCL2715DW",
+        "rating": "4.0",
+        "hon_price_min": "1,445",
+        "hon_price_max": "1,950",
+        "water_price_min": "1,618",
+        "water_price_max": "1,618",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1,200 x 1,200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "410 x 398.5 x 318.5 mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP6030",
+        "rating": "5.2",
+        "hon_price_min": "628",
+        "hon_price_max": "978",
+        "water_price_min": "630",
+        "water_price_max": "758",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2,400 x 600 dpi",
+        "打印技術:": "LASER",
+        "尺寸:": "364毫米 x 249毫米 x 199毫米"
+    },
+    {
+        "names": "Lexmark 彩色鐳射打印機 CS331dw",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,488",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400x600dpi",
+        "打印技術:": "彩色激光",
+        "尺寸:": "243.7 x 411.2 x 394.1mm"
+    },
+    {
+        "names": "Brother DCPL3551CDW",
+        "rating": "4.2",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,350",
+        "water_price_max": "2,598",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "掃描解像度:": "1200 x 2400",
+        "打印技術:": "鐳射",
+        "尺寸:": "410 x 475 x 414mm"
+    },
+    {
+        "names": "Brother 多功能鐳射打印機 MFCL3770CDW",
+        "rating": "2.9",
+        "hon_price_min": "2,495",
+        "hon_price_max": "3,280",
+        "water_price_min": "2,998",
+        "water_price_max": "2,998",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "掃描解像度:": "1200 x 2400",
+        "打印技術:": "鐳射",
+        "尺寸:": "410 x 509 x 414mm"
+    },
+    {
+        "names": "Canon imageCLASS MF756Cx 彩色鐳射雙面打印機",
+        "rating": "10",
+        "hon_price_min": "5,975",
+        "hon_price_max": "6,988",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200",
+        "掃描解像度:": "600 x 600",
+        "尺寸:": "430 x 460 x 430cm"
+    },
+    {
+        "names": "HP LaserJet Pro M404dn 鐳射打印機",
+        "rating": "",
+        "hon_price_min": "3,640",
+        "hon_price_max": "4,168",
+        "water_price_min": "3,990",
+        "water_price_max": "3,990",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "381 x 357 x 216mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M130fw (G3Q60A)",
+        "rating": "4.0",
+        "hon_price_min": "1,790",
+        "hon_price_max": "2,280",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600 x 600"
+    },
+    {
+        "names": "HP LaserJet M211dw 鐳射打印機 (9YF83A)",
+        "rating": "10",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,488",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "最高 600 x 600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "355 x 279.5 x 205mm"
+    },
+    {
+        "names": "Pantum 黑白多功能鐳射打印機 M6500",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "417 x 305 x 244mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP 4103fdw 多功能打印機 (2Z629A)",
+        "rating": "",
+        "hon_price_min": "5,488",
+        "hon_price_max": "6,608",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "420 x 390 x 323mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro 多功能鐳射打印機 MFP M479dw",
+        "rating": "8.6",
+        "hon_price_min": "4,480",
+        "hon_price_max": "6,608",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "27ppm",
+        "掃描解像度:": "1200 x 1200"
+    },
+    {
+        "names": "Brother HLL3270CDW",
+        "rating": "3.4",
+        "hon_price_min": "1,495",
+        "hon_price_max": "1,998",
+        "water_price_min": "1,557",
+        "water_price_max": "1,898",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "439 x 461 x 252mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort Print C2410SD A4彩色打印機",
+        "rating": "6.0",
+        "hon_price_min": "2,269",
+        "hon_price_max": "2,598",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "24ppm",
+        "打印解像度:": "600 x 600",
+        "尺寸:": "412 x 395 x 244 mm"
+    },
+    {
+        "names": "HP LaserJet Pro M15w (W2G51A)",
+        "rating": "4.3",
+        "hon_price_min": "850",
+        "hon_price_max": "1,159",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "尺寸:": "346 x 189 x 159mm"
+    },
+    {
+        "names": "Canon imageCLASS 四合一全雙面彩色雷射打印機 MF645cx",
+        "rating": "5.3",
+        "hon_price_min": "3,385",
+        "hon_price_max": "4,398",
+        "water_price_min": "3,898",
+        "water_price_max": "3,898",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "1200 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "保密打印、 Air Print 無線網絡四合一全雙面彩色雷射打印",
+        "尺寸:": "451 x 460 x 413mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort Print C3830SD A4彩色打印機",
+        "rating": "",
+        "hon_price_min": "5,088",
+        "hon_price_max": "5,399",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "442 x 421 x 308mm"
+    },
+    {
+        "names": "Pantum 彩色4合1鐳射打印機 CM2200FDW",
+        "rating": "7.6",
+        "hon_price_min": "2,850",
+        "hon_price_max": "3,088",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "24ppm",
+        "尺寸:": "411.2 x 394.1 x 344.4mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort C2060 A3 彩色多功能影印機",
+        "rating": "",
+        "hon_price_min": "15,900",
+        "hon_price_max": "15,999",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "20ppm",
+        "打印解像度:": "1200 x 2400dpi",
+        "尺寸:": "590 x 659 x 771mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP6030w",
+        "rating": "4.8",
+        "hon_price_min": "728",
+        "hon_price_max": "1,388",
+        "water_price_min": "858",
+        "water_price_max": "858",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2,400 x 600 dpi",
+        "打印技術:": "LASER"
+    },
+    {
+        "names": "HP Color LaserJet Pro M255dw  彩色鐳射打印機 (7KW64A)",
+        "rating": "",
+        "hon_price_min": "3,110",
+        "hon_price_max": "4,088",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "21ppm",
+        "打印技術:": "ImageRET 3600",
+        "尺寸:": "392 x 419 x 247.5mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M454dn Printer (W1Y44A)",
+        "rating": "",
+        "hon_price_min": "4,218",
+        "hon_price_max": "5,990",
+        "黑白/彩色:": "彩色",
+        "黑白打印速度:": "28ppm",
+        "彩色打印速度:": "28ppm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M148dw (4PA41A)",
+        "rating": "3.8",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,598",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200x1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "403 x 407.4 x 311.5 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP315dw 彩色A4雙面打印機",
+        "rating": "9.4",
+        "hon_price_min": "2,598",
+        "hon_price_max": "2,998",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 2400 dpi (Fuji Xerox 影像技術)",
+        "打印技術:": "PCL6, PCL5e, PostScript 3 兼容",
+        "尺寸:": "420 x 480 x 347mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M148fdw (4PA42A)",
+        "rating": "2.8",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,688",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200x1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "403 x 407.4 x 311.5 mm"
+    },
+    {
+        "names": "Pantum 彩色鐳射打印機 CP2200DW",
+        "rating": "8.0",
+        "hon_price_min": "1,688",
+        "hon_price_max": "2,588",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "24ppm",
+        "尺寸:": "411.2 x 394.1 x 243.7mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP 4103fdn A4 黑白多功能打印機 (2Z628A)",
+        "rating": "",
+        "hon_price_min": "5,388",
+        "hon_price_max": "5,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸：420 x 390 x 323mm / 最大尺寸：430 x 634 x 325mm"
+    },
+    {
+        "names": "HP LaserJet Pro M15a (W2G50A)",
+        "rating": "2.0",
+        "hon_price_min": "740",
+        "hon_price_max": "1,088",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "18ppm",
+        "尺寸:": "346 x 189 x 159mm"
+    },
+    {
+        "names": "Fuji Xerox ApeosPort-VII C4421 高速掃描  網絡彩色鐳射三合一打印機 (TC101456)",
+        "rating": "",
+        "hon_price_min": "16,800",
+        "hon_price_max": "17,990",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser",
+        "尺寸:": "470 x 500 x 582mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P285dw 黑白A4雙面打印機",
+        "rating": "9.3",
+        "hon_price_min": "908",
+        "hon_price_max": "1,298",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "356 x 388 x 183mm"
+    },
+    {
+        "names": "Pantum 黑白多功能鐳射打印機 M7100dw",
+        "rating": "8.5",
+        "hon_price_min": "880",
+        "hon_price_max": "1,488",
+        "water_price_min": "1,058",
+        "water_price_max": "1,058",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "415 x 365 x 350mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M635h 打印機 (7PS97A)",
+        "rating": "",
+        "hon_price_min": "26,588",
+        "hon_price_max": "36,600",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 512 x 558 x 640mm; 最大尺寸 1030 x 808 x 865mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort Print C3320SD A4彩色打印機",
+        "rating": "",
+        "hon_price_min": "3,620",
+        "hon_price_max": "3,880",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "33ppm",
+        "打印解像度:": "Black: 1200 x 1200 dpi / Colour: 1200 x 1200 dpi",
+        "尺寸:": "308 x 442 x 421mm"
+    },
+    {
+        "names": "Ricoh A4 黑白打印機 SP 230DNw",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,288",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi - 預設， 300 x 300 dpi、1200 x 1200 dpi、 2400 x 600 dpi",
+        "尺寸:": "356 x 360 x 183mm"
+    },
+    {
+        "names": "Brother MFCL8900CDW",
+        "rating": "3.3",
+        "hon_price_min": "4,600",
+        "hon_price_max": "5,298",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2,400 x 600 dpi",
+        "掃描解像度:": "1,200 x 2,400 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "495 x 526 x 549mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M454dw Printer (W1Y45A)",
+        "rating": "",
+        "hon_price_min": "4,690",
+        "hon_price_max": "6,780",
+        "黑白/彩色:": "彩色",
+        "黑白打印速度:": "28ppm",
+        "彩色打印速度:": "28ppm"
+    },
+    {
+        "names": "HP LaserJet Pro 4003dw 多功能打印機 (2Z610A)",
+        "rating": "",
+        "hon_price_min": "4,188",
+        "hon_price_max": "4,798",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "381 x 357 x 216mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP475 AP 高速網絡彩色鐳射打印機  (TL500586)",
+        "rating": "",
+        "hon_price_min": "4,985",
+        "hon_price_max": "7,999",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "427.4 x 465.7 x 407.4mm"
+    },
+    {
+        "names": "Pantum P2500",
+        "rating": "7.1",
+        "hon_price_min": "388",
+        "hon_price_max": "738",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "337 x 220 x 178mm"
+    },
+    {
+        "names": "HP LaserJet Pro M501n (J8H60A)",
+        "rating": "",
+        "hon_price_min": "3,636",
+        "hon_price_max": "3,990",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "（最佳）600 x 600 dpi，高達 4800 x 600 增強 dpi 解像度技術: HP FastRes 1200、HP ProRes 1200、600 dpi",
+        "尺寸:": "最小尺寸：418 x 376 x 289 mm, 最大尺寸：418 x 639 x 289 mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M406dn 打印機 (3PZ15A)",
+        "rating": "",
+        "hon_price_min": "3,988",
+        "hon_price_max": "5,240",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 381 x 357 x 220mm; 最大尺寸 381 x 781 x 241mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P375dw A4黑白鐳射打印機",
+        "rating": "9.0",
+        "hon_price_min": "1,988",
+        "hon_price_max": "2,499",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "PCL6, PS3 emulation, PDF version 1.7, XPS (XML Paper Specification) version 1.0",
+        "尺寸:": "373 x 388 x 255mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M528dn 打印機 (1PV64A)",
+        "rating": "",
+        "hon_price_min": "9,388",
+        "hon_price_max": "9,388",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 482 x 496 x 497 mm; 最大尺寸 507 x 631 x 497mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M227fdw (G3Q75A)",
+        "rating": "3.1",
+        "hon_price_min": "2,580",
+        "hon_price_max": "3,000",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Canon imageCLASS MF237w",
+        "rating": "2.6",
+        "hon_price_min": "1,520",
+        "hon_price_max": "1,998",
+        "water_price_min": "1,750",
+        "water_price_max": "1,750",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "打印、影印、掃描、傳真、電腦發送傳真、網絡(打印、掃描、電腦收發傳真)",
+        "尺寸:": "390 x 371 x 360mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP6030 Laserjet",
+        "rating": "2.0",
+        "hon_price_min": "628",
+        "hon_price_max": "840",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "18ppm"
+    },
+    {
+        "names": "Canon imageCLASS MF3010",
+        "rating": "7.0",
+        "hon_price_min": "898",
+        "hon_price_max": "1,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1,200 x 600 dpi",
+        "掃描解像度:": "600 x 600 dpi",
+        "尺寸:": "372 x 371 x 254 毫米"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M281fdw (T6B82A)",
+        "rating": "3.4",
+        "hon_price_min": "4,135",
+        "hon_price_max": "4,708",
+        "water_price_min": "3,988",
+        "water_price_max": "3,988",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "424 x 475 x 338mm"
+    },
+    {
+        "names": "Lexmark A4彩色多功能雙面打印機 CX331adwe",
+        "rating": "",
+        "hon_price_min": "2,988",
+        "hon_price_max": "3,250",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600dpi",
+        "掃描解像度:": "600 X 600ppi",
+        "打印技術:": "彩色激光",
+        "尺寸:": "344.4 x 411.2 x 394.1mm"
+    },
+    {
+        "names": "HP LaserJet Pro M402dn (C5F94A)",
+        "rating": "2.8",
+        "hon_price_min": "1,168",
+        "hon_price_max": "2,688",
+        "黑白/彩色:": "黑色",
+        "打印解像度:": "HP FastRes 1200",
+        "尺寸:": "381 x 357 x 216mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M130nw (G3Q58A)",
+        "rating": "2.5",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,888",
+        "water_price_min": "1,250",
+        "water_price_max": "1,250",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600 x 600"
+    },
+    {
+        "names": "HP Color LaserJet Pro M283fdw 鐳射打印機 (7KW75A-F2P)",
+        "rating": "",
+        "hon_price_min": "4,565",
+        "hon_price_max": "7,872",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "21ppm",
+        "打印技術:": "Laser",
+        "尺寸:": "420 x 421.7 x 334.1mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P275dw",
+        "rating": "8.7",
+        "hon_price_min": "968",
+        "hon_price_max": "1,150",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "356 x 360 x 186mm"
+    },
+    {
+        "names": "Fuji Xerox DocuCentre SC2022 桌面型彩色A3影印機",
+        "rating": "8.7",
+        "hon_price_min": "7,888",
+        "hon_price_max": "12,900",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "S-Led",
+        "尺寸:": "595 x 627 x 634mm"
+    },
+    {
+        "names": "Brother HLL2385DW",
+        "rating": "3.5",
+        "hon_price_min": "1,160",
+        "hon_price_max": "1,498",
+        "water_price_min": "1,358",
+        "water_price_max": "1,358",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi, HQ1200 (2,400 x 600dpi), 1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "356 x 388 x 183 mm"
+    },
+    {
+        "names": "Pantum 商用型黑白多功能雙面鐳射打印機 BM5100FDW",
+        "rating": "",
+        "hon_price_min": "2,188",
+        "hon_price_max": "2,988",
+        "黑白/彩色:": "40",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "415 x 365 x 370mm"
+    },
+    {
+        "names": "Fujifilm Apeos C2560 A3 多功能彩色打印機",
+        "rating": "",
+        "hon_price_min": "17,599",
+        "hon_price_max": "17,599",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "掃描解像度:": "600 x  600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "590 x 659 x 768mm"
+    },
+    {
+        "names": "Lexmark 黑白自動雙面打印機 MS431dn",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "單色激光",
+        "尺寸:": "222 x 368 x 363mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P355d",
+        "rating": "8.8",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,842",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200x1200dpi",
+        "尺寸:": "430mm x 426mm x 503mm"
+    },
+    {
+        "names": "HP LaserJet Pro 3003dw A4 黑白鐳射打印機",
+        "rating": "",
+        "hon_price_min": "2,278",
+        "hon_price_max": "2,488",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200x1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "367 x 758.8 x 366.1mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M634dn 打印機 (7PS94A)",
+        "rating": "",
+        "hon_price_min": "21,080",
+        "hon_price_max": "21,090",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 512 x 558 x 640mm; 最大尺寸 1030 x 808 x 865mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M507dn 打印機 (1PV87A)",
+        "rating": "",
+        "hon_price_min": "7,988",
+        "hon_price_max": "10,370",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 418 x 376 x 299 mm; 最大尺寸 418 x 639 x 299 mm"
+    },
+    {
+        "names": "Pantum 商用型黑白鐳射打印機 BP5100DW",
+        "rating": "",
+        "hon_price_min": "1,398",
+        "hon_price_max": "2,088",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射打印 (Laser Printing)",
+        "尺寸:": "364 x 344 x 257mm"
+    },
+    {
+        "names": "HP LaserJet Pro M404n 黑白鐳射打印機 (W1A52A)",
+        "rating": "",
+        "hon_price_min": "2,720",
+        "hon_price_max": "3,768",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "381 x 357 x 216mm"
+    },
+    {
+        "names": "HP LaserJet Pro 4003dn 高速黑白鐳射打印機 2Z609A",
+        "rating": "",
+        "hon_price_min": "3,788",
+        "hon_price_max": "3,880",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "高速黑白鐳射",
+        "尺寸:": "381 x 357 x 216mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP621Cw Wi-Fi 網絡彩色鐳射打印機",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,540",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "Laserjet",
+        "尺寸:": "430 x 418 x 287mm"
+    },
+    {
+        "names": "Ricoh A4 彩色打印機 SP C261DNw",
+        "rating": "5.5",
+        "hon_price_min": "1,275",
+        "hon_price_max": "1,455",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "2400 x 600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "400 x 450 x 320mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP674Cx 網絡高速雙面彩色雷射打印機",
+        "rating": "",
+        "hon_price_min": "5,360",
+        "hon_price_max": "5,688",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "雷射",
+        "尺寸:": "427 x 380 x 425mm"
+    },
+    {
+        "names": "Brother MFC-L2700D",
+        "rating": "4.0",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,588",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 2400dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "409 x 398.5 x 316.5mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M856dn 打印機 (T3U51A)",
+        "rating": "",
+        "hon_price_min": "38,880",
+        "hon_price_max": "39,890",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 556 x 610 x 520 mm; 最大尺寸 921 x 610 x 598mm"
+    },
+    {
+        "names": "HP P2055d",
+        "rating": "",
+        "hon_price_min": "2,958",
+        "hon_price_max": "2,958",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "365 x 368 x 268mm"
+    },
+    {
+        "names": "Fujifilm ApeosPrint C5240 彩色A4 高速雙面打印機",
+        "rating": "",
+        "hon_price_min": "14,980",
+        "hon_price_max": "15,500",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "打印技術:": "LED讀寫頭和IReCT, 影像對位控制技術（Image Registration Control Technology）",
+        "尺寸:": "427.5 x 464.5 x 443.4 mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M806X+ (CZ245A)",
+        "rating": "",
+        "hon_price_min": "48,930",
+        "hon_price_max": "53,488",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "Laserjet",
+        "尺寸:": "1390 x 715 x 1065 mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M608x (K0Q19A)",
+        "rating": "",
+        "hon_price_min": "14,699",
+        "hon_price_max": "15,305",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "431 x 1100 x 581mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P385dw 高速A4黑白鐳射雙面打印機",
+        "rating": "10",
+        "hon_price_min": "2,485",
+        "hon_price_max": "3,499",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200dpi",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "373 x 388 x 287mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M455dn 打印機 (3PZ95A)",
+        "rating": "",
+        "hon_price_min": "4,588",
+        "hon_price_max": "6,610",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 413.6 x 472 x 304.4mm; 最大尺寸 413.6 x 1038 x 330mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise MFP M480f 打印機 (3QA55A)",
+        "rating": "",
+        "hon_price_min": "7,380",
+        "hon_price_max": "9,900",
+        "黑白/彩色:": "黑白/彩色",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 415.4 x 472 x 399.8mm; 最大尺寸 415.4 x 1124.4 x 656mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise Flow MFP M776z 打印機 (3WT91A)",
+        "rating": "",
+        "hon_price_min": "57,888",
+        "hon_price_max": "67,888",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 585 x 712 x 1160 mm; 最大尺寸 1140 x 902 x 1160mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M155a 彩色鐳射打印機 (7KW48A)",
+        "rating": "",
+        "hon_price_min": "2,038",
+        "hon_price_max": "2,778",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "16ppm",
+        "打印技術:": "ImageRET 3600",
+        "尺寸:": "392 x 379.6 x 244.2mm"
+    },
+    {
+        "names": "Brother MFCL6900DW",
+        "rating": "",
+        "hon_price_min": "4,441",
+        "hon_price_max": "6,255",
+        "water_price_min": "5,668",
+        "water_price_max": "5,668",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "495 x 427 x 518mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M609x (K0Q22A)",
+        "rating": "",
+        "hon_price_min": "17,030",
+        "hon_price_max": "18,520",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "17 x 43.3 x 22.9\""
+    },
+    {
+        "names": "Fuji Xerox ApeosPort-VII C3321 網絡彩色鐳射三合一打印機 (TL500583)",
+        "rating": "10",
+        "hon_price_min": "6,788",
+        "hon_price_max": "12,599",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "470 x 500 x 565mm"
+    },
+    {
+        "names": "Fujifilm DocuCentre SC2022 座地式彩色A3四合一影印機",
+        "rating": "",
+        "hon_price_min": "16,788",
+        "hon_price_max": "16,880",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "595 x 627 x 1090mm"
+    },
+    {
+        "names": "Ricoh SP C250DN",
+        "rating": "8.0",
+        "hon_price_min": "718",
+        "hon_price_max": "1,288",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 X 600dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "400x450x320 mm"
+    },
+    {
+        "names": "HP LaserJet Pro M227sdn (G3Q74A)",
+        "rating": "2.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,550",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "403 x 624.4 x 455.6 mm"
+    },
+    {
+        "names": "HP LaserJet Pro M404dw 鐳射打印機",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "4,568",
+        "water_price_min": "3,980",
+        "water_price_max": "3,980",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "HP FastRes1200 (Enhanced up to 4800 x 600 dpi)",
+        "打印技術:": "鐳射",
+        "尺寸:": "381 x 357 x 216mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M283fdn 多功能彩色鐳射打印機 (7KW74A)",
+        "rating": "",
+        "hon_price_min": "3,973",
+        "hon_price_max": "4,698",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "高達 300 dpi (彩色及單色自動文件送稿器), 高達 to1200dpi (平台式)",
+        "打印技術:": "鐳射",
+        "尺寸:": "420 x 421.7 x 334.1mm"
+    },
+    {
+        "names": "Brother HLL6400DW",
+        "rating": "",
+        "hon_price_min": "3,581",
+        "hon_price_max": "4,598",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "400 x 396 x 288 mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M555x 打印機 (7ZU79A)",
+        "rating": "",
+        "hon_price_min": "13,532",
+        "hon_price_max": "13,688",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 458 x 479 x 513 mm; 最大尺寸 820 x 785 x 588mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M555dn 打印機 (7ZU78A)",
+        "rating": "",
+        "hon_price_min": "10,888",
+        "hon_price_max": "10,988",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 458 x 479 x 380mm; 最大尺寸 820 x 785 x 455mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M611dn 打印機 (7PS84A)",
+        "rating": "",
+        "hon_price_min": "14,267",
+        "hon_price_max": "41,388",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 431 x 466 x 380mm; 最大尺寸 431 x 1040 x 45mm"
+    },
+    {
+        "names": "Ricoh Ricoh SP 325FNw",
+        "rating": "8.0",
+        "hon_price_min": "1,568",
+        "hon_price_max": "1,868",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600dpi",
+        "打印技術:": "PCL5e, PCL 6",
+        "尺寸:": "405 x 392 x 405mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise MFP M776dn 打印機 (T3U55A)",
+        "rating": "",
+        "hon_price_min": "43,888",
+        "hon_price_max": "46,588",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 585 x 663 x 710mm; 最大尺寸 921 x 663 x 710mm"
+    },
+    {
+        "names": "Fujifilm DocuPrint M375z 雙面多功能A4影印機",
+        "rating": "9.2",
+        "hon_price_min": "2,750",
+        "hon_price_max": "3,449",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "PCL6, PS3 emulation, PDF version 1.7, XPS (XML Paper Specification) version 1.0",
+        "尺寸:": "495 x 427 x 486mm"
+    },
+    {
+        "names": "Pantum P2500W",
+        "rating": "6.0",
+        "hon_price_min": "528",
+        "hon_price_max": "788",
+        "water_price_min": "680",
+        "water_price_max": "698",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "337 x 220 x 178mm"
+    },
+    {
+        "names": "Fuji Xerox DocuCentre S2520 黑白A3影印機",
+        "rating": "10",
+        "hon_price_min": "5,750",
+        "hon_price_max": "7,638",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600dpi",
+        "尺寸:": "430 x 426 x 503mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP673Cdw Wi-Fi 網絡高速雙面彩色雷射打印機",
+        "rating": "",
+        "hon_price_min": "4,988",
+        "hon_price_max": "5,188",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "雷射",
+        "尺寸:": "425 x 427 x 300mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M385 z 高速 A4 黑白多功能影印機",
+        "rating": "10",
+        "hon_price_min": "3,288",
+        "hon_price_max": "5,699",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200dpi",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "495 x 427 x 518mm"
+    },
+    {
+        "names": "Canon imageCLASS MF269dw 無線網絡多合一鐳射打印機",
+        "rating": "4.0",
+        "hon_price_min": "2,366",
+        "hon_price_max": "2,795",
+        "介面:": "USB 2.0高速，Wi-Fi 802.11b/g/n，10/100 BASE-T以太網絡，直接接駁",
+        "掃描解像度:": "600 x 600dpi",
+        "尺寸:": "390 x 405 x 375mm"
+    },
+    {
+        "names": "Pantum 商用型黑白多功能雙面鐳射打印機 BM5100FDN",
+        "rating": "",
+        "hon_price_min": "2,088",
+        "hon_price_max": "2,888",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "415 x 365 x 370mm"
+    },
+    {
+        "names": "Brother HLL8360CDW",
+        "rating": "2.7",
+        "hon_price_min": "3,293",
+        "hon_price_max": "3,995",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2,400 x 600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "441 x 486 x 313mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise Flow MFP M577z (B5L48A)",
+        "rating": "",
+        "hon_price_min": "23,680",
+        "hon_price_max": "25,988",
+        "黑白/彩色:": "彩色",
+        "掃描解像度:": "600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "699 x 504 x 583mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise Flow MFP M527z (F2A78A)",
+        "rating": "",
+        "hon_price_min": "18,198",
+        "hon_price_max": "18,998",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Kyocera ECOSYS M5521cdw 鐳射打印機",
+        "rating": "",
+        "hon_price_min": "2,188",
+        "hon_price_max": "3,588",
+        "黑白/彩色:": "黑白+彩色",
+        "打印解像度:": "600 x 600 dpi; 1,200 x 1,200 dpi",
+        "掃描解像度:": "600dpi, 400dpi, 300dpi, 200dpi, 200x400dpi, 200x100dpi",
+        "打印技術:": "Semiconductor Laser",
+        "尺寸:": "417 x 429 x 495mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M635fht 打印機 (7PS98A)",
+        "rating": "",
+        "hon_price_min": "42,800",
+        "hon_price_max": "42,800",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 665 x 600 x 1094mm; 最大尺寸 1030 x 890 x 1356mm"
+    },
+    {
+        "names": "Fuji Xerox ApeosPort-VII CP4421 網絡彩色鐳射打印機 (TL500589)",
+        "rating": "",
+        "hon_price_min": "7,399",
+        "hon_price_max": "7,999",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "427.4 x 465.7 x 407.4mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP228x 極速無線網絡雙面鐳射打印機",
+        "rating": "",
+        "hon_price_min": "3,788",
+        "hon_price_max": "4,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "Laserjet",
+        "尺寸:": "438 x 373 x 312mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M477fdw (CF379A)",
+        "rating": "2.3",
+        "hon_price_min": "5,680",
+        "hon_price_max": "5,680",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "426 x 652 x 414 mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M130fn (G3Q59A)",
+        "rating": "4.0",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,468",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600 x 600"
+    },
+    {
+        "names": "HP Color LaserJet Pro M255nw 個人彩色鐳射印表機 (7KW63A)",
+        "rating": "",
+        "hon_price_min": "2,620",
+        "hon_price_max": "3,488",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "392 x 385.8 x 247.5mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M612dn 打印機 (7PS86A)",
+        "rating": "",
+        "hon_price_min": "16,682",
+        "hon_price_max": "18,882",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 431 x 466 x 380mm; 最大尺寸 431 x 1040 x 453mm"
+    },
+    {
+        "names": "Canon imageCLASS MF735Cx",
+        "rating": "3.0",
+        "hon_price_min": "2,999",
+        "hon_price_max": "5,188",
+        "黑白/彩色:": "彩色",
+        "掃描解像度:": "600",
+        "打印技術:": "Laser",
+        "尺寸:": "471 x 469 x 460mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP 3103fdw 多功能打印機 (3G632A)",
+        "rating": "",
+        "hon_price_min": "2,799",
+        "hon_price_max": "2,888",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "418 x 398.2 x 313.2mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M28a (W2G54A)",
+        "rating": "2.7",
+        "hon_price_min": "978",
+        "hon_price_max": "1,268",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "尺寸:": "360 x 264 x 197mm"
+    },
+    {
+        "names": "Kyocera ECOSYS P2235dn 黑白鐳射打印機",
+        "rating": "10",
+        "hon_price_min": "1,258",
+        "hon_price_max": "1,358",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600dpi",
+        "尺寸:": "375 x 393 x 272mm"
+    },
+    {
+        "names": "Canon imageCLASS MF445dw 全雙面多合一鐳射打印機",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "6,188",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "9600 x 9600 dpi (MAX.)",
+        "打印技術:": "LaserJet",
+        "尺寸:": "453 x 464 x 392mm"
+    },
+    {
+        "names": "Ricoh SP 220Nw",
+        "rating": "5.3",
+        "hon_price_min": "528",
+        "hon_price_max": "528",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 600 DPI",
+        "打印技術:": "LASER"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M479fnw",
+        "rating": "",
+        "hon_price_min": "5,328",
+        "hon_price_max": "8,488",
+        "黑白/彩色:": "彩色",
+        "黑白打印速度:": "27ppm",
+        "彩色打印速度:": "27ppm"
+    },
+    {
+        "names": "Canon imageCLASS LBP8780x",
+        "rating": "",
+        "hon_price_min": "9,678",
+        "hon_price_max": "12,188",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2,400 x 600dpi"
+    },
+    {
+        "names": "Canon imageCLASS MF913w",
+        "rating": "2.7",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,588",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi",
+        "打印技術:": "多合一功能: 打印、影印、掃描、網絡(打印及掃描)",
+        "尺寸:": "372 x 320 x 255mm"
+    },
+    {
+        "names": "Fuji Xerox ApeosPort-VII 4021F 鐳射打印機",
+        "rating": "",
+        "hon_price_min": "9,388",
+        "hon_price_max": "9,688",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "掃描解像度:": "600 x 600dpi",
+        "尺寸:": "420 x 503 x 565mm"
+    },
+    {
+        "names": "Canon imageCLASS MF249dw",
+        "rating": "2.5",
+        "hon_price_min": "2,568",
+        "hon_price_max": "3,110",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1,200 x 1,200 dpi",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "尺寸:": "390 x 378 x 360mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort C3060 A3 彩色多功能影印機",
+        "rating": "",
+        "hon_price_min": "19,499",
+        "hon_price_max": "19,999",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "30ppm",
+        "打印解像度:": "1200 x 2400dpi",
+        "尺寸:": "590 x 659 x 768mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP555d",
+        "rating": "",
+        "hon_price_min": "8,888",
+        "hon_price_max": "16,995",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "52ppm",
+        "打印技術:": "S-led"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CM225fw (停產)",
+        "rating": "7.7",
+        "hon_price_min": "2,649",
+        "hon_price_max": "2,998",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 2400 dpi",
+        "掃描解像度:": "1200 x 1200 dpi (可優化至4800 x 4800 dpi)",
+        "打印技術:": "S-LED打印技術"
+    },
+    {
+        "names": "HP LaserJet Enterprise Flow MFP M636z 打印機 (7PT01A)",
+        "rating": "",
+        "hon_price_min": "54,850",
+        "hon_price_max": "54,850",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 661 x 658 x 1234mm; 最大尺寸 1030 x 890 x 1500mm"
+    },
+    {
+        "names": "Fuji Xerox ApeosPort A3 彩色多功能影印機 (4紙盤) C2560ST-F",
+        "rating": "",
+        "hon_price_min": "20,999",
+        "hon_price_max": "22,229",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "616 x 659 x 1119mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise Flow MFP M635z 打印機 (7PS99A)",
+        "rating": "",
+        "hon_price_min": "53,200",
+        "hon_price_max": "53,200",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 661 x 658 x 1234mm; 最大尺寸 1030 x 890 x 1500mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint C5005d",
+        "rating": "",
+        "hon_price_min": "21,608",
+        "hon_price_max": "24,450",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "50ppm",
+        "尺寸:": "640 x 699 x 600  毫米"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P455d 高速A4黑白雙面打印機",
+        "rating": "8.0",
+        "hon_price_min": "4,099",
+        "hon_price_max": "5,687",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "45ppm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M154a (T6B51A)",
+        "rating": "3.0",
+        "hon_price_min": "1,920",
+        "hon_price_max": "2,008",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "392 x 435 x 244.2mm"
+    },
+    {
+        "names": "Kyocera ECOSYS P5026cdw A4 Laser Color Printer",
+        "rating": "10",
+        "hon_price_min": "1,700",
+        "hon_price_max": "4,180",
+        "黑白/彩色:": "黑白+彩色",
+        "彩色打印速度:": "26ppm",
+        "打印解像度:": "降低速度的1,200 x 1,200 dpi打印，多位技術可實現高達9,600 x 600 dpi（打印），600 x 600 dpi的打印質量",
+        "尺寸:": "410 x 410 x 329mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint 3205d A3黑白鐳射打印機",
+        "rating": "10",
+        "hon_price_min": "5,460",
+        "hon_price_max": "6,098",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "S-Led",
+        "尺寸:": "499.4 x 338 x 262.6mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M277n (B3Q10A)",
+        "rating": "",
+        "hon_price_min": "3,688",
+        "hon_price_max": "3,788",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600",
+        "掃描解像度:": "600",
+        "打印技術:": "Laser",
+        "尺寸:": "420 x 849 x 578mm"
+    },
+    {
+        "names": "Samsung 三星 SL-C480FW",
+        "rating": "6.0",
+        "hon_price_min": "1,392",
+        "hon_price_max": "1,392",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600 dpi",
+        "掃描解像度:": "最高可達 1,200 x 1,200 dpi (平台) / 最高可達 600 x 600 dpi (ADF)",
+        "尺寸:": "406 x 362 x 333.5mm"
+    },
+    {
+        "names": "HP LaserJet Pro M203dw (G3Q47A)",
+        "rating": "3.2",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,488",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "370.5 x 407.4 x 223.9mm"
+    },
+    {
+        "names": "Canon imageCLASS MF113w",
+        "rating": "2.0",
+        "hon_price_min": "1,248",
+        "hon_price_max": "1,650",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi",
+        "打印技術:": "多合一功能: 打印、影印、掃描、網絡(打印及掃描)",
+        "尺寸:": "372 x 320 x 255mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M528f 打印機 (1PV65A)",
+        "rating": "",
+        "hon_price_min": "17,888",
+        "hon_price_max": "20,530",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 482 x 496 x 497mm; 最大尺寸 507 x 631 x 497mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M452dw (CF394A)",
+        "rating": "4.0",
+        "hon_price_min": "4,308",
+        "hon_price_max": "4,837",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "412 x 649 x 340 mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M527f (F2A77A)",
+        "rating": "",
+        "hon_price_min": "15,028",
+        "hon_price_max": "15,998",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "HP CP5225N",
+        "rating": "",
+        "hon_price_min": "12,944",
+        "hon_price_max": "14,388",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "20ppm",
+        "打印解像度:": "600 x 600dpi"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M455df 高速 A4 黑白雙面影印機",
+        "rating": "",
+        "hon_price_min": "5,488",
+        "hon_price_max": "8,110",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "45ppm",
+        "打印解像度:": "1200 x 1200 dpi"
+    },
+    {
+        "names": "HP LaserJet Pro 500 color MFP M570dw (CZ272A)",
+        "rating": "",
+        "hon_price_min": "11,788",
+        "hon_price_max": "13,588",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "300 x 300 dpi",
+        "尺寸:": "515 x 500 x 538 mm"
+    },
+    {
+        "names": "Brother MFCL5900DW",
+        "rating": "",
+        "hon_price_min": "3,416",
+        "hon_price_max": "4,578",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "495 x 427 x 486mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CM405df",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "10,950",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600 x600 dpi",
+        "尺寸:": "439 x 530 x 558 mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP162dw",
+        "rating": "2.0",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,145",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "371 x 404 x 225mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M632fht (J8J71A)",
+        "rating": "",
+        "hon_price_min": "26,550",
+        "hon_price_max": "26,550",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "1030 x 890 x 1356mm"
+    },
+    {
+        "names": "Brother HLL5100DN",
+        "rating": "3.3",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,355",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "373 x 388 x 255 mm"
+    },
+    {
+        "names": "HP LaserJet Pro M102w (G3Q35A)",
+        "rating": "2.0",
+        "hon_price_min": "1,128",
+        "hon_price_max": "1,360",
+        "water_price_min": "1,078",
+        "water_price_max": "1,078",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "364.7 x 247.3 x 190.6mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP405d",
+        "rating": "",
+        "hon_price_min": "6,340",
+        "hon_price_max": "7,238",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "35ppm",
+        "打印解像度:": "600 x 600 dpi",
+        "尺寸:": "439 x 485 x 379 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP505d",
+        "rating": "",
+        "hon_price_min": "8,580",
+        "hon_price_max": "10,849",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1,200 x 2,400 dpi (Fuji Xerox Imaging Technology)",
+        "打印技術:": "S-led",
+        "尺寸:": "427 x 466 x 443mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M227fdn (G3Q79A)",
+        "rating": "2.0",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,688",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "403 x 624.4 x 455.6mm"
+    },
+    {
+        "names": "Ricoh SP C261SFNw",
+        "rating": "6.6",
+        "hon_price_min": "2,898",
+        "hon_price_max": "2,998",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600",
+        "掃描解像度:": "1200 X 1200",
+        "打印技術:": "PCL5，PCL6",
+        "尺寸:": "420 x 493 x 460mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M281fdn (T6B81A)",
+        "rating": "3.0",
+        "hon_price_min": "3,688",
+        "hon_price_max": "4,158",
+        "黑白/彩色:": "彩色",
+        "掃描解像度:": "1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "424 x 475 x 338mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P365d",
+        "rating": "10",
+        "hon_price_min": "1,850",
+        "hon_price_max": "2,345",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "393 x 428 x 267mm"
+    },
+    {
+        "names": "HP LaserJet Pro 3003dn A4 黑白鐳射打印機",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,288",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "367 x 758.8 x 366.1mm"
+    },
+    {
+        "names": "Ricoh SP 220SFNw",
+        "rating": "6.5",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,170",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (最高)",
+        "打印技術:": "Laser",
+        "尺寸:": "402 x 360 x 293 mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M428fdn 黑白鐳射打印機 (W1A29A)",
+        "rating": "",
+        "hon_price_min": "4,570",
+        "hon_price_max": "5,880",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Pantum 商用型黑白多功能雙面鐳射打印機 BM5100ADN",
+        "rating": "",
+        "hon_price_min": "1,888",
+        "hon_price_max": "2,688",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "415 x 365 x 370mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M430f 打印機 (3PZ55A)",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "8,350",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 420 x 390 x 323m; 最大尺寸 453 x 839 x 577mm（打印機已完全開啟）"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M355df",
+        "rating": "9.0",
+        "hon_price_min": "2,268",
+        "hon_price_max": "2,760",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "掃描解像度:": "1200 x 1200dpi",
+        "尺寸:": "42.6 x 43.0 x 50.3公分"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise Flow MFP M776zs 打印機 (T3U56A)",
+        "rating": "",
+        "hon_price_min": "63,888",
+        "hon_price_max": "72,288",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 705 x 712 x 1155mm; 最大尺寸 1150 x 902 x 1155mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M553x (B5L26A)",
+        "rating": "",
+        "hon_price_min": "11,278",
+        "hon_price_max": "12,268",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "HP ImageREt 3600",
+        "打印技術:": "Laserjet",
+        "尺寸:": "458 x 479 x 581 mm"
+    },
+    {
+        "names": "HP LaserJet Pro M203dn (G3Q46A)",
+        "rating": "2.0",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,288",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "LASER",
+        "尺寸:": "370.5 x 407.4 x 223.9mm"
+    },
+    {
+        "names": "Fuji Xerox Apeosport- VII 5021 商用高速黑白 A4 多功能影印機 (TL200678)",
+        "rating": "",
+        "hon_price_min": "13,880",
+        "hon_price_max": "13,999",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "600 x 600",
+        "尺寸:": "470 x 503 x 585mm"
+    },
+    {
+        "names": "Brother MFCL5700DN",
+        "rating": "7.0",
+        "hon_price_min": "2,632",
+        "hon_price_max": "3,080",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "435 x 427 x 486mm"
+    },
+    {
+        "names": "Pantum 商用型黑白鐳射打印機 BP5100DN",
+        "rating": "",
+        "hon_price_min": "1,488",
+        "hon_price_max": "1,980",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200x1200",
+        "打印技術:": "鐳射打印 (Laser Printing)",
+        "尺寸:": "364 x 344 x 257mm"
+    },
+    {
+        "names": "Fuji Xerox DocuCentre-V A3 多功能影印機 (共4層紙盤) C2263CPS-F",
+        "rating": "",
+        "hon_price_min": "17,888",
+        "hon_price_max": "17,888",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 2400",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "616 x 659 x 1119mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise flow MFP M830z (CF367A)",
+        "rating": "",
+        "hon_price_min": "70,499",
+        "hon_price_max": "74,950",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise 多功能打印機 MFP M578f (7ZU86A)",
+        "rating": "",
+        "hon_price_min": "23,888",
+        "hon_price_max": "35,090",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 482 x 504 x 583mm; 最大尺寸 820 x 863 x 837mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise flow M880z 多功能打印機 (A2W75A)",
+        "rating": "",
+        "hon_price_min": "63,460",
+        "hon_price_max": "70,885",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200 dpi",
+        "掃描解像度:": "600 dpi",
+        "打印技術:": "LASER"
+    },
+    {
+        "names": "Fujifilm 桌面型彩色A3 三合一影印機 APC2560CPS-D",
+        "rating": "",
+        "hon_price_min": "16,300",
+        "hon_price_max": "16,500",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "590 x  659 x  768mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M435nw",
+        "rating": "",
+        "hon_price_min": "6,138",
+        "hon_price_max": "7,390",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "laserjet",
+        "尺寸:": "530 x 455 x 418 mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M181fw (T6B71A)",
+        "rating": "3.2",
+        "hon_price_min": "2,688",
+        "hon_price_max": "2,988",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "16ppm",
+        "打印解像度:": "600 x 600",
+        "尺寸:": "435 x 435 x 343mm"
+    },
+    {
+        "names": "Fuji Xerox ApeosPort 2560 A3黑白鐳射打印機",
+        "rating": "",
+        "hon_price_min": "7,988",
+        "hon_price_max": "7,988",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "掃描解像度:": "600 x 600dpi",
+        "尺寸:": "590 x 659 x 768 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuCentre S2320 黑白A3影印機",
+        "rating": "8.7",
+        "hon_price_min": "4,888",
+        "hon_price_max": "7,300",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600dpi",
+        "尺寸:": "430 x 426 x 503mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise Flow MFP M630z (B3G86A)",
+        "rating": "",
+        "hon_price_min": "32,848",
+        "hon_price_max": "33,998",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Fujifilm ApeosPort C3320SD A4彩色多功能打印機",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "5,600",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "33ppm",
+        "打印解像度:": "Black: 1200 x 1200 dpi / Colour: 1200 x 1200 dpi",
+        "尺寸:": "462 x 442 x 588mm"
+    },
+    {
+        "names": "Brother MFC-9320CW",
+        "rating": "",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "17ppm",
+        "打印解像度:": "600 x 600dpi",
+        "尺寸:": "491 x 428 x 401mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort Print 4730SD A4黑白打印機",
+        "rating": "",
+        "hon_price_min": "4,468",
+        "hon_price_max": "4,488",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "399 x 374 x 303mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M553dn (B5L25A)",
+        "rating": "",
+        "hon_price_min": "8,623",
+        "hon_price_max": "9,388",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "HP ImageREt 3600",
+        "掃描解像度:": "HP ImageREt 3600",
+        "打印技術:": "Laserjet",
+        "尺寸:": "27.5 x 18.9 x 15.7 in"
+    },
+    {
+        "names": "Fujifilm ApeosPrint 6340 旗艦款A4高速黑白印表機",
+        "rating": "",
+        "hon_price_min": "12,500",
+        "hon_price_max": "12,500",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "Super EA-Eco碳粉可提供精細的文字與線條",
+        "尺寸:": "427.5 x 464.5 x 443.4mm"
+    },
+    {
+        "names": "Ricoh Ricoh SP 325DNw",
+        "rating": "10",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,488",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 DPI",
+        "打印技術:": "Laser"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P505d",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "13,800",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1,200 x 1,200 dpi (Fuji Xerox Imaging Technology)",
+        "打印技術:": "Laser",
+        "尺寸:": "427 x 466 x 443mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M653x (J8A05A)",
+        "rating": "",
+        "hon_price_min": "16,388",
+        "hon_price_max": "19,088",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "37.91 x 30.31 x 25.2\""
+    },
+    {
+        "names": "Canon imageCLASS MF266dn 網絡多合一鐳射打印機",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,780",
+        "介面:": "USB 2.0高速，10/100 BASE-T以太網絡",
+        "掃描解像度:": "600 x 600dpi",
+        "尺寸:": "390 x 405 x 375mm"
+    },
+    {
+        "names": "Pantum P3500DN",
+        "rating": "8.0",
+        "hon_price_min": "980",
+        "hon_price_max": "990",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "Up to 1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "370 x 370 x 286mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M751n 打印機 (T3U43A)",
+        "rating": "",
+        "hon_price_min": "23,888",
+        "hon_price_max": "36,100",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 556 x 589 x 399 mm; 最大尺寸 1051 x 992 x 443 mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise MFP M578dn 多功能打印機 (7ZU85A)",
+        "rating": "",
+        "hon_price_min": "20,888",
+        "hon_price_max": "20,998",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 482 x 504 x 583mm; 最大尺寸 820 x 863 x 837mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M428fdw (W1A30A)",
+        "rating": "",
+        "hon_price_min": "5,570",
+        "hon_price_max": "6,288",
+        "黑白/彩色:": "Black and White",
+        "掃描解像度:": "1200 x 1200",
+        "打印技術:": "Laser",
+        "尺寸:": "420 x 390 x 323 mm"
+    },
+    {
+        "names": "Fuji Xerox P215b",
+        "rating": "7.1",
+        "hon_price_min": "299",
+        "hon_price_max": "335",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "SLED Technology"
+    },
+    {
+        "names": "HP LaserJet Pro 4003n 多功能打印機 (2Z611A)",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,958",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200x1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "381 x 357 x 216mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M252dw",
+        "rating": "8.0",
+        "hon_price_min": "3,008",
+        "hon_price_max": "3,190",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "19ppm",
+        "打印解像度:": "600 x 600 dpi",
+        "尺寸:": "392 x 412 x 236.2 mm"
+    },
+    {
+        "names": "Lexmark MX911dte",
+        "rating": "",
+        "hon_price_min": "104,088",
+        "hon_price_max": "104,088",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "1152 x 615 x 697mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M652dn (J7Z99A)",
+        "rating": "",
+        "hon_price_min": "11,940",
+        "hon_price_max": "13,400",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "963 x 770 x 482mm"
+    },
+    {
+        "names": "Brother HLL6200DW",
+        "rating": "3.0",
+        "hon_price_min": "2,850",
+        "hon_price_max": "3,378",
+        "water_price_min": "2,608",
+        "water_price_max": "2,608",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "373 x 388 x 287 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CM505da",
+        "rating": "10",
+        "hon_price_min": "23,900",
+        "hon_price_max": "25,838",
+        "黑白/彩色:": "彩色",
+        "掃描解像度:": "600 x 600dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "560 x 536 x 629 mm"
+    },
+    {
+        "names": "Pantum 黑白3合1無線雙面鐳射打印機 BM5100ADW",
+        "rating": "2.0",
+        "hon_price_min": "1,976",
+        "hon_price_max": "2,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "掃描解像度:": "Flatbed: 75/150/300/600/1200 dpi, ADF: 75/150/300/600 dpi",
+        "尺寸:": "415 x 365 x 370 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P475 AP 高速A4黑白鐳射雙面打印機",
+        "rating": "10",
+        "hon_price_min": "4,888",
+        "hon_price_max": "6,438",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "428 x 466 x 408mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP113w",
+        "rating": "2.0",
+        "hon_price_min": "880",
+        "hon_price_max": "1,038",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2,400 x 600 dpi",
+        "打印技術:": "打印、網絡打印",
+        "尺寸:": "376 x 291 x 222mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M506dn (F2A69A)",
+        "rating": "",
+        "hon_price_min": "4,988",
+        "hon_price_max": "7,198",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200"
+    },
+    {
+        "names": "Canon imageCLASS MF543x 多合一全雙面鐳射打印機",
+        "rating": "",
+        "hon_price_min": "9,200",
+        "hon_price_max": "10,088",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "Laserjet",
+        "尺寸:": "494 x 464 x 452mm"
+    },
+    {
+        "names": "Fuji Xerox Docuprint 5105d",
+        "rating": "",
+        "hon_price_min": "26,638",
+        "hon_price_max": "30,000",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise Flow MFP M682z 打印機 (J8A17A)",
+        "rating": "",
+        "hon_price_min": "59,288",
+        "hon_price_max": "63,820",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 657 x 657 x 1270mm; 最大尺寸 992 x 967 x 1529mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M426fdw",
+        "rating": "4.0",
+        "hon_price_min": "4,688",
+        "hon_price_max": "4,888",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "38ppm",
+        "打印解像度:": "1200 x 1200 dpi"
+    },
+    {
+        "names": "Lexmark A4 彩色多功能全雙面打印機 CX431adw",
+        "rating": "",
+        "hon_price_min": "3,780",
+        "hon_price_max": "4,088",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600 dpi",
+        "掃描解像度:": "600 X 600 ppi",
+        "打印技術:": "彩色激光",
+        "尺寸:": "344.4 x 411.2 x 394.1mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise Flow MFP M681z 打印機 (J8A13A)",
+        "rating": "",
+        "hon_price_min": "52,788",
+        "hon_price_max": "59,820",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 657 x 657 x 1270mm; 最大尺寸 992 x 967 x 1529mm"
+    },
+    {
+        "names": "Lexmark MS415dn",
+        "rating": "",
+        "hon_price_min": "1,860",
+        "hon_price_max": "1,860",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "263 x 399 x 382mm"
+    },
+    {
+        "names": "Lexmark MX812dfe",
+        "rating": "",
+        "hon_price_min": "47,888",
+        "hon_price_max": "47,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "1133 x 663 x 734mm"
+    },
+    {
+        "names": "Fuji Xerox Phaser 7800DN",
+        "rating": "",
+        "hon_price_min": "43,999",
+        "hon_price_max": "49,978",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "45ppm",
+        "打印解像度:": "1200 x 2400dpi"
+    },
+    {
+        "names": "Canon imageCLASS LBP913w",
+        "rating": "2.0",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,570",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2,400 x 600 dpi",
+        "打印技術:": "打印、網絡打印",
+        "尺寸:": "376 x 291 x 222mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M479fdw 鐳射打印機 (W1A80A-F2P)",
+        "rating": "",
+        "hon_price_min": "7,950",
+        "hon_price_max": "12,912",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "27ppm",
+        "打印技術:": "Laser",
+        "尺寸:": "416 x 461 x 400mm"
+    },
+    {
+        "names": "Lexmark MX711de",
+        "rating": "",
+        "hon_price_min": "30,688",
+        "hon_price_max": "30,688",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "727 x 548 x 578mm"
+    },
+    {
+        "names": "Lexmark CS725de",
+        "rating": "",
+        "hon_price_min": "12,888",
+        "hon_price_max": "12,888",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "47ppm",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "417 x 475 x 499mm"
+    },
+    {
+        "names": "Lexmark MS911de",
+        "rating": "",
+        "hon_price_min": "32,888",
+        "hon_price_max": "32,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "770 x 615 x 695mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP6780x",
+        "rating": "",
+        "hon_price_min": "6,780",
+        "hon_price_max": "6,780",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2400 x 600dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "454 mm x 424 mm x 345 mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise 600 Printer M602dn",
+        "rating": "",
+        "hon_price_min": "13,580",
+        "hon_price_max": "13,580",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200x1200dpi",
+        "尺寸:": "16.3 x 20 x 15.7 in"
+    },
+    {
+        "names": "HP Colour LaserJet Enterprise M855xH (A2W78A)",
+        "rating": "",
+        "hon_price_min": "43,690",
+        "hon_price_max": "48,400",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "39.4 x 25 x 41.9 in"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise Flow MFP M680z (CZ250A)",
+        "rating": "",
+        "hon_price_min": "44,668",
+        "hon_price_max": "44,812",
+        "黑白/彩色:": "彩色",
+        "掃描解像度:": "600 dpi",
+        "打印技術:": "1200 x 1200",
+        "尺寸:": "403 x 1010 x 1416mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M254nw (T6B59A)",
+        "rating": "2.4",
+        "hon_price_min": "2,388",
+        "hon_price_max": "2,708",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "392 x 435 x 247.5mm"
+    },
+    {
+        "names": "Lexmark CX725dhe",
+        "rating": "",
+        "hon_price_min": "27,677",
+        "hon_price_max": "27,677",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "47ppm",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "648 x 505 x 533mm"
+    },
+    {
+        "names": "Canon imageCLASS MF217w",
+        "rating": "8.0",
+        "hon_price_min": "2,078",
+        "hon_price_max": "2,078",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "Laser",
+        "尺寸:": "390 x 371 x 360 毫米"
+    },
+    {
+        "names": "Canon imageCLASS 雙面多合一彩色鐳射打印機 MF746cx",
+        "rating": "4.0",
+        "hon_price_min": "4,990",
+        "hon_price_max": "6,588",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "1200 x 1200",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "471 x 469 x 460mm"
+    },
+    {
+        "names": "Lexmark A4 彩色雙面網絡打印機 CS521dn",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,888",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "彩色激光",
+        "尺寸:": "308 x 442 x 421mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M225dn (CF484A)",
+        "rating": "",
+        "hon_price_min": "2,458",
+        "hon_price_max": "2,458",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "442.5 x 407.7 x 371.3 mm (最大尺寸)"
+    },
+    {
+        "names": "Lexmark MS811dn",
+        "rating": "",
+        "hon_price_min": "11,888",
+        "hon_price_max": "11,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "419 x 425 x 510mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M452dn Freedom to Print (CF389A-F2P)",
+        "rating": "",
+        "hon_price_min": "7,416",
+        "hon_price_max": "7,416",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "27ppm",
+        "打印解像度:": "600 x 600 Dpi"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP555 d 高效A4彩色SLED鐳射商用打印機",
+        "rating": "",
+        "hon_price_min": "15,498",
+        "hon_price_max": "15,588",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "打印技術:": "SLED",
+        "尺寸:": "427.4 x 465.5 x 443.4 mm"
+    },
+    {
+        "names": "Brother MFC-9330CDW",
+        "rating": "3.3",
+        "hon_price_min": "2,761",
+        "hon_price_max": "2,761",
+        "黑白/彩色:": "彩色鐳射打印機",
+        "彩色打印速度:": "22ppm",
+        "打印解像度:": "600 x 600 dpi, up to 2400 x 600 dpi",
+        "尺寸:": "410 x 483 x 410 mm"
+    },
+    {
+        "names": "Lexmark CS923de",
+        "rating": "",
+        "hon_price_min": "41,888",
+        "hon_price_max": "41,888",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200x1200 dpi",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise CP5525dn",
+        "rating": "",
+        "hon_price_min": "27,300",
+        "hon_price_max": "27,478",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "30ppm",
+        "打印解像度:": "600 x 600dpi",
+        "尺寸:": "544 x 586 x 465 mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M651dn (CZ256A)",
+        "rating": "",
+        "hon_price_min": "14,428",
+        "hon_price_max": "17,450",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "819 x 863 x 521 mm"
+    },
+    {
+        "names": "HP Colour LaserJet Enterprise M750DN (D3L09A)",
+        "rating": "",
+        "hon_price_min": "26,959",
+        "hon_price_max": "29,898",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "840 x 975 x 465 mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M130a (G3Q57A)",
+        "rating": "",
+        "hon_price_min": "1,068",
+        "hon_price_max": "1,688",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600 x 600"
+    },
+    {
+        "names": "Canon imageCLASS LBP251dw",
+        "rating": "",
+        "hon_price_min": "2,598",
+        "hon_price_max": "3,198",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "400 x 377 x 298mm"
+    },
+    {
+        "names": "Canon imageCLASS MF246dn",
+        "rating": "",
+        "hon_price_min": "2,115",
+        "hon_price_max": "2,680",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "打印、影印、掃描、傳真、電腦收發傳真、網絡(打印、掃描、電腦收發傳真)、掃描至電郵/SMB",
+        "尺寸:": "390 x 371 x 360mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP505 d A4彩色SLED雙面打印機",
+        "rating": "",
+        "hon_price_min": "9,899",
+        "hon_price_max": "10,908",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "打印技術:": "SLED",
+        "尺寸:": "427.4 x 465.5 x 443.4mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M454nw 打印機 (W1Y43A)",
+        "rating": "",
+        "hon_price_min": "4,855",
+        "hon_price_max": "5,488",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "38ppm",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 412 x 453 x 295mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise Flow 多功能打印機 M578z (7ZU88A)",
+        "rating": "",
+        "hon_price_min": "28,188",
+        "hon_price_max": "37,900",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "600 x 600",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 482 x 504 x 583mm; 最大尺寸 820 x 863 x 837mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise CP5525N",
+        "rating": "",
+        "hon_price_min": "22,990",
+        "hon_price_max": "22,999",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "30ppm",
+        "打印解像度:": "600 x 600 dpi",
+        "尺寸:": "544 x 586 x 465 mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M452dn (CF389A)",
+        "rating": "",
+        "hon_price_min": "3,790",
+        "hon_price_max": "4,522",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "412 x 649 x 340 mm"
+    },
+    {
+        "names": "Samsung 三星 CLP-300",
+        "rating": "5.0",
+        "hon_price_min": "1,188",
+        "hon_price_max": "1,188",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600dpi",
+        "掃描解像度:": "-",
+        "打印技術:": "4色",
+        "尺寸:": "390 x 344 x 265 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M225dw",
+        "rating": "8.8",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,478",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 2400dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "409 x 398.5 x 316.5 mm"
+    },
+    {
+        "names": "Canon imageCLASS MF525x",
+        "rating": "",
+        "hon_price_min": "8,289",
+        "hon_price_max": "9,188",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "494 x 464 x 452mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M154nw (T6B52A)",
+        "rating": "2.4",
+        "hon_price_min": "2,030",
+        "hon_price_max": "2,168",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "392 x 435x 244.2mm"
+    },
+    {
+        "names": "Lexmark CS310DN",
+        "rating": "10",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "23ppm",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "291 x 442 x 407mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M610dn 打印機 (7PS82A)",
+        "rating": "",
+        "hon_price_min": "10,380",
+        "hon_price_max": "12,830",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 431 x 466 x 380mm; 最大尺寸 431 x 1040 x 453mm"
+    },
+    {
+        "names": "Pantum M6800FDW",
+        "rating": "6.0",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,098",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "415 x 365 x 310mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP6230dn",
+        "rating": "2.0",
+        "hon_price_min": "1,349",
+        "hon_price_max": "1,688",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2,400 x 600 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "379毫米 x 293毫米 x 243毫米"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M632h (J8J70A)",
+        "rating": "",
+        "hon_price_min": "22,430",
+        "hon_price_max": "22,590",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "1030 x 808 x 865mm"
+    },
+    {
+        "names": "Kyocera ECOSYS M5526cdw 鐳射打印機 (黑白彩色)",
+        "rating": "",
+        "hon_price_min": "2,288",
+        "hon_price_max": "5,980",
+        "黑白/彩色:": "黑白+彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600dpi, 400dpi, 300dpi, 200dpi, 200x400dpi, 200x100dpi",
+        "打印技術:": "Semiconductor Laser",
+        "尺寸:": "417 x 429 x 495mm"
+    },
+    {
+        "names": "Lexmark MS812dn",
+        "rating": "",
+        "hon_price_min": "17,388",
+        "hon_price_max": "17,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "419 x 425 x 510mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise CP4525dn",
+        "rating": "",
+        "hon_price_min": "14,281",
+        "hon_price_max": "14,281",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "40ppm",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "540 x 522 x 420mm"
+    },
+    {
+        "names": "Canon imageCLASS MF416dw",
+        "rating": "",
+        "hon_price_min": "4,588",
+        "hon_price_max": "4,980",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "打印、影印、掃描、傳真、電腦傳真、網絡(打印、掃描、電腦發送傳真)、掃描至電郵/SMB/USB記憶體",
+        "尺寸:": "390 x 473 x 431mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M725z",
+        "rating": "",
+        "hon_price_min": "39,799",
+        "hon_price_max": "42,588",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "掃描解像度:": "600 dpi"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint C3300DX",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200dpi",
+        "打印技術:": "LASER",
+        "尺寸:": "40.0 x 50.7 x 50.4 公分"
+    },
+    {
+        "names": "HP LaserJet Enterprise M806DN (CZ244A)",
+        "rating": "",
+        "hon_price_min": "31,278",
+        "hon_price_max": "33,150",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "1390 x 648 x 655 mm"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M26a (T0L49A)",
+        "rating": "3.0",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "19ppm",
+        "打印解像度:": "600 x 600 dpi"
+    },
+    {
+        "names": "HP LaserJet Enterprise 500 color Printer M551dn",
+        "rating": "",
+        "hon_price_min": "8,975",
+        "hon_price_max": "9,106",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "32ppm",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "514 x 491 x 385 mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise flow MFP M880z+ NFC/Wireless Direct (D7P71A)",
+        "rating": "",
+        "hon_price_min": "63,499",
+        "hon_price_max": "72,888",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "45ppm",
+        "打印技術:": "1200 x 1200"
+    },
+    {
+        "names": "HP LaserJet Enterprise 700 Printer M712dn (CF236A)",
+        "rating": "",
+        "hon_price_min": "16,888",
+        "hon_price_max": "19,585",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "22.4 x 23.4 x 15.4 in"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P235db",
+        "rating": "8.9",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "356 x 360 x 186mm"
+    },
+    {
+        "names": "Lexmark 黑白多功能自動雙面打印機 MX431adn",
+        "rating": "",
+        "hon_price_min": "2,998",
+        "hon_price_max": "3,388",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi",
+        "打印技術:": "單色激光",
+        "尺寸:": "339 x 411 x 366mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP843Cx",
+        "rating": "",
+        "hon_price_min": "22,449",
+        "hon_price_max": "31,888",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "9600 x 600dpi"
+    },
+    {
+        "names": "Lexmark MX811dfe",
+        "rating": "",
+        "hon_price_min": "42,088",
+        "hon_price_max": "42,088",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "1133 x 663 x 734mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M506x (F2A70A)",
+        "rating": "2.0",
+        "hon_price_min": "9,975",
+        "hon_price_max": "10,488",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "Laserjet",
+        "尺寸:": "418 x 639 x 481 mm"
+    },
+    {
+        "names": "Lexmark MX610de",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "12,800",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "561 x 489 x 479mm"
+    },
+    {
+        "names": "HP LaserJet Pro M102a  (G3Q34A)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,220",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "23ppm",
+        "打印解像度:": "600 x 600 dpi"
+    },
+    {
+        "names": "Lexmark CX922de",
+        "rating": "",
+        "hon_price_min": "55,488",
+        "hon_price_max": "55,488",
+        "黑白/彩色:": "彩色多功能",
+        "打印解像度:": "1200x1200 dpi",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M235dw",
+        "rating": "9.3",
+        "hon_price_min": "1,588",
+        "hon_price_max": "1,588",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "410 x 398.5 x 318.5mm"
+    },
+    {
+        "names": "HP LaserJet Pro M402d (C5F92A)",
+        "rating": "3.0",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "38ppm",
+        "尺寸:": "381 x 634 x 241mm"
+    },
+    {
+        "names": "Fujifilm ApeosPort-VII P5021 A4 黑白鐳射打印機",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "5,999",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "427.4 x 465.5 x 407.4mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M479fdw 智易印套裝",
+        "rating": "",
+        "hon_price_min": "10,536",
+        "hon_price_max": "12,912",
+        "黑白/彩色:": "彩色及黑白打印",
+        "彩色打印速度:": "27ppm",
+        "打印技術:": "自動雙面打印"
+    },
+    {
+        "names": "Samsung 三星 SL-C480W",
+        "rating": "4.0",
+        "hon_price_min": "1,674",
+        "hon_price_max": "1,899",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600 dpi",
+        "尺寸:": "406 x 362 x 288.6 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint CP225w (停產)",
+        "rating": "9.1",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,780",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 2400 dpi (Fuji Xerox Imaging Technology)",
+        "打印技術:": "PCL5e, PCL6, 兼容PostScript 3",
+        "尺寸:": "397 x 398 x 246mm"
+    },
+    {
+        "names": "HP LaserJet Pro M12w (T0L46A)",
+        "rating": "3.0",
+        "hon_price_min": "860",
+        "hon_price_max": "860",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "19ppm",
+        "打印解像度:": "600 x 600 dpi"
+    },
+    {
+        "names": "Fuji Xerox ApeosPort Print C5570 A3彩色鐳射打印機",
+        "rating": "",
+        "hon_price_min": "22,688",
+        "hon_price_max": "22,999",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "55ppm",
+        "打印解像度:": "1200 x 2400"
+    },
+    {
+        "names": "HP Color LaserJet Pro CP5225dn",
+        "rating": "",
+        "hon_price_min": "14,330",
+        "hon_price_max": "16,288",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600dpi",
+        "打印技術:": "LASER",
+        "尺寸:": "545 x 599 x 338mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M225z 雙面多功能雷射打印機",
+        "rating": "",
+        "hon_price_min": "1,371",
+        "hon_price_max": "1,498",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 2400dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "409 x 398.5 x316.5mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise 600 印表機 M603dn",
+        "rating": "",
+        "hon_price_min": "14,592",
+        "hon_price_max": "14,600",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "415 x 508 x 398 公釐"
+    },
+    {
+        "names": "Canon imageCLASS MF212w",
+        "rating": "9.0",
+        "hon_price_min": "1,338",
+        "hon_price_max": "1,338",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "Laser",
+        "尺寸:": "390 x 371 x 312毫米"
+    },
+    {
+        "names": "Lexmark MX912dxe",
+        "rating": "",
+        "hon_price_min": "148,888",
+        "hon_price_max": "148,888",
+        "黑白/彩色:": "黑白多功能",
+        "打印解像度:": "1200x1200 dpi",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Epson AcuLaser C2900DN",
+        "rating": "10",
+        "hon_price_min": "4,290",
+        "hon_price_max": "4,290",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "23ppm",
+        "打印解像度:": "600 x 600dpi",
+        "尺寸:": "403.5 x 469.4 x 416.1 毫米"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint 4405d A3黑白鐳射打印機",
+        "rating": "10",
+        "hon_price_min": "7,888",
+        "hon_price_max": "12,299",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "S-Led",
+        "尺寸:": "449.4 x 338 x 320mm"
+    },
+    {
+        "names": "Fuji Xerox Phaser 4600n",
+        "rating": "",
+        "hon_price_min": "8,900",
+        "hon_price_max": "8,900",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "52ppm",
+        "尺寸:": "476 x 541 x 420 毫米"
+    },
+    {
+        "names": "Canon imageCLASS LBP226dw 雙面鐳射打印機",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,988",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi (最高)",
+        "打印技術:": "LaserJet",
+        "尺寸:": "401 x 373 x 250mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro M283fdw 智易印套裝",
+        "rating": "",
+        "hon_price_min": "4,988",
+        "hon_price_max": "7,872",
+        "黑白/彩色:": "彩色及黑白打印",
+        "彩色打印速度:": "21ppm",
+        "打印技術:": "自動雙面打印, 支持網絡打印, Wifi 打印"
+    },
+    {
+        "names": "Samsung 三星 SL-M2675FN",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,600",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "4800 x 600dpi",
+        "尺寸:": "401 x 362 x 367mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M609dn (K0Q21A)",
+        "rating": "",
+        "hon_price_min": "14,850",
+        "hon_price_max": "15,185",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "431 x 1040 x 453mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M631dn (J8J63A)",
+        "rating": "",
+        "hon_price_min": "15,500",
+        "hon_price_max": "16,990",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "1030 x 808 x 865mm"
+    },
+    {
+        "names": "Samsung 三星 SL-M2875FD",
+        "rating": "",
+        "hon_price_min": "2,188",
+        "hon_price_max": "2,188",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "4800 x 600dpi",
+        "尺寸:": "401 x 362 x 367mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P265dw",
+        "rating": "8.0",
+        "hon_price_min": "859",
+        "hon_price_max": "868",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2400 x 600dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "356 x 360 x 186mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P235d",
+        "rating": "6.0",
+        "hon_price_min": "778",
+        "hon_price_max": "884",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "Laser"
+    },
+    {
+        "names": "Lexmark MS312dn",
+        "rating": "",
+        "hon_price_min": "2,888",
+        "hon_price_max": "2,888",
+        "黑白/彩色:": "Mono",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "800MHz Dual Core",
+        "尺寸:": "263 x 399 x 382mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P375d A4黑白鐳射打印機",
+        "rating": "8.6",
+        "hon_price_min": "1,387",
+        "hon_price_max": "2,149",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "PCL6, PS3 emulation, PDF version 1.7, XPS (XML Paper Specification) version 1.0",
+        "尺寸:": "373 x 388 x 255mm"
+    },
+    {
+        "names": "HP LaserJet Pro M521dw",
+        "rating": "",
+        "hon_price_min": "7,898",
+        "hon_price_max": "8,490",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "40ppm",
+        "打印解像度:": "1200 x 1200 dpi"
+    },
+    {
+        "names": "Samsung 三星 SL-M3870FD",
+        "rating": "",
+        "hon_price_min": "2,465",
+        "hon_price_max": "2,465",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "38ppm",
+        "打印解像度:": "1,200 x 1,200 dpi"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint 3105",
+        "rating": "10",
+        "hon_price_min": "3,663",
+        "hon_price_max": "5,880",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "32ppm",
+        "打印解像度:": "1200dpi"
+    },
+    {
+        "names": "HP LaserJet Ent Colour MFP M680z Printer  (CZ250A)",
+        "rating": "",
+        "hon_price_min": "44,750",
+        "hon_price_max": "47,999",
+        "黑白/彩色:": "黑白,彩色",
+        "打印解像度:": "Up to 600 x 600 dpi",
+        "掃描解像度:": "Up to 600 dpi",
+        "打印技術:": "Laser"
+    },
+    {
+        "names": "Pantum 多合一多功能印表機 M6600NW",
+        "rating": "",
+        "hon_price_min": "1,078",
+        "hon_price_max": "1,088",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200dpi",
+        "掃描解像度:": "1200dpi",
+        "尺寸:": "417 x 305 x 301mm"
+    },
+    {
+        "names": "Epson WorkForce A4 黑白鐳射打印機 AL-M320DN",
+        "rating": "10",
+        "hon_price_min": "3,988",
+        "hon_price_max": "4,000",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "375 x 393 x 285mm"
+    },
+    {
+        "names": "Fujifilm Apeos C2060 A3 彩色鐳射多功能影印機",
+        "rating": "",
+        "hon_price_min": "15,980",
+        "hon_price_max": "15,980",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 2400dpi",
+        "掃描解像度:": "600 x 600dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "590 x 659 x 771mm"
+    },
+    {
+        "names": "Fuji Xerox Phaser 6700DN",
+        "rating": "",
+        "hon_price_min": "15,800",
+        "hon_price_max": "15,800",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "47ppm",
+        "打印解像度:": "1200 x 2400dpi"
+    },
+    {
+        "names": "Samsung 三星 SCX-4600",
+        "rating": "8.0",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "打印技術:": "黑白鐳射",
+        "尺寸:": "416.0 x 409.0 x 275.8mm"
+    },
+    {
+        "names": "Epson AcuLaser CX16NF",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "3,850",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "5ppm",
+        "打印解像度:": "1200 x 600dpi",
+        "掃描解像度:": "600 x 600dpi"
+    },
+    {
+        "names": "HP Color LaserJet CM6030",
+        "rating": "",
+        "hon_price_min": "51,190",
+        "hon_price_max": "51,200",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "31ppm",
+        "掃描解像度:": "600dpi",
+        "尺寸:": "1339 x 1288 x 1105 毫米"
+    },
+    {
+        "names": "Lexmark MX810dme",
+        "rating": "",
+        "hon_price_min": "36,388",
+        "hon_price_max": "36,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "1133 x 663 x 734mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P225db.",
+        "rating": "9.0",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "黑白打印速度:": "26ppm",
+        "打印解像度:": "打印解像度達HQ1200技術(2400 x 600 dpi 質素)"
+    },
+    {
+        "names": "HP LaserJet Ent 500 Colour MFP M575F (CD645A)",
+        "rating": "",
+        "hon_price_min": "21,398",
+        "hon_price_max": "21,700",
+        "黑白/彩色:": "黑白,彩色",
+        "掃描解像度:": "高達 600 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "最大尺寸 (闊 x 深 x 高) 933 x 555 x 585 mm"
+    },
+    {
+        "names": "Fuji Xerox Phaser 5550DN",
+        "rating": "",
+        "hon_price_min": "21,480",
+        "hon_price_max": "21,480",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "52.5x 64.0 x 49.8 公分"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M377dw (M5H23A)",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,488",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Epson AcuLaser C2900DTN",
+        "rating": "",
+        "hon_price_min": "5,988",
+        "hon_price_max": "5,988",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "403.5 x 469.4 x 416.1mm"
+    },
+    {
+        "names": "Lexmark CX921de",
+        "rating": "",
+        "hon_price_min": "38,888",
+        "hon_price_max": "38,888",
+        "黑白/彩色:": "彩色多功能",
+        "打印解像度:": "1200x1200 dpi",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Pantum M6700D",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "415 x 365 x 310mm"
+    },
+    {
+        "names": "Fuji Xerox DocuCentre SC2020",
+        "rating": "9.0",
+        "hon_price_min": "10,678",
+        "hon_price_max": "10,678",
+        "黑白/彩色:": "A3 Color",
+        "打印解像度:": "1200 x 2400dpi",
+        "掃描解像度:": "600 x 600dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "W 595 x D 586 x H 634 mm"
+    },
+    {
+        "names": "Epson AcuLaser M2310D",
+        "rating": "",
+        "hon_price_min": "2,040",
+        "hon_price_max": "2,040",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "378 x 390 x 255mm"
+    },
+    {
+        "names": "Kyocera ECOSYS M2640idw 黑白多功能鐳射打印機 (掃描, 列印, 傳真)",
+        "rating": "10",
+        "hon_price_min": "1,490",
+        "hon_price_max": "4,250",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Semiconductor Laser",
+        "尺寸:": "475 x 412 x 437mm"
+    },
+    {
+        "names": "Epson AcuLaser M7000N",
+        "rating": "",
+        "hon_price_min": "6,988",
+        "hon_price_max": "6,988",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "518 mm x 414.5 mm x 333 mm"
+    },
+    {
+        "names": "Epson WorkForce AL-M300D",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,200",
+        "黑白/彩色:": "黑白",
+        "打印技術:": "半導體雷射掃描及電子顯影頁印式",
+        "尺寸:": "393 x 426 x 277mm"
+    },
+    {
+        "names": "OKI C9800GA",
+        "rating": "",
+        "hon_price_min": "46,600",
+        "hon_price_max": "46,600",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "19ppm",
+        "打印解像度:": "1200 x 1200dpi"
+    },
+    {
+        "names": "Epson AcuLaser CX16",
+        "rating": "",
+        "hon_price_min": "2,930",
+        "hon_price_max": "2,930",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "5ppm",
+        "打印解像度:": "1200 x 600dpi",
+        "掃描解像度:": "600 x 600dpi"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise M653dn (J8A04A)",
+        "rating": "",
+        "hon_price_min": "14,728",
+        "hon_price_max": "16,888",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射",
+        "尺寸:": "963 x 770 x 510mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M636fh 打印機 (7PT00A)",
+        "rating": "",
+        "hon_price_min": "37,730",
+        "hon_price_max": "37,730",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "鐳射",
+        "尺寸:": "最小尺寸 512 x 558 x 640mm; 最大尺寸 1030 x 808 x 865mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise 700 Printer M712n (CF235A)",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "15,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "22.4 x 23.4 x 15.4 in"
+    },
+    {
+        "names": "HP LaserJet Pro MFP M426fdn",
+        "rating": "",
+        "hon_price_min": "4,688",
+        "hon_price_max": "4,800",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "38ppm",
+        "打印解像度:": "1200 x 1200 dpi"
+    },
+    {
+        "names": "Epson Stylus Pro 4910",
+        "rating": "",
+        "hon_price_min": "16,830",
+        "hon_price_max": "16,830",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2880 x 1400dpi",
+        "尺寸:": "863 x 766 x 405mm"
+    },
+    {
+        "names": "HP LaserJet Pro 300 M351a",
+        "rating": "",
+        "hon_price_min": "4,320",
+        "hon_price_max": "4,320",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "18ppm",
+        "打印解像度:": "600 x 600dpi",
+        "尺寸:": "405 x 454 x 322 mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise 600 Printer M603n",
+        "rating": "",
+        "hon_price_min": "13,350",
+        "hon_price_max": "13,350",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "16.3 x 16.9 x 15.7 in"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M177fw (CZ165A)",
+        "rating": "4.2",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,698",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "高達 ImageREt 2400",
+        "掃描解像度:": "1200 dpi",
+        "打印技術:": "LASER"
+    },
+    {
+        "names": "Samsung 三星 ML-4510ND",
+        "rating": "",
+        "hon_price_min": "5,030",
+        "hon_price_max": "5,030",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "418.0 x 435.0 x 358.0 mm"
+    },
+    {
+        "names": "Fuji Xerox A3彩色鐳射打印機 Phaser 7800DN",
+        "rating": "",
+        "hon_price_min": "47,404",
+        "hon_price_max": "49,888",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "45ppm",
+        "打印解像度:": "1200 x 2400",
+        "打印技術:": "Laser 鐳射"
+    },
+    {
+        "names": "Brother MFC-L2740DW",
+        "rating": "6.5",
+        "hon_price_min": "1,648",
+        "hon_price_max": "1,648",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 2400dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "409 x 398.5 x 316.5mm"
+    },
+    {
+        "names": "Canon imageCLASS MF235",
+        "rating": "6.0",
+        "hon_price_min": "1,462",
+        "hon_price_max": "1,680",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "打印、影印、掃描、傳真、電腦發送傳真",
+        "尺寸:": "390 x 371 x 360mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M725dn",
+        "rating": "",
+        "hon_price_min": "27,760",
+        "hon_price_max": "29,088",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "掃描解像度:": "600 dpi"
+    },
+    {
+        "names": "Pantum 4合1多功能鐳射打印機 M7300FDW",
+        "rating": "2.0",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,988",
+        "water_price_min": "1,698",
+        "water_price_max": "1,938",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "35ppm",
+        "尺寸:": "415 x 360 x 352mm"
+    },
+    {
+        "names": "Lexmark MS812de",
+        "rating": "",
+        "hon_price_min": "19,288",
+        "hon_price_max": "19,288",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "419 x 425 x 510mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M477fdw Freedom to Print (CF379A-F2P)",
+        "rating": "",
+        "hon_price_min": "4,188",
+        "hon_price_max": "4,188",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "27ppm",
+        "掃描解像度:": "1200 x 1200 dpi"
+    },
+    {
+        "names": "Canon imageCLASS LBP654Cx",
+        "rating": "",
+        "hon_price_min": "4,388",
+        "hon_price_max": "4,388",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "9600 x 600dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "476 x 469 x 379mm"
+    },
+    {
+        "names": "Samsung 三星 ML-1630",
+        "rating": "6.0",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 600dpi",
+        "掃描解像度:": "-",
+        "打印技術:": "黑白"
+    },
+    {
+        "names": "Canon LBP9100Cdn",
+        "rating": "10",
+        "hon_price_min": "11,138",
+        "hon_price_max": "13,890",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "9600 x 600dpi",
+        "打印技術:": "LASER",
+        "尺寸:": "545毫米 x 591毫米 x 361毫米"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint P505d 高效A4黑白鐳射打印機",
+        "rating": "",
+        "hon_price_min": "10,480",
+        "hon_price_max": "10,508",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1,200 x 1,200",
+        "打印技術:": "Laser 鐳射"
+    },
+    {
+        "names": "Epson EPL-2180",
+        "rating": "",
+        "hon_price_min": "4,486",
+        "hon_price_max": "4,486",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600dpi",
+        "打印技術:": "Monochorme Laser",
+        "尺寸:": "428 x 480 x 404mm"
+    },
+    {
+        "names": "Brother MFC-9420CN",
+        "rating": "",
+        "hon_price_min": "6,760",
+        "hon_price_max": "6,760",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600dpi",
+        "掃描解像度:": "600 x 600dpi",
+        "打印技術:": "4色",
+        "尺寸:": "483.5 x 514 x 530mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise MFP M630f (B3G85A)",
+        "rating": "",
+        "hon_price_min": "26,460",
+        "hon_price_max": "27,298",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Epson AcuLaser C1100N",
+        "rating": "",
+        "hon_price_min": "3,070",
+        "hon_price_max": "3,070",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "5ppm",
+        "打印解像度:": "2400dpi",
+        "尺寸:": "445 x 445 x 439 mm"
+    },
+    {
+        "names": "HP LaserJet Pro 300 彩色 MFP M375nw",
+        "rating": "",
+        "hon_price_min": "5,930",
+        "hon_price_max": "5,930",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "18ppm",
+        "打印解像度:": "600 x 600dpi",
+        "尺寸:": "420 x 483 x 500 公釐"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint 340AD",
+        "rating": "",
+        "hon_price_min": "6,650",
+        "hon_price_max": "6,650",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "34ppm",
+        "打印解像度:": "1200 x 1200 dpi"
+    },
+    {
+        "names": "Epson AcuLaser C4200DN",
+        "rating": "10",
+        "hon_price_min": "11,890",
+        "hon_price_max": "11,890",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200dpi",
+        "打印技術:": "Color Laser",
+        "尺寸:": "437 x 588 x 457mm"
+    },
+    {
+        "names": "Canon imageCLASS MF635Cx 打印機",
+        "rating": "3.5",
+        "hon_price_min": "2,859",
+        "hon_price_max": "3,288",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "9600 x 600 dpi",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "彩色雷射",
+        "尺寸:": "451 x 460 x 400mm"
+    },
+    {
+        "names": "Canon imageCLASS LBP664Cx 雙面彩色鐳射打印機",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,488",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200dpi (MAX.)",
+        "打印技術:": "LaserJet",
+        "尺寸:": "476 x 469 x 379mm"
+    },
+    {
+        "names": "HP LaserJet Pro M12a (T0L45A)",
+        "rating": "3.0",
+        "hon_price_min": "770",
+        "hon_price_max": "770",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "19ppm",
+        "打印解像度:": "600 x 600 dpi"
+    },
+    {
+        "names": "Canon imageCLASS LBP841Cdn",
+        "rating": "",
+        "hon_price_min": "12,280",
+        "hon_price_max": "15,288",
+        "黑白/彩色:": "黑白/彩色",
+        "打印解像度:": "9600 x 600dpi"
+    },
+    {
+        "names": "Canon imageCLASS MF229dw",
+        "rating": "10",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,978",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "Laser",
+        "尺寸:": "390 x 378 x 360 毫米"
+    },
+    {
+        "names": "Ricoh SP 230SFNw Black & White Multifunction Printer",
+        "rating": "4.0",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,880",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "409 x 398.5 x 318.5mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint 5105d A3 黑白鐳射打印機",
+        "rating": "10",
+        "hon_price_min": "28,888",
+        "hon_price_max": "29,908",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1,200 x 1,200",
+        "打印技術:": "Laser 鐳射",
+        "尺寸:": "640 x 669 x 693mm"
+    },
+    {
+        "names": "Canon LBP3500",
+        "rating": "",
+        "hon_price_min": "5,288",
+        "hon_price_max": "5,288",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2400 x 600dpi",
+        "打印技術:": "黑白",
+        "尺寸:": "518 x 439 x 277mm"
+    },
+    {
+        "names": "Lexmark MX410de",
+        "rating": "",
+        "hon_price_min": "5,788",
+        "hon_price_max": "5,788",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "468 x 399 x 472mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise M607dn (K0Q15A)",
+        "rating": "",
+        "hon_price_min": "8,498",
+        "hon_price_max": "9,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "Laser",
+        "尺寸:": "17 x 40.9 x 17.8\""
+    },
+    {
+        "names": "Lexmark CX410dte",
+        "rating": "",
+        "hon_price_min": "9,788",
+        "hon_price_max": "9,788",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "30ppm",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "600.3 x 444 x 558mm"
+    },
+    {
+        "names": "HP LaserJet Pro M402dw (C5F95A)",
+        "rating": "2.7",
+        "hon_price_min": "3,298",
+        "hon_price_max": "3,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "HP FastRes 1200",
+        "尺寸:": "381 x 357 x 216 mm"
+    },
+    {
+        "names": "Canon imageCLASS MF628Cw",
+        "rating": "10",
+        "hon_price_min": "2,850",
+        "hon_price_max": "3,800",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "相當於9,600 x 600 dpi",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "LASER",
+        "尺寸:": "430 x 484 x 429毫米"
+    },
+    {
+        "names": "Brother DCP-7010",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "2400 x 600dpi",
+        "打印技術:": "單色",
+        "尺寸:": "432 x 395 x 253mm"
+    },
+    {
+        "names": "HP LaserJet Pro M501dn(J8H61A)",
+        "rating": "",
+        "hon_price_min": "4,620",
+        "hon_price_max": "5,388",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "（最佳）600 x 600 dpi，高達 4800 x 600 增強 dpi 解像度技術: HP FastRes 1200、HP ProRes 1200、600 dpi",
+        "尺寸:": "最小尺寸：418 x 376 x 289 mm; 最大尺寸：418 x 639 x 289 mm"
+    },
+    {
+        "names": "Fuji Xerox Phaser 3160N",
+        "rating": "4.0",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "38.9 x 36.0 x 23.0cm"
+    },
+    {
+        "names": "HP Colour LaserJet Enterprise M750xh (D3L10A)",
+        "rating": "",
+        "hon_price_min": "39,612",
+        "hon_price_max": "45,488",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "打印技術:": "Laserjet]",
+        "尺寸:": "840 x 975 x 465 mm"
+    },
+    {
+        "names": "Canon LASER SHOT LBP6680x",
+        "rating": "",
+        "hon_price_min": "3,705",
+        "hon_price_max": "3,705",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "2400 x 600 dpi",
+        "尺寸:": "400 x 376 x 289mm"
+    },
+    {
+        "names": "HP LaserJet CP1215",
+        "rating": "8.0",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "8ppm",
+        "打印解像度:": "600 x 600dpi",
+        "掃描解像度:": "600 x 600dpi"
+    },
+    {
+        "names": "Canon LASER SHOT LBP7200Cdn",
+        "rating": "7.0",
+        "hon_price_min": "5,470",
+        "hon_price_max": "6,088",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "9600 x 600dpi",
+        "打印技術:": "彩色",
+        "尺寸:": "409 x 490 x 331mm"
+    },
+    {
+        "names": "HP LaserJet Pro M402n (C5F93A)",
+        "rating": "",
+        "hon_price_min": "2,688",
+        "hon_price_max": "2,698",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "HP FastRes 1200",
+        "尺寸:": "381 x 357 x 216 mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint C5155 d 高效 A3 彩色鐳射打印機",
+        "rating": "",
+        "hon_price_min": "22,899",
+        "hon_price_max": "24,898",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 1200",
+        "打印技術:": "Led  Xerography",
+        "尺寸:": "640 x 699 x 600mm"
+    },
+    {
+        "names": "Brother HL-6180DW",
+        "rating": "",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,120",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "196 x 188 x 162 mm"
+    },
+    {
+        "names": "Samsung 三星 ML-3471ND",
+        "rating": "",
+        "hon_price_min": "2,160",
+        "hon_price_max": "2,160",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "尺寸:": "453 x 353 x 396mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M375df 多功能黑白A4影印機",
+        "rating": "",
+        "hon_price_min": "2,153",
+        "hon_price_max": "3,149",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "PCL6, PS3 emulation, PDF version 1.7, XPS (XML Paper Specification) version 1.0",
+        "尺寸:": "W 435 x D 427 x H 486 mm"
+    },
+    {
+        "names": "Lexmark MS510dn",
+        "rating": "",
+        "hon_price_min": "5,888",
+        "hon_price_max": "5,888",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "263 x 399 x 382mm"
+    },
+    {
+        "names": "Canon imageCLASS MF232w",
+        "rating": "4.7",
+        "hon_price_min": "1,035",
+        "hon_price_max": "1,150",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600 dpi (光學)",
+        "打印技術:": "自動分頁、2合1影印、4合1影印、證件影印",
+        "尺寸:": "390 x 371 x 312mm"
+    },
+    {
+        "names": "HP LaserJet Pro 100 Color M175a",
+        "rating": "",
+        "hon_price_min": "2,354",
+        "hon_price_max": "2,354",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "14ppm",
+        "尺寸:": "337 x 442 x 323毫米"
+    },
+    {
+        "names": "Lexmark X954de",
+        "rating": "",
+        "hon_price_min": "151,388",
+        "hon_price_max": "151,388",
+        "黑白/彩色:": "Colour",
+        "彩色打印速度:": "50ppm",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "762 x 640 x 685mm"
+    },
+    {
+        "names": "Samsung 三星 CLP-680ND",
+        "rating": "",
+        "hon_price_min": "4,768",
+        "hon_price_max": "4,768",
+        "黑白/彩色:": "黑白/彩色",
+        "彩色打印速度:": "24ppm",
+        "打印解像度:": "600 x 600 dpi"
+    },
+    {
+        "names": "HP LaserJet P1505",
+        "rating": "7.3",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,600",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "單色",
+        "尺寸:": "379 x 243 x 225 mm"
+    },
+    {
+        "names": "HP LaserJet Pro 400 color M452NW (CF388A)",
+        "rating": "",
+        "hon_price_min": "3,546",
+        "hon_price_max": "4,188",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi,",
+        "打印技術:": "Laserjet",
+        "尺寸:": "412 x 633 x 295 mm"
+    },
+    {
+        "names": "Fuji Xerox Xerox Phaser 3124",
+        "rating": "8.0",
+        "hon_price_min": "688",
+        "hon_price_max": "688",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 600dpi",
+        "尺寸:": "358 x 298 x 253mm"
+    },
+    {
+        "names": "Fuji Xerox DocuPrint M235z",
+        "rating": "8.8",
+        "hon_price_min": "1,898",
+        "hon_price_max": "1,898",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "410 x 398.5 x 318.5mm"
+    },
+    {
+        "names": "Brother HLL5000D",
+        "rating": "2.0",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,770",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200 dpi",
+        "打印技術:": "鐳射",
+        "尺寸:": "373 x 388 x 255 mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise CP4025dn Printer (CC490A)",
+        "rating": "",
+        "hon_price_min": "13,024",
+        "hon_price_max": "13,090",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "1200 x 1200",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "HP LaserJet P1006",
+        "rating": "7.1",
+        "hon_price_min": "978",
+        "hon_price_max": "978",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "600 x 600dpi",
+        "打印技術:": "單色",
+        "尺寸:": "347 x 224 x 194 mm"
+    },
+    {
+        "names": "Samsung 三星 SCX-4500",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 2400dpi",
+        "打印技術:": "黑白",
+        "尺寸:": "332 x 375 x 121.5mm"
+    },
+    {
+        "names": "Lexmark CX310dn",
+        "rating": "",
+        "hon_price_min": "5,888",
+        "hon_price_max": "5,888",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "23ppm",
+        "打印解像度:": "1200 x 1200",
+        "尺寸:": "470 x 444 x 558mm"
+    },
+    {
+        "names": "HP LaserJet Enterprise flow M525c (CF118A)",
+        "rating": "",
+        "hon_price_min": "19,700",
+        "hon_price_max": "20,880",
+        "黑白/彩色:": "黑白",
+        "黑白打印速度:": "40ppm",
+        "打印解像度:": "600dpi"
+    },
+    {
+        "names": "HP LaserJet Enterprise 700 color MFP M775z (CC524A)",
+        "rating": "",
+        "hon_price_min": "47,880",
+        "hon_price_max": "49,098",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600dpi",
+        "尺寸:": "29.3 x 26.3 x 47.2 in"
+    },
+    {
+        "names": "Brother MFC-L8850CDW",
+        "rating": "10",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,280",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400 x 600 dpi",
+        "掃描解像度:": "1200 x 2400 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "490 x 526 x 530mm毫米"
+    },
+    {
+        "names": "HP LaserJet M1005 MFP",
+        "rating": "",
+        "hon_price_min": "1,348",
+        "hon_price_max": "1,348",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "19200dpi",
+        "打印技術:": "單色",
+        "尺寸:": "437 x 363 x 308 mm"
+    },
+    {
+        "names": "HP Color LaserJet Enterprise MFP M681f",
+        "rating": "",
+        "hon_price_min": "41,500",
+        "hon_price_max": "42,488",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "高達 1200 x 1200 dpi",
+        "掃描解像度:": "高達 600 dpi",
+        "打印技術:": "鐳射"
+    },
+    {
+        "names": "Epson AcuLaser C3900N",
+        "rating": "",
+        "hon_price_min": "6,080",
+        "hon_price_max": "6,080",
+        "黑白/彩色:": "彩色",
+        "彩色打印速度:": "30ppm",
+        "打印解像度:": "600dpi",
+        "尺寸:": "419 x 520 x 345 mm"
+    },
+    {
+        "names": "Panasonic 樂聲 KX-MB2030HKW",
+        "rating": "",
+        "hon_price_min": "2,540",
+        "hon_price_max": "2,540",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 1200 dpi (光學)",
+        "尺寸:": "420毫米 x 432毫米 x 305毫米"
+    },
+    {
+        "names": "Samsung 三星 ML-3710DW",
+        "rating": "",
+        "hon_price_min": "3,485",
+        "hon_price_max": "3,485",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "尺寸:": "366.0 x 368.0 x 252.9mm"
+    },
+    {
+        "names": "HP Color LaserJet Pro MFP M477fnw (CF377A)",
+        "rating": "",
+        "hon_price_min": "5,240",
+        "hon_price_max": "5,380",
+        "黑白/彩色:": "彩色",
+        "掃描解像度:": "1200 x 1200 dpi",
+        "打印技術:": "Laserjet",
+        "尺寸:": "16.8 x 25.2 x 16.3 in"
+    },
+    {
+        "names": "Canon imageCLASS MF633Cdw",
+        "rating": "3.9",
+        "hon_price_min": "2,520",
+        "hon_price_max": "2,788",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "600 x 600 dpi",
+        "掃描解像度:": "600 x 600 dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "451 x 460 x 400mm"
+    },
+    {
+        "names": "Canon imageCLASS MF515x",
+        "rating": "",
+        "hon_price_min": "7,420",
+        "hon_price_max": "8,398",
+        "黑白/彩色:": "黑白",
+        "掃描解像度:": "600 x 600",
+        "打印技術:": "LaserJet",
+        "尺寸:": "453 x 477 x 503mm"
+    },
+    {
+        "names": "HP LaserJet Ent Colour MFP M680f Printer (CZ249A)",
+        "rating": "",
+        "hon_price_min": "36,138",
+        "hon_price_max": "38,700",
+        "黑白/彩色:": "黑白,彩色",
+        "打印解像度:": "Up to 600 x 600 dpi",
+        "掃描解像度:": "Up to 600 dpi",
+        "打印技術:": "Laser"
+    },
+    {
+        "names": "HP LaserJet P4515n",
+        "rating": "",
+        "hon_price_min": "11,960",
+        "hon_price_max": "11,960",
+        "黑白/彩色:": "黑白",
+        "打印解像度:": "1200 x 1200dpi",
+        "打印技術:": "黑白",
+        "尺寸:": "419 x 450 x 393mm"
+    },
+    {
+        "names": "Brother HL-L8350CDW",
+        "rating": "",
+        "hon_price_min": "3,950",
+        "hon_price_max": "4,088",
+        "黑白/彩色:": "彩色",
+        "打印解像度:": "2400dpi x 600dpi",
+        "打印技術:": "Laser",
+        "尺寸:": "410 mm x 486 mm x 313 mm"
+    }
+]

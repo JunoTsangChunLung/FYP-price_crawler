@@ -1,0 +1,671 @@
+[
+    {
+        "names": "Shokz OpenRun 骨傳導藍牙運動耳機 S803",
+        "rating": "10",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,249",
+        "無線/有線:": "無線",
+        "靈敏度:": "105±3dB/mW",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Shokz OpenRun Pro 旗艦級骨傳導藍牙運動耳機 (S810)",
+        "rating": "9.6",
+        "hon_price_min": "1,439",
+        "hon_price_max": "1,599",
+        "無線/有線:": "無線",
+        "靈敏度:": "105±3dB/mW",
+        "續航力:": "10小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Padmate 骨傳導耳機 S30",
+        "rating": "7.6",
+        "hon_price_min": "328",
+        "hon_price_max": "376",
+        "無線/有線:": "無線",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP56"
+    },
+    {
+        "names": "Nakamichi 開放式空氣傳導耳機 OP-SP801",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "無線/有線:": "無線",
+        "續航力:": "13小時",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Shokz OpenMove 骨傳導藍牙運動耳機 S661",
+        "rating": "9.3",
+        "hon_price_min": "629",
+        "hon_price_max": "699",
+        "無線/有線:": "無線",
+        "靈敏度:": "96±3dB/mW",
+        "續航力:": "最長6小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Sabbat Chillbuds EB-CON-23 耳骨傳導無線藍牙耳機 (耳夾式)",
+        "rating": "2.0",
+        "hon_price_min": "580",
+        "hon_price_max": "799",
+        "無線/有線:": "無線",
+        "續航力:": "6小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "AfterShokz OpenComm 骨傳導耳機 ASC100",
+        "rating": "6.7",
+        "hon_price_min": "1,158",
+        "hon_price_max": "1,399",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "靈敏度:": "96dB/mW",
+        "續航力:": "16小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "XPower 開放式藍牙5.2防汗運動耳機 BTE12",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "無線/有線:": "無線",
+        "續航力:": "8-10小時",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Shokz OpenComm 專業通訊骨傳導耳機 (C102)",
+        "rating": "6.0",
+        "hon_price_min": "1,248",
+        "hon_price_max": "1,399",
+        "無線/有線:": "無線",
+        "靈敏度:": "96±3dB/mW",
+        "續航力:": "16小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Shokz OpenRun Pro Mini 全新旗艦級骨傳導藍牙運動耳機 (S811)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,599",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "靈敏度:": "105±3dB/mW",
+        "續航力:": "10小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Shokz OpenSwim MP3 骨傳導防水耳機 (S700)",
+        "rating": "10",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,199",
+        "無線/有線:": "無線",
+        "靈敏度:": "96±3dB/mW",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP68"
+    },
+    {
+        "names": "AfterShokz Aeropex 骨傳導耳機 (AS800)",
+        "rating": "8.3",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,399",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "SOUL Openear 2 無線空氣傳導耳機",
+        "rating": "6.0",
+        "hon_price_min": "218",
+        "hon_price_max": "238",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "SBC,AAC",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Shokz Open Run Mini 迷你骨傳導藍牙耳機 S804",
+        "rating": "10",
+        "hon_price_min": "1,138",
+        "hon_price_max": "1,249",
+        "無線/有線:": "無線",
+        "靈敏度:": "105±3dB/mW",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Xpower Pro B2 骨傳導立體聲藍牙無線運動耳機",
+        "rating": "5.8",
+        "hon_price_min": "274",
+        "hon_price_max": "398",
+        "無線/有線:": "無線",
+        "續航力:": "10小時",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "Shokz OpenComm UC 骨傳導通訊耳機 C102 with USB藍牙連接器",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,599",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "SBC",
+        "播放頻率:": "20Hz-20kHz",
+        "靈敏度:": "96±3dB/mW"
+    },
+    {
+        "names": "AfterShokz OpenMove 骨傳導運動耳機 AS660",
+        "rating": "6.7",
+        "hon_price_min": "650",
+        "hon_price_max": "799",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "6小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Shokz OpenRun 環法聯名款運動耳機 S803",
+        "rating": "",
+        "hon_price_min": "1,228",
+        "hon_price_max": "1,249",
+        "無線/有線:": "無線",
+        "播放頻率:": "0",
+        "靈敏度:": "105±3dB/mW",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Sudio 骨傳導耳機 B1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "無線/有線:": "無線",
+        "播放頻率:": "20",
+        "阻抗:": "8Ω",
+        "續航力:": "6小時",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Lenovo 骨傳導藍牙耳機 X4",
+        "rating": "3.3",
+        "hon_price_min": "248",
+        "hon_price_max": "348",
+        "water_price_min": "248",
+        "water_price_max": "268",
+        "無線/有線:": "無線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "18Ω",
+        "續航力:": "7小時",
+        "防塵/防水等級:": "IP56"
+    },
+    {
+        "names": "BoCo earsopen PEACE 骨傳導真無線耳機 TW-1",
+        "rating": "7.6",
+        "hon_price_min": "980",
+        "hon_price_max": "1,280",
+        "無線/有線:": "無線",
+        "播放頻率:": "4Hz-40kHz",
+        "續航力:": "5小時",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Aftershokz Xtrainerz Open-ear MP3 Swimming Headphones AS700",
+        "rating": "8.7",
+        "hon_price_min": "990",
+        "hon_price_max": "1,199",
+        "無線/有線:": "無線",
+        "靈敏度:": "96dB/mW",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP68"
+    },
+    {
+        "names": "Monster Open Ear Lite 空氣傳導藍牙運動耳機",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Monster Aria Free 空氣傳導耳機",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "388",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "SBC",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Borofone Wireless earphones 魅動空氣傳導藍牙耳機 BE57 Charm air conduction",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "299",
+        "無線/有線:": "無線",
+        "驅動單元:": "10mm 動圈",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Monster Open Ear HP 骨傳導耳機",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "無線/有線:": "無線",
+        "續航力:": "7小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "AfterShokz Aeropex 骨傳導耳機 - AS800 (環法聯名限量套裝)",
+        "rating": "",
+        "hon_price_min": "1,239",
+        "hon_price_max": "1,399",
+        "無線/有線:": "無線",
+        "靈敏度:": "105dB/mW",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "Promate AudioConducts Endurance Wireless Headphone 骨傳導藍牙耳機",
+        "rating": "10",
+        "hon_price_min": "269",
+        "hon_price_max": "299",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "AfterShokz Trekz Titanium Mini AS600",
+        "rating": "5.0",
+        "hon_price_min": "669",
+        "hon_price_max": "799",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Sanag 無線藍芽5.1骨傳導耳機 A9S",
+        "rating": "2.0",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "無線/有線:": "無線",
+        "阻抗:": "160Ω",
+        "防塵/防水等級:": "IPX8"
+    },
+    {
+        "names": "AfterShokz Trekz Air AS650",
+        "rating": "8.0",
+        "hon_price_min": "1,169",
+        "hon_price_max": "1,169",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "myFirst Headphones BC Wireless Lite 兒童無線骨傳導耳機",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "無線/有線:": "無線",
+        "續航力:": "5小時",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "Kaibo Audio Flex 骨傳導耳機",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "無線/有線:": "無線",
+        "播放頻率:": "100Hz-20KHz",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Sanag 無線藍牙5.0骨傳導耳機 A5S Pro",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20KHz",
+        "防塵/防水等級:": "IPX7"
+    },
+    {
+        "names": "Lenovo Bone Conduction Headphone 耳掛式骨傳導運動藍牙耳機 X3",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "330",
+        "water_price_min": "160",
+        "water_price_max": "299",
+        "無線/有線:": "無線",
+        "靈敏度:": "-42±3dB/mW",
+        "阻抗:": "10Ω",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "myFirst Headphones BC Wireless 骨傳導無線耳機 FH8503SA",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "無線/有線:": "無線",
+        "續航力:": "約5小時",
+        "防塵/防水等級:": "IPX6"
+    },
+    {
+        "names": "Jellico 骨傳藍牙耳機 ST15",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "Lenovo 真骨傳導藍牙耳機 X3 Pro",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "480",
+        "無線/有線:": "無線",
+        "續航力:": "7小時",
+        "防塵/防水等級:": "IP56"
+    },
+    {
+        "names": "AfterShokz Trekz Titanium",
+        "rating": "8.3",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "無線/有線:": "無線",
+        "播放頻率:": "20-20kHz",
+        "靈敏度:": "100dB/mW"
+    },
+    {
+        "names": "Xiaomi 小米 骨傳導耳機",
+        "rating": "",
+        "water_price_min": "889",
+        "water_price_max": "889",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "SBC,aptX,aptX Adaptive",
+        "續航力:": "12小時",
+        "防塵/防水等級:": "IP66"
+    },
+    {
+        "names": "Hyundai 現代 藍牙 5.0 內置8GB音樂播放器骨傳導耳機 B1",
+        "rating": "2.0",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "無線/有線:": "無線",
+        "播放頻率:": "80-5000Hz",
+        "靈敏度:": "90dB/mW",
+        "阻抗:": "8Ω",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Remax Bone Conduction BT 5.0 骨傳導運動藍牙耳機 RB-S33",
+        "rating": "2.0",
+        "hon_price_min": "278",
+        "hon_price_max": "369",
+        "water_price_min": "178",
+        "water_price_max": "178",
+        "無線/有線:": "無線",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "6小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Sansui 山水 骨傳導 Bone conduction BT5.0 藍牙耳機 (i1)",
+        "rating": "4.0",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "ULL 骨傳導藍牙耳機 ME-200",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "防塵/防水等級:": "IP66"
+    },
+    {
+        "names": "Awei 開放式氣傳導藍牙耳機 A889",
+        "rating": "4.0",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "5-6小時"
+    },
+    {
+        "names": "ALOK 真無線藍牙耳機骨傳導耳機 TWS-08",
+        "rating": "",
+        "無線/有線:": "無線",
+        "播放頻率:": "40Hz-20kHz",
+        "靈敏度:": "106dB/mW",
+        "續航力:": "3-4小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Padmate 骨傳導藍牙耳機 S26",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "7mm",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IP67"
+    },
+    {
+        "names": "iQIYI 愛奇藝 藍牙 5.0 骨傳導耳機 IQD71",
+        "rating": "",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Sanag Bone Conduction BT 5.0 骨傳導運動藍牙耳機 Loca Z2",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "無線/有線:": "無線",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Borofone 骨傳導運動藍牙耳機 BE12",
+        "rating": "4.0",
+        "hon_price_min": "478",
+        "hon_price_max": "478",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "ZEROi 藍牙骨傳導帽耳機",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Malata 骨傳導Bone Conduction BT5.0耳機 A89",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "6小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "KSCAT 藍牙骨傳導智能單車頭盔 T01",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "播放頻率:": "20Hz-20KHz"
+    },
+    {
+        "names": "WIWU GL100",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Good Fit Windshear Bone Conduction",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "studio BANANA THiNGS Batband Wireless Bone Conduction Headphone with Microphone",
+        "rating": "10",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.1",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Philips 飛利浦 藍牙立體聲骨傳導耳筒 SHB6000",
+        "rating": "",
+        "無線/有線:": "無線",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "Vidonn 骨傳導耳機 F1",
+        "rating": "4.0",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "6小時",
+        "防塵/防水等級:": "IP55"
+    },
+    {
+        "names": "Ovevo 骨傳導防水藍牙耳機 Q12",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Gleeman Bone Conduction Sunglasses Music Glasses",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Good Fit 骨傳導II",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Fulite 骨傳導耳機 V9",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "WK Design 藍牙無線耳機 BS350",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "播放頻率:": "2.402-2.480ghz",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Acamau 耳掛式藍牙耳機 (S9)",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Joyroom JR-P2S",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.2",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Motorola 骨傳導運動藍牙耳機 SF600",
+        "rating": "",
+        "無線/有線:": "無線",
+        "藍牙版本:": "Bluetooth v3.0"
+    },
+    {
+        "names": "B'CREO B10",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "KSCAT 骨傳導藍牙智能耳機 Nice 5",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "ePower 藍牙 5.0 骨傳導耳機 G18",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "靈敏度:": "90dB/mW"
+    },
+    {
+        "names": "Philips 飛利浦 藍牙立體聲骨傳導耳筒 SHB6017",
+        "rating": "9.0",
+        "無線/有線:": "無線",
+        "藍牙版本:": "Bluetooth v2.1"
+    },
+    {
+        "names": "AfterShokz Bluez - AS330",
+        "rating": "8.8",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Joyroom Bluetooth Hand Free Earphone JR-P5",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "4-6小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Borofone BE16",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "AfterShokz Bluez 2 Red (新年香港限定版)",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "Earshield ES-268",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "AfterShokz Bluez 2",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    },
+    {
+        "names": "OKseem Bone Conduction Bluetooth Headset KG33",
+        "rating": "",
+        "無線/有線:": "無線",
+        "驅動單元:": "骨傳導"
+    }
+]

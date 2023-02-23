@@ -1,0 +1,4208 @@
+[
+    {
+        "names": "TP-Link Tapo C500 室外旋轉式家庭防護 / Wi-Fi 網絡攝影機",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "360°水平和130°垂直",
+        "連接介面:": "WiFi",
+        "尺寸:": "123.8 x 123 x 90mm"
+    },
+    {
+        "names": "TP-Link Tapo C225 旋轉式AI 家庭防護 / Wi-Fi 網路攝影機",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "水平 360° / 垂直 149°",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Xiaomi 小米 智能攝影機 C300",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "399",
+        "water_price_min": "283",
+        "water_price_max": "300",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "115 x 78 x 78mm",
+        "重量:": "327g"
+    },
+    {
+        "names": "Eufy Indoor Cam 2K Pan and Tilt",
+        "rating": "9.2",
+        "hon_price_min": "529",
+        "hon_price_max": "598",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "75 x 75 x 108mm",
+        "重量:": "217g"
+    },
+    {
+        "names": "Insta360 Link AI 智能 4K 網絡攝影機",
+        "rating": "10",
+        "hon_price_min": "2,278",
+        "hon_price_max": "2,398",
+        "water_price_min": "1,880",
+        "water_price_max": "2,398",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "USB-C 線纜 (USB 2.0) x 1 , Type-C to Type-A 轉接頭 x 1",
+        "尺寸:": "69 x 41 x 45mm",
+        "重量:": "106g"
+    },
+    {
+        "names": "Logitech StreamCam 全高清攝影機 960-0012",
+        "rating": "10",
+        "hon_price_min": "707",
+        "hon_price_max": "1,249",
+        "water_price_min": "500",
+        "water_price_max": "1,160",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB-C",
+        "尺寸:": "66 x 58 x 48mm",
+        "重量:": "150g"
+    },
+    {
+        "names": "Usatisfy 隨放無線長續航高清微型攝錄機 T9W2",
+        "rating": "4.0",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "40 x 40 x 51mm",
+        "重量:": "87g"
+    },
+    {
+        "names": "D-Link Full HD旋轉無線網路攝影機 DCS-8526LH",
+        "rating": "7.7",
+        "hon_price_min": "573",
+        "hon_price_max": "988",
+        "IP Cam/Webcam:": "wifi-cam",
+        "鏡頭移動角度:": "360°",
+        "連接介面:": "LAN, BLUETOOTH"
+    },
+    {
+        "names": "Reolink E1 Pro V2 - 4MP 1440p PT Smart Home Camera",
+        "rating": "",
+        "hon_price_min": "436",
+        "hon_price_max": "438",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "Wi-Fi, LAN",
+        "尺寸:": "84 x 118mm",
+        "重量:": "235g"
+    },
+    {
+        "names": "TP-Link Tapo C310 室外安全 Wi-Fi 攝影機",
+        "rating": "10",
+        "hon_price_min": "379",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "142.3 x 103.4 x 64.3mm"
+    },
+    {
+        "names": "TP-Link Tapo Smart Wire-Free Security Camera System (2-Camera System) C420S2",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 1440",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "TP-Link Tapo C210 2K 1296p Pan/Tilt Home Security Wi-Fi Camera 旋轉式智能網絡攝影機",
+        "rating": "8.7",
+        "hon_price_min": "299",
+        "hon_price_max": "390",
+        "water_price_min": "249",
+        "water_price_max": "299",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "360° Horizontal, 114° Vertical",
+        "連接介面:": "WiFi",
+        "尺寸:": "86.6 x 85 x 117.7mm"
+    },
+    {
+        "names": "Arlo Essential Indoor 室內無線網絡攝影機 VMC2040",
+        "rating": "7.3",
+        "hon_price_min": "698",
+        "hon_price_max": "999",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130° diagonal",
+        "連接介面:": "WiFi",
+        "尺寸:": "52 x 49 x 113.19mm",
+        "重量:": "122g"
+    },
+    {
+        "names": "Logitech C930e",
+        "rating": "9.6",
+        "hon_price_min": "660",
+        "hon_price_max": "1,100",
+        "water_price_min": "629",
+        "water_price_max": "999",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1080p",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "Fami 充電式無線監控微型攝錄機 A11",
+        "rating": "10",
+        "hon_price_min": "265",
+        "hon_price_max": "368",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080",
+        "尺寸:": "39 x 35 x 37mm"
+    },
+    {
+        "names": "Rapoo 雷柏 1080p 高清廣角視像鏡頭 Webcam (免驅動) C260",
+        "rating": "7.4",
+        "hon_price_min": "188",
+        "hon_price_max": "298",
+        "water_price_min": "155",
+        "water_price_max": "218",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1080p",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "TP-Link Tapo C200 旋轉式家庭安全防護Wi-Fi 攝影機",
+        "rating": "9.2",
+        "hon_price_min": "279",
+        "hon_price_max": "339",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "86.6 x 85 x 117.7mm"
+    },
+    {
+        "names": "TP-Link 2K 1296p 智能廣角網絡攝影機 Tapo C110",
+        "rating": "9.5",
+        "hon_price_min": "259",
+        "hon_price_max": "299",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wi-Fi",
+        "尺寸:": "67.6 x 54.8 x 98.9mm"
+    },
+    {
+        "names": "Eufy 2K Outdoor Cam C24 網路攝影機 (T8441221)",
+        "rating": "10",
+        "hon_price_min": "790",
+        "hon_price_max": "899",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2K"
+    },
+    {
+        "names": "D-Link 2K QHD 無線網路攝影機 DCS-8350LH",
+        "rating": "6.0",
+        "hon_price_min": "618",
+        "hon_price_max": "799",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "66.7 x 65.7 x 111.4mm"
+    },
+    {
+        "names": "Imou Cell 2 網路攝影機",
+        "rating": "",
+        "hon_price_min": "797",
+        "hon_price_max": "1,077",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "109 x 61 x 57mm",
+        "重量:": "313.7g"
+    },
+    {
+        "names": "Ezviz 螢石 eLife BC1C Battery-Powered Camera CS-BC1C",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "878",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "104.76 × 62.80 × 62.80mm",
+        "重量:": "365g"
+    },
+    {
+        "names": "D-Link Full HD旋轉無線網路攝影機 DCS-8526LH",
+        "rating": "7.7",
+        "hon_price_min": "573",
+        "hon_price_max": "988",
+        "IP Cam/Webcam:": "wifi-cam",
+        "鏡頭移動角度:": "360°",
+        "連接介面:": "LAN, BLUETOOTH"
+    },
+    {
+        "names": "Arlo Essential Spotlight Camera 1080p 全高清 WiFi 網絡攝影機 (VMC2030)",
+        "rating": "10",
+        "hon_price_min": "888",
+        "hon_price_max": "1,240",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "331g"
+    },
+    {
+        "names": "Imou Rex 4MP H.265 4百萬像高級智能攝影機 (A46LP)",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "668",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wifi, Lan",
+        "尺寸:": "90 x 90 107.4mm",
+        "重量:": "275g"
+    },
+    {
+        "names": "Logitech Brio Ultra HD Pro Webcam 4K 商務網路攝影機 960-001105",
+        "rating": "8.9",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,799",
+        "water_price_min": "994",
+        "water_price_max": "1,750",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 3.0 連接線 (相容於 USB 2.0 或 Type-C)",
+        "尺寸:": "27 x 102 x 27mm",
+        "重量:": "63g"
+    },
+    {
+        "names": "Eufy SoloCam S40 2K 無線戶外網絡攝影機 T8124",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "85 x 114 x 50mm",
+        "重量:": "499g"
+    },
+    {
+        "names": "Logitech BRIO 500 Webcam 網路攝影機",
+        "rating": "10",
+        "hon_price_min": "818",
+        "hon_price_max": "999",
+        "water_price_min": "770",
+        "water_price_max": "899",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB-C",
+        "尺寸:": "(僅網路攝影機) 31.5 x 110 x 31.5mm",
+        "重量:": "40g"
+    },
+    {
+        "names": "Logitech HD Webcam C270",
+        "rating": "9.2",
+        "hon_price_min": "148",
+        "hon_price_max": "299",
+        "water_price_min": "128",
+        "water_price_max": "488",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 2.0",
+        "尺寸:": "72.91 x 31.91 x 66.64mm",
+        "重量:": "75g"
+    },
+    {
+        "names": "MOMAX Smart Eye IoT 全景智能網絡監視器 SL1S",
+        "rating": "8.5",
+        "hon_price_min": "338",
+        "hon_price_max": "498",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "上下 0-60° / 左右 0-355°",
+        "尺寸:": "76 x 73 x 117mm",
+        "重量:": "200g"
+    },
+    {
+        "names": "Fami 充電式無線監控微型攝錄機 A11",
+        "rating": "10",
+        "hon_price_min": "265",
+        "hon_price_max": "368",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080",
+        "尺寸:": "39 x 35 x 37mm"
+    },
+    {
+        "names": "eMeet 全高清攝像鏡頭 C970",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080"
+    },
+    {
+        "names": "Eufy eufyCam 2 Pro 2K高清家居安全無線攝影套裝",
+        "rating": "",
+        "hon_price_min": "2,780",
+        "hon_price_max": "2,999",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2K"
+    },
+    {
+        "names": "Reolink 5MP 1920p PTZ Smart Home Camera w/3X Optical Zoom E1-ZOOM-V2",
+        "rating": "10",
+        "hon_price_min": "653",
+        "hon_price_max": "699",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "Pan 355° / Tilt 50°",
+        "連接介面:": "WiFi",
+        "重量:": "275g"
+    },
+    {
+        "names": "Ezviz 螢石 3MP Wi-Fi Smart Home Camera 戶外 IP Camera H3 2K",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "610",
+        "water_price_min": "610",
+        "water_price_max": "610",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "75.5 x 75.5 x 155mm",
+        "重量:": "438g"
+    },
+    {
+        "names": "Xiaomi 小米 室外攝影機 標準版 AW200",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "249",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Rapoo 雷柏 2K高清網路攝影機 C280",
+        "rating": "8.6",
+        "hon_price_min": "260",
+        "hon_price_max": "328",
+        "water_price_min": "190",
+        "water_price_max": "250",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "92 x 62.5 x 54.1mm",
+        "重量:": "118g"
+    },
+    {
+        "names": "TP-Link Tapo C100 Home Security Wi-Fi Camera",
+        "rating": "10",
+        "hon_price_min": "229",
+        "hon_price_max": "250",
+        "無線/有線:": "無線",
+        "連接介面:": "WiFi",
+        "尺寸:": "67.6 x 54.8 x 98.9mm"
+    },
+    {
+        "names": "Ezviz 螢石 免基座戶外無線電池網絡2K攝錄機 EB3-3MP",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "930",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "105.9 x 62.8 x 62.8mm",
+        "重量:": "522g"
+    },
+    {
+        "names": "Logitech Brio 300 Full HD 網絡攝影機",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "549",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB-C",
+        "尺寸:": "65.63 x 53.1 x 45mm",
+        "重量:": "74.6g"
+    },
+    {
+        "names": "Hikvision 海康威視 2 MP ColorVu Audio Fixed Turret Camera DS-2CE70DF3T-MFS",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 0° to 360°, Tilt: 0° to 75°, Rotation: 0° to 360°",
+        "尺寸:": "85.1 x 77.62mm",
+        "重量:": "312g"
+    },
+    {
+        "names": "Arlo Pro 4 2K HDR 無線網絡攝影機 (兩鏡裝) VMC4250P",
+        "rating": "",
+        "hon_price_min": "3,586",
+        "hon_price_max": "3,999",
+        "IP Cam/Webcam:": "IP Cam",
+        "變焦:": "12x",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm"
+    },
+    {
+        "names": "Arlo Essential 1080P 無線網絡攝影機 (2鏡裝) (VMC2230)",
+        "rating": "",
+        "hon_price_min": "1,578",
+        "hon_price_max": "1,888",
+        "IP Cam/Webcam:": "無線網絡攝影機",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Imou Rex 4MP H.265 4百萬像高級智能攝影機 (A46LP)",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "668",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wifi, Lan",
+        "尺寸:": "90 x 90 107.4mm",
+        "重量:": "275g"
+    },
+    {
+        "names": "Eufy Indoor Cam 2K (T8400)",
+        "rating": "10",
+        "hon_price_min": "438",
+        "hon_price_max": "529",
+        "無線/有線:": "有線",
+        "尺寸:": "104 x 55 x 55 mm",
+        "重量:": "98g"
+    },
+    {
+        "names": "Arlo Pro 4 Spotlight Camera 無線網絡攝影機 VMC4050P",
+        "rating": "",
+        "hon_price_min": "1,878",
+        "hon_price_max": "2,199",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "316g"
+    },
+    {
+        "names": "Logitech Meetup 全功能會議攝影機",
+        "rating": "10",
+        "hon_price_min": "6,580",
+        "hon_price_max": "8,290",
+        "water_price_min": "5,700",
+        "water_price_max": "5,880",
+        "尺寸:": "1040 x 4000 x 850mm",
+        "重量:": "1040g"
+    },
+    {
+        "names": "Eufy S330 eufyCam (eufyCam 3) 4K 無線戶外網絡攝影機 (T8871)",
+        "rating": "",
+        "hon_price_min": "4,199",
+        "hon_price_max": "4,299",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "Camera: 65 x 129 x 65mm / HomeBase: 78 x 109 x 144mm",
+        "重量:": "420g"
+    },
+    {
+        "names": "Fami 充電式無線監控微型攝錄機 A11",
+        "rating": "10",
+        "hon_price_min": "265",
+        "hon_price_max": "368",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080",
+        "尺寸:": "39 x 35 x 37mm"
+    },
+    {
+        "names": "Logitech 廣角變焦攝像頭 C930c",
+        "rating": "10",
+        "hon_price_min": "419",
+        "hon_price_max": "780",
+        "water_price_min": "300",
+        "water_price_max": "999",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "90°",
+        "連接介面:": "USB",
+        "尺寸:": "29 x 94 x 24mm",
+        "重量:": "162g"
+    },
+    {
+        "names": "Logitech Rally Bar 全功能視訊會議系統",
+        "rating": "",
+        "hon_price_min": "34,480",
+        "hon_price_max": "39,600",
+        "water_price_min": "32,500",
+        "water_price_max": "33,500",
+        "無線/有線:": "有線",
+        "尺寸:": "164 x 910 x 130.5mm",
+        "重量:": "7080g"
+    },
+    {
+        "names": "FOSCAM 8-Channel 5MP PoE NVR Kits 網路攝影機儲存系統套裝 FN8108HE x 1 + V5EP x 4",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,720",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "重量:": "3000g"
+    },
+    {
+        "names": "Arlo Essential 1080P 無線網絡攝影機 (2鏡裝) (VMC2230)",
+        "rating": "",
+        "hon_price_min": "1,578",
+        "hon_price_max": "1,888",
+        "IP Cam/Webcam:": "無線網絡攝影機",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "360 Smart Camera AC1C 智能攝像機 PRO",
+        "rating": "8.0",
+        "hon_price_min": "300",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "WiFi",
+        "尺寸:": "110.3 x 69 x 69mm",
+        "重量:": "220g"
+    },
+    {
+        "names": "Netgear Arlo Pro 2 無線網絡全高清鏡頭 (VMC4030P)",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "1,580",
+        "IP Cam/Webcam:": "IP Camera",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "SPEED Outdoor 2K 防水 IP65 智能全高清室外攝影機 SP-ODC2K",
+        "rating": "10",
+        "hon_price_min": "660",
+        "hon_price_max": "688",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "100 x 50mm",
+        "重量:": "500g"
+    },
+    {
+        "names": "Bose Videobar VB1 All-in-one USB Conferencing Device",
+        "rating": "",
+        "hon_price_min": "11,499",
+        "hon_price_max": "11,499",
+        "無線/有線:": "有線",
+        "解像度:": "2160p"
+    },
+    {
+        "names": "Enabot Ebo Air 智慧居家攝影機",
+        "rating": "4.0",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,780",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Ezviz 螢石 戶外360°雲台版網絡攝錄機 C8W Pro 2K",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "799",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "上下80°及左右340°移動",
+        "連接介面:": "Wifi, RJ45 LAN",
+        "尺寸:": "112 x 156 x 171mm"
+    },
+    {
+        "names": "Reolink Go PT Plus 100%真‧無線H.265 2K 4G LTE戶外防水P/T電池IP Camera連太陽能板",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,998",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "4G",
+        "尺寸:": "98 x 112mm",
+        "重量:": "485g"
+    },
+    {
+        "names": "Xiaomi 小米 室外攝像機 (附室內接收器) 套裝",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "570",
+        "water_price_min": "499",
+        "water_price_max": "569",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wi-Fi",
+        "尺寸:": "52.7 x 122 x 102.6 mm",
+        "重量:": "273g"
+    },
+    {
+        "names": "Logitech Meetup 全功能會議攝影機",
+        "rating": "10",
+        "hon_price_min": "6,580",
+        "hon_price_max": "8,290",
+        "water_price_min": "5,700",
+        "water_price_max": "5,880",
+        "尺寸:": "1040 x 4000 x 850mm",
+        "重量:": "1040g"
+    },
+    {
+        "names": "Reolink Argus 2E",
+        "rating": "8.7",
+        "hon_price_min": "570",
+        "hon_price_max": "880",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "120°",
+        "連接介面:": "WIFI"
+    },
+    {
+        "names": "Google Nest Cam (Outdoor or Indoor, Battery)",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,199",
+        "water_price_min": "1,250",
+        "water_price_max": "2,980",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, Bluetooth",
+        "尺寸:": "83 x 83mm",
+        "重量:": "398g"
+    },
+    {
+        "names": "One Home 智能雲台攝影機 2K",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "788",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2304 x 1296",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Arlo Essential Indoor 室內無線網絡攝影機 VMC2040",
+        "rating": "7.3",
+        "hon_price_min": "698",
+        "hon_price_max": "999",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130° diagonal",
+        "連接介面:": "WiFi",
+        "尺寸:": "52 x 49 x 113.19mm",
+        "重量:": "122g"
+    },
+    {
+        "names": "Eufy SoloCam L20 網路攝影機 (T8122121)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "XPower 3合1 1080P USB網路鏡頭 CA3",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "188",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "60 x 90 x 65mm",
+        "重量:": "96g"
+    },
+    {
+        "names": "Xiaomi 小米 智能攝影機 2K 標準版 (MJSXJ03HL)",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "219",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "60 x 48 x 67.5mm"
+    },
+    {
+        "names": "360 智能攝像機小水滴AI版 D903",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "Wifi"
+    },
+    {
+        "names": "Rapoo 雷柏 720p 高清廣角視像鏡頭 Webcam (免驅動) C200",
+        "rating": "6.0",
+        "hon_price_min": "138",
+        "hon_price_max": "198",
+        "water_price_min": "90",
+        "water_price_max": "175",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "82.2 x 48.7 x 45mm"
+    },
+    {
+        "names": "Eufy eufyCam 2 Pro 2K高清家居安全無線攝影套裝",
+        "rating": "",
+        "hon_price_min": "2,780",
+        "hon_price_max": "2,999",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2K"
+    },
+    {
+        "names": "blurams 2K智能監視網路攝影機 A31",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "480",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 350° / Tilt: 100°",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Ezviz 螢石 360°雲台版智能家居2K攝像頭 C6",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "760",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "上下133°及左右3530°移動",
+        "連接介面:": "2.4/5 GHz WiFi, RJ45 LAN"
+    },
+    {
+        "names": "Imou Ranger 2 (A22EP) H.265 智能AI 網絡攝影機",
+        "rating": "9.3",
+        "hon_price_min": "260",
+        "hon_price_max": "399",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "355°Pan & -5-80°Tilt",
+        "連接介面:": "WiFi, Lan, 支援256GB MicroSD",
+        "尺寸:": "106.1 x 77.4 x 77.4mm",
+        "重量:": "238g"
+    },
+    {
+        "names": "Logitech Meetup 全功能會議攝影機",
+        "rating": "10",
+        "hon_price_min": "6,580",
+        "hon_price_max": "8,290",
+        "water_price_min": "5,700",
+        "water_price_max": "5,880",
+        "尺寸:": "1040 x 4000 x 850mm",
+        "重量:": "1040g"
+    },
+    {
+        "names": "BenQ Zoom 認證智能 4K 超高清會議攝影機 DVY32",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "6,999",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 3.0",
+        "尺寸:": "180.1 x 47.4 x 44mm",
+        "重量:": "400g"
+    },
+    {
+        "names": "Ezviz 螢石 IP Cam C6W",
+        "rating": "10",
+        "hon_price_min": "497",
+        "hon_price_max": "599",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "360",
+        "連接介面:": "LAN,WIFI"
+    },
+    {
+        "names": "Eufy EufyCam 2C 安全監控無線高清攝影系統 (2-Cam Kit)",
+        "rating": "10",
+        "hon_price_min": "1,889",
+        "hon_price_max": "2,399",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "135°",
+        "連接介面:": "ETHERNET/WI-FI"
+    },
+    {
+        "names": "D-Link 2K QHD 無線網路攝影機 DCS-8350LH",
+        "rating": "6.0",
+        "hon_price_min": "618",
+        "hon_price_max": "799",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "66.7 x 65.7 x 111.4mm"
+    },
+    {
+        "names": "Phottix 1080P WebCam w/mic 全高清攝像頭連咪 PC20",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "258",
+        "IP Cam/Webcam:": "webcam",
+        "鏡頭移動角度:": "360",
+        "連接介面:": "USB",
+        "重量:": "1g"
+    },
+    {
+        "names": "Ezviz 螢石 1080P Pan & Tilt Wi-Fi Camera 戶外旋轉 IP Camera H8c",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "550",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "100.05 x 129.19 x 149.75mm",
+        "重量:": "420g"
+    },
+    {
+        "names": "OBSBOT Tiny 無線遙控器",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "359",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Imou Cell 2 網路攝影機",
+        "rating": "",
+        "hon_price_min": "797",
+        "hon_price_max": "1,077",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "109 x 61 x 57mm",
+        "重量:": "313.7g"
+    },
+    {
+        "names": "Logitech Brio Ultra HD Pro Webcam 4K 商務網路攝影機 960-001105",
+        "rating": "8.9",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,799",
+        "water_price_min": "994",
+        "water_price_max": "1,750",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 3.0 連接線 (相容於 USB 2.0 或 Type-C)",
+        "尺寸:": "27 x 102 x 27mm",
+        "重量:": "63g"
+    },
+    {
+        "names": "Dahua 大華 8MP Lite IR Vari-Focal Dome 網絡攝像機  DH-IPC-HDBW2831RP-ZS-S2",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,200",
+        "IP Cam/Webcam:": "IP cam",
+        "鏡頭移動角度:": "Pan: 0°–355°,  Tilt: 0°–67°,  Rotation: 0°–355°",
+        "連接介面:": "LAN",
+        "尺寸:": "122 x 88.9mm",
+        "重量:": "470g"
+    },
+    {
+        "names": "iSmartView 高清2K太陽能板充電池4G 無線攝像頭 ARW-BAT4GV3806S-EU",
+        "rating": "",
+        "hon_price_min": "1,578",
+        "hon_price_max": "1,680",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan 355°, Tilt 90° 全方位轉動",
+        "連接介面:": "SIM card",
+        "尺寸:": "太陽能板尺寸: 223 x 160 x 5mm",
+        "重量:": "170g"
+    },
+    {
+        "names": "Eufy Add on Camera for EufyCam 2 Pro",
+        "rating": "8.0",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,199",
+        "IP Cam/Webcam:": "IP Cam"
+    },
+    {
+        "names": "Anker Webcam PowerConf 高清網絡攝影機 C300",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,099",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "IP Cam/Webcam:": "Wecam",
+        "連接介面:": "USB-C",
+        "尺寸:": "99 x 30 x 30mm",
+        "重量:": "127g"
+    },
+    {
+        "names": "Logitech C922 Pro Stream HD Webcam",
+        "rating": "9.2",
+        "hon_price_min": "589",
+        "hon_price_max": "988",
+        "water_price_min": "450",
+        "water_price_max": "988",
+        "IP Cam/Webcam:": "Webcam",
+        "尺寸:": "29 x 95 x 24mm",
+        "重量:": "162g"
+    },
+    {
+        "names": "Logitech HD Pro 網路攝影機 C920",
+        "rating": "9.5",
+        "hon_price_min": "450",
+        "hon_price_max": "792",
+        "water_price_min": "395",
+        "water_price_max": "820",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "MOMAX Smart Eye IoT 全景智能網絡監視器 SL1S",
+        "rating": "8.5",
+        "hon_price_min": "338",
+        "hon_price_max": "498",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "上下 0-60° / 左右 0-355°",
+        "尺寸:": "76 x 73 x 117mm",
+        "重量:": "200g"
+    },
+    {
+        "names": "Wyze Cam Pan v3 戶內外智能攝像頭",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "水平 360°, 垂直 180°",
+        "連接介面:": "WiFi",
+        "尺寸:": "124 x 60 x 63mm",
+        "重量:": "320g"
+    },
+    {
+        "names": "360 Smart Camera AC1C 智能攝像機 PRO",
+        "rating": "8.0",
+        "hon_price_min": "300",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "WiFi",
+        "尺寸:": "110.3 x 69 x 69mm",
+        "重量:": "220g"
+    },
+    {
+        "names": "FOSCAM 無線2K智能網路攝影機 X5",
+        "rating": "10",
+        "hon_price_min": "478",
+        "hon_price_max": "680",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "83 x 76 x 114mm",
+        "重量:": "206g"
+    },
+    {
+        "names": "SpotCam 雲端WiFi攝影機 Pano2",
+        "rating": "8.0",
+        "hon_price_min": "599",
+        "hon_price_max": "680",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "62 x 110mm",
+        "重量:": "110g"
+    },
+    {
+        "names": "iSmartView 2K高清1296P WiFi無線網絡攝影機 一鍵雙向通話 自動跟踪",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan 355° Tilt 65° 全方位轉動",
+        "連接介面:": "WiFi",
+        "尺寸:": "82 x 84 x 134mm",
+        "重量:": "220g"
+    },
+    {
+        "names": "Ezviz 螢石 1080p 360°雲台版無線網絡攝錄機 C6N-2MP",
+        "rating": "8.7",
+        "hon_price_min": "206",
+        "hon_price_max": "350",
+        "water_price_min": "206",
+        "water_price_max": "206",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "360°",
+        "連接介面:": "WiFi",
+        "尺寸:": "88 x 88.2 x 119mm",
+        "重量:": "218g"
+    },
+    {
+        "names": "Arlo Essential Spotlight Camera 1080p 全高清 WiFi 網絡攝影機 (VMC2030)",
+        "rating": "10",
+        "hon_price_min": "888",
+        "hon_price_max": "1,240",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "331g"
+    },
+    {
+        "names": "Bose Videobar VB1 All-in-one USB Conferencing Device",
+        "rating": "",
+        "hon_price_min": "11,499",
+        "hon_price_max": "11,499",
+        "無線/有線:": "有線",
+        "解像度:": "2160p"
+    },
+    {
+        "names": "Ezviz 螢石 無線電池網絡2MP攝錄機 BC2",
+        "rating": "6.7",
+        "hon_price_min": "506",
+        "hon_price_max": "630",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "WiFi",
+        "尺寸:": "39.1 x 39.1 x 51.3mm",
+        "重量:": "86g"
+    },
+    {
+        "names": "Reolink Go Plus 真無線戶外防水 IP Camera",
+        "rating": "",
+        "hon_price_min": "2,160",
+        "hon_price_max": "2,398",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "4G",
+        "尺寸:": "75 x 194 mm",
+        "重量:": "450g"
+    },
+    {
+        "names": "Ezviz 螢石 IP Cam C6CN 1080p",
+        "rating": "9.0",
+        "hon_price_min": "220",
+        "hon_price_max": "398",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "340°",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "87.7 x 87.7 x 112.7mm",
+        "重量:": "260g"
+    },
+    {
+        "names": "D-Link 2K QHD Pan & Zoom Outdoor Wi-Fi Camera DCS-8635LH",
+        "rating": "10",
+        "hon_price_min": "790",
+        "hon_price_max": "1,044",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "270° Pan",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Reolink GO 4G LTE戶外防水充電IP Camera",
+        "rating": "10",
+        "hon_price_min": "1,760",
+        "hon_price_max": "2,300",
+        "IP Cam/Webcam:": "IP CAM",
+        "連接介面:": "Lte",
+        "尺寸:": "Φ75 x 113 mm (Φ75 x 4.4 in)",
+        "重量:": "380g"
+    },
+    {
+        "names": "Arlo Pro 3 Floodlight Camera 無線泛光燈網絡攝影機 FB1001",
+        "rating": "",
+        "hon_price_min": "2,899",
+        "hon_price_max": "2,899",
+        "IP Cam/Webcam:": "Smart IP Cam",
+        "鏡頭移動角度:": "160°",
+        "連接介面:": "WiFi",
+        "尺寸:": "218.5 x 190.5 x 77.9mm",
+        "重量:": "650g"
+    },
+    {
+        "names": "Reolink Argus 2E V2 無線全高清戶外防水網路攝影機",
+        "rating": "10",
+        "hon_price_min": "690",
+        "hon_price_max": "699",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "105 x 105 x 58mm",
+        "重量:": "310g"
+    },
+    {
+        "names": "Logitech HD Business Webcam C505e",
+        "rating": "10",
+        "hon_price_min": "300",
+        "hon_price_max": "399",
+        "water_price_min": "208",
+        "water_price_max": "250",
+        "IP Cam/Webcam:": "Webcam",
+        "尺寸:": "31.91 x 72.91 x 66.64mm",
+        "重量:": "75g"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能攝像機雲台版1080P",
+        "rating": "6.8",
+        "hon_price_min": "214",
+        "hon_price_max": "498",
+        "water_price_min": "188",
+        "water_price_max": "498",
+        "解像度:": "1080p",
+        "尺寸:": "118 x 78 x 78mm",
+        "重量:": "239g"
+    },
+    {
+        "names": "Xiaomi 小米 室外攝像機 MWC13",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "569",
+        "water_price_min": "399",
+        "water_price_max": "405",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "52.7 x 122 x 102.6mm",
+        "重量:": "273g"
+    },
+    {
+        "names": "Reolink Argus 2E",
+        "rating": "8.7",
+        "hon_price_min": "570",
+        "hon_price_max": "880",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "120°",
+        "連接介面:": "WIFI"
+    },
+    {
+        "names": "FOSCAM POE 5.0MP FOSCAM FN8108HE(NVR) + 8X V5EP(5.0MP CAM) 8路高清網絡錄影機優惠套裝 (無HDD無CABLE)",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,800",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "重量:": "6000g"
+    },
+    {
+        "names": "Netgear Arlo Pro3 配件 - SmartHub 加密傳送及警示基座 (VMB4540)",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "908"
+    },
+    {
+        "names": "Imou Bullet 2S (F26FP) 網路攝影機",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "460",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "151.9 x 82.9 x 113.3mm",
+        "重量:": "460g"
+    },
+    {
+        "names": "Arlo Pro 5S 2K Wireless Spotlight Camera 無線聚光燈網絡攝影機 VMC4060P",
+        "rating": "",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,699",
+        "IP Cam/Webcam:": "Smart IP Cam",
+        "鏡頭移動角度:": "160° Diagonal",
+        "連接介面:": "WiFi",
+        "尺寸:": "76.2 x 149 x 127 mm",
+        "重量:": "312.9g"
+    },
+    {
+        "names": "Reolink E1 Zoom PTZ Wireless Smart Home Camera",
+        "rating": "9.3",
+        "hon_price_min": "520",
+        "hon_price_max": "699",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Horizontal: 355° / Vertical: 50°",
+        "連接介面:": "Wifi",
+        "尺寸:": "76 x 111mm",
+        "重量:": "250g"
+    },
+    {
+        "names": "FOSCAM 4MP WiFi太陽能板可充電池全彩夜視Starlight Alarm Siren 防水網路攝影機 B4",
+        "rating": "",
+        "hon_price_min": "710",
+        "hon_price_max": "720",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "212.1 x 185.9 x 142mm",
+        "重量:": "770g"
+    },
+    {
+        "names": "Logitech 720p視像鏡頭Webcam C270i IPTV",
+        "rating": "9.5",
+        "hon_price_min": "148",
+        "hon_price_max": "265",
+        "water_price_min": "119",
+        "water_price_max": "348",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "720p",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "Reolink Argus 3 2K 4MP Outdoor Wi-Fi Battery IP Camera with Spotlight",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "1,059",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "121 x 90 x 56mm",
+        "重量:": "330g"
+    },
+    {
+        "names": "UKGPro 2MP 太陽能電池供電防水 PTZ 攝像機 USC-DC05-BK",
+        "rating": "",
+        "hon_price_min": "1,498",
+        "hon_price_max": "1,498",
+        "IP Cam/Webcam:": "IP Cam",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "SPEED Intelligent IP Cam 無線安全攝像頭 3S",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "SpotCam 攝影機 FHD 2",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "300",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "80 x 120mm",
+        "重量:": "95g"
+    },
+    {
+        "names": "Ezviz 螢石 IP Cam 1080p C1HC H.265 升級版",
+        "rating": "9.0",
+        "hon_price_min": "215",
+        "hon_price_max": "299",
+        "water_price_min": "215",
+        "water_price_max": "215",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "54 x 54 x 90.5mm",
+        "重量:": "88.5g"
+    },
+    {
+        "names": "Ezviz 螢石 4mm 200萬室外雲台監視攝影機 C8C",
+        "rating": "",
+        "hon_price_min": "497",
+        "hon_price_max": "750",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "87° horizontal, 105° diagonal, Pan352° Tilt95°",
+        "連接介面:": "WIFi+RJ45 LAN"
+    },
+    {
+        "names": "Logitech C925e Webcam",
+        "rating": "",
+        "hon_price_min": "597",
+        "hon_price_max": "1,100",
+        "water_price_min": "405",
+        "water_price_max": "775",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "73 x 126 x 45 公釐",
+        "重量:": "170g"
+    },
+    {
+        "names": "Ezviz 螢石 IP Cam C1HC 1080p",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "330",
+        "water_price_min": "239",
+        "water_price_max": "239",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "WiFi",
+        "尺寸:": "54 x 54 x 90.5mm",
+        "重量:": "88.5g"
+    },
+    {
+        "names": "Ezviz 螢石 BC1C eLife 2K 4MP 無線電池網絡攝錄機 CS-BC1C (4MP, W1)",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,120",
+        "water_price_max": "1,120",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 1440"
+    },
+    {
+        "names": "Reolink 8-Channel 5MP PoE Security Camera NVR Kits RLK8-520D4-A",
+        "rating": "10",
+        "hon_price_min": "3,328",
+        "hon_price_max": "3,599",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 1920",
+        "連接介面:": "LAN"
+    },
+    {
+        "names": "Reolink E1 Pro Wireless PT Smart Home Camera",
+        "rating": "9.7",
+        "hon_price_min": "330",
+        "hon_price_max": "798",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Horizontal: 355° Vertical: 50°",
+        "連接介面:": "Dual Band Wifi , LAN",
+        "尺寸:": "76 x 106mm"
+    },
+    {
+        "names": "Aqara Camera Hub 蘋果 HomeKit 智能家居攝錄機 G3",
+        "rating": "9.5",
+        "hon_price_min": "900",
+        "hon_price_max": "998",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "360°",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Ezviz 螢石 2MP Night Vision Camera C3W-PRO-2MP",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "480",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "120",
+        "連接介面:": "WiFi, LAN"
+    },
+    {
+        "names": "Sync 3合1 1080P 網路攝影機 SCL01BK",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "重量:": "0.3g"
+    },
+    {
+        "names": "Imou Bullet 2 IP67 防水戶外室內監錄網絡攝影機 F22FEP",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "599",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "108°(H), 56°(V), 128°(D)",
+        "連接介面:": "WiFi / Lan, 支援256GB MicroSD",
+        "尺寸:": "147.7 x 74.2 x 74.2mm",
+        "重量:": "280g"
+    },
+    {
+        "names": "FOSCAM PoE 防水有線超清5.0MP Spotlight Alarm Siren網絡攝影機 V5EP",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "520",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "170 x 66 x 66mm",
+        "重量:": "194g"
+    },
+    {
+        "names": "Tenda 4MP 360° IP Camera 監控鏡頭 CP7",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "399",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Horizontal rotation: 360°, vertical rotation: 155° (90° up, 65° down), support physical shutter lens",
+        "連接介面:": "WiFi",
+        "尺寸:": "103 x 88 x 88mm"
+    },
+    {
+        "names": "Wyze Cam OG Telephoto 室內外智能長焦攝像頭",
+        "rating": "",
+        "hon_price_min": "729",
+        "hon_price_max": "729",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "對角 27°；水平 23°；垂直 13°",
+        "連接介面:": "WiFi",
+        "尺寸:": "48 x 48 x 48mm",
+        "重量:": "116g"
+    },
+    {
+        "names": "Reolink E1 Outdoor Smart 5MP PTZ WiFi Camera with Motion Spotlights",
+        "rating": "",
+        "hon_price_min": "948",
+        "hon_price_max": "1,059",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "355° (水平) / 50° (垂直)",
+        "連接介面:": "Wi-Fi / LAN",
+        "尺寸:": "84.7 x 73 x 117.8mm",
+        "重量:": "380g"
+    },
+    {
+        "names": "Imou Dome Lite (D22P) 室內吸頂半球型網路攝影機",
+        "rating": "",
+        "hon_price_min": "462",
+        "hon_price_max": "900",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "100 x 74.3mm",
+        "重量:": "195g"
+    },
+    {
+        "names": "Jabra PanaCast Meet Anywhere",
+        "rating": "",
+        "hon_price_min": "5,870",
+        "hon_price_max": "5,870",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "3840 x 1080",
+        "鏡頭移動角度:": "Horizontal: 180° / Vertical: 54°"
+    },
+    {
+        "names": "SpotCam Solo2 無線 WiFi 監控鏡頭",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "1,090",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "82 x 75mm",
+        "重量:": "302g"
+    },
+    {
+        "names": "AVerMedia AI 自動追蹤 PTZ 攝影機 PTC310",
+        "rating": "",
+        "hon_price_min": "21,250",
+        "hon_price_max": "21,680",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "180 x 184 x 145mm",
+        "重量:": "1700g"
+    },
+    {
+        "names": "Imou Ranger 2C 4MP (TA42P-B) 2K H.265 Pan & Tilt 1080P Wi-Fi 可旋轉網絡攝影機",
+        "rating": "10",
+        "hon_price_min": "346",
+        "hon_price_max": "463",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "355° Pan & -5~80° Tilt",
+        "連接介面:": "WiFi",
+        "尺寸:": "106.1 × 77.4× 77.4mm",
+        "重量:": "219g"
+    },
+    {
+        "names": "Google Nest Cam (Outdoor or Indoor, Battery) 3-Pack",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,000",
+        "water_price_min": "2,950",
+        "water_price_max": "4,000",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, Bluetooth",
+        "尺寸:": "83 x 83mm",
+        "重量:": "398g"
+    },
+    {
+        "names": "Imou Cruiser 4MP 2K 戶外全方位旋轉攝影機 (S42F-B)",
+        "rating": "10",
+        "hon_price_min": "549",
+        "hon_price_max": "766",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "138.4 x 121.7 x 257.5mm",
+        "重量:": "565g"
+    },
+    {
+        "names": "Reolink KEEN Ranger PT 專業級野外監察網絡攝影機",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,196",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Horizontal: 355° , Vertical: 140°",
+        "連接介面:": "4G",
+        "尺寸:": "98 x 112mm",
+        "重量:": "485g"
+    },
+    {
+        "names": "Ezviz 螢石 Solar Charging Panel 太陽能充電板 Model D (CS-CMT-Solar Panel-D)",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "290",
+        "尺寸:": "222.6 x 155.9 x 14.9mm"
+    },
+    {
+        "names": "Ezviz 螢石 免基座無線電池網絡攝錄機 BC1C",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "1,190",
+        "water_price_min": "730",
+        "water_price_max": "730",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080"
+    },
+    {
+        "names": "Ezviz 螢石 Battery Camera C3A",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "880",
+        "IP Cam/Webcam:": "IP Camera",
+        "解像度:": "1080p",
+        "變焦:": "None"
+    },
+    {
+        "names": "SpotCam Mibo 2K 寵物監視器",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "660",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "70 x 104mm",
+        "重量:": "183g"
+    },
+    {
+        "names": "Ezviz 螢石 360°雲台版網絡攝錄機 C6N-4MP",
+        "rating": "9.0",
+        "hon_price_min": "350",
+        "hon_price_max": "580",
+        "water_price_min": "378",
+        "water_price_max": "378",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "88 x 88.2 x 119mm",
+        "重量:": "252g"
+    },
+    {
+        "names": "Ezviz 螢石 360°雲台版網絡攝錄機 C6N-4MP",
+        "rating": "9.0",
+        "hon_price_min": "350",
+        "hon_price_max": "580",
+        "water_price_min": "378",
+        "water_price_max": "378",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "88 x 88.2 x 119mm",
+        "重量:": "252g"
+    },
+    {
+        "names": "blurams 2K智能監視網路攝影機 A31",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "480",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 350° / Tilt: 100°",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Cisco Webex Desk 4K UHD Camera",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "IP Cam/Webcam:": "Webcam",
+        "變焦:": "10x 數碼變焦，支援自動對焦",
+        "鏡頭移動角度:": "81° 可調整對角視野 (FoV)",
+        "連接介面:": "USB-A / USB-C"
+    },
+    {
+        "names": "VIVOTEK 2MP 槍型網路攝影機 IP9165-LPC (no lens)",
+        "rating": "",
+        "hon_price_min": "5,150",
+        "hon_price_max": "5,170",
+        "IP Cam/Webcam:": "IP Cam",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Ring Floodlight Cam Wired Plus with Echo Show 5",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "2,999",
+        "water_price_min": "2,888",
+        "water_price_max": "2,888",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "140° Horizontal, 80° Vertical",
+        "連接介面:": "WiFi",
+        "尺寸:": "(Cam) 299 x 246 x 179mm"
+    },
+    {
+        "names": "AVerMedia Multipoint Video Conferencing System EVC350",
+        "rating": "",
+        "hon_price_min": "32,930",
+        "hon_price_max": "33,680",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "FOSCAM 4MP 雙頻 WiFi 黑光全彩色夜視 Starlight 防水網路攝影機 G4C",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "680",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "97 x 67 x 34mm",
+        "重量:": "375g"
+    },
+    {
+        "names": "Ring Floodlight Cam Pro (Plug-In)",
+        "rating": "",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,699",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "140° Horizontal；80° Vertical",
+        "連接介面:": "WiFi",
+        "尺寸:": "326 x 197.5 x 217mm"
+    },
+    {
+        "names": "AVerMedia 4K Conference Camera with Bluetooth Speakerphone for Medium-to-Large Rooms VC540",
+        "rating": "",
+        "hon_price_min": "17,600",
+        "hon_price_max": "21,680",
+        "IP Cam/Webcam:": "IP Cam"
+    },
+    {
+        "names": "HeimVision 子彈型全天候鏡頭 HM311",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "438",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Reolink TrackMix Wi-Fi - 4K 8MP Dual-Lens PTZ Wi-Fi Camera w/Dual Tracking",
+        "rating": "",
+        "hon_price_min": "1,738",
+        "hon_price_max": "1,738",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "228 x 147 x 129mm",
+        "重量:": "1211g"
+    },
+    {
+        "names": "Dahua 大華 2MP HDCVI IR Dome Camera DH-HAC-D1A21P",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080",
+        "連接介面:": "BNC"
+    },
+    {
+        "names": "D-Link Full HD 無線網路攝影機 DCS-8300LHV2",
+        "rating": "8.0",
+        "hon_price_min": "340",
+        "hon_price_max": "744",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "360°",
+        "連接介面:": "Wifi"
+    },
+    {
+        "names": "VIVOTEK 5MP 槍型網路攝影機 IP9181-H",
+        "rating": "",
+        "hon_price_min": "7,340",
+        "hon_price_max": "7,360",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "10 Base-T/100 Base-TX/1000 Base-T Ethernet (RJ-45)",
+        "尺寸:": "210 x 70 x 63mm",
+        "重量:": "766g"
+    },
+    {
+        "names": "AVer AI 自動追蹤 NDI|HX PTZ 攝影機 PTC330N",
+        "rating": "",
+        "hon_price_min": "33,560",
+        "hon_price_max": "33,600",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "左右：±170°、上下：+90° / -30°",
+        "尺寸:": "180 x 184 x 145mm",
+        "重量:": "1700g"
+    },
+    {
+        "names": "Wyze Cam OG Standard 室內外智能攝像頭",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "對角 121°；水平 102°；垂直 54°",
+        "連接介面:": "WiFi",
+        "尺寸:": "48 x 48 x 48mm",
+        "重量:": "116g"
+    },
+    {
+        "names": "FOSCAM 8-Channel WiFi NVR Kits 無線網路攝影機儲存系統套裝 FN8108H x 1 + FI9900P x 8",
+        "rating": "",
+        "hon_price_min": "4,320",
+        "hon_price_max": "4,320",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080P",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Ezviz 螢石 戶外360°雲台版網絡攝錄機 C8C Lite",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "580",
+        "water_price_min": "510",
+        "water_price_max": "510",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "上下95°及左右352°移動",
+        "連接介面:": "Wifi, RJ45 LAN"
+    },
+    {
+        "names": "Hikvision 海康威視 2 MP Manual Varifocal Bullet Camera DS-2CE19D0T-VFIT3F(2.7-13.5mm)(C)",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "450",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 0 to 360°, Tilt: 0 to 180°, Rotation: 0 to 360°",
+        "尺寸:": "84.5 x 92 x 255.1mm",
+        "重量:": "682g"
+    },
+    {
+        "names": "Ezviz 螢石 無線網絡攝像機 CS-C3TN",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "468",
+        "water_price_min": "335",
+        "water_price_max": "335",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "72 x 72 x 152mm",
+        "重量:": "253g"
+    },
+    {
+        "names": "Ring Video Doorbell Pro 2 with 3 Floodlight Cam Wired Pro 智能鏡頭套裝 (Deluxe Pro Bundle)",
+        "rating": "",
+        "hon_price_min": "9,599",
+        "hon_price_max": "9,599",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "140° horizontal, 80° vertical",
+        "連接介面:": "WiFi",
+        "尺寸:": "(Cam) 326 x 197.5 x 217 mm"
+    },
+    {
+        "names": "Dahua 大華 2MP Entry IR Fixed-Focal Dome Netwok Camera IPC-HDPW1230R1-S5",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 0°-355° , Tilt: 0°-75° , Rotation: 0°-355°",
+        "尺寸:": "98.1 x 122mm",
+        "重量:": "340g"
+    },
+    {
+        "names": "Logitech C310",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "350",
+        "water_price_min": "165",
+        "water_price_max": "250",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1820 x 720",
+        "連接介面:": "USB 2.0"
+    },
+    {
+        "names": "Wyze Cam Floodlight 戶外家居智能攝像頭",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "241 x 177 x 195mm",
+        "重量:": "1252g"
+    },
+    {
+        "names": "Logitech HD 網路攝影機 C505 #960-001368",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "365",
+        "water_price_min": "208",
+        "water_price_max": "208",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "720p"
+    },
+    {
+        "names": "Arlo Pro 2 1080P 無線網絡攝影機 單鏡套裝 (VMS4130P)",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,680",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "WiFi, USB, LAN"
+    },
+    {
+        "names": "Ezviz 螢石 C6C (1080P)",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "399",
+        "IP Cam/Webcam:": "IP Camera",
+        "尺寸:": "87.7 x 87.7 x 112.7mm",
+        "重量:": "256g"
+    },
+    {
+        "names": "Reolink Argus Eco戶外防水充電IP Camera",
+        "rating": "10",
+        "hon_price_min": "528",
+        "hon_price_max": "630",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p",
+        "連接介面:": "802.11n 無線連接"
+    },
+    {
+        "names": "Jabra PanaCast Meet Anywhere+",
+        "rating": "",
+        "hon_price_min": "6,280",
+        "hon_price_max": "6,280",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "3840 x 1080",
+        "鏡頭移動角度:": "Horizontal: 180° / Vertical: 54°"
+    },
+    {
+        "names": "FOSCAM 高清 2K USB Webcam 電腦直播攝像頭 W41",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "220",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "2688 x 1520",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "AVerMedia Video Conferencing Camera VC520 Pro / Cam520 Pro",
+        "rating": "",
+        "hon_price_min": "14,050",
+        "hon_price_max": "15,260"
+    },
+    {
+        "names": "VIVOTEK 2MP 槍型網路攝影機 IP9165-HP (no lens)",
+        "rating": "",
+        "hon_price_min": "5,320",
+        "hon_price_max": "5,350",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "151 x 70 x 61mm",
+        "重量:": "680g"
+    },
+    {
+        "names": "J5create 360° All Around Webcam JVCU360",
+        "rating": "8.0",
+        "hon_price_min": "780",
+        "hon_price_max": "1,280",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 2.0 / UVC 1.1 / UAC 1.0",
+        "尺寸:": "93.5 x 37 x 193mm",
+        "重量:": "350g"
+    },
+    {
+        "names": "Logitech C525",
+        "rating": "8.0",
+        "hon_price_min": "320",
+        "hon_price_max": "398",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1280 x 720",
+        "連接介面:": "USB 2.0"
+    },
+    {
+        "names": "VIVOTEK 網路攝影機 IP9165-LPC Street Kit",
+        "rating": "",
+        "hon_price_min": "14,330",
+        "hon_price_max": "14,340",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080 (2MP)",
+        "連接介面:": "10 Base-T/100 Base-TX/1000 Base-T 乙太網路 (RJ-45)"
+    },
+    {
+        "names": "Razer Kiyo Pro Full HD USB 網路攝影機",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,599",
+        "IP Cam/Webcam:": "Webcam",
+        "變焦:": "1920 x 1080",
+        "連接介面:": "USB3.0"
+    },
+    {
+        "names": "AVerMedia 4K UHD 自動對焦 AI網路攝影機 PW515",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,980",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "130 x 58.1 x 56.75 mm",
+        "重量:": "190g"
+    },
+    {
+        "names": "Arlo Ultra Rechargeable Battery 外置充電電池 (VMA5400)",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Imou Bullet 2S 4MP (F46FP) 網路攝影機",
+        "rating": "",
+        "hon_price_min": "487",
+        "hon_price_max": "550",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "151.9 x 82.9 x 113.3mm",
+        "重量:": "460g"
+    },
+    {
+        "names": "LifeSmart 1080p Outdoor Wi-Fi Bullet Camera LS259",
+        "rating": "",
+        "hon_price_min": "533",
+        "hon_price_max": "548",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "D-Link mydlink Full HD 戶外自動照明網路攝影機 DCS-8630LH",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "1,085",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "150°",
+        "連接介面:": "WiFi, Bluetooth",
+        "尺寸:": "126 x 84 x 60mm"
+    },
+    {
+        "names": "Logitech C920E HD Pro 網路攝影機",
+        "rating": "8.0",
+        "hon_price_min": "465",
+        "hon_price_max": "769",
+        "water_price_min": "359",
+        "water_price_max": "815",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1080p",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "Reolink 3MP PT Smart Home Camera E1-V2",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "339",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "Pan 355° / Tilt 50°",
+        "連接介面:": "WiFi",
+        "重量:": "200g"
+    },
+    {
+        "names": "FOSCAM 室外無線雙頻防水高清2K網絡攝影機 F41",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "910",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "320 x 170 x 220mm",
+        "重量:": "1260g"
+    },
+    {
+        "names": "Dahua 大華 4MP Lite IR Vari-focal Dome Network Camera (2.7-13.5mm) IPC-HDBW2431R-ZS-S2",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "POE",
+        "尺寸:": "122 x 88.9mm",
+        "重量:": "470g"
+    },
+    {
+        "names": "KOnftel Personal Video Kit (Cam10 Business Class Webcam and Ego Professional Speakerphone)",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "USB",
+        "尺寸:": "118 x 37.2 x 30.8mm (without bracket)",
+        "重量:": "165g"
+    },
+    {
+        "names": "Ezviz 螢石 Solar Charging Panel 太陽能充電板 (CS-CMT-Solar Panel-C)",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "270",
+        "尺寸:": "292.3 x 194.3 x 15.1mm"
+    },
+    {
+        "names": "Hikvision 海康威視 Temperature Screening Thermographic Camera 人體測溫熱像儀  DS-2TB1217-3/QA",
+        "rating": "",
+        "hon_price_min": "5,880",
+        "hon_price_max": "6,000",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "138.3 x 138.3 x 123.1mm",
+        "重量:": "940g"
+    },
+    {
+        "names": "Arlo Pro 3 無線網絡攝影機 2 鏡套裝 (VMS4240P)",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "4,888",
+        "water_price_min": "2,599",
+        "water_price_max": "3,888",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "316g"
+    },
+    {
+        "names": "ASUS ROG Eye S USB 攝影機",
+        "rating": "",
+        "hon_price_min": "689",
+        "hon_price_max": "830",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "81 x 28.8 x 16.6mm",
+        "重量:": "118g"
+    },
+    {
+        "names": "Creative Live! Cam Sync 1080p 網絡攝影機",
+        "rating": "10",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "water_price_min": "238",
+        "water_price_max": "238",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 2.0",
+        "尺寸:": "105 x 65 x 60 mm",
+        "重量:": "96g"
+    },
+    {
+        "names": "Poly Eagleeye Cube Smart Video-Conferencing Camera",
+        "rating": "",
+        "hon_price_min": "7,250",
+        "hon_price_max": "7,261",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "110",
+        "連接介面:": "USB/HDCI",
+        "尺寸:": "79.75 x 81.08 x 80.5mm"
+    },
+    {
+        "names": "Netgear Arlo Pro 2 無線網絡全高清鏡頭 (VMC4030P)",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "1,580",
+        "IP Cam/Webcam:": "IP Camera",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Ezviz 螢石 戶外版網絡攝錄機 CS-C3TN (3MP)",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "470",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wifi, Lan",
+        "尺寸:": "72 x 84 x152mm",
+        "重量:": "253g"
+    },
+    {
+        "names": "Netgear Arlo Pro 2 Smart Security System with 2 Cameras (VMS4230P)",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "3,780",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Arlo Ultra & Arlo Pro 3 Rechargeable Battery 外置充電電池 (VMA5400)",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Reolink TrackMix PoE - H.265 4K 8MP Dual-Lens PTZ PoE Camera w/Dual Tracking",
+        "rating": "",
+        "hon_price_min": "1,628",
+        "hon_price_max": "1,628",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "228 x 147 x 110mm",
+        "重量:": "1210g"
+    },
+    {
+        "names": "Imou Turret (T26EP) 超廣角H.265 1080P聲光警報網絡攝影機",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "496",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "114°(H), 59°(V), 135°(D)",
+        "連接介面:": "WiFi / Lan, 支援256GB MicroSD",
+        "尺寸:": "109.9 x 109.9 x 102.2mm",
+        "重量:": "352g"
+    },
+    {
+        "names": "Dahua 大華 2MP Starlight HDCVI IR Dome 攝像機  DH-HAC-HDBW1231EAP-A",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "399",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 0°–355°, Tilt: 0°–80°, Rotation: 0°–355°",
+        "尺寸:": "112 x 89.1mm",
+        "重量:": "440g"
+    },
+    {
+        "names": "Phottix WebCam PC10 1080P w/mic 全高清攝像頭連咪",
+        "rating": "",
+        "hon_price_min": "163",
+        "hon_price_max": "238",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Arlo Ultra Add-On 單鏡頭 (VMC5040)",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,588",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "331g"
+    },
+    {
+        "names": "VIVOTEK 雙鏡頭3D人流統計網絡攝影機 SC8131 (6mm)",
+        "rating": "",
+        "hon_price_min": "15,960",
+        "hon_price_max": "15,970",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "USB, LAN",
+        "尺寸:": "160 x 70 x 38mm",
+        "重量:": "396g"
+    },
+    {
+        "names": "KAYS TECH IP Cam 360FHD",
+        "rating": "10",
+        "hon_price_min": "498",
+        "hon_price_max": "499",
+        "IP Cam/Webcam:": "IP Cam",
+        "變焦:": "4x 數碼變焦",
+        "鏡頭移動角度:": "左右 355°, 上下 120°",
+        "連接介面:": "WiFi, MIRCO LAN"
+    },
+    {
+        "names": "VIVOTEK 車載用網路攝影機 MD9560-DH (2.8mm)",
+        "rating": "",
+        "hon_price_min": "3,470",
+        "hon_price_max": "3,480",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "M12 for Network connection",
+        "尺寸:": "98 x 54 x 110.8mm",
+        "重量:": "400g"
+    },
+    {
+        "names": "Arlo Go 2 LTE/Wi-Fi Security Camera 無線網絡攝影機 VML2030",
+        "rating": "",
+        "hon_price_min": "3,099",
+        "hon_price_max": "3,099",
+        "IP Cam/Webcam:": "Smart IP Cam",
+        "鏡頭移動角度:": "160°",
+        "連接介面:": "WiFi / LTE",
+        "尺寸:": "86 x 64.2 x120mm",
+        "重量:": "490g"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 FD9369",
+        "rating": "",
+        "hon_price_min": "1,178",
+        "hon_price_max": "1,180",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "110 x 85mm",
+        "重量:": "465g"
+    },
+    {
+        "names": "Reolink Duo 2 Wi-Fi - 4K 8MP Dual-Lens Wi-Fi Camera",
+        "rating": "",
+        "hon_price_min": "1,566",
+        "hon_price_max": "1,568",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "195 x 103 x 56mm",
+        "重量:": "700g"
+    },
+    {
+        "names": "Hikvision 海康威視 螢石C6Tc",
+        "rating": "2.0",
+        "hon_price_min": "280",
+        "hon_price_max": "408",
+        "無線/有線:": "無線+有線",
+        "連接介面:": "RJ45 x 1 / IEEE802.11b, 802.11g, 802.11n Draft",
+        "尺寸:": "100 x 100 x 90mm",
+        "重量:": "215g"
+    },
+    {
+        "names": "Dahua 大華 MP IR Fixed Focal Dome WizSense 網絡攝像機  DH-IPC-HDBW3241FP-AS-M",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "IP Cam/Webcam:": "IP cam",
+        "連接介面:": "LAN",
+        "尺寸:": "55 x 108.9mm",
+        "重量:": "380g"
+    },
+    {
+        "names": "Reolink Lumus 戶外防水全彩夜視安防 IP Camera",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "499",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "2.4G WiFi",
+        "尺寸:": "99 x 91 x 60mm",
+        "重量:": "185g"
+    },
+    {
+        "names": "AV Link 智能可視時鐘及內置無線充電 SC-2155",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080",
+        "尺寸:": "90 x 85 x 28mm"
+    },
+    {
+        "names": "D-Link mydlink Mini Full HD Wi-Fi Camera DCS-8000LH V2",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "37 x 43 x 95mm",
+        "重量:": "59g"
+    },
+    {
+        "names": "Dahua 大華 4K HDCVI IR 攝像機  DH-HAC-HFW1801TLP-A",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "398",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 0°–360°, Tilt: 0°–180°, Rotation: 0°–360°",
+        "尺寸:": "198.9 x 80.2 x 76.2mm"
+    },
+    {
+        "names": "Ezviz 螢石 IP Cam 1080P C1C H.265 升級版",
+        "rating": "",
+        "hon_price_min": "193",
+        "hon_price_max": "299",
+        "water_price_min": "197",
+        "water_price_max": "197",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "64 x 64 x 103mm",
+        "重量:": "96g"
+    },
+    {
+        "names": "SpotCam Pano 網路攝影機",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "749",
+        "解像度:": "1920 x 1080",
+        "尺寸:": "Ø7.9 x 12.3cm",
+        "重量:": "94g"
+    },
+    {
+        "names": "Thronmax Stream Go X1 1080P HD Video Webcam",
+        "rating": "10",
+        "hon_price_min": "356",
+        "hon_price_max": "399",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "VIVOTEK 8MP 槍型網路攝影機 IP9191-HP",
+        "rating": "",
+        "hon_price_min": "9,940",
+        "hon_price_max": "9,980",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "3840 x 2160 (4K/8MP)",
+        "尺寸:": "151 x 70 x 61mm (w/o lens) / 209 x 70 x 61mm (w/ lens)"
+    },
+    {
+        "names": "Reolink Argus Eco V2 -  2K 真無線戶外防水電池IP Camera",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "71 x 186mm",
+        "重量:": "360g"
+    },
+    {
+        "names": "AVerMedia Full HD Endpoint with a Built-In Meeting Server EVC170",
+        "rating": "",
+        "hon_price_min": "21,180",
+        "hon_price_max": "21,800",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Logitech Rally Plus Video Conferencing Camera System 專業級全功能會議組合",
+        "rating": "",
+        "hon_price_min": "25,300",
+        "hon_price_max": "31,780",
+        "water_price_min": "24,200",
+        "water_price_max": "25,400",
+        "IP Cam/Webcam:": "Webcam"
+    },
+    {
+        "names": "FOSCAM 超清2K網絡攝影機 SD4",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,150",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 350° & Tilt: 90°",
+        "連接介面:": "WiFi , Lan",
+        "尺寸:": "180 x 111 x 180mm",
+        "重量:": "1000g"
+    },
+    {
+        "names": "Hikvision 海康威視 2MP ColorVu Fixed Color Bullet Camera DS-2CD1027G0-L(UF)",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080"
+    },
+    {
+        "names": "Dahua 大華 2MP Lite Full-color Fixed-focal 網絡攝像機  DH-IPC-HFW2239SP-SA-LED-S2",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "560",
+        "IP Cam/Webcam:": "IP cam",
+        "連接介面:": "LAN",
+        "尺寸:": "166.2 x 70 mm",
+        "重量:": "473g"
+    },
+    {
+        "names": "Jabra PanaCast 50 4K USB Collaboration Videobar (8200-237)",
+        "rating": "",
+        "hon_price_min": "9,330",
+        "hon_price_max": "9,979",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "USB-A, USB-C, Ethernet (RJ45)",
+        "尺寸:": "650 x 80 x 125mm",
+        "重量:": "2200g"
+    },
+    {
+        "names": "Netgear Arlo Pro 2 Smart Security System with 4 Cameras (VMS4430P)",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "6,590",
+        "water_price_min": "4,830",
+        "water_price_max": "4,830",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Anker AnkerWork B600 All-in-One Video Bar (A3383)",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,099",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2K",
+        "連接介面:": "2 𝗑 USB-C (data and charging)"
+    },
+    {
+        "names": "AVerMedia USB 4K UHD Huddle Room Camera VB342+",
+        "rating": "",
+        "hon_price_min": "9,650",
+        "hon_price_max": "9,980",
+        "IP Cam/Webcam:": "IP Cam",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "360 智能攝像機 1080p 夜視版",
+        "rating": "5.6",
+        "hon_price_min": "390",
+        "hon_price_max": "428",
+        "water_price_min": "197",
+        "water_price_max": "197",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "micro USB",
+        "尺寸:": "105mm，頭部寬58mm，底座寬68mm，底座高22.3mm，厚29.8mm",
+        "重量:": "95g"
+    },
+    {
+        "names": "Imou H.265 智能IOT聰明鏡頭 Ranger IQ (A26HIP)",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "780",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "可移式全方位鏡頭, 355°Pan & 0~90°Tilt",
+        "連接介面:": "WiFi / Lan, 支援256GB MicroSD",
+        "尺寸:": "90 x 90 x 108mm",
+        "重量:": "250g"
+    },
+    {
+        "names": "Dahua 大華 2MP IR Fixed-focal WiFi Eyeball Network Camera IPC-HDW1230DT-STW",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "470",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "109.9 x 102.2mm",
+        "重量:": "352g"
+    },
+    {
+        "names": "Imou H.265 智能IOT聰明鏡頭 Ranger IQ (A26HIP)",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "780",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "可移式全方位鏡頭, 355°Pan & 0~90°Tilt",
+        "連接介面:": "WiFi / Lan, 支援256GB MicroSD",
+        "尺寸:": "90 x 90 x 108mm",
+        "重量:": "250g"
+    },
+    {
+        "names": "Dahua 大華 2MP IR Fixed-focal WiFi Eyeball Network Camera IPC-HDW1230DT-STW",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "470",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "109.9 x 102.2mm",
+        "重量:": "352g"
+    },
+    {
+        "names": "SpotCam 商用室內球型網絡2K攝影機 TC1",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "730",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "水平 106.9°, 對角 127.9°",
+        "連接介面:": "Wifi, RJ45 LAN",
+        "尺寸:": "106 x 94mm"
+    },
+    {
+        "names": "HP WebCam Kit 雙鏡頭降噪視訊攝影機套裝 W600 + WR1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "998",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "LevelOne Gemini Fixed Dome IP Camera, H.265, 5-MP FCS-3090",
+        "rating": "",
+        "hon_price_min": "1,528",
+        "hon_price_max": "1,548",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 1656"
+    },
+    {
+        "names": "Imou Ranger Pro (A26HP) 網絡監控攝影機",
+        "rating": "10",
+        "hon_price_min": "388",
+        "hon_price_max": "520",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "可移式全方位鏡頭，支援水平355°，垂直向上90°",
+        "連接介面:": "WiFi, Lan, SD card"
+    },
+    {
+        "names": "Arlo Solar Panel Charger for Essential Cameras VMA3600",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "670"
+    },
+    {
+        "names": "Jabra PanaCast 50 Remote",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "390"
+    },
+    {
+        "names": "Brinno USB-C傳輸線 (10m) AFB1000",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200"
+    },
+    {
+        "names": "AVerMedia AI Auto Tracking NDI|HX PTZ Camera PTC310HN",
+        "rating": "",
+        "hon_price_min": "25,400",
+        "hon_price_max": "25,680",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "180 x 183.5 x 145mm",
+        "重量:": "1700g"
+    },
+    {
+        "names": "FOSCAM 智能AI網路攝影機 R2M",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "499",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "74 x 74 x 119mm",
+        "重量:": "290g"
+    },
+    {
+        "names": "Arlo Ultra 2 4K 無線網絡攝影機 2 鏡套裝 (VMS5240-200)",
+        "rating": "",
+        "hon_price_min": "4,698",
+        "hon_price_max": "5,688",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "180度 超廣角",
+        "連接介面:": "WiFi, Bluetooth"
+    },
+    {
+        "names": "Xiaomi 小米 xiaovv 高清網絡直播 USB 攝像機",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "148",
+        "water_price_max": "200",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "100 x 25 x 50mm",
+        "重量:": "105g"
+    },
+    {
+        "names": "Arlo Pro 3 配件 - 2K HDR 高畫質擴充鏡頭",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "316g"
+    },
+    {
+        "names": "Dahua 大華 2MP HDCVI 模擬全彩攝像機  DH-HAC-ME1200DP",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 0° ~ 360°,  Tilt: 0° ~ 90°,  Rotation: 0° ~ 360°",
+        "尺寸:": "168.8 × 79 × 79mm",
+        "重量:": "240g"
+    },
+    {
+        "names": "Ezviz 螢石 IP Cam C1C PIR 1080p",
+        "rating": "",
+        "hon_price_min": "193",
+        "hon_price_max": "420",
+        "water_price_min": "197",
+        "water_price_max": "197",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130°",
+        "連接介面:": "WiFi",
+        "尺寸:": "64 x 64 x 103mm",
+        "重量:": "98g"
+    },
+    {
+        "names": "Arlo Pro 2 配件 - 加密傳送及警示基座 (VMB4500)",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "AVerMedia 4K Video Bar VB130",
+        "rating": "",
+        "hon_price_min": "10,300",
+        "hon_price_max": "10,690",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB, LAN",
+        "尺寸:": "350 x 65 x 75mm",
+        "重量:": "922g"
+    },
+    {
+        "names": "Google Nest Cam with Floodlight (Wired)",
+        "rating": "",
+        "hon_price_min": "2,799",
+        "hon_price_max": "2,799",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wi-Fi, Bluetooth Low Energy",
+        "尺寸:": "83 x 83mm (Camera) & 165 x 315 x 93mm (Floodlight)",
+        "重量:": "1563g"
+    },
+    {
+        "names": "VIVOTEK 子彈型網路攝影機 IB9391-EHT",
+        "rating": "",
+        "hon_price_min": "9,270",
+        "hon_price_max": "9,270",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "121 x 121 x 394 mm (w/ junction box)"
+    },
+    {
+        "names": "Dahua 大華 4MP IR Bullet WI-FI Camera IPC-HFW1435SP-W-S2",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "164.9 x 70 x 125.2mm",
+        "重量:": "431g"
+    },
+    {
+        "names": "Philips 飛利浦 Full HD 1080p Webcam P506",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "399",
+        "water_price_min": "210",
+        "water_price_max": "210",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Eufy eufyCam 2C Add-on Camera",
+        "rating": "",
+        "hon_price_min": "775",
+        "hon_price_max": "899",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Kodak CHERISH F685",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "978",
+        "解像度:": "1080p",
+        "連接介面:": "Wifi"
+    },
+    {
+        "names": "VIVOTEK 智慧邊緣運算攝影機 SC8133",
+        "rating": "",
+        "hon_price_min": "18,660",
+        "hon_price_max": "18,660",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 960"
+    },
+    {
+        "names": "Netgear Arlo Q",
+        "rating": "10",
+        "hon_price_min": "698",
+        "hon_price_max": "1,380",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "130°",
+        "尺寸:": "2.75 x 2.80 x 4.50吋",
+        "重量:": "168g"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 IT9389-H",
+        "rating": "",
+        "hon_price_min": "1,940",
+        "hon_price_max": "1,950",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "122 x 99mm (含安裝支架)",
+        "重量:": "392g"
+    },
+    {
+        "names": "XPower iCAM1 智能網路監控鏡頭",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "399",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "121 x 68 x 68mm",
+        "重量:": "94g"
+    },
+    {
+        "names": "Arlo Pro 3 - 2K HDR 無線網絡攝影機擴充單鏡頭 (VMC4040P)",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880"
+    },
+    {
+        "names": "Rapoo 雷柏 4K 超高清廣角視像鏡頭 Webcam (免驅動) C500",
+        "rating": "10",
+        "hon_price_min": "508",
+        "hon_price_max": "568",
+        "water_price_min": "498",
+        "water_price_max": "680",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "136 x 38 x 37mm"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 FD9365-EHTV-A",
+        "rating": "",
+        "hon_price_min": "6,560",
+        "hon_price_max": "6,560",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "155 x 103.2mm",
+        "重量:": "909g"
+    },
+    {
+        "names": "VIVOTEK 4鏡頭拼接網路攝影機 MA9321-EHTV",
+        "rating": "",
+        "hon_price_min": "12,860",
+        "hon_price_max": "12,870",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "210 x 110.4mm"
+    },
+    {
+        "names": "Imou PoE商用/家居智能網絡攝影機 Cube PoE 2MP (K22AP)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "484",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "有線",
+        "尺寸:": "78.5 x 90.5 x 127.8mm",
+        "重量:": "310g"
+    },
+    {
+        "names": "Razer FHD 1080P 30FPS USB 網路攝影機 Kiyo X",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "649",
+        "water_price_min": "659",
+        "water_price_max": "659",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1920 x 1080",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "VIVOTEK 8MP 槍型網路攝影機 IP9191-HP (no lens)",
+        "rating": "",
+        "hon_price_min": "8,610",
+        "hon_price_max": "8,650",
+        "IP Cam/Webcam:": "IP Cam"
+    },
+    {
+        "names": "VIVOTEK 180°全景網路攝影機 MS9321-EHV",
+        "rating": "",
+        "hon_price_min": "13,960",
+        "hon_price_max": "13,970",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "180°水平",
+        "連接介面:": "LAN",
+        "尺寸:": "308 x 167 x 130mm"
+    },
+    {
+        "names": "Lenovo Lecoo R1 1080P",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "668",
+        "IP Cam/Webcam:": "IP Web",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Imou Cube (K22P) Wi-Fi 商用/家居智能網絡攝影機",
+        "rating": "",
+        "hon_price_min": "409",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "78.5 x 90.5 x 127.8mm",
+        "重量:": "310g"
+    },
+    {
+        "names": "Logitech BCC950 ConferenceCam",
+        "rating": "9.7",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,999",
+        "water_price_min": "980",
+        "water_price_max": "1,480",
+        "IP Cam/Webcam:": "Conference Cam",
+        "鏡頭移動角度:": "180"
+    },
+    {
+        "names": "Arlo Ultra 無線網絡攝影機 2 鏡套裝 (VMS5240)",
+        "rating": "",
+        "hon_price_min": "4,698",
+        "hon_price_max": "6,188",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "331g"
+    },
+    {
+        "names": "Hikvision 海康威視 HWI-D140H",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "430"
+    },
+    {
+        "names": "Dahua 大華 2MP Full-color Starlight HDCVI Bullet Camera HAC-HFW2249E-A",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "590",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Pan: 0°-360°, Tilt: 0°-90°, Rotation: 0°-360°",
+        "尺寸:": "179.9 x 70 x 70mm",
+        "重量:": "360g"
+    },
+    {
+        "names": "VIVOTEK 子彈型網路攝影機 IB9360-H",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,089",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "91.1 x 176.8mm",
+        "重量:": "530g"
+    },
+    {
+        "names": "Jabra PanaCast (8100-119)",
+        "rating": "",
+        "hon_price_min": "3,490",
+        "hon_price_max": "7,410",
+        "water_price_min": "5,200",
+        "water_price_max": "5,200",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "Horizontal: 180° / Vertical: 54°",
+        "尺寸:": "102 x 67 x 20mm",
+        "重量:": "100g"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 FD9380-H (2.8mm)",
+        "rating": "",
+        "hon_price_min": "1,460",
+        "hon_price_max": "1,470",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "117.2 x 89.6mm",
+        "重量:": "540g"
+    },
+    {
+        "names": "HeimVision 子彈型全天候鏡頭 HM311",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "438",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "VIVOTEK 子彈型網路攝影機 IB9367-EHT-v2",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "4,858",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Micro USB, LAN",
+        "尺寸:": "145.9 x 288mm",
+        "重量:": "2g"
+    },
+    {
+        "names": "Reolink Argus PT 4MP 真無線戶外防水網絡攝影機",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,298",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 1440",
+        "鏡頭移動角度:": "122° 廣角鏡頭 + 特廣闊多角度轉向 (Pan 355° /Tilt 140°)"
+    },
+    {
+        "names": "Hikvision 海康威視 2 MP Indoor Fixed Dome Camera DS-2CE56D0T-IRMMF(C)",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "145",
+        "IP Cam/Webcam:": "Coxial (BNC)",
+        "變焦:": "2.8mm",
+        "連接介面:": "BNC"
+    },
+    {
+        "names": "VIVOTEK 子彈型網路攝影機 IB9368-HT",
+        "rating": "",
+        "hon_price_min": "1,910",
+        "hon_price_max": "1,918",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "85 x 85 x 214.5mm",
+        "重量:": "738g"
+    },
+    {
+        "names": "iSmartView 高視保 100% 全無線充電電池 WiFi 攝像頭 ARW-BAT11S",
+        "rating": "",
+        "hon_price_min": "778",
+        "hon_price_max": "780",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130° 廣角",
+        "連接介面:": "WiFi",
+        "尺寸:": "95 x 45 x 88mm",
+        "重量:": "350g"
+    },
+    {
+        "names": "FOSCAM G2EP 室外網路攝影機",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "650",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Horizontal:90° Diagonal : 105°",
+        "連接介面:": "RJ45"
+    },
+    {
+        "names": "Ezviz 螢石 智能壁燈攝錄機 LC3",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "960",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "86 x 280 x 120mm",
+        "重量:": "1038g"
+    },
+    {
+        "names": "Dahua 大華 DH-HAC-HFW1200TP",
+        "rating": "",
+        "hon_price_min": "154",
+        "hon_price_max": "399",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "iSmartView 高視保 Solar Panel 5W 配件 - 太陽能充電板",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "268",
+        "尺寸:": "226 x 176 x 12mm",
+        "重量:": "113g"
+    },
+    {
+        "names": "VIVOTEK 2MP 槍型網路攝影機 IP9167-HP (No Lens)",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "2,868",
+        "IP Cam/Webcam:": "IP Cam"
+    },
+    {
+        "names": "Arlo Pro 2 / Arlo Go 太陽能充電板及戶外充電線 (VMA4600)",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "899"
+    },
+    {
+        "names": "Hikvision 海康威視 Temperature Screening Thermographic Turret Camera 圓頂型測溫攝影機 DS-2TD1217B-6/PA",
+        "rating": "",
+        "hon_price_min": "25,288",
+        "hon_price_max": "25,288",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "138.3 x 138.3 x 123.1mm",
+        "重量:": "940g"
+    },
+    {
+        "names": "Ezviz 螢石 無線電池網絡攝錄機套裝 BC1-B2",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "2,499",
+        "water_price_min": "1,430",
+        "water_price_max": "1,430",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "Camera: 104.76 x 62.8 x 62.8mm, Base: 81.97 x 63.97 x 160.22mm",
+        "重量:": "1684g"
+    },
+    {
+        "names": "HeimVision Wireless Rechargeable Battery Security Camera 無線電池監控攝影機 HMD3",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "2.4 Ghz WiFi",
+        "尺寸:": "58 x 53 x 99mm",
+        "重量:": "499g"
+    },
+    {
+        "names": "Hikvision 海康威視 Temperature Screening Thermographic Turret Camera 圓頂型測溫攝影機 DS-2TD1217B-6/PA",
+        "rating": "",
+        "hon_price_min": "25,288",
+        "hon_price_max": "25,288",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "138.3 x 138.3 x 123.1mm",
+        "重量:": "940g"
+    },
+    {
+        "names": "Ezviz 螢石 無線電池網絡攝錄機套裝 BC1-B2",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "2,499",
+        "water_price_min": "1,430",
+        "water_price_max": "1,430",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "Camera: 104.76 x 62.8 x 62.8mm, Base: 81.97 x 63.97 x 160.22mm",
+        "重量:": "1684g"
+    },
+    {
+        "names": "HeimVision Wireless Rechargeable Battery Security Camera 無線電池監控攝影機 HMD3",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "2.4 Ghz WiFi",
+        "尺寸:": "58 x 53 x 99mm",
+        "重量:": "499g"
+    },
+    {
+        "names": "Ring Spotlight Cam Pro (Battery)",
+        "rating": "",
+        "hon_price_min": "2,799",
+        "hon_price_max": "2,799",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "140° Horizontal；80° Vertical",
+        "連接介面:": "WiFi",
+        "尺寸:": "77.8 x 81.5 x 144.63mm"
+    },
+    {
+        "names": "OEM USB 外置攝像頭 1080P高清解像",
+        "rating": "10",
+        "hon_price_min": "70",
+        "hon_price_max": "85",
+        "IP Cam/Webcam:": "Webcam",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Arlo Pro 4 Spotlight Camera 無線網絡攝影機 VMC4050P (3 Pack)",
+        "rating": "",
+        "hon_price_min": "5,599",
+        "hon_price_max": "5,980",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "316g"
+    },
+    {
+        "names": "LevelOne Gemini Fixed IP Camera, 2-MP, H.265 FCS-5201",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "803",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1920 x 1080"
+    },
+    {
+        "names": "Hikvision 海康威視 HWI-T221H",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "368",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "Ø 110 x 93.2 mm",
+        "重量:": "360g"
+    },
+    {
+        "names": "OBSBOT Meet 4K 人工智能 高清網絡鏡頭",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,699",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB Type C",
+        "尺寸:": "56 x 45 x 32mm",
+        "重量:": "69g"
+    },
+    {
+        "names": "Konftel Cam10 Business Class Webcam",
+        "rating": "",
+        "hon_price_min": "1,188",
+        "hon_price_max": "1,188",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "USB",
+        "尺寸:": "118 x 37.2 x 30.8mm (without bracket)",
+        "重量:": "165g"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 FD9165-HT-A",
+        "rating": "",
+        "hon_price_min": "5,170",
+        "hon_price_max": "5,170",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "139 x 103mm",
+        "重量:": "538g"
+    },
+    {
+        "names": "Ezviz 螢石 5MP 戶外360°雲台版3K網絡攝錄機 H8 Pro 3K",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "940",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, RJ45 LAN",
+        "尺寸:": "116 x 153.2 x 163.8mm",
+        "重量:": "592g"
+    },
+    {
+        "names": "Hikvision 海康威視 5 MP Fisheye Fixed Dome Network Camera DS-2CD2955FWD-I",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,880",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "119.9 x 41.2mm"
+    },
+    {
+        "names": "D-Link Full HD Wi-Fi Camera DCS-8302LH",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "744",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "138 x 88 x 62mm"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能攝像機",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "260",
+        "water_price_min": "180",
+        "water_price_max": "210",
+        "無線/有線:": "有線",
+        "尺寸:": "114.3 x 80.2 x 80.2mm",
+        "重量:": "128g"
+    },
+    {
+        "names": "AVer 4K Conference Camera CAM130",
+        "rating": "",
+        "hon_price_min": "4,140",
+        "hon_price_max": "4,190",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "160 x 37 x 60mm",
+        "重量:": "282g"
+    },
+    {
+        "names": "Imou Smart Outdoor Monitoring with PoE Connection IP67 網絡監看攝影機 IPC-F22A",
+        "rating": "",
+        "hon_price_min": "326",
+        "hon_price_max": "328",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "147.7 x 74.2 x 74.2mm",
+        "重量:": "210g"
+    },
+    {
+        "names": "Blink Mini Compact Indoor Plug-in Smart Security Camera",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "499",
+        "water_price_min": "349",
+        "water_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "VIVOTEK 智慧邊緣運算攝影機 SC8132",
+        "rating": "",
+        "hon_price_min": "18,660",
+        "hon_price_max": "18,660",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 960"
+    },
+    {
+        "names": "Q.Watch 攝像頭 TS-CAM30FHD",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "180度",
+        "連接介面:": "WiFI / LAN"
+    },
+    {
+        "names": "Blink Outdoor Floodlight Cam (3rd Gen) - 2 Camera Kit 戶外家居智能攝像頭套裝連泛光燈",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "IP Cam/Webcam:": "IP Cam / Outdoor Smart Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "71 x 71 x 31mm (Camera) & 140 x 263 x 97mm (Floodlight)",
+        "重量:": "48g"
+    },
+    {
+        "names": "Xiaomi 小米 Smart Waterproof Outdoor Camera Battery Edition",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "699",
+        "water_price_min": "399",
+        "water_price_max": "449",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wi-Fi IEEE 802.1 b/g/n 2.4GHz",
+        "尺寸:": "47 x 73 x 140.4mm",
+        "重量:": "270g"
+    },
+    {
+        "names": "FOSCAM 無線雙頻防爆防水P/T/Z高清2K網絡攝影機 D4Z",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,250",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 350°  Tilt: 90°",
+        "連接介面:": "WiFi",
+        "尺寸:": "108 x 108 x 102mm",
+        "重量:": "518g"
+    },
+    {
+        "names": "Dahua 大華 2MP IR Bullet Network Camera IPC-HFW2230S-S-S2",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "490",
+        "IP Cam/Webcam:": "IP CAM",
+        "變焦:": "2.8mm",
+        "連接介面:": "POE, LAN"
+    },
+    {
+        "names": "Rapoo 雷柏 電腦高清攝像頭 (1080P型) C260S",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "360°水平旋轉鏡頭",
+        "連接介面:": "USB 2.0",
+        "尺寸:": "77 x 48.7 x 43mm"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 FD9388-HTV",
+        "rating": "",
+        "hon_price_min": "2,620",
+        "hon_price_max": "2,628",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "133.7 x 103.8mm",
+        "重量:": "819g"
+    },
+    {
+        "names": "SpotCam BabyCam 智慧寶寶監控攝影機",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "680",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "108 x 75 x 75mm",
+        "重量:": "238g"
+    },
+    {
+        "names": "Ring Video Doorbell 4 + Floodlight Cam Wired Plus 門鈴及智能鏡頭套裝 (Starter Kit)",
+        "rating": "",
+        "hon_price_min": "4,399",
+        "hon_price_max": "4,399",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "140° Horizontal, 80° Vertical",
+        "連接介面:": "WiFi",
+        "尺寸:": "(Cam) 299 x 246 x 179mm"
+    },
+    {
+        "names": "Hikvision 海康威視 DS-2CE15A2P-IR",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "278",
+        "water_price_min": "240",
+        "water_price_max": "350",
+        "IP Cam/Webcam:": "CCTV CAM",
+        "連接介面:": "1Vp-p Composite Output(75Ω/BNC)",
+        "尺寸:": "Φ70×149.5 mm",
+        "重量:": "360g"
+    },
+    {
+        "names": "Hikvision 海康威視 HWN-4108MH-8P",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,300",
+        "解像度:": "3840 x 2160",
+        "尺寸:": "315 x 240 x 48mm",
+        "重量:": "1g"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 FD9391-EHTV",
+        "rating": "",
+        "hon_price_min": "9,660",
+        "hon_price_max": "9,670",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "155 x 138mm"
+    },
+    {
+        "names": "RGBlink 4K NDI變焦攝像頭 (UNDI-WH 4K NDI)",
+        "rating": "",
+        "hon_price_min": "24,800",
+        "hon_price_max": "24,800",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "HDMI,USB-B,RJ45",
+        "尺寸:": "220 x 144 x 159mm"
+    },
+    {
+        "names": "Vstarcam Smart Indoor HD PT IP Cam C41",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan：345°, Tilt：84°",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Arlo Pro 5S 2K Wireless Spotlight Camera - 3 Camera Kit 無線聚光燈網絡攝影機3件套裝 VMC4360P",
+        "rating": "",
+        "hon_price_min": "6,899",
+        "hon_price_max": "6,899",
+        "IP Cam/Webcam:": "Smart IP Cam",
+        "鏡頭移動角度:": "160° Diagonal",
+        "連接介面:": "WiFi",
+        "尺寸:": "76.2 x 149 x 127mm",
+        "重量:": "312.9g"
+    },
+    {
+        "names": "Logitech Ultra-HD ConferenceCam Rally",
+        "rating": "",
+        "hon_price_min": "24,660",
+        "hon_price_max": "27,801",
+        "water_price_min": "22,900",
+        "water_price_max": "24,800",
+        "無線/有線:": "有線",
+        "變焦:": "Smooth motorized pan, tilt and zoom Pan: ±90° Tilt: +50° / -90° 15x HD zoom"
+    },
+    {
+        "names": "Lenovo Lecoo S1 1080P",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "428",
+        "IP Cam/Webcam:": "IP Web",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "HeimVision 1080p 無線/有線 IP Cam HM203",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "490",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "J5create USB 4K Ultra HD Webcam 高畫質廣角 USB 視像鏡頭 JVU430",
+        "rating": "",
+        "hon_price_min": "558",
+        "hon_price_max": "558",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB-C / USB 2.0 Type-A",
+        "尺寸:": "64.6 x 106 x 63.6mm",
+        "重量:": "215g"
+    },
+    {
+        "names": "Ezviz 螢石 1080P 雙鏡頭戶外網絡攝錄機 C3X",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "670",
+        "無線/有線:": "無線",
+        "連接介面:": "wifi",
+        "尺寸:": "72 x 72 x 150 mm",
+        "重量:": "425g"
+    },
+    {
+        "names": "Reolink 4K UHD 8MP PoE Security IP Camera RLC-820A",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "730",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "3840 x 2160",
+        "連接介面:": "LAN"
+    },
+    {
+        "names": "Kodak FRONTIER F685",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "788",
+        "無線/有線:": "無線",
+        "連接介面:": "Wifi, SD Card"
+    },
+    {
+        "names": "Ring Indoor Cam Wired 室內智能鏡頭",
+        "rating": "",
+        "hon_price_min": "585",
+        "hon_price_max": "605",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Dahua 大華 2MP HDCVI IR Bullet Camera (需要配合BNC錄影機使用) HAC-B1A21",
+        "rating": "",
+        "hon_price_min": "105",
+        "hon_price_max": "135",
+        "IP Cam/Webcam:": "Coxial (BNC)",
+        "變焦:": "2.8mm",
+        "連接介面:": "BNC"
+    },
+    {
+        "names": "VIVOTEK 快速球型網路攝影機 SD9161-H",
+        "rating": "",
+        "hon_price_min": "5,620",
+        "hon_price_max": "5,630",
+        "IP Cam/Webcam:": "IP Cam",
+        "變焦:": "10x",
+        "連接介面:": "LAN",
+        "尺寸:": "172 x 157 mm (Camera body)"
+    },
+    {
+        "names": "HP WebCam Kit 雙鏡頭降噪視訊攝影機套裝 W600 + WR1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "998",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "Ring Indoor Cam Wired 室內智能鏡頭",
+        "rating": "",
+        "hon_price_min": "585",
+        "hon_price_max": "605",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Dahua 大華 2MP HDCVI IR Bullet Camera (需要配合BNC錄影機使用) HAC-B1A21",
+        "rating": "",
+        "hon_price_min": "105",
+        "hon_price_max": "135",
+        "IP Cam/Webcam:": "Coxial (BNC)",
+        "變焦:": "2.8mm",
+        "連接介面:": "BNC"
+    },
+    {
+        "names": "VIVOTEK 快速球型網路攝影機 SD9161-H",
+        "rating": "",
+        "hon_price_min": "5,620",
+        "hon_price_max": "5,630",
+        "IP Cam/Webcam:": "IP Cam",
+        "變焦:": "10x",
+        "連接介面:": "LAN",
+        "尺寸:": "172 x 157 mm (Camera body)"
+    },
+    {
+        "names": "Reolink 4K UHD 8MP PoE P/T/Z Security IP Camera RLC-823A",
+        "rating": "10",
+        "hon_price_min": "1,768",
+        "hon_price_max": "2,080",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 360°  Tilt: 90°",
+        "連接介面:": "Lan",
+        "尺寸:": "136 x 201mm",
+        "重量:": "1800g"
+    },
+    {
+        "names": "Poly STUDIO P5 專業網絡攝像頭 + One year Partner Premier",
+        "rating": "",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,135",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "37.7 x 34 x 62mm"
+    },
+    {
+        "names": "Hikvision 海康威視 DS-2CE56DOT-IRF",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "198",
+        "解像度:": "1920 x 1080",
+        "重量:": "280g"
+    },
+    {
+        "names": "Reolink Argus PT真無線戶外防水P/T電池IP Camera",
+        "rating": "10",
+        "hon_price_min": "920",
+        "hon_price_max": "1,090",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "802.11n 無線連接",
+        "尺寸:": "98 x 112mm"
+    },
+    {
+        "names": "Hikvision 海康威視 HWI-B121H",
+        "rating": "",
+        "hon_price_min": "277",
+        "hon_price_max": "380",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "Ø 70 x 186.3mm",
+        "重量:": "390g"
+    },
+    {
+        "names": "Blink Outdoor (3rd Gen) Security Camera",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "1,199",
+        "water_price_min": "849",
+        "water_price_max": "999",
+        "IP Cam/Webcam:": "IP Cam",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Hikvision 海康威視 HWI-B140H",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "420",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "Ø 70 x 191.3mm",
+        "重量:": "280g"
+    },
+    {
+        "names": "Imou Ranger Pro Z (A26ZP) 智能安全網絡監控攝影機",
+        "rating": "8.0",
+        "hon_price_min": "737",
+        "hon_price_max": "899",
+        "無線/有線:": "無線+有線",
+        "鏡頭移動角度:": "355° 高速旋轉雲台",
+        "連接介面:": "5GHz/2.4GHz Dual-Band WiFi & Lan"
+    },
+    {
+        "names": "Dahua 大華 4K HDCVI IR 攝像機  DH-HAC-HDW1801TLP-A",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "398",
+        "IP Cam/Webcam:": "IP cam",
+        "鏡頭移動角度:": "Pan: 0°-360°, Tilt: 0°-78°, Rotation: 0°-360°",
+        "連接介面:": "LAN"
+    },
+    {
+        "names": "LifeSmart 1080p Pan/Tilt IP Camera LS-CAM-PT-258",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "517",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 345° / Tilt: 90°",
+        "連接介面:": "Wi-Fi"
+    },
+    {
+        "names": "Ring Stick Up Cam (3rd Gen, Battery)",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "IP Cam/Webcam:": "Security Cam",
+        "解像度:": "1080p",
+        "連接介面:": "Wifi"
+    },
+    {
+        "names": "Dahua 大華 8MP Lite IR Fixed-focal Bullet Network Camera HFW2831sp-s-s2",
+        "rating": "",
+        "hon_price_min": "775",
+        "hon_price_max": "785",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "166.2 x 68.7mm",
+        "重量:": "480g"
+    },
+    {
+        "names": "D-Link Compact Full HD Wi-Fi Camera DCS-6100LH",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "499",
+        "IP Cam/Webcam:": "Wi-Fi Cam",
+        "鏡頭移動角度:": "110°",
+        "連接介面:": "WIFI",
+        "尺寸:": "104 x 61 x 28mm"
+    },
+    {
+        "names": "Arlo Pro 和 Pro 2 矽膠殼 - 迷彩色 (3個裝) VMA4200",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360"
+    },
+    {
+        "names": "Vstarcam Mini IP Camera Pro 專業版低功耗 充電式智能攝像機 CB71",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "490",
+        "water_price_min": "348",
+        "water_price_max": "348",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "40 x 36.5 x 36.5mm",
+        "重量:": "80g"
+    },
+    {
+        "names": "Imou Cue 2C H.265 1080p 智能AI網絡攝影機",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "299",
+        "IP Cam/Webcam:": "IP Cam",
+        "變焦:": "3.6mm",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Dahua 大華 IPC-SF145",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "410",
+        "IP Cam/Webcam:": "IPCAM",
+        "變焦:": "3.6mm lens",
+        "連接介面:": "ONVIF"
+    },
+    {
+        "names": "TP-Link VIGI C400HP VIGI 3MP Turret Network Camera",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "498",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "123 x 123 x 83mm",
+        "重量:": "195g"
+    },
+    {
+        "names": "VIVOTEK 固定式球型網路攝影機 FD9189-HM",
+        "rating": "",
+        "hon_price_min": "2,970",
+        "hon_price_max": "2,970",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "130 x 95mm",
+        "重量:": "360g"
+    },
+    {
+        "names": "Xiaomi 小米 Mi 360 Camera (1080p) MJSXJ10CM",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "water_price_min": "229",
+        "water_price_max": "250",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "108 x 75 x 75mm",
+        "重量:": "254g"
+    },
+    {
+        "names": "Blink Solar Outdoor Camera with Solar Panel Charging Mount - 3 Camera System 戶外家居太陽能攝像頭三件套裝",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "3,599",
+        "IP Cam/Webcam:": "IP Cam/ Outdoor Smart Security Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "71 x 71 x 31mm (Camera) & 140 x 111 x 100mm (Solar Panel Mount)",
+        "重量:": "48g"
+    },
+    {
+        "names": "SPEED Outdoor 1080P 室外防水 IP65 充電式 IP Cam",
+        "rating": "10",
+        "hon_price_min": "578",
+        "hon_price_max": "599",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "58 x 58 x 94mm",
+        "重量:": "300g"
+    },
+    {
+        "names": "Hollyland Arocam C2 HD Livestream Camera 直播攝影機",
+        "rating": "",
+        "hon_price_min": "5,450",
+        "hon_price_max": "5,450",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB, HDMI, LAN, RS232",
+        "尺寸:": "142.2 x 151.9 x 175.8mm",
+        "重量:": "1500g"
+    },
+    {
+        "names": "VIVOTEK 車載用網路攝影機 MD9561-H (2.8mm)",
+        "rating": "",
+        "hon_price_min": "4,570",
+        "hon_price_max": "4,580",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "M12 for Network/PoE connection",
+        "尺寸:": "98 x 54 x 110.8mm",
+        "重量:": "400g"
+    },
+    {
+        "names": "SwitchBot Pan Tilt Cam 室內智能旋轉監控器",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "Wi-Fi 加密：WPA-PSK/WPA2-PSK",
+        "尺寸:": "78 x 78 x 107mm",
+        "重量:": "195g"
+    },
+    {
+        "names": "SmarterWare 4K Dual Lens mini WiFi IP Camera 雙鏡頭微型網絡攝影機 D3",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "450",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Hikvision 海康威視 2 MP Indoor Fixed Dome Camera DS-2CE56D0T-IRMMF(C) (BNC接頭，需配錄影機使用)",
+        "rating": "",
+        "hon_price_min": "141",
+        "hon_price_max": "150",
+        "IP Cam/Webcam:": "Coxial (BNC)",
+        "變焦:": "2.8mm",
+        "連接介面:": "BNC"
+    },
+    {
+        "names": "EyeMega  1080P網絡攝像機 EM758",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "187 x 71 x 66mm"
+    },
+    {
+        "names": "Reolink H.265 4K 8MP Ultra HD PoE Dome Camera w/5X Optical Zoom RLC-842A",
+        "rating": "",
+        "hon_price_min": "1,036",
+        "hon_price_max": "1,038",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "133 x 100.25mm",
+        "重量:": "686g"
+    },
+    {
+        "names": "Imou Eyeball (T22AP) 超廣角 PoE網絡攝影機",
+        "rating": "",
+        "hon_price_min": "314",
+        "hon_price_max": "328",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN"
+    },
+    {
+        "names": "Hikvision 海康威視 HiWatch HWI-D121H",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "360",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "Ø 111 x 82.4mm",
+        "重量:": "460g"
+    },
+    {
+        "names": "Hikvision 海康威視 2MP IR Fixed NetworkDome Camera (DS-2CD1123GOE-I)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "350",
+        "無線/有線:": "有線",
+        "連接介面:": "POE, LAN"
+    },
+    {
+        "names": "AVerMedia Ultra HD 4K Huddle Room Collaboration Camera CAM340+",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,250",
+        "IP Cam/Webcam:": "IP Cam",
+        "尺寸:": "60 x 60 x 75mm",
+        "重量:": "251g"
+    },
+    {
+        "names": "Netgear Arlo Pro / Arlo Go 配件 - 太陽能充電板及戶外充電線 (VMA6000)",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "860",
+        "尺寸:": "14.3 x 24.6 x 8.6cm",
+        "重量:": "826g"
+    },
+    {
+        "names": "Blink Indoor (2nd Gen) Home Security Camera",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,099",
+        "water_price_min": "799",
+        "water_price_max": "899",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "71 x 71 x 34mm"
+    },
+    {
+        "names": "AVer Dual Lens Auto Tracking Camera PTC115+",
+        "rating": "",
+        "hon_price_min": "19,680",
+        "hon_price_max": "19,800",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: ±175° / Tilt: +90°/-30°",
+        "尺寸:": "202 x 178 x 210mm",
+        "重量:": "1750g"
+    },
+    {
+        "names": "Eufy SoloCam L20 網路攝影機 (T8122121)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Reolink 8-Channel 4MP PoE Security Camera System RLK8-420D4",
+        "rating": "",
+        "hon_price_min": "4,156",
+        "hon_price_max": "4,158",
+        "water_price_min": "4,200",
+        "water_price_max": "4,200"
+    },
+    {
+        "names": "FOSCAM FI9928P",
+        "rating": "",
+        "hon_price_min": "1,640",
+        "hon_price_max": "1,800",
+        "IP Cam/Webcam:": "IP Cam",
+        "變焦:": "4倍光學變焦 f:2.8~12mm",
+        "鏡頭移動角度:": "Pan:355°& Tilt:90°",
+        "連接介面:": "Wireless / LAN"
+    },
+    {
+        "names": "Xiaomi 小米 IMILAB Webcam 1080P 網絡視像會議鏡頭",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "235",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "71.5 x 35 x 120mm",
+        "重量:": "138g"
+    },
+    {
+        "names": "blurams 智能監視網路攝影機 (戶外專業版) A21C",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "580",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "91.5 x 56.5 x 98.5mm",
+        "重量:": "228g"
+    },
+    {
+        "names": "Vstarcam Smart Two-Way 2.5-inch PT Camera CS69",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "798",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan 345° / Tilt 53°",
+        "連接介面:": "WiFi, LAN"
+    },
+    {
+        "names": "Xiaomi 小米 IMILAB Webcam 1080P 網絡視像會議鏡頭",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "235",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "71.5 x 35 x 120mm",
+        "重量:": "138g"
+    },
+    {
+        "names": "blurams 智能監視網路攝影機 (戶外專業版) A21C",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "580",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "91.5 x 56.5 x 98.5mm",
+        "重量:": "228g"
+    },
+    {
+        "names": "Vstarcam Smart Two-Way 2.5-inch PT Camera CS69",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "798",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan 345° / Tilt 53°",
+        "連接介面:": "WiFi, LAN"
+    },
+    {
+        "names": "Xiaobai 小白 小白智能攝像機 電池版",
+        "rating": "",
+        "water_price_min": "480",
+        "water_price_max": "520",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "140.4 x 47 x 73mm",
+        "重量:": "270g"
+    },
+    {
+        "names": "VIVOTEK 360°魚眼網路攝影機 FE9380-HV",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,260",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "150 x 68.2mm",
+        "重量:": "695g"
+    },
+    {
+        "names": "Kandao Meeting Pro 360° 智能視像會議機",
+        "rating": "",
+        "hon_price_min": "7,380",
+        "hon_price_max": "7,380",
+        "IP Cam/Webcam:": "Webcam",
+        "鏡頭移動角度:": "360°",
+        "連接介面:": "WiFi, LAN",
+        "重量:": "750g"
+    },
+    {
+        "names": "Dahua 大華 2MP Lite IR Vari-focal Bullet 網絡攝像機  DH-IPC-HFW2231TP-ZS-S2",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "IP Cam/Webcam:": "IP cam",
+        "連接介面:": "LAN",
+        "尺寸:": "244 x 90mm",
+        "重量:": "860g"
+    },
+    {
+        "names": "Hikvision 海康威視 2 MP Fixed Turret Camera DS-2CE56D0T-IRMF(C) (BNC接頭，需配錄影機使用)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "155",
+        "IP Cam/Webcam:": "Coxial (BNC)",
+        "變焦:": "2.8mm",
+        "連接介面:": "BNC"
+    },
+    {
+        "names": "Xiaomi 小米 智能攝錄機 標準版",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "water_price_min": "258",
+        "water_price_max": "258",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "600 x 480 x 675mm"
+    },
+    {
+        "names": "Hikvision 海康威視 DS-2CD3145F-I",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "878",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "IP Cam/Webcam:": "IP Cam"
+    },
+    {
+        "names": "Ring Stick Up Cam Solar",
+        "rating": "",
+        "hon_price_min": "1,460",
+        "hon_price_max": "1,460",
+        "IP Cam/Webcam:": "Smart Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "3.82 x 2.36 x 2.36in. (Camera) &  7.75 x 5.5 x 0.5in. (Solar Panel)",
+        "重量:": "1364g"
+    },
+    {
+        "names": "Arlo Ultra & Arlo Pro 3 8 ft. Indoor Magnetic Charging Cable 室內型磁能充電線 (VMA5000C)",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "328"
+    },
+    {
+        "names": "Dahua 大華 HAC-HDBW1200R-VF",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "340",
+        "無線/有線:": "有線",
+        "連接介面:": "BNC",
+        "尺寸:": "Φ122 x 88.9mm (Φ4.8\"×3.5\")"
+    },
+    {
+        "names": "Logitech PTZ Pro 視訊攝影機",
+        "rating": "10",
+        "hon_price_min": "6,190",
+        "hon_price_max": "6,299",
+        "water_price_min": "4,800",
+        "water_price_max": "4,810"
+    },
+    {
+        "names": "Logitech PTZ Pro 2 高清視訊攝影機",
+        "rating": "9.6",
+        "hon_price_min": "5,650",
+        "hon_price_max": "6,010",
+        "water_price_min": "2,535",
+        "water_price_max": "4,700",
+        "解像度:": "1080p"
+    },
+    {
+        "names": "Foscam R2C 智能網路攝影機",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "550",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan:300°& Tilt:100°",
+        "連接介面:": "Lan/WiFi"
+    },
+    {
+        "names": "Arlo Pro 3 無線網絡攝影機 4 鏡套裝 (VMS4440P)",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "8,688",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "316g"
+    },
+    {
+        "names": "Vstarcam G43S 1080P Security Night Vision Baby Monitor Camera",
+        "rating": "",
+        "hon_price_min": "346",
+        "hon_price_max": "428",
+        "water_price_min": "299",
+        "water_price_max": "400",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan：350° ,Tilt：60°",
+        "連接介面:": "WiFi, USB Power, LAN",
+        "尺寸:": "150 x 95 x 100mm"
+    },
+    {
+        "names": "Reolink 8-Channel 5MP PoE Security Camera NVR Kits RLK8-510B4-A",
+        "rating": "",
+        "hon_price_min": "3,400",
+        "hon_price_max": "3,410",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 1920",
+        "連接介面:": "LAN"
+    },
+    {
+        "names": "Arlo Arlo / Arlo Pro / Arlo Pro 2 加密傳送及警示基座 (VMB4500)",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "Ezviz 螢石 無線電池網絡攝錄機 (附加鏡頭) BC1-Add on",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "1,080",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "104.76 x 62.8 x 62.8mm",
+        "重量:": "851g"
+    },
+    {
+        "names": "SpotCam HD Eva",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "IP Cam/Webcam:": "IP CAM",
+        "鏡頭移動角度:": "水平旋轉: 360゜ 垂直旋轉: 仰角50゜，俯角20゜",
+        "連接介面:": "802.11b/g/n WLAN",
+        "尺寸:": "Ф 8.0cm(3.14\") × 13.9cm(5.47\")",
+        "重量:": "318g (11.22oz)g"
+    },
+    {
+        "names": "China Mobile 中國移動 U eye網絡攝影機 (標準版)",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "298",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "1280 x 720",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Dahua 大華 4MP WDR IR 攝像機  DH-IPC-HFW2431TP-ZS (2.7-13.5mm)",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "IP Cam/Webcam:": "IP cam",
+        "鏡頭移動角度:": "Pan:0° ~360°, Tilt:0° ~90°, Rotation:0° ~360°",
+        "連接介面:": "LAN",
+        "尺寸:": "244.1 × 79 × 75.9mm",
+        "重量:": "815g"
+    },
+    {
+        "names": "VIVOTEK 2MP 槍型網路攝影機 IP9167-HT (2.8-10mm)",
+        "rating": "",
+        "hon_price_min": "3,470",
+        "hon_price_max": "3,480",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "10 Base-T/100 Base-TX Ethernet (RJ-45)",
+        "尺寸:": "188 x 70 x 61mm",
+        "重量:": "660g"
+    },
+    {
+        "names": "FOSCAM 超清2K網絡攝影機 SD4",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,150",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Pan: 350° & Tilt: 90°",
+        "連接介面:": "WiFi , Lan",
+        "尺寸:": "180 x 111 x 180mm",
+        "重量:": "1000g"
+    },
+    {
+        "names": "Blink Outdoor Floodlight Cam (3rd Gen) 戶外家居智能攝像頭連泛光燈",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "IP Cam/Webcam:": "IP Cam / Outdoor Smart Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "71 x 71 x 31mm (Camera) & 140 x 263 x 97mm (Floodlight)",
+        "重量:": "48g"
+    },
+    {
+        "names": "Reolink Argus PT D (Dual-Band) H.265 2K 真無線雙頻戶外防水P/T電池 IP Camera",
+        "rating": "",
+        "hon_price_min": "1,276",
+        "hon_price_max": "1,378",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "98 x 112mm",
+        "重量:": "470g"
+    },
+    {
+        "names": "Eufy eufyCam Solar Panel Charger",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Phottix 4K Ultra HD Webcam 網路攝錄機 PC60",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 2.0",
+        "尺寸:": "56 x 90 x 54mm",
+        "重量:": "110g"
+    },
+    {
+        "names": "Dahua 大華 IPC-HFW4239T-ASE",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "無線/有線:": "無線",
+        "連接介面:": "RJ-45",
+        "尺寸:": "244.1 x 79 x 75.9mm"
+    },
+    {
+        "names": "Hikvision 海康威視 DS-7804N-E1/4P 4CH 1080P H.265 NVR SYSTEM",
+        "rating": "",
+        "hon_price_min": "1,860",
+        "hon_price_max": "1,888"
+    },
+    {
+        "names": "Dahua 大華 2MP Lite IR Fixed-focal Dome Network Camera IPC-HDBW2231E-S-S2",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "330",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "POE",
+        "尺寸:": "81 x 109.9mm",
+        "重量:": "350g"
+    },
+    {
+        "names": "Dahua 大華 4MP WIFI IP Cam IPC-K42P",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600",
+        "IP Cam/Webcam:": "IP Cam",
+        "解像度:": "2560 x 1440",
+        "連接介面:": "WiFi, LAN"
+    },
+    {
+        "names": "BenQ 20倍變焦會議攝影機 DVY23",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "13,999",
+        "IP Cam/Webcam:": "IP Cam",
+        "變焦:": "Optical: 20x / Digital: 10x",
+        "鏡頭移動角度:": "Pan: ±170° / Tilt: -30°-90°",
+        "尺寸:": "150 x 181 x 116mm"
+    },
+    {
+        "names": "Reolink Go PT 100%真無線4G LTE戶外防水P/T電池IP Camera連太陽能板",
+        "rating": "10",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,428",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "Horizontal: 355°  Vertical: 140°",
+        "連接介面:": "4G LTE",
+        "尺寸:": "98 x 112mm",
+        "重量:": "485g"
+    },
+    {
+        "names": "VIVOTEK 子彈型網路攝影機 IB8379-H",
+        "rating": "",
+        "hon_price_min": "940",
+        "hon_price_max": "949",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "LAN",
+        "尺寸:": "72 x 300mm",
+        "重量:": "1010g"
+    },
+    {
+        "names": "Hikvision 海康威視 DS-2CD2632F-IS",
+        "rating": "",
+        "hon_price_min": "1,820",
+        "hon_price_max": "1,820",
+        "water_price_min": "1,820",
+        "water_price_max": "1,820"
+    },
+    {
+        "names": "AVerMedia 4K Conferencing Camera CAM540",
+        "rating": "",
+        "hon_price_min": "12,300",
+        "hon_price_max": "12,600",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB",
+        "尺寸:": "97.8 x 130.7 x 171.1mm",
+        "重量:": "1500g"
+    },
+    {
+        "names": "BenQ 4K Digital Zoom Conference Camera DVY22",
+        "rating": "",
+        "hon_price_min": "6,988",
+        "hon_price_max": "6,999",
+        "IP Cam/Webcam:": "Webcam",
+        "連接介面:": "USB 3.0",
+        "尺寸:": "56 x 220 x 93mm",
+        "重量:": "530g"
+    },
+    {
+        "names": "FOSCAM 無線2K智能網路攝影機 X3",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "480",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi, LAN",
+        "尺寸:": "83 x 76 x 114mm",
+        "重量:": "206g"
+    },
+    {
+        "names": "SwitchBot Indoor Cam 智能監控器",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "320",
+        "IP Cam/Webcam:": "IP Cam",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Arlo Ultra 無線網絡攝影機 3 鏡套裝 (VMS5340)",
+        "rating": "",
+        "hon_price_min": "7,880",
+        "hon_price_max": "8,288",
+        "IP Cam/Webcam:": "IP Cam",
+        "連接介面:": "WiFi",
+        "尺寸:": "89 x 52 x 78.4mm",
+        "重量:": "331g"
+    },
+    {
+        "names": "Logitech C615",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "600",
+        "water_price_min": "320",
+        "water_price_max": "438",
+        "IP Cam/Webcam:": "Webcam",
+        "解像度:": "1920 x 1080",
+        "連接介面:": "USB 2.0"
+    },
+    {
+        "names": "Nest Cam",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,199",
+        "water_price_min": "1,360",
+        "water_price_max": "1,800",
+        "IP Cam/Webcam:": "IP Cam",
+        "鏡頭移動角度:": "130",
+        "連接介面:": "802.11 a/b/g/n @ 2.4GHz, 5GHz Bluetooth Low Energy (BLE)",
+        "尺寸:": "11.4 H x 7.3 W x 7.3 D",
+        "重量:": "203g"
+    }
+]

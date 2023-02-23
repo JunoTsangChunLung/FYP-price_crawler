@@ -1,0 +1,3562 @@
+[
+    {
+        "names": "Philips 飛利浦 Sonicare 9900 Prestige 智能感應聲波電動牙刷 HX9996",
+        "rating": "9.2",
+        "hon_price_min": "1,800",
+        "hon_price_max": "2,498",
+        "water_price_min": "699",
+        "water_price_max": "2,280",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Cordless Power Flosser 3000 X型四向水流牙線機 HX3806",
+        "rating": "9.0",
+        "hon_price_min": "710",
+        "hon_price_max": "850",
+        "water_price_min": "640",
+        "water_price_max": "700",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Panasonic 樂聲 充電式水牙線 EW-1513",
+        "rating": "9.1",
+        "hon_price_min": "698",
+        "hon_price_max": "890",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Future Lab Cold White 冷光白齒刷",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean Smart 9500 聲波電動牙刷 HX9924",
+        "rating": "9.7",
+        "hon_price_min": "1,330",
+        "hon_price_max": "2,182",
+        "water_price_min": "699",
+        "water_price_max": "1,180",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "分段時間提示及兩分鐘計時器"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4300 聲波震動牙刷 HX6808",
+        "rating": "8.7",
+        "hon_price_min": "450",
+        "hon_price_max": "558",
+        "water_price_min": "299",
+        "water_price_max": "420",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B iO Series 9 智能電動牙刷 (特別版粉蝶藍)",
+        "rating": "9.5",
+        "hon_price_min": "1,655",
+        "hon_price_max": "2,598",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite 聲波震動牙刷 HX6730",
+        "rating": "8.9",
+        "hon_price_min": "450",
+        "hon_price_max": "780",
+        "water_price_min": "350",
+        "water_price_max": "470",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "2分鐘計時器"
+    },
+    {
+        "names": "Oral-B Pro 4 充電電動牙刷",
+        "rating": "9.2",
+        "hon_price_min": "438",
+        "hon_price_max": "598",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B iO Series 9 智能電動牙刷",
+        "rating": "9.2",
+        "hon_price_min": "1,655",
+        "hon_price_max": "2,180",
+        "water_price_min": "1,499",
+        "water_price_max": "1,750",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "內置2分鐘象限計時器每30秒顫動一次"
+    },
+    {
+        "names": "Xiaomi 小米 聲波電動牙刷 T700",
+        "rating": "10",
+        "hon_price_min": "560",
+        "hon_price_max": "599",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean Smart 9700 聲波震動牙刷 HX9954",
+        "rating": "9.3",
+        "hon_price_min": "1,560",
+        "hon_price_max": "2,234",
+        "water_price_min": "699",
+        "water_price_max": "1,380",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "分段時間提示及兩分鐘計時器"
+    },
+    {
+        "names": "Oral-B Pro 1 電動牙刷",
+        "rating": "9.6",
+        "hon_price_min": "290",
+        "hon_price_max": "360",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "種類:": "旋轉式",
+        "牙刷頭轉速(每分鐘):": "28800轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4100 聲波震動牙刷 HX6812",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "570",
+        "water_price_min": "299",
+        "water_price_max": "420",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Future Lab OCare Clean 藍氧洗牙機",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "350",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4100 聲波震動牙刷 HX6812",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "570",
+        "water_price_min": "299",
+        "water_price_max": "420",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 2100 Series 聲波震動牙刷 HX2421",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "350",
+        "water_price_max": "499",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B iO Series 9 智能電動牙刷 (特別版粉蝶藍)",
+        "rating": "9.5",
+        "hon_price_min": "1,655",
+        "hon_price_max": "2,598",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B iO Series 5 充電電動牙刷",
+        "rating": "10",
+        "hon_price_min": "1,398",
+        "hon_price_max": "1,450",
+        "water_price_min": "899",
+        "water_price_max": "1,140",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "XPower 便攜式水牙線 WF1",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "178",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B iO Series 8 智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,619",
+        "hon_price_max": "2,500",
+        "water_price_min": "1,299",
+        "water_price_max": "1,580",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B 2D 電動牙刷 D100",
+        "rating": "9.3",
+        "hon_price_min": "168",
+        "hon_price_max": "249",
+        "water_price_min": "140",
+        "water_price_max": "140",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "2分鐘計時器"
+    },
+    {
+        "names": "Panasonic 樂聲 充電式水牙線 (輕便型) EW-DJ40",
+        "rating": "10",
+        "hon_price_min": "340",
+        "hon_price_max": "460",
+        "water_price_min": "280",
+        "water_price_max": "299",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Pro 4 充電電動牙刷",
+        "rating": "9.2",
+        "hon_price_min": "438",
+        "hon_price_max": "598",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B Smart Series SS5000 充電電動牙刷",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean Smart 9700 聲波震動牙刷 HX9954",
+        "rating": "9.3",
+        "hon_price_min": "1,560",
+        "hon_price_max": "2,234",
+        "water_price_min": "699",
+        "water_price_max": "1,380",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "分段時間提示及兩分鐘計時器"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 充電式聲波震動牙刷 HX9352",
+        "rating": "10",
+        "hon_price_min": "900",
+        "hon_price_max": "1,599",
+        "water_price_min": "680",
+        "water_price_max": "920",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare EasyClean 充電式聲波震動牙刷 HX6512",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 標準刷頭組合套裝 HX9073",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "284",
+        "water_price_min": "220",
+        "water_price_max": "250",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Xiaomi 小米 電動沖牙器 MEO701",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "399",
+        "water_price_min": "288",
+        "water_price_max": "320",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B iO Ultimate Clean 刷頭 (4支裝)",
+        "rating": "10",
+        "hon_price_min": "378",
+        "hon_price_max": "398",
+        "water_price_min": "328",
+        "water_price_max": "388",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 5100 聲波震動牙刷 HX6853",
+        "rating": "9.1",
+        "hon_price_min": "580",
+        "hon_price_max": "787",
+        "water_price_min": "450",
+        "water_price_max": "620",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Soocas 素士 聲波震牙刷 X3U",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "water_price_min": "328",
+        "water_price_max": "360",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B iO Series 6 磁動牙刷",
+        "rating": "8.8",
+        "hon_price_min": "960",
+        "hon_price_max": "1,080",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 9000 聲波震動牙刷 HX9912",
+        "rating": "",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,779",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 標準聲波牙刷刷頭 HX6063",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "288",
+        "water_price_min": "150",
+        "water_price_max": "190",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Trisa 瑞莎 Sonic Performance 電動牙刷",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "40000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4300 聲波震動牙刷 HX6809",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "699",
+        "water_price_min": "299",
+        "water_price_max": "440",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 5100 聲波震動牙刷 HX6856",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "787",
+        "water_price_min": "450",
+        "water_price_max": "620",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "四段時間提示與智能計時器"
+    },
+    {
+        "names": "Panasonic 樂聲 充電式水牙線 EW-1211",
+        "rating": "8.3",
+        "hon_price_min": "340",
+        "hon_price_max": "448",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4300 聲波震動牙刷 HX6803",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "598",
+        "water_price_min": "299",
+        "water_price_max": "420",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 6100 聲波震動牙刷 HX6877",
+        "rating": "",
+        "water_price_min": "550",
+        "water_price_max": "800",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "2分鐘"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 標準聲波牙刷刷頭 (8支裝) HX6068",
+        "rating": "8.0",
+        "hon_price_min": "350",
+        "hon_price_max": "440",
+        "water_price_min": "270",
+        "water_price_max": "370",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 充電式水牙線 EW-1411",
+        "rating": "8.5",
+        "hon_price_min": "420",
+        "hon_price_max": "530",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 聲波震動牙刷頭 (4支裝) HX9024",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "water_price_min": "180",
+        "water_price_max": "268",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B iO Ultimate Clean 刷頭 (4支裝)",
+        "rating": "10",
+        "hon_price_min": "378",
+        "hon_price_max": "398",
+        "water_price_min": "328",
+        "water_price_max": "388",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 電動聲波震動牙刷 EW-DC12",
+        "rating": "",
+        "water_price_min": "798",
+        "water_price_max": "798",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B Genius X Limited Black Edition 電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "water_price_min": "799",
+        "water_price_max": "1,100",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oclean 智能音波電動牙刷 Z1",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "water_price_min": "328",
+        "water_price_max": "368",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "40000轉"
+    },
+    {
+        "names": "Oral-B iO Series 8 智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,619",
+        "hon_price_max": "2,500",
+        "water_price_min": "1,299",
+        "water_price_max": "1,580",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 9000 聲波震動牙刷 HX9912",
+        "rating": "",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,779",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Codes Codes 潔齒水牙線機",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "499",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Waterpik 潔碧 Ultra Professional Water Flosser 水牙線 WP-660UK",
+        "rating": "9.3",
+        "water_price_min": "760",
+        "water_price_max": "790",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 2000 Series 充電式聲波震動牙刷 HX2431",
+        "rating": "",
+        "water_price_min": "278",
+        "water_price_max": "288",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Genius 9000 智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,540",
+        "water_price_min": "699",
+        "water_price_max": "950",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 3600 Series 充電式聲波震動牙刷 HX2461",
+        "rating": "",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Panasonic 樂聲 電池式水牙線 (輕便型) EW-DJ11",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "398",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 充電式聲波震動牙刷 HX9332",
+        "rating": "8.3",
+        "hon_price_min": "900",
+        "hon_price_max": "1,580",
+        "water_price_min": "599",
+        "water_price_max": "890",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 6100 聲波震動牙刷 HX6871",
+        "rating": "8.3",
+        "hon_price_min": "799",
+        "hon_price_max": "1,434",
+        "water_price_min": "550",
+        "water_price_max": "799",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Usmile 音波震動牙刷 P1",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "299",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 聲波震動牙刷 HX6223",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "578",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "四段時間提示與智能計時器"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare W3 Premium White 標準型聲波牙刷刷頭 HX9063",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "284",
+        "water_price_min": "220",
+        "water_price_max": "250",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Yohome 可伸縮極淨電動水牙線",
+        "rating": "2.0",
+        "hon_price_min": "338",
+        "hon_price_max": "359",
+        "種類:": "水牙線",
+        "刷牙時間提示:": "2分鐘自動斷電"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DailyClean 1100 充電電動牙刷 HX3411",
+        "rating": "10",
+        "water_price_min": "250",
+        "water_price_max": "299",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare EasyClean 充電式聲波震動牙刷 HX6512",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Uniden 充電式水牙線 AP008BL",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 DailyClean 3100 Sonic Electric Toothbrush 聲波震動電動牙刷 HX6221",
+        "rating": "",
+        "water_price_min": "410",
+        "water_price_max": "410",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 聲波震動牙刷 HX9312",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,300",
+        "water_price_min": "599",
+        "water_price_max": "950",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Xiaomi 小米 米家聲波電動牙刷 T500",
+        "rating": "10",
+        "hon_price_min": "219",
+        "hon_price_max": "239",
+        "water_price_min": "178",
+        "water_price_max": "219",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Codes Codes 高效美白牙齒回轉式電動牙刷",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "種類:": "旋轉式",
+        "牙刷頭轉速(每分鐘):": "普通模式 9000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 5100 聲波震動牙刷 HX6850",
+        "rating": "8.0",
+        "hon_price_min": "600",
+        "hon_price_max": "660",
+        "water_price_min": "450",
+        "water_price_max": "620",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Panasonic 樂聲 聲波震動牙刷 EW-DA52",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,238",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "30秒及2分鐘刷牙時間提示"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 充電式聲波震動牙刷 HX9362",
+        "rating": "8.5",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,610",
+        "water_price_min": "599",
+        "water_price_max": "890",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare C1 ProResults 標準型聲波牙刷刷頭 HX6016",
+        "rating": "6.0",
+        "hon_price_min": "309",
+        "hon_price_max": "330",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 4200 Series 聲波震動牙刷 (LINE FRIENDS MEETS Philips 特別版) HX6801",
+        "rating": "10",
+        "hon_price_min": "608",
+        "hon_price_max": "768",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Aquacare 6 專業級無線水牙線",
+        "rating": "7.3",
+        "hon_price_min": "630",
+        "hon_price_max": "899",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Precision Clean 電動牙刷刷頭 (標準 10支裝) EB20-10",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "340",
+        "water_price_min": "250",
+        "water_price_max": "320",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 標準聲波牙刷刷頭 (8支裝) HX6068",
+        "rating": "8.0",
+        "hon_price_min": "350",
+        "hon_price_max": "440",
+        "water_price_min": "270",
+        "water_price_max": "370",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Usmile 大理石雙子聲波電動牙刷 U2S",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "699",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B CrossAction 多動向交叉刷頭 (4支裝) EB50",
+        "rating": "10",
+        "hon_price_min": "158",
+        "hon_price_max": "190",
+        "water_price_min": "90",
+        "water_price_max": "180",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 2100 Series 聲波震動牙刷 HX2421",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "350",
+        "water_price_max": "499",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Elite+ 聲波震動牙刷 HX3215",
+        "rating": "",
+        "water_price_min": "195",
+        "water_price_max": "250",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "E:Flash Me Flash 8億潔牙套裝 (藍光LED牙刷 + 美白牙膏 150g)",
+        "rating": "10",
+        "hon_price_min": "80",
+        "hon_price_max": "279",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DailyClean 2100 聲波震動電動牙刷 (孖裝) HX3212",
+        "rating": "",
+        "water_price_min": "450",
+        "water_price_max": "580",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B iO 深層清潔刷頭 (2支裝)",
+        "rating": "9.3",
+        "hon_price_min": "188",
+        "hon_price_max": "206",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 (蜘蛛俠) D100.413",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "178",
+        "water_price_max": "208",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Xiaomi 小米 Enpuly Mini Plus 升級版便攜式沖牙器",
+        "rating": "",
+        "water_price_min": "239",
+        "water_price_max": "239",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 標準刷頭組合套裝 HX9073",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "284",
+        "water_price_min": "220",
+        "water_price_max": "250",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 電池式兒童電動牙刷 DB4010",
+        "rating": "9.3",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "water_price_min": "68",
+        "water_price_max": "88",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare For Kids 標準型聲波牙刷刷頭 HX6042",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "178",
+        "water_price_min": "130",
+        "water_price_max": "150",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 可攜式水牙線 MDH20",
+        "rating": "2.0",
+        "hon_price_min": "629",
+        "hon_price_max": "798",
+        "water_price_min": "698",
+        "water_price_max": "698",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Soocas 素士 UVC紫外線滅菌聲波電動牙刷 D2",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "598",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare InterCare 精細型聲波牙刷刷頭  HX9013",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "228",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "LON10 集寶 無線U型兒童電動牙刷 VAN",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Panasonic 樂聲 聲波震動牙刷 EW-DL34",
+        "rating": "7.3",
+        "hon_price_min": "730",
+        "hon_price_max": "798",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "30秒及2分鐘刷牙時間提示"
+    },
+    {
+        "names": "Oral-B Sensi UltraThin 替換刷頭 EB60 (10支裝)",
+        "rating": "9.3",
+        "hon_price_min": "360",
+        "hon_price_max": "368",
+        "water_price_min": "280",
+        "water_price_max": "399",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B CrossAction 多動向交叉刷頭 (2支裝) EB50",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "120",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 充電式聲波震動牙刷 HX9312",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,606",
+        "water_price_min": "599",
+        "water_price_max": "990",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Panasonic 樂聲 雙重聲波震動牙刷 EW-DP52",
+        "rating": "10",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,525",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "30秒及2分鐘刷牙時間提示"
+    },
+    {
+        "names": "Soocas 素士 便攜香氛沖牙器 W1",
+        "rating": "",
+        "hon_price_min": "558",
+        "hon_price_max": "558",
+        "water_price_min": "558",
+        "water_price_max": "558",
+        "種類:": "水牙線",
+        "牙刷頭轉速(每分鐘):": "1300轉"
+    },
+    {
+        "names": "Panasonic 樂聲 充電式水牙線 EW-1211",
+        "rating": "8.3",
+        "hon_price_min": "340",
+        "hon_price_max": "448",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷刷頭 EB10-4K",
+        "rating": "10",
+        "hon_price_min": "160",
+        "hon_price_max": "170",
+        "water_price_min": "100",
+        "water_price_max": "140",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare W2 Optimal White 標準型聲波牙刷刷頭 (3支裝) HX6063",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "284",
+        "water_price_min": "150",
+        "water_price_max": "178",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 (冰雪奇緣) D100.413",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "288",
+        "water_price_min": "178",
+        "water_price_max": "198",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oclean X 智能彩色觸控螢幕聲波電動牙刷",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "599",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B CrossAction 多動向交叉刷頭 (10支裝) EB50 XXXL Pack",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "water_price_min": "310",
+        "water_price_max": "330",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B CrossAction 多動向交叉刷頭 (10支裝) EB50",
+        "rating": "10",
+        "hon_price_min": "338",
+        "hon_price_max": "380",
+        "water_price_min": "280",
+        "water_price_max": "360",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare For Kid 聲波震動兒童牙刷 HX6352",
+        "rating": "",
+        "water_price_min": "360",
+        "water_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 One by Sonicare 電動牙刷 HY1200",
+        "rating": "",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Braun 百靈 Oral-B PRO1000 電動牙刷 D205132M",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "Yes"
+    },
+    {
+        "names": "Oral-B Precision Clean  彈性軟毛刷頭 (4支裝) EB20",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "180",
+        "water_price_min": "110",
+        "water_price_max": "160",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Waterpik 潔碧 Ultra Professional Water Flosser 水牙線 WP-667UK",
+        "rating": "",
+        "water_price_min": "770",
+        "water_price_max": "820",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Raldmoyer 座枱式水牙線機 AP100",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss 充電式牙縫清潔機 HX8211",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "748",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Soocas 素士 便攜式沖牙器 W3",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "388",
+        "water_price_min": "260",
+        "water_price_max": "299",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "DentiSmile 8500 Ultra Power Toothbrush 電動牙刷",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "種類:": "旋轉式",
+        "牙刷頭轉速(每分鐘):": "8500轉"
+    },
+    {
+        "names": "Yameida 隨身沖牙器 CY-001",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B CrossAction 8er set 替換刷頭套裝",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "310",
+        "water_price_min": "288",
+        "water_price_max": "300",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Pro2 2000 3D 電動牙刷",
+        "rating": "10",
+        "hon_price_min": "328",
+        "hon_price_max": "340",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 HealthyWhite+ 聲波震動牙刷 HX8981",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare C3/G3/W3 牙刷刷頭 (6支裝) HX9076",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "water_price_min": "430",
+        "water_price_max": "440",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4300 充電式聲波震動牙刷 HX6806",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "420",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "realme 電動牙刷 N1",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "199",
+        "water_price_min": "68",
+        "water_price_max": "99",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "20000轉"
+    },
+    {
+        "names": "Soocas 素士 全能水牙線機 W3 Pro",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "469",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 充電式聲波震動牙刷 HX9361",
+        "rating": "10",
+        "water_price_min": "599",
+        "water_price_max": "860",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Elite+ 充電式聲波震動牙刷 HX3714",
+        "rating": "10",
+        "water_price_min": "250",
+        "water_price_max": "318",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 (迪士尼公主) D100.413",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "178",
+        "water_price_max": "198",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Floss Action 牙線效果型刷頭 (3支裝) EB25",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "water_price_min": "120",
+        "water_price_max": "140",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Sunuo 智能可視超聲波潔牙儀 T12 Pro",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "358",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Panasonic 樂聲 聲波震動牙刷 EW-DL82",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "718",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Minnie Mouse 米妮老鼠",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Oral-B Genius X G20000 AI智能電動牙刷 Luxe Edition",
+        "rating": "8.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,890",
+        "water_price_min": "788",
+        "water_price_max": "1,188",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 AdaptiveClean 標準聲波牙刷刷頭 HX9043",
+        "rating": "10",
+        "hon_price_min": "240",
+        "hon_price_max": "288",
+        "water_price_min": "218",
+        "water_price_max": "228",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 聲波震動牙刷 EW-DM81",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "410",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Sensi UltraThin 替換刷頭 EB60 (2支裝)",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "120",
+        "water_price_min": "80",
+        "water_price_max": "150",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare For Kid 聲波震動牙刷 HX6322",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "672",
+        "water_price_min": "360",
+        "water_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Genius 10000 智能電動牙刷",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,380",
+        "water_price_min": "880",
+        "water_price_max": "1,280",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Colgate 高露潔 便携式水牙線機",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "569",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4100 聲波電動牙刷 HX6815",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "water_price_min": "299",
+        "water_price_max": "599",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean Smart 聲波震動牙刷 HX9901",
+        "rating": "10",
+        "water_price_min": "599",
+        "water_price_max": "1,260",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B Smart 5 5000 電動牙刷",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean Smart 聲波震動牙刷 HX9903",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "water_price_min": "888",
+        "water_price_max": "1,280",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProResults 白色標準型聲波牙刷刷頭 (8支裝) HX6018",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "350",
+        "water_price_min": "330",
+        "water_price_max": "350",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 聲波震動離子牙刷 EW-DE92",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "1,059",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss 牙縫噴嘴 HX8012",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "98",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite 音波震動牙刷 HX6721",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "498",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 標準聲波牙刷刷頭 (6支裝) HX6066",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "435",
+        "water_price_min": "298",
+        "water_price_max": "308",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 輕巧聲波牙刷刷頭 (8支裝)  HX6078",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Future Lab Cold White 刷頭補充裝 - 軟毛 (3個裝)",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 電動牙刷替換柔軟刷頭 (8支裝) EB20-8",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "280",
+        "water_price_min": "190",
+        "water_price_max": "260",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss Pro/Ultra 牙縫清潔機 HX8331",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "848",
+        "water_price_min": "499",
+        "water_price_max": "620",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare G3 Premium Gum Care 牙齦護理牙刷頭 (4支裝) HX9054",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "278",
+        "water_price_max": "299",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 輕巧聲波牙刷刷頭 (4支裝)  HX6074",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Usmile 泡泡聲波電動牙刷 P4",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Future Lab Cold White 刷頭補充裝 - 硬毛 (3個裝)",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Rilakkuma Korilakkuma 鬆弛熊 小白熊",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Raldmoyer 無線型沖牙器 CF100",
+        "rating": "10",
+        "hon_price_min": "289",
+        "hon_price_max": "498",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Raldmoyer 6段壓力磁吸充電無線型沖牙器 AT120",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "599",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProResults 標準型聲波牙刷刷頭 HX6013",
+        "rating": "10",
+        "hon_price_min": "178",
+        "hon_price_max": "235",
+        "water_price_min": "170",
+        "water_price_max": "219",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oclean X Pro 智能彩色觸控螢幕音波電動牙刷",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "798",
+        "water_price_min": "460",
+        "water_price_max": "798",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "42000轉"
+    },
+    {
+        "names": "Soocas 素士 法式復古水牙線機 W3F",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "568",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 AdaptiveClean 標準型聲波牙刷刷頭 (4支裝) HX9044",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "239",
+        "water_price_max": "299",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Braun Precision Heads 8-Pack 電動牙刷替換刷頭 (8支裝) EB20-8",
+        "rating": "8.0",
+        "hon_price_min": "200",
+        "hon_price_max": "280",
+        "water_price_min": "175",
+        "water_price_max": "260",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare TongueCare+ 智能舌苔清潔刷頭 HX8072",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "145",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite 聲波震動牙刷 HX6711",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "699",
+        "water_price_min": "398",
+        "water_price_max": "499",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite 聲波震動牙刷 HX6732",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "869",
+        "water_price_min": "499",
+        "water_price_max": "650",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Trisa 瑞莎 Sonic Professional 專業聲波電動牙刷 (充電)",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "469",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "每30秒短停頓,2分鐘停止"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷刷頭 EB10-2K",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "100",
+        "water_price_min": "60",
+        "water_price_max": "90",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 Pocket 牙刷 EW-DS13",
+        "rating": "",
+        "hon_price_min": "203",
+        "hon_price_max": "238",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Usmile 聲波電動牙刷 Y1S",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "549",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare InterCare 標準型聲波牙刷刷頭 HX9003",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "248",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B iBrush 9000 電動牙刷",
+        "rating": "7.5",
+        "water_price_min": "550",
+        "water_price_max": "838",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 4200 Series 聲波震動牙刷 HX6801",
+        "rating": "",
+        "hon_price_min": "608",
+        "hon_price_max": "768",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 D12.513K",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "238",
+        "water_price_min": "158",
+        "water_price_max": "188",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "2分鐘"
+    },
+    {
+        "names": "SALOVE 懶人全自動U型電動牙刷",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 標準聲波牙刷刷頭 (4支裝) HX6064",
+        "rating": "",
+        "hon_price_min": "206",
+        "hon_price_max": "280",
+        "water_price_min": "158",
+        "water_price_max": "225",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Genius 8000 Electric Rechargeable Toothbrush 智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,200",
+        "water_price_min": "580",
+        "water_price_max": "999",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Floss Action 牙線效果型刷頭 (4支裝) EB25",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "210",
+        "water_price_min": "130",
+        "water_price_max": "150",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Xiaomi 小米 米家聲波電動牙刷 T300",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "230",
+        "water_price_min": "169",
+        "water_price_max": "180",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Sensi UltraThin 替換刷頭 EB60 (4支裝)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "178",
+        "water_price_min": "130",
+        "water_price_max": "168",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Xpower 深層潔齒水牙線 YC118",
+        "rating": "",
+        "hon_price_min": "193",
+        "hon_price_max": "238",
+        "種類:": "水牙線",
+        "刷牙時間提示:": "2分鐘自動關機"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 聲波震動牙刷頭 (4支裝) HX9024/07",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "water_price_min": "180",
+        "water_price_max": "199",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 電池式水牙線 EW-DJ10",
+        "rating": "9.7",
+        "hon_price_min": "260",
+        "hon_price_max": "349",
+        "water_price_min": "238",
+        "water_price_max": "239",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Pro 500 3D Action 電動牙刷",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - 鬆弛熊 黃色",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite+ 聲波震動牙刷 HX8962",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "970",
+        "water_price_min": "399",
+        "water_price_max": "550",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 兒童充電電動牙刷 (米奇老鼠) D10.513",
+        "rating": "10",
+        "hon_price_min": "269",
+        "hon_price_max": "280",
+        "water_price_min": "180",
+        "water_price_max": "220",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 9000 聲波震動牙刷 (孖裝) HX9914/81",
+        "rating": "",
+        "water_price_min": "1,299",
+        "water_price_max": "1,299",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Elite+ 聲波震動牙刷 HX3216",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "328",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Usmile 雲護超聲波沖牙器 CY1",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "599",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 清除牙菌膜牙刷刷頭 (3支裝) HX9023",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "260",
+        "water_price_min": "149",
+        "water_price_max": "175",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 Pocket 牙刷 EW-DS11",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "218",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "16000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare FlexCare+ 充電式聲波震動牙刷 HX6972",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,325",
+        "water_price_min": "599",
+        "water_price_max": "860",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B Genius 8000 White 智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "water_price_min": "550",
+        "water_price_max": "580",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 6100 聲波電動牙刷 HX6897",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,454",
+        "water_price_min": "550",
+        "water_price_max": "800",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite 音波震動牙刷 HX6762",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "749",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B Frozen 兒童電動牙刷 (魔雪奇緣)",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "440",
+        "water_price_min": "180",
+        "water_price_max": "198",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 F3 Quad Stream Nozzle X 型四向水流噴嘴套裝 (2支) HX3062",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "250",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Sensi UltraThin 超細毛護齦刷頭",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "180",
+        "water_price_min": "158",
+        "water_price_max": "168",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare i InterCare 標準刷頭 (4支裝) HX9004",
+        "rating": "",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 ProResults 輕巧聲波牙刷刷頭 (1件裝) HX6021",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "112",
+        "water_price_min": "70",
+        "water_price_max": "70",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Genius 10000N 智能電動牙刷 (Rose Gold)",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,380",
+        "water_price_min": "880",
+        "water_price_max": "1,280",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Hello Kitty",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Oral-B Pro 600 3D 智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "240",
+        "water_price_max": "249",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Brush Monster 兒童智能牙刷",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Panasonic 樂聲 攜帶式超音波電動牙刷 EW-DS32",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "238",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "12000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 震動脈衝沖牙器 HX3331",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "water_price_min": "499",
+        "water_price_max": "560",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare FlexCare Platinum 聲波震動牙刷 HX9172",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,449",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss Ultra 牙縫噴嘴 (2支裝) HX8032",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "110",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss Ultra 牙縫噴嘴 HX8032",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "130",
+        "water_price_min": "130",
+        "water_price_max": "130",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Pro 970 3D Action sensi UltraThin 電動牙刷",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss Pro/ Ultra-Interdental Cleaner 水牙線 HX8632",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "690",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Pearl Garden 電動沖牙器 鋰電版",
+        "rating": "",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Elite+ 音波震動牙刷 HX3226",
+        "rating": "10",
+        "water_price_min": "250",
+        "water_price_max": "318",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 電動牙刷及牙縫清潔機套裝 HX8491",
+        "rating": "",
+        "water_price_min": "978",
+        "water_price_max": "978",
+        "種類:": "聲波震動式,水牙線"
+    },
+    {
+        "names": "Oclean 智慧活氧氣動沖牙機 W1",
+        "rating": "",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,088",
+        "water_price_min": "480",
+        "water_price_max": "1,088",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Xiaomi 小米 米家聲波電動牙刷 T100",
+        "rating": "",
+        "water_price_min": "50",
+        "water_price_max": "99",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "每30秒換區提醒, 2分鐘自動停止"
+    },
+    {
+        "names": "Philips 飛利浦 Replacement Brush Heads 輕巧型牙刷刷頭 (4支裝) HX6024",
+        "rating": "10",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "water_price_min": "89",
+        "water_price_max": "99",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Xiaomi 小米 素諾智能可視超聲波去牙結石潔牙儀 T11 Pro",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "798",
+        "water_price_min": "349",
+        "water_price_max": "698",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4300 聲波震動牙刷 HX6800",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "498",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 3 Series 聲波震動牙刷 HX6616",
+        "rating": "",
+        "water_price_min": "450",
+        "water_price_max": "499",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Pro 5000 電動充電牙刷",
+        "rating": "",
+        "water_price_min": "860",
+        "water_price_max": "860",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProResults 標準型音波震動牙刷刷頭 HX9033",
+        "rating": "",
+        "hon_price_min": "183",
+        "hon_price_max": "235",
+        "water_price_min": "149",
+        "water_price_max": "185",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "MSME 納米聲波智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "30秒換區提醒, 智能計時2分鐘"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 6100 聲波震動牙刷 HX6870",
+        "rating": "",
+        "water_price_min": "550",
+        "water_price_max": "780",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Waterpik 潔碧 水牙線 WP-660EU",
+        "rating": "10",
+        "water_price_min": "760",
+        "water_price_max": "999",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B 特軟刷頭 (2支裝) EBS17",
+        "rating": "10",
+        "hon_price_min": "78",
+        "hon_price_max": "130",
+        "water_price_min": "90",
+        "water_price_max": "99",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 Pocket 牙刷 W-DS13",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "230",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "16000轉"
+    },
+    {
+        "names": "Redbox 高檔多功能沖牙洗牙機 W06-MINI",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Panasonic 樂聲 充電式水牙線 (輕便型) EW-DJ31",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "510",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Waterpik 潔碧 Ultra Professional Water Flosser 水牙線 WP-662UK",
+        "rating": "10",
+        "water_price_min": "760",
+        "water_price_max": "780",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 W3 Premium White 替換刷頭 (4支裝) HX9064",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "358",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "IB 2 in 1 Electric Tooth Brush Smart Tartar, Calculus, Plaque Remover Oral Care Kit 2合1電動牙刷潔牙器口腔護理套裝",
+        "rating": "10",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Trizone 2000 電動牙刷 T2000",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "440",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Professional Care P2000 電動牙刷",
+        "rating": "10",
+        "hon_price_min": "310",
+        "hon_price_max": "330",
+        "water_price_min": "280",
+        "water_price_max": "330",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Waterpik 潔碧 Cordless Advanced Water Flosser WP-560",
+        "rating": "",
+        "water_price_min": "770",
+        "water_price_max": "828",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ExpertClean 7300系列專業聲波電動牙刷 HX9601",
+        "rating": "",
+        "water_price_min": "550",
+        "water_price_max": "699",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Sensitive Clean 柔和敏感型刷頭 (1支裝) EB17",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "50",
+        "water_price_min": "40",
+        "water_price_max": "45",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Apiyoo x Pokémon 比卡超聲波電動牙刷",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "568",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare EasyClean 電動牙刷 HX6526",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "每2分鐘清潔提示"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 2 Series Plaque Control 清除牙菌膜音波震動牙刷 HX6231",
+        "rating": "10",
+        "hon_price_min": "385",
+        "hon_price_max": "508",
+        "water_price_min": "299",
+        "water_price_max": "360",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss Ultra 牙縫噴嘴 HX8032",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "130",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "V-White 超聲波電動免提牙刷 SA-VW-520",
+        "rating": "2.0",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss Pro/Ultra 水牙線 HX8432",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "699",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Waterpik 潔碧 成人納米聲波電動牙刷 (單支裝) AT-50E2",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 彈性軟毛刷頭 (5支裝) EB20-5",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "180",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Cross Action 替換刷頭 黑色 (8支裝) EB50",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "340",
+        "water_price_min": "220",
+        "water_price_max": "330",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare For Kids 聲波震動牙刷  HX6311",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "555",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Ashmore NIYA 電動潔牙儀 (附光觸媒牙膏)",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "water_price_min": "638",
+        "water_price_max": "638",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - 鬆弛熊 粉紅色",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare EasyClean 聲波電動牙刷 HX6551",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Sensitive 標準聲波牙刷刷頭 HX6053",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "238",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 音波纖柔電動牙刷 S15523.2",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "560",
+        "water_price_min": "399",
+        "water_price_max": "440",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Braun 百靈 比卡超電動牙刷",
+        "rating": "",
+        "water_price_min": "208",
+        "water_price_max": "208",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7600轉"
+    },
+    {
+        "names": "Oclean 智能音波電動牙刷 F1 套裝版 ( (刷頭 x 2, 旅行盒)",
+        "rating": "",
+        "hon_price_min": "354",
+        "hon_price_max": "354",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "36000轉"
+    },
+    {
+        "names": "Oral-B 3D White 美白刷頭 (4支裝) EB18",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "200",
+        "water_price_min": "138",
+        "water_price_max": "180",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 清除牙菌膜牙刷刷頭 (6支裝) HX9023",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "380",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Waterpik 潔碧 Cordless Advanced Water Flosser 無線磁吸充電型水牙線機 WP-562EU",
+        "rating": "",
+        "water_price_min": "760",
+        "water_price_max": "809",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Professional Care 670 電動牙刷 (2支EB18牙刷頭)",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "149",
+        "water_price_min": "120",
+        "water_price_max": "130",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Panasonic 樂聲 電動聲波震動牙刷 (套裝) DML1",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 電動牙刷刷頭 WEW0908W",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "185",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Pearl Garden 300ml超大水箱或水管雙模式 充電式電動無線水牙線",
+        "rating": "",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B CrossAction 4er set 替換刷頭套裝",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "190",
+        "water_price_min": "160",
+        "water_price_max": "180",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Xiaomi 小米 Enpuly Mini 便攜式沖牙器",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "198",
+        "water_price_max": "199",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B 3D White 美白刷頭 (1支裝) EB18",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "110",
+        "water_price_min": "45",
+        "water_price_max": "110",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 聲波刷頭 (4支裝) SR32",
+        "rating": "8.0",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "water_price_min": "170",
+        "water_price_max": "170",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Rogic 光觸媒聲波震動牙刷T2 Ti02",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "738",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "兩小時"
+    },
+    {
+        "names": "Panasonic 樂聲 V型刷毛刷頭 EW-0910",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "55",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Disney Princess Battery Toothbrush 兒童電動牙刷 (迪士尼公主)",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7200轉"
+    },
+    {
+        "names": "Oral-B Pro 2500 CrossAction 充電式電動牙刷",
+        "rating": "8.0",
+        "hon_price_min": "340",
+        "hon_price_max": "430",
+        "water_price_min": "300",
+        "water_price_max": "330",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 (星球大戰) D100.413",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "298",
+        "water_price_min": "178",
+        "water_price_max": "198",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Vitality Precision Clean Electric Toothbrush 充電電動牙刷 D12",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "209",
+        "water_price_min": "148",
+        "water_price_max": "218",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Omron 音波電動牙刷 HT-B210",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 FlexCare Platinum 充電式牙刷 HX9172",
+        "rating": "",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,440",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare EasyClean 聲波震動式牙刷 HX6512",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "499",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare For Kids 標準型聲波牙刷刷頭 HX6044",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "water_price_min": "169",
+        "water_price_max": "239",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oclean Air 2 超靜音智慧音波電動牙刷",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "658",
+        "water_price_min": "328",
+        "water_price_max": "358",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "40000轉"
+    },
+    {
+        "names": "Roaman Mini 1 迷你型沖牙器",
+        "rating": "",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Raldmoyer 家用座枱式水牙線機 AOW04",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Waterpik 潔碧 無線水牙線 WF-02E",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare FlexCare 充電式聲波震動牙刷 HX6964",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Genius 9000 智能電動牙刷 紫色特別版",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,330",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B Genius 9000 智能電動牙刷 玫瑰金特別版",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,330",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B Precision Clean 彈性軟毛刷頭 (2支裝) EB20",
+        "rating": "10",
+        "hon_price_min": "65",
+        "hon_price_max": "179",
+        "water_price_min": "65",
+        "water_price_max": "65",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Lumio 可伸縮消毒電動牙刷 M20",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "599",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Genius 9000 Purple智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,330",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Elite 充電式聲波震動牙刷 Premium Edition HX5910",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Professional Care OxyJet 高效活氧沖牙機 OC20.565.3X",
+        "rating": "",
+        "water_price_min": "899",
+        "water_price_max": "899",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 3 Series Gum Health 聲波震動牙刷 HX6632",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "498",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite 聲波震動牙刷 HX6761",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "678",
+        "water_price_min": "380",
+        "water_price_max": "499",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "高達每分鐘 31,000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4100 聲波震動式牙刷 HX6817",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "water_price_min": "299",
+        "water_price_max": "599",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 成人超軟毛刷頭 EB17-2ES",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "180",
+        "water_price_min": "110",
+        "water_price_max": "180",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Braun 百靈 Oral-B 3D極淨導航電動牙刷 D34.535.5X",
+        "rating": "",
+        "hon_price_min": "1,018",
+        "hon_price_max": "1,018",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 聲波震動牙刷 HX6213",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "578",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Professional Care 6500 Waterjet 高效活氧沖牙機 MD16U",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Genius 9000 White 智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,330",
+        "water_price_min": "980",
+        "water_price_max": "999",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "yes"
+    },
+    {
+        "names": "Oral-B Genius 8900 智能電動牙刷 孖裝",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "999",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 3 Series Gum Health 充電式聲波震動牙刷 HX6631",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "520",
+        "water_price_min": "270",
+        "water_price_max": "299",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Replacement Brush Heads 標準型牙刷刷頭 (4支裝) HX6014",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "water_price_min": "69",
+        "water_price_max": "88",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Genius X Luxe Edition 電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "water_price_min": "799",
+        "water_price_max": "2,710",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B Vitality Trizone 精準清潔電動牙刷 (1機2支EB30刷頭) D12.523",
+        "rating": "",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 雙效潔淨刷頭2支裝 EB417",
+        "rating": "",
+        "water_price_min": "128",
+        "water_price_max": "128",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 兒童充電電動牙刷 (冰雪奇緣) D12.513",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "430",
+        "water_price_min": "148",
+        "water_price_max": "188",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Professional Care Pro 600 Power Brush 電動牙刷",
+        "rating": "",
+        "water_price_min": "249",
+        "water_price_max": "290",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Crest 聲波刷頭 SR32-4",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oclean 智能聲波電動牙刷 F1",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "36000轉"
+    },
+    {
+        "names": "Oral-B Professional Care SmartSeries 6500 電動充電牙刷",
+        "rating": "",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B CrossAction 多動向交叉刷頭 (8支裝) EB50",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "320",
+        "water_price_min": "220",
+        "water_price_max": "300",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Professional Care P4000 電動牙刷",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "2 mins"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Gum Health 電動牙刷 HX8991",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Philips 飛利浦 替換刷頭套裝 HX6004",
+        "rating": "",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare for Kids 聲波震動牙刷 HX6321",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "360",
+        "water_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 智能電動牙刷 P3000",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "399",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Elite+ 充電式聲波震動牙刷 HX3734",
+        "rating": "10",
+        "water_price_min": "260",
+        "water_price_max": "318",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare For Kids 精細型聲波牙刷刷頭 HX6032",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "178",
+        "water_price_min": "130",
+        "water_price_max": "138",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 水牙線機專用噴頭 (2支裝) EW-0955",
+        "rating": "10",
+        "hon_price_min": "40",
+        "hon_price_max": "50",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 聲波震動牙刷 HX6263",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "599",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "四段時間提示與智能計時器"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare F1 Standard Nozzle 水牙線機標準噴嘴 HX3042/00",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 聲波震動牙刷 HX9394",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare FlexCare+ 聲波震動牙刷 (Bonus Handle) HX6972",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Oral-B Professional Care SmartSeries 5000 電動充電牙刷",
+        "rating": "",
+        "water_price_min": "860",
+        "water_price_max": "860",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "支援"
+    },
+    {
+        "names": "Panasonic 樂聲 電動牙刷刷頭 WEW0982X",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "99",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 聲波震動牙刷刷頭替換裝 HX6014",
+        "rating": "",
+        "hon_price_min": "225",
+        "hon_price_max": "225",
+        "water_price_min": "219",
+        "water_price_max": "219",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B TriZone 替換智能刷頭 (2支裝) EB30",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 輕巧聲波牙刷刷頭 HX6073",
+        "rating": "",
+        "hon_price_min": "225",
+        "hon_price_max": "288",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B ProfessionalCare SmartSeries 4000 電動充電牙刷",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B 牙刷刷頭 EB182",
+        "rating": "",
+        "hon_price_min": "167",
+        "hon_price_max": "167",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Waterpik 潔碧 便攜式水牙線 WP-450EC",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "799",
+        "water_price_max": "809",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DailyClean Sonic Electric Toothbrush 聲波震動牙刷 HX3415",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 清除牙菌膜牙刷刷頭 (8支裝) HX9023",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B ProfessionalCare SmartSeries 5000 with SmartGuide 電動充電牙刷",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 電動牙刷刷頭 WEW0936",
+        "rating": "",
+        "hon_price_min": "96",
+        "hon_price_max": "106",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Sunuo 智能可視水牙線 SUN03W",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "inno3C 電子智能牙刷 T8",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "兩分鐘智能定時，智能四個區域更換提醒（每個區域約30秒）"
+    },
+    {
+        "names": "Oral-B Water Jet 洗牙器",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Flax T-Time 水素水牙線機 (連聲波震動牙刷)",
+        "rating": "",
+        "hon_price_min": "2,370",
+        "hon_price_max": "2,380",
+        "種類:": "聲波震動式,水牙線"
+    },
+    {
+        "names": "Oral-B 專業美白刷頭 (2支裝) EB18-2",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "149",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Genius 10000 鳶尾花紫智能電動牙刷",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,350",
+        "water_price_min": "880",
+        "water_price_max": "1,099",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B Pulsonic Slim 1100 聲波電動牙刷",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Floss Action 牙線效果型刷頭 (2支裝) EB25",
+        "rating": "10",
+        "hon_price_min": "100",
+        "hon_price_max": "148",
+        "water_price_min": "80",
+        "water_price_max": "90",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Sensitive Clean 柔和敏感型刷頭 (4支裝) EB17",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "water_price_min": "80",
+        "water_price_max": "160",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Platinum Black P7000 3D旋轉震動系列電動牙刷",
+        "rating": "8.7",
+        "hon_price_min": "1,110",
+        "hon_price_max": "1,110",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "inno3C 電子智能牙刷頭 T8",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Silk'n ToothWave 聲波射頻牙刷",
+        "rating": "",
+        "hon_price_min": "1,688",
+        "hon_price_max": "1,688",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B Pro 790 CrossAction 電動牙刷 (2支裝)",
+        "rating": "",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B 3D White 美白刷頭 (8支裝) EB18",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "320",
+        "water_price_min": "245",
+        "water_price_max": "300",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Trisa 瑞莎 Sonic Advanced 電動牙刷",
+        "rating": "",
+        "hon_price_min": "559",
+        "hon_price_max": "559",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Waterpulse 電動水牙線 V600",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Rilakkuma Chairoikoguma 鬆弛熊 茶小熊",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Trisa 瑞莎 Sonicpower Pro Interdental 牙齦專護電動牙刷 (電池)",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "15000轉"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 米奇特別版 DB10 513k",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "FOREO ISSA Mikro 智能電動矽膠牙刷",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B CrossAction 多動向交叉刷頭 EB50",
+        "rating": "10",
+        "hon_price_min": "30",
+        "hon_price_max": "65",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare ProtectiveClean 4100 聲波震動牙刷 HX6810",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "599",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "62000次轉"
+    },
+    {
+        "names": "Jack N' Jill 電動牙刷專用刷頭 (2個裝)",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Panasonic 樂聲 聲波震動牙刷 EWDL82/RP",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "722",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 聲波震動牙刷 HX9355",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "2分鐘計時器和4象限計時器"
+    },
+    {
+        "names": "Waterpik 潔碧 水牙線搭配聲波電動牙刷套裝 WP-861E",
+        "rating": "",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "種類:": "聲波震動式,水牙線",
+        "刷牙時間提示:": "每30秒共2分鐘四段時間提示"
+    },
+    {
+        "names": "SKARA 便攜潔齒電動水牙線",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B 牙齒矯正護理刷頭組合 OD17-2+IP17",
+        "rating": "",
+        "water_price_min": "158",
+        "water_price_max": "158",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Donald Duck 唐老鴨",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Elite+ 聲波震動牙刷",
+        "rating": "8.0",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "VIOlife Slim Sonic 超聲波電動牙刷",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "160",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "22000轉"
+    },
+    {
+        "names": "Waterpik 潔碧 Sidekick Water Flosser 水牙線機 WF-04CD010-1",
+        "rating": "",
+        "water_price_min": "1,099",
+        "water_price_max": "1,099",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Professional Care P600 電動牙刷",
+        "rating": "10",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "water_price_min": "249",
+        "water_price_max": "250",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 ProResults Gum Health 標準聲波牙刷刷頭 (6支裝) HX9033",
+        "rating": "",
+        "hon_price_min": "184",
+        "hon_price_max": "360",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B CrossAction 多動向交叉刷頭 (5支裝) EB50",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "240",
+        "water_price_min": "190",
+        "water_price_max": "240",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Genius 9000 Black智能電動牙刷",
+        "rating": "",
+        "hon_price_min": "1,160",
+        "hon_price_max": "1,330",
+        "water_price_min": "599",
+        "water_price_max": "650",
+        "種類:": "旋轉式",
+        "刷牙時間提示:": "yes"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Clean Plus 清除牙菌膜牙刷刷頭 (5支裝) HX9025",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Xiaomi 小米 米家聲波電動牙刷頭 (敏感型) 3支裝 MBS301",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 AirFloss 牙縫 - 充電式水牙線 HX8255",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "835",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare S 敏感牙齦和牙齒標準刷頭 (4支裝) HX6054",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Crest Slim LUXE 4000 聲波電動牙刷",
+        "rating": "8.0",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "2分鐘"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare G2 Optimal Gum Care 牙齦健康刷頭 (4支裝) HX9034",
+        "rating": "8.0",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 (HX3121 牙刷 + HX8211 airfloss) 套裝 HX8218",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "聲波震動式,水牙線"
+    },
+    {
+        "names": "Panasonic 樂聲 機座式水牙線 EW-1611",
+        "rating": "9.0",
+        "hon_price_min": "650",
+        "hon_price_max": "785",
+        "water_price_min": "590",
+        "water_price_max": "680",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 DB3000",
+        "rating": "",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "種類:": "旋轉式",
+        "牙刷頭轉速(每分鐘):": "9000轉"
+    },
+    {
+        "names": "Braun 百靈 Oral-B Pro 750 3D 旋轉振動電動牙刷",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "380",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 CleanCare 聲波電動牙刷 HX3212",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "299",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Waterpik 潔碧 Cordless Advanced Water Flosser 無線磁吸充電型水牙線機 WP-563EU",
+        "rating": "",
+        "water_price_min": "780",
+        "water_price_max": "800",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare For Kids 輕巧聲波牙刷刷頭 HX6034",
+        "rating": "10",
+        "hon_price_min": "269",
+        "hon_price_max": "269",
+        "water_price_min": "249",
+        "water_price_max": "249",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 3100系列聲波電動牙刷 HX3673",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Fairywill 聲波電動牙刷 FW-507",
+        "rating": "",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 電池式兒童電動牙刷 DB4.510",
+        "rating": "",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B Vitality Sensitive Clean 充電電動牙刷 D12.523S",
+        "rating": "",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "IB High Frequency Vibration Tooth Cleaner 高頻震動潔牙器",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Pulsonic Sensitive 替換刷頭 (4枝裝)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oclean One 智能聲波音波電動牙刷",
+        "rating": "",
+        "hon_price_min": "778",
+        "hon_price_max": "778",
+        "water_price_min": "478",
+        "water_price_max": "478",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "42000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare HealthyWhite 聲波震動牙刷 (配有 Diamondclean 刷頭) HX6732",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "950",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B TriZone 替換智能刷頭 (5支裝) EB30",
+        "rating": "",
+        "water_price_min": "248",
+        "water_price_max": "248",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare FlexCare Platinum 聲波震動牙刷 HX9112",
+        "rating": "",
+        "hon_price_min": "1,098",
+        "hon_price_max": "1,180",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B Professional Care OxyJet Irrigator 高效活氧沖牙機 MD20",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B 噴咀刷頭 (4枝裝) ED17",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B 電池式兒童電動牙刷 DB3.010",
+        "rating": "",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Oral-B Pro 1600 CrossAction 充電式電動牙刷",
+        "rating": "",
+        "water_price_min": "330",
+        "water_price_max": "330",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Panasonic 樂聲 電動牙刷刷頭 EW-0923",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "75",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "IB 3 in 1 電動聲波震動套裝 (潔牙, 潔面器, 牙刷)",
+        "rating": "10",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Vivatec Lux360 聲波牙刷+替換頭套裝",
+        "rating": "",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare FlexCare 電動牙刷 HX9111",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "62000轉"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Doraemon 多啦A夢",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Oral-B Genius 9000N 智能電動牙刷",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Winnie the Pooh 小熊維尼",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Oral-B 電池式兒童電動牙刷 DB4510K",
+        "rating": "",
+        "hon_price_min": "115",
+        "hon_price_max": "115",
+        "water_price_min": "78",
+        "water_price_max": "100",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B 兒童電動牙刷 (反斗車王) D12.513.1",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "water_price_min": "180",
+        "water_price_max": "198",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean HX9351 電動牙刷 + AirFloss Ultra HX8461 水牙線 Black Edition",
+        "rating": "",
+        "water_price_min": "1,299",
+        "water_price_max": "1,299",
+        "種類:": "聲波震動式,水牙線"
+    },
+    {
+        "names": "Waterpik 潔碧 Ultra Professional Water Flosser 水牙線 WP-663",
+        "rating": "",
+        "water_price_min": "760",
+        "water_price_max": "790",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B TriZone 牙刷頭 4支裝",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "water_price_min": "170",
+        "water_price_max": "188",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Braun 百靈 Pulsonic Slim LUXE 4000 聲波充電電動牙刷",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean 聲波震動牙刷 HX9332",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "1,280",
+        "water_price_min": "799",
+        "water_price_max": "850",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "每分鐘刷動 31,000 次轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare 2600 Series 聲波磁懸電動牙刷 HX2411",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "30000轉"
+    },
+    {
+        "names": "HAHATEC 電動折疊消毒牙刷",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "299",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Dream Digital 充電式無線電動水牙線 水箱或水管雙模式 300ml超大水箱",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Panasonic 樂聲 聲波震動牙刷 EWDL82/W",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "729",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "LON10 集寶 可攜式電動沖牙器-漸變橘4頭 VAU",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "389",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Oral-B Smart 4 4000N 可充電CrossAction電動牙刷",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 標準聲波牙刷刷頭 (2件裝) HX6062",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "140",
+        "water_price_min": "125",
+        "water_price_max": "130",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Flax T-Time 水素水牙線機",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,820",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Dr.X 電動聲波牙刷套裝 WS-7007",
+        "rating": "",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 FlexCare Platinum 充電式牙刷 HX9172",
+        "rating": "",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,440",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Gum Health + Air Floss Ultra 牙線機 HX8431",
+        "rating": "",
+        "water_price_min": "999",
+        "water_price_max": "1,199",
+        "種類:": "聲波震動式,水牙線"
+    },
+    {
+        "names": "VIOlife Rockee 兒童牙刷 (鯊魚圖案)",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare DiamondClean Smart 聲波電動牙刷 HX9934",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 PowerUp 聲波電動牙刷 HX3110",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "260",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 DiamondClean 聲波振動電動牙刷 HX9331",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "890",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Oral-B iBrush 8000 電動牙刷",
+        "rating": "",
+        "water_price_min": "550",
+        "water_price_max": "599",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Oral-B Floss Action 牙線效果型刷頭 (1支裝) EB25",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "water_price_min": "43",
+        "water_price_max": "45",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "Oral-B Pro 500 充電電動牙刷",
+        "rating": "",
+        "water_price_min": "249",
+        "water_price_max": "249",
+        "種類:": "旋轉式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare AirFloss Pro/ Ultra-Interdental Cleaner 水牙線 HX8332",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "638",
+        "種類:": "水牙線"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷 - Mickey Mouse 米奇老鼠",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "7000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare FlexCare+ 聲波震動牙刷 HX6972",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "water_price_min": "599",
+        "water_price_max": "860",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    },
+    {
+        "names": "realme 聲波電動牙刷 M1",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "種類:": "聲波震動式"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare e-Series 標準聲波牙刷刷頭 HX7001",
+        "rating": "",
+        "hon_price_min": "83",
+        "hon_price_max": "135",
+        "種類:": "替換刷頭/噴嘴"
+    },
+    {
+        "names": "IB 多功能聲波震動潔牙潔面器套裝",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Philips 飛利浦 Sonicare Protective Clean Premium 音波震動牙刷 HX6894",
+        "rating": "",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "種類:": "聲波震動式",
+        "牙刷頭轉速(每分鐘):": "31000轉"
+    },
+    {
+        "names": "Braun 百靈 電動牙刷 TZ-VITALITY",
+        "rating": "",
+        "water_price_min": "129",
+        "water_price_max": "129",
+        "種類:": "聲波震動式",
+        "刷牙時間提示:": "有"
+    }
+]

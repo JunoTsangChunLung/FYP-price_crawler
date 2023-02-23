@@ -1,0 +1,525 @@
+[
+    {
+        "names": "建元 1:32 頭文字D Toyota AE86 模型車, 日本豐田AE-86 (成品) 32017",
+        "rating": "",
+        "比例:": "1:32"
+    },
+    {
+        "names": "TAMIYA B1 bis German Tank",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "192mm"
+    },
+    {
+        "names": "TAMIYA Israeli Tank M1 SUPER SHERMAN",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "美國",
+        "全長:": "210mm"
+    },
+    {
+        "names": "TAMIYA German Panzerkampfwagen Ⅱ Ausf.C (Sd.Kfz.121) (Polish Campaign)",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "138mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw IV ausf.F1",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA JAGDPANZER IV /70（V ）LANG",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "244mm"
+    },
+    {
+        "names": "TAMIYA LEOPARD 2 A6",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "314mm"
+    },
+    {
+        "names": "TAMIYA U.S. 6X6 Cargo Truck M561 GAMA GOAT",
+        "rating": "",
+        "類型:": "運輸車",
+        "戰車國藉:": "美國",
+        "全長:": "170mm"
+    },
+    {
+        "names": "TAMIYA French Medium Tank SOMUA S35",
+        "rating": "",
+        "類型:": "中戰車",
+        "戰車國藉:": "法國",
+        "全長:": "153mm"
+    },
+    {
+        "names": "TAMIYA British Light Utility Car 10HP",
+        "rating": "",
+        "類型:": "軍用車",
+        "戰車國藉:": "美國",
+        "全長:": "112mm"
+    },
+    {
+        "names": "TAMIYA Italian Self-Propelled Gun SEMOVENTE M40",
+        "rating": "",
+        "類型:": "自走砲戰車",
+        "戰車國藉:": "意大利",
+        "全長:": "143mm"
+    },
+    {
+        "names": "TAMIYA STURMGESCHÜTZ III Ausf.G \"Finnish Army\"",
+        "rating": "",
+        "類型:": "突擊砲車",
+        "戰車國藉:": "芬蘭",
+        "全長:": "189mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw V PANTHER ausf.F",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA U.S. Main Battle Tank M1A2 SEP ABRAMS TUSK II",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "美國",
+        "全長:": "280mm"
+    },
+    {
+        "names": "TAMIYA Citroen Traction 11CV Staff Car",
+        "rating": "",
+        "類型:": "軍用車",
+        "戰車國藉:": "法國",
+        "全長:": "125mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw V PANTHER ausf.G 'Steel Wheel Version'",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA MATILDA Mk.III／IV British Infantry Tank Mk.II A*",
+        "rating": "",
+        "類型:": "步兵戰車",
+        "戰車國藉:": "英國",
+        "全長:": "174mm"
+    },
+    {
+        "names": "TAMIYA German Panzerkampfwagen II Ausf. A/B/C (Sd.Kfz.121) (French Campaign)",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "138mm"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz 251/1 Ausf. D",
+        "rating": "",
+        "類型:": "裝甲人員運輸車",
+        "戰車國藉:": "德國",
+        "全長:": "85mm"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz.162 Jagdpanzer IV L/48 'Early Version'",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "100.5mm"
+    },
+    {
+        "names": "TAMIYA U.S. Utility Truck M151A2 \"Grenada 1983\"",
+        "rating": "",
+        "類型:": "吉普車",
+        "戰車國藉:": "美國",
+        "全長:": "98mm"
+    },
+    {
+        "names": "TAMIYA Jagdpanzer 38(t) HETZER",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "180mm"
+    },
+    {
+        "names": "HASEGAWA 88mm Gun FLAK 36",
+        "rating": "",
+        "類型:": "對空砲",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA Japan Ground Self Defense Force TYPE 10 Tank",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "日本",
+        "全長:": "273mm"
+    },
+    {
+        "names": "TAMIYA Russian Tank BT-7 Model 1935",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "蘇聯",
+        "全長:": "161mm"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz.234/3 8輪重装甲偵察車",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "88.5mm"
+    },
+    {
+        "names": "TAMIYA Finnish Army Assault Gun BT-42",
+        "rating": "",
+        "類型:": "突擊砲車",
+        "戰車國藉:": "芬蘭",
+        "全長:": "157mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw IV ausf.F2",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA Israeli Tank M51",
+        "rating": "",
+        "類型:": "輕戰車",
+        "戰車國藉:": "以色列",
+        "全長:": "257mm"
+    },
+    {
+        "names": "REVELL M60 A3",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "美國",
+        "全長:": "131mm"
+    },
+    {
+        "names": "TAMIYA U.S. Light Tank M5A1 \"PURSUIT OPERATION\" Set （w/4 Figures）",
+        "rating": "",
+        "類型:": "輕戰車",
+        "戰車國藉:": "美國",
+        "全長:": "64mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw VI TIGER I ausf.E 'Last Model' '最後期型'",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw VI TIGER I ausf.E 'HYBRID'",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "115mm"
+    },
+    {
+        "names": "REVELL GTK Boxer (GTFZ A1)",
+        "rating": "",
+        "類型:": "裝甲人員運輸車",
+        "戰車國藉:": "德國",
+        "全長:": "110mm"
+    },
+    {
+        "names": "HASEGAWA M1 ABRAMS",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "美國"
+    },
+    {
+        "names": "TAMIYA French LECLERC Series 2",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "法國",
+        "全長:": "306mm"
+    },
+    {
+        "names": "TAMIYA 6X4 Truck KRUPP PROTZE（Kfz.70）Personel Carrier",
+        "rating": "",
+        "類型:": "人員運輸車",
+        "戰車國藉:": "德國",
+        "全長:": "146mm"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz 251/22 Ausf. D 'PAKWAGEN'",
+        "rating": "",
+        "類型:": "多用途裝甲車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA SIMCA 5 Staff Car (German Army)",
+        "rating": "",
+        "類型:": "軍用車",
+        "戰車國藉:": "德國",
+        "全長:": "94mm"
+    },
+    {
+        "names": "TAMIYA German Heavy Tank Destroyer ELEFANT",
+        "rating": "",
+        "類型:": "重驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "236mm"
+    },
+    {
+        "names": "TAMIYA Russian Heavy Tank JS-2 Model 1944 ChKZ",
+        "rating": "",
+        "類型:": "重戰車",
+        "戰車國藉:": "蘇聯",
+        "全長:": "282mm"
+    },
+    {
+        "names": "TAMIYA STURMGESCHÜTZ III Ausf.B",
+        "rating": "",
+        "類型:": "突擊砲車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA Japan TYPE 1 Self-Propelled Gun (w/6 FIGURES)",
+        "rating": "",
+        "類型:": "自走砲戰車",
+        "戰車國藉:": "日本",
+        "全長:": "155mm"
+    },
+    {
+        "names": "TAMIYA German STEYR Type 1500A/01 & Africa Corps Infantry At Rest",
+        "rating": "",
+        "類型:": "軍用車",
+        "戰車國藉:": "德國",
+        "全長:": "145.5mm"
+    },
+    {
+        "names": "TAMIYA Sd Kfz 222 Leichter Panzerspahwagen 44 Africa-Korps",
+        "rating": "",
+        "類型:": "偵察車",
+        "戰車國藉:": "德國",
+        "全長:": "134mm"
+    },
+    {
+        "names": "HASEGAWA LEOPARD 2",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA U.S. Utility Truck M151A1 \"Vietnam War\"",
+        "rating": "",
+        "類型:": "吉普車",
+        "戰車國藉:": "美國",
+        "全長:": "98mm"
+    },
+    {
+        "names": "HASEGAWA 37mm FLAKPANZER IV 'OSTWIND'",
+        "rating": "",
+        "類型:": "防空戰車",
+        "戰車國藉:": "德國",
+        "全長:": "83mm"
+    },
+    {
+        "names": "TAMIYA German Heavy Tank Destroyer JAGDTIGER Early Production",
+        "rating": "",
+        "類型:": "重驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "301mm"
+    },
+    {
+        "names": "TAMIYA British BSA M20 Motorcycle w/Military Police Set",
+        "rating": "",
+        "類型:": "電單車",
+        "戰車國藉:": "英國",
+        "全長:": "61mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw VI TIGER I ausf.E 'Last Model'",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA Iraoi Tank T-55 \"ENIGMA\"",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "伊拉克",
+        "全長:": "259mm"
+    },
+    {
+        "names": "HASEGAWA 20mm FLAKPANZER IV 'WIRBELWIND'",
+        "rating": "",
+        "類型:": "防空戰車",
+        "戰車國藉:": "德國",
+        "全長:": "83mm"
+    },
+    {
+        "names": "TAMIYA German Self-Propelled Heavy Anti-Tank Gun NASHORN",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "310mm"
+    },
+    {
+        "names": "HASEGAWA M1E1 ABRAMS",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "美國"
+    },
+    {
+        "names": "TAMIYA U.S. Tank T26E4 \"SUPER PERSHING\"",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "美國",
+        "全長:": "293mm"
+    },
+    {
+        "names": "TAMIYA French Armored Carrier UE",
+        "rating": "",
+        "類型:": "多用途裝甲車",
+        "戰車國藉:": "德國",
+        "全長:": "154mm"
+    },
+    {
+        "names": "TAMIYA U.S. 6X6 Ambulance Truck M792 GAMA GOAT",
+        "rating": "",
+        "類型:": "救護車",
+        "戰車國藉:": "美國",
+        "全長:": "170mm"
+    },
+    {
+        "names": "TAMIYA Toyota MODEL AB PHAETON",
+        "rating": "",
+        "類型:": "指揮官車",
+        "戰車國藉:": "日本",
+        "全長:": "155mm"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz.162 Jagdpanzer IV L/48 'Late Version'",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "97mm"
+    },
+    {
+        "names": "TAMIYA German Heavy Tank Destroyer JAGDTIGER Mid Production Commander OTTO Carius PANZERJAGER \"JAGDTIGER\"",
+        "rating": "",
+        "類型:": "重驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "301mm"
+    },
+    {
+        "names": "TAMIYA German Panzerkampfwagen III Ausf. A/B/C (Sd.Sd.Kfz.141/2) (French Campaign)",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "154mm"
+    },
+    {
+        "names": "TAMIYA Russian Heavy Self-Propelled Gun JSU-152",
+        "rating": "",
+        "類型:": "自走砲戰車",
+        "戰車國藉:": "蘇聯",
+        "全長:": "258mm"
+    },
+    {
+        "names": "TAMIYA Italian  Medium Tank CARRO ARMATO M13/40",
+        "rating": "",
+        "類型:": "中戰車",
+        "戰車國藉:": "意大利",
+        "全長:": "143mm"
+    },
+    {
+        "names": "TAMIYA CHALLENGER 2 (Desertised)",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "英國",
+        "全長:": "334mm"
+    },
+    {
+        "names": "TAMIYA Russian Tank BT-7 Model 1937",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "蘇聯",
+        "全長:": "161mm"
+    },
+    {
+        "names": "TAMIYA FORD GPA Amphibian 1/4 TON 4×4 TRUCK",
+        "rating": "",
+        "類型:": "水陸兩用車",
+        "戰車國藉:": "美國",
+        "全長:": "135mm"
+    },
+    {
+        "names": "TAMIYA German KUBELWAGEN TYPE 82 “Ramcke Parachute Brigade”",
+        "rating": "",
+        "類型:": "人員運輸車",
+        "戰車國藉:": "德國",
+        "全長:": "109mm"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz.162/1 Panzer IV /70(V) LANG",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "119.5mm"
+    },
+    {
+        "names": "TAMIYA Israeli Tank TIRAN 5",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "以色列",
+        "全長:": "252mm"
+    },
+    {
+        "names": "REVELL M48 A2GA2",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "美國",
+        "全長:": "265mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw IV ausf.G",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz.251 STUMMEL",
+        "rating": "",
+        "類型:": "裝甲人員運輸車",
+        "戰車國藉:": "德國",
+        "全長:": "85mm"
+    },
+    {
+        "names": "TAMIYA U.S. Howitzer Motpr Carriage M8 \"AWAITING ORDERS\" SET （w/3 Figures）",
+        "rating": "",
+        "類型:": "榴彈砲車",
+        "戰車國藉:": "美國",
+        "全長:": "125mm"
+    },
+    {
+        "names": "TAMIYA German 8-Wheeled Heavy Armored Car Sd.Kfz.232 \"AFRICA-CORPS\"",
+        "rating": "",
+        "類型:": "輪式裝甲車",
+        "戰車國藉:": "德國",
+        "全長:": "193mm"
+    }
+]

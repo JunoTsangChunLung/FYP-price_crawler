@@ -1,0 +1,542 @@
+[
+    {
+        "names": "Petkit 5 in 1 Mixed Cat Litter 5合1活性碳混合貓砂 7L",
+        "rating": "9.5",
+        "hon_price_min": "49",
+        "hon_price_max": "90",
+        "water_price_min": "70",
+        "water_price_max": "90",
+        "物料:": "豆腐砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "富士貓之王樣 天然玉米豆乳豆腐貓砂 (原味) 17.5L",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170",
+        "物料:": "豆腐砂",
+        "容量:": "17.5L"
+    },
+    {
+        "names": "Unicharm 消臭大師 清爽沐浴香消臭珠",
+        "rating": "",
+        "hon_price_min": "46",
+        "hon_price_max": "46",
+        "物料:": "絨毛漿,防臭劑,香料",
+        "容量:": "450ml"
+    },
+    {
+        "names": "Petkit Activated Carbon Cat Litter 活性碳豆腐貓砂 6L",
+        "rating": "9.2",
+        "hon_price_min": "65",
+        "hon_price_max": "68",
+        "water_price_min": "65",
+        "water_price_max": "85",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Unicharm 消臭大師 沸石砂4L",
+        "rating": "",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "物料:": "礦物砂",
+        "容量:": "4L"
+    },
+    {
+        "names": "Kao 花王 脫臭抗菌大粒木砂 4L",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "物料:": "木屑砂",
+        "容量:": "4L"
+    },
+    {
+        "names": "貓咪星球 雙倍增量礦物砂 蘋果味 10L",
+        "rating": "",
+        "water_price_min": "64",
+        "water_price_max": "64",
+        "物料:": "礦物砂",
+        "容量:": "10L"
+    },
+    {
+        "names": "Unicharm 消臭大師 淡雅花卉香消臭珠",
+        "rating": "",
+        "hon_price_min": "46",
+        "hon_price_max": "46",
+        "物料:": "絨毛漿,防臭劑,香料",
+        "容量:": "450ml"
+    },
+    {
+        "names": "植物之芯 豆腐貓砂 (升級加強配方) 20L",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "物料:": "豆腐砂",
+        "容量:": "20L"
+    },
+    {
+        "names": "Unicharm 消臭大師 消臭抗菌矽膠砂 田園花香味 3.8L",
+        "rating": "6.0",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "物料:": "水晶砂",
+        "容量:": "3.8L"
+    },
+    {
+        "names": "BLUENO 變藍再生紙砂 香皂味 7L",
+        "rating": "",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "物料:": "紙砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "Top Sand 21 有機單通豆腐砂 6L (米黃砂藍包裝)",
+        "rating": "",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Unicharm 消臭大師 綠茶紙砂2L",
+        "rating": "",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "物料:": "紙砂",
+        "容量:": "2L"
+    },
+    {
+        "names": "Naturel N1",
+        "rating": "",
+        "water_price_min": "105",
+        "water_price_max": "105",
+        "物料:": "豆腐砂"
+    },
+    {
+        "names": "爽快 7+1豆腐砂 圓片型 原味 7L",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "115",
+        "物料:": "豆腐砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "Catsan 潔珊 貓砂 3升",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "28",
+        "物料:": "礦物砂",
+        "容量:": "3L"
+    },
+    {
+        "names": "爽快 W特強除臭豆腐砂 圓片型 7L",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "115",
+        "物料:": "豆腐砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "爽快 Ree特強除臭豆腐砂 青蘋果味 7L",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "115",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Unicharm 消臭大師 沸石砂2L",
+        "rating": "",
+        "water_price_min": "110",
+        "water_price_max": "110",
+        "物料:": "礦物砂",
+        "容量:": "2L"
+    },
+    {
+        "names": "Catsan 潔珊 貓砂 9升",
+        "rating": "",
+        "hon_price_min": "76",
+        "hon_price_max": "76",
+        "物料:": "礦物砂",
+        "容量:": "9L"
+    },
+    {
+        "names": "Cat's Best 不黏毛黏結木貓砂(GOLD)20L",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "物料:": "木屑砂"
+    },
+    {
+        "names": "BLUENO 變藍再生紙砂 原味 7L",
+        "rating": "",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "物料:": "紙砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "Cat's Best Cat's Best 黏結吸臭木貓砂 40L",
+        "rating": "",
+        "hon_price_min": "435",
+        "hon_price_max": "435",
+        "物料:": "木屑砂"
+    },
+    {
+        "names": "貓咪星球 雙倍增量礦物砂 薰衣草味 10L",
+        "rating": "",
+        "water_price_min": "64",
+        "water_price_max": "64",
+        "物料:": "礦物砂",
+        "容量:": "10L"
+    },
+    {
+        "names": "Unicharm 消臭大師 清新庭園香消臭珠",
+        "rating": "",
+        "hon_price_min": "46",
+        "hon_price_max": "46",
+        "物料:": "絨毛漿,防臭劑,香料",
+        "容量:": "450ml"
+    },
+    {
+        "names": "Hitachi 橙色原味 6L",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "爽快 K豆腐砂 長條型 7L",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "115",
+        "物料:": "豆腐砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "皇帝貓 天然玉米豆腐貓砂 17.5L",
+        "rating": "",
+        "物料:": "豆腐砂",
+        "容量:": "17.5L"
+    },
+    {
+        "names": "Hitachi 綠色綠茶味 6L",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Unicharm 消臭大師 Pet - 消臭抗菌貓砂盤盆吸尿墊 (可用長達一週) (10片入)",
+        "rating": "",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "物料:": "聚酯不織布，綿紙漿，吸水紙",
+        "容量:": "每包 10 片"
+    },
+    {
+        "names": "貓咪星球 雙倍增量礦物砂 草莓味 10L",
+        "rating": "",
+        "water_price_min": "64",
+        "water_price_max": "64",
+        "物料:": "礦物砂",
+        "容量:": "10L"
+    },
+    {
+        "names": "貓咪星球 雙倍增量礦物砂 檸檬味 10L",
+        "rating": "",
+        "water_price_min": "64",
+        "water_price_max": "64",
+        "物料:": "礦物砂",
+        "容量:": "10L"
+    },
+    {
+        "names": "Unicharm 消臭大師 Pet - 消臭抗菌沸石貓砂 4L",
+        "rating": "",
+        "water_price_min": "136",
+        "water_price_max": "136",
+        "物料:": "礦物砂",
+        "容量:": "4L"
+    },
+    {
+        "names": "Kit Cat Organic BambooClump (Long Hair) 有機貓砂 (長毛) 3kg",
+        "rating": "",
+        "物料:": "木屑砂",
+        "容量:": "3 KG"
+    },
+    {
+        "names": "Unicharm 消臭大師 防飛散消臭抗菌矽膠砂 原味 4L",
+        "rating": "",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "物料:": "水晶砂",
+        "容量:": "4L"
+    },
+    {
+        "names": "Top Sand 21 α 玉米雙通豆腐砂 6L",
+        "rating": "",
+        "water_price_min": "95",
+        "water_price_max": "95",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Kit Cat Classic Clump Baby Powder 凝結砂爽身粉香味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "Ever Clean Extra Strength Scented 綠帶有香味特強 25lb",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "25 lb"
+    },
+    {
+        "names": "爽快 Pee特強除臭豆腐砂 香桃味 7L",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "115",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "BLUENO 變藍再生紙砂 原味 10L",
+        "rating": "",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "物料:": "紙砂",
+        "容量:": "10L"
+    },
+    {
+        "names": "Clean Mew 滲透式廁所專用木砂 3.5L",
+        "rating": "",
+        "water_price_min": "88",
+        "water_price_max": "88",
+        "物料:": "木屑砂",
+        "容量:": "3.5L"
+    },
+    {
+        "names": "LoveCAT 天然健康豆腐砂 納米碳 6L",
+        "rating": "",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Top Sand 21 SQ四角形單通豆腐砂 6L",
+        "rating": "",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Kit Cat Organic BambooClump (Short Hair) 有機貓砂 (短毛) 3KG",
+        "rating": "",
+        "物料:": "木屑砂",
+        "容量:": "3 KG"
+    },
+    {
+        "names": "Ever Clean Extra Strength Unscented 藍帶無香味特強 14lb",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "14 lb"
+    },
+    {
+        "names": "Hitachi 藍色肥皂味 6L",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Fussie Cat Jasmine 凝結砂 茉莉花香味 5Lx4包",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "5L x4"
+    },
+    {
+        "names": "LoveCAT 天然健康豆腐砂 咖啡味 6L",
+        "rating": "",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Ever Clean Multiple Cat 多貓用特香配方 25lb",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "25 lb"
+    },
+    {
+        "names": "爽快 7豆腐砂 長條型 7L",
+        "rating": "",
+        "water_price_min": "115",
+        "water_price_max": "115",
+        "物料:": "豆腐砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "Kit Cat Crystal Cat Litter (Unscented) 水晶砂 無味 5L",
+        "rating": "",
+        "物料:": "水晶砂",
+        "容量:": "5 L"
+    },
+    {
+        "names": "Hitachi RYOKU-TAMA 綠玉綠茶豆腐砂 6L",
+        "rating": "",
+        "water_price_min": "82",
+        "water_price_max": "82",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "IRIS 日本綠茶香味之貓沙 7L",
+        "rating": "",
+        "物料:": "豆腐砂",
+        "容量:": "7L"
+    },
+    {
+        "names": "IRIS 日本版消臭抗菌木質貓砂 16L",
+        "rating": "",
+        "物料:": "木屑砂",
+        "容量:": "16L"
+    },
+    {
+        "names": "Cat's Best Cat's Best 黏結吸臭木貓砂20L",
+        "rating": "",
+        "物料:": "木屑砂"
+    },
+    {
+        "names": "Kit Cat Organic BambooClump (Short Hair) 有機貓砂 (短毛) 11KG",
+        "rating": "",
+        "物料:": "木屑砂",
+        "容量:": "11 KG"
+    },
+    {
+        "names": "Ever Clean Extra Strength Unscented 藍帶無香味特強 25lb",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "25 lb"
+    },
+    {
+        "names": "Fussie Cat Enchanted Rose 凝結砂 玫瑰香味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "Fussie Cat Original 凝結砂 原味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "Cat's Best 不黏毛黏結木貓砂 (GOLD) 10L",
+        "rating": "",
+        "物料:": "木屑砂"
+    },
+    {
+        "names": "Fussie Cat Apple Delight 凝結砂 蘋果香味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "Fussie Cat Jasmine 凝結砂 茉莉花香味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "LoveCAT 天然健康豆腐砂 綠茶味 真空包裝 6L",
+        "rating": "",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Kit Cat Classic Clump Lavender 凝結砂薰衣草香味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "Fussie Cat Original 凝結砂 原味 5Lx4包",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "5L x4"
+    },
+    {
+        "names": "Cat's Best Cat's Best 黏結吸臭木貓砂10L",
+        "rating": "",
+        "物料:": "木屑砂"
+    },
+    {
+        "names": "Kit Cat Classic Clump Sakura 凝結砂櫻花香味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "Kit Cat Organic BambooClump (Long Hair) 有機貓砂 (長毛) 11kg",
+        "rating": "",
+        "物料:": "木屑砂",
+        "容量:": "11 KG"
+    },
+    {
+        "names": "Ever Clean 活性炭粗粒配方 25lb",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "25 lb"
+    },
+    {
+        "names": "Fussie Cat Enchanted Rose 凝結砂 玫瑰香味 5Lx4包",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "5L x4"
+    },
+    {
+        "names": "LoveCAT 天然健康豆腐砂 原味 真空包裝 6L",
+        "rating": "",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Kit Cat Classic Clump Lemon 凝結砂檸檬香味 10L",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "10 L"
+    },
+    {
+        "names": "LoveCAT 天然健康豆腐砂 水蜜桃味 真空包裝 6L",
+        "rating": "",
+        "物料:": "豆腐砂",
+        "容量:": "6L"
+    },
+    {
+        "names": "Cat's Best Cat's Best有機吸臭抗菌木貓砂8L",
+        "rating": "",
+        "物料:": "木屑砂"
+    },
+    {
+        "names": "Ever Clean Extra Strength Scented 綠帶有香味特強 14lb",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "14 lb"
+    },
+    {
+        "names": "Fussie Cat Apple Delight 凝結砂 蘋果香味 5Lx4包",
+        "rating": "",
+        "物料:": "凝結砂",
+        "容量:": "5L x4"
+    },
+    {
+        "names": "Cat's Best Cat's Best 黏結吸臭木貓砂5L",
+        "rating": "",
+        "物料:": "木屑砂"
+    }
+]

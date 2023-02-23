@@ -1,0 +1,2023 @@
+[
+    {
+        "names": "Kose Suncut Sunscreen Gel 防曬霜 (SPF 50+ PA++++) 100g",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "100g"
+    },
+    {
+        "names": "Nivea Sun Super Water Gel 清爽水感防曬凝露SPF50pA+++ 140g",
+        "rating": "",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "140g"
+    },
+    {
+        "names": "Fancl Sunguard 50+ Protect UV 無添加高效防曬露 SPF50+ PA++++ 60ml",
+        "rating": "2.0",
+        "water_price_min": "215",
+        "water_price_max": "215",
+        "種類:": "面部防曬",
+        "主要成分:": "紫外光反射劑、歐錦葵花精華、歐洲藍莓葉精華、輕盈密貼配方、香甜豌豆花精華",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "JMSolution Marine Luminous Pearl Sun Spray 珍珠防曬噴霧 SPF50 180ml",
+        "rating": "",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "180ml"
+    },
+    {
+        "names": "Beauty by Jabees Guard Up & Shine 曜顏防曬乳液 SPF 50+ PA ++++ 50ml",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "大豆油、乳木果油、甜菜鹼、馬齒莧萃取、透明質酸鈉",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Shiseido ANESSA Perfect UV Sunscreen Skincare Milk 超防水UV乳液 60ml",
+        "rating": "10",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "防水防汗配方",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "TINGERLAAT Anti-chafing Cream 防磨膏 40g",
+        "rating": "",
+        "種類:": "曬後護理",
+        "質地:": "防曬膏"
+    },
+    {
+        "names": "Sulwhasoo UV Wise Brightening Multi Protector 智感煥白修護防曬霜 SPF50+/PA++++ 30ml",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "雪花秀專利滋晶雪瀅煥白配方 : 桑白皮 + 桑葚 + 白參多醣 + 煙燻烏梅 + 黃芩",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Sofina Jenne 美白日間保濕防護乳SPF50 PA+++ 30ml",
+        "rating": "",
+        "water_price_min": "128",
+        "water_price_max": "128",
+        "種類:": "面部防曬",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "TINGERLAAT Sunlimited SPF50+  防曬霜 20ml (DLU 09/23)",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "20ml"
+    },
+    {
+        "names": "Shiseido ANESSA Perfect UV Sunscreen Skincare Milk 超防水UV乳液 20ml",
+        "rating": "",
+        "water_price_min": "84",
+        "water_price_max": "84",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "20ml"
+    },
+    {
+        "names": "TINGERLAAT Hydro Recovery 曬後護理霜 60ml",
+        "rating": "",
+        "種類:": "曬後護理",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "Shiseido ANESSA Perfect UV Sunscreen Aqua Booster 超防水UV噴霧 SPF50+ PA++++ 60g",
+        "rating": "",
+        "water_price_min": "108",
+        "water_price_max": "108",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "60g"
+    },
+    {
+        "names": "Naris Up Parasola 美容液防曬啫喱 SPF50+ PA++++ 90g",
+        "rating": "",
+        "water_price_min": "67",
+        "water_price_max": "67",
+        "種類:": "面部防曬",
+        "質地:": "防曬啫喱",
+        "容量/數量:": "90g"
+    },
+    {
+        "names": "Biore Aqua Rich 水凝長效保濕防曬乳 SPF50+ PA++++ 50g",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Aveeno Protect & Hydrate Lotion Sunscreen With Broad Spectrum SPF 50 For Face",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "種類:": "面部防曬",
+        "容量/數量:": "85g",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "曼秀雷敦 Skin Aqua Sarafit UV Smooth Water Essence 輕透防曬水凝乳",
+        "rating": "",
+        "water_price_min": "63",
+        "water_price_max": "63",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "AHC Natural Perfection Aqua Sun Spray 冰爽防曬噴霧 180ml",
+        "rating": "",
+        "water_price_min": "70",
+        "water_price_max": "70",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "180ml"
+    },
+    {
+        "names": "Shiseido ANESSA 完美UV超强防水防曬霜套裝 (金色60ml+運動BB霜7.5ml)",
+        "rating": "",
+        "water_price_min": "205",
+        "water_price_max": "205",
+        "種類:": "面部防曬",
+        "容量/數量:": "60ml + 7.5ml"
+    },
+    {
+        "names": "Shills Soft Focus Sunscreen Gel 很耐曬清爽美白超能長效防曬凝乳 40ml",
+        "rating": "",
+        "water_price_min": "62",
+        "water_price_max": "62",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "40ml"
+    },
+    {
+        "names": "Biore Aqua Rich Watery Gel 水凝清爽保濕防曬乳 SPF 50+ PA++++ 90ml",
+        "rating": "",
+        "water_price_min": "60",
+        "water_price_max": "60",
+        "種類:": "面部防曬, 身體防曬",
+        "產地:": "日本",
+        "質地:": "防曬乳液",
+        "容量/數量:": "90ml"
+    },
+    {
+        "names": "Avene Very High Protection Anti-ageing Suncare 高效清爽防曬乳SPF50+ (零感) 50ml",
+        "rating": "",
+        "water_price_min": "170",
+        "water_price_max": "170",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Avène抗敏活泉水、SunSitive Protection 全效能抗曬複合配方、甘油月桂酸酯 、維他命E醣苷",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Shiseido Sun Ultimate Sun Protection Lotion Broad Spectrum SPF50",
+        "rating": "",
+        "water_price_min": "255",
+        "water_price_max": "255",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "防水防汗配方",
+        "容量/數量:": "100 ml"
+    },
+    {
+        "names": "Kiehl's Ultra Light Daily UV Defense Aqua Gel 醫學全效抗污染防曬啫喱乳霜 60ml",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "種類:": "面部防曬",
+        "主要成分:": "維他命E, 黃芩素",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "Ishizawa Lab 石澤研究所 紫外線予報 清涼防曬噴霧 SPF 50+ PA++++ 60g",
+        "rating": "",
+        "water_price_min": "183",
+        "water_price_max": "183",
+        "種類:": "面部防曬, 身體防曬",
+        "主要成分:": "LPG，异戊烷，水，環五硅氧烷，甲氧基Ｋ胂酸乙基己基，棕櫚酸乙基己基，加氫poriisobuten，porimechirushirusesukiokisan，鳥類甲基硅氧基硅酸，橙油，甘草酸2K，α-阿爾丁炔，葡萄果實抽出物，虎耳草抽出物，乙酰基透明質酸Na，ogon根抽出物，maguwa根皮抽出物，母菊花抽出物，櫻桃樹果實抽出物，加水分解膠原蛋白，蘆薈貝拉葉子抽出物，辛烯基琥珀酸澱粉Al，PEG-10 jimechikon，PEG/PPG-19/19 jimechikon，t-丁基甲氧基聯苯甲酰甲烷，o",
+        "容量/數量:": "60g"
+    },
+    {
+        "names": "Radicell Whitening 1 Day Tone-Up Cream 巴西灌木美白防曬霜 30ml",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "甜沒藥, 芝麻芽提取物, 綠豆芽提取物",
+        "容量/數量:": "30ml",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Alteya Organics Organic Rose Face Sunscreen 保加利亞有機玫瑰防曬面霜SPF30 (潤色) 50ml",
+        "rating": "",
+        "water_price_min": "255",
+        "water_price_max": "255",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "保加利亞大馬士革玫瑰萃取",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Shills 很耐曬超清爽防護美白防曬冰鎮噴霧 SPF50++ 180ml",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "180ml"
+    },
+    {
+        "names": "EltaMD UV Clear Broad-Spectrum SPF 46 舒爽緩和防曬乳",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "9.0% Zinc oxide, 7.5% Octinoxate",
+        "容量/數量:": "1.7 oz"
+    },
+    {
+        "names": "Kose Suncut 高效冰感防曬噴霧 (清香) SPF 50++++",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "60g"
+    },
+    {
+        "names": "SNP 海洋清新防晒噴霧 SPF50+/PA+++ 200ml",
+        "rating": "",
+        "water_price_min": "28",
+        "water_price_max": "28",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "200ml"
+    },
+    {
+        "names": "Yanhee 防曬霜 SPF50 PA++ 30g",
+        "rating": "",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30g"
+    },
+    {
+        "names": "Sulwhasoo Men Relaxing UV Protector 男士本潤清爽防曬霜 (SPF50+/PA+++) 50ml",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "種類:": "面部防曬",
+        "產地:": "韓國",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Shiseido  Sun Urban Environment UV Protection Cream Broad Spectrum SPF40",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "防水防汗配方",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Ruhaku 月桃輕盈防曬霜 60ml",
+        "rating": "",
+        "hon_price_min": "345",
+        "hon_price_max": "345",
+        "種類:": "身體防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Methyl heptyl laurate, zinc oxide, (caprylic acid / capric acid) coconut alkyl, aloe vera juice *, erythritol, propanediol, polyhydroxystearic acid, calcium carbonate, talc, polyglyceryl-6 polyricinoleate, dextrin palmitate, ghetto leaf water *, Ghetto ro",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "MISSHA All-Around Safe Block Waterproof Sun Milk SPF50 / PA+++",
+        "rating": "",
+        "water_price_min": "108",
+        "water_price_max": "108",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "40ml"
+    },
+    {
+        "names": "Pond's Magic Powder BB 美白防班控油防曬粉 50g",
+        "rating": "",
+        "water_price_min": "15",
+        "water_price_max": "15",
+        "種類:": "面部防曬",
+        "質地:": "防曬粉",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Shills 很耐曬超清爽舒緩美白冰鎮防曬噴霧 SPF50++ 180ml",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "180ml"
+    },
+    {
+        "names": "Shiseido  White Lucent Brightening Spot Control Base UV Broad Spectrum SPF37 Sunscreen (Green)",
+        "rating": "",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "防水防汗配方",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Banale 便攜防曬噴霧套裝 (SPF50) (停產)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "種類:": "面部防曬",
+        "容量/數量:": "4ml+50ml"
+    },
+    {
+        "names": "Kose Suncut 強效防水防曬噴霧 SPF50 50g",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Sulwhasoo Snowise Brightening UV Protector 滋晶雪瀅煥白防曬霜 SPF50+/ PA++++ 20ml",
+        "rating": "",
+        "water_price_min": "89",
+        "water_price_max": "89",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "20ml"
+    },
+    {
+        "names": "JMSolution Glow Luminous Flower Sun Spray 潤光玫瑰防曬噴霧 180ml",
+        "rating": "",
+        "water_price_min": "44",
+        "water_price_max": "44",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "180ml"
+    },
+    {
+        "names": "Fasio UV Protect Spray UV隔離防曬噴霧 (防水型) SPF50+/PA++++ 35g",
+        "rating": "",
+        "water_price_min": "56",
+        "water_price_max": "56",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "35g"
+    },
+    {
+        "names": "Treechada 美白防曬噴霧 SPF50 PA+++ 150ml",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Shiseido ANESSA 保濕低敏UV乳液 20ml",
+        "rating": "",
+        "water_price_min": "74",
+        "water_price_max": "74",
+        "種類:": "面部防曬",
+        "容量/數量:": "20ml"
+    },
+    {
+        "names": "Pond's Magic Powder 美白防斑控油防曬粉 (溫和配方) 50g",
+        "rating": "",
+        "water_price_min": "15",
+        "water_price_max": "15",
+        "種類:": "面部防曬",
+        "質地:": "防曬粉",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Nongnaka 海藻物理防曬 100ml",
+        "rating": "",
+        "water_price_min": "118",
+        "water_price_max": "118",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Mistine AQUA Base Sun Body Spray 水晶防曬噴霧 SPF50 PA+++ 100ml",
+        "rating": "",
+        "water_price_min": "49",
+        "water_price_max": "49",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "MISSHA All-Around Safe Block Mild Essence Sun Milk SPF45 / PA+++",
+        "rating": "",
+        "water_price_min": "109",
+        "water_price_max": "109",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "40ml"
+    },
+    {
+        "names": "Sofina 5合1美白活膚全效防曬乳 清爽型 32ml",
+        "rating": "",
+        "water_price_min": "219",
+        "water_price_max": "219",
+        "種類:": "面部防曬",
+        "容量/數量:": "32ml"
+    },
+    {
+        "names": "Shiseido  Sun Ultimate Sun Protection Cream Broad Spectrum SPF50+",
+        "rating": "",
+        "water_price_min": "275",
+        "water_price_max": "275",
+        "種類:": "面部防曬",
+        "產地:": "日本",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Merbliss 水潤H2O防曬噴霧 120g",
+        "rating": "",
+        "water_price_min": "49",
+        "water_price_max": "49",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "120g"
+    },
+    {
+        "names": "Kose Suncut 高效防曬噴霧 SPF50+ PA++++ (果香) 50g",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Za True White Day Protector美白防曬霜 SPF 26 PA++ 35g",
+        "rating": "",
+        "water_price_min": "49",
+        "water_price_max": "49",
+        "種類:": "面部防曬",
+        "主要成分:": "礦物 (鎂、鈣)、維他命 E、物理性防曬成分 (二氧化鈦)",
+        "容量/數量:": "35g"
+    },
+    {
+        "names": "Shiseido  Ultimate Sun Protection Lotion N SPF 60 PA+++",
+        "rating": "",
+        "water_price_min": "295",
+        "water_price_max": "295",
+        "種類:": "面部防曬",
+        "產地:": "日本",
+        "質地:": "防曬乳液",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "JMSolution 玫瑰防曬防水棒 SPF50+ PA++++ 20g",
+        "rating": "",
+        "water_price_min": "28",
+        "water_price_max": "28",
+        "種類:": "面部防曬",
+        "質地:": "防曬膏",
+        "容量/數量:": "20g"
+    },
+    {
+        "names": "Naris Up Parasola 美容液防曬噴霧 SPF50+PA++++ 90g",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "90g"
+    },
+    {
+        "names": "Re:cipe 水晶防曬透明噴霧SPF50+PA++ 150ml",
+        "rating": "",
+        "water_price_min": "45",
+        "water_price_max": "45",
+        "種類:": "面部防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Skinzen Ecoglam Sun Stick 智能防曬棒  SPF50+ PA+++  20g",
+        "rating": "",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "種類:": "面部防曬",
+        "質地:": "防曬膏",
+        "容量/數量:": "20g"
+    },
+    {
+        "names": "Lancome  UV Expert Gn-Shield TM High Potency Active Protection SPF50",
+        "rating": "",
+        "water_price_min": "341",
+        "water_price_max": "341",
+        "種類:": "面部防曬",
+        "產地:": "法國",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Daiso UV GEL Watery Gel Cream 普通型防曬凝膠 SPF50+ PA++++ 15g",
+        "rating": "",
+        "water_price_min": "18",
+        "water_price_max": "18",
+        "種類:": "面部防曬",
+        "容量/數量:": "15g"
+    },
+    {
+        "names": "Shills 很耐曬清爽美白防曬冰鎮噴霧 SPF50+ 180ml",
+        "rating": "",
+        "water_price_min": "54",
+        "water_price_max": "54",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "180ml"
+    },
+    {
+        "names": "Sofina Jenne 透美顏日間保濕防護乳SPF50 PA+++ 30ml",
+        "rating": "",
+        "water_price_min": "139",
+        "water_price_max": "139",
+        "種類:": "面部防曬",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "YUNJAC Perfect UV Solution White Radiance Sun Protection [SPF50+ PA++++] 完美紫外線美白防曬液 30ml",
+        "rating": "",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "種類:": "防曬液",
+        "質地:": "乳液",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Shiseido ANESSA Perfect UV Sunscreen Mild Milk 超防水低敏UV 乳液 20ml",
+        "rating": "",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "20ml"
+    },
+    {
+        "names": "Clarins UV Plus Anti-Pollution 抗污染透白防曬霜 SPF50 (透明色) 50ml",
+        "rating": "",
+        "water_price_min": "385",
+        "water_price_max": "385",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "JMSolution 珍珠防曬防水棒 SPF50+ PA++++ 20g",
+        "rating": "",
+        "water_price_min": "28",
+        "water_price_max": "28",
+        "種類:": "面部防曬",
+        "質地:": "防曬膏",
+        "容量/數量:": "20g"
+    },
+    {
+        "names": "Lancome UV Expert Youth Shield Tone Up Milk 全方位防禦抗曬素顏霜SPF 50/ PA++++ 30ml",
+        "rating": "",
+        "water_price_min": "348",
+        "water_price_max": "348",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30ML"
+    },
+    {
+        "names": "Kose  Sun Protector SPF 50/PA+++",
+        "rating": "10",
+        "water_price_min": "205",
+        "water_price_max": "205",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "57ml"
+    },
+    {
+        "names": "EltaMD  UV Physical Broad-Spectrum SPF 41 防敏粉底防曬乳",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "9.0% Zinc oxide, 7.0% Titanium dioxide",
+        "容量/數量:": "3 oz"
+    },
+    {
+        "names": "Biore UV AQUA Rich 防水耐久型防曬乳",
+        "rating": "",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "曼秀雷敦 Sunplay Sport Sunscreen Lotion 戶外運動型防曬乳液",
+        "rating": "",
+        "water_price_min": "63",
+        "water_price_max": "63",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "35g"
+    },
+    {
+        "names": "Pola B.A (碧艾) Light Selector 多重修護防曬日霜 45g",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "45g"
+    },
+    {
+        "names": "Kose 高效防曬者喱 (超強防水) SPF50+ PA++++",
+        "rating": "",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬啫喱",
+        "容量/數量:": "80ml"
+    },
+    {
+        "names": "TINGERLAAT Sunlimited SPF50+ 防曬霜 100ml (DLU 03/22)",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Kiehl's Dermatologist Solutions Ultra Light Daily UV Defense 醫學全效抗污染輕柔防曬乳SPF50 PA++++ 60ml",
+        "rating": "",
+        "water_price_min": "368",
+        "water_price_max": "380",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "維他命E, 黃芩素",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "Biore 水感保濕清爽防曬霜 (牡丹花香) SPF50 90ml",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "90ml"
+    },
+    {
+        "names": "Dr Harrison UV Zinc 持久保濕防曬霜",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "329",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "8% 醫學級鋅, 10％透明質酸, 維生素 E",
+        "容量/數量:": "100ml",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "Ovelle Sun Cream SPF30",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "JMSolution Marine Luminous Pearl Sun Cream 珍珠防曬霜 SPF50+ PA+++ 50ml",
+        "rating": "",
+        "water_price_min": "55",
+        "water_price_max": "55",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Mistine Snow Frozen 雪花冰點防曬霜 SPF50PA+++ 100ml",
+        "rating": "",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Coola Face SPF 30 Unscented Moisturizer 無色 (補濕型)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Hypoallergenic,Paraben Free,Ultra Sheer,Oxybenzone Free,Antioxidant Enriched,No Nano-Sized Particles Water Resistant (80 minutes)",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "DOAEZ 燕窩冰寶寶防曬噴霧",
+        "rating": "",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "種類:": "面部防曬",
+        "主要成分:": "燕窩提取物、人参精华華....",
+        "容量/數量:": "150ML X 1支",
+        "天然/醫學:": "生産工廠通過國際GMPC/ISO22716認証"
+    },
+    {
+        "names": "Safe Sea Anti-Jellyfish Sting Protective SPF50+ Sunscreen Lotion 防水母螫傷SPF50+防曬乳 (海洋友善配方) 118ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "118ml"
+    },
+    {
+        "names": "VN 鉑金包防曬霜 SPF50 PA+++ 50g",
+        "rating": "",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "VT Cica Sun Spray 老虎防曬噴霧 150ml",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Shills Superpower Sunscreen Gel 很耐曬清爽美白超能長效防曬凝乳 40ml",
+        "rating": "",
+        "water_price_min": "62",
+        "water_price_max": "62",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "40ml"
+    },
+    {
+        "names": "Kanebo ALLIE 特效防曬亮肌啫喱 #櫻花香 60g",
+        "rating": "",
+        "water_price_min": "168",
+        "water_price_max": "168",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬啫喱",
+        "容量/數量:": "60g"
+    },
+    {
+        "names": "Cosme Decorte Sun Shelter Multi Protection 多功能防曬乳霜",
+        "rating": "",
+        "water_price_min": "245",
+        "water_price_max": "245",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "Kinu UV Milk Cream 真絲牛奶防曬霜 SPF27+ PA+++ 30ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "水、氧化鈦、甘油、丙二醇、BG、二氧化矽、水解絲膠、水解絲、聚季銨鹽51、透明質酸鈉、苯氧乙醇、白水母多醣、2K甘氨酰磷酸酯、水解荷荷巴油酯、荷荷巴油酯、戊二醇、乙基己基甘油、檸檬酸、尿素",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "廣源良 蘆薈曬後涼膚凝露 (噴霧式) 100ml",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59",
+        "種類:": "曬後護理",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Ruhaku 沖繩青柑橘提亮粉底液(防曬",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Methyl heptyl myristate, zinc oxide, shiikuwasha fruit water *, (caprylic acid / capric acid) coconut alkyl, polyhydroxystearic acid, erythritol, calcium carbonate, polyglyceryl-6 polyricinoleate, dextrin palmitate, edelweiss flower / leaf extract *, Tea"
+    },
+    {
+        "names": "MISSHA  All-Around Safe Block Soft Finish Sun Milk SPF50 / PA+++",
+        "rating": "",
+        "water_price_min": "108",
+        "water_price_max": "108",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "40ml"
+    },
+    {
+        "names": "Omi 近江兄弟 清爽保濕防曬乳液SPF50+ 35g",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "35g"
+    },
+    {
+        "names": "Shiseido Elixir Day Care Revolution 淨白防曬美肌乳霜 SPF50+PA++++ 35ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "容量/數量:": "35ml"
+    },
+    {
+        "names": "Shiseido Elixir 保濕防曬乳 SPF50 (35ml)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Clé de Peau Crème Protectrice UV UV Protective Cream 全效修護細胞防曬乳霜 SPF50+ PA++++ 50ml",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Raffine Paris UV防曬隔離緊緻日霜",
+        "rating": "",
+        "water_price_min": "508",
+        "water_price_max": "508",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Insect Repellent Sunscreen plus 驅蚊蟲防曬乳SPF30+ (輕便掛扣裝)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Kanebo ALLIE Extra UV Perfect 佳麗寶 UV完美高效防曬乳 SPF50+ PA++++ 25ml",
+        "rating": "",
+        "water_price_min": "86",
+        "water_price_max": "86",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "25ml"
+    },
+    {
+        "names": "Kose Suncut 高效冰感防曬噴霧 (花香) SPF 50+ 50g",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Day Wear Matte Face Sunscreen 面部強護防曬乳 SPF50+ 50ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Pola Whitissimo UV Block Shield White Plus 高效美白防曬乳SPF 50+ 50ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "產地:": "日本",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Clarins 抗污染透白防曬系列(透明色)",
+        "rating": "",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "凝集阿爾卑斯山有機變豆菜萃取",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Hawaiian Tropic After Sun Cooling Aloe Vera Gel 240ml",
+        "rating": "",
+        "種類:": "曬後護理"
+    },
+    {
+        "names": "Suntegrity Natural Mineral Sunscreen For Body 3 OZ, BROAD SPECTRUM SPF 30",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Vegan,Non-Greasy,Fragrance-Free,Cruelty Free",
+        "容量/數量:": "89ml",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Coola Classic sunscreen SPF 30 Cucumber moisturizer 清新青瓜味 (補濕型) 50ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Hypoallergenic,Paraben Free,Ultra Sheer,Oxybenzone Free,Antioxidant Enriched,No Nano-Sized Particles Water Resistant (80 minutes)",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Shiseido ANESSA Perfect UV Sunscreen Skincare Milk 超防水UV乳液 90ml",
+        "rating": "",
+        "water_price_min": "285",
+        "water_price_max": "285",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "90ml"
+    },
+    {
+        "names": "Banana Boat Kids Sunscreen Lotion SPF50 90ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Banana Boat Sun ComFort Lotion SPF50 90ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Shiseido 資生堂水寶貝敏弱肌防曬SPF35+ PA+++ 20 ml",
+        "rating": "",
+        "種類:": "身體防曬"
+    },
+    {
+        "names": "Banana Boat Sport Cool Zone After Sun Gel 226g",
+        "rating": "",
+        "種類:": "曬後護理"
+    },
+    {
+        "names": "SKIN79 鑽石絕對總BB霜SPF37PA ++",
+        "rating": "",
+        "water_price_min": "118",
+        "water_price_max": "118",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "鑽石粉末"
+    },
+    {
+        "names": "Shiseido  White Lucent Brightening Protective Emulsion W SPF15/PA++ Sunscreen",
+        "rating": "",
+        "water_price_min": "375",
+        "water_price_max": "375",
+        "種類:": "面部防曬",
+        "產地:": "日本",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "TINGERLAAT Sunlimited SPF50+ Sensitive Lips 防曬潤唇乳液 10ml (DLU 12/22)",
+        "rating": "",
+        "種類:": "眼唇防曬",
+        "容量/數量:": "10ml"
+    },
+    {
+        "names": "Lishan UV 高效防曬噴霧 SPF50+ PA++++",
+        "rating": "",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "250g"
+    },
+    {
+        "names": "PACE PACK CC Cream 智慧膠囊CC霜",
+        "rating": "",
+        "種類:": "CC霜",
+        "容量/數量:": "50ML"
+    },
+    {
+        "names": "Annabella 海藻水潤防曬噴霧 150ml",
+        "rating": "",
+        "water_price_min": "42",
+        "water_price_max": "42",
+        "種類:": "面部防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Peppa Pig Kids Sunscreen 兒童呵護防曬乳SPF50+ (輕便掛扣裝)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "SU:M37 White Award Uptoning Shield Master Sun Block 珍珠亮白防曬乳 SPF50+/PA+++ 50ml",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "核心成分NAPS 和微型發酵珍珠蛋白質，有助抑制因紫外線刺激而形成的黑色素，在肌膚上形成保濕膜；同時締造輕盈底妝效果，使肌膚瞬間變得光滑。",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Omi 近江兄弟 小熊防汗防曬乳 (清爽冷感) SPF50+ PA++++ 30ml",
+        "rating": "",
+        "water_price_min": "20.5",
+        "water_price_max": "20.5",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Atreus 牛奶美白防曬噴霧 SPF50 PA+++ 150ml",
+        "rating": "",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Mediheal Labocare Ceramatica Sun Spray 冰感水晶防曬噴霧 50+PA+++ 180ml",
+        "rating": "",
+        "water_price_min": "44",
+        "water_price_max": "44",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Kose Suncut 強效防曬透明噴霧 90g",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "90g"
+    },
+    {
+        "names": "Banana Boat Kids Tear Free Sunscreen Lotion Spray SPF50 175ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "PDS Ultra Sun Shield Gel 高效隔離防曬霜 SPF 50+++ PA+++ 60ml",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "糖膜, 透明質酸納, 海百合萃取, 低分子透明質酸, 韓國傳統仙人掌提取精華",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "Ajuste 淡香味防曬噴霧 SPF50+ PA++++ 200g",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "200g"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Water Sport Foam Spray Sunscreen 水上運動防曬泡泡 SPF50+",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Sofina Jenne 清爽防曬霜SPF50 ( 日本內銷版 )",
+        "rating": "",
+        "water_price_min": "155",
+        "water_price_max": "155",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "二氧化鈦,氧化鋅",
+        "容量/數量:": "32g"
+    },
+    {
+        "names": "Shiseido White Lucent Brightening Protective Cream W SPF15/PA++ Sunscreen",
+        "rating": "",
+        "water_price_min": "375",
+        "water_price_max": "375",
+        "種類:": "面部防曬",
+        "產地:": "日本",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Banana Boat Sun Comfort Spray SPF50 170g",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Innisfree ECO Safety No Sebum Sunblock 草本有機控油防曬霜",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "有機綠茶葉中的原精華",
+        "容量/數量:": "30ML",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Sofina Beaute 美白高保濕活膚防曬乳液 SPF50+ PA++++ (清爽型) 30ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Re:cipe x Mediheal 水晶防曬透明噴霧SPF50+PA+++ 180ml",
+        "rating": "",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "180ml"
+    },
+    {
+        "names": "Shills 超清爽舒緩美白防曬冰鎮噴霧 SPF50++",
+        "rating": "",
+        "種類:": "面部防曬",
+        "產地:": "韓國",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Sunsational 清爽防曬乳 CCS-SS100ML-50",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Suntegrity “5 IN 1” Natural Moisturizing Face Sunscreen #Golden Light 健康膚色 , Broad Spectrum SPF 30",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Vegan,Non-Greasy,Fragrance-Free,Cruelty Free",
+        "容量/數量:": "50ml",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "The History of Whoo Jin Hae Yoon Sun Cream 真該潤防曬營養霜",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "種類:": "面部防曬",
+        "產地:": "韓國",
+        "質地:": "防曬乳液",
+        "容量/數量:": "60ML"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Work Sunscreen 防曬乳 SPF50+ 200ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Banana Boat Sport Sunscreen Spray SPF110 175ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "SkinCeuticals Ultra Faical Defense 高效保濕防曬霜 SPF 50",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Mexoryl® SX, Mexoryl® X, Tinosorb®",
+        "容量/數量:": "30ml",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Active Dry Touch Sunscreen 無油清爽防曬乳 SPF50+ (輕便掛扣裝)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "SU:M37 Water-Full Protection Sun Day Emulsion 水漾補濕防曬乳 SPF50+/ PA++++ 50ml",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "種類:": "面部防曬",
+        "質地:": "防曬啫喱",
+        "主要成分:": "核心成分Aqua Ferm，配合松葉油及天然保濕因，強化肌膚補濕力和吸收力，在肌膚表面上形成保護膜，有助阻隔紫外線。",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "SK-II Atmosphere Airy Light UV Cream 輕透多效防曬霜 SPF50 PA++++ 30g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30g"
+    },
+    {
+        "names": "Coola Sport SPF 50 Unscented Moisturizer",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Mineral Active Ingredients,Natural Cucumber Scent,Ideal for Normal or Oily Skin,Matte Natural Finish,Water Resistant (40 minutes)",
+        "容量/數量:": "140ml",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Active Oil-free Clear Sunscreen 無油清爽防曬噴霧 SPF50+",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Hawaiian Tropic SPF4 Hawaiian Tropic Silk Hydration Lotion SPF50 180ml",
+        "rating": "",
+        "種類:": "曬黑用品"
+    },
+    {
+        "names": "Valmont Restoring Perfection 清透亮顏修護防曬霜​ SPF50+ PA+++ 30ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "三離子 DNA：有抗衰老功能，其強化儲水機制能保存超過10,000倍的水分。推動細胞優質代謝，延緩肌膚老化。 RNA微脂囊：有效修補受損細胞。 重組真皮結構複合物：修補膠原纖維，重建真皮組織。 防曬濾光屏濾：徹底隔離 UVA 及 UVB的傷害",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Banana Boat Ultra Protect Sunscreen Spray 2 in 1 SPF50 175ml",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Omi 近江兄弟 小熊防汗防曬乳 (強力防水) SPF50+ 30ml",
+        "rating": "",
+        "water_price_min": "20.5",
+        "water_price_max": "20.5",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Haruhada 水感美顏防曬凝膠 SPF50+ PA++++  90g",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "身體防曬",
+        "質地:": "防曬啫喱",
+        "主要成分:": "透明質酸, 納米膠原蛋白, 神經胺、氨基酸, 蜂王漿",
+        "容量/數量:": "90g"
+    },
+    {
+        "names": "Farmstay Oil-free UV defense sun cream 控油防曬乳 SPF 50+ PA+++",
+        "rating": "",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "種類:": "面部防曬",
+        "產地:": "韓國",
+        "質地:": "防曬乳液",
+        "容量/數量:": "70g/ml"
+    },
+    {
+        "names": "Banana Boat Ultra Protect Spray SPF110 170g",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Banana Boat Sun Comfort Spray SPF50 51g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Sofina Beaute 高效抗老化防曬乳液 SPF 50 PA+++ (清爽型)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Kinumoyou UV Cream 天然繭絲防曬霜 SPF50+ PA++++ 30g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬膏",
+        "主要成分:": "水、甲氧基肉桂酸乙基己酯、BG、環戊矽氧烷、甲基丙烯酸甲酯交聯劑、乙醇、甲氧基二苯甲酰基甲烷叔丁基酯、聚矽氧烷14、異壬酸異十三烷基酯、PEG-8異硬脂酸甘油酯、月桂基9(丙烯酸羥乙基酯 / 丙烯酰基二甲基牛磺酸鈉)共聚物、(丙烯酸酯/丙烯酸烷基酯 C10-30)交聯聚合物、角鯊烷、AMP、聚山梨酯60、生育酚、硬脂基甘草次酸酯、絲膠、荷荷巴油、種子油、蘆薈葉提取物、苯氧乙醇",
+        "容量/數量:": "30g"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Insect Repellent Sunscreen 驅蚊蟲防曬乳SPF30+ 110ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "EltaMD UV Shield Broad-Spectrum SPF 45 輕透防曬乳",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "9.0% Zinc oxide, 7.5% Octinoxate",
+        "容量/數量:": "3 oz Tube ／ 7 oz Airless Pump"
+    },
+    {
+        "names": "SkinCeuticals Physical Fusion UV Defense 透薄遮瑕UV防曬霜 SPF 50",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "透明顏色粒子, 氧化鋅 (Z-Cote®*, 二氧化鈦, 海洋生物成分ARTEMIA SALINA",
+        "容量/數量:": "50ml",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Peppa Pig Kids Sunscreen 兒童呵護防曬乳SPF50+ 200ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Hawaiian Tropic Sheer Touch Lotion SPF50 120ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Sofina jenne 水油平衡防曬乳液 SPF50+ PA++++ 30ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Shiseido Perfect uv protector 50+ wetforce multi defense 50ML",
+        "rating": "",
+        "water_price_min": "248",
+        "water_price_max": "248",
+        "種類:": "面部防曬",
+        "容量/數量:": "50ML"
+    },
+    {
+        "names": "3W Clinic Intensive UV Sunblock Cream 集中加強防曬乳霜 70ml",
+        "rating": "",
+        "water_price_min": "104",
+        "water_price_max": "104",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "水， EthylhexylMethoxycinnamate ，氧化鈦， 1.3-丁二醇， 4 - 甲基亞芐基樟腦，碳酸二辛，蜂蠟，鯨蠟硬脂醇二硬脂酸酯聚甘油3Methylglucose的，硬脂醇，辛酸/癸酸甘油三酯，甘油硬脂酸，聚二甲基矽氧烷，尼泊金甲酯，醋酸生育酚，水解;膠原蛋白，黃原膠，葉提取蘆薈Barbansis ，桑樹皮提取物，紅參提取物，對羥基苯甲酸丙酯，乙酸二鈉 - EDTA",
+        "容量/數量:": "70ml"
+    },
+    {
+        "names": "Banana Boat Ultra Protect Sunscreen Spray SPF50 175ml",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "MdoC 多元UV 防曬乳霜 2.0",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "70ml"
+    },
+    {
+        "names": "Hawaiian Tropic Tanning Oil SPF 4 240ml",
+        "rating": "",
+        "種類:": "曬黑用品"
+    },
+    {
+        "names": "Shiseido ANESSA 保濕低敏UV乳液 25ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "25ml"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Work Sunscreen 防曬乳 SPF50+ 1L",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Water Sport Sunscreen 水上運動防曬乳 SPF50+ 200ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Shiseido  White Lucent Brightening Spot Control Base UV Broad Spectrum SPF37 Sunscreen (Ivory)",
+        "rating": "",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "防水防汗配方",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Colorescience Sunforgettable Mineral Sunscreen Brush 防曬粉 SPF 30",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬粉",
+        "主要成分:": "Titanium Dioxide 12%, Zinc Oxide 12%. Inactive: Mica, Dimethicone/vinyldimethicone Crosspolymer, Corallina Officinalis, Calcium Silicate. May Contain: Iron Oxides, Titanium Dioxide, Dimethicone.",
+        "容量/數量:": "6g",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "Banana Boat Sport Cool Zone Lotion SPF50 120ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Kids Sunscreen 兒童呵護防曬乳 SPF50+ 500ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Nivea Sun Creme Care 長效高保濕防曬乳霜 SPF50+ SPA++++ 50g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Saborino 早安UV防曬噴霧 SPF50 PA++++ 100g",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "主要成分:": "蘆薈葉提取物/美國胡椒葉提取物/茶樹葉油/蜂蜜/葵花籽油/透明質酸鈉/水溶性膠原蛋白（全部保濕）",
+        "容量/數量:": "100g"
+    },
+    {
+        "names": "Clarins Self Tanning Instant Gel 身體及面部仿曬露 125ml",
+        "rating": "",
+        "種類:": "曬黑用品",
+        "功效:": "無油脂，吸收快速的仿晒凝膠，適合希望全年擁有曬後膚色者使用"
+    },
+    {
+        "names": "Banana Boat Kids Sunscreen Roll-on SPF50 75ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬膏"
+    },
+    {
+        "names": "EltaMD UV Sport  Broad-Spectrum SPF 50 防水戶外防曬霜",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "9.0% Zinc oxide, 7.50% Octinoxate, 5.0% Octisalate",
+        "容量/數量:": "3 oz Tube ／ 7 oz Airless Pump"
+    },
+    {
+        "names": "Suntegrity Natural Moisturising Face Sunscreen & Primer",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Vegan,Non-Greasy,Fragrance-Free,Cruelty Free",
+        "容量/數量:": "50g",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "The History of Whoo Jin Hae Yoon Sun Wrinkle 真該潤防曬除皺霜",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "種類:": "面部防曬",
+        "產地:": "韓國",
+        "質地:": "防曬乳液",
+        "容量/數量:": "45ML"
+    },
+    {
+        "names": "Curel 乾燥性敏感肌防曬乳 SPF50+ PA+++ 60ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "60ml"
+    },
+    {
+        "names": "SkinCeuticals Sheer Physical UV Defense 透薄清爽防敏UV防曬霜 SPF 50",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "氧化鋅(Z-Cote), 二氧化鈦, 海洋生物成分",
+        "容量/數量:": "50ml",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Active Dry Touch Sunscreen 無油清爽防曬乳 SPF50+ 110ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Sofina 透美顏美白日間保濕防護乳 SPF 50+ PA+++ 30ml (新版)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Banale Refill Pack - Sun Screen 50 ml (停產)",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Hawaiian Tropic Silk Hydration Weightless Sunscreen Lotion 防曬保濕乳 SPF 15",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Sensitive Sunscreen 抗敏水潤防曬乳SPF 50+ 200ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Kids Sunscreen 兒童呵護防曬乳 SPF50+ 250ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "250ml"
+    },
+    {
+        "names": "SkinCeuticals Brightening UV Defence 美白亮肌UV防曬霜 SPF30",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "亮肌複合物, Mexoryl® SX, Mexoryl® X, Tinosorb®",
+        "容量/數量:": "30ml",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "Colorescience Sunforgettable Mineral Sunscreen Brush 防曬粉 SPF 50",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬粉",
+        "主要成分:": "Active: Titanium Dioxide 24%, Zinc Oxide 24%. Inactive: Mica, Dimethicone Vinyl Dimethicone Crosspolymer, Corallina Officinalis, Calcium Silicate (Anticaking Agent), Dimethicone, Chromium Oxide Green.",
+        "容量/數量:": "6g",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "Catrin 100%天然防曬礦物粉升級版 SPF46 PA+++ 12g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬粉",
+        "容量/數量:": "12g"
+    },
+    {
+        "names": "Banana Boat Ultra Protect Lotion SPF110 90ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Tony Moly My Sunny Watery Sun Gel 夏日炎炎水潤防曬啫喱 SPF30/PA++",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "90",
+        "種類:": "面部防曬",
+        "產地:": "韓國",
+        "質地:": "防曬啫喱",
+        "容量/數量:": "45G"
+    },
+    {
+        "names": "AHC Natural Perfection Moist Sun Cream 保濕防曬霜 SPF50+ 50ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Nivea 高密著保濕清爽水感防曬啫喱 SPF50+ SPA++++ 80g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬啫喱",
+        "容量/數量:": "80g"
+    },
+    {
+        "names": "Hawaiian Tropic Silk Hydration Weightless Clear Spray Sunscreen 防曬噴霧 SPF30",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "177ml"
+    },
+    {
+        "names": "Banana Boat Aloe Vera Gel 90ml",
+        "rating": "",
+        "種類:": "曬後護理"
+    },
+    {
+        "names": "Biore Athlizm 極防水防曬乳液 SPF50+ PA++++ 65ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "65ml"
+    },
+    {
+        "names": "Naris Up illumi skin UV Spray 亮白UV防曬噴霧 SPF50+ PA++++",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "80g"
+    },
+    {
+        "names": "Hawaiian Tropic Royal Tanning Clear Spray 177ml",
+        "rating": "",
+        "種類:": "曬黑用品",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "tarte  tarteguard 30 sunscreen lotion  Broad Spectrum SPF 30",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "花蜜，紅藻，大豆，蘋果和金銀花提取物",
+        "容量/數量:": "50ml",
+        "天然/醫學:": "不含化學成份; 天然"
+    },
+    {
+        "names": "L'Oreal 多重防護UV BB隔離露30ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Suntegrity “5 IN 1” Natural Moisturizing Face Sunscreen ＃Fair 亮白色, Broad Spectrum SPF 30",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Vegan,Non-Greasy,Fragrance-Free,Cruelty Free",
+        "容量/數量:": "50ml",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Peppa Pig Kids Sunscreen 兒童呵護防曬乳SPF50+ ROLL ON 碌碌樽裝",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Work Sunscreen 防曬乳 SPF50+ 500ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Sofina Jenne 美白水凝乳液 50g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Isehan 伊勢半 Kiss Me Sunkiller Perfect Strong Z 超強納米防曬霜 SPF50+ 30ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "蘊含多種補濕成分(透明質酸、骨膠原、木槿萃取)，高效美肌。",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Ajuste 防蚊防曬噴霧 SPF50+ PA++++ 200g",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧",
+        "容量/數量:": "200g"
+    },
+    {
+        "names": "Banana Boat Ultra Protect Sunscreen Lotion SPF80 90ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Clarins 抗污染透白防曬系列(粉藍色)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "凝集阿爾卑斯山有機變豆菜萃取",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Water Sport Sunscreen 水上運動防曬乳 SPF50+ 輕便掛扣裝",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Medik8 SPF 30 防曬霜",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "氧化鋅、麥硫因",
+        "容量/數量:": "90mL"
+    },
+    {
+        "names": "Banana Boat Aloe Vera Gel 230g",
+        "rating": "",
+        "種類:": "曬後護理"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Water Sport Sunscreen 水上運動防曬乳 SPF50+ 110ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Biore Aqua Rich 水感保濕防曬乳 SPF50+ PA++++ 90ml",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "90ml"
+    },
+    {
+        "names": "Sofina 5合1美白活膚全效防曬乳 滋潤型 32ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "容量/數量:": "32ml"
+    },
+    {
+        "names": "AHC 清爽防曬棒 SPF50+ PA++++  22g",
+        "rating": "",
+        "種類:": "面部防曬",
+        "主要成分:": "蘆薈, 積雪草, 米, 海水, 多種草本提取物",
+        "容量/數量:": "22g"
+    },
+    {
+        "names": "Banana Boat Sport Sunscreen Lotion SPF50",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Sofina Jenne 美白日間保濕防護乳 8ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Prave UV Protection Cream 全天候身體防水防曬霜 70g",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "容量/數量:": "70g"
+    },
+    {
+        "names": "Biore 水凝長效保濕防曬乳 SPF50+PA++++ /50G 玫瑰味 (限定)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "ATORREGE AD+ 亮白防曬隔離乳 /35ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "35ml"
+    },
+    {
+        "names": "Dead Sea Spa Magik 豐富保濕日霜",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "75ml"
+    },
+    {
+        "names": "Banana Boat Baby Sunscreen Lotion SPF50 90ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Ultra Sunscreen 強護輕透防曬乳SPF50+ 200ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Tony Moly My Sunny Boby & Family Sun Cream 夏日炎炎身體防曬霜 SPF50+/PA+++",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "90",
+        "種類:": "面部防曬",
+        "產地:": "韓國",
+        "質地:": "防曬乳液",
+        "容量/數量:": "45G"
+    },
+    {
+        "names": "Sofina Beaute 高效抗老化防曬乳液 SPF 50 PA+++ (滋潤型)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Banana Boat Sport Cool Zone Spray SPF50 170g",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Banana Boat Banana Boat Baby Sunscreen Roll On SPF50 75ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬膏"
+    },
+    {
+        "names": "Coola Limited edition 2017 限量套裝",
+        "rating": "",
+        "種類:": "眼唇防曬",
+        "質地:": "防曬噴霧",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Banana Boat Sport Sunscreen Lotion SPF110 90ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Sensitive Sunscreen 抗敏水潤防曬乳SPF 50+ 110ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Hawaiian Tropic Silk Hydration After Sun Lotion Gel 177ml",
+        "rating": "",
+        "種類:": "曬後護理"
+    },
+    {
+        "names": "L'Oreal 12小時長效多重防護隔離露SPF50+/PA++++30ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Ultra Sunscreen 強護輕透防曬乳SPF50+ 110ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Innisfree ECO Safety Perfect Waterproof Sunblock 草本有機完美防水防曬霜",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "有機向日葵油、甘菊及金縷梅等多種有機草本精華",
+        "容量/數量:": "50ML",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Active Dry Touch Sunscreen 無油清爽防曬乳 SPF50+ 200ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Coola Daydream SPF30 Mineral Makeup Primer 幼滑妝前隔離霜",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "eaturing a Bouquet of: Iris, White Lily, & Honeysuckle Plant Stem Cells • Ideal for All Skin Types and Tones • Photo-Reflective Properties • Natural Mineral Active Ingredients • Water Resistant (40 minutes) • Preservative Free • No Nano-Sized Particles •",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Ladamer 多效BB霜",
+        "rating": "6.0",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "種類:": "BB霜",
+        "主要成分:": "透明質酸，β-葡聚醣，綠茶萃取，尿囊素，魚子精華，Acell-300，神經醯胺3，甘草酸鉀，馬齒莧，野大豆（大豆）籽提取物。",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Banana Boat Ultra Protect Sunscreen Lotion SPF50 90ml",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Ultra Sunscreen 強護輕透防曬乳SPF50+ 75ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Innisfree ECO Safety Daily Sunblock 草本有機保濕防曬霜",
+        "rating": "",
+        "hon_price_min": "72",
+        "hon_price_max": "72",
+        "種類:": "面部防曬",
+        "主要成分:": "向日葵, 濟​​州島綠茶",
+        "容量/數量:": "50ML",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Banale Sun Screen - Lime/White",
+        "rating": "",
+        "種類:": "面部防曬, 身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "Bicelle 強效抗氧防曬乳 SPF50 3ml",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "中美洲蕨類萃取、綠茶、甘油 及氧化鋅",
+        "容量/數量:": "3ml"
+    },
+    {
+        "names": "Coola Baby SPF 50 Unscented Moisturizer",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Paraben Free,Preservative Free,Water Resistant (80 minutes),No Nano-Sized Particles",
+        "容量/數量:": "90ml",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Ladamer 完美防曬霜 SPF40++",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "種類:": "面部防曬",
+        "主要成分:": "異戊酯對甲氧基桂皮酸鹽，二氧化鈦，雙乙基己氧基，甲氧基苯基三嗪，阿爾巴樺汁，神經醯胺3，Acell-300",
+        "容量/數量:": "50g"
+    },
+    {
+        "names": "Pretty Skin HA水光透嫩雪瑩防曬霜 AC-6015",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "Banana Boat Baby Sunscreen Spray SPF50 170g",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬噴霧"
+    },
+    {
+        "names": "MissZhang 水光潤透防曬噴霧",
+        "rating": "",
+        "種類:": "面部防曬",
+        "主要成分:": "萬壽菊提取物和紅花籽油提取物",
+        "容量/數量:": "150ml",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Suntegrity “5 IN 1” Natural Moisturizing Face Sunscreen #Light Color 自然膚色 , Broad Spectrum SPF 30",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Vegan,Non-Greasy,Fragrance-Free,Cruelty Free",
+        "容量/數量:": "50ml",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Coola Mineral Face SPF30 Cucumber Matte Finish 清新青瓜味 (啞緻清爽型)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "Mineral Active Ingredients,Natural Cucumber Scent,Ideal for Normal or Oily Skin,Matte Natural Finish,Water Resistant (40 minutes)",
+        "容量/數量:": "50ml",
+        "天然/醫學:": "有機"
+    },
+    {
+        "names": "Cancer Council Australia 澳洲防癌協會 Kids Sunscreen 兒童呵護防曬乳 SPF50+ 110ML",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液"
+    },
+    {
+        "names": "Hawaiian Tropic Tropic Dark Tanning Oil SPF 0 240ml",
+        "rating": "",
+        "種類:": "曬黑用品"
+    },
+    {
+        "names": "Clarins 抗污染透白防曬系列(粉紅色)",
+        "rating": "",
+        "種類:": "面部防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "凝集阿爾卑斯山有機變豆菜萃取",
+        "容量/數量:": "30ml"
+    },
+    {
+        "names": "Bicelle 強效抗氧防曬乳 SPF51 50ml",
+        "rating": "",
+        "種類:": "身體防曬",
+        "質地:": "防曬乳液",
+        "主要成分:": "中美洲蕨類萃取、綠茶、甘油 及氧化鋅",
+        "容量/數量:": "50ml"
+    }
+]

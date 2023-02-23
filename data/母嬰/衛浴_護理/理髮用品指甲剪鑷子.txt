@@ -1,0 +1,728 @@
+[
+    {
+        "names": "Panasonic 樂聲 兒童剪髮器 (適合嬰幼兒) ER3300P",
+        "rating": "10",
+        "hon_price_min": "172",
+        "hon_price_max": "298",
+        "water_price_min": "153",
+        "water_price_max": "215",
+        "類別:": "理髮用品",
+        "材質:": "ABS塑膠"
+    },
+    {
+        "names": "Combi Baby Label 兒童專用電動理髮器",
+        "rating": "10",
+        "hon_price_min": "249",
+        "hon_price_max": "299",
+        "water_price_min": "214",
+        "water_price_max": "249",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Xiaomi 小米 有品 RIWA 雷瓦嬰兒理髮器 RE-6116",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "water_price_min": "228",
+        "water_price_max": "248",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Combi 大人小孩兩用電動磨甲機",
+        "rating": "10",
+        "hon_price_min": "297",
+        "hon_price_max": "313",
+        "water_price_min": "239",
+        "water_price_max": "310"
+    },
+    {
+        "names": "Philips 兒童剪髮器 HC1055",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "water_price_min": "278",
+        "water_price_max": "290",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Enssu 自動吸髮理髮器 ES960",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "239",
+        "water_price_max": "298",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Xiaomi 小米 米兔嬰兒理髮器",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "145",
+        "water_price_max": "179",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Simba 小獅王辛巴 指甲剪 S1745",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "類別:": "指甲剪",
+        "材質:": "中碳鋼 Medium Carbon Steel"
+    },
+    {
+        "names": "Pigeon 嬰兒用指甲鉗",
+        "rating": "",
+        "hon_price_min": "51",
+        "hon_price_max": "65",
+        "water_price_min": "53",
+        "water_price_max": "53",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Pur Manicure Set 嬰兒修指甲剪套裝",
+        "rating": "",
+        "hon_price_min": "66",
+        "hon_price_max": "66",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Panasonic 樂聲 嬰兒用超靜音理髮器 ER-PGF20",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Ommi Care Baby Ommi 嬰兒電動指甲打磨器",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 嬰兒剪髮梳",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "water_price_min": "77",
+        "water_price_max": "95",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "California Bear 嬰兒碎髮剪",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "103",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Tommee Tippee 指甲鉗 433128",
+        "rating": "",
+        "hon_price_min": "21",
+        "hon_price_max": "55",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Pur Brush & Comb 梳刷套裝",
+        "rating": "",
+        "hon_price_min": "43",
+        "hon_price_max": "43",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Babymate 親子電動磨指甲機",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "153"
+    },
+    {
+        "names": "Combi 嬰兒指甲鉗 粉紅色",
+        "rating": "",
+        "hon_price_min": "327",
+        "hon_price_max": "328",
+        "water_price_min": "239",
+        "water_price_max": "278"
+    },
+    {
+        "names": "Philips 兩用寶寶電動理髮器 SCH100/00",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "BabySmile 新生兒電動磨甲機 S-901",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "227",
+        "類別:": "指甲剪",
+        "尺寸:": "48 x 33 x 120mm"
+    },
+    {
+        "names": "Aguard 磨甲機",
+        "rating": "",
+        "hon_price_min": "202",
+        "hon_price_max": "225",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Pigeon 嬰兒指甲鉗較剪 (3個月用)",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "58",
+        "water_price_min": "53",
+        "water_price_max": "59",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Babymate 可水洗兒童電動理髮器 BM-040",
+        "rating": "10",
+        "hon_price_min": "253",
+        "hon_price_max": "269",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Babymate 可水洗兒童電動理髮器 (超靜音型)",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "249",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Tommee Tippee 健康護理套裝",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "195"
+    },
+    {
+        "names": "BabySmile 新生兒指甲剪套组 S-904",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "138",
+        "water_price_min": "138",
+        "water_price_max": "138",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Edison 可愛鯨魚剪甲器",
+        "rating": "",
+        "hon_price_min": "22",
+        "hon_price_max": "23",
+        "water_price_min": "23",
+        "water_price_max": "69",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "YOUHA 優合 Baby & Child Hair Clipper 嬰兒和兒童理髮器",
+        "rating": "",
+        "hon_price_min": "137",
+        "hon_price_max": "148",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Combi Baby Label 剪髮套裝",
+        "rating": "10",
+        "hon_price_min": "224",
+        "hon_price_max": "242",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Green Bell 幼兒專用梳",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "52",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Philips Hairclipper Series 1000 兒童剪髮器 HC1099/15",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Aguard 吸入式防水充電電動理髮器",
+        "rating": "",
+        "hon_price_min": "324",
+        "hon_price_max": "324",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Simba 小獅王辛巴 放大鏡嬰兒剪刀 (曲面)",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "30",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Minimoto 嬰兒指甲鉗",
+        "rating": "",
+        "hon_price_min": "26",
+        "hon_price_max": "29",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Chicco 嬰兒修甲套裝",
+        "rating": "",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 付收納盒指甲剪 L",
+        "rating": "",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 二段幼兒理髮器",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "178",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "KUKU Duckbill 酷咕鴨 嬰兒放大鏡剪刀 KU3018",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "33",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 匠之技全人手日本製造 高級不鏽鋼指甲剪L碼 (附銼刀) G-1114",
+        "rating": "",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 匠之技 放大鏡指甲刀白色 G-1004",
+        "rating": "",
+        "water_price_min": "93",
+        "water_price_max": "93",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Pigeon 嬰兒頭髮護理套裝",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "water_price_min": "45",
+        "water_price_max": "45",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Green Bell 日本製匠之技高級不銹鋼指甲刀 (小號) G-1204",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "類別:": "指甲剪",
+        "材質:": "不銹鋼"
+    },
+    {
+        "names": "PUKU 嬰幼兒安全夾",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "15",
+        "類別:": "鑷子"
+    },
+    {
+        "names": "PUKU 幼兒梳子",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "12",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Combi 梳型剪刀",
+        "rating": "",
+        "hon_price_min": "233",
+        "hon_price_max": "243",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "煥醒 兒童電動修甲器",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "water_price_min": "180",
+        "water_price_max": "258"
+    },
+    {
+        "names": "Green Bell 匠之技 全人手日本製造 高級不鏽鋼指甲剪S碼 (附銼刀) G-1113",
+        "rating": "",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "The First Years American Red Cross Deluxe Nail Clipper with Magnifier",
+        "rating": "",
+        "hon_price_min": "47",
+        "hon_price_max": "48",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Pigeon 嬰兒指甲鉗較剪(新生用)",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "59",
+        "water_price_min": "53",
+        "water_price_max": "58",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Olababy Trimmo Electric Baby Nail Trimmer 電動嬰兒磨甲器",
+        "rating": "",
+        "hon_price_min": "357",
+        "hon_price_max": "390"
+    },
+    {
+        "names": "Babymate 嬰幼兒理容套裝 (電動磨指甲機+電動理髮器)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Tommee Tippee Nailcare 多功能嬰兒電動磨甲機 423772",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "349",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "PIP 嬰兒鼻腔清潔鉗",
+        "rating": "",
+        "hon_price_min": "51",
+        "hon_price_max": "52",
+        "類別:": "鑷子"
+    },
+    {
+        "names": "Green Bell 日本製可調式削髮刀 MB-305",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "water_price_min": "94",
+        "water_price_max": "94",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "NUK 安全剪刀連套",
+        "rating": "",
+        "hon_price_min": "43",
+        "hon_price_max": "49",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 匠之技全人手日本製造防指甲飛濺不鏽鋼指甲剪 (曲線刃S碼) G-1021",
+        "rating": "",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "類別:": "指甲剪",
+        "尺寸:": "77 x 9mm"
+    },
+    {
+        "names": "Minimoto 指甲挫",
+        "rating": "",
+        "hon_price_min": "19",
+        "hon_price_max": "24"
+    },
+    {
+        "names": "Mininor 指甲剪刀",
+        "rating": "",
+        "hon_price_min": "32",
+        "hon_price_max": "41",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Combi 電動磨甲器配件",
+        "rating": "",
+        "hon_price_min": "76",
+        "hon_price_max": "88",
+        "water_price_min": "55",
+        "water_price_max": "55"
+    },
+    {
+        "names": "Combi 電動磨甲機 116035",
+        "rating": "10",
+        "hon_price_min": "296",
+        "hon_price_max": "313",
+        "water_price_min": "234",
+        "water_price_max": "310",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Babymate 親子電動磨指甲機-進階版 BM-017U",
+        "rating": "",
+        "hon_price_min": "197",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Green Bell 日本製匠之技高級不銹鋼指甲刀 (G-1205)",
+        "rating": "",
+        "water_price_min": "128",
+        "water_price_max": "128",
+        "類別:": "指甲剪",
+        "材質:": "不銹鋼"
+    },
+    {
+        "names": "Green Bell 幼兒理髮剪 (碎髮用)",
+        "rating": "",
+        "hon_price_min": "125",
+        "hon_price_max": "259",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Tommee Tippee Brush and Comb Set (0m+)",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "30",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Combi 修甲剪刀",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "129",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Kaeru 嬰幼兒指甲剪",
+        "rating": "",
+        "hon_price_min": "43",
+        "hon_price_max": "44",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Babymate 電動磨指甲機打磨墊組",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "44"
+    },
+    {
+        "names": "KIDSME 修甲套裝盒 Baby Manicure Box Set 210168",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "51"
+    },
+    {
+        "names": "Combi 嬰兒指甲鉗 薄荷藍",
+        "rating": "",
+        "hon_price_min": "297",
+        "hon_price_max": "299",
+        "water_price_min": "238",
+        "water_price_max": "239"
+    },
+    {
+        "names": "California Bear 嬰兒指甲鉗 CB18005",
+        "rating": "",
+        "hon_price_min": "19",
+        "hon_price_max": "26",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Arena Baby Cup!ca 嬰兒專用磨甲棒 (7枝裝)",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39"
+    },
+    {
+        "names": "Zoli Buzz B 替換打磿墊 (3個裝)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "70"
+    },
+    {
+        "names": "Green Bell 付收納盒指甲剪 M",
+        "rating": "",
+        "water_price_min": "70",
+        "water_price_max": "70",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Haakaa 嬰兒電動磨甲器",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "179",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "PUKU 微笑安全剪刀",
+        "rating": "",
+        "hon_price_min": "23",
+        "hon_price_max": "23",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "KUKU Duckbill 酷咕鴨 嬰幼兒造型夜光耳扒 KU3036",
+        "rating": "",
+        "hon_price_min": "52",
+        "hon_price_max": "53"
+    },
+    {
+        "names": "Pigeon 嬰兒鼻子清潔鑷子",
+        "rating": "",
+        "hon_price_min": "29",
+        "hon_price_max": "29",
+        "water_price_min": "29",
+        "water_price_max": "35",
+        "類別:": "鑷子"
+    },
+    {
+        "names": "California Bear 嬰兒髮剪",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "103",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Philips 飛利浦 Hairclipper series 1000 兒童理髮器 HC1066/15",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "289",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Dr Dickson 安全修甲套装(2件)",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "25",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Panasonic 樂聲 Women's Precision Facial Trimmer ER-GN25",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "179",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "California Bear 嬰兒指甲剪 CB18004",
+        "rating": "",
+        "hon_price_min": "29",
+        "hon_price_max": "34",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Simba 小獅王辛巴 嬰兒剪刀",
+        "rating": "",
+        "hon_price_min": "26",
+        "hon_price_max": "26",
+        "類別:": "指甲剪",
+        "材質:": "刀刃：不鏽鋼 / 手柄：ABS＋AS / 護套：PC聚碳酸酯"
+    },
+    {
+        "names": "Zoli Buzz B Electric Nail Trimmer A-BC09NTC001",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "350"
+    },
+    {
+        "names": "Green Bell 嬰兒鼻腔清潔鉗",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "56",
+        "類別:": "鑷子"
+    },
+    {
+        "names": "ChuChuBaby 嬰兒專用指甲剪",
+        "rating": "",
+        "hon_price_min": "77",
+        "hon_price_max": "77",
+        "water_price_min": "65",
+        "water_price_max": "65",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Nuby 嬰兒指甲鉗套裝 NB242",
+        "rating": "",
+        "hon_price_min": "37",
+        "hon_price_max": "75",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Pigeon 初生嬰兒護理套裝",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "175",
+        "water_price_min": "145",
+        "water_price_max": "158",
+        "類別:": "理髮用品"
+    },
+    {
+        "names": "Green Bell 匠之技不鏽鋼指甲鉗寬刃款 S號 G-1200",
+        "rating": "",
+        "water_price_min": "95",
+        "water_price_max": "95",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 付收納盒指甲剪 S",
+        "rating": "",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 匠之技 放大鏡指甲刀 G-1223",
+        "rating": "",
+        "water_price_min": "93",
+        "water_price_max": "93",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Petiten 旋轉安全嬰幼兒指甲鉗",
+        "rating": "",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 匠之技全人手日本製造防指甲飛濺不鏽鋼指甲剪 (曲線刃L碼) G-1031",
+        "rating": "",
+        "water_price_min": "129",
+        "water_price_max": "129",
+        "類別:": "指甲剪",
+        "材質:": "不鏽鋼"
+    },
+    {
+        "names": "Piyo Piyo 黃色小鴨 寶寶安全銼刀剪刀",
+        "rating": "",
+        "hon_price_min": "54",
+        "hon_price_max": "54",
+        "類別:": "指甲剪",
+        "材質:": "剪刀握把 & 外蓋 : ABS, 刀柄 : 不鏽鋼420, 銼刀 : 不鏽鋼304"
+    },
+    {
+        "names": "PUKU 企鵝指甲剪",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "30",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Green Bell 三段幼兒指甲銼",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "69"
+    },
+    {
+        "names": "Green Bell 匠之技不鏽鋼指甲鉗寬刃款 L號 G1201",
+        "rating": "",
+        "類別:": "指甲剪"
+    },
+    {
+        "names": "Vanrro Babynice 安心剪專業嬰兒電動指甲剪",
+        "rating": "",
+        "類別:": "指甲剪",
+        "材質:": "ABS/電子原件"
+    },
+    {
+        "names": "KAI 貝印 Disney Baby 嬰兒安全指甲剪",
+        "rating": "",
+        "類別:": "指甲剪"
+    }
+]

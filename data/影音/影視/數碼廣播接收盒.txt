@@ -1,0 +1,2621 @@
+[
+    {
+        "names": "安博 安博盒子 第9代 UBOX (4+64GB)",
+        "rating": "8.7",
+        "hon_price_min": "980",
+        "hon_price_max": "1,480"
+    },
+    {
+        "names": "EVPAD 6P 智能語音電視盒 (4+64GB)",
+        "rating": "6.5",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "介面:": "HDMI+USB+LAN",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "SVI Cloud 小雲盒子 8P",
+        "rating": "9.5",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "介面:": "HDMI+USB+SPDIF+DC"
+    },
+    {
+        "names": "安博 安博盒子 第8代 UBOX 8 PRO MAX",
+        "rating": "7.0",
+        "hon_price_min": "790",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI+USB+AV+LAN",
+        "支援輸出:": "HDMI, AV"
+    },
+    {
+        "names": "UNBOTV Super TV Box (4+64GB)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,680",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Xiaomi 小米 Mi TV Stick 4K",
+        "rating": "8.5",
+        "hon_price_min": "388",
+        "hon_price_max": "498",
+        "water_price_min": "328",
+        "water_price_max": "389",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "安博 安博盒子 第9代 UBOX 9 PRO MAX OS 國際版 (4+64GB)",
+        "rating": "9.3",
+        "hon_price_min": "980",
+        "hon_price_max": "1,680",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "介面:": "HDMI+USB+LAN",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "Eight 數碼高清接收器 LC8",
+        "rating": "8.4",
+        "hon_price_min": "450",
+        "hon_price_max": "488",
+        "支援輸出:": "支援HDMI或YPbPr輸出",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Apple TV 4K (第 3 代) 128GB",
+        "rating": "10",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,360",
+        "water_price_min": "1,098",
+        "water_price_max": "1,180",
+        "介面:": "HDMI",
+        "支援輸出:": "4K"
+    },
+    {
+        "names": "BossTV 博視 V3 Pro 電視盒子",
+        "rating": "4.9",
+        "hon_price_min": "878",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI/USB3.0/AV/TF"
+    },
+    {
+        "names": "EVPAD 5P 智能語音電視盒 (4+32GB)",
+        "rating": "6.7",
+        "hon_price_min": "850",
+        "hon_price_max": "1,480",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Xiaomi 小米 盒子S",
+        "rating": "8.4",
+        "hon_price_min": "395",
+        "hon_price_max": "540",
+        "water_price_min": "328",
+        "water_price_max": "450",
+        "介面:": "HDMI 電源供應器 遙控器"
+    },
+    {
+        "names": "EVPAD EPLAY 3R (2+16GB)",
+        "rating": "10",
+        "hon_price_min": "850",
+        "hon_price_max": "1,680",
+        "介面:": "HDMI+USB+LAN",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "SVI Cloud 小雲電視盒 8S (2+16GB)",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "EVPAD 6S AI 助理 6K 智能語音電視盒 (2+32GB)",
+        "rating": "10",
+        "hon_price_min": "988",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI+USB+LAN",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "SVI Cloud 小雲電視盒 3Pro",
+        "rating": "6.6",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,380",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "安博 安博盒子 第七代 UPROS - OS 國際版",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "1,380",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "介面:": "HDMI+USB3.0+AV+LAN"
+    },
+    {
+        "names": "EVPAD 3 MAX Plus 易播電視盒 (4+64GB, 高配香港定制版)",
+        "rating": "2.0",
+        "hon_price_min": "699",
+        "hon_price_max": "1,380",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "EVPAD 3 PLUS 智能電視盒",
+        "rating": "5.5",
+        "hon_price_min": "699",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI+USB3.0+AV+LAN+SPDIF"
+    },
+    {
+        "names": "Teledevice 高清電視機頂盒 (錄影功能) RM-148A",
+        "rating": "10",
+        "hon_price_min": "200",
+        "hon_price_max": "339",
+        "介面:": "HDMI, YPbPr, Composite, RF",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "安博 安博盒子 第8代 UBOX 8 PRO MAX 國際版",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "安博 安博盒子 第七代 UPROS - HK 香港版",
+        "rating": "6.0",
+        "hon_price_min": "700",
+        "hon_price_max": "1,180",
+        "介面:": "HDMI+USB3.0+AV+LAN"
+    },
+    {
+        "names": "安博 安博盒子PRO 2018 香港版",
+        "rating": "3.5",
+        "hon_price_min": "588",
+        "hon_price_max": "850"
+    },
+    {
+        "names": "EVPAD 5S 6K 智能語音電視盒 (2+16GB)",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "SmartVue DTMB 高清數碼機頂盒 SV-398",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "安博 安博盒子 第六代 UPRO2 2019 香港版",
+        "rating": "7.1",
+        "hon_price_min": "580",
+        "hon_price_max": "1,080",
+        "介面:": "藍牙4.0, HDMI, USB, 3.5mm, RJ45 LAN埠, MicroSD(TF) Slot, Wifi"
+    },
+    {
+        "names": "MyTV Super Anywhere電視盒子",
+        "rating": "",
+        "hon_price_min": "1,497",
+        "hon_price_max": "2,099"
+    },
+    {
+        "names": "Teledevice 高清電視機頂盒 HD-6621",
+        "rating": "7.3",
+        "hon_price_min": "270",
+        "hon_price_max": "339",
+        "介面:": "USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Biaicom 高清數碼電視機頂盒 (預錄、即錄功能+多媒體播放) DTR-2318",
+        "rating": "4.0",
+        "hon_price_min": "260",
+        "hon_price_max": "280",
+        "介面:": "USB 2.0、3.0介面可支援 1TB 外置硬碟錄影功能",
+        "支援錄影:": "支援7天預錄(長達7日)、即錄功能"
+    },
+    {
+        "names": "Apple TV 4K 32GB",
+        "rating": "10",
+        "hon_price_min": "960",
+        "hon_price_max": "1,280",
+        "water_price_min": "980",
+        "water_price_max": "1,360",
+        "介面:": "HDMI, Wi‑Fi, Gigabit Ethernet, 藍牙 5.0, IR 接收器"
+    },
+    {
+        "names": "Ei8ht LC8 數碼高清接收器 機頂盒",
+        "rating": "8.0",
+        "hon_price_min": "440",
+        "hon_price_max": "490",
+        "介面:": "HDMI",
+        "支援錄影:": "USB 外置硬盤錄影"
+    },
+    {
+        "names": "Apple TV 4K (第 2 代) 64GB",
+        "rating": "10",
+        "hon_price_min": "1,028",
+        "hon_price_max": "1,599",
+        "water_price_min": "998",
+        "water_price_max": "1,540",
+        "支援輸出:": "4K"
+    },
+    {
+        "names": "TVB Anywhere Android TV 機頂盒",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,180",
+        "介面:": "HDMI",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "MyTV Super 電視盒子",
+        "rating": "6.5",
+        "hon_price_min": "350",
+        "hon_price_max": "650",
+        "water_price_min": "299",
+        "water_price_max": "480"
+    },
+    {
+        "names": "EVPAD 5 MAX 6K (4+128GB)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,780",
+        "介面:": "HDMI+USB+AV+LAN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Now E Android TV 盒子 (星級足球版)",
+        "rating": "8.8",
+        "hon_price_min": "330",
+        "hon_price_max": "540"
+    },
+    {
+        "names": "Apple TV 4K (第 2 代) 32GB",
+        "rating": "9.3",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,399",
+        "water_price_min": "800",
+        "water_price_max": "1,350",
+        "支援輸出:": "4K"
+    },
+    {
+        "names": "Xiaomi 小米 Mi TV Stick",
+        "rating": "8.0",
+        "hon_price_min": "308",
+        "hon_price_max": "390",
+        "water_price_min": "255",
+        "water_price_max": "598"
+    },
+    {
+        "names": "PRIMA HD TV Receiver PM-2218",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "339"
+    },
+    {
+        "names": "SmartVue DTMB數碼高清機頂盒 SV-298",
+        "rating": "4.0",
+        "hon_price_min": "209",
+        "hon_price_max": "399",
+        "介面:": "HDMI,AV,USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子國際版",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "410",
+        "water_price_min": "390",
+        "water_price_max": "698"
+    },
+    {
+        "names": "SVI Cloud 小雲電視盒 3Plus",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "安博 安博盒子2019 第六代 UPRO2 國際版",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "1,380",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Apple TV 4K (第 3 代) 64GB",
+        "rating": "",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,110",
+        "water_price_min": "998",
+        "water_price_max": "1,020",
+        "介面:": "HDMI",
+        "支援輸出:": "4K"
+    },
+    {
+        "names": "EVPAD 3 MAX 智能電視盒",
+        "rating": "2.0",
+        "hon_price_min": "699",
+        "hon_price_max": "1,280",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "BossTV 博視 全球直播盒子",
+        "rating": "3.1",
+        "hon_price_min": "490",
+        "hon_price_max": "1,080",
+        "介面:": "Android 5.1.1"
+    },
+    {
+        "names": "安博 安博盒子 第七代  UPRO3 2019 高配版",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "1,380",
+        "介面:": "藍牙, HDMI, USB, 3.5mm, MicroSD (TF) Slot, Wifi"
+    },
+    {
+        "names": "EVPAD 3S 智能電視盒",
+        "rating": "2.0",
+        "hon_price_min": "670",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "PRIMA 高清機頂盒 PM-3030RM",
+        "rating": "7.5",
+        "hon_price_min": "200",
+        "hon_price_max": "368",
+        "介面:": "HDMI, 色差",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Vesta 數碼電視高清機頂盒 (VV-288)",
+        "rating": "7.0",
+        "hon_price_min": "185",
+        "hon_price_max": "250",
+        "介面:": "HDMI, AV",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "BossTV 博視 V3X 語音版 (4+64GB)",
+        "rating": "6.0",
+        "hon_price_min": "980",
+        "hon_price_max": "1,480",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "EVPAD EPLAY 6G (2+32GB)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "介面:": "HDMI+USB+LAN",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "LeEco樂視 Le TV Box (4K標準版) (停產)",
+        "rating": "5.5",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "Letv eUI 5.0",
+        "支援輸出:": "H.265 4K*2K@30P"
+    },
+    {
+        "names": "安博 安博盒子 第4代 UBOX Gen.4 PRO BT",
+        "rating": "4.4",
+        "hon_price_min": "410",
+        "hon_price_max": "860",
+        "介面:": "Android 5.1"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子 增強版",
+        "rating": "6.7",
+        "hon_price_min": "470",
+        "hon_price_max": "500",
+        "water_price_min": "369",
+        "water_price_max": "390",
+        "介面:": "AV / HDMI"
+    },
+    {
+        "names": "MyTV Super MyTV Gold 電視盒子",
+        "rating": "8.0",
+        "hon_price_min": "1,400",
+        "hon_price_max": "2,380",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "MyTV Super Anywhere 心連心限量版禮盒裝",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799"
+    },
+    {
+        "names": "TVB Anywhere",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "2,099"
+    },
+    {
+        "names": "Giec 高清數碼電視機頂盒 GK-HD30",
+        "rating": "6.0",
+        "hon_price_min": "330",
+        "hon_price_max": "378",
+        "介面:": "HDMI、AV、同軸、RF-in/Out",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "AV LINK 數碼電視高清機頂盒 DTMB-2100",
+        "rating": "8.9",
+        "hon_price_min": "250",
+        "hon_price_max": "299",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "安博 網路機頂盒",
+        "rating": "7.4",
+        "hon_price_min": "369",
+        "hon_price_max": "418",
+        "water_price_min": "288",
+        "water_price_max": "288"
+    },
+    {
+        "names": "EVPAD 3 智能電視盒",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "1,180"
+    },
+    {
+        "names": "SUPER DMR-55 高清數碼電視接收器",
+        "rating": "8.0",
+        "hon_price_min": "260",
+        "hon_price_max": "330",
+        "介面:": "HDMI,AV",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "千尋影視 千尋盒子5 香港定制版 (QBox5 HK)",
+        "rating": "2.0",
+        "hon_price_min": "499",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "Eight EHD768",
+        "rating": "2.0",
+        "hon_price_min": "360",
+        "hon_price_max": "528",
+        "介面:": "HDMI, YPbPr"
+    },
+    {
+        "names": "Hiraki 高清機頂盒 HK-1022B",
+        "rating": "4.0",
+        "hon_price_min": "278",
+        "hon_price_max": "288",
+        "介面:": "HDMI 及 YPbPr, RCA",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "EVPAD 5P 智能語音電視盒 (4+32GB, VPN 中國限定版)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "Eight M1",
+        "rating": "6.0",
+        "hon_price_min": "430",
+        "hon_price_max": "460",
+        "支援輸出:": "HDMI/色差/AV",
+        "支援錄影:": "YES"
+    },
+    {
+        "names": "Apple TV 4K 64GB",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,018",
+        "water_price_max": "1,598",
+        "介面:": "HDMI, Wi‑Fi, Gigabit Ethernet, 藍牙 5.0, IR 接收器"
+    },
+    {
+        "names": "安博 安博盒子 第3代 TV BOX3 Gen3 S900BT Pro 藍牙版",
+        "rating": "6.0",
+        "hon_price_min": "400",
+        "hon_price_max": "680",
+        "介面:": "Android 5.1"
+    },
+    {
+        "names": "安博 安博盒子 二代 S800",
+        "rating": "7.5",
+        "hon_price_min": "410",
+        "hon_price_max": "450",
+        "介面:": "USB X1"
+    },
+    {
+        "names": "Apple TV Remote (第2代)",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "378",
+        "water_price_min": "340",
+        "water_price_max": "388"
+    },
+    {
+        "names": "安博 UPRO I900 TW升級版",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "BossTV 博視 V3 電視盒子",
+        "rating": "2.0",
+        "hon_price_min": "680",
+        "hon_price_max": "1,080",
+        "介面:": "HDMI/USB3.0/AV/TF"
+    },
+    {
+        "names": "風雲盒子 X99 MAX (6+64GB)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580"
+    },
+    {
+        "names": "Lingcod TV LH5",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "2,880",
+        "支援輸出:": "hdmi , av",
+        "支援錄影:": "不支援"
+    },
+    {
+        "names": "EVPAD Plus",
+        "rating": "10",
+        "hon_price_min": "697",
+        "hon_price_max": "1,090"
+    },
+    {
+        "names": "Apple TV (第4代) 32GB",
+        "rating": "10",
+        "water_price_min": "780",
+        "water_price_max": "980"
+    },
+    {
+        "names": "Apple TV Remote (第3代)",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428"
+    },
+    {
+        "names": "SUPER DMR-39",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "介面:": "HDMI、色差、AV、數碼同軸",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "Xiaomi 小米 小米小盒子",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "介面:": "MIUI TV"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子4",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "429",
+        "water_price_min": "380",
+        "water_price_max": "430",
+        "介面:": "WiFi, Bluetooth 4.1+ EDR, HDMI, USB, AV"
+    },
+    {
+        "names": "ATV BOX 電視盒子",
+        "rating": "10",
+        "hon_price_min": "40",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "安博 JBOX",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "安博 安博盒子二代增強版",
+        "rating": "6.0",
+        "hon_price_min": "365",
+        "hon_price_max": "470",
+        "介面:": "USB x2 RJ45 x1 MicroSD Slot x1"
+    },
+    {
+        "names": "BestV (Pro) Media Player 高配版",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "介面:": "HDMI+USB3.0+AV+LAN"
+    },
+    {
+        "names": "Apple TV HD 32GB",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "900",
+        "water_price_min": "680",
+        "water_price_max": "980"
+    },
+    {
+        "names": "千尋影視 千尋盒子2 Q-box 2-iii 尊貴版",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "1,870",
+        "介面:": "AV/HDMI"
+    },
+    {
+        "names": "BossTV 博視 V2 全球直播盒子",
+        "rating": "3.2",
+        "hon_price_min": "498",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "Teledevice RM-148",
+        "rating": "4.7",
+        "hon_price_min": "248",
+        "hon_price_max": "339"
+    },
+    {
+        "names": "安博 安博盒子 UBOX4 C800Plus",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "780",
+        "介面:": "HDMI AV USBX2 TFSLOT",
+        "支援輸出:": "4K"
+    },
+    {
+        "names": "Prima PM-3019",
+        "rating": "3.6",
+        "hon_price_min": "238",
+        "hon_price_max": "298",
+        "支援輸出:": "1080P/ 1080i / 720p / 576p / 576i"
+    },
+    {
+        "names": "安博 安博盒子 第七代 UPROS 4+64GB K9P 高配香港版",
+        "rating": "8.0",
+        "hon_price_min": "820",
+        "hon_price_max": "1,380",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Hiraki HD Digital TV Receiver HK-889",
+        "rating": "10",
+        "hon_price_min": "185",
+        "hon_price_max": "248",
+        "water_price_min": "198",
+        "water_price_max": "208",
+        "介面:": "HDMI, USB2.0,",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PM-3028RM",
+        "rating": "10",
+        "hon_price_min": "210",
+        "hon_price_max": "368",
+        "支援輸出:": "HDMI/RCA",
+        "支援錄影:": "YES"
+    },
+    {
+        "names": "安博 安博盒子 第3代 TV BOX3 Gen3 S900 Pro",
+        "rating": "7.1",
+        "hon_price_min": "410",
+        "hon_price_max": "980",
+        "介面:": "Android 5.1"
+    },
+    {
+        "names": "Apple TV (第4代) 64GB",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,560",
+        "water_price_min": "950",
+        "water_price_max": "998"
+    },
+    {
+        "names": "SVI Cloud M8S Pro 小雲電視盒",
+        "rating": "9.8",
+        "hon_price_min": "880",
+        "hon_price_max": "960",
+        "介面:": "HDMI+USB+AV+LAN"
+    },
+    {
+        "names": "Eight SET-TOP BOX 迷你數碼高清接收器 M1",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "528",
+        "介面:": "支援HDMI或YPbPr高清數碼輸出",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "小七科技 小七盒子4代 SBOX4",
+        "rating": "6.0",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "介面:": "USB X 2 / Micro Sd X 1 / RJ45 Lan /Wifi 5G+2.4"
+    },
+    {
+        "names": "CoolBox 高清網絡盒子",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "960"
+    },
+    {
+        "names": "Giec GK-HD220",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "介面:": "HDMI, AV out, 色差輸出",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA 數碼電視接收盒 PM-2216",
+        "rating": "4.0",
+        "hon_price_min": "210",
+        "hon_price_max": "240"
+    },
+    {
+        "names": "EVPAD PRO 4K (停產)",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "Eight AD200X",
+        "rating": "6.0",
+        "介面:": "Android 4.4",
+        "支援錄影:": "1080P"
+    },
+    {
+        "names": "MASPRO UTB35W",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "418"
+    },
+    {
+        "names": "Apple TV Remote MQGE2ZA/A",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370"
+    },
+    {
+        "names": "maxDigital HD-500RM",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "介面:": "高清HDMI及YPbPr",
+        "支援錄影:": "支援usb 2.0 外置硬碟進行錄影"
+    },
+    {
+        "names": "PRIMA PM-76HD500",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "介面:": "USB",
+        "支援錄影:": "內置500硬碟"
+    },
+    {
+        "names": "Thomson TMS-888",
+        "rating": "9.0",
+        "支援輸出:": "1080p",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi CP-857S",
+        "rating": "7.0",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "介面:": "HDMI, 紅白, 色差",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "AV LINK 數碼電視高清機頂盒 DTMB-2020(AVS+)",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "329",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Roku Streaming Media Player  3930se",
+        "rating": "",
+        "water_price_min": "460",
+        "water_price_max": "460"
+    },
+    {
+        "names": "EVPAD PRO+",
+        "rating": "6.0",
+        "hon_price_min": "630",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "千尋影視 千尋盒子2 Q-box 2-i",
+        "rating": "7.3",
+        "hon_price_min": "399",
+        "hon_price_max": "480",
+        "介面:": "AV/HDMI"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子4c",
+        "rating": "10",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "介面:": "WiFi, HDMI, USB, AV"
+    },
+    {
+        "names": "Mcbazel ODV-II 複合CVBS/S-Video/YPbPr 轉色差分量YPbPr 視頻轉碼器",
+        "rating": ""
+    },
+    {
+        "names": "AV LINK DTMB-A1634",
+        "rating": "4.0",
+        "hon_price_min": "580",
+        "hon_price_max": "590",
+        "介面:": "Android 4.4/ USB x 3",
+        "支援錄影:": "7天EPG預錄"
+    },
+    {
+        "names": "AV LINK DTMB-1789",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "388",
+        "介面:": "AV / 色差/ HDMI / 同軸"
+    },
+    {
+        "names": "PRIMA PM-39",
+        "rating": "2.0",
+        "hon_price_min": "210",
+        "hon_price_max": "288",
+        "介面:": "DMB-TH",
+        "支援錄影:": "1080P/ 1080i / 720p / 576p / 576i"
+    },
+    {
+        "names": "Mcbazel ODV-GBS-C 色差分量YPbPr/RGBS Scart/VGA RGBHV轉 VGA/標準HDMI視頻轉碼器",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590"
+    },
+    {
+        "names": "JIUZHOU DTT6700(B)",
+        "rating": "8.0",
+        "介面:": "1080i",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Beelink SEA Ⅰ TV Box",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,020",
+        "介面:": "Android 6.0",
+        "支援錄影:": "FHD 108p"
+    },
+    {
+        "names": "PRIMA PM-3018",
+        "rating": "5.5",
+        "hon_price_min": "250",
+        "hon_price_max": "299",
+        "介面:": "1080p / 1080i / 720p / 576p / 576i",
+        "支援錄影:": "支援錄影及待機預錄功能（需另購外置硬碟）"
+    },
+    {
+        "names": "小七科技 小七盒子3代 終極版",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "1,570"
+    },
+    {
+        "names": "Eight PHD899",
+        "rating": "",
+        "hon_price_min": "445",
+        "hon_price_max": "450",
+        "支援輸出:": "HDMI/YPbPr"
+    },
+    {
+        "names": "安博 S800 Plus 16GB 海外版",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "PRIMA PM-3016RM",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "309",
+        "介面:": "(CVBS, YPbPr), Audio R/L, HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Marvel STE",
+        "rating": "",
+        "介面:": "HDMI x 2 / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Lingcod TV LS5",
+        "rating": "3.0",
+        "hon_price_min": "180",
+        "hon_price_max": "2,280",
+        "介面:": "HDMI, AV Output, USB x2, TF, Optical Output"
+    },
+    {
+        "names": "Teledevice HD-308RM",
+        "rating": "6.0",
+        "hon_price_min": "220",
+        "hon_price_max": "339"
+    },
+    {
+        "names": "小七科技 小七盒子 二代黑鑽版",
+        "rating": "10",
+        "hon_price_min": "58",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "Creation DTTR-2008",
+        "rating": "",
+        "介面:": "HDMI / S-Video / AV / RF / 色差 / 光纖",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "BiaiCom DTR-3366RM",
+        "rating": "6.0",
+        "hon_price_min": "250",
+        "hon_price_max": "298",
+        "支援輸出:": "HDMI/RCA"
+    },
+    {
+        "names": "Eight PHD898",
+        "rating": "6.0",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "介面:": "1080p",
+        "支援輸出:": "HDMI,AV,色差,同軸"
+    },
+    {
+        "names": "Roku Media Streamer 3900SE",
+        "rating": "",
+        "water_price_min": "410",
+        "water_price_max": "410"
+    },
+    {
+        "names": "Giec GK-HD16RM",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "介面:": "HDMI (1.3 Ver)、YPbPr (色差)、CVBS、RF",
+        "支援輸出:": "1080P﹑1080i﹑720P(RMVB)﹑576P﹑576i﹑480P﹑480i"
+    },
+    {
+        "names": "Giec GK-HD110",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "介面:": "AV / 同軸 / 光纖 / HDMI / LAN",
+        "支援錄影:": "不支援"
+    },
+    {
+        "names": "Apple TV Remote MG2Q2ZA/A",
+        "rating": "10",
+        "hon_price_min": "330",
+        "hon_price_max": "398",
+        "water_price_min": "320",
+        "water_price_max": "320"
+    },
+    {
+        "names": "Akai 雅佳 SKS217",
+        "rating": "4.0",
+        "介面:": "HDMI / 色差 / AV / USB",
+        "支援錄影:": "可待機錄影"
+    },
+    {
+        "names": "PRIMA PM699",
+        "rating": "8.0",
+        "介面:": "HDMI / USB / 色差 / 視頻",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子3c",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "介面:": "HDMI, USB, 3.5mm輸出"
+    },
+    {
+        "names": "Thomson TH-303",
+        "rating": "9.0",
+        "介面:": "HDMI / USB / SD",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight PHD898 數碼高清接收器",
+        "rating": "8.0",
+        "hon_price_min": "397",
+        "hon_price_max": "397",
+        "支援輸出:": "HDMI / YPbPr高清數碼輸出",
+        "支援錄影:": "USB手指 / 硬碟"
+    },
+    {
+        "names": "EVPAD 2S+",
+        "rating": "10",
+        "hon_price_min": "468",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "AV LINK 數碼電視高清機頂盒 DTMB-1990",
+        "rating": "10",
+        "hon_price_min": "200",
+        "hon_price_max": "299",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Thomson TH901",
+        "rating": "8.0",
+        "介面:": "Internet Media player",
+        "支援輸出:": "LAN / Card Reader"
+    },
+    {
+        "names": "小七科技 小七盒子3代八核心 4K 白銀版",
+        "rating": "7.0",
+        "hon_price_min": "408",
+        "hon_price_max": "408",
+        "介面:": "USB x 2"
+    },
+    {
+        "names": "PRIMA PM-3018A",
+        "rating": "2.0",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "介面:": "DMB-TH 數碼電視制定標準",
+        "支援錄影:": "H .264, DIVX, MP3, MKV, MP4, JPEG , AVI, RMVB etc."
+    },
+    {
+        "names": "Hyundai 現代 HY-889",
+        "rating": "7.0",
+        "hon_price_min": "228",
+        "hon_price_max": "228"
+    },
+    {
+        "names": "Apple Remote Loop MLFQ2ZA/A",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "AV LINK DMB-TH8033",
+        "rating": "6.0",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "HDMI / 色差 / Video / S-Video / Opitical / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Prima PM-228",
+        "rating": "8.0",
+        "hon_price_min": "245",
+        "hon_price_max": "260"
+    },
+    {
+        "names": "Eight DR201",
+        "rating": "6.8",
+        "hon_price_min": "669",
+        "hon_price_max": "669",
+        "介面:": "HDMI / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "EVPAD T2",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "609",
+        "介面:": "USB X 2 / Micro Sd X 1 / RJ45 Lan /Wifi"
+    },
+    {
+        "names": "安博 安博盒子 UPRO2 TW",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "680"
+    },
+    {
+        "names": "HiMedia HD600C TH",
+        "rating": "",
+        "介面:": "Composite, Component, HDMI",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "VDiGi CP-175HD320",
+        "rating": "10",
+        "介面:": "複合視頻 X 1色差 X 1HDMI X 1 (1.3)SPDIF 同輸 X 1立體聲音頻 (L/R) X 1",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "千尋影視 千尋盒子 (影視版)",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "380"
+    },
+    {
+        "names": "Olevia ZMT-641PVR",
+        "rating": "8.1",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "介面:": "HDMI / 色差 / S-Video / AV/ 光纖 / 同軸 / USB X 2 / Ethernet / RF X 2",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight EHD308",
+        "rating": "5.7",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "介面:": "1080P",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "Eight AD100X Plus",
+        "rating": "4.7",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "介面:": "Android",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "Hyundai 現代 HDTV-R320",
+        "rating": "",
+        "介面:": "HDMI / Component / Composite / RCA / SPDIF",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PM-26",
+        "rating": "8.0",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi CP-175HD",
+        "rating": "2.0",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "介面:": "HDMI, 色差, RCA",
+        "支援錄影:": "1080p, 1080i, 720p, 576p"
+    },
+    {
+        "names": "HiMedia TT盒子",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "介面:": "多國語言,簡體中文,繁體中文,英語"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子3 增強版",
+        "rating": "9.0",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "介面:": "MIUI, HDMI, USB 2.0 x 2"
+    },
+    {
+        "names": "Magic 4K Tvbox /魔術盒子",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750"
+    },
+    {
+        "names": "Teledevice HD-3223RM",
+        "rating": "6.0",
+        "hon_price_min": "248",
+        "hon_price_max": "278",
+        "介面:": "HDMI / AV / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Hyundai 現代 HY-1022B 高清數碼電視接收器",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "Olevia ZMT-600PVR",
+        "rating": "9.0",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "介面:": "HDMI / 色差 / S-Video / AV / 光纖 / RF",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "安博 安博盒子 第4代  UBOX Gen.4 C800",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "980",
+        "介面:": "Android 4.4"
+    },
+    {
+        "names": "SmarterWare Android 電視盒子 R96",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "Eight EHD398",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "468"
+    },
+    {
+        "names": "小七科技 小七盒子3代 鑽石版",
+        "rating": "2.0",
+        "hon_price_min": "58",
+        "hon_price_max": "280"
+    },
+    {
+        "names": "RCA RC-DVB002",
+        "rating": "6.0",
+        "介面:": "1080p",
+        "支援錄影:": "USB 外置硬盤"
+    },
+    {
+        "names": "BestV (STD) Media Player 標準版",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "介面:": "HDMI+USB3.0+AV+LAN"
+    },
+    {
+        "names": "Eight EHD708",
+        "rating": "6.0",
+        "hon_price_min": "390",
+        "hon_price_max": "435"
+    },
+    {
+        "names": "Olevia BP-8320",
+        "rating": "8.0",
+        "hon_price_min": "1,795",
+        "hon_price_max": "1,795",
+        "介面:": "HDMI / 色差 / AV / 同軸 / 光纖 / 2 x RF / ethernet / 2 x USB / 2 x RS232",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子3",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "介面:": "AV / HDMI"
+    },
+    {
+        "names": "Hyundai 現代 數碼電視機頂盒 HYST-122",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "299",
+        "介面:": "HDMI, 色差",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD230",
+        "rating": "8.0",
+        "hon_price_min": "369",
+        "hon_price_max": "369",
+        "介面:": "色差 / AV / 光纖 / HDMI / LAN / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PM-32",
+        "rating": "2.0",
+        "hon_price_min": "270",
+        "hon_price_max": "270",
+        "介面:": "(CVBS, YPbPr), Audio R/L, HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "CHANGHONG 6800TX",
+        "rating": "8.1",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "MyTV Super 電視盒子 【至尊版】",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,610"
+    },
+    {
+        "names": "ATV A1 PRO HDTV BOX 高清正版電視盒子",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "699",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "VICTOR VDA-809",
+        "rating": "8.3",
+        "介面:": "HDMI / 色差 / 三色 / VGA / 光纖 / 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Teledevice HD-26DT",
+        "rating": "6.0",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "介面:": "USB",
+        "支援錄影:": "Yes"
+    },
+    {
+        "names": "PRIMA PM-698",
+        "rating": "8.1",
+        "介面:": "HDMI / 色差 / 視頻 / USB 2.0 / 同軸 / Card Reader",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "EVPAD 2S",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "540",
+        "介面:": "HDMI, CVBS"
+    },
+    {
+        "names": "Sling Media Slingbox M1",
+        "rating": "10",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "介面:": "LAN / USB / Video / 色差 / IR / WIFI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight Mini HD Digital Receiver M1",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "445",
+        "介面:": "HDMI, AV",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Apple TV (第 3 代)",
+        "rating": "10",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "介面:": "HDMI / Micro-USB / Optical Audio"
+    },
+    {
+        "names": "Teledevice HD-3223 RM(S1)",
+        "rating": "",
+        "hon_price_min": "216",
+        "hon_price_max": "216"
+    },
+    {
+        "names": "VDiGi CP-175HD1000",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099"
+    },
+    {
+        "names": "Xiaomi 小米 小米盒子",
+        "rating": "7.4",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "介面:": "HDMI"
+    },
+    {
+        "names": "R4 Ready 4 484",
+        "rating": "",
+        "介面:": "HDMI / Component / S-video",
+        "支援錄影:": "可"
+    },
+    {
+        "names": "Eight EHD-608",
+        "rating": "5.0",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "介面:": "1080p",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "安博 安博盒子第3代 8GB 標配版黑色",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "498",
+        "介面:": "USB X 2 / Micro Sd X 1 / RJ45 Lan /Wifi"
+    },
+    {
+        "names": "千尋影視 千尋盒子3 Q-Boxiii",
+        "rating": "8.0",
+        "hon_price_min": "499",
+        "hon_price_max": "970",
+        "介面:": "AV/HDMI"
+    },
+    {
+        "names": "SUPER HD3800",
+        "rating": "",
+        "支援輸出:": "1080p"
+    },
+    {
+        "names": "AV LINK DTMB-1503",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "361",
+        "介面:": "USB",
+        "支援錄影:": "7天EPG預錄"
+    },
+    {
+        "names": "Xiaomi 小米 新小米盒子",
+        "rating": "7.9",
+        "hon_price_min": "460",
+        "hon_price_max": "560",
+        "water_price_min": "450",
+        "water_price_max": "698",
+        "介面:": "AV / HDMI"
+    },
+    {
+        "names": "maxDigital HD-500",
+        "rating": "7.3",
+        "介面:": "HDMI, 色差, AV, 同軸",
+        "支援錄影:": "USB 外接硬碟"
+    },
+    {
+        "names": "Teledevice HD8AN",
+        "rating": "8.0",
+        "hon_price_min": "770",
+        "hon_price_max": "770",
+        "支援輸出:": "HDMI , AV",
+        "支援錄影:": "YES"
+    },
+    {
+        "names": "Contex DM669",
+        "rating": "",
+        "介面:": "HDMI / USB 2.0 / 同軸 / 色差 / 視頻",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "TOP SMART DVB-007",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "320",
+        "支援輸出:": "HDMI、色差、AV、數碼同軸、天線",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD13",
+        "rating": "5.6",
+        "介面:": "USB 2.0 / HDMI / SD/SDHC / 色差 / RCA / 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD160",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "285",
+        "介面:": "HDMI / AV / LAN",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "Teledevice AN2HD",
+        "rating": "4.7",
+        "hon_price_min": "660",
+        "hon_price_max": "668"
+    },
+    {
+        "names": "千尋影視 千尋盒子 (增強版)",
+        "rating": "8.8",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Giec GK-HD12",
+        "rating": "7.5",
+        "介面:": "HDMI / USB",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "小七科技 小七盒子2代暢玩版 16GB",
+        "rating": "10",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "介面:": "USB x 2"
+    },
+    {
+        "names": "VDiGi CP-175HD1TB",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "介面:": "HDMI, 色差, RCA",
+        "支援錄影:": "支援 ,內置 1TB 硬碟"
+    },
+    {
+        "names": "Apple AppleCare Protection Plan for Apple TV MC264FE/A",
+        "rating": ""
+    },
+    {
+        "names": "Hyundai 現代 HYHD-32",
+        "rating": "6.0",
+        "介面:": "HDMI",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "Teledevice HD-3210",
+        "rating": "6.5",
+        "hon_price_min": "449",
+        "hon_price_max": "449",
+        "介面:": "HDMI / USB / SD",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "imation i-Pro",
+        "rating": "7.8",
+        "介面:": "HDMI / AC-3 / 5.1",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Scishion V88 4K",
+        "rating": "10"
+    },
+    {
+        "names": "StarTV M423",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "TOP SMART DVB-001",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "300",
+        "介面:": "HDMI、色差、AV、同軸",
+        "支援錄影:": "USB 外接硬盤"
+    },
+    {
+        "names": "VDiGi VDR 500GB",
+        "rating": "6.0",
+        "介面:": "複合視頻 , S-Video , 色差 , HDMI , 光纖 , 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PM-38",
+        "rating": "5.3",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "介面:": "DMB-TH",
+        "支援錄影:": "1080P/ 1080i / 720p / 576p / 576i"
+    },
+    {
+        "names": "Akai 雅佳 SKS218",
+        "rating": "",
+        "支援輸出:": "HDMI、色差、AV、數碼同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HDR1000",
+        "rating": "2.0",
+        "介面:": "HDMI,AV,色差,同軸",
+        "支援錄影:": "MPEG"
+    },
+    {
+        "names": "VDiGi VD-R250",
+        "rating": "",
+        "介面:": "複合視頻 / 色差 / S-Video / HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight CC-808",
+        "rating": "8.0",
+        "介面:": "HDMI / 色差 / AV",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "ACL ACL-STB9909",
+        "rating": "6.0",
+        "介面:": "USB / HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PVODbox P1",
+        "rating": "3.3",
+        "hon_price_min": "299",
+        "hon_price_max": "909",
+        "介面:": "Android 6.0.1",
+        "支援輸出:": "HDMI 1.4 支持4K"
+    },
+    {
+        "names": "VDiGi 2T-100",
+        "rating": "9.0",
+        "介面:": "HDMI,色差,RCA",
+        "支援錄影:": "雙Tuner設計,觀看一台時可同時錄影兩個頻點節目"
+    },
+    {
+        "names": "Hyundai 現代 KTV5",
+        "rating": "",
+        "介面:": "Android"
+    },
+    {
+        "names": "MGTVBOX F24",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "介面:": "HDMI,光纖，USBX2"
+    },
+    {
+        "names": "Hyundai 現代 HY3123RM",
+        "rating": "",
+        "介面:": "AV / 色差 / HDMI / 同軸 / USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD398M",
+        "rating": "4.7",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "介面:": "USB",
+        "支援錄影:": "USB手指 / 硬碟"
+    },
+    {
+        "names": "Cinetron 新朗 DMB-T6200B",
+        "rating": "6.4",
+        "hon_price_min": "795",
+        "hon_price_max": "795",
+        "介面:": "HDMI / 色差 / AV / 同軸 / 光纖",
+        "支援錄影:": "不支援"
+    },
+    {
+        "names": "VICTOR VDA-801",
+        "rating": "8.0",
+        "介面:": "HDMI / 色差 / AV / S-Video / RF / 同軸 / USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "SINOPAD K35",
+        "rating": "10"
+    },
+    {
+        "names": "Teledevice TCL-HD3579",
+        "rating": "4.7",
+        "介面:": "USB / HDMI / Card Reader",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Thomson TMP-3TH",
+        "rating": "",
+        "介面:": "HDMI / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PM-63DT",
+        "rating": "6.8",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "介面:": "雙USB",
+        "支援錄影:": "雙台錄影"
+    },
+    {
+        "names": "Eight AD100X",
+        "rating": "6.3",
+        "介面:": "Android 4.2",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight NOVA SM-908",
+        "rating": "8.4",
+        "介面:": "HDMI / Component / S-Video / Composite",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "LeEco樂視 樂視盒子2 增強版 (停產)",
+        "rating": "",
+        "介面:": "HDMI 1.4a/USB 2.0 x 2/ 乙太網路接口 (RJ45) /SD卡槽"
+    },
+    {
+        "names": "Cinetron 新朗 DT-6800R",
+        "rating": "8.0",
+        "介面:": "HDMI / 色差 / S-Video / USB / RJ-45",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Sling Media Slingbox PRO-HD",
+        "rating": "8.0",
+        "hon_price_min": "1,790",
+        "hon_price_max": "1,790",
+        "介面:": "LAN / USB / Video / 色差 / IR",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VDR-250GB",
+        "rating": "",
+        "介面:": "複合視頻 / S-Video / 色差 / HDMI / SPDIF 光纖 / 立體聲音頻 (L/R) / USB / LAN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VIBE 威霸盒子",
+        "rating": "",
+        "介面:": "HDMI / AV Out, USB 2.0, TF Card Slot, Optical Sound Out"
+    },
+    {
+        "names": "Xtreamer Prodigy",
+        "rating": "10",
+        "介面:": "Linux",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD500AP",
+        "rating": "",
+        "介面:": "HDMI",
+        "支援錄影:": "支援PVR，雙台錄影"
+    },
+    {
+        "names": "ETI ST-618",
+        "rating": "10",
+        "支援輸出:": "1080i/1080P/ 720P /576P /576i",
+        "支援錄影:": "USB手指/硬碟錄影即錄及預錄功能"
+    },
+    {
+        "names": "Creation DTTR-1338N",
+        "rating": "6.0",
+        "介面:": "HDMI / 色差 / 三色 / VGA / 光纖 / 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Creation DTTR-2008 Plus",
+        "rating": "5.1",
+        "介面:": "HDMI / 色差 / 三色 / VGA / 光纖 / 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "千尋影視 千尋盒子",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "1080P(1920×1080)"
+    },
+    {
+        "names": "imation DVR-6000",
+        "rating": "",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD290",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "介面:": "HDMI, AV out, 色差輸出, AV IN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight EHD208",
+        "rating": "6.0",
+        "介面:": "1080P",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "Eight HD500GT",
+        "rating": "4.5",
+        "介面:": "HDMI / 色差 / S-Video / AV / 光纖 / 2 x RF / Ethernet / USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Hyundai 現代 HYHD-320AV",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "588"
+    },
+    {
+        "names": "Hyundai 現代 HY-303AV",
+        "rating": "",
+        "支援輸出:": "HDMI,色差",
+        "支援錄影:": "Yes"
+    },
+    {
+        "names": "Sony DST-HD100H",
+        "rating": "9.0",
+        "介面:": "HDMI / 色差 / 光纖 / USB 2.0",
+        "支援輸出:": "576i / 576p / 720p / 1080i"
+    },
+    {
+        "names": "AV LINK DMBH-1055",
+        "rating": "8.0",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "ACL ACL-STB-R1",
+        "rating": "6.5",
+        "介面:": "HDMI / AV / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VD-i (160GB)",
+        "rating": "7.9",
+        "介面:": "RF / 色差 / HDMI / AV / S-Video / 同軸 / 光纖",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Akai 雅佳 SKS205",
+        "rating": "",
+        "介面:": "USB / HDMI / 光纖 / S/PDIF",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "LOGTEK LT-1804",
+        "rating": "8.0",
+        "介面:": "HDMI",
+        "支援輸出:": "1080i"
+    },
+    {
+        "names": "AmazePc HT100",
+        "rating": "7.3",
+        "介面:": "HDM1 / SPD1F / Coax / YPbPr / 3.5寸SATA硬碟接口 / 2 x USB2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD28RM",
+        "rating": "",
+        "介面:": "HDMI (1.3 Ver)、YPbPr (色差)、CVBS、RF",
+        "支援錄影:": "YES"
+    },
+    {
+        "names": "Giec DMBT-X01",
+        "rating": "",
+        "介面:": "色差 / S-Video / RCA / 同軸",
+        "支援輸出:": "1080i / 720p / 576p / 480i"
+    },
+    {
+        "names": "Eight HD388M",
+        "rating": "2.0",
+        "介面:": "HDMI或YPbPr",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "maxDigital HD-600RM",
+        "rating": "7.0",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "介面:": "HDMI及YPbPr",
+        "支援錄影:": "支援usb 2.0介面硬碟進行錄影"
+    },
+    {
+        "names": "Olevia ZMT-601",
+        "rating": "7.3",
+        "介面:": "HDMI / USB 2.0 / 同軸 / 色差 / 視頻",
+        "支援錄影:": "雙台錄影"
+    },
+    {
+        "names": "PRIMA PM-62DT",
+        "rating": "7.9",
+        "介面:": "DUAL USB",
+        "支援錄影:": "雙台錄影"
+    },
+    {
+        "names": "Olevia ZMT-620FTA",
+        "rating": "5.7",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "介面:": "HDMI / S-Video / RCA / Video / Optical / Coaxial",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD250GS",
+        "rating": "6.9",
+        "介面:": "HDMI / 色差 / AV / 光纖 / 同軸 / USB / Ethernet",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight EHD202",
+        "rating": "6.5",
+        "介面:": "HDMI / USB 2.0 / 同軸 / 色差 / 視頻",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi CP-175HD500",
+        "rating": "4.0",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "介面:": "HDMI,色差,RCA",
+        "支援錄影:": "支援 , 內置500GB 硬碟"
+    },
+    {
+        "names": "ACL ACL-STB-8",
+        "rating": "6.2",
+        "介面:": "HDMI、色差、AV輸出",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Euron DMB-HD08R",
+        "rating": "8.0",
+        "介面:": "HDMI / S-Video / 色差 / AV / Coaxial / Optica / USB / LAN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Euron DTR-320HD",
+        "rating": "7.3",
+        "介面:": "HDMI / 色差 / S-Video / RCA / Coaxial / Optical",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Olevia ZMT-621FTA",
+        "rating": "8.1",
+        "介面:": "HDMI",
+        "支援錄影:": "雙台錄影"
+    },
+    {
+        "names": "PRIMA PM-801",
+        "rating": "2.0",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "介面:": "DMBT-H +Android 4.4",
+        "支援輸出:": "HDMI/Optical"
+    },
+    {
+        "names": "Giec GK-HD10",
+        "rating": "8.7",
+        "介面:": "色差 / S-Video / RCA / 同軸",
+        "支援輸出:": "1080i / 720p / 576p / 480i"
+    },
+    {
+        "names": "DRACO HDMB2299",
+        "rating": "7.6",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "介面:": "HDMI輸入 x 2 / 色差視頻輸出 x 1 / S-視頻輸出 x 1 / 綜合視頻輸出 x 1 / 天線輸入 x 1 / 天線輸出 x 1 / 數碼光纖音頻輸出(OPT) x 1 / 模擬音頻輸出(L/R) x 1 / USB 2.0 x 1 / Ethernet寬頻連接埠 x 1 / RS232數據埠 x 1",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Wakaii WHD-638RM",
+        "rating": "10",
+        "hon_price_min": "275",
+        "hon_price_max": "275",
+        "介面:": "HDMI及YPbPr",
+        "支援錄影:": "支援USB2.0,可支援外置硬碟錄影"
+    },
+    {
+        "names": "Teledevice HD77",
+        "rating": "8.0",
+        "hon_price_min": "415",
+        "hon_price_max": "415",
+        "介面:": "HDMI / 色差 / S-Video / AV / 同軸 / 光纖",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PVD-63TH",
+        "rating": "8.9",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "LG 樂金 HR550",
+        "rating": "9.0",
+        "hon_price_min": "3,399",
+        "hon_price_max": "3,399",
+        "介面:": "HDMI 1.4 / 色差 / AV / 同軸 / RF",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Sling Media Slingbox 500",
+        "rating": "",
+        "hon_price_min": "3,260",
+        "hon_price_max": "3,260",
+        "介面:": "HDMI, Component, Composite",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "JIUZHOU DTT6700",
+        "rating": "9.0",
+        "介面:": "HDMI / 色差 / AV / S-Video / 光纖",
+        "支援輸出:": "576i/p 720p / 1080i"
+    },
+    {
+        "names": "Eight HD-S",
+        "rating": "5.7",
+        "介面:": "HDMI / USB 2.0 / 同軸 / 色差 / 視頻",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD500AV",
+        "rating": "6.9",
+        "介面:": "雙台錄影 / AV x 2 / HDM1 / 色差 / 同軸 / 光纖 / USB 2.0 / eSATA",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD15",
+        "rating": "6.0",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Honor 榮耀 盒子Pro",
+        "rating": ""
+    },
+    {
+        "names": "PRIMA PM-75H5",
+        "rating": "9.0",
+        "介面:": "HDMI / USB 2.0 / 同軸 / 色差 / 視頻",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Prima PM-699A",
+        "rating": "7.0",
+        "介面:": "AV / 色差 / HDMI / 同軸 / USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VIBE 盒子2",
+        "rating": "",
+        "介面:": "USB2.0 LAN HDMI"
+    },
+    {
+        "names": "VDiGi VD-R",
+        "rating": "9.0",
+        "介面:": "複合視頻 / S-Video / 色差 / HDMI / 光纖 / 同軸 / USB / LAN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD14",
+        "rating": "8.3",
+        "介面:": "HDMI / USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Hyundai 現代 HY-18STB",
+        "rating": "8.0",
+        "支援輸出:": "1080i",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "AmazePc HT1000",
+        "rating": "7.3",
+        "介面:": "HDM1 / SPD1F / Coax / YPbPr / 2.5寸SATA硬碟接口 / LAN / 2 x USB2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "TEAC HD-B1000",
+        "rating": "7.4",
+        "介面:": "HDMI / 色差 / 三色 / VGA / 光纖 / 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Hyundai 現代 HYST101",
+        "rating": "7.0",
+        "介面:": "HDMI,AV,色差,同軸",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "TEAC PVR320HD",
+        "rating": "7.0",
+        "介面:": "HDMI / S-Video / 色差 / AV / 光纖 / 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "KAIFA EP6000T",
+        "rating": "10",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "介面:": "HDM1 / SATA / USB / LAN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD18 RM",
+        "rating": "6.0",
+        "介面:": "HDMI / YPbPr / Composite / RF / 同軸 / RCA音頻",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VD-606",
+        "rating": "8.0",
+        "介面:": "2 x USB / Ethernet / RF / Composite Video / S-Video / S/PDIF Digital Audio / HDMI / Component / Stereo",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Techgear MB902",
+        "rating": "9.1",
+        "介面:": "HDMI / S-Video / 色差 /  USB / LAN",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "Creation RMS09",
+        "rating": "8.0",
+        "介面:": "英文 / 繁體中文 / 簡體中文",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Hyundai 現代 HYST404QC",
+        "rating": "",
+        "介面:": "Android 4.2.2",
+        "支援錄影:": "Yes"
+    },
+    {
+        "names": "Giec GK-HD120",
+        "rating": "",
+        "介面:": "HDMI, AV out, 色差輸出",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VD-i",
+        "rating": "8.2",
+        "介面:": "HDMI / 色差 / S-Video / AV / 同軸 / 光纖 / 2 x RF / LAN / 2 x USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PVD668TH",
+        "rating": "6.8",
+        "介面:": "HDMI / 色差 / S-Video / AV / 同軸 / 光纖",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Vulkano Deluxe Pro",
+        "rating": "",
+        "介面:": "Component / Composite / LAN / Wi-Fi (802.11n) / USB / SD / e-SATA",
+        "支援錄影:": "支援 (Build-in recording)"
+    },
+    {
+        "names": "ViewSonic NextVision HD810",
+        "rating": "8.0",
+        "介面:": "HDMI / 色差 / S-VIedo / AV / 同軸 / RF",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "HiMedia HD560B-TH+/DUAL",
+        "rating": "6.3",
+        "介面:": "HDMI / 色差 / USB 3.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Euron DTR-500HD (內置500gb)",
+        "rating": "8.0",
+        "介面:": "HDMI / 色差 / AV / S-Video / USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "DATASTORAGE HDPRO-DMB",
+        "rating": "7.6",
+        "介面:": "HDM1 / 色差 / AV / LAN / eSATA / OPT1CAL / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Gadmei 電視盒視頻轉換器 TV2830E",
+        "rating": ""
+    },
+    {
+        "names": "Eight PHD838",
+        "rating": "6.0",
+        "介面:": "1080p",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "VDiGi VDR-320GB",
+        "rating": "",
+        "介面:": "複合視頻 / S-Video / 色差 / HDMI / SPDIF 光纖 / 立體聲音頻 (L/R) / USB / LAN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "LOGTEK LT-1813",
+        "rating": "",
+        "支援輸出:": "CVBS/HDMI/Coxial,具RMVB功能",
+        "支援錄影:": "通過USB進行節目即時錄製(PVR), 支持預錄功能,7天節目指南清單（EPG)"
+    },
+    {
+        "names": "VDiGi cp-386s",
+        "rating": "8.7",
+        "支援輸出:": "1080i",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VD-R 500",
+        "rating": "",
+        "介面:": "USB x 2 / LAN / 色差 / 複合視頻 / S-Video / HDMI / 光纖 / 同軸",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VDi-S500",
+        "rating": "",
+        "介面:": "HDMI,色差,S-Video,RCA",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Hyundai 現代 HYST202",
+        "rating": "",
+        "介面:": "HDMI,AV,色差,同軸",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "Xtreamer SideWinder 2",
+        "rating": "8.0",
+        "介面:": "HDMI / Wi-Fi /  USB 3.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "AccessHD DDR2000",
+        "rating": "8.0",
+        "介面:": "AV,色差,HDMI,USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD-320GS",
+        "rating": "8.7",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight EHD202plus",
+        "rating": "9.0",
+        "介面:": "1080i",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "TOPCONPro HDTV-1688DB (320GB)",
+        "rating": "6.0",
+        "介面:": "HDMI / S-video / Component / Composite",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "LeEco樂視 樂視盒子New C1S (停產)",
+        "rating": "8.4",
+        "介面:": "AV / HDMI"
+    },
+    {
+        "names": "imation i-Pro DVR-6005",
+        "rating": "",
+        "介面:": "USB / 色差 / AV / HDMI / Ethernet",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "TOPCONPro HDTV-1688DB (160GB)",
+        "rating": "7.0",
+        "介面:": "HDMI / S-video / Component / Composite",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Xtreamer PRODIGY 4K",
+        "rating": ""
+    },
+    {
+        "names": "ACL MPSTB-1",
+        "rating": "8.2",
+        "介面:": "USB / 色差 / HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD08",
+        "rating": "",
+        "介面:": "色差 / S-Video / RCA / 同軸",
+        "支援輸出:": "1080i / 720p / 576p / 480i"
+    },
+    {
+        "names": "Euron DTR-250HD (內置250gb)",
+        "rating": "",
+        "介面:": "HDMI / 色差 / S-Video / RCA / Coaxial / Optical",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "KAIFA EP600TB",
+        "rating": "",
+        "介面:": "USB 2.0 / LAN / HDMI / 色差 / AV / 光纖 / 5.1",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Akai 雅佳 SKS203",
+        "rating": "8.0",
+        "介面:": "HDMI / S-Video / Component / Composite / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD1",
+        "rating": "8.0",
+        "介面:": "USB / Ethernet",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Contex 解碼器",
+        "rating": "",
+        "支援輸出:": "1080i / 720p / 576p / 480i"
+    },
+    {
+        "names": "TOPCONPro HDTV-1688DB (250GB)",
+        "rating": "",
+        "介面:": "HDMI / S-video / Component / Composite",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight EHD508",
+        "rating": "8.0",
+        "介面:": "1080P",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "Rockchip CX921 Android TV Box",
+        "rating": "",
+        "介面:": "Android",
+        "支援輸出:": "HDMI"
+    },
+    {
+        "names": "ACL ACL-STB1986",
+        "rating": ""
+    },
+    {
+        "names": "DIGI-ANTEN DGA-100",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "介面:": "1080P",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "LeEco樂視 樂視盒子 C1S (停產)",
+        "rating": "",
+        "介面:": "LetvUI 1.5"
+    },
+    {
+        "names": "imation i-Pro DVR-5005",
+        "rating": "5.3",
+        "介面:": "USB / 色差 / AV / HDMI / Ethernet",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD09",
+        "rating": "6.6",
+        "介面:": "色差 / S-Video / RCA / 同軸",
+        "支援輸出:": "1080i / 720p / 576p / 480i"
+    },
+    {
+        "names": "PRIMA PM-28RM",
+        "rating": "7.8",
+        "介面:": "繁體中文, 英文, 簡體中文",
+        "支援錄影:": "待機預錄功能"
+    },
+    {
+        "names": "Imation HQT STB-2020",
+        "rating": "8.0",
+        "介面:": "HDMI",
+        "支援輸出:": "1080"
+    },
+    {
+        "names": "Eight HD 500 AP",
+        "rating": "10",
+        "介面:": "HDMI",
+        "支援錄影:": "是"
+    },
+    {
+        "names": "Creation DTTR-2001",
+        "rating": "",
+        "介面:": "HDMI / 光纖",
+        "支援輸出:": "576i/p / 720p / 1080i"
+    },
+    {
+        "names": "TSK DM-112 TV高清數碼電視接收器機頂盒",
+        "rating": "7.3",
+        "介面:": "中英文操作界面",
+        "支援錄影:": "同頻雙台一睇一錄，待機錄影"
+    },
+    {
+        "names": "AmazePc HT2000",
+        "rating": "8.4",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "介面:": "HDM1 / SPD1F / Coax / YPbPr / 3.5寸SATA硬碟接口 / 2 x USB2.0 / LAN / W1F1",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Giec GK-HD200",
+        "rating": "",
+        "介面:": "HDMI, AV out, 色差輸出",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Euron DTR-750HD",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "介面:": "USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VENZ V9",
+        "rating": "",
+        "介面:": "AV / HDMI",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "Eight HD-838 DMB-TH",
+        "rating": "7.1",
+        "介面:": "HDMI / 色差 / S-Video / RCA / Coaxial / Optical",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD320GT",
+        "rating": "9.6",
+        "介面:": "HDMI / 色差 / S-Video / AV / 光纖 / 2 x RF / Ethernet / USB 2.0",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Teledevice TCL-HD8",
+        "rating": "",
+        "介面:": "HDMI / S-Video / Video / 色差 / Optical / USB / LAN",
+        "支援輸出:": "576i / 576p / 720p / 1080i"
+    },
+    {
+        "names": "Prima PM-68DT",
+        "rating": "2.0",
+        "介面:": "USB",
+        "支援輸出:": "HDMI-1.3"
+    },
+    {
+        "names": "Giec GK-HD20",
+        "rating": "4.0",
+        "介面:": "HDMI﹑YPbPr﹑CVBS 、RF",
+        "支援輸出:": "1080P﹑1080i﹑720P﹑576P﹑576i﹑480p﹑480i"
+    },
+    {
+        "names": "PRIMA PM-36RM",
+        "rating": "2.0",
+        "介面:": "USB",
+        "支援錄影:": "YES"
+    },
+    {
+        "names": "Hyundai 現代 HYRM88",
+        "rating": "4.0",
+        "介面:": "HDMI,AV,色差,同軸",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "Eight PHD868",
+        "rating": "",
+        "介面:": "1080P",
+        "支援錄影:": "外置硬碟"
+    },
+    {
+        "names": "Olevia X01",
+        "rating": "7.6",
+        "介面:": "HDMI / Component / Composite",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Teledevice TCL-1080",
+        "rating": "7.5",
+        "介面:": "HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD118",
+        "rating": "6.0",
+        "介面:": "HDMI",
+        "支援輸出:": "1080i"
+    },
+    {
+        "names": "imation STB-H100",
+        "rating": "8.0",
+        "介面:": "HDMI / 5.1 / USB / AC3",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HD380",
+        "rating": "7.6",
+        "介面:": "HDM1 / S-Video / AV / 同軸 / 光纖 / RF / USB x 2 / eSATA / Ethernet",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Akai 雅佳 SKS118",
+        "rating": "2.0",
+        "支援輸出:": "HDMI、色差、AV、同軸、天線",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VD-R500",
+        "rating": "",
+        "介面:": "複合視頻 / 色差 / S-Video / HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HDR500",
+        "rating": "7.0",
+        "介面:": "HDMI",
+        "支援錄影:": "可同時錄影2個電視台及數碼聲音廣播"
+    },
+    {
+        "names": "CAMBRIDGE AUDIO MINX TV",
+        "rating": ""
+    },
+    {
+        "names": "Eight HD2008",
+        "rating": "7.5",
+        "介面:": "HDMI / S-Video / 色差 / AV",
+        "支援輸出:": "576i / 576p / 720p / 1080i"
+    },
+    {
+        "names": "TOPCONPro HDTV-1688DB",
+        "rating": "6.0",
+        "介面:": "HDMI / S-video / Component / Composite",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "PRIMA PM-86H5",
+        "rating": "7.3",
+        "介面:": "HDMI / RF / 色差 / AV / USB / 同軸 / 光纖 / LAN",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "IMATION HQT HDTV Set-Top Box",
+        "rating": "6.0",
+        "介面:": "HDMI / 5.1 / USB / AC3",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Eight HDR1",
+        "rating": "7.5",
+        "介面:": "HDMI,色差,AV",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Sony DST-HD100C",
+        "rating": "8.8",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "介面:": "HDMI / 色差 / S-Video / AV / 同軸 / 光纖",
+        "支援輸出:": "1080i"
+    },
+    {
+        "names": "Picazzo M288",
+        "rating": "9.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "支援輸出:": "1080P",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VD-1206",
+        "rating": "9.1",
+        "介面:": "HDMI / 色差 / RCA / 5.1 / 同軸 / USB",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "ACL STB 8808",
+        "rating": "7.1",
+        "介面:": "HDMI / S-Video / 色差 / AV",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "Imation HQT STB-2000",
+        "rating": "",
+        "介面:": "HDMI",
+        "支援輸出:": "1080I"
+    },
+    {
+        "names": "Egreat R1-II",
+        "rating": "8.0",
+        "介面:": "Wi-Fi / Ethernet / HDMI",
+        "支援輸出:": "1080P"
+    },
+    {
+        "names": "Eight HD-1",
+        "rating": "6.4",
+        "介面:": "HDMI / 5.1 / Ethernet",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "VDiGi VD-R320",
+        "rating": "",
+        "介面:": "複合視頻 / 色差 / S-Video / HDMI",
+        "支援錄影:": "支援"
+    },
+    {
+        "names": "3Bays PDXtra TV",
+        "rating": "",
+        "介面:": "HDMI",
+        "支援輸出:": "1080p"
+    },
+    {
+        "names": "Teledevice TDV-HD1",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780"
+    }
+]

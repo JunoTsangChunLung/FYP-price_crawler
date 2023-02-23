@@ -1,0 +1,3224 @@
+[
+    {
+        "names": "ASUS ROG EVA EDITION《新世紀福音戰士EVANGELION》電競週邊套裝",
+        "rating": "",
+        "hon_price_min": "4,178",
+        "hon_price_max": "4,178",
+        "類型:": "電競套裝"
+    },
+    {
+        "names": "ASUS TUF Gaming A1 USB-C 3.2 Gen 2x1 SSD 外接盒",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "468",
+        "類型:": "外接盒",
+        "用途:": "SSD"
+    },
+    {
+        "names": "ASUS ROG XG Mobile 外接式顯示卡 (GC31S-019)",
+        "rating": "",
+        "hon_price_min": "7,680",
+        "hon_price_max": "9,998",
+        "water_price_min": "7,880",
+        "water_price_max": "9,599"
+    },
+    {
+        "names": "Keychron Gateron Cap switch set Milky-yellow (35pcs)",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "199",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "AVerMedia LGP2 PLUS 實況擷取盒 (GC513)",
+        "rating": "",
+        "hon_price_min": "1,479",
+        "hon_price_max": "1,680",
+        "類型:": "影音裝置",
+        "用途:": "支援4K pass-thru 輸出顯示的擷取盒，可以讓你享受4Kp60超高畫質的遊戲畫面，同時直播或錄下1080p60的精彩內容"
+    },
+    {
+        "names": "Logitech G435 + G502 Lightspeed 電競耳機滑鼠套裝",
+        "rating": "",
+        "hon_price_min": "1,129",
+        "hon_price_max": "1,698",
+        "water_price_min": "1,129",
+        "water_price_max": "1,129",
+        "類型:": "電競組合"
+    },
+    {
+        "names": "Dragon War 電競電動升降枱 GT-013",
+        "rating": "",
+        "hon_price_min": "3,099",
+        "hon_price_max": "3,999",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "AVerMedia Live Gamer Ultra LGU 實況擷取盒 GC553",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "2,040",
+        "類型:": "影音裝置",
+        "用途:": "影音錄影直播"
+    },
+    {
+        "names": "MAONO 遊戲麥克風 AU-PM471TS",
+        "rating": "8.0",
+        "hon_price_min": "260",
+        "hon_price_max": "299",
+        "類型:": "遊戲咪",
+        "用途:": "直播, 錄音"
+    },
+    {
+        "names": "Zenox Rollerblade Chair Casters 腳輪 (5件裝)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "類型:": "電競椅腳輪"
+    },
+    {
+        "names": "Cooler Master GD120 ARGB 1200mm 電競桌 T35",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,450",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Creative Sound Blaster X4 Hi-res 7.1 External USB DAC and Amp Sound Card with Super X-Fi and SmartComms Kit",
+        "rating": "9.3",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "water_price_min": "1,288",
+        "water_price_max": "1,380",
+        "類型:": "音效卡"
+    },
+    {
+        "names": "CRP Hammerworks PBT鍵帽組合 (Mods_IconMint)",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "210",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Yamaha Gaming Audio Mixer ZG01 遊戲專用直播混音器",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,999",
+        "water_price_max": "1,999",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Razer Core X 顯示卡外接盒",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,499",
+        "類型:": "顯示卡外接盒"
+    },
+    {
+        "names": "Zenox Orion Gaming Desk (Fixed Height) 1.5m",
+        "rating": "",
+        "hon_price_min": "2,959",
+        "hon_price_max": "3,699",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Yamaha Gaming Audio Mixer ZG01 遊戲專用直播混音器",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,999",
+        "water_price_max": "1,999",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Razer Core X 顯示卡外接盒",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,499",
+        "類型:": "顯示卡外接盒"
+    },
+    {
+        "names": "Razer Level Up Bundle 3合1電競套裝",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "559",
+        "類型:": "組合"
+    },
+    {
+        "names": "AVerMedia Live Gamer Extreme 3 (GC551G2)",
+        "rating": "",
+        "hon_price_min": "1,988",
+        "hon_price_max": "1,988",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Elgato Green Screen",
+        "rating": "10",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,290",
+        "類型:": "綠幕",
+        "用途:": "直播時去背景"
+    },
+    {
+        "names": "Cooler Master MasterAccessory GEM 周邊裝置收納支架",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "285",
+        "類型:": "周邊裝置收納支架",
+        "用途:": "理線收納，遊戲手把、電競耳機、甚至VR穿戴裝置，Gem都能穩穩托住"
+    },
+    {
+        "names": "X-Win 電動升降工作檯 GDE1200",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "類型:": "電競枱, 電動升降枱",
+        "用途:": "電動升降工作檯-黑碳纖紋  站立式辦公桌適用於任何地方的辦公室、家庭、學校、醫院、學習中心、聯合辦公空間！"
+    },
+    {
+        "names": "ThunderX3 AS5 HEX RGB 顯示器支撐架",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "438",
+        "類型:": "顯示器支撐架"
+    },
+    {
+        "names": "Razer Mouse Dock Pro 無線滑鼠充電底座",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,195",
+        "類型:": "充電底座",
+        "用途:": "充電及提高無線滑鼠靈敏度上限"
+    },
+    {
+        "names": "Xigmatek Apex Two RGB 1.2m 固定電競桌",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,899",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Zenox Zeus 宙斯機箱枱 (升降版) 1.5米 (V.2)",
+        "rating": "",
+        "hon_price_min": "7,500",
+        "hon_price_max": "9,499",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Logitech G PUBG Keycap 鍵帽套裝 (適用於G512/G Pro X鍵盤)",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "199",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "Machines of Destiny Obsidian X Pro Gaming Table",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,199",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Zenox Ares 阿雷斯電競枱",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "1,199",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Zenox CLUB Spec Simulator Rig 入門賽車架",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "899",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "類型:": "入門賽車架"
+    },
+    {
+        "names": "Logitech G 遊戲滑鼠墊 G840 XL (粉紅限定版)",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "399",
+        "類型:": "滑鼠墊"
+    },
+    {
+        "names": "Steelseries Arctis系列替換耳罩",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "199",
+        "類型:": "耳機替換耳罩"
+    },
+    {
+        "names": "Zenox Zeus 宙斯機箱枱 1m (V.2)",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,999",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Razer Team Razer Floor Rug 電競椅地毯",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "類型:": "地毯,地墊",
+        "用途:": "為地板提供柔軟的防護,為電競椅和地板提供安全防護"
+    },
+    {
+        "names": "AVerMedia Live Gamer 4K (GC573)",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,449",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Razer Laptop Stand Chroma V2 人體工學設計筆記型電腦架",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,269",
+        "類型:": "筆記型電腦架"
+    },
+    {
+        "names": "HyperX Wrist Rest 鍵盤手托 (TKL)",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "199",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Glorious AURA Keycaps V2 full 145-key set",
+        "rating": "10",
+        "hon_price_min": "369",
+        "hon_price_max": "369",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "G-Go 電競桌 (1.2m x 0.65m) GDTS-4",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,180",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Cougar MARS 電競桌",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,998",
+        "類型:": "電競桌",
+        "用途:": "電競桌"
+    },
+    {
+        "names": "AVerMedia GC570 LGHD2 直播擷取卡",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,598",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Iceberg",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Corsair PBT Double-Shot Pro 104鍵 鍵帽套裝",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "230",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk Pro 1.2M 電競檯",
+        "rating": "",
+        "hon_price_min": "4,599",
+        "hon_price_max": "5,599",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "AVerMedia Live Streamer CAP 4K HDMI轉USB相機影像擷取器 BU113",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,570",
+        "類型:": "攝影工具",
+        "用途:": "影音錄影、直播、HDMI 訊號轉換為USB介面至電腦"
+    },
+    {
+        "names": "Razer Core X Chroma",
+        "rating": "",
+        "hon_price_min": "3,180",
+        "hon_price_max": "3,299",
+        "類型:": "顯示卡外接盒"
+    },
+    {
+        "names": "Cougar MARS 120 電競桌",
+        "rating": "",
+        "hon_price_min": "3,360",
+        "hon_price_max": "3,380",
+        "類型:": "電競枱",
+        "用途:": "電競枱"
+    },
+    {
+        "names": "Zenox Monitor Riser",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "類型:": "顯示器支架"
+    },
+    {
+        "names": "MSI Force GC30 V2 無線控制器",
+        "rating": "10",
+        "hon_price_min": "349",
+        "hon_price_max": "499",
+        "類型:": "手機/PC控制器"
+    },
+    {
+        "names": "Razer Thunderbolt 4 Dock Chroma",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "3,299",
+        "類型:": "Thunderbolt 4 Dock"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Logitech GPro x Superlight)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Razer Chroma Light Strip Set 連無線 ARGB 燈光控制器",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "類型:": "RGB 燈條組"
+    },
+    {
+        "names": "AVerMedia AVerCaster Premium 4頻道1080p60 3G-SDI編碼器 RS7190",
+        "rating": "",
+        "hon_price_min": "149,100",
+        "hon_price_max": "149,800",
+        "類型:": "編碼器",
+        "用途:": "編碼器"
+    },
+    {
+        "names": "AVerMedia AVerCaster HDMI/3G-SDI HEVC 1080p60 單路直播編碼器 SE5810",
+        "rating": "",
+        "hon_price_min": "16,140",
+        "hon_price_max": "16,500",
+        "類型:": "直播編碼器",
+        "用途:": "直播編碼器"
+    },
+    {
+        "names": "Razer Chroma Light Strip Expansion Kit 擴張燈條套件",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "類型:": "擴張燈條套件"
+    },
+    {
+        "names": "Zenox Computer Case Mount 機箱架",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "599",
+        "類型:": "機箱架"
+    },
+    {
+        "names": "1st Player 電動升降電競枱 MOTO-E 1460",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,380",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron Gateron White Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "109",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Pulsar Superglide 腳貼 (For Razer Viper Ultimate)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "HyperX Wrist Rest 滑鼠手托 (Mouse)",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "139",
+        "類型:": "滑鼠手墊"
+    },
+    {
+        "names": "ASUS ROG Metal Stand 耳機支架",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "299",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Keychron XDA Profile PBT Retro Keycap Set 復古鍵帽套裝",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "349",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Razer Core X Mercury External Graphics Enclosure for Thunderbolt 3 Laptops",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "2,899"
+    },
+    {
+        "names": "Glorious GMMK Pro Prebuilt 75% 準成品",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,799",
+        "類型:": "準成品 Barebone"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Dolch Red",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Cooler Master GD160 ARGB Gaming Desk 電競桌",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,950",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "1st Player 電動升降電競枱 MOTO-E 1160",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,280",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Razer Base Station V2 Chroma",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "water_price_min": "649",
+        "water_price_max": "649",
+        "類型:": "耳機立架USB集線器"
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for Razer DeathAdder V3 Pro (CTRL) (2 Sets)",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "AVerMedia Live Gamer DUO 實況擷取卡 (GC570D)",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,388",
+        "類型:": "影音裝置",
+        "用途:": "2路HDMI同時輸入●4Kp60 HDR/1080p240 pass-thru●可錄製1080p60 HDR畫面●雙機視角、即時場景切換、畫面疊加等●超低延遲 高速穩定"
+    },
+    {
+        "names": "KontrolFreek 55\" Gaming Lights USB 燈帶",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Keychron 潤滑劑 Klube 205",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Xigmatek Apex (單摩打) 電動可調式升降電競桌",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "2,599",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Zowie EC series)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Steelseries Mouse Bungee 滑鼠集線器",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "199",
+        "類型:": "滑鼠集線器"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Ocean",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Keychron Gateron - Blue Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "109",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Razer Lumbar Cushion 電競椅專用護腰枕 (Hello Kitty and Friends Edition)",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "499",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "類型:": "護腰枕"
+    },
+    {
+        "names": "Kelowna CNC 機械鍵盤三用金屬拔鍵器",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "25",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "拔鍵器"
+    },
+    {
+        "names": "X-Win 電動升降工作檯 GDE1400",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "類型:": "電競枱, 電動升降枱",
+        "用途:": "電動升降工作檯-黑碳纖紋  站立式辦公桌適用於任何地方的辦公室、家庭、學校、醫院、學習中心、聯合辦公空間！"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk (Fixed Height) 1.8M",
+        "rating": "",
+        "hon_price_min": "3,119",
+        "hon_price_max": "3,899",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Razer Gaming Finger Sleeve 電競指套",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "120",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "類型:": "電競指套",
+        "用途:": "降低摩擦 / 透氣吸汗"
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for Logitech G502 X Wired (2 Sets)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "ASUS ROG XG Mobile RX 6850M XT 外接式顯示卡 (GC32L-021)",
+        "rating": "",
+        "water_price_min": "6,499",
+        "water_price_max": "7,499",
+        "類型:": "外接式顯示卡"
+    },
+    {
+        "names": "Razer 15.6 inch Tactical Backpack V2 (RC81-02900101-0500)",
+        "rating": "",
+        "hon_price_min": "689",
+        "hon_price_max": "689",
+        "water_price_min": "689",
+        "water_price_max": "689",
+        "類型:": "背囊"
+    },
+    {
+        "names": "1st Player RGB 電競枱 VR2-1160",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,980",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Logitech G502 Lightspeed)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 -  Hacker",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Razer Protective Sleeve V2 - for 13.3 inch Notebooks (RC21-01570100-R3M1-1)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "229",
+        "water_price_max": "229",
+        "類型:": "電競筆電保護套"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 -  Hacker",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Razer Protective Sleeve V2 - for 13.3 inch Notebooks (RC21-01570100-R3M1-1)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "229",
+        "water_price_max": "229",
+        "類型:": "電競筆電保護套"
+    },
+    {
+        "names": "Wuque Studio 藍色半透衛星軸組合 for Aurora",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "衛星軸"
+    },
+    {
+        "names": "Wuque Studio 黃銅定位板 for Aurora",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤黃銅定位板"
+    },
+    {
+        "names": "Turtle Beach Stealth 700 Gen 2 涼感凝膠替換耳墊",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "類型:": "耳機替換耳罩"
+    },
+    {
+        "names": "Lamzu Atlantis 玻璃滑鼠腳貼",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "99",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Razer Mouse Dock Chroma 無線鼠標充電底座",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "399",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "鼠標底座",
+        "用途:": "Mouse Charging"
+    },
+    {
+        "names": "POLAR PUM-04",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "120",
+        "類型:": "USB Gaming Microphone"
+    },
+    {
+        "names": "AVerMedia Live Gamer Mini (GC311)",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "1,348",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "HyperX Wrist Rest (Full size keyboard)",
+        "rating": "10",
+        "hon_price_min": "112",
+        "hon_price_max": "199",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk (Fixed Height) 1.5M",
+        "rating": "",
+        "hon_price_min": "2,959",
+        "hon_price_max": "3,699",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Zenox Memory Foam Pillows 記憶棉枕套裝 (頭枕及腰枕) V2",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "599",
+        "類型:": "頭枕及腰枕"
+    },
+    {
+        "names": "Razer Key Light Chroma RGB 直播打光燈",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "類型:": "直播打光燈"
+    },
+    {
+        "names": "Keychron Resin Palm Rest for Keychron Q1 (PR14)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "239",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Zenox Gaming ChairPad 電競椅地毯",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "類型:": "電競椅地毯"
+    },
+    {
+        "names": "Machines of Destiny Elev8 專業級電競桌 (可調校高度) (140cm)",
+        "rating": "",
+        "hon_price_min": "3,299",
+        "hon_price_max": "3,299",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Zenox Zeus Gaming Desk",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,999",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Vertux Arctic Portable Height Adjustable RGB Gaming Laptop Cooling Pad",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "散熱板",
+        "用途:": "散熱"
+    },
+    {
+        "names": "Zenox Orion Gaming Desk Pro 1.5m",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "5,799",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Christmas Tree",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Machines of Destiny Obsidian Pro Gaming Table",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,799",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "AKRacing Floor Mat 電競椅專用地毯",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "348"
+    },
+    {
+        "names": "Wuque Studio Hotswap Wirelessd PCB for Aurora (06 Iceland)",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Razer PBT Keycap 鍵帽 Upgrade Set",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "替代鍵帽"
+    },
+    {
+        "names": "Razer PBT Keycap + Coiled Cable Upgrade Set",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "389",
+        "water_price_min": "389",
+        "water_price_max": "389",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Zenox x Logitech 記憶海棉腰枕",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "類型:": "腰枕"
+    },
+    {
+        "names": "AVerMedia USB 3.0 擷取盒 CU511B",
+        "rating": "",
+        "hon_price_min": "4,356",
+        "hon_price_max": "4,580",
+        "類型:": "影音裝置",
+        "用途:": "影像擷取"
+    },
+    {
+        "names": "ASUS ROG PBT Doubleshot Keycap Set for ROG RX Switches (123鍵鍵帽套裝)",
+        "rating": "8.0",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "Keychron Resin Palm Rest for Keychron K8/C1 (PR15)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "239",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "X-Win 主播多功升降工作檯 GME1600M",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "類型:": "電競枱, 電動升降枱",
+        "用途:": "主播多功升降工作檯-黑碳纖紋  更多空間 自主設計  站立式辦公桌適用於任何地方的辦公室、家庭、學校、醫院、學習中心、聯合辦公空間！"
+    },
+    {
+        "names": "SilverStone 風扇燈光控制器 SST-LSB02-E",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "329",
+        "類型:": "風扇燈光控制器"
+    },
+    {
+        "names": "Keychron Double Shot Cherry PBT 鍵帽套裝 (PBT-12) (Grey, White and Blue)",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Bluish Black White",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Wuque Studio Aurora Clear 線性軸體 35粒裝 (透明)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "Glorious 布質鍵盤手托 厚度25mm (Full Size)",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "189",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "ASUS ROG Aura Terminal",
+        "rating": "10",
+        "hon_price_min": "578",
+        "hon_price_max": "640",
+        "類型:": "RGB Lighting Controller"
+    },
+    {
+        "names": "X-Win L型站立電動工作檯 GDEL1600",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "類型:": "電競枱, 電動升降枱",
+        "用途:": "站立式辦公桌適用於任何地方的辦公室、家庭、學校、醫院、學習中心、聯合辦公空間！"
+    },
+    {
+        "names": "Razer PWM Gaming PC Fan Controller 電腦風扇控制器",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "電腦風扇控制器"
+    },
+    {
+        "names": "Wuque Studio 鋁合金上蓋 (陽極海軍藍) for Aurora",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤鋁合金上蓋"
+    },
+    {
+        "names": "ASUS ROG Throne Qi 無線充電耳機架",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "920",
+        "類型:": "耳機支架",
+        "用途:": "掛耳機"
+    },
+    {
+        "names": "Elgato Green Screen MT",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,480",
+        "類型:": "綠幕",
+        "用途:": "直播時去背景"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Rainbow",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk (Fixed Height) 1.5M",
+        "rating": "",
+        "hon_price_min": "2,959",
+        "hon_price_max": "3,699",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Corsair ST50 Premium Headset Stand (CA-9011221-NA)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "290",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Razer Mouse Bungee V3 Chroma 滑鼠固線器",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "338",
+        "water_price_min": "165",
+        "water_price_max": "165",
+        "類型:": "滑鼠固線器"
+    },
+    {
+        "names": "AV Link 7寸 4K HDMI in 高清硬碟錄影機 HVR-2170",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,080",
+        "類型:": "攝影工具",
+        "用途:": "Gaming, live-streaming, broadcasting, conferencing etc."
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for Razer DeathAdder V3 Pro (AIR) (2 Sets)",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for Razer DeathAdder V3 Pro (2 Sets)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "ASUS ROG Ranger BP1503 輕量級電競背包",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "390",
+        "類型:": "電競後背包"
+    },
+    {
+        "names": "Razer Protective Sleeve V2 - for 15.6 inch Notebooks (RC21-01580100-R3M1)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "249",
+        "water_price_max": "249",
+        "類型:": "電競筆電保護套"
+    },
+    {
+        "names": "Cherry MX Red Switch 紅軸 35pcs",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Keychron Gateron Red Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "109",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "J5create Dual HDMI Video Capture 雙 HDMI 影像擷取器 (支援雙畫面合成及混音) JVA06",
+        "rating": "8.0",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,688",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "AVerMedia DarkCrystal HD HDMI/VGA Capture HD擷取卡 CD311",
+        "rating": "",
+        "hon_price_min": "1,544",
+        "hon_price_max": "1,670",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Keychron 潤滑劑 Klube 105",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Zenox Artemis 阿提密斯電競枱3.0 (升降版) 1.2m",
+        "rating": "",
+        "hon_price_min": "5,599",
+        "hon_price_max": "5,599",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron Gateron  Black Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "109",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Cougar Deimus 120 ARGB 電競桌",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "2,488",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "AVerMedia Aegis GM310 Gaming Microphone",
+        "rating": "10",
+        "hon_price_min": "740",
+        "hon_price_max": "798",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Keychron OEM Dye-Sub PBT 鍵帽套裝 (PBT-32) (Beach Version B)",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Keychron Gateron Switch Opener",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "250",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "HyperX Double Shot PBT Keycaps (布甸鍵帽)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "380",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "CRP Hammerworks PBT鍵帽組合 (Mods_IconRGB)",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "270",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Keychron Travel Pouch 鍵盤袋 for K7",
+        "rating": "10",
+        "hon_price_min": "159",
+        "hon_price_max": "199",
+        "類型:": "鍵盤袋"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk Pro 1.5M 電競檯",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "5,799",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Elgato Cam Link Pro 視信採集卡線",
+        "rating": "",
+        "hon_price_min": "2,458",
+        "hon_price_max": "2,880",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Zenox Orion Gaming Desk Pro 1.8m",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,999",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron OEM Dye-Sub PBT 鍵帽套裝 (PBT-31) (Ocean Version B)",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Wuque Studio 鍵盤專用收納包 for Aurora",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "收納包"
+    },
+    {
+        "names": "Glorious GMMK PRO Rotary Knob 旋鈕",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "Wuque Studio 鋁合金上蓋 (陽極黑) for Aurora",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤鋁合金上蓋"
+    },
+    {
+        "names": "Wuque Studio POM FlexCut定位板 for Aurora",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤定位板"
+    },
+    {
+        "names": "Wuque Studio PC 定位板 for Aurora",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤定位板"
+    },
+    {
+        "names": "Wuque Studio 粉紅半透衛星軸組合 for Aurora",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "衛星軸"
+    },
+    {
+        "names": "Marvo Gaming 4-in-1 Combo Set (Keyboard+Mouse+Headset+Mouse Pad) CM409",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "298",
+        "類型:": "組合"
+    },
+    {
+        "names": "Wuque Studio 額外 Poron Gasket 墊條 for Aurora",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤泡棉製額外墊條"
+    },
+    {
+        "names": "J5create Dual HDMI Video Capture 雙 HDMI 影像擷取器 (支援雙畫面合成及混音) JVA06",
+        "rating": "8.0",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,688",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "G-Go 電競桌 (1.2m x 0.6m) GDTS-4F",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "AVerMedia Avercaster HDMI/3G-SDI HEVC 1080p60 雙路直播編碼器 SE5820",
+        "rating": "",
+        "hon_price_min": "24,630",
+        "hon_price_max": "24,900",
+        "類型:": "編碼器",
+        "用途:": "編碼器"
+    },
+    {
+        "names": "Lamzu Atlantis 滑鼠防滑貼",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "類型:": "電競滑鼠防滑貼"
+    },
+    {
+        "names": "Lian Li 電動可升降玻璃電腦枱 DK05F",
+        "rating": "",
+        "hon_price_min": "17,000",
+        "hon_price_max": "17,200",
+        "類型:": "電腦枱"
+    },
+    {
+        "names": "Logitech G G713 Aurora Top Plate 面板",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤面板"
+    },
+    {
+        "names": "Steelseries Headset Stand",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "199",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Wuque Studio Hotswap Wired PCB for Aurora (05 Bodo)",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Glorious Padded Mouse Wrist Rest 滑鼠手墊",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "139",
+        "類型:": "滑鼠手墊",
+        "用途:": "承托手腕"
+    },
+    {
+        "names": "Razer Base Station V2 Chroma 耳機架",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "559",
+        "water_price_min": "559",
+        "water_price_max": "559",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Beach",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Keychron OEM Dye-Sub PBT 鍵帽套裝 (PBT-35) (Bluish Black White Version B)",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Zenox Monitor Riser",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "類型:": "顯示器支架"
+    },
+    {
+        "names": "Keychron Gateron Ink V2 Switch Set - Blue (35pcs)",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Keychron OEM Dye-Sub PBT 鍵帽套裝 (PBT-35) (Bluish Black White Version B)",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Keychron Gateron Ink V2 Switch Set - Blue (35pcs)",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Dragon War Pro-Gaming Desk 專業電競枱 GT-005",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,488",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Marvo Gaming 4-in-1 Combo Set (Keyboard+Mouse+Headset+Mouse Pad) CM409",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "298",
+        "類型:": "組合"
+    },
+    {
+        "names": "HyperX Wrist Rest 鍵盤手托 (Compact)",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "169",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "ASUS ROG Slash Hip Bag BC3002",
+        "rating": "",
+        "類型:": "腰包"
+    },
+    {
+        "names": "Phanteks Vertical GPU Riser Extender Premium Version",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "PCI-E Riser Cable"
+    },
+    {
+        "names": "AVerMedia DarkCrystal 750 USB 3.0 影像擷取盒 CD750",
+        "rating": "",
+        "hon_price_min": "2,810",
+        "hon_price_max": "2,850",
+        "類型:": "影音裝置",
+        "用途:": "影像擷取"
+    },
+    {
+        "names": "GalaxHero Gaming Desk LED燈電競電腦桌",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for Logitech G502 X Lightspeed Wireless (2 Sets)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Corsair ST100 RGB 高級耳機支架 CA-9011167-NA",
+        "rating": "10",
+        "hon_price_min": "440",
+        "hon_price_max": "499",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Steelseries Prismcap 二色成形PBT布丁鍵帽",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "Turtle Beach Stealth 600 Gen 2 網面替換耳墊",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "類型:": "耳機替換耳罩"
+    },
+    {
+        "names": "Keychron Gateron Yellow Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "160",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "AVerMedia C985 Lite",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "910",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Glorious Grip Tape 滑鼠防滑貼 (黑色) (Model I)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "電競滑鼠防滑貼"
+    },
+    {
+        "names": "Razer Mouse Bungee V2",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "159",
+        "類型:": "滑鼠理線器",
+        "用途:": "滑鼠固線器"
+    },
+    {
+        "names": "Glorious Stealth Edition 人體工學鍵盤手托 (Tenkeyless 36x10cm, Thickness 17mm)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Zenox Orion Gaming Desk (Fixed Height) 1.8m",
+        "rating": "",
+        "hon_price_min": "3,119",
+        "hon_price_max": "3,899",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Steelseries GameDAC - Certified Hi-Res DAC and amp for gaming",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,399",
+        "類型:": "DAC"
+    },
+    {
+        "names": "Cougar Bunker S 耳機架",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Wuque Studio 鋁合金定位板 for Aurora",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "155",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤鋁合金製定位板"
+    },
+    {
+        "names": "Sennheiser GSA 505 PC Cable",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "線材",
+        "用途:": "2.5m PC cable, suitable for: GSP 600, GSP 500, GSP 550,  GAME ONE, GAME ZERO, GSP 350, and PC 373D."
+    },
+    {
+        "names": "Wuque Studio Aurora Blue 線性軸體 35粒裝 (藍)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "Glorious Grip Tape 滑鼠防滑貼 (黑色) (Model O)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "電競滑鼠防滑貼"
+    },
+    {
+        "names": "AVerMedia Live Gamer Portable 2 (GC510)",
+        "rating": "10",
+        "hon_price_min": "1,468",
+        "hon_price_max": "1,469",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for Glorious Model O/O-/O Wireless (2 Sets)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "100",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "HyperX CLOUD EAR PAD REPLACEMENT 原裝耳套",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "water_price_min": "160",
+        "water_price_max": "160",
+        "類型:": "耳機耳套"
+    },
+    {
+        "names": "1st Player 電動升降電競枱 MOTO-E 1675",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,488",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Steelseries Arctis Nova Pro Ear Cushions Leatherette 人造皮革耳罩",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "耳機替換耳罩"
+    },
+    {
+        "names": "Steelseries Arctis Nova Pro Ear Cushions Leatherette 人造皮革耳罩",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "耳機替換耳罩"
+    },
+    {
+        "names": "NZXT Internal USB Hub",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "199",
+        "類型:": "USB Hub"
+    },
+    {
+        "names": "Dragon War Wireless NS PC Mobile Game Controller 游戲手柄 GSW-01",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "類型:": "手掣",
+        "用途:": "for Nintendo Switch / Windows / Android / IOS"
+    },
+    {
+        "names": "Logitech G G715 Aurora Top Plate 面板",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤面板"
+    },
+    {
+        "names": "Glorious G-Floats Mouse Feet 滑鼠腳貼 (for Model O/O-)",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "類型:": "電競滑鼠防滑貼"
+    },
+    {
+        "names": "Phanteks Vertical GPU Bracket",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "PCI-E Riser Cable"
+    },
+    {
+        "names": "Keychron OEM Dye-Sub PBT 鍵帽套裝 - Unicorn",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Machines of Destiny Carbonite 專業級電競桌 (140cm)",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,499",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron Gateron Phantom Switch Set - Phantom Yellow (35pcs)",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵軸"
+    },
+    {
+        "names": "Aeroband PocketDrum 2 便攜智能鼓棒",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "類型:": "電競打鼓棍"
+    },
+    {
+        "names": "AVerMedia Game Capture HD II(C285)",
+        "rating": "",
+        "hon_price_min": "1,048",
+        "hon_price_max": "1,078",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Razer 可編程RGB燈光控制器 Chroma Addressable RGB Controller",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "319",
+        "類型:": "RGB燈光控制器",
+        "用途:": "可編程ARGB"
+    },
+    {
+        "names": "Razer Base Station Chroma 耳麥立架 / USB 集線器",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "11,389",
+        "water_price_min": "468",
+        "water_price_max": "468",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "NZXT HUE+ Extension Kit",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "179",
+        "類型:": "LED燈帶擴充"
+    },
+    {
+        "names": "Aeroband PocketDrum 2 Plus",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "類型:": "電競打鼓棍"
+    },
+    {
+        "names": "Razer Base Station Chroma 耳麥立架 / USB 集線器",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "11,389",
+        "water_price_min": "468",
+        "water_price_max": "468",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Aeroband PocketDrum 2 Plus",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "類型:": "電競打鼓棍"
+    },
+    {
+        "names": "Keychron Custom Coiled Aviator Cable",
+        "rating": "10",
+        "hon_price_min": "99",
+        "hon_price_max": "199",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Razer PBT 鍵帽 + USB-C 捲線套裝",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "389",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "替代鍵帽+捲線套裝"
+    },
+    {
+        "names": "AVerMedia Live Gamer Portable USF4 - C875特別版",
+        "rating": "",
+        "hon_price_min": "1,468",
+        "hon_price_max": "1,488",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Glorious Model O/O-)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Wuque Studio 鋁合金上蓋 (E-White) for Aurora",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鋁合金上蓋"
+    },
+    {
+        "names": "Keychron Travel Pouch 鍵盤袋 for K3/K12",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "199",
+        "類型:": "鍵盤袋"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Grey White Blue",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Glorious Grip Tape 滑鼠防滑貼 (黑色) (Model D)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "電競滑鼠防滑貼"
+    },
+    {
+        "names": "Razer Chroma Hardware Development Kit",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "690",
+        "類型:": "燈光套件"
+    },
+    {
+        "names": "ASUS ROG PBT Keycap Set 二色成型鍵帽組",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "360",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Thermaltake P1000水冷液(白)",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "299",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "AVerMedia AVerCaster Premium 4頻道1080p60 HDMI編碼器 RS7170",
+        "rating": "",
+        "hon_price_min": "149,100",
+        "hon_price_max": "149,900",
+        "類型:": "編碼器",
+        "用途:": "編碼器"
+    },
+    {
+        "names": "Keychron Gateron Green Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "109",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "NuPhy X Gateron Low-profile Mechanical Switches 機械鍵盤短軸 (100 PCS)",
+        "rating": "",
+        "hon_price_min": "769",
+        "hon_price_max": "769",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Razer Rogue 17 Backpack V3 - Chromatic Edition",
+        "rating": "",
+        "hon_price_min": "819",
+        "hon_price_max": "819",
+        "water_price_min": "819",
+        "water_price_max": "819",
+        "類型:": "背囊"
+    },
+    {
+        "names": "ASUS ROG Ranger Crossover Bag BC1002",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "310",
+        "類型:": "電腦袋"
+    },
+    {
+        "names": "HyperX Streamer Starter Pack 直播套裝 (Cloud Core耳機 + SoloCast麥克風)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "999",
+        "類型:": "直播組合套裝"
+    },
+    {
+        "names": "Logitech G 耳機架",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "Edifier Hecate 藍牙無線喇叭 G7000",
+        "rating": "",
+        "hon_price_min": "1,790",
+        "hon_price_max": "1,980"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Forest",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Razer Ergonomic Wrist Rest For Full-sized Keyboards",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "190",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "類型:": "鍵盤手托",
+        "用途:": "保健"
+    },
+    {
+        "names": "Steelseries STRATUS DUO",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "659",
+        "類型:": "控制器"
+    },
+    {
+        "names": "Tt esports METALCAPS 鬥龍金鑽 5鍵鍵帽",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "145"
+    },
+    {
+        "names": "ASUS TUF Gaming 影像擷取盒 FHD120",
+        "rating": "10",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,399",
+        "類型:": "影像擷取盒"
+    },
+    {
+        "names": "Keychron Q1 & K2 OEM Dye-Sub PBT 鍵帽套裝 - Christmas Gift",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT鍵帽"
+    },
+    {
+        "names": "Elgato Green Screen MT",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,480",
+        "類型:": "綠幕",
+        "用途:": "直播時去背景"
+    },
+    {
+        "names": "Keychron Gateron Ink V2 Switch Set - Red (35pcs)",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Zowie DIVINA 系列 CAMADE II 集線器",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "類型:": "集線器"
+    },
+    {
+        "names": "Zenox Cable Management Tray  1M",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "259",
+        "類型:": "電線架"
+    },
+    {
+        "names": "Dragon War RGB Light Effect Pro-Gaming Desk RGB燈效專業電競枱 GT-006",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,688",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Zenox Anti Fatigue Mat 防疲勞地毯 腳墊",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "腳墊, 地毯"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk Pro 1.8M 電競檯",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,999",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "AVerMedia AVerCaster Premium 現場IP/TS編碼器 RS7130",
+        "rating": "",
+        "hon_price_min": "149,100",
+        "hon_price_max": "149,900",
+        "類型:": "編碼器",
+        "用途:": "編碼器"
+    },
+    {
+        "names": "Razer 17.3 inch Tactical Pro Backpack V2 (RC81-02890101-0500)",
+        "rating": "",
+        "hon_price_min": "909",
+        "hon_price_max": "909",
+        "water_price_min": "909",
+        "water_price_max": "909",
+        "類型:": "背囊"
+    },
+    {
+        "names": "Aten USB-C Gaming Dock (Supports Switch TV Mode) 4K Ultra Mini Dock-PD60W (UH3235)",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "789",
+        "類型:": "USB-C 電競擴充基座"
+    },
+    {
+        "names": "Ducky PBT 108鍵二色成形不破孔布丁鍵帽",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Elgato Game Capture 4K60 S+ 遊戲影像擷取卡",
+        "rating": "",
+        "hon_price_min": "2,798",
+        "hon_price_max": "3,199",
+        "類型:": "影音裝置",
+        "用途:": "遊戲直播"
+    },
+    {
+        "names": "Razer Ripsaw",
+        "rating": "",
+        "hon_price_min": "1,595",
+        "hon_price_max": "1,595"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk Pro 1M 電競檯",
+        "rating": "",
+        "hon_price_min": "5,699",
+        "hon_price_max": "6,699",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "J5create JVA04-10 Game Capture Station HDMI To USB3.1 Type C",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "1,168",
+        "類型:": "Game Capture Station"
+    },
+    {
+        "names": "Glorious 布質鍵盤手托 厚度25mm (Compact)",
+        "rating": "10",
+        "hon_price_min": "169",
+        "hon_price_max": "189",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for ASUS ROG Chakram (2 Sets)",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Logitech G 耳機架",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "NZXT HUE 2 Underglow 機箱底燈",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "類型:": "機箱底燈"
+    },
+    {
+        "names": "Corsair Gaming Performance MOBA/FPS Keycap Kit",
+        "rating": "10",
+        "hon_price_min": "130",
+        "hon_price_max": "140",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "AVerMedia EzRecorder 530 高清影像擷取盒 CR530",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,478",
+        "類型:": "影音裝置",
+        "用途:": "影像擷取"
+    },
+    {
+        "names": "Razer Protective Sleeve V2 - for 17.3 inch Notebooks (RC21-01590100-R3M1)",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "water_price_min": "279",
+        "water_price_max": "279",
+        "類型:": "電競筆電保護套"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Razer Viper Mini)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Vortex PBT 15鍵 RGBY 鍵帽 + 拔鍵器",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "70",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Corepad PTFE 滑鼠腳貼 for Glorious Model D- (2 Sets)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "100",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Razer Head Cushion 電競椅專用頭枕",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "319",
+        "water_price_min": "319",
+        "water_price_max": "319",
+        "類型:": "電競椅專用頭枕"
+    },
+    {
+        "names": "Tai-Hao Doubleshot ABS 104 Keycaps + 1 Keys Puller (England Blue)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Tai-Hao Doubleshot ABS 104 Keycaps + 1 Keys Puller (Yellow Submarine)",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "219",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Keychron Double Shot Cherry PBT 鍵帽套裝 (PBT-17) (Dark Blue and Golden)",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Glorious G-Skates 滑鼠腳貼 (for Model I)",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75",
+        "類型:": "電競滑鼠防滑貼"
+    },
+    {
+        "names": "Thermaltake T1000 透明水冷液 (紅)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "200",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "NZXT Internal USB Hub (Gen 3)",
+        "rating": "10",
+        "hon_price_min": "139",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "Keychron Gateron - Phantom Blue Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "119",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Keychron Gateron - Brown Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "109",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "ThunderX3 AD3 HEX RGB",
+        "rating": "",
+        "hon_price_min": "2,289",
+        "hon_price_max": "2,299",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Razer Viper V2 Pro)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Logitech G Pro Wireless)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Gigabyte Aorus Adventure Backpack spotted 電競背包",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "類型:": "電競後背包",
+        "用途:": "支援15.6吋筆電及電競設備移動保護"
+    },
+    {
+        "names": "Keychron OEM Dye-Sub PBT 鍵帽套裝(PBT-30) (Iceberg Version B)",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Glorious Mouse Bungee 滑鼠集線器",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "滑鼠集線器"
+    },
+    {
+        "names": "Thermaltake T1000 透明水冷液 (橘)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "200",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "Tai-Hao Doubleshot PBT 104 Keycaps + 2 Keys Puller (Hawaii)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Thermaltake T1000 透明水冷液 (黃)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "200",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "ASUS ROG Gaming Wrist Rest",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "189",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "DELTAHUB Carpio G2.0 人體工學滑鼠手腕托 電競升級版",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "328",
+        "類型:": "滑鼠手腕托"
+    },
+    {
+        "names": "Razer Ripsaw HD 遊戲影像擷取卡",
+        "rating": "",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,399",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "ASUS ROG Ranger BP2701 Gaming Backpack",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "類型:": "電競背包"
+    },
+    {
+        "names": "Zenox Artemis Gaming Desk (Fixed Height) 1M",
+        "rating": "",
+        "hon_price_min": "3,399",
+        "hon_price_max": "3,399",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron Resin Palm Rest for Keychron K2/K6 (PR13)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "249",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "1st Player 電動升降電競枱 MOTO-E 1675",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,488",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "NZXT HUE+ Extension Kit",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "179",
+        "類型:": "LED燈帶擴充"
+    },
+    {
+        "names": "ASUS ROG Ranger BP4701 電競背包",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "類型:": "電競後背包",
+        "用途:": "適用於 15.6\" - 17\" 筆記型電腦 or 電競手提電腦"
+    },
+    {
+        "names": "Tai-Hao Doubleshot PBT Backlit 116 Keycaps + 2 Keys Puller (Miami)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Zenox Fixed Casters Replacement Kit (Set of 5) 固定腳輪",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "149",
+        "類型:": "電競椅腳輪"
+    },
+    {
+        "names": "Thermaltake TT Premium PCI-E 3.0 Extender – 300mm",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "530"
+    },
+    {
+        "names": "AVerMedia 4K Multiple Inputs Low Profile Capture Card 4K多通道半高型擷取卡 CL311-M1",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,650",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "HyperX AMP USB Sound Card  for PC / PS4",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "類型:": "USB聲卡",
+        "用途:": "外置音效卡"
+    },
+    {
+        "names": "Razer Ripsaw X USB Capture Card with Camera Connection for Full 4K Streaming",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,299",
+        "類型:": "攝影工具"
+    },
+    {
+        "names": "1st Player RGB 電競枱 AZ1-1260",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,980",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Razer Mercury 系列套裝組合",
+        "rating": "",
+        "hon_price_min": "2,910",
+        "hon_price_max": "2,910",
+        "類型:": "電競組合套裝"
+    },
+    {
+        "names": "ASUS ROG Ranger BP1500 Gaming Backpack",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "類型:": "電競背包",
+        "用途:": "適用於 15.6\" 筆記型電腦"
+    },
+    {
+        "names": "Tt eSPORTS Talon Elite RGB Gaming Gear Combo",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "299",
+        "類型:": "組合",
+        "用途:": "滑鼠+滑鼠墊"
+    },
+    {
+        "names": "Razer Ergonomic Wrist Rest For Full-sized Keyboards",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "190",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "類型:": "鍵盤手托",
+        "用途:": "保健"
+    },
+    {
+        "names": "Razer Mouse Bungee",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "155"
+    },
+    {
+        "names": "Moeyu x iKBC x 初音未來塗鴉指揮家主題鍵帽",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "類型:": "機械軸鍵盤配件, 鍵帽",
+        "用途:": "替換鍵帽"
+    },
+    {
+        "names": "ADATA XPG INFAREX M10 電競滑鼠 + INFAREX R10 電競滑鼠墊",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "組合"
+    },
+    {
+        "names": "Razer Headphone Stand",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289"
+    },
+    {
+        "names": "Corsair GAMING PBT Double-shot Keycaps Full 104/105-Keyset",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "409",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Steelseries Arctis Nova Booster Pack 耳機配件",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "電競耳機配件"
+    },
+    {
+        "names": "AVerMedia DVD EZMaker 7 擷取器 C039",
+        "rating": "",
+        "hon_price_min": "545",
+        "hon_price_max": "780",
+        "類型:": "影音裝置",
+        "用途:": "影像擷取"
+    },
+    {
+        "names": "Thermaltake LUMI RGB LED 3x 30cm Strip/RGB Control Box",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "類型:": "LED"
+    },
+    {
+        "names": "CRP Hammerworks PBT鍵帽組合 (Mods_Mint)",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "210",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Corsair iCUE LT100 Smart Lighting Towers Starter Kit (UK) CD-9010002-UK",
+        "rating": "",
+        "hon_price_min": "940",
+        "hon_price_max": "1,199"
+    },
+    {
+        "names": "Tai-Hao Doubleshot PBT Backlit 140 Keycaps + 2 Keys Puller (Sakura Michi)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Vertux Sphere 高靈敏數碼收音咪",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "669",
+        "類型:": "麥克風"
+    },
+    {
+        "names": "Wuque Studio 白色半透衛星軸組合 for Aurora",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "衛星軸"
+    },
+    {
+        "names": "MSI RTX NVlink GPU BRIDGE 橋接器",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "588"
+    },
+    {
+        "names": "AVerMedia GL310",
+        "rating": "",
+        "hon_price_min": "879",
+        "hon_price_max": "880",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "AVerMedia GL310",
+        "rating": "",
+        "hon_price_min": "879",
+        "hon_price_max": "880",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "ASUS ROG Flow BS4300 2-in-1 Sleeve",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "類型:": "電腦袋"
+    },
+    {
+        "names": "Havit RGB Gaming Table HV-GD902",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Redragon S101-BA boxset",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "類型:": "電競組合"
+    },
+    {
+        "names": "Steelseries Aluminum Headset Stand 鋁合金耳機架 HS1",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "AVerMedia EZMaker USB 影像擷取盒 SDKC039P",
+        "rating": "",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,378",
+        "類型:": "影音裝置",
+        "用途:": "影像擷取"
+    },
+    {
+        "names": "Tai-Hao Doubleshot ABS Cubic Profile 104 Keycaps + 1 Keys Puller (Blue + Pink)",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "319",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Thermaltake E1 RGB Gaming Headset Stand (GEA-TTP-THSBLK-06)",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Cherry MX Blue Switch 青軸 35pcs",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Pulsar Superglide 滑鼠腳貼 (For Glorious Model D)",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "199",
+        "類型:": "電競滑鼠腳貼",
+        "用途:": "滑鼠防滑"
+    },
+    {
+        "names": "Keychron Gateron Switch Puller",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "199",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽夾"
+    },
+    {
+        "names": "Tt eSPORTS Gaming Wrist Rest 遊戲腕托",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "99",
+        "類型:": "腕托"
+    },
+    {
+        "names": "Steelseries Battery Pack For Arctis Pro Wireless and Siberia 800 Series",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "399",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "類型:": "電池",
+        "用途:": "Compatible with the Arctis Pro Wireless, Siberia 800, and Siberia 840 wireless gaming headsets"
+    },
+    {
+        "names": "Glorious G-Skates 滑鼠腳貼 (for Model O/O-)",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "類型:": "電競滑鼠防滑貼"
+    },
+    {
+        "names": "Playseat Floor Mat 地毯",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "類型:": "地毯"
+    },
+    {
+        "names": "Tai-Hao Doubleshot ABS 104 Keycaps + 1 Keys Puller (Pink)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "1st Player RGB 電競枱 VR2-1160",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,980",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron Double Shot Cherry PBT 鍵帽套裝 (PBT-16) (Hacker Mint)",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "NZXT HUE+ CAM-powered RGB Lighting Controllers",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "398",
+        "類型:": "RGB Lighting Controllers"
+    },
+    {
+        "names": "Logitech G 不鏽鋼冰霸杯 900ml",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "199",
+        "類型:": "杯子"
+    },
+    {
+        "names": "Razer Ergonomic Keyboard Rest - Tenkeyless Fit",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "water_price_min": "159",
+        "water_price_max": "159",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Sennheiser GSA 506 Console Cable",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "類型:": "線材",
+        "用途:": "1.5m PC cable, suitable for: GSP 600, GSP 500, GSP 550,  GAME ONE, GAME ZERO, GSP 350, and PC 373D."
+    },
+    {
+        "names": "Thermaltake Pacific Rad Plus LED面板",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "類型:": "LED面板"
+    },
+    {
+        "names": "Tt eSPORTS Knucker 4in1 Gaming Kit",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "電競組合套裝"
+    },
+    {
+        "names": "Lian Li 電動可升降玻璃電腦枱 DK04F",
+        "rating": "",
+        "hon_price_min": "12,900",
+        "hon_price_max": "13,100",
+        "類型:": "電腦枱"
+    },
+    {
+        "names": "Glorious Mechanical Panda Switch GMMK 機械式鍵軸",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "299",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Zenox Lockable Casters Replacement Kit 可鎖定腳輪",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "149",
+        "類型:": "電競椅腳輪"
+    },
+    {
+        "names": "Wuque Studio 碳纖維 FlexCut定位板 for Aurora",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "219",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤碳纖維製定位板"
+    },
+    {
+        "names": "Phanteks Digital RGB Neon LED M1",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "255",
+        "類型:": "LED燈帶擴充"
+    },
+    {
+        "names": "Corsair iCUE LT100 Smart Lighting Tower Expansion Kit CD-9010003-WW",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470"
+    },
+    {
+        "names": "Corsair K63 Wireless Gaming Lapboard for the K63 Wireless Keyboard CH-9510000-WW",
+        "rating": "10",
+        "hon_price_min": "430",
+        "hon_price_max": "480"
+    },
+    {
+        "names": "ASUS ROG Backpack",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "199",
+        "類型:": "背包"
+    },
+    {
+        "names": "Glorious 布質鍵盤手托 厚度25mm (Tenkeyless)",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "199",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Tai-Hao ABS Rubber Double shot 8 keycap",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Thermaltake Pacific R1 Plus DDR4記憶體發光套件",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "399",
+        "類型:": "記憶體發光套件"
+    },
+    {
+        "names": "Glorious GMMK PRO 75% Alternative Top Frame 鍵盤上蓋",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "類型:": "鍵盤上蓋"
+    },
+    {
+        "names": "MilkyWay 動漫主題鍵帽套裝 (015 ICHIGO-Base+Extra+Mod)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "AVerMedia 4K HDR Live Gamer Bolt  GC555",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,370"
+    },
+    {
+        "names": "ASUS ROG Eye USB 攝影機",
+        "rating": "2.0",
+        "hon_price_min": "640",
+        "hon_price_max": "799",
+        "類型:": "攝影機"
+    },
+    {
+        "names": "Steelseries Arctis Pro Booster Pack (Arctis Pro系列電競耳機配件)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "耳機配件",
+        "用途:": "替換頭帶及耳機側蓋"
+    },
+    {
+        "names": "Xtrfy B1 Mouse Bungee with USB Hub",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "399",
+        "類型:": "滑鼠理線器",
+        "用途:": "穩定滑鼠線+USB HUB"
+    },
+    {
+        "names": "AVerMedia DarkCrystal HD-SDI Duo 全高清影片採集卡 CD910",
+        "rating": "",
+        "hon_price_min": "4,560",
+        "hon_price_max": "4,670",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Keychron Double Shot Cherry PBT 鍵帽套裝 (PBT-13) (White Mint and Green)",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Keychron OEM Dye-Sub PBT 鍵帽套裝 (PBT-37) (Morse Code)",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "PBT 鍵帽"
+    },
+    {
+        "names": "Turtle Beach Elite Pro TAC",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,050",
+        "類型:": "Audio Controller",
+        "用途:": "XBOX ONE | PS4 | PS4 PRO | PC"
+    },
+    {
+        "names": "Razer 15.6 inch Rogue Backpack V2 (RC81-03120101-0500)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "water_price_min": "780",
+        "water_price_max": "780",
+        "類型:": "背囊"
+    },
+    {
+        "names": "Razer Core v2",
+        "rating": "",
+        "hon_price_min": "3,770",
+        "hon_price_max": "3,999",
+        "類型:": "顯示卡外接盒"
+    },
+    {
+        "names": "ThunderX3 AD7 HEX RGB",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,889",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Machines of Destiny Elev8 專業級電競桌 (可調校高度) (120cm)",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "2,999",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "HyperX Cloud Virtual 7.1 Surround Sound USB Card",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348"
+    },
+    {
+        "names": "Razer Nommo Pro",
+        "rating": "",
+        "hon_price_min": "3,770",
+        "hon_price_max": "4,110",
+        "類型:": "影音裝置",
+        "用途:": "喇叭"
+    },
+    {
+        "names": "Razer Lumbar Cushion 記憶泡綿軟墊",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "腰墊"
+    },
+    {
+        "names": "AVerMedia Live Gamer Portable (C875)",
+        "rating": "10",
+        "hon_price_min": "1,046",
+        "hon_price_max": "1,048",
+        "類型:": "影音裝置"
+    },
+    {
+        "names": "Keychron K6 OEM Profile PBT Retro Keycap Set",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "319",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Thermaltake T1000 透明水冷液 (藍)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "200",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "AVerMedia Live Gamer Extreme 2 (GC551)",
+        "rating": "6.0",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,680",
+        "類型:": "影音裝置",
+        "用途:": "USB 3.1 高速捕捉 無壓縮超低延遲擷取盒，支援4K pass-thru輸出顯示，同時進行1080p60直播或錄影"
+    },
+    {
+        "names": "Tai-Hao Doubleshot PBT 104 Keycaps + 2 Keys Puller (Black & Red)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Thermaltake P1000水冷液(綠)",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "299",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "Thermaltake T1000 透明水冷液 (紫)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "170",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "Cougar Bunker RGB 電競滑鼠理線器",
+        "rating": "",
+        "hon_price_min": "192",
+        "hon_price_max": "299",
+        "類型:": "滑鼠理線器"
+    },
+    {
+        "names": "Filco Majestouch 牛皮護腕墊(L)",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "410"
+    },
+    {
+        "names": "Thermaltake Coolant 1000",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "類型:": "水冷冷卻液"
+    },
+    {
+        "names": "Logitech G G715 / G713 Aurora Key Caps 組合按鍵鍵帽",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "ROCCAT 遊戲集線器 Apuri Raw",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "類型:": "滑鼠理線器"
+    },
+    {
+        "names": "Wuque Studio Aurora Pink 線性軸體 35粒裝 (粉)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    },
+    {
+        "names": "Wuque Studio FR4 FlexCut定位板 for Aurora",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤定位板"
+    },
+    {
+        "names": "Tai-Hao Doubleshot PBT Backlit 104 Keycaps + 2 Keys Puller (Orchid White)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Glorious Type-C USB Coiled Cable 防扭捲線",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "379",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "ASUS ROG SLASH Sling Bag 小型單肩袋 BC3000",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488",
+        "類型:": "單肩袋"
+    },
+    {
+        "names": "Mcbazel 通用桌面免打孔頭戴式電競耳機收納掛鉤",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "類型:": "電競耳機收納掛鉤"
+    },
+    {
+        "names": "Wuque Studio Poron 調音套件 for Aurora",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤調音套件"
+    },
+    {
+        "names": "Razer Universal Grip Tape (RC21-01670100-R3M1)",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "類型:": "防滑滑鼠貼"
+    },
+    {
+        "names": "Razer Mercenary Backpack",
+        "rating": "",
+        "hon_price_min": "759",
+        "hon_price_max": "759"
+    },
+    {
+        "names": "Pirect ULDRA-U3M USB 3.1 Ultra-low Latency Video Capture Box with Audio Mixer",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "影音裝置",
+        "用途:": "視頻採集"
+    },
+    {
+        "names": "Nacon Wireless PC Controller GC-200WL",
+        "rating": "",
+        "hon_price_min": "451",
+        "hon_price_max": "451",
+        "類型:": "電競手制"
+    },
+    {
+        "names": "Pirect ULDRA-U3M USB 3.1 Ultra-low Latency Video Capture Box with Audio Mixer",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "類型:": "影音裝置",
+        "用途:": "視頻採集"
+    },
+    {
+        "names": "Nacon Wireless PC Controller GC-200WL",
+        "rating": "",
+        "hon_price_min": "451",
+        "hon_price_max": "451",
+        "類型:": "電競手制"
+    },
+    {
+        "names": "Dragon War 電競枱 GT-001",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Cherry MX Brown Switch 茶軸 35pcs",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "MSI Vigor WR01 Wrist Rest",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "189",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Razer Gunmetal 系列套裝組合",
+        "rating": "",
+        "hon_price_min": "2,910",
+        "hon_price_max": "2,910",
+        "類型:": "電競組合套裝"
+    },
+    {
+        "names": "HyperX ChargePlay Base Qi Wireless Charger",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "499",
+        "類型:": "無線充電器"
+    },
+    {
+        "names": "Tecware Wristrest 軟墊鍵盤手托",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "鍵盤手托"
+    },
+    {
+        "names": "Corsair ST50 Premium Headset Stand CA-9011221-AP",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "280",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Razer Ergonomic Wrist Rest Pro For Full-sized Keyboards 冷凍凝膠手枕",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "320",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "類型:": "鍵盤手托",
+        "用途:": "保健"
+    },
+    {
+        "names": "Tt esports Level 20 BattleStation RGB Gaming Desk",
+        "rating": "",
+        "hon_price_min": "8,400",
+        "hon_price_max": "8,400",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Wuque Studio 鋁合金上蓋 (陽極紅) for Aurora",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵盤鋁合金上蓋"
+    },
+    {
+        "names": "Cougar Bunker S RGB Headset Stand",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "類型:": "耳機支架"
+    },
+    {
+        "names": "Gamdias DEMETER E1 OPTICAL + NYX E1",
+        "rating": "",
+        "類型:": "組合"
+    },
+    {
+        "names": "Thermaltake LUMI Color 12 LED Strip",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "140",
+        "類型:": "LED燈條"
+    },
+    {
+        "names": "NZXT HUE 2 LED Strips",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "類型:": "LED燈帶擴充"
+    },
+    {
+        "names": "ASUS ROG 不鏽鋼保溫杯 600ml (GUNDAM 限定版)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "杯"
+    },
+    {
+        "names": "Cherry MX Silver Switch 銀軸 35pcs",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "159",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Razer Kitty Ears for Kraken",
+        "rating": "10",
+        "hon_price_min": "148",
+        "hon_price_max": "169",
+        "類型:": "耳機配件"
+    },
+    {
+        "names": "Ducky 11鍵 PBT二色鍵帽組",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Razer Neoprene Sleeve V2 - For 13.3 Notebooks (RC21-01440100-R3M1)",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "195",
+        "water_price_min": "195",
+        "water_price_max": "195",
+        "類型:": "電競筆電保護套"
+    },
+    {
+        "names": "Tai-Hao Doubleshot PBT 104 Keycaps + 2 Keys Puller (Sunset)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Tecware PBT Pudding Keycaps",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Tt eSPORTS ABS 104鍵透明鍵帽",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "310",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "G-Go 電競桌 (1m x 0.6m) GDTS-4F",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "類型:": "電競枱"
+    },
+    {
+        "names": "Keychron Gateron - Phantom Brown Switch (35pcs)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "119",
+        "類型:": "機械軸鍵盤配件"
+    },
+    {
+        "names": "Thermaltake P1000水冷液(黃)",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "299",
+        "類型:": "水冷液"
+    },
+    {
+        "names": "Razer Raion Fightpad",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "795",
+        "類型:": "控制器",
+        "用途:": "PS4 /Windows控制器"
+    },
+    {
+        "names": "MSI FORCE GC30 (GP-MFGC30)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "類型:": "控制器",
+        "用途:": "Windows 10/8.1/7, Android 4.1 above"
+    },
+    {
+        "names": "MilkyWay PBT五面熱昇華鍵帽 (Pantone of 2021)",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "類型:": "機械軸鍵盤配件",
+        "用途:": "鍵帽"
+    }
+]

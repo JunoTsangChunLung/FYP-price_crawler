@@ -1,0 +1,3235 @@
+[
+    {
+        "names": "Mokkom 大口徑冷壓鮮榨原汁機 MK-199",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "water_price_min": "588",
+        "water_price_max": "599",
+        "功率:": "200W"
+    },
+    {
+        "names": "Daewoo 大宇 原汁機 (慢磨機) DY-BM05",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "598",
+        "water_price_min": "448",
+        "water_price_max": "448",
+        "容量:": "0.65公升",
+        "功率:": "80W"
+    },
+    {
+        "names": "Bruno Multi-Stick Blender 多功能手提攪拌器套裝 BOE034",
+        "rating": "",
+        "hon_price_min": "427",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Philips 飛利浦 3000系列攪拌機 HR2041/10",
+        "rating": "4.0",
+        "hon_price_min": "210",
+        "hon_price_max": "268",
+        "容量:": "1公升",
+        "功率:": "450W"
+    },
+    {
+        "names": "Daewoo 大宇 原汁機 (慢磨機) DY-BM03",
+        "rating": "7.0",
+        "hon_price_min": "358",
+        "hon_price_max": "599",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "功率:": "250W",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 手提攪拌機 MX-SS1",
+        "rating": "9.2",
+        "hon_price_min": "270",
+        "hon_price_max": "413",
+        "容量:": "0.7公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection ProMix 手提攪拌機 HR2543/01",
+        "rating": "9.0",
+        "hon_price_min": "357",
+        "hon_price_max": "420",
+        "功率:": "700W"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 榨汁機 HR1836",
+        "rating": "10",
+        "hon_price_min": "478",
+        "hon_price_max": "630",
+        "容量:": "0.5公升",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 慢磨榨汁機 HR1889/71",
+        "rating": "4.0",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,196",
+        "功率:": "150W"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection ProMix 手提攪拌機 HR2657/91",
+        "rating": "10",
+        "hon_price_min": "615",
+        "hon_price_max": "754",
+        "功率:": "800W"
+    },
+    {
+        "names": "SENKI 千崎 慢磨榨汁機 SJ002",
+        "rating": "6.0",
+        "hon_price_min": "339",
+        "hon_price_max": "499",
+        "容量:": "0.6公升",
+        "隔渣:": "渣汁分離 (97% 出汁率)"
+    },
+    {
+        "names": "SAMSUNG C&T ITFIT Portable Blender USB 充電便攜攪拌果汁杯 ITFITEX08PE",
+        "rating": "8.0",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "water_price_min": "40",
+        "water_price_max": "100",
+        "容量:": "0.3公升",
+        "功率:": "40W"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 輕巧多功能食物處理器 HR7530",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "870",
+        "功率:": "850W"
+    },
+    {
+        "names": "Xiaomi 小米 米家料理機",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "288",
+        "water_price_min": "168",
+        "water_price_max": "249",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "BRUNO USB Cordless Blender 無線便攜攪拌杯 BHK249",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "298",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 攪拌機 HR3658",
+        "rating": "9.3",
+        "hon_price_min": "865",
+        "hon_price_max": "1,360",
+        "容量:": "2公升",
+        "功率:": "1400W"
+    },
+    {
+        "names": "Xiaomi 小米 米家料理機",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "288",
+        "water_price_min": "168",
+        "water_price_max": "249",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 榨汁機 HR1836",
+        "rating": "10",
+        "hon_price_min": "478",
+        "hon_price_max": "630",
+        "容量:": "0.5公升",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Mokkom 冷壓慢磨原汁機 / 榨汁機 MK-SJ001",
+        "rating": "9.1",
+        "hon_price_min": "308",
+        "hon_price_max": "478",
+        "water_price_min": "318",
+        "water_price_max": "328",
+        "功率:": "130W",
+        "隔渣:": "渣汁分離"
+    },
+    {
+        "names": "Berkel 食物攪拌機 (3.5公升) FP35",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "容量:": "3.5公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 迷你攪拌機 HR2605/81",
+        "rating": "9.2",
+        "hon_price_min": "380",
+        "hon_price_max": "528",
+        "容量:": "0.6公升",
+        "功率:": "350W"
+    },
+    {
+        "names": "SENKI 千崎 慢磨榨汁機 升級版 SJ001 PLUS",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "388",
+        "容量:": "0.6公升",
+        "隔渣:": "304不銹鋼精細過濾網"
+    },
+    {
+        "names": "Daewoo 大宇 原汁機 (慢磨機) DY-BM03",
+        "rating": "7.0",
+        "hon_price_min": "358",
+        "hon_price_max": "599",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "功率:": "250W",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 迷你攪拌機 HR2607",
+        "rating": "9.3",
+        "hon_price_min": "295",
+        "hon_price_max": "400",
+        "功率:": "350W"
+    },
+    {
+        "names": "Deerma 德爾瑪 無線迷你USB電動榨汁機 NU06",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "369",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "容量:": "0.4公升",
+        "功率:": "140W"
+    },
+    {
+        "names": "Panasonic 樂聲 塑膠容器攪拌機 MX-EX1011",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "351",
+        "容量:": "1公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 5 Vario Sauce 手提式攪拌機 MQ 5035",
+        "rating": "6.0",
+        "hon_price_min": "465",
+        "hon_price_max": "548"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 5 Vario 手提攪拌棒 MQ 5200",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "440",
+        "容量:": "0.6公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 5 Vario 手提攪拌機 MQ 5235",
+        "rating": "10",
+        "hon_price_min": "530",
+        "hon_price_max": "798",
+        "容量:": "0.6公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Oimg 無線USB充電小型蒜蓉料理器",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59",
+        "容量:": "0.5公升",
+        "功率:": "15W"
+    },
+    {
+        "names": "Mokkom 第二代迷你魔食杯 MK-BH02G",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "water_price_min": "298",
+        "water_price_max": "380",
+        "容量:": "0.3公升",
+        "功率:": "300W"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 微壓榨汁機 HR1947",
+        "rating": "10",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,990",
+        "容量:": "1公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 5 Vario 手提攪拌機 MQ 5245",
+        "rating": "9.0",
+        "hon_price_min": "540",
+        "hon_price_max": "798",
+        "容量:": "0.6公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Vitantonio My Bottle 無線攪拌杯 VBL-1000",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "298",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Hurom Premium Series Slim 冷壓慢磨原汁機 H-310A",
+        "rating": "10",
+        "hon_price_min": "2,899",
+        "hon_price_max": "3,080",
+        "容量:": "0.22公升",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 7 Hand Blender 手提攪拌棒 MQ 7087X",
+        "rating": "10",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,533",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Kuvings MOTIV1 Smoothie Strainer",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "recolte Solo Blender Solen 復古果汁機 RSB-3",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "368",
+        "功率:": "160W"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection ProMix 手提攪拌機 HR2534/01",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "360",
+        "功率:": "650W"
+    },
+    {
+        "names": "Tefal 特福 Fruit Sensation 迷你三合一攪拌機 BL142A",
+        "rating": "8.0",
+        "hon_price_min": "420",
+        "hon_price_max": "550",
+        "容量:": "0.6公升",
+        "隔渣:": "無",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Fimar Single Speed Detachable Commercial Immersion Stick Blender 商用手提攪拌棒 MX42S",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,750",
+        "容量:": "60公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Bosch ErgoMixx 手提攪拌棒 MSM67160",
+        "rating": "",
+        "hon_price_min": "705",
+        "hon_price_max": "800",
+        "功率:": "750W"
+    },
+    {
+        "names": "Bamix Cordless Pro 無線專業手提攪拌器料理捧套裝",
+        "rating": "",
+        "hon_price_min": "4,288",
+        "hon_price_max": "4,288"
+    },
+    {
+        "names": "Philips 飛利浦 3000系列攪拌機 HR2291/20",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "455",
+        "容量:": "1.25公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "Philips Avent 4合1健康嬰兒食品蒸煮攪拌器 SCF875/01",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,660",
+        "功率:": "400W"
+    },
+    {
+        "names": "Yohome 家の逸 復古冰爽榨汁機 LGB-09",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "功率:": "300W"
+    },
+    {
+        "names": "Hurom H320N Series 慢磨機",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800"
+    },
+    {
+        "names": "Tefal 特福 Blendforce 2合1 攪拌機 BL42Q1",
+        "rating": "",
+        "hon_price_min": "515",
+        "hon_price_max": "580",
+        "容量:": "2公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "German Pool 德國寶 真空抗氧攪拌機 VBR-108",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "3,200",
+        "water_price_min": "1,600",
+        "water_price_max": "1,600",
+        "功率:": "800W"
+    },
+    {
+        "names": "Tefal 特福 Mix&Drink 攪拌機 BL133A",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "510"
+    },
+    {
+        "names": "Homey 家美牌 Multi-Function Mini Food Chopper 多用途攪拌機 MC-06",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "348",
+        "容量:": "0.6公升",
+        "功率:": "120W"
+    },
+    {
+        "names": "Bosch ErgoMixx 手提攪拌棒 MS6CB61V5",
+        "rating": "10",
+        "hon_price_min": "998",
+        "hon_price_max": "1,550",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Comfee' 電動絞肉機 CF-MC30AH(Y)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "容量:": "2公升",
+        "功率:": "300W"
+    },
+    {
+        "names": "NOWA 鈦金屬塗層多功能無線攪拌機 NWA-403",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "448"
+    },
+    {
+        "names": "Morphy Richards 氣泡果汁榨汁杯 MR9801",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "容量:": "0.26公升",
+        "功率:": "50W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 5 Vario 手持式攪拌機 MQ 5000",
+        "rating": "10",
+        "hon_price_min": "340",
+        "hon_price_max": "430",
+        "功率:": "750W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 9 Gourmet 手提式攪拌機 MQ 9087X",
+        "rating": "10",
+        "hon_price_min": "1,479",
+        "hon_price_max": "1,479",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Hyundai 現代 多功能料理果汁攪拌機 GSE007",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "298",
+        "功率:": "250W"
+    },
+    {
+        "names": "BioloMix 4合1手持攪拌機 BHB1200",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "功率:": "1200W"
+    },
+    {
+        "names": "SENKI 千崎 慢磨榨汁機 升級版 SJ001 PLUS",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "388",
+        "容量:": "0.6公升",
+        "隔渣:": "304不銹鋼精細過濾網"
+    },
+    {
+        "names": "Deerma 德爾瑪 迷你無線電動攪蒜機 香港版 JS100H",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "容量:": "0.15公升",
+        "功率:": "40W"
+    },
+    {
+        "names": "Bosch VitaPower Serie 4 攪拌機 MMB6174SG",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "1,305",
+        "容量:": "1.5公升",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Rasonic 樂信 4合1無線手提攪拌機 RHB-B41",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "450",
+        "功率:": "150W"
+    },
+    {
+        "names": "JNC Slow Juicer 歐洲式設計 - 原營養慢磨機 JNC-SGSJ-CG",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "1,380",
+        "功率:": "150W"
+    },
+    {
+        "names": "recolte Solen 榨汁機 (Minion 小小兵限定款) RSB-3(MO)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "299",
+        "容量:": "0.4公升",
+        "功率:": "160W"
+    },
+    {
+        "names": "Tefal 特福 Frutelia Metal Juicer 榨汁機 (400W) ZE420D",
+        "rating": "",
+        "hon_price_min": "415",
+        "hon_price_max": "488",
+        "容量:": "0.95公升",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Future Lab Trombe 負壓鮮榨杯",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "Panasonic 樂聲 塑膠容器攪拌機 MX-EX1511",
+        "rating": "6.0",
+        "hon_price_min": "340",
+        "hon_price_max": "440",
+        "容量:": "1.5公升",
+        "功率:": "450W"
+    },
+    {
+        "names": "Codes Cucina USB充電蒜蓉切碎器 碎肉攪拌器",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "容量:": "0.2公升",
+        "功率:": "28W"
+    },
+    {
+        "names": "Bosch VitaBoost 高速攪拌機 MMBH6P6BGB",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "2,990",
+        "容量:": "2公升",
+        "功率:": "1600W"
+    },
+    {
+        "names": "Philips Avent 4合1嬰兒食物蒸煮攪拌器 SCF883/02",
+        "rating": "10",
+        "hon_price_min": "1,224",
+        "hon_price_max": "1,380",
+        "功率:": "400W"
+    },
+    {
+        "names": "Panasonic 樂聲 攪拌/榨汁機 MJ-M171P",
+        "rating": "",
+        "hon_price_min": "775",
+        "hon_price_max": "930",
+        "容量:": "1公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Hurom Easy Clean Slow Juicer 易潔慢磨榨汁機 H101",
+        "rating": "",
+        "hon_price_min": "3,158",
+        "hon_price_max": "3,780"
+    },
+    {
+        "names": "URINGO 便攜式榨汁機",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368"
+    },
+    {
+        "names": "Gemini 雙子星 隨身USB充電式果汁攪拌機 GRB350V",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "容量:": "0.3公升",
+        "功率:": "30W"
+    },
+    {
+        "names": "Braun 百靈 Tribute Collection Jug Blender 攪拌機 JB 3060",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "690",
+        "water_price_min": "545",
+        "water_price_max": "545",
+        "容量:": "1.75公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Mokkom 第二代迷你魔食杯 MK-BH02G",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "water_price_min": "298",
+        "water_price_max": "380",
+        "容量:": "0.3公升",
+        "功率:": "300W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 5 Vario Aperitive 手持式攪拌機 MQ 5045",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "652",
+        "功率:": "750W"
+    },
+    {
+        "names": "Comfee' 多功能手提攪拌棒 CF-HB30AH(Y)",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "329",
+        "功率:": "400W"
+    },
+    {
+        "names": "Panasonic 樂聲 搾汁機 MJ-68M",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "550",
+        "容量:": "0.6公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "Xiaomi 小米 BUD博的家用原汁機",
+        "rating": "",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "功率:": "250W"
+    },
+    {
+        "names": "Kenwood 小型碎肉機 CH180",
+        "rating": "",
+        "hon_price_min": "267",
+        "hon_price_max": "298",
+        "容量:": "0.35公升",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Robot Coupe Vegetable Preparation Machine 蔬果處理機 CL50 Ultra",
+        "rating": "",
+        "hon_price_min": "13,100",
+        "hon_price_max": "13,100",
+        "功率:": "550W"
+    },
+    {
+        "names": "Panasonic 樂聲 塑膠容器攪拌機 MX-EX1011",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "351",
+        "容量:": "1公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Kusa 充電式水果榨汁攪拌機 JYM-300",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Toffy 迷你真空攪拌機 K-BD2",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "338",
+        "功率:": "150W"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 迷你榨汁機 HR1811",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "426",
+        "容量:": "0.5公升",
+        "隔渣:": "有",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Kenwood Multipro Compact 多功能食物處理器 FDM307SS",
+        "rating": "",
+        "hon_price_min": "1,686",
+        "hon_price_max": "1,988",
+        "容量:": "2.1公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "AGERU Aluminum Manual Juicer 鋁製手動榨汁器",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45"
+    },
+    {
+        "names": "Mcbazel 乾磨五穀雜糧中草藥香料咖啡豆研磨機",
+        "rating": "",
+        "hon_price_min": "105",
+        "hon_price_max": "105"
+    },
+    {
+        "names": "Tefal 特福 Optitouch 手提攪拌機 HB8338",
+        "rating": "",
+        "hon_price_min": "516",
+        "hon_price_max": "680",
+        "容量:": "5公升"
+    },
+    {
+        "names": "BioloMix 4合1不銹鋼手持攪拌機 HB3302",
+        "rating": "",
+        "water_price_min": "289",
+        "water_price_max": "289",
+        "功率:": "1200W"
+    },
+    {
+        "names": "SCOTT Simplissimo 全能冷熱烹調機",
+        "rating": "",
+        "hon_price_min": "1,325",
+        "hon_price_max": "1,399",
+        "容量:": "2公升",
+        "隔渣:": "N",
+        "防滴漏:": "Y"
+    },
+    {
+        "names": "Waring Commercial Heavy-Duty Electric Spice Grinder 香料粉碎機 WSG30K",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,850",
+        "容量:": "0.35公升",
+        "功率:": "175W"
+    },
+    {
+        "names": "Santos 50C cover 黑色蓋子 50151",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,650"
+    },
+    {
+        "names": "Aidoo 便攜式榨汁無線電動果汁杯 6葉刀片 JC01",
+        "rating": "",
+        "hon_price_min": "379",
+        "hon_price_max": "379",
+        "water_price_min": "365",
+        "water_price_max": "365"
+    },
+    {
+        "names": "Kenwood Blend-Xtract 3-in-1 攪拌機 BLP31.D0WG",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "555",
+        "功率:": "350W"
+    },
+    {
+        "names": "Omega 3匹馬力攪拌機 OM7562",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "容量:": "1.9公升"
+    },
+    {
+        "names": "Ariete Drink 'N Go 輕便式攪拌機 572",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "580",
+        "功率:": "350W"
+    },
+    {
+        "names": "AGERU USB Electric Mini Garlic Chopper 電動迷你攪碎器 (100ml)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "容量:": "0.1公升",
+        "功率:": "23W"
+    },
+    {
+        "names": "Souyi 復古時尚榨汁機 SY-109",
+        "rating": "9.0",
+        "hon_price_min": "238",
+        "hon_price_max": "279"
+    },
+    {
+        "names": "Robot Coupe Mini MP 240 Combi 手提攪拌棒",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,080",
+        "功率:": "270W"
+    },
+    {
+        "names": "Vitantonio My Bottle 無線攪拌杯 VBL-1000",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "298",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Braun 百靈 Multiquick 5 榨汁機 J500",
+        "rating": "4.0",
+        "hon_price_min": "939",
+        "hon_price_max": "998",
+        "容量:": "2公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Tommee Tippee Baby Food Steamer Blender 蒸煮攪拌器",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "940"
+    },
+    {
+        "names": "Philips 飛利浦 7000 Series 高速攪拌器 (1.8公升) HR3760/00",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "1,095",
+        "容量:": "1.8公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Tefal 特福 Blendforce Maxi 攪拌機 BL2338",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "540",
+        "容量:": "2公升",
+        "隔渣:": "無",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Robot Coupe CMP 250V.V. 手提攪拌棒",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "3,590",
+        "功率:": "310W"
+    },
+    {
+        "names": "LON10 集寶 便攜電動帶LED燈研磨器 PBH",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200"
+    },
+    {
+        "names": "OLAYKS 充電式便攜式榨汁杯 BM-NU30",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "容量:": "0.3公升",
+        "功率:": "45W"
+    },
+    {
+        "names": "Morphy Richards 無線不鏽鋼絞肉輔食機 MR9403",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "299",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "容量:": "0.16公升",
+        "功率:": "35W"
+    },
+    {
+        "names": "Tefal 特福 Perfectmix+ 高速攪拌機 BL811D",
+        "rating": "10",
+        "hon_price_min": "828",
+        "hon_price_max": "920",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Summe 德國卓爾 多功能攪拌機 BR-S1001",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "398",
+        "容量:": "0.6公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Punkhoo 咖啡豆豆果汁杯",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "容量:": "0.33公升",
+        "功率:": "60W"
+    },
+    {
+        "names": "Goodway 威馬 多功能攪拌研磨機 GJ-50151",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "748",
+        "容量:": "1.2公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Robot Coupe MP 350 Ultra Power Mixer 手提式攪拌棒",
+        "rating": "",
+        "hon_price_min": "4,099",
+        "hon_price_max": "4,199",
+        "功率:": "440W"
+    },
+    {
+        "names": "SUCCESS 成功牌 Planetary Mixer 落地式攪拌機 (10公升) TR101",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "8,800",
+        "容量:": "10公升",
+        "功率:": "225W"
+    },
+    {
+        "names": "Xiaomi 小米 BUD博的 MINI 家用原汁機",
+        "rating": "",
+        "water_price_min": "358",
+        "water_price_max": "499",
+        "功率:": "80W"
+    },
+    {
+        "names": "Waring Blade Series Blender 酒吧攪拌機 (膠杯, 電子制) BB340K",
+        "rating": "",
+        "hon_price_min": "3,109",
+        "hon_price_max": "3,109",
+        "容量:": "1.4公升"
+    },
+    {
+        "names": "Homey 家美牌 迷你攪拌機 MB-300G",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "容量:": "0.3公升",
+        "功率:": "50W"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 食材切碎機 IBC-12",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "248",
+        "容量:": "1.2公升",
+        "功率:": "350W"
+    },
+    {
+        "names": "Mokkom 迷你全自動無線原汁機",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "功率:": "25W"
+    },
+    {
+        "names": "Goodway 威馬 多功能食物處理器 GJ-018",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "2,050",
+        "容量:": "1.75公升",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Vitamix Ascent 系列智能攪拌器 A3500I",
+        "rating": "10",
+        "hon_price_min": "9,180",
+        "hon_price_max": "9,180",
+        "容量:": "2公升"
+    },
+    {
+        "names": "OCooker 圈廚 手持多功能電動廚師棒",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "water_price_min": "288",
+        "water_price_max": "388",
+        "容量:": "0.8公升",
+        "功率:": "420W"
+    },
+    {
+        "names": "Kuvings MOTIV1 Ice Cream Strainer",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "Fama Stick Blender 手提攪拌棒 FM650VV400",
+        "rating": "",
+        "hon_price_min": "6,200",
+        "hon_price_max": "6,200",
+        "容量:": "120公升",
+        "功率:": "650W"
+    },
+    {
+        "names": "Waring Bar Blender 酒吧攪拌機 (不銹鋼杯) BB250",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Frigidaire 北極 手提攪拌器 FD5108",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "327"
+    },
+    {
+        "names": "Robot Coupe Blixer 5-2V 商用食品處理機",
+        "rating": "",
+        "hon_price_min": "21,110",
+        "hon_price_max": "21,110",
+        "容量:": "5.9公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "YOUHA 優合 Baby Food Maker 嬰兒可蒸煮食品處理器 二合一蒸煮攪拌機",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388"
+    },
+    {
+        "names": "Kenwood 電動搾蔬果及橙汁機 JE680",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "665",
+        "容量:": "0.75公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Bosch VitaPower Serie 2 Blender 攪拌機 MMB2111TG",
+        "rating": "",
+        "hon_price_min": "545",
+        "hon_price_max": "699",
+        "容量:": "0.6公升",
+        "功率:": "450W"
+    },
+    {
+        "names": "Baumatic 便攜攪拌器 BB300",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "749",
+        "容量:": "0.3公升",
+        "功率:": "50W"
+    },
+    {
+        "names": "Robot Coupe Blixer 4V.V. 商用食品處理機",
+        "rating": "",
+        "hon_price_min": "19,800",
+        "hon_price_max": "19,850"
+    },
+    {
+        "names": "Morphy Richards 多功能果汁機/攪拌機 (連隨行杯 600ml)",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "功率:": "350W"
+    },
+    {
+        "names": "Omega N4000 榨汁機 J4220",
+        "rating": "",
+        "hon_price_min": "2,630",
+        "hon_price_max": "2,980",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Tefal 特福 Blendforce 2 攪拌機 BL4458",
+        "rating": "",
+        "hon_price_min": "405",
+        "hon_price_max": "425",
+        "容量:": "1.5公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "UNION 聯合 (Good Friend 好友) Food Mixer 皮帶式攪拌機連安全網 GF-201B",
+        "rating": "",
+        "hon_price_min": "10,580",
+        "hon_price_max": "10,580",
+        "容量:": "20公升"
+    },
+    {
+        "names": "Waring Pro Prep Chopper Grinder 食物粉碎機 WCG75K",
+        "rating": "",
+        "hon_price_min": "2,145",
+        "hon_price_max": "2,145",
+        "容量:": "0.7公升"
+    },
+    {
+        "names": "Kenwood 榨橙汁機 JE290",
+        "rating": "",
+        "hon_price_min": "205",
+        "hon_price_max": "258",
+        "容量:": "1公升",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Cuisinart 無線迷你食物處理器 RMC100U",
+        "rating": "",
+        "hon_price_min": "791",
+        "hon_price_max": "792",
+        "容量:": "0.9公升"
+    },
+    {
+        "names": "Tefal 特福 攪拌機 BL4291",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "400",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Homey 家美牌 多用營養寶 SB-1120",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,060",
+        "容量:": "1.3公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Kenwood PureJuice Pro 慢磨果汁機 JMP800SI",
+        "rating": "",
+        "hon_price_min": "1,818",
+        "hon_price_max": "2,380",
+        "容量:": "1.5公升",
+        "功率:": "240W"
+    },
+    {
+        "names": "Robot Coupe Blixer 7 V.V. 商用食品處理機",
+        "rating": "",
+        "hon_price_min": "30,200",
+        "hon_price_max": "30,200",
+        "容量:": "5.9公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Ariete Robomix Reverse Food Processor 多功能切碎機 1767",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "Waring 多功能攪拌機 MMB145E",
+        "rating": "",
+        "hon_price_min": "3,120",
+        "hon_price_max": "3,120",
+        "容量:": "1.4公升"
+    },
+    {
+        "names": "Bosch ErgoMixx 手提攪拌棒 MSM64120GB",
+        "rating": "",
+        "hon_price_min": "425",
+        "hon_price_max": "550",
+        "功率:": "450W"
+    },
+    {
+        "names": "Vitamix Explorian 系列經典攪拌機 E310",
+        "rating": "10",
+        "hon_price_min": "5,680",
+        "hon_price_max": "5,680",
+        "容量:": "1.4公升"
+    },
+    {
+        "names": "Russell Hobbs Explore Mix & Go Cool 小型攪拌器 RH-25160",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "0.6公升",
+        "功率:": "300W"
+    },
+    {
+        "names": "Santos \"Classic\" Citrus Juicer 榨橙汁機 11C",
+        "rating": "",
+        "hon_price_min": "3,525",
+        "hon_price_max": "3,525"
+    },
+    {
+        "names": "German Pool 德國寶 迷你攪拌機 BLD-M25",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "518",
+        "功率:": "250W"
+    },
+    {
+        "names": "Santos Juicer 高效能榨汁機 50",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "8,800",
+        "功率:": "800W"
+    },
+    {
+        "names": "Deerma 德爾瑪 USB無線便攜榨汁杯 NU05",
+        "rating": "10",
+        "hon_price_min": "185",
+        "hon_price_max": "299",
+        "water_price_min": "165",
+        "water_price_max": "190",
+        "功率:": "140W"
+    },
+    {
+        "names": "SENKI 千崎 慢磨榨汁機 SJ001",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "469",
+        "功率:": "130W"
+    },
+    {
+        "names": "Tefal 特福 Frutelia+ Metal 榨汁機 ZE420",
+        "rating": "6.0",
+        "hon_price_min": "415",
+        "hon_price_max": "460",
+        "容量:": "0.95公升",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 食物處理器 MK-F500",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,980",
+        "容量:": "2.5公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Primada 慢磨原汁寶 PSJ270",
+        "rating": "",
+        "hon_price_min": "1,479",
+        "hon_price_max": "1,519"
+    },
+    {
+        "names": "Hario 電動冰沙果汁機 ESJ-300",
+        "rating": "",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Waring 不銹鋼杯單頭奶昔機 DMX20M",
+        "rating": "",
+        "hon_price_min": "3,640",
+        "hon_price_max": "3,640"
+    },
+    {
+        "names": "Bamix Gastro 200 手提式攪拌機",
+        "rating": "",
+        "hon_price_min": "1,630",
+        "hon_price_max": "1,990"
+    },
+    {
+        "names": "Robot Coupe Food Processor 食品蔬菜處理器 R301",
+        "rating": "",
+        "hon_price_min": "9,970",
+        "hon_price_max": "9,970",
+        "容量:": "3.7公升",
+        "功率:": "650W"
+    },
+    {
+        "names": "小太陽 專業大容量大扭力食物處理機 TX-180",
+        "rating": "",
+        "hon_price_min": "2,838",
+        "hon_price_max": "2,838",
+        "容量:": "2公升",
+        "功率:": "180W"
+    },
+    {
+        "names": "Robot Coupe J80 Ultra Automatic Juice Extractor  全自動排渣式榨汁機",
+        "rating": "",
+        "hon_price_min": "9,670",
+        "hon_price_max": "9,670",
+        "容量:": "6.5公升",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Waring Torq 2.0 Blender 多功能攪拌機 TBB160K",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,250",
+        "容量:": "1.4公升"
+    },
+    {
+        "names": "Omega Citrus Juicers 榨汁機 9000 / J9220",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,550"
+    },
+    {
+        "names": "La Felsinea 飛仙來 Ektor 37 Cold Press Juicer 冷壓榨汁機",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "功率:": "250W",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Santos Cold Press Juicer Nutrisantos 冷榨汁機 65",
+        "rating": "",
+        "hon_price_min": "29,650",
+        "hon_price_max": "29,650",
+        "功率:": "650W"
+    },
+    {
+        "names": "Philips 飛利浦 高速真空攪拌機 HR3752/01",
+        "rating": "6.0",
+        "hon_price_min": "1,540",
+        "hon_price_max": "2,160",
+        "容量:": "1.8公升",
+        "功率:": "1400W"
+    },
+    {
+        "names": "Kenwood Triblade (三刀片) 手提攪拌機 HDP302",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "409",
+        "功率:": "800W"
+    },
+    {
+        "names": "Tefal 特福 Blendeo 攪拌機 BL2A11",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "241",
+        "容量:": "1.5公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Deerma 德爾瑪 隨身果汁機 Dem-NU01",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170",
+        "water_price_min": "170",
+        "water_price_max": "180",
+        "功率:": "45W"
+    },
+    {
+        "names": "Panasonic 樂聲 玻璃容器攪拌機 MX-EX1561",
+        "rating": "8.0",
+        "hon_price_min": "365",
+        "hon_price_max": "465",
+        "容量:": "1.5公升",
+        "功率:": "450W"
+    },
+    {
+        "names": "Hamilton Beach Expeditor 1100S Culinary Blender 高性能廚房攪拌機 HBF1100S",
+        "rating": "",
+        "hon_price_min": "18,880",
+        "hon_price_max": "18,880",
+        "容量:": "4公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Nutzen 多功能迷你攪肉機 NBM-03",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "360",
+        "容量:": "0.3公升",
+        "功率:": "150W"
+    },
+    {
+        "names": "Breville the Juice Fountain Compact 蔬果榨汁機 BJE200",
+        "rating": "10",
+        "hon_price_min": "950",
+        "hon_price_max": "1,298",
+        "功率:": "900W"
+    },
+    {
+        "names": "Robot Coupe Blixer 4 商用食品處理機",
+        "rating": "",
+        "hon_price_min": "13,650",
+        "hon_price_max": "13,750"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 9 Hand blender 手提攪拌機 MQ9138XI",
+        "rating": "",
+        "hon_price_min": "1,490",
+        "hon_price_max": "1,620",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Robot Coupe R5 V.V. Table-top cutters 食物切割攪拌器",
+        "rating": "",
+        "hon_price_min": "27,300",
+        "hon_price_max": "27,300",
+        "功率:": " 1300W"
+    },
+    {
+        "names": "Midea 美的 桌上攪拌機 BL1190",
+        "rating": "",
+        "hon_price_min": "213",
+        "hon_price_max": "300",
+        "容量:": "1.5公升",
+        "功率:": "750W"
+    },
+    {
+        "names": "Philips Avent 2合1 健康嬰兒食品蒸煮攪拌器 SCF870/21",
+        "rating": "10",
+        "hon_price_min": "994",
+        "hon_price_max": "1,191",
+        "功率:": "400W"
+    },
+    {
+        "names": "Toffy 多功能三合一食物調理機 K-FP1-PA",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "688",
+        "功率:": "400W"
+    },
+    {
+        "names": "Leasy Home 無線便携冷壓慢磨榨汁分離機",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "容量:": "1.25公升",
+        "功率:": "60W"
+    },
+    {
+        "names": "Robot Coupe Table Top Cutter 食品切割攪拌機 R7",
+        "rating": "",
+        "hon_price_min": "23,110",
+        "hon_price_max": "23,110",
+        "容量:": "7.5公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Bamix Cordless Plus 無線專業手提攪拌器料理捧套裝",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999"
+    },
+    {
+        "names": "German Pool 德國寶 冷壓原汁機 JUS-102",
+        "rating": "8.0",
+        "hon_price_min": "1,295",
+        "hon_price_max": "1,500",
+        "功率:": "200W"
+    },
+    {
+        "names": "JTC OmniBlend V 專業高速萃取機 TM-800AQ",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,188",
+        "容量:": "1.5公升",
+        "隔渣:": "NO"
+    },
+    {
+        "names": "Robot Coupe Power Mixer 手提式攪拌棒連打蛋網 MP350C",
+        "rating": "",
+        "hon_price_min": "6,099",
+        "hon_price_max": "6,099",
+        "功率:": "440W"
+    },
+    {
+        "names": "Dynamic 16.5\" 磨薯仔桿 Foodmill / Ricer AP90",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580"
+    },
+    {
+        "names": "Russell Hobbs Aura 手提攪伴機 RH-21503",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "功率:": "600W"
+    },
+    {
+        "names": "Omega 慢磨機 NC1002HDS",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "4,380",
+        "容量:": "6公升",
+        "功率:": "200 W"
+    },
+    {
+        "names": "UNION 聯合 (SPAR 士邦) Table Top Mixer 齒輪式桌上型攪拌機連安全網 SP-800",
+        "rating": "",
+        "hon_price_min": "7,880",
+        "hon_price_max": "7,880",
+        "容量:": "8公升"
+    },
+    {
+        "names": "Robot Coupe Blixer 5 V.V. 商用食品處理機",
+        "rating": "",
+        "hon_price_min": "26,250",
+        "hon_price_max": "26,350",
+        "容量:": "5.9公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 手提攪拌機 HR1673",
+        "rating": "8.0",
+        "hon_price_min": "650",
+        "hon_price_max": "699",
+        "容量:": "1公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Robot Coupe 食物加工機 R3-3000",
+        "rating": "",
+        "hon_price_min": "11,200",
+        "hon_price_max": "11,230",
+        "功率:": "650W"
+    },
+    {
+        "names": "S.M.E.G. 50's Hand Blender 手提攪拌機 HBF02",
+        "rating": "",
+        "hon_price_min": "1,205",
+        "hon_price_max": "1,210",
+        "功率:": "700W"
+    },
+    {
+        "names": "Breville the Q 真空高速攪拌機 BBL820SHY",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "4,280",
+        "容量:": "2公升",
+        "功率:": "2400W"
+    },
+    {
+        "names": "White-Westinghouse 食物碎渣器 WXCB75GFXCWA",
+        "rating": "",
+        "hon_price_min": "1,685",
+        "hon_price_max": "1,900"
+    },
+    {
+        "names": "Braun 百靈 TributeCollection Citrus Juicer 迷你榨汁機 CJ 3050",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "328",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "功率:": "60W"
+    },
+    {
+        "names": "Xiaomi 小米 17PIN 星果杯 電動便攜榨汁杯",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "water_price_min": "199",
+        "water_price_max": "249",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "Robot Coupe Mini MP 190 Combi 手提攪拌棒",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "功率:": "250W"
+    },
+    {
+        "names": "Midea 美的 攪拌機 MJBL-1188",
+        "rating": "",
+        "hon_price_min": "1,688",
+        "hon_price_max": "1,821",
+        "容量:": "1.75公升"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 攪拌機 SBL280",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "278",
+        "容量:": "1.5公升",
+        "功率:": "350W"
+    },
+    {
+        "names": "Gemini 雙子星 多功能攪拌機 GBL250V",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "容量:": "0.45公升",
+        "功率:": "250W"
+    },
+    {
+        "names": "Kuvings B1700 Smoothie Strainer",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "Peanuts x HomePlus Snoopy USB Charge Blender (Red Doghouse) 飲品攪拌機 BL-111-SN-DH",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "269"
+    },
+    {
+        "names": "JNC Beautiful 時尚家廚攪拌機 TIFCP-TU",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "390",
+        "容量:": "1.2公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Breville the Kinetix Glass 攪拌機 BBL380BKS",
+        "rating": "",
+        "hon_price_min": "509",
+        "hon_price_max": "509",
+        "容量:": "1.5公升",
+        "功率:": "850W"
+    },
+    {
+        "names": "Waring Blender 食物攪拌機 (玻璃杯/Glass Container) 8011G",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Panasonic 樂聲 食物處理器 MK-F800",
+        "rating": "",
+        "hon_price_min": "2,429",
+        "hon_price_max": "2,489",
+        "容量:": "2.5公升"
+    },
+    {
+        "names": "Hamilton Beach Tempest 商用沙冰攪拌機 HBH650",
+        "rating": "",
+        "hon_price_min": "8,500",
+        "hon_price_max": "8,500",
+        "容量:": "1.8公升",
+        "隔渣:": "無",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Santos 28 Blade Disc 榨汁機刀盤 28201#",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880"
+    },
+    {
+        "names": "BEEM 便攜式充電榨汁杯 06899",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "功率:": "30W"
+    },
+    {
+        "names": "Gorenje 手提攪拌器 HBX602RLBK",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "698",
+        "功率:": "600W"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 USB 充電便攜式攪拌機 IBL-200GZ",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "265",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "LON10 集寶 無線迷你攪蒜神器家用輔食絞肉機 PAU",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118"
+    },
+    {
+        "names": "Bosch 手提攪拌棒 MSM6700GB",
+        "rating": "",
+        "hon_price_min": "565",
+        "hon_price_max": "680",
+        "功率:": "600W"
+    },
+    {
+        "names": "Waring 4-Quart Bowl Cutter Mixer Food Processor 切菜及食物粉碎器 WFP16S",
+        "rating": "",
+        "hon_price_min": "6,760",
+        "hon_price_max": "6,760"
+    },
+    {
+        "names": "LON10 集寶 多功能手動料理拉蒜器 PBS",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "Hamilton Beach HMD200 / HMD400 Plug 插銷 990049700",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160"
+    },
+    {
+        "names": "Sunkist 2B 新奇士8中號榨汁頭 Sunkist Juicer Bulbs with metal insert",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "Cuisinart 迷你食物處理器 DLC-2ABCHK",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "424",
+        "容量:": "0.75公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 榨汁機、攪拌機、研磨機、切碎器 HR1847",
+        "rating": "9.5",
+        "hon_price_min": "500",
+        "hon_price_max": "599",
+        "容量:": "1公升",
+        "隔渣:": "有",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Hamilton Beach The Summit 靜音罩攪拌機 HBH850",
+        "rating": "",
+        "hon_price_min": "11,600",
+        "hon_price_max": "12,500",
+        "容量:": "1.8公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "佳和 無線迷你榨汁機 (0.5L) 889",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "容量:": "0.5公升",
+        "功率:": "35W"
+    },
+    {
+        "names": "Russell Hobbs Horizon Mini Chopper 迷你攪拌器 RH-24661",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "容量:": "0.5公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "SUCCESS 成功牌 Planetary Mixer 落地式攪拌機 (20公升) TR201",
+        "rating": "",
+        "hon_price_min": "13,600",
+        "hon_price_max": "13,600",
+        "容量:": "20公升",
+        "功率:": "375W"
+    },
+    {
+        "names": "Turbo ltaly 鮮果杯便攜榨汁機 TBD-193",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "278",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Daewoo 大宇 無線便攜式電動榨汁杯 ZB2",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "298",
+        "water_price_min": "218",
+        "water_price_max": "298",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "IB Gyro Electric Pepper Grinder 重力感應電動研磨機",
+        "rating": "10",
+        "hon_price_min": "110",
+        "hon_price_max": "110"
+    },
+    {
+        "names": "Famous 法國名家 多功能玻璃攪拌機 FB-230",
+        "rating": "",
+        "hon_price_min": "224",
+        "hon_price_max": "249",
+        "功率:": "230W"
+    },
+    {
+        "names": "Omega Low Speed Masticating Celery Juicer 醫用中等慢壓芹菜榨汁機 MM900HDS",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "功率:": "200W"
+    },
+    {
+        "names": "Tefal 特福 Blend&GO 便攜式攪拌機 BL1B1D",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "350",
+        "容量:": "0.75公升",
+        "功率:": "300W"
+    },
+    {
+        "names": "Daewoo 大宇 稱重輔食廚師機 600ml DYJR-12L6",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Panasonic 樂聲 搾汁機 MJ-D31",
+        "rating": "",
+        "hon_price_min": "1,208",
+        "hon_price_max": "1,250",
+        "功率:": "800W"
+    },
+    {
+        "names": "Rasonic 樂信 食物處理器 RMC-B6",
+        "rating": "8.0",
+        "hon_price_min": "205",
+        "hon_price_max": "328",
+        "容量:": "0.6公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 9 Hand blender 手提攪拌機 MQ 9195XLI",
+        "rating": "",
+        "hon_price_min": "1,884",
+        "hon_price_max": "1,904",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Revablend Non-Electric Portable Blender 手動攪伴機",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "169"
+    },
+    {
+        "names": "Tefal 特福 Multimoulinette 三合一食物切碎器 MQ7161",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "411",
+        "容量:": "1.5公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Kenwood 小型碎肉機 CH180A",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "270",
+        "容量:": "0.35公升",
+        "功率:": "950W"
+    },
+    {
+        "names": "Braun 百靈 Identity Collection Jug Blender 攪拌機 JB 5160",
+        "rating": "",
+        "hon_price_min": "919",
+        "hon_price_max": "1,248",
+        "容量:": "1.6公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Cuisinart 多功能研磨機 SG-10HK",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "480",
+        "容量:": "0.09公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "Pinlo 隨手便攜式家用水果充電電動榨汁杯",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Nutri Ninja Duo 2 in 1 攪拌器",
+        "rating": "",
+        "water_price_min": "3,000",
+        "water_price_max": "3,000",
+        "容量:": "1公升",
+        "防滴漏:": "Yes"
+    },
+    {
+        "names": "Hamilton Beach 食物攪拌機 HBF400",
+        "rating": "",
+        "hon_price_min": "5,100",
+        "hon_price_max": "5,100",
+        "容量:": "1.9公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 攪拌機 HR2173",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "549",
+        "容量:": "2公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "Tefal 特福 Multi moulinette 5 in 1 食物切碎器 MQ722165",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "480",
+        "功率:": "500W"
+    },
+    {
+        "names": "Codes Cucina 食物切碎器 - 0.3L",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "229",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "SilverCrest Mini Chopper 食物切碎機 (帶醬汁器)",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "容量:": "0.5公升",
+        "防滴漏:": "附有防漏配件 , ( 防止液體漏入機身內 )"
+    },
+    {
+        "names": "Roboqbo MAGIC SET 3C Heavy Duty Food Cutter 高效能商用食物打碎機",
+        "rating": "",
+        "hon_price_min": "12,300",
+        "hon_price_max": "12,300"
+    },
+    {
+        "names": "Summe 德國卓爾 便攜式攪拌機 BR-S1502",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "239",
+        "容量:": "0.28公升",
+        "功率:": "150W"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 迷你攪拌機 IBL-180P",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "248",
+        "容量:": "0.45公升",
+        "功率:": "180W"
+    },
+    {
+        "names": "Kenwood Blend-X Classic 攪拌機 BLP605",
+        "rating": "",
+        "容量:": "1.6公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "California Bear 2合1嬰兒食物蒸煮攪拌器 CB14017",
+        "rating": "",
+        "hon_price_min": "759",
+        "hon_price_max": "759"
+    },
+    {
+        "names": "MIUI 無濾網原汁機 JE-B03B",
+        "rating": "",
+        "water_price_min": "428",
+        "water_price_max": "428",
+        "功率:": "150W"
+    },
+    {
+        "names": "Russell Hobbs Illumina 攪拌機 RH-20230",
+        "rating": "",
+        "hon_price_min": "859",
+        "hon_price_max": "859",
+        "容量:": "1.5公升",
+        "功率:": "850W"
+    },
+    {
+        "names": "Robot Coupe Table Top Cutter Mixer 食物加工機 R4V.V.",
+        "rating": "",
+        "hon_price_min": "17,900",
+        "hon_price_max": "18,040",
+        "容量:": "4.5公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Russell Hobbs Illumina 多功能攪拌機 RH-20240",
+        "rating": "",
+        "hon_price_min": "1,188",
+        "hon_price_max": "1,188",
+        "功率:": "850W"
+    },
+    {
+        "names": "Hamilton Beach Clutch for HBB250/250S Bar Blenders 990036300",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170"
+    },
+    {
+        "names": "Vitantonio VBL-5 Mini Bottle Blender 攪拌機 刀頭配件",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80"
+    },
+    {
+        "names": "Omega Professional Citrus Juicer 專業榨果汁機 C-22C",
+        "rating": "",
+        "hon_price_min": "4,499",
+        "hon_price_max": "4,499"
+    },
+    {
+        "names": "Hamilton Beach Quantum Blender 高性能商用沙冰攪拌機 HBH950",
+        "rating": "",
+        "hon_price_min": "13,980",
+        "hon_price_max": "13,980",
+        "容量:": "2公升",
+        "功率:": "730W"
+    },
+    {
+        "names": "Bianco di Puro Gusto Pro 商用攪拌機 DC6711X",
+        "rating": "",
+        "hon_price_min": "8,399",
+        "hon_price_max": "8,399",
+        "容量:": "2公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Santos Brushless Blender 高效能食物攪拌機 62",
+        "rating": "",
+        "hon_price_min": "11,180",
+        "hon_price_max": "11,180",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Dynamic MiniPro Hand Held Mixer 手提式攪拌器",
+        "rating": "10",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "容量:": "4公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "Goodway 威馬 玻璃攪拌機 GJ-1501",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "369",
+        "容量:": "1.5公升",
+        "功率:": "450W"
+    },
+    {
+        "names": "Rasonic 樂信 5合1榨汁攪拌機 RJB-J51G",
+        "rating": "",
+        "hon_price_min": "443",
+        "hon_price_max": "498",
+        "容量:": "1.2公升",
+        "隔渣:": "無",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 攪拌機 HR2096",
+        "rating": "",
+        "hon_price_min": "848",
+        "hon_price_max": "882",
+        "容量:": "1.5公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Tre-Spade 電動絞肉機 F00800",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "功率:": "300W"
+    },
+    {
+        "names": "SPAR 士邦 Mixer 攪拌機 TR101",
+        "rating": "",
+        "hon_price_min": "8,900",
+        "hon_price_max": "8,900",
+        "容量:": "10公升"
+    },
+    {
+        "names": "Robot Coupe MP 450 Ultra Power Mixer 手提式攪拌棒",
+        "rating": "",
+        "hon_price_min": "4,810",
+        "hon_price_max": "4,820",
+        "功率:": "500W"
+    },
+    {
+        "names": "IB Portable Blender Cup 便攜電動攪拌榨汁杯",
+        "rating": "10",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Tefal 特福 Easy Fruite 榨汁機 ZE585G",
+        "rating": "",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,020",
+        "容量:": "3公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Hamilton Beach Rio Bar Blender 商用攪拌機 HBB250",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "容量:": "1.25公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Kenwood 2GoSport 便攜式攪拌機 SMP060",
+        "rating": "10",
+        "hon_price_min": "348",
+        "hon_price_max": "375",
+        "功率:": "300W"
+    },
+    {
+        "names": "Robot Coupe Blixer 3 商用食品處理機",
+        "rating": "",
+        "hon_price_min": "13,300",
+        "hon_price_max": "13,450"
+    },
+    {
+        "names": "Braun 百靈 Multiquick 3 Citrus Juicer 迷你榨汁機 MPZ9",
+        "rating": "",
+        "hon_price_min": "246",
+        "hon_price_max": "256",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "功率:": "20W"
+    },
+    {
+        "names": "Hamilton Beach The Eclipse 高性能攪拌機 HBH755",
+        "rating": "",
+        "hon_price_min": "8,399",
+        "hon_price_max": "8,399",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 攪拌機 HR2051",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "248",
+        "功率:": "450W"
+    },
+    {
+        "names": "Rasonic 樂信 無線迷你食物處理器 RMC-B4",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "230",
+        "容量:": "0.15公升",
+        "功率:": "40W"
+    },
+    {
+        "names": "Waring Heavy Duty Blender 高效能食物攪拌機 24CB10C",
+        "rating": "",
+        "hon_price_min": "13,200",
+        "hon_price_max": "13,200",
+        "容量:": "4公升",
+        "功率:": "2800W"
+    },
+    {
+        "names": "SPAR 士邦 Mixer 攪拌機 TR201",
+        "rating": "",
+        "hon_price_min": "13,700",
+        "hon_price_max": "13,700",
+        "容量:": "20公升"
+    },
+    {
+        "names": "Bosch MaxoMixx 不銹鋼手提攪拌棒 MS8CM6190",
+        "rating": "",
+        "hon_price_min": "1,485",
+        "hon_price_max": "1,699",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Santos Special Key 28＃刀盤鑰匙 28226",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460"
+    },
+    {
+        "names": "Ariete Vintage Blender 復古系列輕便攪拌機 568",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "520",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Kenwood Blend-X 迷你攪拌機 BLP011",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "395",
+        "容量:": "0.6公升",
+        "功率:": "350W"
+    },
+    {
+        "names": "Robot Coupe Vegetable Preparation Machine 蔬果處理機 (Three Phase/三相) CL55",
+        "rating": "",
+        "hon_price_min": "43,100",
+        "hon_price_max": "43,300",
+        "功率:": "750W"
+    },
+    {
+        "names": "Roboqbo WORKMATIC 高效能切菜機 WM-6VS",
+        "rating": "",
+        "hon_price_min": "34,700",
+        "hon_price_max": "34,700"
+    },
+    {
+        "names": "Kuvings B1700 Ice Cream Strainer",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "Panasonic 樂聲 塑膠容器攪拌機 MX-GX1011",
+        "rating": "8.0",
+        "hon_price_min": "230",
+        "hon_price_max": "287",
+        "容量:": "1公升",
+        "隔渣:": "無",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Robot Coupe MP350 Combi Ultra 手提攪拌棒",
+        "rating": "",
+        "hon_price_min": "6,120",
+        "hon_price_max": "6,450",
+        "容量:": "50公升",
+        "功率:": "440W"
+    },
+    {
+        "names": "Sunkist 2C 新奇士8大號榨汁頭 Sunkist Juicer Bulbs with metal insert",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "Vitantonio Mini Bottle Blender Bottle 替換便攜杯 PVBL- 3BT-CC",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "容量:": "0.28公升"
+    },
+    {
+        "names": "Tescom 真空攪拌機 TMV1500SEA",
+        "rating": "2.0",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "容量:": "0.78公升",
+        "功率:": "290W"
+    },
+    {
+        "names": "Blendtec 2QT BPA-free 攪拌杯",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "容量:": "1.9公升"
+    },
+    {
+        "names": "Waring Hand Blender 手提式攪拌器 WSB50K",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,250",
+        "功率:": "650W"
+    },
+    {
+        "names": "Kenwood PureJuice One 榨汁機 JMP400",
+        "rating": "",
+        "hon_price_min": "1,468",
+        "hon_price_max": "2,190",
+        "功率:": "140W"
+    },
+    {
+        "names": "Homey 家美牌 攪拌機 GB-10",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "容量:": "1公升",
+        "功率:": "280W"
+    },
+    {
+        "names": "Rasonic 樂信 高效能攪拌機 RB-T160C",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "容量:": "2公升",
+        "功率:": "1600W"
+    },
+    {
+        "names": "KitchenAid Diamond Blender 攪拌機 5KSB1585B",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,799",
+        "容量:": "1.75公升",
+        "功率:": "615W"
+    },
+    {
+        "names": "Tefal 特福 La Moulinette 食物切碎器 DPA171",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "630",
+        "容量:": "0.33公升",
+        "隔渣:": "無",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Homey 家美牌 迷你攪拌機 MB-380",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "228",
+        "容量:": "0.28公升",
+        "功率:": "150W"
+    },
+    {
+        "names": "LON10 集寶 太空自動攪拌杯 PDJ",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "容量:": "0.38公升"
+    },
+    {
+        "names": "Frigidaire 北極 攪拌機 FD5116",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "容量:": "2.5公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Hamilton Beach The 908 Bar Blender 酒吧攪拌機 HBB908",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,780",
+        "容量:": "1.25公升"
+    },
+    {
+        "names": "Robot Coupe Blixer 4-3000 商用食品處理機",
+        "rating": "",
+        "hon_price_min": "13,160",
+        "hon_price_max": "13,160"
+    },
+    {
+        "names": "Kuvings Whole Slow Juicer B1700",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "4,280",
+        "功率:": "240W"
+    },
+    {
+        "names": "Kenwood Triblade 手提式攪拌器 HDP103WG",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "350",
+        "容量:": "0.5公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "Bokuk 多功能攪碎機",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "功率:": "30W"
+    },
+    {
+        "names": "Waring Food Processor 切菜及食物粉碎機 WFP14SCDK",
+        "rating": "",
+        "hon_price_min": "6,240",
+        "hon_price_max": "6,240",
+        "容量:": "3.3公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "Pinlo 攪拌料理機",
+        "rating": "",
+        "water_price_min": "258",
+        "water_price_max": "279",
+        "容量:": "0.45公升"
+    },
+    {
+        "names": "Oster Versa 攪拌機",
+        "rating": ""
+    },
+    {
+        "names": "Nutzen \"晶鑽杯\" 攪拌機 SCUP-18",
+        "rating": "",
+        "hon_price_min": "2,398",
+        "hon_price_max": "2,398",
+        "容量:": "冷飲：1750毫升、熱飲：1200毫升公升",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Waring 切菜及食物粉碎器 WFP14SK",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,480"
+    },
+    {
+        "names": "Santos 50C / 50 Blade Disc 刀盤 50210",
+        "rating": "",
+        "hon_price_min": "465",
+        "hon_price_max": "465"
+    },
+    {
+        "names": "Hamilton Beach HBH450 Polycarbonate Container 透明攪拌杯 48oz 6126-450",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "容量:": "1.4公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Santos Automatic Orange Juicer with Table 自動榨橙汁機 (附不銹鋼車仔) 32T",
+        "rating": "",
+        "hon_price_min": "61,800",
+        "hon_price_max": "61,800",
+        "功率:": "600W"
+    },
+    {
+        "names": "Kuvings HealthFriend Smart Juicer MOTIV1",
+        "rating": "10",
+        "hon_price_min": "2,980",
+        "hon_price_max": "4,580",
+        "功率:": "200W"
+    },
+    {
+        "names": "Russell Hobbs Illumina 手提攪拌器 RH-20210",
+        "rating": "",
+        "hon_price_min": "609",
+        "hon_price_max": "609",
+        "功率:": "700W"
+    },
+    {
+        "names": "Robot Coupe Vegetable Preparation Machine 蔬果處理機 CL50 Gourmet",
+        "rating": "",
+        "hon_price_min": "16,440",
+        "hon_price_max": "16,440",
+        "功率:": "550W"
+    },
+    {
+        "names": "Kenwood 四刀片切碎機 CH580",
+        "rating": "10",
+        "hon_price_min": "339",
+        "hon_price_max": "380",
+        "功率:": "500W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 7 Hand blender 手提攪拌機 MQ7035X",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "1,010",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Robot Coupe Robot Cook 商用食物處理器",
+        "rating": "",
+        "hon_price_min": "25,500",
+        "hon_price_max": "26,500"
+    },
+    {
+        "names": "Hamilton Beach Immersion Blender HMI200 Series 手提攪拌棒",
+        "rating": "",
+        "hon_price_min": "2,500",
+        "hon_price_max": "2,500",
+        "功率:": "175W"
+    },
+    {
+        "names": "Sunkist 2A 新奇士8小號榨汁頭 Sunkist Juicer Bulbs with metal insert",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420"
+    },
+    {
+        "names": "Hamilton Beach Expenitor 500S Culinary Blender 攪拌機 HBF500S",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,280",
+        "容量:": "1.9公升",
+        "功率:": "600W"
+    },
+    {
+        "names": "Breville the Kinetix Twist 攪拌機 BBL405",
+        "rating": "",
+        "hon_price_min": "868",
+        "hon_price_max": "1,020",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Hurom HN Series 慢磨果汁機",
+        "rating": "",
+        "hon_price_min": "2,888",
+        "hon_price_max": "2,888",
+        "容量:": "500公升",
+        "功率:": "150W"
+    },
+    {
+        "names": "AGERU USB Electric Mini Garlic Chopper 電動迷你攪碎器 (250ml)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "容量:": "0.25公升",
+        "功率:": "23W"
+    },
+    {
+        "names": "Santos Lever Juicer \"Evolution\" 榨橙汁機 70",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "5,950",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 慢磨榨汁機 HR1897/30",
+        "rating": "10",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,180",
+        "功率:": "200W"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection Innergizer 強力全效攪拌機 HR3868/01",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,910",
+        "功率:": "2000W"
+    },
+    {
+        "names": "Santos Juice Extractor \"Miracle Edition\" 高效能榨汁機 68",
+        "rating": "",
+        "hon_price_min": "16,800",
+        "hon_price_max": "16,800",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Delicate 250ml無線便攜式食物料理攪拌機 SN001",
+        "rating": "",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "容量:": "0.25公升"
+    },
+    {
+        "names": "Braun 百靈 TributeCollection 迷你榨汁機 CJ 3000",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "238",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Babymoov Nutribaby+ 蒸煮食物攪拌調理機",
+        "rating": "",
+        "hon_price_min": "1,249",
+        "hon_price_max": "1,575",
+        "容量:": "2.2公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Primada 多功能慢磨原汁寶 PSJ150",
+        "rating": "10"
+    },
+    {
+        "names": "Waring 3 Cup Heavy Duty Wet/Dry Power Grinder 香料粉碎機 WSG60K",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,600",
+        "容量:": "0.7公升",
+        "功率:": "175W"
+    },
+    {
+        "names": "Hamilton Beach 商用攪拌機 1G912",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,850",
+        "容量:": "2公升",
+        "隔渣:": "無"
+    },
+    {
+        "names": "Babymoov Nutribaby(+) XL 蒸煮食物攪拌調理機",
+        "rating": "",
+        "hon_price_min": "1,521",
+        "hon_price_max": "1,522",
+        "功率:": "500W"
+    },
+    {
+        "names": "SilverCrest 攪拌機 / 沙冰機 SSM 600",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "容量:": "1.75公升"
+    },
+    {
+        "names": "Panasonic 樂聲 便攜式攪拌機 MX-XP101",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "494",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "容量:": "0.4公升",
+        "功率:": "370W"
+    },
+    {
+        "names": "Midea 美的 多功能玻璃機身絞肉機 MJ-LZ25Easy106",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "容量:": "1.7公升",
+        "功率:": "250W"
+    },
+    {
+        "names": "Waring 高效能攪拌機 MX1000XTXEE",
+        "rating": "",
+        "hon_price_min": "5,730",
+        "hon_price_max": "5,730",
+        "容量:": "2公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Kenwood Blend-X Compact 攪拌機 BLP302",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "330",
+        "容量:": "1200公升",
+        "功率:": "450W"
+    },
+    {
+        "names": "recolte Capsule Cutter Bonne 7合1多功能攪拌杯 RCP-3",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "Hurom HAA Series 慢磨果汁機",
+        "rating": "9.0",
+        "hon_price_min": "2,669",
+        "hon_price_max": "3,580",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Waring 高效能攪拌機 (附電子制及時間制) MX1100XTXEE",
+        "rating": "",
+        "hon_price_min": "5,730",
+        "hon_price_max": "5,730",
+        "容量:": "2公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 冷熱烹調攪拌機 HR2099/90",
+        "rating": "2.0",
+        "hon_price_min": "1,640",
+        "hon_price_max": "1,990",
+        "容量:": "2公升",
+        "功率:": "1100W"
+    },
+    {
+        "names": "Braun 百靈 Chopper Accessory (350ml) MQ 20",
+        "rating": "",
+        "water_price_min": "225",
+        "water_price_max": "225"
+    },
+    {
+        "names": "Tefal 特福 慢磨榨汁機 ZC255B",
+        "rating": "",
+        "hon_price_min": "1,244",
+        "hon_price_max": "1,680",
+        "容量:": "0.8公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Zumex 雪蜜 Minex 台式全自動榨汁機",
+        "rating": "",
+        "hon_price_min": "35,000",
+        "hon_price_max": "35,000",
+        "容量:": "0.75公升",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Suwon 迷你水樽型攪拌機 SW-MB1",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Hyundai 現代 真空抗氧攪拌機 HY-VB512",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "898",
+        "容量:": "1公升",
+        "功率:": "500W"
+    },
+    {
+        "names": "SPAR 士邦 Mixer 攪拌機 TR401",
+        "rating": "",
+        "hon_price_min": "17,000",
+        "hon_price_max": "17,000",
+        "容量:": "40公升"
+    },
+    {
+        "names": "Hamilton Beach 商用攪拌機 1G91555",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "容量:": "0.95公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Kenwood Blend-X Pro 攪拌機 BLM800",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "2,850",
+        "容量:": "1.6公升",
+        "功率:": "1400W"
+    },
+    {
+        "names": "Robot Coupe Food Processor 食品蔬菜處理器 R752 V.V.",
+        "rating": "",
+        "hon_price_min": "32,875",
+        "hon_price_max": "33,075",
+        "容量:": "7.5公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "Proluxury 普樂氏 全天然自製沙冰機 PSB050001",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "528"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection OnionChef 切粒碎肉機 HR2505",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "448",
+        "功率:": "500W"
+    },
+    {
+        "names": "Robot Coupe Vegetable Preparation Machine 蔬果處理機 CL50",
+        "rating": "",
+        "hon_price_min": "12,250",
+        "hon_price_max": "14,780",
+        "功率:": "550W"
+    },
+    {
+        "names": "Midea 美的 迷你榨汁機 MJ-JE2802",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "335",
+        "容量:": "500公升"
+    },
+    {
+        "names": "Hurom Premium Series 冷壓慢磨原汁機 H200",
+        "rating": "10",
+        "hon_price_min": "4,899",
+        "hon_price_max": "4,899",
+        "容量:": "0.4公升",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Tefal 特福 Mini Multi 攪拌機 BL126",
+        "rating": "",
+        "hon_price_min": "376",
+        "hon_price_max": "376",
+        "容量:": "0.8公升",
+        "隔渣:": "無",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Kenwood 手提式攪拌器 HB665",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "容量:": "手提公升",
+        "隔渣:": "無",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Miyamoto 多功能無線攪拌器 EB01",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "180",
+        "功率:": "20W"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『賽鋼』電子式攪拌機 IBL-1200E",
+        "rating": "",
+        "hon_price_min": "539",
+        "hon_price_max": "539",
+        "容量:": "1.8公升",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Waring Blender 食物攪拌機 (不銹鋼杯/Stainless Steel Container) 8010G",
+        "rating": "",
+        "hon_price_min": "4,290",
+        "hon_price_max": "4,290",
+        "容量:": "1公升"
+    },
+    {
+        "names": "SPAR 士邦 HAseries Mixer 60公升攪拌機 SP-60HA",
+        "rating": "",
+        "hon_price_min": "33,000",
+        "hon_price_max": "33,000",
+        "容量:": "60公升",
+        "功率:": "2250W"
+    },
+    {
+        "names": "Goceo 便攜榨汁杯",
+        "rating": ""
+    },
+    {
+        "names": "Hamilton Beach 990 Aluminum Container Base 杯子金屬底座 31319900000",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "700"
+    },
+    {
+        "names": "UNION 聯合 (Leader Baker 力幫) Planetary Mixer 皮帶式直立攪拌機連安全網 LB-301B",
+        "rating": "",
+        "hon_price_min": "14,680",
+        "hon_price_max": "14,680",
+        "容量:": "30公升"
+    },
+    {
+        "names": "Russell Hobbs Explore Hand Blender 手持料理棒 RH-22240",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "功率:": "200W"
+    },
+    {
+        "names": "Robot Coupe Table-top Cutters 食物切碎器 R8",
+        "rating": "",
+        "hon_price_min": "27,000",
+        "hon_price_max": "27,000",
+        "功率:": "2200W"
+    },
+    {
+        "names": "S.M.E.G. 50's 攪拌機 BLF01",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "容量:": "1.5公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Santos Meat Mincer 絞肉機 12-12",
+        "rating": "",
+        "hon_price_min": "8,580",
+        "hon_price_max": "8,580",
+        "功率:": "600W"
+    },
+    {
+        "names": "LON10 集寶 便攜USB電動研磨機 PAV",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439"
+    },
+    {
+        "names": "Robot Coupe CMP 350 V.V. 手提攪拌棒",
+        "rating": "",
+        "hon_price_min": "3,875",
+        "hon_price_max": "4,275",
+        "功率:": "400W"
+    },
+    {
+        "names": "Kenwood kCook Cooking Food Processor CCC200WH",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,505",
+        "功率:": "150W"
+    },
+    {
+        "names": "Robot Coupe Food Processor 食品蔬菜處理器 R402VV",
+        "rating": "",
+        "hon_price_min": "21,400",
+        "hon_price_max": "21,460",
+        "容量:": "4.5公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Babymoov Nutribaby 蒸煮食物攪拌調理機",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,071",
+        "容量:": "0.6公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 便携樽 HR2989/00",
+        "rating": "",
+        "hon_price_min": "137",
+        "hon_price_max": "138",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "German Pool 德國寶 冰沙製作器 (JUS-102專用) JUA-SS",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "190"
+    },
+    {
+        "names": "Breville the All In One 多功能手提攪拌器 BSB530",
+        "rating": "",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,140",
+        "容量:": "1.6公升",
+        "功率:": "300W"
+    },
+    {
+        "names": "Braun 百靈 Tribute Collection Jug Blender 攪拌機 JB3010",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "552",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "功率:": "800W"
+    },
+    {
+        "names": "Omega Mega Mouth Juicer 大口徑蔬果榨汁機 BMJ-332",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,499",
+        "功率:": "350W"
+    },
+    {
+        "names": "Russell Hobbs Horizon Mix & Go Boost 小型攪拌器 RH-25161",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "容量:": "0.6公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Tefal 特福 Blendforce Glass 攪拌機 BL3171",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "501",
+        "功率:": "550W"
+    },
+    {
+        "names": "Robot Coupe Table Top Cutter Mixer 食物加工機 R3-1500",
+        "rating": "",
+        "hon_price_min": "10,740",
+        "hon_price_max": "10,740",
+        "容量:": "3.7公升",
+        "功率:": "650W"
+    },
+    {
+        "names": "Hamilton Beach Rio Bar Blender 商用攪拌機 HBB250S",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "容量:": "0.95公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Hallde Blender 食物攪拌機 SB-4",
+        "rating": "",
+        "hon_price_min": "9,580",
+        "hon_price_max": "9,580",
+        "容量:": "4公升",
+        "功率:": "1350W"
+    },
+    {
+        "names": "Dynamic 16\" Mixer Tool Attachment 攪拌桿 M90",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,560"
+    },
+    {
+        "names": "UNION 聯合牌 Max-Mixer Pro MP3 攪拌機",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,900",
+        "容量:": "2公升",
+        "隔渣:": "NO"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 攪拌機 HR2056",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "320",
+        "功率:": "450W"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 手提攪拌機 HR1617",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "手提公升",
+        "隔渣:": "無",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Robot Coupe Table Top Cutter Mixer 食物加工機 R4-1500",
+        "rating": "",
+        "hon_price_min": "12,500",
+        "hon_price_max": "12,500",
+        "容量:": "4.5公升",
+        "功率:": "700W"
+    },
+    {
+        "names": "Sokany 小型攪拌碎肉機 YSJ-006",
+        "rating": "",
+        "water_price_min": "125",
+        "water_price_max": "125",
+        "功率:": "300W"
+    },
+    {
+        "names": "Hamilton Beach Single-Spindle Drink Mixer 單頭攪拌機 HMD200",
+        "rating": "",
+        "hon_price_min": "3,320",
+        "hon_price_max": "3,320"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 3 手提式攪拌機 MQ 300 Soup",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "功率:": "550W"
+    },
+    {
+        "names": "Omega 3HP Blender, High / Low Speed 3匹馬力高低速攪拌機 OM6162",
+        "rating": "",
+        "hon_price_min": "3,750",
+        "hon_price_max": "3,750",
+        "容量:": "1.9公升"
+    },
+    {
+        "names": "JNC 時尚家廚系列手持式攪拌棒 TIFHB-TU",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "390",
+        "容量:": "0公升",
+        "隔渣:": "否",
+        "防滴漏:": "否"
+    },
+    {
+        "names": "Kuvings Whole Slow Juicer Chef 商業慢磨榨汁機 CS600",
+        "rating": "10",
+        "hon_price_min": "15,800",
+        "hon_price_max": "17,800",
+        "容量:": "0.4公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "WAIT 便攜隔渣電動榨汁杯",
+        "rating": "",
+        "water_price_min": "268",
+        "water_price_max": "268"
+    },
+    {
+        "names": "Kenwood EasyChop Mini Chopper Quadblade 碎肉機 CHP61.000WH",
+        "rating": "7.3",
+        "hon_price_min": "372",
+        "hon_price_max": "399",
+        "容量:": "0.5公升",
+        "功率:": "500W"
+    },
+    {
+        "names": "Robot Coupe Food Processor 食品蔬菜處理器 R752",
+        "rating": "",
+        "hon_price_min": "28,500",
+        "hon_price_max": "28,500",
+        "容量:": "7.5公升",
+        "功率:": "1800W"
+    },
+    {
+        "names": "Robot Coupe Vegetable Preparation Machine 蔬果處理機 (Single Phase/單相) CL55",
+        "rating": "",
+        "hon_price_min": "43,100",
+        "hon_price_max": "43,300",
+        "功率:": "750W"
+    },
+    {
+        "names": "Breville the 3X Bluicer 蔬果榨汁真空攪拌機 BJB615SHY",
+        "rating": "",
+        "hon_price_min": "2,530",
+        "hon_price_max": "2,880",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 7 手提攪拌機 MQ 725",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "998",
+        "容量:": "0.6公升",
+        "功率:": "750W"
+    },
+    {
+        "names": "Santos 高效能榨汁機 28",
+        "rating": "",
+        "hon_price_min": "16,800",
+        "hon_price_max": "16,800",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Robot Coupe Vegetable Preparation Machine 經濟性台式切蔬果機 CL20",
+        "rating": "",
+        "hon_price_min": "9,800",
+        "hon_price_max": "9,800"
+    },
+    {
+        "names": "Breville the Coffee & Spice 輕巧研磨機 BCG200",
+        "rating": "",
+        "hon_price_min": "455",
+        "hon_price_max": "530",
+        "功率:": "200W"
+    },
+    {
+        "names": "Bosch CleverMixx Dip & Dressing 手提攪拌棒 MSM-2623GGB",
+        "rating": "",
+        "hon_price_min": "465",
+        "hon_price_max": "560",
+        "功率:": "600W"
+    },
+    {
+        "names": "Quamar Citrus Squeezer 壓蓋式榨汁機 T94",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,800",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Russell Hobbs Illumina 三合一手提攪拌機 RH-20220",
+        "rating": "",
+        "hon_price_min": "838",
+        "hon_price_max": "838",
+        "功率:": "700W"
+    },
+    {
+        "names": "Famous 法國名家 電動榨汁機 FJ-250",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "200",
+        "功率:": "250W"
+    },
+    {
+        "names": "Quamar 4 in 1 Blender, Mixer, Citrus Squeezer and Ice Crusher T71",
+        "rating": "",
+        "hon_price_min": "13,000",
+        "hon_price_max": "13,000",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Kenwood 榨橙汁機 JE297",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Robot Coupe CMP 300 Combi 手提攪拌棒",
+        "rating": "",
+        "hon_price_min": "5,370",
+        "hon_price_max": "5,670",
+        "功率:": "350W"
+    },
+    {
+        "names": "Philips 飛利浦 迷你攪拌機 HR2860",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "water_price_min": "348",
+        "water_price_max": "348",
+        "容量:": "0.4公升",
+        "防滴漏:": "否"
+    },
+    {
+        "names": "Hamilton Beach 1 Gallon Stainless Steel Container Kit for 990-220 Commercial Blenders 990攪拌杯 6126-990",
+        "rating": "",
+        "hon_price_min": "8,200",
+        "hon_price_max": "8,200",
+        "容量:": "4.55公升"
+    },
+    {
+        "names": "All Joint Dimo 便攜式水果小型電動榨汁杯",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "SPAR 士邦 HA Series Heavy Duty Mixer 落地式高效能攪拌機 SP100A",
+        "rating": "",
+        "hon_price_min": "16,300",
+        "hon_price_max": "16,300",
+        "容量:": "10公升"
+    },
+    {
+        "names": "Waring Torq 2.0 Blender 多功能攪拌機 TBB175K",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "容量:": "1.4公升"
+    },
+    {
+        "names": "Bourgini Classic Soup Maker 濃湯機/湯羹攪拌機",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "容量:": "2公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Santos Automatic Orange Juicer 全自動榨汁機 (上半機身) 32Bac",
+        "rating": "",
+        "hon_price_min": "53,300",
+        "hon_price_max": "53,300",
+        "功率:": "600W"
+    },
+    {
+        "names": "KOLIN 無線攪拌機",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "容量:": "0.6公升",
+        "功率:": "200W"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 榨汁機 HR1871",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,480",
+        "容量:": "1.5公升",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 玻璃容器攪拌機 MX-GX1561",
+        "rating": "2.0",
+        "hon_price_min": "388",
+        "hon_price_max": "480",
+        "容量:": "1.5公升",
+        "隔渣:": "無",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Omega 3HP Blender, Variable 10-Speed 3匹馬力專業攪拌機 OM6562",
+        "rating": "",
+        "hon_price_min": "4,135",
+        "hon_price_max": "4,199",
+        "容量:": "1.9公升"
+    },
+    {
+        "names": "Braun 百靈 MultiQuick 3 手持式攪拌機 MQ 3035 Sauce",
+        "rating": "",
+        "water_price_min": "660",
+        "water_price_max": "660",
+        "容量:": "1.66公升",
+        "功率:": "700W"
+    },
+    {
+        "names": "KitchenAid 7杯食物處理器 5KFP0719BER",
+        "rating": "10",
+        "hon_price_min": "1,148",
+        "hon_price_max": "1,179",
+        "容量:": "1.7公升",
+        "功率:": "250W"
+    },
+    {
+        "names": "Panasonic 樂聲 搾汁機 MJ-DJ01S",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "998",
+        "容量:": "2公升",
+        "隔渣:": "有",
+        "防滴漏:": "無"
+    },
+    {
+        "names": "Fama Stick Blender 手提攪拌棒 FM650VV600",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "6,900",
+        "容量:": "330公升",
+        "功率:": "650W"
+    },
+    {
+        "names": "IB Mini Viatmer Lemon Cup 便攜電動榨汁杯 (攪拌機杯)",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "容量:": "0.38公升"
+    }
+]

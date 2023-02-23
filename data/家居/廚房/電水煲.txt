@@ -1,0 +1,3261 @@
+[
+    {
+        "names": "Philips 飛利浦 Series 5000 玻璃電熱水煲 (1.7公升) HD9339/81",
+        "rating": "9.0",
+        "hon_price_min": "338",
+        "hon_price_max": "460",
+        "容量:": "1.7公升",
+        "水位指示:": "電熱水煲兩側均設有水位顯示，可以清晰看到水位。"
+    },
+    {
+        "names": "JNC 智能便攜電水壺 380ml (Hello Kitty)",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "0.38公升",
+        "調節溫度:": "有, 40-100℃自由掌控"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水壺 (1.7公升) NC-K301",
+        "rating": "10",
+        "hon_price_min": "342",
+        "hon_price_max": "400",
+        "容量:": "1.7公升",
+        "水位指示:": "水位顯示窗"
+    },
+    {
+        "names": "Rasonic 樂信 無線温控電熱水壺 RK-YKK15",
+        "rating": "2.0",
+        "hon_price_min": "370",
+        "hon_price_max": "510",
+        "容量:": "1.5公升",
+        "調節溫度:": "5段恆温選擇 (40°C / 60°C / 85°C / 90°C / 100°C)"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 電熱水煲 (1.5公升) HD9342",
+        "rating": "8.4",
+        "hon_price_min": "385",
+        "hon_price_max": "499",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Hyundai 現代 溫控電熱水壺 (1.7公升) D3815E",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "容量:": "1.7公升",
+        "調節溫度:": "40/55/80/90°C共4種恆溫"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1.7公升) HD9350",
+        "rating": "9.5",
+        "hon_price_min": "232",
+        "hon_price_max": "340",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水壺 (1.5公升) NC-KD300",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "450",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1.7公升) HD9350/95",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "370",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水6段保溫電熱水瓶 (5.0公升) RTP-W50WC",
+        "rating": "8.0",
+        "hon_price_min": "588",
+        "hon_price_max": "670",
+        "容量:": "5公升",
+        "調節溫度:": "約45℃/55℃/65℃/75℃/85℃/95℃"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵出水電熱水瓶 (3公升) NC-EG3000",
+        "rating": "9.6",
+        "hon_price_min": "530",
+        "hon_price_max": "738",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Zojirushi 象印 220V微電腦電熱水瓶 (4公升) CD-QAQ40-TA",
+        "rating": "10",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,660",
+        "容量:": "4公升",
+        "水位指示:": "超廣角水位指示"
+    },
+    {
+        "names": "German Pool 德國寶 摺疊式旅行電熱水壺 (0.6公升) KTT-109",
+        "rating": "9.6",
+        "hon_price_min": "370",
+        "hon_price_max": "499",
+        "容量:": "0.6公升",
+        "調節溫度:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家電水壺 (1.5公升)",
+        "rating": "9.2",
+        "hon_price_min": "175",
+        "hon_price_max": "220",
+        "water_price_min": "138",
+        "water_price_max": "178",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵出水電熱水瓶 (4公升) NC-EG4000",
+        "rating": "9.0",
+        "hon_price_min": "550",
+        "hon_price_max": "730",
+        "容量:": "4.0公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家電水壺 (1.5公升)",
+        "rating": "9.2",
+        "hon_price_min": "175",
+        "hon_price_max": "220",
+        "water_price_min": "138",
+        "water_price_max": "178",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵出水電熱水瓶 (4公升) NC-EG4000",
+        "rating": "9.0",
+        "hon_price_min": "550",
+        "hon_price_max": "730",
+        "容量:": "4.0公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 電水壺 2 (1.7公升)",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "199",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵或無線電動出水電熱水瓶 (4公升) NC-HU401P",
+        "rating": "8.2",
+        "hon_price_min": "985",
+        "hon_price_max": "1,240",
+        "容量:": "4公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1公升) HD9348/58",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "426",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "容量:": "1公升"
+    },
+    {
+        "names": "De'Longhi Icona Vintage 意式復古早餐系列電熱水壺 (1公升) KBOV 2000",
+        "rating": "10",
+        "hon_price_min": "600",
+        "hon_price_max": "670",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵出水電熱水瓶 (3公升) NC-BG3000",
+        "rating": "9.5",
+        "hon_price_min": "615",
+        "hon_price_max": "780",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (4公升) RTP-W40SB",
+        "rating": "6.0",
+        "hon_price_min": "390",
+        "hon_price_max": "540",
+        "容量:": "4公升",
+        "調節溫度:": "自動保溫功能"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『純湯』微電腦電熱水瓶 (5公升) IAP-50MD",
+        "rating": "",
+        "hon_price_min": "321",
+        "hon_price_max": "345",
+        "容量:": "5公升",
+        "調節溫度:": "恆溫75-95℃保溫功能"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵出水電熱水瓶 (4公升) NC-BG4000",
+        "rating": "9.4",
+        "hon_price_min": "685",
+        "hon_price_max": "840",
+        "容量:": "4公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "UNIWARE 折疊電熱水壺",
+        "rating": "2.0",
+        "hon_price_min": "228",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵或無線電動出水電熱水瓶 (4公升) NC-SU403P",
+        "rating": "8.9",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,380",
+        "容量:": "4公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Daewoo 大宇 摺疊式旅行電熱水壺 DY-K3",
+        "rating": "8.0",
+        "hon_price_min": "368",
+        "hon_price_max": "398",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Zojirushi 象印 220V微電腦電熱水瓶 (4.0公升) CD-WBQ40",
+        "rating": "10",
+        "hon_price_min": "730",
+        "hon_price_max": "790",
+        "容量:": "4公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家恆溫電水壺Pro (1.5公升)",
+        "rating": "9.7",
+        "hon_price_min": "260",
+        "hon_price_max": "299",
+        "water_price_min": "238",
+        "water_price_max": "299",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Rasonic 樂信 電動、碰杯或氣壓出水電熱水瓶 (3.3公升) RTP-B33TC",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "530",
+        "容量:": "3.3公升"
+    },
+    {
+        "names": "JNC 恆溫智能電水煲 (1.7公升) JNC-TIFSKT-TU",
+        "rating": "10",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "1.7公升",
+        "調節溫度:": "智能５段調溫及保溫"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 電熱水煲 (1.7公升) HD9357",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "500",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Toshiba 東芝 無線電熱水壺 (1.7公升) KT-17SH1NH",
+        "rating": "8.0",
+        "hon_price_min": "260",
+        "hon_price_max": "379",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水壺 (1.7公升) NC-K101",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "300",
+        "容量:": "1.7公升",
+        "水位指示:": "水位顯示窗"
+    },
+    {
+        "names": "Zojirushi 象印 220V微電腦電熱水瓶 (5公升) CD-NAQ50",
+        "rating": "10",
+        "hon_price_min": "1,740",
+        "hon_price_max": "1,870",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Midea 美的 家用大容量電熱水瓶 (5公升) MK-SP50E502",
+        "rating": "5.0",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『銀泉。透』玻璃透明無線電熱水壺 (1.7公升) IKT-17GC03",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "240",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 電動、碰杯或氣壓出水電熱水瓶 (4.3公升) RTP-W43S",
+        "rating": "10",
+        "hon_price_min": "440",
+        "hon_price_max": "578",
+        "容量:": "4.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Toshiba 東芝 無線雙層電熱水壺 (1.7公升) KT-17DRNH",
+        "rating": "8.5",
+        "hon_price_min": "240",
+        "hon_price_max": "498",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 電熱水煲 (1.7公升) HD9355/92",
+        "rating": "9.5",
+        "hon_price_min": "320",
+        "hon_price_max": "458",
+        "容量:": "1.7公升",
+        "水位指示:": "YES"
+    },
+    {
+        "names": "Zojirushi 象印 220V微電腦電熱水瓶 (4公升) CD-NAQ40",
+        "rating": "10",
+        "hon_price_min": "1,630",
+        "hon_price_max": "1,770",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Tefal 特福 Digital 電熱水壺 (1.7公升) KO8508",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "580",
+        "容量:": "1.7公升",
+        "調節溫度:": "有"
+    },
+    {
+        "names": "Tiger 虎牌 電動出水電熱水瓶 (4公升) PDU-A40S",
+        "rating": "8.3",
+        "hon_price_min": "990",
+        "hon_price_max": "1,239",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Toshiba 東芝 無線電熱水壺 (1.7公升) KT-17SHNH",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "410",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (3公升) RTP-W30CC",
+        "rating": "5.0",
+        "hon_price_min": "400",
+        "hon_price_max": "550",
+        "容量:": "3公升",
+        "調節溫度:": "60℃/70℃/80℃/90℃/95℃"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水壺 (0.8公升) NC-HKT081",
+        "rating": "10",
+        "hon_price_min": "300",
+        "hon_price_max": "550",
+        "容量:": "0.8公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Zojirushi 象印 VE真空保温節能電熱水瓶 (4公升) CV-TYQ40",
+        "rating": "10",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,498",
+        "容量:": "4公升",
+        "調節溫度:": "5段保温設定 (98℃・90℃・80℃・70℃ 及 真空保温)"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵或無線電動出水電熱水瓶 (3公升) NC-HU301",
+        "rating": "8.0",
+        "hon_price_min": "915",
+        "hon_price_max": "1,120",
+        "water_price_min": "859",
+        "water_price_max": "859",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Tefal 特福 1.7L 電熱水壺 KO2601",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "388",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Panasonic 樂聲 氣壓或電泵出水電熱水瓶 (3公升) NC-DG3000",
+        "rating": "9.5",
+        "hon_price_min": "668",
+        "hon_price_max": "800",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "BRUNO Compact Kettle 迷你電熱茶壺 (0.5公升) BOE111",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "0.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "BRUNO 便攜電熱水杯",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "容量:": "0.35公升",
+        "調節溫度:": "45-95°C"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水壺 (1.2公升) NC-HKD121",
+        "rating": "4.0",
+        "hon_price_min": "250",
+        "hon_price_max": "446",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Zojirushi 象印 VE真空保溫節能電熱水瓶 (4公升) CV-DSQ40-XA",
+        "rating": "9.4",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,450",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Zojirushi 象印 220V微電腦電熱水瓶 (3公升) CD-WBQ30",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "798",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Tiger 虎牌 電動出水電熱水瓶 (5公升) PDU-A50S",
+        "rating": "4.7",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,299",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (3公升) RTP-B30/GF",
+        "rating": "7.6",
+        "hon_price_min": "320",
+        "hon_price_max": "467",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 塑料電熱水煲 HD9318/01",
+        "rating": "8.0",
+        "hon_price_min": "245",
+        "hon_price_max": "344",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電泵出水電熱水瓶 (2.2公升) NC-EG2200",
+        "rating": "9.3",
+        "hon_price_min": "505",
+        "hon_price_max": "620",
+        "容量:": "2.2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "De'Longhi Icona Elements 系列電水壺 (1.7公升) KBOE2001",
+        "rating": "",
+        "hon_price_min": "608",
+        "hon_price_max": "838",
+        "容量:": "1.7公升",
+        "水位指示:": "水位顯示窗"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『純湯．優』微電腦電熱水瓶 (4公升) IAP-40Z",
+        "rating": "8.0",
+        "hon_price_min": "349",
+        "hon_price_max": "399",
+        "容量:": "4.0公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Hopewell Mini Brushed Steel Kettle 迷你無線電熱水壺 (1公升) KES-210",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Toshiba 東芝 電熱水瓶 (4.5公升) PLK-45SFIH",
+        "rating": "9.6",
+        "hon_price_min": "510",
+        "hon_price_max": "700",
+        "容量:": "4.5公升",
+        "水位指示:": "特大水位顯示器"
+    },
+    {
+        "names": "Toshiba 東芝 電熱水瓶 (3公升) PLK-30FLIH",
+        "rating": "8.0",
+        "hon_price_min": "420",
+        "hon_price_max": "610",
+        "容量:": "3公升",
+        "水位指示:": "特大水位顯示器"
+    },
+    {
+        "names": "Rasonic 樂信 無線電熱水壺 (1.7公升) RK-YK17",
+        "rating": "5.0",
+        "hon_price_min": "325",
+        "hon_price_max": "340",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 「純湯」5公升環保自冷電熱水瓶 IAP-50X",
+        "rating": "",
+        "hon_price_min": "474",
+        "hon_price_max": "510",
+        "容量:": "5公升",
+        "調節溫度:": "5段(45/65/75/85/95°C)"
+    },
+    {
+        "names": "Hopewell Retro Classic Kettle 復古無線電熱水壺 (1.8公升) KEC-2218",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "638",
+        "容量:": "1.8公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (3公升) RTP-W30SB",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "480",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『元氣．金』微電腦電熱水瓶 (5公升) IAP-50G",
+        "rating": "4.0",
+        "hon_price_min": "348",
+        "hon_price_max": "469",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Nutzen 快速電熱水壺 (1.7公升) NG-170",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "385",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Zojirushi 象印 VE真空保溫節能電熱水瓶 (5公升) CV-JAQ50",
+        "rating": "",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,199",
+        "容量:": "5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Zojirushi 象印 VE真空保溫節能電熱水瓶 (4公升) CV-JAQ40",
+        "rating": "",
+        "hon_price_min": "2,070",
+        "hon_price_max": "2,099",
+        "容量:": "4公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (2.5公升) RTP-W25SB",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "450",
+        "容量:": "2.5公升"
+    },
+    {
+        "names": "Deerma 德爾瑪 旅行電熱水杯 (0.3公升) DEM-DR035",
+        "rating": "8.0",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "water_price_min": "160",
+        "water_price_max": "237",
+        "容量:": "0.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Gemini 雙子星 2合1恆溫保溫杯連無線充電器 GWC55",
+        "rating": "",
+        "hon_price_min": "376",
+        "hon_price_max": "376"
+    },
+    {
+        "names": "Summe 德國卓爾 智能溫控電水壺 (1.5公升) KE-S151",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "容量:": "1.5公升",
+        "調節溫度:": "40º,60º,85º,90º,100º"
+    },
+    {
+        "names": "Morphy Richards 便攜燒水壺 (300ml) MR6060",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "298",
+        "water_price_min": "238",
+        "water_price_max": "298",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 電子保溫無線電熱水壺 (1.5公升) IKT-15PG",
+        "rating": "",
+        "hon_price_min": "265",
+        "hon_price_max": "298",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Nathome 雙層保溫電熱水壺 (0.5公升) NSH3830",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "318",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Tefal 特福 Infusa 養生茶壼 (1.5公升) BJ800D",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "670",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『透泉』玻璃無線電熱水壺 (1.7公升) IKT-17GS01",
+        "rating": "5.3",
+        "hon_price_min": "279",
+        "hon_price_max": "369",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "AAVTA 電熱水壺 (1.7公升) AK170",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "380",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Hopewell Double Layer Cool Touch Kettle 雙層防燙電熱水壺 (1.7公升) KED-617",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "308",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Tefal 特福 Safe to Touch 電熱水壺 (1.5公升) KO371I",
+        "rating": "6.0",
+        "hon_price_min": "365",
+        "hon_price_max": "530",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水壺 (1.7公升) NC-GK1",
+        "rating": "10",
+        "hon_price_min": "248",
+        "hon_price_max": "332",
+        "容量:": "1.7公升",
+        "水位指示:": "雙面顯示窗"
+    },
+    {
+        "names": "Panasonic 樂聲 氣壓出水電熱水瓶 (2.2公升) NC-PH22",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "501",
+        "容量:": "2.2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Kenwood Persona 無線玻璃水壺 (1.7公升) ZJG801CL",
+        "rating": "10",
+        "hon_price_min": "471",
+        "hon_price_max": "595",
+        "容量:": "1.71公升"
+    },
+    {
+        "names": "Homey 家美牌 微電腦電熱水瓶 (5.5公升) NEW-55",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "498",
+        "容量:": "5.5公升"
+    },
+    {
+        "names": "Hopewell Retro Classic Kettle 復古無線電熱水壺 (1.7公升) KEC-2117",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "648",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Toshiba 東芝 無線保溫電熱水壺 (1.7公升) KT-17SSPH",
+        "rating": "10",
+        "hon_price_min": "314",
+        "hon_price_max": "519",
+        "容量:": "1.7公升",
+        "調節溫度:": "多項煮水溫度選擇 (50°C / 55°C / 60°C / 65°C / 70°C / 75°C / 80°C / 85°C / 90°C / 95°C / 100 °C)"
+    },
+    {
+        "names": "Daewoo 大宇 便攜式電熱水壺 450ml D2",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "398",
+        "water_price_min": "348",
+        "water_price_max": "368",
+        "容量:": "0.45公升"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 電熱水壺 (1.5公升) SKT15",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "298",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Rasonic 樂信 電動、碰杯或氣壓出水電熱水瓶 (4.3公升) RTP-B43TC",
+        "rating": "7.0",
+        "hon_price_min": "460",
+        "hon_price_max": "580",
+        "容量:": "4.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 便攜燉湯壺 (0.7公升) KTM-104",
+        "rating": "",
+        "hon_price_min": "545",
+        "hon_price_max": "618",
+        "容量:": "0.7公升"
+    },
+    {
+        "names": "Mokkom 真空保溫旅行便攜電熱水壺 MK6081",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "water_price_min": "268",
+        "water_price_max": "268"
+    },
+    {
+        "names": "AIWA 愛華 電熱水煲 (1.8公升) AW-1801K",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Homey 家美牌 快速保溫電熱水瓶 (1.7公升) SA-28G",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Finch 摺疊式熱水壺 (0.5公升)",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "199",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1.7公升) HD9352",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "467",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Gizmo 旅遊專用電熱水壺/煮食壺 (0.6公升) GFK-28",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "398",
+        "容量:": "0.6公升",
+        "調節溫度:": "30˚C-90˚C之間保溫"
+    },
+    {
+        "names": "Konka 電熱水壺 (1.7公升) KEK- KD17",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Panasonic 樂聲 氣壓出水電熱水瓶 (3公升) NC-PH30",
+        "rating": "2.0",
+        "hon_price_min": "440",
+        "hon_price_max": "550",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 不銹鋼旅行電熱水壺 (0.5公升) KTT-209",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "容量:": "0.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Ariete Vintage Kettle 復古系列電熱水壺 (1.7公升) 2877",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "460",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Breville the Tea Maker Compact 迷你智能泡茶機 (1公升) BTM700SHY",
+        "rating": "2.0",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,599",
+        "容量:": "1.0公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Breville the Soft Top Pure 電熱水壺 (1.7公升) BKE700",
+        "rating": "10",
+        "hon_price_min": "600",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "Breville the Tea Maker 智能泡茶機 (1.5公升) BTM800",
+        "rating": "8.0",
+        "hon_price_min": "1,799",
+        "hon_price_max": "2,180",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Gemini 雙子星 時尚多功能溫控無缐電熱水壺 (0.5公升) GSK800",
+        "rating": "",
+        "hon_price_min": "454",
+        "hon_price_max": "454",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Tiger 虎牌 電動出水電熱水瓶 (3公升) PDU-A30S",
+        "rating": "10",
+        "hon_price_min": "930",
+        "hon_price_max": "1,139",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水壺 (1.6公升) NC-SK1",
+        "rating": "9.0",
+        "hon_price_min": "320",
+        "hon_price_max": "404",
+        "容量:": "1.6公升",
+        "水位指示:": "雙面顯示窗"
+    },
+    {
+        "names": "Life Element 生活元素養生水壺 (0.6公升)",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Midea 美的 微電子全自動電熱水瓶 (5.0公升) MA5021D",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "495",
+        "容量:": "5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Hopewell Dual Voltage Travel Kettle 雙電壓旅行電熱水壺 (0.5公升) KET-305V",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "268",
+        "容量:": "0.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Hyundai 現代 液晶屏電熱水壺 (3.5公升) HY-AP35",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "588",
+        "容量:": "3.5公升",
+        "水位指示:": "大視窗水尺"
+    },
+    {
+        "names": "Famous 法國名家 電熱水瓶 (4.3公升) FP-432B",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "329",
+        "容量:": "4.3公升"
+    },
+    {
+        "names": "Xiaomi 小米 米家恆溫電水壺 (1.5公升) YM-K1501",
+        "rating": "7.6",
+        "hon_price_min": "240",
+        "hon_price_max": "299",
+        "water_price_min": "188",
+        "water_price_max": "299",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Breville the Smart Kettle 溫度調控電熱水壺 (1.7公升) BKE825BSS",
+        "rating": "",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,320",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Zojirushi 象印 220V微電腦電熱水瓶 (3公升) CD-JUQ30-CT",
+        "rating": "8.0",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,600",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (2.5公升) RTP-W25RT",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "480",
+        "容量:": "2.5公升",
+        "調節溫度:": "約45℃/55℃/65℃/85℃/95℃"
+    },
+    {
+        "names": "Russell Hobbs Honeycomb 電熱水煲 (1.7公升) RH-26050",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1.7公升) HD9351",
+        "rating": "10",
+        "hon_price_min": "310",
+        "hon_price_max": "426",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Peanuts x HomePlus Snoopy 電熱水壺 (1.7公升) KE919A-SN",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Midea 美的 不銹鋼電熱水壺 (1.7公升) MK-17S03A",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "280",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Denki 雙層防燙快速電熱水壺 (1.2公升) DKE-1211",
+        "rating": "8.0",
+        "hon_price_min": "138",
+        "hon_price_max": "140",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Tefal 特福 Theia Control 電熱水壼 (1.5公升) KI8205",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "519",
+        "容量:": "1.5公升",
+        "調節溫度:": "8種不同溫度設定(37°-60°-70°-80°-85°-90°-95°-100°)"
+    },
+    {
+        "names": "SilverCrest 極速電水壺 (1.7公升) SWC 3100",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Nathome 折疊旅行電熱水壺 (0.6公升) NSH0711",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "299",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (30公升) WM-30",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "7,380",
+        "容量:": "30公升"
+    },
+    {
+        "names": "Palace 皇宮 不銹鋼電熱圓水罉 (10公升) WF342",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "510",
+        "容量:": "10公升",
+        "調節溫度:": "多種溫度選擇 (45℃-110℃)"
+    },
+    {
+        "names": "Denki 電熱水煲 (1.8公升) DKE-1811W",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Homeplus 全不鏽鋼自動電水煲 (5公升) SM-5",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Breville the Temp Select 溫度調控電熱水壺 (1.7公升) BKE720BSS",
+        "rating": "",
+        "hon_price_min": "955",
+        "hon_price_max": "955",
+        "容量:": "1.7公升",
+        "水位指示:": "YES"
+    },
+    {
+        "names": "Famous 法國名家 玻璃無線電熱水壺 (1.7公升) FK-17G02(FAM)",
+        "rating": "",
+        "hon_price_min": "166",
+        "hon_price_max": "249",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 「黑川」不銹鋼無線電熱水壼 (0.8公升) IKT-08SB",
+        "rating": "",
+        "hon_price_min": "203",
+        "hon_price_max": "249",
+        "容量:": "0.8公升"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1公升) HD9348/12",
+        "rating": "10",
+        "hon_price_min": "270",
+        "hon_price_max": "385",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Hyundai 現代 真空無線控溫電熱水壺 (1.5公升) HY-KT15EK",
+        "rating": "",
+        "hon_price_min": "810",
+        "hon_price_max": "820",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (180公升) WM-180",
+        "rating": "",
+        "hon_price_min": "13,800",
+        "hon_price_max": "15,100",
+        "容量:": "180公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler - Bulk Volume 高速電開水器 (171公升/小時) WM-100-1",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "12,800",
+        "容量:": "171公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Midea 美的 真空保溫電熱水壺 (1.5公升) MKV1520J",
+        "rating": "10",
+        "hon_price_min": "440",
+        "hon_price_max": "550",
+        "water_price_min": "359",
+        "water_price_max": "359",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Kenwood kMix 無線電熱水壺 (1公升) SJM024B",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "容量:": "1公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Morphy Richards 半柄電水壺 MR7456A",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "538",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『元氣．金』微電腦電熱水瓶 (3.8公升) IAP-38G",
+        "rating": "7.0",
+        "hon_price_min": "314",
+        "hon_price_max": "399",
+        "容量:": "3.8公升"
+    },
+    {
+        "names": "Denki 不銹鋼快速電熱水壺 (1.8公升) DKE-1811",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "170",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Midea 美的 電熱水壺 (1.7公升) MK17D18B",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "230",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1.2公升) HD9303",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "358",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Denki 快速玻璃電熱水壺 (1.7公升) DKE-173G",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "220",
+        "容量:": "1.7公升",
+        "水位指示:": "Yes"
+    },
+    {
+        "names": "Xiaomi 小米 米家電水壺1S (1.7公升)",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (2.5公升) RTP-B25/PF",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "298",
+        "容量:": "2.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Summe 德國卓爾 電熱水壺 (5公升) AP-S502",
+        "rating": "10",
+        "hon_price_min": "410",
+        "hon_price_max": "498",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Kenwood kMix 無線電熱水壺 (1公升) SJM021B",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "容量:": "1公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Tefal 特福 不銹鋼電水壺 (1.7公升) KI800D",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "340",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『元氣．白』微電腦電熱水瓶 (3.5公升) IAP-35CE",
+        "rating": "7.0",
+        "hon_price_min": "314",
+        "hon_price_max": "448",
+        "容量:": "3.5公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (80公升) WM-80",
+        "rating": "",
+        "hon_price_min": "8,190",
+        "hon_price_max": "9,090",
+        "容量:": "80公升"
+    },
+    {
+        "names": "Bourgini Nostalgic Thermo Water Kettle 電熱水壺 (1.7公升)",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Deerma 德爾瑪 藍光玻璃電熱水壺 (1.7公升) SH30W",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "359",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Breville the Compact Kettle 電熱水壺 (1公升) BKE320",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "680",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Tefal 特福 Avanti Classic Copper Touch 不銹鋼電水壺 (1.7公升) KI290",
+        "rating": "10",
+        "hon_price_min": "618",
+        "hon_price_max": "668",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Midea 美的 電熱水壺 (1.5公升) MK-15H01A6",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "330",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Hyundai 現代 玻璃電熱水壺 (1.8公升) YC-8802",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "399",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水瓶 (2.2公升) NC-EH22P",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "450",
+        "容量:": "2.2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "De'Longhi Icona Metallics 系列電水壺 (1.7公升) KBOT3001",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "838",
+        "容量:": "1.7公升",
+        "水位指示:": "水位顯示窗"
+    },
+    {
+        "names": "Palace 皇宮 不銹鋼電熱圓水罉 (16公升) WF343",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "550",
+        "容量:": "16公升",
+        "調節溫度:": "多種溫度選擇 (45℃-110℃)"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『麗泉．透』玻璃養生壺 (1.5公升) IOK-15GS",
+        "rating": "10",
+        "hon_price_min": "329",
+        "hon_price_max": "419"
+    },
+    {
+        "names": "Breville the Soft Top Clear 電熱水壺 (1.7公升) BKE495",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "570",
+        "容量:": "1.7公升",
+        "水位指示:": "雙水位顯示窗"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『銀泉。青』無線電熱水壺 (1.7公升) IKT-17SB01",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "388",
+        "容量:": "1.7公升",
+        "水位指示:": "NO"
+    },
+    {
+        "names": "Midea 美的 Pokemon 保溫電熱水壺 (1.5公升) SH15E203PK",
+        "rating": "",
+        "water_price_min": "258",
+        "water_price_max": "258",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Homey 家美牌 快速無縫電熱水瓶 (1.7公升) SA-180",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "248",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Tiger 虎牌 VE節能真空電熱水瓶 (2.91公升) PVW-B30S",
+        "rating": "10",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,620",
+        "容量:": "2.91公升"
+    },
+    {
+        "names": "German Pool 德國寶 真空無線控溫電熱水壺 (1.5公升) KTV-215",
+        "rating": "10",
+        "hon_price_min": "820",
+        "hon_price_max": "1,100",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Vdada 電熱水壺 (1.7公升) VD-170W",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "499",
+        "water_price_min": "239",
+        "water_price_max": "358",
+        "容量:": "1.7公升",
+        "水位指示:": "可見"
+    },
+    {
+        "names": "Yoshikawa 吉川 不銹鋼笛音壼 (1.8公升)",
+        "rating": "",
+        "water_price_min": "188",
+        "water_price_max": "229",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "OCooker 圈廚 復古溫度錶電熱水壺 (1.7公升)",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "water_price_min": "239",
+        "water_price_max": "358",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Deerma 德爾瑪 多功能折疊水壺 (0.6公升) DH206",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "water_price_min": "199",
+        "water_price_max": "199"
+    },
+    {
+        "names": "Summe 德國卓爾 電熱水壺 (2.8公升) AP-S281",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "308",
+        "容量:": "2.8公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Thomson 藍光玻璃電熱水壺 (1.7公升) TM-DGK1071",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『清水．白』微電腦電熱水瓶 (3公升) IAP-30BA",
+        "rating": "3.0",
+        "hon_price_min": "268",
+        "hon_price_max": "398",
+        "容量:": "3公升",
+        "調節溫度:": "有"
+    },
+    {
+        "names": "Haden Heritage 電熱水壺 (1.7公升) 203939",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Famous 法國名家 全自動多功能保健壺 (4公升) BJ-40A(FAM)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Palace 皇宮 不銹鋼電熱圓水罉 (8公升) WF341",
+        "rating": "",
+        "hon_price_min": "467",
+        "hon_price_max": "480",
+        "容量:": "8公升",
+        "調節溫度:": "多種溫度選擇 (45℃-110℃)"
+    },
+    {
+        "names": "Palace 皇宮 不銹鋼電熱圓水罉 (8公升) WF341",
+        "rating": "",
+        "hon_price_min": "467",
+        "hon_price_max": "480",
+        "容量:": "8公升",
+        "調節溫度:": "多種溫度選擇 (45℃-110℃)"
+    },
+    {
+        "names": "Solco 絲傲 活氫水製造機 (1.2公升家庭裝)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "De'Longhi Distinta 電水壺 (1.7公升) KBI 2001",
+        "rating": "",
+        "hon_price_min": "668",
+        "hon_price_max": "695",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Breville the Soft Open 電熱水壺 (1.7公升) BKE445BSS",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "568",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Viomi 雲米 恆溫電熱水壺 Pro (1.5公升) YM-K1503",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "338",
+        "water_price_max": "365",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Goodway 威馬 無線電水壼 (1.2公升) GK-213C",
+        "rating": "",
+        "hon_price_min": "214",
+        "hon_price_max": "268",
+        "容量:": "1.2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Braun 百靈 Multiquick 5 電熱水煲 (1.7公升) WK500",
+        "rating": "10",
+        "hon_price_min": "449",
+        "hon_price_max": "479",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Chigo 電熱水煲 電熱水壺 特大容量2公升 白色時尚雙層隔熱防燙手 內膽食用不銹鋼 型號：DL-230A",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "容量:": "2公升",
+        "水位指示:": "最大及最小水位指標線"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (100公升) WM-100",
+        "rating": "",
+        "hon_price_min": "12,300",
+        "hon_price_max": "13,680",
+        "容量:": "100公升"
+    },
+    {
+        "names": "Tefal 特福 Avanti Classic 經典設計熱水壺 (1.7公升) KI290F",
+        "rating": "",
+        "hon_price_min": "629",
+        "hon_price_max": "880",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (60公升) WM-60F",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "8,380",
+        "容量:": "60公升"
+    },
+    {
+        "names": "Russell Hobbs K65 Anniversary Brushed Kettle 65週年紀念電熱水煲 - 不銹鋼色 (1.2公升) RH-25860",
+        "rating": "",
+        "hon_price_min": "1,019",
+        "hon_price_max": "1,019",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Hyundai 現代 真空無線控溫電熱水壺 (1.2公升) HY-KT12EK",
+        "rating": "",
+        "hon_price_min": "609",
+        "hon_price_max": "699",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Rasonic 樂信 無線電熱水壺 (1.5公升) RK-P15L",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "295",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (60公升) WM-60",
+        "rating": "",
+        "hon_price_min": "7,050",
+        "hon_price_max": "8,380",
+        "容量:": "60公升"
+    },
+    {
+        "names": "Tefal 特福 Glass Vision 電熱水壺 (1.5公升) KI7208",
+        "rating": "4.0",
+        "hon_price_min": "408",
+        "hon_price_max": "560",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Hopewell Triple Layer Cool Touch Kettle 三層防燙電熱水壺 (1.7公升) KED-517W",
+        "rating": "",
+        "hon_price_min": "365",
+        "hon_price_max": "388",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "S.M.E.G. 50's Standard Kettle 電熱水壺 (1.7公升) KLF03",
+        "rating": "",
+        "hon_price_min": "1,347",
+        "hon_price_max": "1,499",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Ariete Vintage Kettle 復古系列高身電熱水壺 (1.7公升) 2869",
+        "rating": "",
+        "hon_price_min": "425",
+        "hon_price_max": "490",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Nutzen 快速電熱水壺 (1.2公升) NG-120",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "259",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『透泉』電子調溫玻璃無線電熱水壺 (1.7公升) IKT-1709GE",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "369",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Tefal 特福 Travel'City 電熱水壺 (0.5公升) KO1201",
+        "rating": "7.0",
+        "hon_price_min": "208",
+        "hon_price_max": "270",
+        "容量:": "0.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "SilverCrest 快速不銹鋼電熱水壺 (1.7公升)",
+        "rating": "",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Haden 粉嫩系列電熱水壺 (1.7公升) 203946",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Tefal 特福 Equinoxe 電熱水壺 (1.5公升) KO3308",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "280",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 1.5L米家電水壺 (304不鏽鋼) MJDSH02YM",
+        "rating": "",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Russell Hobbs 旅行用電熱水壺 (0.85公升) RH-23840",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "容量:": "0.85公升"
+    },
+    {
+        "names": "Denki 電熱水煲 (1.7公升) DKE-175G",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "258",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『純湯．迅』環保電熱水瓶 (4.3公升) IAP-43V",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "558",
+        "容量:": "4.3公升"
+    },
+    {
+        "names": "Russell Hobbs Inspire White Kettle 電水煲 (1.7公升) RH-24360",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "648",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『元氣．白』微電腦電熱水瓶 (3.3公升) IAP-33AU",
+        "rating": "",
+        "hon_price_min": "282",
+        "hon_price_max": "428",
+        "容量:": "3.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『白泉』電子保溫無線電熱水壼 (1.7公升) IKT-17PA",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "399",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Bosch DesignLine 不銹鋼電熱式水壺 (1.7公升) TWK5P480GB",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "465",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Kenwood 旅行電熱水壺 (0.5公升) JKP250",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "288",
+        "容量:": "0.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『純湯．雪』LCD電熱水瓶 (4公升) IAP-40MD",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "479",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『純湯．優』微電腦電熱水瓶 (4.3公升) IJP-4300",
+        "rating": "2.0",
+        "hon_price_min": "290",
+        "hon_price_max": "399",
+        "容量:": "4.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Nathome 便携式電熱水杯 (0.35公升) NDB335",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "360",
+        "water_price_min": "260",
+        "water_price_max": "260"
+    },
+    {
+        "names": "Russell Hobbs Colours Plus+ Classic Cream 奶黃色經典迷你電熱水煲 (1公升) RH-24994",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Nutzen 電熱水壺 (1公升) SSP-10",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (3公升) RTP-W30RT",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428",
+        "容量:": "3公升",
+        "調節溫度:": "約45℃/55℃/65℃/85℃/95℃"
+    },
+    {
+        "names": "Proluxury 普樂氏 玻璃電熱水壺 (1.7公升) PKT901017",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "329",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "S.M.E.G. 50's Variable Temperature Kettle 溫度控制電熱水壺 (1.7公升) KLF04",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 電熱水煲 (1.7公升) HD9316",
+        "rating": "",
+        "water_price_min": "359",
+        "water_price_max": "359",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水瓶 (4公升) NC-EH40P",
+        "rating": "6.0",
+        "hon_price_min": "666",
+        "hon_price_max": "666",
+        "容量:": "4公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1公升) HD9344",
+        "rating": "10",
+        "hon_price_min": "225",
+        "hon_price_max": "279",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Haden 亮麗系列電熱水壺 (1.7公升) 203045",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Cecilware Twin Tanks Automatic Coffee Urn 大型雙缸蒸餾咖啡機 CL100N",
+        "rating": "",
+        "hon_price_min": "35,000",
+        "hon_price_max": "35,000",
+        "容量:": "23公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Me Too Stainless Steel Kettle - Panda 不銹鋼電熱水壺 (1.7公升) KE906K-PD",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "418",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Origo 電熱水煲 (1.7公升) EK-172S",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "容量:": "1.7公升",
+        "水位指示:": "特大水窗，顯示水位"
+    },
+    {
+        "names": "Haden 亮麗系列電熱水壺 (1.7公升) 203021",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "De'Longhi Icona Capitals 電熱水壺 (1.7公升) KBOC 3001",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "720",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Summe 德國卓爾 電熱水壺 (3.8公升) AP-S381",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "348",
+        "容量:": "3.8公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler - Slim 高速電開水器 (42公升/小時) WM-60F-1",
+        "rating": "",
+        "hon_price_min": "8,210",
+        "hon_price_max": "8,480",
+        "容量:": "42公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Tefal 特福 Express 電熱水壺 (1.7公升) KI170D",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "440",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Midea 美的 電熱水瓶 (3公升) MA-30CA",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『小川。流』無線電熱水壺 (1公升) IKT-10P",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "容量:": "1公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Hopewell Triple Layer Cool Touch Kettle 三層防燙電熱水壺 (1.2公升) KED-312",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "容量:": "1.2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Goodway 威馬 電熱水瓶 (3.8公升) GHP-80381",
+        "rating": "",
+        "hon_price_min": "385",
+        "hon_price_max": "490",
+        "容量:": "3.8公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Hopewell Retro Classic Kettle 復古無線電熱水壺 (1.7公升) KEC-2317",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "480",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Sigma 全自動電熱水瓶 (3公升) TP-30B(SIG)",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "259",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Nutzen 快速電熱水壺 (1公升) SWP-10",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "310",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Philips 飛利浦 電熱水煲 (1.6公升) HD4632/20",
+        "rating": "",
+        "容量:": "1.6公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Summe 德國卓爾 電熱水壺 (4.5公升) AP-S451",
+        "rating": "8.0",
+        "hon_price_min": "328",
+        "hon_price_max": "399",
+        "容量:": "4.5公升"
+    },
+    {
+        "names": "Homey 家美牌 微電腦電熱水瓶 (3.5公升) NEW-35",
+        "rating": "5.0",
+        "hon_price_min": "310",
+        "hon_price_max": "448",
+        "容量:": "3.5公升"
+    },
+    {
+        "names": "Russell Hobbs Chester Compact 電熱水壺 (1公升) RH-20190",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "319",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Sharp 聲寶 電熱水瓶 (2.8公升) KP-31B",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "容量:": "2.8公升",
+        "調節溫度:": "85-95/100度"
+    },
+    {
+        "names": "Breville the Soft Top Dual 電熱水壺 (1.7公升) BKE425",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Nutzen 微電腦電熱水瓶 (5公升) NP-50",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "510",
+        "容量:": "5公升"
+    },
+    {
+        "names": "JNC 時尚家廚電水壺 Kettle (1.7公升) TIFKT-TU",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "498",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Viomi 雲米 防燙不銹鋼電水壺 (1.5公升) YM-K1506",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Tiger 虎牌 電動出水電熱水瓶 (4公升) PDR-S40S-2CZ",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,078",
+        "容量:": "4公升"
+    },
+    {
+        "names": "MITSUMARU 電熱水壺 (6公升) MT-60U",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "容量:": "6公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『銀泉。透』玻璃透明無線電熱水壺 (1.7公升) IKT-17GS",
+        "rating": "9.6",
+        "hon_price_min": "349",
+        "hon_price_max": "370",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Life Element 折疊旅行電熱壺 (0.6公升) I4",
+        "rating": "",
+        "water_price_min": "358",
+        "water_price_max": "358",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Kenwood kMix 無線電熱水壺 (1公升) SJM020B",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "容量:": "1公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Turbo Italy 不銹鋼電水壺 (1.5公升) TEK-15B",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "360",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Famous 法國名家 全自動多功能保健壺 (3.3公升) BJ-33A(FAM)",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "269",
+        "容量:": "3.3公升"
+    },
+    {
+        "names": "Panasonic 樂聲 氣壓出水電熱水瓶 (3公升) NC-PF30PV",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Midea 美的 糖果色電熱水壺 (1.7公升) MK-HJ1705(G)",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "330",
+        "water_price_min": "179",
+        "water_price_max": "179",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Midea 美的 不銹鋼電熱水壺 (1.7公升) MK-17S24C",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "330",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Chigo 保溫不銹鋼內膽電熱水壺 (2公升) DL-808ZB",
+        "rating": "",
+        "容量:": "2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 電熱水煲 (1.7公升) HD9332",
+        "rating": "10",
+        "hon_price_min": "410",
+        "hon_price_max": "483",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Proluxury 普樂氏 電熱水瓶 (5公升) PTP002050",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Haden Heritage 電熱水壺 (特別版) (1.7公升) 205360",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Russell Hobbs K65 Anniversary Brushed Kettle 65週年紀念電熱水煲 - 銅色 (1.2公升) RH-25861",
+        "rating": "",
+        "hon_price_min": "1,188",
+        "hon_price_max": "1,188",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler - Counter Top 高速電開水器 (29公升/小時) WM-35-1",
+        "rating": "",
+        "hon_price_min": "6,730",
+        "hon_price_max": "6,730",
+        "容量:": "29公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Sigma 全自動電熱水瓶 (4.8公升) TP-48A",
+        "rating": "8.0",
+        "hon_price_min": "225",
+        "hon_price_max": "349",
+        "容量:": "4.8公升"
+    },
+    {
+        "names": "Deerma 德爾瑪 多功能摺疊式電熱水壺 香港版 (0.6公升) DH060BH",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "269",
+        "water_price_min": "228",
+        "water_price_max": "228"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (35公升) WM-35",
+        "rating": "",
+        "hon_price_min": "5,580",
+        "hon_price_max": "7,480",
+        "容量:": "35公升"
+    },
+    {
+        "names": "Nathome 便攜折疊小方電熱水壺 (0.6公升) NSH0805",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "309"
+    },
+    {
+        "names": "Rasonic 樂信 無線電熱水壺 (1.7公升) RK-PW17",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Sigma 全自動電熱水瓶 (2.8公升) TP-28A",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "250",
+        "容量:": "2.8公升"
+    },
+    {
+        "names": "MITSUMARU Hop Pot 電熱水壺 (4公升) MT-40U",
+        "rating": "2.0",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『銀泉。影』不銹鋼無線電熱水壺 (1.7公升) IKT-17SC02",
+        "rating": "2.0",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Hyundai 現代 摺疊旅行電熱水壼 (0.6公升) HK-01",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Breville the Soft Top Luxe 豪華型電熱水壺 (1.7公升) BKE735BSS",
+        "rating": "8.0",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,130",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (200公升) WM-200",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "15,980",
+        "容量:": "200公升"
+    },
+    {
+        "names": "Life Element 多功能私享養生杯 (0.4公升)",
+        "rating": "",
+        "water_price_min": "208",
+        "water_price_max": "208",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler - Slim 高速電開水器 (84公升/小時) WM-80F-1",
+        "rating": "",
+        "hon_price_min": "9,030",
+        "hon_price_max": "9,030",
+        "容量:": "84公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler Bar - Counter Version 高速電開水器 - 水吧式 (29公升/小時) WM-35UHC",
+        "rating": "",
+        "hon_price_min": "25,200",
+        "hon_price_max": "25,200",
+        "容量:": "29公升",
+        "調節溫度:": "10℃ / 92℃~97℃"
+    },
+    {
+        "names": "Midea 美的 電熱水壺 (1.7公升) MK-17P13B",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "189",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Peanuts x Homeplus Snoopy 不銹鋼無線電熱水壺 (1.7公升) KE938B-YK/WH",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 電熱水壺 (1.7公升) SKT170",
+        "rating": "8.0",
+        "hon_price_min": "270",
+        "hon_price_max": "280",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Princess 荷蘭公主 雙電壓旅行電水壺 (0.5公升) 236029",
+        "rating": "",
+        "hon_price_min": "215",
+        "hon_price_max": "215",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Morphy Richards 自動升降煮茶器 MR6088",
+        "rating": "",
+        "hon_price_min": "829",
+        "hon_price_max": "829",
+        "容量:": "1.7公升",
+        "水位指示:": "數碼顯示"
+    },
+    {
+        "names": "Xiaomi 小米 米家多功能電煮壺 (1.5公升)",
+        "rating": "",
+        "water_price_min": "360",
+        "water_price_max": "448",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Me Too Stainless Steel Water Kettle - Bee 小蜜蜂電熱水壺 (1.7公升) KE938B-BEE",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler Bar - Counter Version 高速電開水器 - 水吧式 (27公升/小時) WM-35UHW",
+        "rating": "",
+        "hon_price_min": "15,500",
+        "hon_price_max": "15,500",
+        "容量:": "27公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Homey 家美牌 微電腦電熱水瓶 (6公升) BM-60",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "380",
+        "容量:": "6公升"
+    },
+    {
+        "names": "1Chiban 快速電熱水壺 (1.7公升) IB-KT1700",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "容量:": "1.7公升",
+        "水位指示:": "沒有"
+    },
+    {
+        "names": "Braun 百靈 Sommelier 電熱水壺 (1.7公升) WK600",
+        "rating": "7.3",
+        "hon_price_min": "547",
+        "hon_price_max": "567",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Hyundai 現代 真空無線控溫電熱水壺 (1.7公升) HY-KT17EK",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "998",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Origo 旅行電熱水壺 (0.4公升) LD-6378",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "228",
+        "容量:": "0.4公升",
+        "水位指示:": "無"
+    },
+    {
+        "names": "MITSUMARU 無線快速電熱水壺 (1.7公升) KE-1723A",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "220",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Thomson 不銹鋼快速電熱水壺 (1.7公升) TM-K17",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler - Bulk Volume 高速電開水器 (281公升/小時) WM-200-1",
+        "rating": "",
+        "hon_price_min": "14,800",
+        "hon_price_max": "14,800",
+        "容量:": "281公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Midea 美的 LED不銹鋼保暖電熱水 (1.7公升) MK-17S18E",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『Living Style』玻璃無線電熱水壼 (0.8公升) IKT-6608GS",
+        "rating": "8.0",
+        "hon_price_min": "175",
+        "hon_price_max": "248",
+        "容量:": "0.8公升"
+    },
+    {
+        "names": "Famous 法國名家 無線電熱水壺 (1.7公升) FK-17PC(FAM)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "149",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 有品 三界自動上水消毒一體泡茶機 D3-Q",
+        "rating": "",
+        "water_price_min": "1,390",
+        "water_price_max": "1,399"
+    },
+    {
+        "names": "Famous 法國名家 電子保溫無線電熱水壺 (1.5公升) FK-15DB(FAM)",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "249",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Goodway 威馬 電熱水瓶 (4.2公升) GHP-42J",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470",
+        "容量:": "4.2公升"
+    },
+    {
+        "names": "Tefal 特福 Compacte 不銹鋼電水壺 (1.2公升) KI431D",
+        "rating": "10",
+        "hon_price_min": "251",
+        "hon_price_max": "340",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Tefal 特福 Safe'tea 雙層電水壺 (1公升) KO2618",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "378",
+        "容量:": "1公升"
+    },
+    {
+        "names": "維多利 旅行用折疊電熱水煲 (0.6公升) HY-01",
+        "rating": "",
+        "water_price_min": "149",
+        "water_price_max": "149",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Goodway 威馬 電熱水瓶 (3.2公升) GHP-32J",
+        "rating": "",
+        "hon_price_min": "409",
+        "hon_price_max": "439",
+        "容量:": "3.2公升"
+    },
+    {
+        "names": "De'Longhi Argento Flora 系列電水壺 (1.7公升) KBX2016",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Me Too Stainless Steel Water Kettle - Rainbow 不銹鋼電熱水壺 (1.7公升) KE908-RWB",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Homey 家美牌 快速電熱水瓶 (1.7公升) SW-17",
+        "rating": "",
+        "hon_price_min": "133",
+        "hon_price_max": "218",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Me Too Stainless Steel Kettle - White Cat 不銹鋼電熱水壺 (1.7公升) KE906K-CT",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Famous 法國名家 微電子自動電熱水瓶 (4公升) TP-40A(FAM)",
+        "rating": "",
+        "hon_price_min": "282",
+        "hon_price_max": "319",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Famous 法國名家 無線電熱水壺 (1.5公升) FK-15HW(FAM)",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "208",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Xiaomi 小米 雲米 多功能小型花茶壺",
+        "rating": "",
+        "water_price_min": "488",
+        "water_price_max": "499"
+    },
+    {
+        "names": "Braun 百靈 Multiquick 3 電熱水壺 (1.7公升) WK300",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "420",
+        "water_price_min": "379",
+        "water_price_max": "390",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Kenwood 玻璃電熱水壺 (1.7公升) ZJG112CL",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "460",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Tefal 特福 Subito 2 電熱水壺 (1.7公升) KI140F",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "410",
+        "容量:": "1.7公升",
+        "水位指示:": "無"
+    },
+    {
+        "names": "Hyundai 現代 電熱水瓶 (3公升) HY-HP30W",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Kenwood kMix 無線電熱水壺 (1.6公升) SJM040",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "578"
+    },
+    {
+        "names": "Kenwood kMix 無線不銹鋼電熱水壺 (1公升) SJM023-029",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "820",
+        "容量:": "1公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "OLAYKS 便攜式電熱水壺 (0.8公升)",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "容量:": "0.8公升"
+    },
+    {
+        "names": "Kenwood kMix系列無線電水壺 (1公升) ZJX650",
+        "rating": "10",
+        "hon_price_min": "457",
+        "hon_price_max": "560"
+    },
+    {
+        "names": "Hyundai 現代 不銹鋼快速電熱水壺 (1.7公升) HY-K17",
+        "rating": "10",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Famous 法國名家 旅行裝變壓電熱水壺 (0.5公升) FK-05S(FAM)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "190",
+        "容量:": "0.5公升",
+        "水位指示:": "無"
+    },
+    {
+        "names": "Midea 美的 微電子全自動電熱水瓶 (3公升) MA-30CTZ",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "420",
+        "容量:": "3公升",
+        "調節溫度:": "有"
+    },
+    {
+        "names": "Homey 家美牌 微電腦電熱水瓶 (3.5公升) EWM-35L",
+        "rating": "",
+        "hon_price_min": "379",
+        "hon_price_max": "379",
+        "容量:": "3.5公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『銀泉』不銹鋼無線電熱水壺 (1.7公升) IKT-17SC03",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "329",
+        "容量:": "1.7公升",
+        "水位指示:": "NO"
+    },
+    {
+        "names": "Me Too Stainless Steel Kettle - Brown Bear 不銹鋼電熱水壺 (1.7公升) KE906K-BN",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Nutzen 微電腦多功能電熱水瓶 (4公升) NTP-400",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "630",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Kenwood 玻璃電熱水壺 (1.7公升) ZJG111CL",
+        "rating": "8.0",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Haden 粉嫩系列電熱水壺 (1.7公升) 203922",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Famous 法國名家 微電子自動電熱水瓶 (3公升) TP-30A(FAM)",
+        "rating": "",
+        "hon_price_min": "254",
+        "hon_price_max": "279",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Konka 大容量家用電熱水壺 (1.8公升) KEK-KM18",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Honeyson 電熱水壺 (1.2公升) H2002",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Homeplus 電熱旅行水杯 KE111B",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Russell Hobbs Legacy Metallic Red 電熱水壺 (1.7公升) RH-21881",
+        "rating": "",
+        "hon_price_min": "675",
+        "hon_price_max": "675",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Cecilware HWD Series Hot Water Dispenser 熱開水器 HWD-2",
+        "rating": "",
+        "hon_price_min": "9,000",
+        "hon_price_max": "9,000",
+        "容量:": "8公升",
+        "水位指示:": "無"
+    },
+    {
+        "names": "Homey 家美牌 全自動電熱水瓶 (3.8公升) EW-380",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "299",
+        "容量:": "3.8公升"
+    },
+    {
+        "names": "AKAI 雅佳 電熱水壺 (1.8公升) XA-1318D",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "189",
+        "容量:": "1.8公升",
+        "水位指示:": "沒有"
+    },
+    {
+        "names": "1Chiban 快速電熱水壺 (1.8公升) IB-KT1818",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Kenwood 無線電熱水壺 (1.6公升) JKP280",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "容量:": "1.6公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Haden 亮麗系列電熱水壺 (1.7公升) 203069",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『透泉』物理保溫玻璃無線電熱水壺 (1.7公升) IKT-1702GS",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "358",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Xiaomi 小米 有品 三界自動上水消毒一體泡茶機 D2-Q",
+        "rating": "",
+        "water_price_min": "1,060",
+        "water_price_max": "1,099"
+    },
+    {
+        "names": "1Chiban 快速電熱水壺 (1.5公升) IB-KT15",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『白泉。透』玻璃無線電熱水壺 (1.7公升) IKT-17GB",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "329",
+        "容量:": "1.7公升",
+        "水位指示:": "YES"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『透泉』物理保溫玻璃無線電熱水壺 (1.2公升) IKT-1201GS",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "279",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『元氣．銀』微電腦電熱水瓶 (3.3公升) IAP-33AUC",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "325",
+        "容量:": "3.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Tefal 特福 Subito Select 電熱水壺 (1.7公升) KI2705",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "480",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "German Pool 德國寶 無線玻璃電熱水壺 (1.5公升) KTF-212",
+        "rating": "",
+        "hon_price_min": "347",
+        "hon_price_max": "450",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Rasonic 樂信 電動或碰杯出水電熱水瓶 (4公升) RTP-W40CC",
+        "rating": "",
+        "hon_price_min": "465",
+        "hon_price_max": "598",
+        "容量:": "4公升",
+        "調節溫度:": "60℃/70℃/80℃/90℃/95℃"
+    },
+    {
+        "names": "Suwon 電熱水壺 (1.8公升) KT1811",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "208",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Midea 美的 電熱水壺 (1.7公升) MK-H317E2B",
+        "rating": "",
+        "hon_price_min": "304",
+        "hon_price_max": "340",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Toshiba 東芝 電熱水瓶 (2.5公升) PLK-25FLIH",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "580",
+        "容量:": "2.5公升",
+        "水位指示:": "特大水位顯示器"
+    },
+    {
+        "names": "recolte Libre 經典快煮壺 (0.8公升) RCK-2",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "容量:": "0.8公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler - Counter Top 高速電開水器 (49公升/小時) WM-60-1",
+        "rating": "",
+        "hon_price_min": "8,070",
+        "hon_price_max": "8,299",
+        "容量:": "49公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler - Bulk Volume 高速電開水器 (253公升/小時) WM-180-1",
+        "rating": "",
+        "hon_price_min": "14,100",
+        "hon_price_max": "14,100",
+        "容量:": "253公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Russell Hobbs Legacy 60週年特別版電熱水壺 (1.7公升) RH-21280",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Kenwood 高效耐用金屬水壺 (1公升) SJM325A",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "容量:": "1公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1.5公升) HD9313",
+        "rating": "",
+        "water_price_min": "259",
+        "water_price_max": "259",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Kenwood 耐用金屬電熱水壺 (0.5公升) JKM076",
+        "rating": "10",
+        "hon_price_min": "274",
+        "hon_price_max": "293",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Famous 法國名家 雙層保溫無線電熱水壺 (1.5公升) FK-15HB",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Thomson 液晶顯示電熱水瓶 (3.5公升) TM-AP35",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "容量:": "3.5公升"
+    },
+    {
+        "names": "Russell Hobbs Legacy Black 電熱水壺 (1.7公升) RH-21883",
+        "rating": "",
+        "hon_price_min": "710",
+        "hon_price_max": "710",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Kenwood 電子保溫熱水瓶 (3.4公升) AP780",
+        "rating": "8.0",
+        "容量:": "3.4公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『Cube Mini』無線電熱水壼 (1.7公升) IKT-17CM",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "238",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Bosch Styline 1.5 電熱式水壺 (1.5公升) TWK8631GB",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (80公升) WM-80F",
+        "rating": "",
+        "hon_price_min": "8,690",
+        "hon_price_max": "9,590",
+        "容量:": "80公升"
+    },
+    {
+        "names": "Midea 美的 微電子全自動電熱水瓶 (3.8公升) MA-38GUA",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "容量:": "3.8公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler Bar - Counter Version 高速電開水器 - 水吧式 (27公升/小時) WM-35UH",
+        "rating": "",
+        "hon_price_min": "12,000",
+        "hon_price_max": "12,000",
+        "容量:": "27公升",
+        "調節溫度:": "92℃~97℃"
+    },
+    {
+        "names": "Famous 法國名家 1.7公升電子保溫無線電熱水壺 FK-17DK(FAM)",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "279",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Nutzen 微電腦電熱水瓶 (3公升) NP-30",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "480",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『旅途』摺疊式電水壺 (0.6公升) IKT-06",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "309",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Bourgini Floral Water Kettle Green 碎花熱水壼 (1.7公升)",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Me Too Stainless Steel Kettle - White Dog 不銹鋼電熱水壺 (1.7公升) KE906-DG",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Nutzen 全自動電熱水瓶 (4公升) AP-4",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "400",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Instant-Mate 捷寶牌 Instantaneous Water Boiler 高速電開水器 (12公升) WM-12",
+        "rating": "",
+        "hon_price_min": "5,450",
+        "hon_price_max": "6,680",
+        "容量:": "12公升"
+    },
+    {
+        "names": "Homey 家美牌 微電腦電熱水瓶 (4公升) BM-40",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "318",
+        "容量:": "4公升"
+    },
+    {
+        "names": "Kenwood 雙層隔熱電熱水壺 (0.8公升) ZJM02.A0WH",
+        "rating": "",
+        "hon_price_min": "322",
+        "hon_price_max": "360",
+        "容量:": "0.8公升"
+    },
+    {
+        "names": "Clever 不鏽鋼內膽保溫電熱水壺 2L 容量 WN-20GA",
+        "rating": "",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Goodway 威馬 無線電水壼 (1.2公升) GK-212C",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "258",
+        "容量:": "1.2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Goodway 威馬 不銹鋼電水壺 (1.6公升) GK-112C1",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "318",
+        "容量:": "1.6公升",
+        "水位指示:": "無"
+    },
+    {
+        "names": "Me Too Stainless Steel Water Kettle - Metallic 金屬電熱水壺 (1.7公升) KE908-MET",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Clever 全不銹鋼電熱水煲 / 水壺 (2公升)",
+        "rating": "8.0",
+        "water_price_min": "84",
+        "water_price_max": "84",
+        "容量:": "2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 不銹鋼去氯氣電熱水壺 (1.5公升) CL-17",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "380",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Famous 法國名家 玻璃無線電熱水壺 (1.7公升) FK-17GA(FAM)",
+        "rating": "",
+        "hon_price_min": "223",
+        "hon_price_max": "319",
+        "容量:": "1.7公升",
+        "水位指示:": "Yes"
+    },
+    {
+        "names": "Rasonic 樂信 電動、碰杯或氣壓出水電熱水瓶 (3.3公升) RTP-W33S",
+        "rating": "6.0",
+        "hon_price_min": "429",
+        "hon_price_max": "490",
+        "容量:": "3.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『清水．白』微電腦電熱水瓶 (4.3公升) IAP-43BA",
+        "rating": "10",
+        "hon_price_min": "306",
+        "hon_price_max": "468",
+        "容量:": "4.3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Midea 美的 迷你便攜式電熱水壺 (0.6公升) MK-SH06M102",
+        "rating": "",
+        "water_price_min": "178",
+        "water_price_max": "178",
+        "容量:": "0.6公升"
+    },
+    {
+        "names": "Famous 法國名家 雙層防燙無線電熱水壺 (1.7公升) FK-17G(FAM)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "容量:": "1.7公升",
+        "水位指示:": "Yes"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『影泉。透』玻璃無線電熱水壺 (1.7公升) IKT-17GC02",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "299",
+        "容量:": "1.7公升",
+        "水位指示:": "NO"
+    },
+    {
+        "names": "Denki 電熱水壺 (1.8公升) DKE-1800",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "容量:": "1.8公升",
+        "水位指示:": "Yes"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『純湯．優』電熱水瓶 (3.8公升) IAP-38Z",
+        "rating": "",
+        "hon_price_min": "382",
+        "hon_price_max": "382",
+        "容量:": "3.8公升"
+    },
+    {
+        "names": "Homeplus 全不鏽鋼自動電水煲 (3.5公升) SM3.5",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "容量:": "3.5公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 「元氣。金」微電腦電熱水瓶 (2.5公升) IAP-25G",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "299",
+        "容量:": "2.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Homey 家美牌 快速無縫電熱水瓶 (1.2公升) SA-120Y",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "218",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Peskoe 1.8公升養生壺 XNR-22",
+        "rating": "8.0",
+        "water_price_min": "159",
+        "water_price_max": "159",
+        "容量:": "1.8公升",
+        "水位指示:": "Yes"
+    },
+    {
+        "names": "Deerma 德爾瑪 摺疊式旅行電熱水壺 (0.6公升) DH306",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "350",
+        "容量:": "0.6公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Midea 美的 微電子全自動電熱水瓶 (5公升) MA70650T",
+        "rating": "8.0",
+        "hon_price_min": "425",
+        "hon_price_max": "470",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Russell Hobbs Bradwell 電熱水壺 (1.7公升) RH-18540",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Famous 法國名家 不銹鋼無線電熱水壺 (1.8公升) FK-18S",
+        "rating": "4.0",
+        "hon_price_min": "134",
+        "hon_price_max": "199",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Hyundai 現代 電熱水瓶 (4公升) HY-HP40W",
+        "rating": "10",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "容量:": "4公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Russell Hobbs Textures Plus Kettle 電熱水壺 (1.7公升) RH-22591",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Goodway 威馬 旅行電水壼 (0.4公升) GK-232",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "248",
+        "容量:": "0.4公升",
+        "水位指示:": "無"
+    },
+    {
+        "names": "Philips 飛利浦 金屬電熱水煲 (1.7公升) HD9321",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "383",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "S.M.E.G. 50's Mini Kettle 迷你電熱水壺 (0.8公升) KLF05",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "容量:": "0.8公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Kenwood Scene 電熱水壺 (1.7公升) SJM480",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "370",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Morphy Richards 電熱水壺 全柄 MR7076",
+        "rating": "",
+        "hon_price_min": "518",
+        "hon_price_max": "518",
+        "容量:": "1.5公升",
+        "調節溫度:": "英國品牌溫控器"
+    },
+    {
+        "names": "Tescom 電熱水壺 (1.7公升) THP3200MKII",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "398",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『純湯．極』節能電熱水瓶 (4公升) IAP-40RB",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488",
+        "容量:": "4公升",
+        "水位指示:": "YES"
+    },
+    {
+        "names": "MCO 旅行便攜熱水壺 (0.5公升) MBE-TK02",
+        "rating": "",
+        "water_price_min": "278",
+        "water_price_max": "278",
+        "容量:": "0.5公升"
+    },
+    {
+        "names": "Arima 不銹鋼電熱水瓶 (3公升) HP-30",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Homey 家美牌 智能電熱水瓶 (5公升) NEW-89",
+        "rating": "10",
+        "hon_price_min": "448",
+        "hon_price_max": "538",
+        "容量:": "5公升"
+    },
+    {
+        "names": "Goodway 威馬 電熱水瓶 (3公升) GHP-80301",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "430",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Kenwood 無線電熱水壺 (1.6公升) SJM110",
+        "rating": "",
+        "hon_price_min": "385",
+        "hon_price_max": "385",
+        "容量:": "1.6公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Me Too Stainless Steel Kettle 不銹鋼電熱水壺 (1.7公升) KE908C",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Frigidaire 北極 電熱水壺 (1.7公升) FD2116",
+        "rating": "",
+        "hon_price_min": "265",
+        "hon_price_max": "289",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Tiger 虎牌 快速電熱水壺 (1公升) PCD-A10S",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "750",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Kenwood 無線電熱水壺 (1.6公升) JKP230",
+        "rating": "",
+        "hon_price_min": "296",
+        "hon_price_max": "296",
+        "容量:": "1.6公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Famous 法國名家 不銹鋼無線電熱水壺 (2公升) FK-20SR",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 電熱水煲 (1.5公升) HD4646",
+        "rating": "8.0",
+        "hon_price_min": "228",
+        "hon_price_max": "298",
+        "water_price_min": "268",
+        "water_price_max": "268",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Russell Hobbs Clours Plus+ Flame Red 火焰紅經典迷你電熱水壺 (1公升) RH-24992",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Ariete Moderna Electric Kettle 時尚系列電熱水壺 (1.7公升) 2854",
+        "rating": "",
+        "hon_price_min": "508",
+        "hon_price_max": "630",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Braun 百靈 PurEase 電熱水壺 (1公升) WK3000",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "330",
+        "容量:": "1公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Russell Hobbs Inspire Black Kettle 電水煲 (1.7公升) RH-24361",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "648",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "3 SECONDS 機械式快電熱水壼 (2公升) 3S-A02",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "容量:": "2公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Midea 美的 防燙電熱水壺 (1.5公升) MK-17H05E5",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "330",
+        "容量:": "1.7公升"
+    },
+    {
+        "names": "Akita 秋田 電熱水壺 (1.8公升) AGP-18",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Midea 美的 不銹鋼電熱水壺 (1.7公升) MK-17S26E3",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "340",
+        "容量:": "1.7公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Me Too Stainless Steel Water Kettle 時尚不銹鋼無線快煮水壺 (1.7公升) KE908E",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "容量:": "1.7公升",
+        "水位指示:": "1.0/1.2/1.5/1.7"
+    },
+    {
+        "names": "Panasonic 樂聲 電熱水瓶 (3公升) NC-BH30P",
+        "rating": "",
+        "hon_price_min": "610",
+        "hon_price_max": "610",
+        "容量:": "3公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 無線控溫養生壺 (1.5公升) KTG-115",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "782",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "Proluxury 普樂氏 電熱水瓶 (3公升) PTP002030",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "容量:": "3公升"
+    },
+    {
+        "names": "Tefal 特福 Express 電熱水壺 (1.5公升) KO2991",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "270",
+        "容量:": "1.5公升",
+        "水位指示:": "有"
+    },
+    {
+        "names": "TanTin 日本藤田 不銹鋼電熱水煲 TA-201S",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "Cuisintec 迷你雙電壓旅行水煲 (0.5公升) KK-8569",
+        "rating": "",
+        "容量:": "0.5公升"
+    }
+]

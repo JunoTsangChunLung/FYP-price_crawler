@@ -1,0 +1,3165 @@
+[
+    {
+        "names": "DJI Mic (兩發一收，含充電盒)",
+        "rating": "10",
+        "hon_price_min": "2,640",
+        "hon_price_max": "2,899",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "RODE Wireless Go II 2.4GHz 一拖二無線收音咪",
+        "rating": "9.8",
+        "hon_price_min": "2,140",
+        "hon_price_max": "2,450",
+        "water_price_min": "1,720",
+        "water_price_max": "2,290",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Shure Cardioid Studio Microphone SM7B",
+        "rating": "10",
+        "hon_price_min": "2,850",
+        "hon_price_max": "3,480",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "MAONO USB/XLR 動圈式麥克風 PD400X",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,099",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "Monster 無線麥克風 M98",
+        "rating": "9.3",
+        "hon_price_min": "300",
+        "hon_price_max": "399",
+        "water_price_min": "299",
+        "water_price_max": "468",
+        "制式:": "電容式"
+    },
+    {
+        "names": "RODE VideoMicro II Ultra-compact On-camera Microphone",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "最高頻率範圍:": "20000Hz",
+        "阻抗:": "2600Ω"
+    },
+    {
+        "names": "RODE RODECaster Pro II Integrated Audio Production Studio Audio Interface",
+        "rating": "",
+        "hon_price_min": "5,940",
+        "hon_price_max": "5,940",
+        "water_price_min": "4,195",
+        "water_price_max": "5,380"
+    },
+    {
+        "names": "Shure Dynamic Vocal Microphone 麥克風 SM58-LC",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "1,020",
+        "最高頻率範圍:": "15000Hz",
+        "阻抗:": "300Ω"
+    },
+    {
+        "names": "SDRD 無線K歌神器 雙人對唱版 SD-309",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "599",
+        "water_price_min": "350",
+        "water_price_max": "490"
+    },
+    {
+        "names": "RODE VideoMicro",
+        "rating": "9.4",
+        "hon_price_min": "390",
+        "hon_price_max": "460",
+        "water_price_min": "380",
+        "water_price_max": "395"
+    },
+    {
+        "names": "Sony 無線收音咪 ECM-W2BT",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,690",
+        "water_price_min": "1,460",
+        "water_price_max": "1,470",
+        "錄音格式 :": "無線麥克風是拍攝 vlog 的理想之選，內置電池及相機供電，可長達 9 小時無線連接"
+    },
+    {
+        "names": "SENKI 千崎 無線K歌音箱 SK-100",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "438"
+    },
+    {
+        "names": "Yamaha 網路直播混音器 AG03 MKII",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,690",
+        "water_price_min": "1,480",
+        "water_price_max": "1,590"
+    },
+    {
+        "names": "RODE NT-USB Mini Studio-Quality Microphone",
+        "rating": "10",
+        "hon_price_min": "810",
+        "hon_price_max": "999",
+        "water_price_min": "680",
+        "water_price_max": "780",
+        "錄音格式 :": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Saramonic Blink500 ProX B2 2.4Ghz 一對二無線領夾咪",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000"
+    },
+    {
+        "names": "Shure 動圈式麥克風+Manfrotto腳架套裝 (MV7-K-BNDL)",
+        "rating": "10",
+        "hon_price_min": "1,750",
+        "hon_price_max": "2,088",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "Hollyland Lark M1 一拖二無線收音系統",
+        "rating": "",
+        "hon_price_min": "776",
+        "hon_price_max": "1,090"
+    },
+    {
+        "names": "MAONO 電容麥克風 AU-PM360TR",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "制式:": "電容式"
+    },
+    {
+        "names": "HyperX Solocast USB 麥克風",
+        "rating": "10",
+        "hon_price_min": "359",
+        "hon_price_max": "499",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "制式:": "電容式"
+    },
+    {
+        "names": "RODE Lavalier II Premium Lavalier Microphone",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "880",
+        "water_price_min": "629",
+        "water_price_max": "880",
+        "最高頻率範圍:": "20000Hz",
+        "阻抗:": "2200Ω"
+    },
+    {
+        "names": "Razer Seiren Mini 便攜式迷你麥克風",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "water_price_min": "329",
+        "water_price_max": "380",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Blue Microphones Yeti 專業 USB 麥克風",
+        "rating": "8.3",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,499",
+        "water_price_min": "780",
+        "water_price_max": "1,424",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Shure SM57",
+        "rating": "8.0",
+        "hon_price_min": "760",
+        "hon_price_max": "1,020",
+        "water_price_min": "700",
+        "water_price_max": "700"
+    },
+    {
+        "names": "BINNIFA Model3 金屬無線TWS串聯K歌戶外音響",
+        "rating": "",
+        "water_price_min": "1,199",
+        "water_price_max": "1,199"
+    },
+    {
+        "names": "ZOOM 錄音器專用監聽分享器 ZHA-4",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "water_price_min": "510",
+        "water_price_max": "520"
+    },
+    {
+        "names": "Yamaha 網路直播混音器 AG06 MKII",
+        "rating": "10",
+        "hon_price_min": "1,990",
+        "hon_price_max": "1,990",
+        "water_price_min": "1,780",
+        "water_price_max": "1,990"
+    },
+    {
+        "names": "Sony 槍型指向麥克風 ECM-B10",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,890"
+    },
+    {
+        "names": "Shure BLX24/SM58",
+        "rating": "",
+        "hon_price_min": "4,200",
+        "hon_price_max": "4,670"
+    },
+    {
+        "names": "Shure 動圈式麥克風 SM58",
+        "rating": "10",
+        "hon_price_min": "820",
+        "hon_price_max": "1,020",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "Universal Audio Volt 2 Studio Pack",
+        "rating": "",
+        "hon_price_min": "2,020",
+        "hon_price_max": "2,580",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Sony 多功能數位錄音筆 ICD-TX660",
+        "rating": "",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,190",
+        "water_price_min": "768",
+        "water_price_max": "800",
+        "錄音格式 :": "線性 PCM/MP3",
+        "內置容量:": "16GB"
+    },
+    {
+        "names": "Shure 動圈式麥克風 (有開關版本) SM58S",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "1,080",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "RODE NT-USB Mini Studio-Quality Microphone",
+        "rating": "10",
+        "hon_price_min": "810",
+        "hon_price_max": "999",
+        "water_price_min": "680",
+        "water_price_max": "780",
+        "錄音格式 :": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "RODE Wireless Go II Single 2.4GHz 一拖一無線收音咪",
+        "rating": "8.0",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,800",
+        "water_price_min": "1,332",
+        "water_price_max": "1,450",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "HyperX QUADCAST 多功能USB麥克風 (電容咪)",
+        "rating": "10",
+        "hon_price_min": "800",
+        "hon_price_max": "1,499",
+        "water_price_min": "890",
+        "water_price_max": "890",
+        "制式:": "電容式"
+    },
+    {
+        "names": "HyperX DuoCast RGB 電容式麥克風",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "799",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Blue Microphones Snowball",
+        "rating": "10",
+        "hon_price_min": "500",
+        "hon_price_max": "799",
+        "water_price_min": "599",
+        "water_price_max": "719"
+    },
+    {
+        "names": "RODE VideoMic Me-L",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "670",
+        "water_price_min": "475",
+        "water_price_max": "550",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "RODE Lavalier GO Professional Lavalier Microphone",
+        "rating": "10",
+        "hon_price_min": "610",
+        "hon_price_max": "680",
+        "water_price_min": "430",
+        "water_price_max": "590",
+        "制式:": "電容式",
+        "阻抗:": "3000Ω"
+    },
+    {
+        "names": "Relacart Mini Wireless Microphone System MC-1",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798"
+    },
+    {
+        "names": "Shure Podcast Microphone MV7",
+        "rating": "9.8",
+        "hon_price_min": "1,530",
+        "hon_price_max": "2,199"
+    },
+    {
+        "names": "Zoom LiveTrak L‑8 Podcast Recorder",
+        "rating": "9.0",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,400",
+        "water_price_min": "2,380",
+        "water_price_max": "2,780"
+    },
+    {
+        "names": "RODE Professional Studio Boom/Arm PSA1+",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "water_price_min": "819",
+        "water_price_max": "819"
+    },
+    {
+        "names": "Shure MV88+ Video Kit",
+        "rating": "9.7",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,998",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Hopewell VHF無線咪高峰 (腰掛式) WM-4100",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "最高頻率範圍:": "15000Hz"
+    },
+    {
+        "names": "Hollyland Mars 4K Wireless Video Transmission System",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "4,680"
+    },
+    {
+        "names": "Philips 飛利浦 16GB 無損錄音機 VTR5210",
+        "rating": "10",
+        "hon_price_min": "590",
+        "hon_price_max": "699",
+        "water_price_min": "598",
+        "water_price_max": "598",
+        "內置容量:": "16GB"
+    },
+    {
+        "names": "Razer Seiren X Gaming Microphone",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "829",
+        "water_price_min": "547",
+        "water_price_max": "720"
+    },
+    {
+        "names": "BOYA Lightning Digital Stereo Microphone BY-DM200",
+        "rating": "10",
+        "hon_price_min": "290",
+        "hon_price_max": "399",
+        "water_price_min": "280",
+        "water_price_max": "400"
+    },
+    {
+        "names": "Endgame Gear Xstrm RGB USB電容式麥克風",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,199",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Telesin Charging Case for RODE Wireless Go/Go II 充電盒",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "Monster 無線麥克風 M97",
+        "rating": "9.3",
+        "hon_price_min": "428",
+        "hon_price_max": "898",
+        "water_price_min": "400",
+        "water_price_max": "699"
+    },
+    {
+        "names": "Focusrite Scarlett Solo 3rd Gen",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "1,180"
+    },
+    {
+        "names": "Sennheiser XSW 1-835 DUAL",
+        "rating": "10",
+        "hon_price_min": "6,280",
+        "hon_price_max": "6,480",
+        "water_price_min": "5,200",
+        "water_price_max": "5,200"
+    },
+    {
+        "names": "Maono MAONOCASTER Lite Single Mic Bundle 連麥克風套裝 MM-AM200S1",
+        "rating": "10",
+        "hon_price_min": "830",
+        "hon_price_max": "899"
+    },
+    {
+        "names": "Shure SV200",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "VITA Mini-398 多功能唱K麥克風+喇叭套餐",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "328"
+    },
+    {
+        "names": "DJI Mic (一發一收)",
+        "rating": "10",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,700",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Solid State Logic SSL 2 USB Audio Interface",
+        "rating": "10",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,550",
+        "water_price_max": "1,550",
+        "錄音格式 :": "2-In / 2-Out USB-C Audio Interface"
+    },
+    {
+        "names": "BOYA BY-M2 多用途MFI夾領收音咪",
+        "rating": "8.0",
+        "hon_price_min": "238",
+        "hon_price_max": "380",
+        "water_price_min": "260",
+        "water_price_max": "320"
+    },
+    {
+        "names": "Razer Seiren BT 行動直播專用的藍牙麥克風",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "799",
+        "最高頻率範圍:": "48000Hz"
+    },
+    {
+        "names": "Hollyland Cosmo C1 SDI/HDMI Wireless Video Transmission System",
+        "rating": "",
+        "hon_price_min": "6,390",
+        "hon_price_max": "6,390"
+    },
+    {
+        "names": "Universal Audio Apollo Twin USB",
+        "rating": "",
+        "hon_price_min": "8,060",
+        "hon_price_max": "8,900",
+        "water_price_min": "6,780",
+        "water_price_max": "6,780"
+    },
+    {
+        "names": "MAONO Maonocaster AU-AM100 All-In-One Podcast Production Studio",
+        "rating": "10",
+        "hon_price_min": "1,320",
+        "hon_price_max": "1,599"
+    },
+    {
+        "names": "iFlytek 科大訊飛  SR302 Pro 智能錄音筆",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099"
+    },
+    {
+        "names": "BOYA BY-M1",
+        "rating": "9.3",
+        "hon_price_min": "128",
+        "hon_price_max": "198",
+        "water_price_min": "80",
+        "water_price_max": "210",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Shure SM-58",
+        "rating": "9.2",
+        "hon_price_min": "820",
+        "hon_price_max": "1,280"
+    },
+    {
+        "names": "G-Mark Professional UHF Wireless Microphone 專業U段高清無線咪 X22U",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "Marvo 全指向直播麥克風 MIC-02",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "最高頻率範圍:": "16000Hz",
+        "阻抗:": "≤ 2200Ω"
+    },
+    {
+        "names": "Shure XLR Podcast Microphone MV7X",
+        "rating": "",
+        "hon_price_min": "1,183",
+        "hon_price_max": "1,298"
+    },
+    {
+        "names": "RODE RODECaster Pro II Integrated Audio Production Studio Audio Interface",
+        "rating": "",
+        "hon_price_min": "5,940",
+        "hon_price_max": "5,940",
+        "water_price_min": "4,195",
+        "water_price_max": "5,380"
+    },
+    {
+        "names": "Zoom LiveTrak L-20R 22-in/4-out USB Audio Interface",
+        "rating": "",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "water_price_min": "4,430",
+        "water_price_max": "4,800"
+    },
+    {
+        "names": "Shure SM58-50A",
+        "rating": "8.0",
+        "hon_price_min": "970",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "DPA 4090 Omni Mic, Norm SPL, P48 4090",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "4,350"
+    },
+    {
+        "names": "Sparrow Kids x Sanrio Kids Wireless Microphone 兒童無線 Karaoke 咪 KM01-BT",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "269"
+    },
+    {
+        "names": "Yamaha 混音器 AG03",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,590",
+        "water_price_min": "1,280",
+        "water_price_max": "1,380"
+    },
+    {
+        "names": "MAONO USB/XLR Zero-Latency Monitoring Cardioid  Dynamic Microphone Table Set AU-HD300T",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "599",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "MAONO 3.5mm 專業座枱收音咪套裝 AU-A03T",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "錄音格式 :": "16mm 電容式",
+        "最高頻率範圍:": "16000Hz"
+    },
+    {
+        "names": "Philips 飛利浦 16GB Digital Voice Recorder 數碼藍牙翻譯錄音機 VTR5260",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "699",
+        "內置容量:": "16GB"
+    },
+    {
+        "names": "BOYA BY-MM1 Cardioid Microphone",
+        "rating": "8.7",
+        "hon_price_min": "139",
+        "hon_price_max": "299",
+        "water_price_min": "138",
+        "water_price_max": "310"
+    },
+    {
+        "names": "BOYA BY-WM4 Pro K2 Wireless Microphone 一開二無綫收音咪",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,200",
+        "water_price_min": "890",
+        "water_price_max": "1,200"
+    },
+    {
+        "names": "Behringer X AIR Digital Stagebox Mixers XR18",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "6,500"
+    },
+    {
+        "names": "MAONO Maonocaster AU-AM100 K2 便攜式多合一混音器 Solo Bundle",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,299"
+    },
+    {
+        "names": "Shure Dynamic Vocal Microphone 麥克風 SM58-LC",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "1,020",
+        "最高頻率範圍:": "15000Hz",
+        "阻抗:": "300Ω"
+    },
+    {
+        "names": "SmarterWare 迷你無線K歌神器 雙人對唱版 BT5.0 D20",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "240"
+    },
+    {
+        "names": "Shure BLX288/PG58",
+        "rating": "",
+        "hon_price_min": "4,860",
+        "hon_price_max": "5,180"
+    },
+    {
+        "names": "Focusrite Scarlett 2i2 Studio 3rd Gen",
+        "rating": "10",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,280"
+    },
+    {
+        "names": "MAONO 360° Adjustable Cardioid Omnidirectional USB Microphone AU-903",
+        "rating": "10",
+        "hon_price_min": "420",
+        "hon_price_max": "699",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "MAONO Dynamic Karaoke Microphone Handheld Cardioid Vocal Microphone AU-K04",
+        "rating": "10",
+        "hon_price_min": "88",
+        "hon_price_max": "98",
+        "最高頻率範圍:": "16000Hz",
+        "阻抗:": "400Ω"
+    },
+    {
+        "names": "Maono USB 會議麥克風 AU-BM10",
+        "rating": "8.0",
+        "hon_price_min": "230",
+        "hon_price_max": "338"
+    },
+    {
+        "names": "HyperX QuadCast S RGB 多功能 USB 麥克風 - 白色別注版",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,799"
+    },
+    {
+        "names": "Philips 飛利浦 16G 數碼錄音筆 VTR5010",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "450"
+    },
+    {
+        "names": "SU.YOSD 攜式專業卡拉OK雙麥克風藍牙音箱 YS-203",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Audio Technica 心形指向性電容型USB麥克風 AT2020USB-X",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "制式:": "電容式"
+    },
+    {
+        "names": "RODE Vlogger Kit USB-C Filmmaking Kit for USB-C Devices",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "water_price_min": "925",
+        "water_price_max": "950"
+    },
+    {
+        "names": "Monster Airmars GM02 Desktop Microphone 台式電腦麥克風",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "阻抗:": "2200Ω"
+    },
+    {
+        "names": "MAONO RGB 電容式麥克風 AU-DM30",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Shure VOCAL Microphone 人聲咪 (Beta 58A)",
+        "rating": "10",
+        "hon_price_min": "1,249",
+        "hon_price_max": "1,398"
+    },
+    {
+        "names": "JLab Audio Talk GO USB Microphone",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "578",
+        "water_price_min": "480",
+        "water_price_max": "480",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Saramonic Blink500 Pro B3 2.4Ghz 一對一無線手機領夾咪 For Apple iPhone Lightning",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,800",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "CyberTech BT5.0 Mini Ktv System 無線迷你超大聲 K歌神器 雙人對唱版 YS-203",
+        "rating": "9.9",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "water_price_min": "280",
+        "water_price_max": "328"
+    },
+    {
+        "names": "MAONO USB Podcast Microphone Set AU-PM422",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,099",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Shure 雙通道手持式無線系統 BLX288/SM58",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "6,380"
+    },
+    {
+        "names": "Shure MOTIV MV51 數碼大震膜電容式咪高風",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,598",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Hollyland Mars 400s Pro 無線圖傳系統",
+        "rating": "8.0",
+        "hon_price_min": "3,505",
+        "hon_price_max": "4,080",
+        "water_price_min": "3,205",
+        "water_price_max": "3,205"
+    },
+    {
+        "names": "Shure Condenser Instrument Microphone SM81",
+        "rating": "",
+        "hon_price_min": "2,920",
+        "hon_price_max": "2,920",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "RODE Shotgun Microphone NTG5",
+        "rating": "",
+        "hon_price_min": "3,890",
+        "hon_price_max": "3,890",
+        "water_price_min": "2,880",
+        "water_price_max": "3,730"
+    },
+    {
+        "names": "Sony UWP-D Bodypack Wireless Microphone Package UWP-D21",
+        "rating": "10",
+        "hon_price_min": "4,650",
+        "hon_price_max": "5,580",
+        "water_price_min": "4,280",
+        "water_price_max": "4,280"
+    },
+    {
+        "names": "Shure Digital Stereo Condenser Microphone MV88",
+        "rating": "8.0",
+        "hon_price_min": "920",
+        "hon_price_max": "1,249",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Universal Audio Apollo Twin X Duo Heritage Edition",
+        "rating": "",
+        "hon_price_min": "8,090",
+        "hon_price_max": "8,800",
+        "water_price_min": "7,680",
+        "water_price_max": "7,680"
+    },
+    {
+        "names": "JBL Wireless Microphone System VM300",
+        "rating": "10",
+        "hon_price_min": "3,800",
+        "hon_price_max": "4,000"
+    },
+    {
+        "names": "RODE Premium Small-diaphragm Condenser Cardioids 電容式麥克風 TF-5 Matched Pair",
+        "rating": "",
+        "hon_price_min": "10,900",
+        "hon_price_max": "10,900",
+        "water_price_min": "7,728",
+        "water_price_max": "8,300",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20Hz-20kHz"
+    },
+    {
+        "names": "Solid State Logic 12-in/8-out USB bus-powered audio interface SSL 12",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,920"
+    },
+    {
+        "names": "CyberTech Wireless UHF Microphone 一拖四高清無線咪",
+        "rating": "9.3",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680"
+    },
+    {
+        "names": "Blue Microphones Snowball iCE 隨插即用 USB 麥克風",
+        "rating": "8.8",
+        "hon_price_min": "328",
+        "hon_price_max": "549",
+        "water_price_min": "299",
+        "water_price_max": "549",
+        "制式:": "電容式"
+    },
+    {
+        "names": "MAONO Wireless Mic 無線麥克風 - Lightning AU-WM600-B2",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "MAONO Podcast Microphone AU-902",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "499",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "SmarterWare Wireless Microphone Lightning iPhone/iPAD 領夾式無線麥克風 WM02",
+        "rating": "10",
+        "hon_price_min": "230",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "MAONO AU-A04T Boardcast Set Condenser Microphone",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "599",
+        "制式:": "電容式",
+        "最高頻率範圍:": "16000Hz"
+    },
+    {
+        "names": "Universal Audio UA Sphere LX Modeling Microphone",
+        "rating": "",
+        "hon_price_min": "8,090",
+        "hon_price_max": "8,090",
+        "water_price_min": "8,090",
+        "water_price_max": "8,090",
+        "制式:": "電容式"
+    },
+    {
+        "names": "BOYA BY-M1 Pro Universal Lavalier Microphone",
+        "rating": "10",
+        "hon_price_min": "170",
+        "hon_price_max": "230",
+        "water_price_min": "160",
+        "water_price_max": "188"
+    },
+    {
+        "names": "ZOOM Field Recorder & Lavalier Mic F2-BT",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,780",
+        "water_price_min": "1,280",
+        "water_price_max": "1,480",
+        "錄音格式 :": "Records 44.1kHz/32-bit float or 48kHz/32-bit float audio files"
+    },
+    {
+        "names": "MAONO Wireless Microphone AU-WM820",
+        "rating": "8.0",
+        "hon_price_min": "630",
+        "hon_price_max": "999"
+    },
+    {
+        "names": "Sogou 搜狗 AI智能錄音筆+ 離線翻譯機 E1",
+        "rating": "",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680"
+    },
+    {
+        "names": "HyperX QuadCast S RGB 多功能 USB 麥克風",
+        "rating": "10",
+        "hon_price_min": "979",
+        "hon_price_max": "1,699",
+        "water_price_min": "1,250",
+        "water_price_max": "1,250"
+    },
+    {
+        "names": "Elgato Wave:3 專業麥克風",
+        "rating": "10",
+        "hon_price_min": "888",
+        "hon_price_max": "1,290",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Elgato Wave DX Dynamic Microphone 動圈式麥克風",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "制式:": "動圈式",
+        "最高頻率範圍:": "50-15000 Hz"
+    },
+    {
+        "names": "MAONO WM820 Lighting 無線接收麥克風 MM-WM820B2",
+        "rating": "8.0",
+        "hon_price_min": "999",
+        "hon_price_max": "1,199"
+    },
+    {
+        "names": "MAONO AU-UL10 USB Lavalier Condenser Microphone",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "209",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Philips 飛利浦 Voice Tracer 錄音機 DVT1250",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "373",
+        "錄音格式 :": "WAV (ADPCM和PCM)",
+        "內置容量:": "8GB"
+    },
+    {
+        "names": "RODE SC7",
+        "rating": "8.0",
+        "hon_price_min": "120",
+        "hon_price_max": "190",
+        "water_price_min": "75",
+        "water_price_max": "75"
+    },
+    {
+        "names": "Streamplify RGB Microphone With Tripod",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "505",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Audio Technica USB心形指向性咪高峰 AT2020USB+",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,480",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Elephant 抗噪電腦收音咪 E-MIC-006",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "Universal Audio UA Sphere DLX Modeling Microphone",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "11,800",
+        "water_price_min": "11,800",
+        "water_price_max": "11,800",
+        "制式:": "電容式"
+    },
+    {
+        "names": "RODE Wireless Go",
+        "rating": "10",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,758",
+        "water_price_min": "1,250",
+        "water_price_max": "1,810"
+    },
+    {
+        "names": "ZOOM 立體聲收音咪 USB-C for Android AM7",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "Multipro Portable Karaoke Speaker Kits P2",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "MAONO Dynamic XLR/USB Dual Interface Microphone AU-HD300S",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "659"
+    },
+    {
+        "names": "RODE Vlogger Kit iOS Filmmaking Kit for iOS Devices",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "water_price_min": "925",
+        "water_price_max": "950"
+    },
+    {
+        "names": "Sony UX 系列數碼錄音機 ICD-UX570F",
+        "rating": "10",
+        "hon_price_min": "835",
+        "hon_price_max": "999",
+        "water_price_min": "650",
+        "water_price_max": "780",
+        "錄音格式 :": "MP3/LPCM",
+        "內置容量:": "4GB"
+    },
+    {
+        "names": "BOYA BY-XM6-S2",
+        "rating": "6.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,598",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "RODE NT-USB",
+        "rating": "9.8",
+        "hon_price_min": "1,210",
+        "hon_price_max": "1,550",
+        "water_price_min": "1,114",
+        "water_price_max": "1,380",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Shure Dynamic Instrument Microphone 動圈式咪高峰 (Beta 57A)",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "Saramonic Blink500 Pro B8 2.4G 四通道無線咪高峰系統",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,000",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "BOYA 桌面USB麥克風 BY-CM5",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Saramonic UwMic9S Kit2 UHF 1對2無線麥克風 TX9 + TX9 + RX9",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,600"
+    },
+    {
+        "names": "Hyundai 現代 USB Conference Speakerphone Speak 專業會議收音咪喇叭 Y11C",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340"
+    },
+    {
+        "names": "OM System Linear PCM Recorder LS-P5",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,790",
+        "錄音格式 :": "Linear PCM format／FLAC／MP3",
+        "內置容量:": "16GB"
+    },
+    {
+        "names": "RODE PodMic",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "999",
+        "water_price_min": "690",
+        "water_price_max": "1,250",
+        "最高頻率範圍:": "20000Hz",
+        "阻抗:": "320Ω"
+    },
+    {
+        "names": "Shure Cardioid Condenser Instrument Microphone PGA81",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,290"
+    },
+    {
+        "names": "BOYA Mininature Condenser Microphone BY-M100",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "290",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "制式:": "電容式",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Focusrite Vocaster Two 直播錄音介面",
+        "rating": "",
+        "hon_price_min": "1,820",
+        "hon_price_max": "2,330"
+    },
+    {
+        "names": "BOYA 專業級相機機頂麥克風 BY-BM3032",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "780",
+        "water_price_min": "640",
+        "water_price_max": "660"
+    },
+    {
+        "names": "PreSonus StudioLive 16R 18-Input, 16-Channel Series III Stage Box and Rack Mixer",
+        "rating": "",
+        "hon_price_min": "6,560",
+        "hon_price_max": "11,900"
+    },
+    {
+        "names": "PreSonus FaderPort V2",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,200"
+    },
+    {
+        "names": "ZOOM H6 Handy Recorder",
+        "rating": "9.5",
+        "hon_price_min": "2,390",
+        "hon_price_max": "2,880",
+        "water_price_min": "2,200",
+        "water_price_max": "2,490",
+        "錄音格式 :": "BWF"
+    },
+    {
+        "names": "Sansui 山水 專業K歌無線藍牙麥克風 F12",
+        "rating": "",
+        "water_price_min": "598",
+        "water_price_max": "598"
+    },
+    {
+        "names": "Xiaomi 小米 悅米無線直播領夾麥克風",
+        "rating": "",
+        "water_price_min": "568",
+        "water_price_max": "580",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Saramonic Blink500 Pro B1 (TX+RX) 2.4Ghz 一對一無線領夾咪",
+        "rating": "10",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,600"
+    },
+    {
+        "names": "CyberTech Wireless UHF Microphone 一拖二無線咪",
+        "rating": "9.6",
+        "hon_price_min": "498",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "JBL Quantum Stream 麥克風",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "制式:": "電容式",
+        "阻抗:": ">16Ω"
+    },
+    {
+        "names": "PreSonus ATOM Production and Performance Pad Controller",
+        "rating": "",
+        "hon_price_min": "1,410",
+        "hon_price_max": "1,550"
+    },
+    {
+        "names": "PreSonus 6-Channel Headphone Mixing System HP60",
+        "rating": "",
+        "hon_price_min": "2,820",
+        "hon_price_max": "2,820"
+    },
+    {
+        "names": "Yamaha 6-CH Mixer & USB Audio Interface AG06",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,990",
+        "water_price_min": "1,780",
+        "water_price_max": "2,080"
+    },
+    {
+        "names": "Ckmova 一對二無線麥克風系统 Vocal X V2",
+        "rating": "",
+        "hon_price_min": "1,995",
+        "hon_price_max": "1,999",
+        "最高頻率範圍:": "20-20000Hz"
+    },
+    {
+        "names": "Saramonic Blink500 B4 2.4Ghz 一對二無線領夾咪",
+        "rating": "10",
+        "hon_price_min": "1,056",
+        "hon_price_max": "2,000",
+        "water_price_min": "2,280",
+        "water_price_max": "2,280"
+    },
+    {
+        "names": "SDRD 無線K歌神器 雙人對唱專業版 SD-128",
+        "rating": "10",
+        "hon_price_min": "405",
+        "hon_price_max": "788",
+        "water_price_min": "400",
+        "water_price_max": "499"
+    },
+    {
+        "names": "Focusrite Vocaster Two Studio 直播套裝",
+        "rating": "",
+        "hon_price_min": "2,940",
+        "hon_price_max": "3,890"
+    },
+    {
+        "names": "RODE NT1-A",
+        "rating": "10",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,230",
+        "water_price_min": "1,317",
+        "water_price_max": "1,840",
+        "制式:": "電容式",
+        "阻抗:": "100Ω"
+    },
+    {
+        "names": "Audio Technica AT2020 USB",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,178"
+    },
+    {
+        "names": "JBL Wireless Microphone Set 無線雙麥克風系統",
+        "rating": "",
+        "water_price_min": "1,150",
+        "water_price_max": "1,150",
+        "最高頻率範圍:": "15000Hz"
+    },
+    {
+        "names": "ZOOM H3-VR Handy Recorder",
+        "rating": "10",
+        "hon_price_min": "1,700",
+        "hon_price_max": "2,800",
+        "water_price_min": "1,600",
+        "water_price_max": "2,280"
+    },
+    {
+        "names": "Sennheiser Wireless Musical Instrument Set EW 100 G4-Ci1",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "6,580"
+    },
+    {
+        "names": "MAONO AU-402 Lavalier Condenser Microphone (MM-M402L)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "制式:": "電容式",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Saramonic Blink500 Pro B6 2.4Ghz 一對二無線手機領夾咪 For Android USB Type-C",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "SDRD 無線K歌神器雙人對唱版 (2 x 12W喇叭) BT5.0版 SD-312",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "499",
+        "water_price_min": "399",
+        "water_price_max": "399"
+    },
+    {
+        "names": "Saramonic LavMicro UC Lavalier Microphone for Android USB Type-C",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "720",
+        "最高頻率範圍:": "30Hz - 20kHz"
+    },
+    {
+        "names": "Saramonic Vlink2 Kit1 (TX+RX)",
+        "rating": "",
+        "hon_price_min": "1,920",
+        "hon_price_max": "1,920"
+    },
+    {
+        "names": "BOYA BY-XM6-S1",
+        "rating": "2.0",
+        "hon_price_min": "999",
+        "hon_price_max": "1,198",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Sennheiser Wireless Microphone System EW100 G4 835-S",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,200"
+    },
+    {
+        "names": "RODE Transformer-balanced 3.5mm TRS to XLR adaptor (VXLR PRO)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "390",
+        "water_price_min": "234",
+        "water_price_max": "234"
+    },
+    {
+        "names": "MIPRO 肩掛式無線揚聲器 + 無線發射器連頭戴式咪 MA100/ACT-58T(MU53HN)",
+        "rating": "",
+        "hon_price_min": "6,400",
+        "hon_price_max": "6,400"
+    },
+    {
+        "names": "SDRD 貓頭鷹K歌神器 雙人對唱版 SD-306",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "499",
+        "water_price_min": "250",
+        "water_price_max": "369"
+    },
+    {
+        "names": "ZOOM XLR Expander Capsule EXH-8",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "Synco Wireless lavaliere microphone system G2(A2)",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,550",
+        "water_price_min": "1,200",
+        "water_price_max": "1,200"
+    },
+    {
+        "names": "Neumann Studio Microphone U 87 Ai",
+        "rating": "",
+        "hon_price_min": "19,800",
+        "hon_price_max": "22,000"
+    },
+    {
+        "names": "PreSonus Quantum 2626 26x26 Thunderbolt 3 Audio Interface",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,800"
+    },
+    {
+        "names": "Beyerdynamic M 90 PRO X True Condenser Microphone",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,980",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Universal Audio 710 Twin-Finity Mic Preamps",
+        "rating": "",
+        "hon_price_min": "7,560",
+        "hon_price_max": "7,840",
+        "water_price_min": "6,840",
+        "water_price_max": "6,840"
+    },
+    {
+        "names": "Behringer X32 Producer 40-Input, 25-Bus Rack-Mountable Digital Mixing Console",
+        "rating": "",
+        "hon_price_min": "13,900",
+        "hon_price_max": "19,800"
+    },
+    {
+        "names": "Saramonic Blink500 B5 2.4Ghz 一對一無線單反領夾咪",
+        "rating": "10",
+        "hon_price_min": "816",
+        "hon_price_max": "1,760"
+    },
+    {
+        "names": "Blue Microphones Yeti X 988-000105 Black Microphone",
+        "rating": "10",
+        "hon_price_min": "1,639",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,889",
+        "water_price_max": "1,998"
+    },
+    {
+        "names": "Sennheiser Vocal Microphone E835S",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "890"
+    },
+    {
+        "names": "Hollyland Lark C1 Duo 一拖二無線收音系統  (iOS / Android)",
+        "rating": "",
+        "hon_price_min": "1,355",
+        "hon_price_max": "1,355"
+    },
+    {
+        "names": "BOYA USB Type-C Digital Stereo Microphone BY-DM100",
+        "rating": "6.0",
+        "hon_price_min": "280",
+        "hon_price_max": "380",
+        "water_price_min": "280",
+        "water_price_max": "400"
+    },
+    {
+        "names": "Saramonic Uwmic9 無線咪接收器 RX-XLR9",
+        "rating": "",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,600"
+    },
+    {
+        "names": "Comica BoomX-D2-Pro 一拖二無線咪",
+        "rating": "10",
+        "hon_price_min": "1,740",
+        "hon_price_max": "1,909",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "JBL 電容大振膜麥克風 KMC900",
+        "rating": "",
+        "water_price_min": "1,799",
+        "water_price_max": "2,199",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Okayo UHF無線接收主機 EJ-702DR SET",
+        "rating": "9.8",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,250",
+        "制式:": "電容式",
+        "阻抗:": "600Ω"
+    },
+    {
+        "names": "RODE Interview Go Handheld Adaptor for Wireless GO",
+        "rating": "10",
+        "hon_price_min": "260",
+        "hon_price_max": "270",
+        "water_price_min": "143",
+        "water_price_max": "143"
+    },
+    {
+        "names": "Behringer Wing-Dante WING Expansion Card for 64x64-Channel Audinate Dante AoIP Networking",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "5,060"
+    },
+    {
+        "names": "MAONO AU-100R Lavalier Rechargable Condenser Microphone",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "199",
+        "制式:": "電容式",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Focusrite Vocaster One Studio 直播套裝",
+        "rating": "",
+        "hon_price_min": "1,820",
+        "hon_price_max": "2,330",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "MAONO On-Camera Shotgun Microphone AU-CM10",
+        "rating": "8.0",
+        "hon_price_min": "258",
+        "hon_price_max": "499",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Behringer Analog Synthesizer PRO-1",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,580"
+    },
+    {
+        "names": "Sennheiser Camera-Mount Wireless lavalier Microphone System EW 122P G4",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "6,400"
+    },
+    {
+        "names": "ZOOM H4n Pro Black Handy Recorder",
+        "rating": "10",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,440",
+        "water_price_max": "1,680",
+        "錄音格式 :": "WAV, MP3"
+    },
+    {
+        "names": "Blue Microphones Yeti NANO",
+        "rating": "10",
+        "hon_price_min": "960",
+        "hon_price_max": "1,199",
+        "water_price_min": "599",
+        "water_price_max": "1,199",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Comica BoomX-D 無線咪系統 D2",
+        "rating": "9.0",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,938",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280"
+    },
+    {
+        "names": "ZOOM F6 Multi Track Field Recorder",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,200",
+        "water_price_min": "4,680",
+        "water_price_max": "4,680"
+    },
+    {
+        "names": "MIPRO 肩掛式無線揚聲器 + 手持式無線咪 MA100/ACT-58H",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000"
+    },
+    {
+        "names": "LEWITT 1\" Multi-pattern Studio Microphone LCT 441 FLEX",
+        "rating": "",
+        "hon_price_min": "3,192",
+        "hon_price_max": "3,192"
+    },
+    {
+        "names": "BOYA BY-WM4 Pro-K5 Wireless Microphone System for Android and Type-C Devices",
+        "rating": "",
+        "hon_price_min": "795",
+        "hon_price_max": "1,380",
+        "water_price_min": "1,060",
+        "water_price_max": "1,060"
+    },
+    {
+        "names": "Audio Technica 超心形動圈式咪高峰 AT2040",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "water_price_min": "998",
+        "water_price_max": "998",
+        "制式:": "動圈式",
+        "阻抗:": "600Ω"
+    },
+    {
+        "names": "Shure Desktop Stand for MV7 A13HDB",
+        "rating": "10",
+        "hon_price_min": "118",
+        "hon_price_max": "118"
+    },
+    {
+        "names": "MAONO MaonoCaster AU-AME2 Bundle Audio Mixer 混音連咪高峰及耳機套裝",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,099"
+    },
+    {
+        "names": "SmallRig Forevala W60 Wireless Microphone 3487",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,380"
+    },
+    {
+        "names": "LEWITT Small Diaphragm Condenser Microphone LCT 140 AIR",
+        "rating": "",
+        "hon_price_min": "1,272",
+        "hon_price_max": "1,272",
+        "制式:": "電容式"
+    },
+    {
+        "names": "RODE VideoMic NTG",
+        "rating": "10",
+        "hon_price_min": "1,890",
+        "hon_price_max": "2,080",
+        "water_price_min": "1,496",
+        "water_price_max": "1,650",
+        "最高頻率範圍:": "20000Hz",
+        "阻抗:": "10Ω"
+    },
+    {
+        "names": "BOYA BY-WM4 PRO-K4 Digital Wireless Microphone",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680"
+    },
+    {
+        "names": "Saramonic SmartMic UC Mini Professional Microphone for USB Type-C Device",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "380",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Mojave Dynamic Microphone MA-D",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "Saramonic Blink100 B4 2.4Ghz 一對二無線領夾咪",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "960",
+        "最高頻率範圍:": "16000Hz"
+    },
+    {
+        "names": "SDRD 無線K歌神器 雙人對唱 Disco幻彩燈效版 SD-308",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "499",
+        "water_price_min": "340",
+        "water_price_max": "438"
+    },
+    {
+        "names": "Promate ProMic-1 High Definition Omni-Directional Microphone with Flexible Gooseneck",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "198",
+        "最高頻率範圍:": "16000Hz",
+        "阻抗:": "低於 2200Ω"
+    },
+    {
+        "names": "BOYA BBY-M1000 大振膜電容麥克風",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "980",
+        "water_price_min": "699",
+        "water_price_max": "1,000"
+    },
+    {
+        "names": "ICKB So8 5th Paulo Mobile Live Broadcast Recording Sound Card Microphone Set 便攜式專業直播聲卡5代麥克風套餐",
+        "rating": "9.7",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480"
+    },
+    {
+        "names": "PreSonus Revelator io44 USB-C Audio Interface",
+        "rating": "",
+        "hon_price_min": "1,630",
+        "hon_price_max": "1,630"
+    },
+    {
+        "names": "Sennheiser Wireless Handheld Microphone System EW 100 G4-835-S",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,600"
+    },
+    {
+        "names": "Sennheiser XSW 1-825 DUAL",
+        "rating": "9.3",
+        "hon_price_min": "5,250",
+        "hon_price_max": "5,500",
+        "water_price_min": "4,500",
+        "water_price_max": "4,500"
+    },
+    {
+        "names": "BOYA Digital Dual Lavalier Microphones for iOS Devices 雙麥頭全向型領夾式電容麥克風 BY-M2D",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "450",
+        "water_price_min": "380",
+        "water_price_max": "420",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "BOYA Mininature Condenser Microphone BY-M100D",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "420",
+        "制式:": "電容式",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "Remax 1套2粒無線高清收音咪 K03",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Behringer DAW Controllers X-Touch",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,610",
+        "water_price_min": "4,160",
+        "water_price_max": "4,160"
+    },
+    {
+        "names": "Multipro Type-C Lavalier Microphone JBC-051",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "129"
+    },
+    {
+        "names": "BOYA BY-DMR7",
+        "rating": "2.0",
+        "hon_price_min": "880",
+        "hon_price_max": "1,130",
+        "water_price_min": "880",
+        "water_price_max": "1,210"
+    },
+    {
+        "names": "BOYA BY-WM8 Pro-K2 HK",
+        "rating": "10",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,199",
+        "water_price_max": "1,500"
+    },
+    {
+        "names": "PreSonus StudioLive 32s 32-Channel Digital Mixer and USB Audio Interface",
+        "rating": "",
+        "hon_price_min": "26,400",
+        "hon_price_max": "26,400"
+    },
+    {
+        "names": "MAONO USB Gaming Microphone with Mic Gain (AU-PM461TR)",
+        "rating": "9.3",
+        "hon_price_min": "199",
+        "hon_price_max": "279"
+    },
+    {
+        "names": "BOYA Audio Adapter for XLR Microphones to Mobile Devices 音頻轉接器 BY-BCA70",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "640",
+        "water_price_min": "450",
+        "water_price_max": "450"
+    },
+    {
+        "names": "SDRD 無線K歌神器 雙人對唱專業版 (2x15W喇叭) BT5.0 SD-318",
+        "rating": "10",
+        "hon_price_min": "540",
+        "hon_price_max": "559"
+    },
+    {
+        "names": "BOYA 心型人聲拾音動圈麥克風 BY-BM58",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "499",
+        "制式:": "動圈式",
+        "阻抗:": "300Ω"
+    },
+    {
+        "names": "LEWITT 1\" Multi-pattern Tube Microphone LCT 840",
+        "rating": "",
+        "hon_price_min": "9,520",
+        "hon_price_max": "9,592",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Hollyland Solidcom C1-3S 頭戴一體式無線對話系統 (3 headset)",
+        "rating": "",
+        "hon_price_min": "5,840",
+        "hon_price_max": "5,840",
+        "最高頻率範圍:": "7000Hz"
+    },
+    {
+        "names": "Philips 飛利浦 Voice Tracer 數碼錄音筆 VTR5200",
+        "rating": "10",
+        "hon_price_min": "428",
+        "hon_price_max": "500",
+        "錄音格式 :": "MP3",
+        "內置容量:": "8GB"
+    },
+    {
+        "names": "Focusrite Scarlett 8i6 Gen 3 USB音頻MIDI接口",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,380"
+    },
+    {
+        "names": "純麥 無線K歌麥克風智能點唱機 K2",
+        "rating": "",
+        "water_price_min": "2,180",
+        "water_price_max": "2,180"
+    },
+    {
+        "names": "PreSonus DigiMax DP88 8-Channel A/D/A Converter with Remote Preamps",
+        "rating": "",
+        "hon_price_min": "6,590",
+        "hon_price_max": "6,590"
+    },
+    {
+        "names": "RODE VideoMic Me-C Directional Microphone For USB C Devices",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "water_price_min": "465",
+        "water_price_max": "530",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "MIPRO 肩掛式無線揚聲器 + 無線發射器連領夾式咪 MA100/ACT-58T(MU53L)",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000"
+    },
+    {
+        "names": "iSK Cardioid Condenser Microphone 電容式麥克風 S700",
+        "rating": "9.0",
+        "hon_price_min": "668",
+        "hon_price_max": "828",
+        "water_price_min": "668",
+        "water_price_max": "699",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "BOYA BY-DM1 metal microphone",
+        "rating": "8.0",
+        "hon_price_min": "450",
+        "hon_price_max": "580",
+        "water_price_min": "348",
+        "water_price_max": "460",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Sony 槍型指向麥克風 ECM-B1M",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,980"
+    },
+    {
+        "names": "Odoyo 專業動圈有線麥克風 VM-S5200",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "制式:": "動圈式",
+        "阻抗:": "600Ω"
+    },
+    {
+        "names": "Warm Audio Tube Condenser Microphone WA-8000",
+        "rating": "",
+        "hon_price_min": "9,420",
+        "hon_price_max": "9,700",
+        "制式:": "電容式",
+        "阻抗:": "100Ω"
+    },
+    {
+        "names": "BOYA Mininature Condenser Microphone BY-M100UC",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "430",
+        "制式:": "電容式",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "RODE RØDECaster Pro Interface",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,980",
+        "water_price_min": "3,763",
+        "water_price_max": "4,250",
+        "最高頻率範圍:": "20000Hz",
+        "阻抗:": "(Mic Preamplifiers) 600Ω"
+    },
+    {
+        "names": "JBL Dual-Channel Wireless Microphone System VM200",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,880",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "BOYA BY-M2 Clip-on Lavalier麥克風 for iOS devices",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "380",
+        "water_price_min": "200",
+        "water_price_max": "400"
+    },
+    {
+        "names": "MAONO Maonocaster AU-AM100 K1 混音工作台 MM-AM100K1",
+        "rating": "",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,999"
+    },
+    {
+        "names": "BOYA 2.4GHz Wireless Receiver For Type-C devices (BY-WM4-RXU)",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "600"
+    },
+    {
+        "names": "Sogou 搜狗 AI錄音筆+拍照錄像翻譯機 (支持廣東話) E2",
+        "rating": "",
+        "water_price_min": "1,980",
+        "water_price_max": "2,480",
+        "內置容量:": "32GB"
+    },
+    {
+        "names": "JBL 藍牙無線便攜式智能話筒麥克風 KMC500",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "899",
+        "water_price_max": "1,099"
+    },
+    {
+        "names": "NZXT Capsule Cardioid USB Microphone 心型指向性麥克風",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "1,098"
+    },
+    {
+        "names": "RODE Compact USB-C Condenser Microphone 專業電容式麥克風 XCM-50",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "water_price_min": "870",
+        "water_price_max": "1,050",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20Hz-20kHz"
+    },
+    {
+        "names": "MAONO Professional USB Cardioid Condenser Microphone Kit AU-A04TR",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "298",
+        "制式:": "電容式",
+        "最高頻率範圍:": "16000Hz"
+    },
+    {
+        "names": "PreSonus AudioBox GO 2x2 USB Audio Interface",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800"
+    },
+    {
+        "names": "BOYA BY-M8OD Lavalier Microphone",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "600",
+        "water_price_min": "498",
+        "water_price_max": "620",
+        "最高頻率範圍:": "18000Hz",
+        "阻抗:": "200Ω"
+    },
+    {
+        "names": "Sennheiser Dynamic Vocal Microphone 動圈式有線咪高峰 MD 445",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "制式:": "動圈式",
+        "阻抗:": "245Ω"
+    },
+    {
+        "names": "Saramonic Blink500 Pro B4 2.4Ghz 一對二無線手機領夾咪",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "CyberTech Vlog 2.4G Wireless Microphone Type C 一對二無線咪系統",
+        "rating": "9.8",
+        "hon_price_min": "369",
+        "hon_price_max": "388",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "LEWITT Dynamic Handheld Microphone MTP 250 DM",
+        "rating": "",
+        "hon_price_min": "615",
+        "hon_price_max": "792"
+    },
+    {
+        "names": "JLab Audio Talk USB Microphone",
+        "rating": "6.0",
+        "hon_price_min": "738",
+        "hon_price_max": "999",
+        "water_price_min": "910",
+        "water_price_max": "910",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "MAONO USB-C Studio Set AU-903S",
+        "rating": "10",
+        "hon_price_min": "760",
+        "hon_price_max": "899"
+    },
+    {
+        "names": "SmarterWare 專業無線麥克風 2.4G Wireless Microphone System E308",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "380"
+    },
+    {
+        "names": "PreSonus ATOM SQ Hybrid MIDI Keyboard / Pad Performance and Production Controller",
+        "rating": "",
+        "hon_price_min": "2,290",
+        "hon_price_max": "2,880"
+    },
+    {
+        "names": "Sennheiser XSW-D PEDALBOARD SET",
+        "rating": "10",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980"
+    },
+    {
+        "names": "LEWITT Instrument Condenser Microphone LCT 040 MATCH",
+        "rating": "",
+        "hon_price_min": "792",
+        "hon_price_max": "792",
+        "制式:": "電容式"
+    },
+    {
+        "names": "ZOOM Q2n-4K",
+        "rating": "4.0",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,800",
+        "water_price_min": "1,450",
+        "water_price_max": "1,580"
+    },
+    {
+        "names": "Maono Lavalier Microphone 7 Dual",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "Xiaomi 小米 K歌麥克風 XMKGMKF01YM",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "499",
+        "water_price_min": "465",
+        "water_price_max": "465"
+    },
+    {
+        "names": "Sennheiser Omni-directional Instrument Microphone MKH 8020 Stereo set",
+        "rating": "",
+        "hon_price_min": "18,900",
+        "hon_price_max": "19,500",
+        "制式:": "電容式",
+        "阻抗:": "25Ω"
+    },
+    {
+        "names": "Synco WAir-G1 A1 一拖一無線收音系統",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "790"
+    },
+    {
+        "names": "SmarterWare 迷你無線K歌神器 BT5.0 D20",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "LEWITT 1\" True Condenser Studio Microphone LCT 440 PURE",
+        "rating": "10",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,312",
+        "制式:": "電容式"
+    },
+    {
+        "names": "LENSGO 2.4Ghz Wireless Microphone Recorder 1V1 348C 一對一無綫收音咪錄音筆",
+        "rating": "10",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380"
+    },
+    {
+        "names": "TKU Wireless UHF Microphone 夾領式UHF高清無線咪 KX6512D",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268"
+    },
+    {
+        "names": "PreSonus Studio 68c 6x6 USB Type-C Audio Interface",
+        "rating": "",
+        "hon_price_min": "2,810",
+        "hon_price_max": "3,100"
+    },
+    {
+        "names": "Saramonic SoundBird V1 超心形槍式XLR麥克風",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,560",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Warm Audio Dual-Channel British Mic Preamplifier WA273",
+        "rating": "",
+        "hon_price_min": "8,900",
+        "hon_price_max": "8,900"
+    },
+    {
+        "names": "RODE VideoMic Pro",
+        "rating": "9.9",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,970",
+        "water_price_min": "1,280",
+        "water_price_max": "1,450"
+    },
+    {
+        "names": "RODE Compact Audio Interface AI-Micro",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "780",
+        "water_price_min": "434",
+        "water_price_max": "434",
+        "最高頻率範圍:": "20Hz to 20kHz",
+        "阻抗:": "32Ω"
+    },
+    {
+        "names": "MAONO USB Microphone with Storage AU-A04TC",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "Comica BoomX-U UHF U2 1拖2微型無線咪",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,698",
+        "water_price_min": "1,400",
+        "water_price_max": "1,530"
+    },
+    {
+        "names": "Thronmax MDrill Dome",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "552",
+        "錄音格式 :": "48khz / 16bit",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Focusrite 音訊轉換器 Scarlett 4i4 (3rd)",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,880"
+    },
+    {
+        "names": "Sennheiser Vocal Wireless Microphone System EW 100 G4-865-S",
+        "rating": "",
+        "hon_price_min": "8,000",
+        "hon_price_max": "8,000"
+    },
+    {
+        "names": "Deity VO-7U USB Streamer Microphone Boom Arm Kit 套裝版",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "制式:": "動圈式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Sennheiser Dynamic Vocal Microphone 動圈人聲咪高峰 MD 435",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "制式:": "動圈式",
+        "阻抗:": "245Ω"
+    },
+    {
+        "names": "RODE RF-Bias Shotgun Microphone NTG3B",
+        "rating": "",
+        "hon_price_min": "4,810",
+        "hon_price_max": "5,940",
+        "water_price_min": "3,666",
+        "water_price_max": "4,900",
+        "最高頻率範圍:": "20000Hz",
+        "阻抗:": "25Ω"
+    },
+    {
+        "names": "RODE Podcaster",
+        "rating": "10",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,950",
+        "water_price_min": "1,910",
+        "water_price_max": "1,910",
+        "制式:": "動圈式",
+        "最高頻率範圍:": "14000Hz"
+    },
+    {
+        "names": "DPA d:facto 4018V Softboost Supercardioid Mic, SL1 Adapter 4018V-B-SL1",
+        "rating": "",
+        "hon_price_min": "6,640",
+        "hon_price_max": "6,640",
+        "water_price_min": "6,460",
+        "water_price_max": "6,460"
+    },
+    {
+        "names": "MIPRO MR-811",
+        "rating": "10",
+        "hon_price_min": "1,600",
+        "hon_price_max": "1,600"
+    },
+    {
+        "names": "LEWITT Handheld Performance Microphone MTP 550 DM",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "1,032"
+    },
+    {
+        "names": "Blue Microphones Yeticaster Pro Broadcast Bundle With Yeti, Radius III & Compass",
+        "rating": "10",
+        "hon_price_min": "1,998",
+        "hon_price_max": "2,978",
+        "water_price_min": "2,480",
+        "water_price_max": "2,480",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "TOSING 蘑菇麥克風手持式麥克風 V3",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Sony 領夾式立體聲麥克風 ECM-LV1",
+        "rating": "8.0",
+        "hon_price_min": "250",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "ZOOM Podcast Dynamic Microphone ZDM-1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "680",
+        "water_price_min": "500",
+        "water_price_max": "500",
+        "制式:": "動圈式"
+    },
+    {
+        "names": "Shure SV100",
+        "rating": "8.0",
+        "hon_price_min": "240",
+        "hon_price_max": "328"
+    },
+    {
+        "names": "Elgato Wave Pop Filter Anti-Plosive Noise Shield",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Ckmova 專業全向型電容雙咪頭領夾式收音咪 LCM6CD",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "制式:": "電容式",
+        "阻抗:": "2200Ω"
+    },
+    {
+        "names": "Thronmax Pulse USB Microphone",
+        "rating": "10",
+        "hon_price_min": "395",
+        "hon_price_max": "490",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Warm Audio Optical Compressor WA-2A",
+        "rating": "",
+        "hon_price_min": "7,260",
+        "hon_price_max": "7,680"
+    },
+    {
+        "names": "Deity V-Mic D4 收音咪",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Shure MV51-A",
+        "rating": "8.0",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,480"
+    },
+    {
+        "names": "PreSonus StudioLive AR8c 8-channel USB-C Compatible Audio Interface / Analog Mixer / Stereo SD Recorder",
+        "rating": "",
+        "hon_price_min": "4,100",
+        "hon_price_max": "4,100"
+    },
+    {
+        "names": "Nubwo 狼博旺 Gaming USB Microphone 電容式麥克風 (免驅動) M31",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "139",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Universal Audio Volt 4 USB Audio Interface",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,300",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880"
+    },
+    {
+        "names": "ZOOM H5",
+        "rating": "8.7",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,200",
+        "water_price_min": "1,500",
+        "water_price_max": "1,550"
+    },
+    {
+        "names": "Sennheiser XSW 1-ME3",
+        "rating": "8.0",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580"
+    },
+    {
+        "names": "Hopewell 有線咪高峰 MOK-330",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "512 Audio Limelight Dynamic Vocal XLR Mic",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,880",
+        "制式:": "動圈式",
+        "阻抗:": "600Ω"
+    },
+    {
+        "names": "Philips 飛利浦 VTR5110",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "480"
+    },
+    {
+        "names": "ZOOM H1n Handy Recorder",
+        "rating": "9.0",
+        "hon_price_min": "890",
+        "hon_price_max": "980",
+        "water_price_min": "720",
+        "water_price_max": "780",
+        "錄音格式 :": "PCM / WAV"
+    },
+    {
+        "names": "Focusrite Vocaster One 直播錄音介面",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,560"
+    },
+    {
+        "names": "Blackmagic Design UltraStudio Recorder 3G",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,100"
+    },
+    {
+        "names": "DPA SE5 Adapter for d:facto Vocal Microphone (Sennheiser 5200) (FAASE5B)",
+        "rating": "",
+        "hon_price_min": "1,940",
+        "hon_price_max": "2,030"
+    },
+    {
+        "names": "Audio Technica 攝錄機立體聲咪高峰 AT9945CM",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "1,480",
+        "最高頻率範圍:": "12000Hz",
+        "阻抗:": "2300Ω"
+    },
+    {
+        "names": "RODE VideoMic Me",
+        "rating": "10",
+        "hon_price_min": "400",
+        "hon_price_max": "460",
+        "water_price_min": "365",
+        "water_price_max": "450",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "RODE VideoMic GO",
+        "rating": "9.8",
+        "hon_price_min": "570",
+        "hon_price_max": "740",
+        "water_price_min": "424",
+        "water_price_max": "620"
+    },
+    {
+        "names": "DPA Compact Preamp Shotgun Microphone 4017C",
+        "rating": "",
+        "hon_price_min": "11,300",
+        "hon_price_max": "12,000"
+    },
+    {
+        "names": "Universal Audio Apollo X4 Heritage Edition",
+        "rating": "",
+        "hon_price_min": "16,200",
+        "hon_price_max": "17,500",
+        "water_price_min": "14,680",
+        "water_price_max": "14,680"
+    },
+    {
+        "names": "RODE 電容式麥克風套組 NT1 Kit",
+        "rating": "10",
+        "hon_price_min": "2,270",
+        "hon_price_max": "2,290",
+        "water_price_min": "1,626",
+        "water_price_max": "2,280",
+        "制式:": "電容式",
+        "阻抗:": "100Ω"
+    },
+    {
+        "names": "Shure MOTIV MV5 數碼電容式咪高風",
+        "rating": "10",
+        "hon_price_min": "698",
+        "hon_price_max": "968",
+        "制式:": "電容式"
+    },
+    {
+        "names": "BOYA BY-V01",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "water_price_min": "180",
+        "water_price_max": "270",
+        "錄音格式 :": "Compact stereo microphone"
+    },
+    {
+        "names": "SAMSON Concert 99 Earset Frequency-Agile UHF Wireless System",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980"
+    },
+    {
+        "names": "DPA 4466 CORE Omni Headset Mic, Brown, MicroDot 4466-OC-R-C00",
+        "rating": "",
+        "hon_price_min": "5,320",
+        "hon_price_max": "5,320"
+    },
+    {
+        "names": "RODE M5 Matched Pair",
+        "rating": "9.4",
+        "hon_price_min": "1,690",
+        "hon_price_max": "2,129",
+        "water_price_min": "1,360",
+        "water_price_max": "1,680",
+        "制式:": "電容式",
+        "阻抗:": "200Ω"
+    },
+    {
+        "names": "Mojave Large Diaphragm Vacuum Tube Condenser Microphone MA-200SN",
+        "rating": "",
+        "hon_price_min": "9,420",
+        "hon_price_max": "9,420",
+        "制式:": "電容式",
+        "阻抗:": "200Ω"
+    },
+    {
+        "names": "Maono USB夾式電容咪(MM-M411) AU-411",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "220",
+        "制式:": "電容式",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "HOPEWELL DM-263",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "78"
+    },
+    {
+        "names": "Sennheiser E845 S",
+        "rating": "10",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,150"
+    },
+    {
+        "names": "MAONO S02 Isolation Shield 42*30 MM-AUS02",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "Sennheiser XSW 1-835",
+        "rating": "9.0",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,080",
+        "water_price_min": "2,880",
+        "water_price_max": "2,880"
+    },
+    {
+        "names": "DPA 4466 CORE Omni Headset Mic, Black, MicroDot 4466-OC-R-B00",
+        "rating": "",
+        "hon_price_min": "4,930",
+        "hon_price_max": "5,040"
+    },
+    {
+        "names": "Elgato Wave:1 專業麥克風",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,050",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "RODE SC4",
+        "rating": "10",
+        "hon_price_min": "130",
+        "hon_price_max": "180",
+        "water_price_min": "85",
+        "water_price_max": "85"
+    },
+    {
+        "names": "BOYA BY-PVM3000S 專業槍式麥克風",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,600",
+        "water_price_max": "1,600"
+    },
+    {
+        "names": "DPA 6066 CORE Omni Headset Mic, Beige, MicroDot 6066-OC-R-F00",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,860"
+    },
+    {
+        "names": "BOYA BY-M3 Digital Lavalier Microphone",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "380",
+        "water_price_min": "288",
+        "water_price_max": "400"
+    },
+    {
+        "names": "BOYA 2.4GHz Ultra-Compact Wireless Microphone System Kit BY-XM6-K2",
+        "rating": "",
+        "hon_price_min": "1,598",
+        "hon_price_max": "1,598",
+        "最高頻率範圍:": "18000Hz"
+    },
+    {
+        "names": "BOYA Super-Cardioid Condenser Microphone BY-MM1+",
+        "rating": "10",
+        "hon_price_min": "139",
+        "hon_price_max": "390",
+        "water_price_min": "218",
+        "water_price_max": "320",
+        "制式:": "電容式"
+    },
+    {
+        "names": "ZOOM F1 Field Recorder + Lavalier Mic (F1-LP)",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,240",
+        "water_price_max": "1,480",
+        "錄音格式 :": "WAV 44.1 kHz/16-bit, 48 kHz/16-bit, 48 kHz/24-bit, 96 kHz/24-bit   MP3 48 kbps, 128 kbps, 192 kbps, 256 kbps, 320 kbps Mono/stereo ID3v1 tags supported",
+        "阻抗:": "高於 2000Ω"
+    },
+    {
+        "names": "Audio Technica 心形指向性USB電容咪高峰 AT2020USBi",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,499",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "MAONO AU-A03 Condenser Microphone Kit",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "DPA 4088 CORE Directional Headset Mic, Beige, MicroDot 4088-DC-A-F00-LH",
+        "rating": "",
+        "hon_price_min": "5,120",
+        "hon_price_max": "5,200"
+    },
+    {
+        "names": "Yanmai USB Professional Computer Microphone GM-888",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "最高頻率範圍:": "16000Hz",
+        "阻抗:": "6800Ω"
+    },
+    {
+        "names": "Universal Audio Volt 2 USB Audio Interface",
+        "rating": "10",
+        "hon_price_min": "1,520",
+        "hon_price_max": "1,680",
+        "water_price_min": "1,350",
+        "water_price_max": "1,350",
+        "錄音格式 :": "24/192"
+    },
+    {
+        "names": "Zoom LiveTrak L‑20 20-Input Digital Mixer & Multitrack Recorder",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,800",
+        "water_price_min": "5,800",
+        "water_price_max": "6,600"
+    },
+    {
+        "names": "Saramonic Vmic Mini 迷你指向性電容收音咪",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "480",
+        "制式:": "電容式",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "BOYA BY-HM100",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470"
+    },
+    {
+        "names": "MIPRO 1U Dual-Channel UHF Wideband Digital Receiver ACT828 mkII",
+        "rating": "",
+        "hon_price_min": "14,500",
+        "hon_price_max": "14,500"
+    },
+    {
+        "names": "Thronmax MDrill One Kit",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "870",
+        "錄音格式 :": "48khz / 16bit",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Blue Microphones Bluebird SL Large-diaphragm Studio Condenser Microphone",
+        "rating": "",
+        "hon_price_min": "3,239",
+        "hon_price_max": "3,599",
+        "water_price_min": "3,688",
+        "water_price_max": "3,688",
+        "制式:": "電容式",
+        "阻抗:": "50Ω"
+    },
+    {
+        "names": "RODE NTG8",
+        "rating": "",
+        "hon_price_min": "7,960",
+        "hon_price_max": "7,970",
+        "water_price_min": "5,507",
+        "water_price_max": "5,507",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Rapoo 雙指向RGB背光遊戲麥克風 VS500",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "Olympus WS-853",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "750",
+        "water_price_min": "650",
+        "water_price_max": "690",
+        "錄音格式 :": "MP3",
+        "內置容量:": "8GB"
+    },
+    {
+        "names": "BOYA DJI OSMO Pocket Custom Mic BY-DM100-OP",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "Hopewell VHF無線咪高峰 (手持式，單咪) WM-4300",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "最高頻率範圍:": "15000Hz"
+    },
+    {
+        "names": "Solid State Logic SSL Connex Advanced USB Microphone",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,280"
+    },
+    {
+        "names": "RODE DeadCat Go Artificial Fur Wind Shield",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "280",
+        "water_price_min": "153",
+        "water_price_max": "153"
+    },
+    {
+        "names": "BOYA BY-LM400",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "water_price_min": "250",
+        "water_price_max": "250"
+    },
+    {
+        "names": "Sennheiser Wireless Headmic Microphone Speakers Singers XSW2-ME3",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580"
+    },
+    {
+        "names": "Shure SV-100",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "320"
+    },
+    {
+        "names": "Sony ICD-PX470",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "680",
+        "water_price_min": "420",
+        "water_price_max": "499"
+    },
+    {
+        "names": "Shure PGA58",
+        "rating": "9.3",
+        "hon_price_min": "450",
+        "hon_price_max": "780"
+    },
+    {
+        "names": "PreSonus Quantum 2 22x24 Thunderbolt Audio Interface",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,880"
+    },
+    {
+        "names": "BOYA 可調式3.5mmTRS插孔麥克風 BY-UM2",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190"
+    },
+    {
+        "names": "Creative Live! Mic M3 USB microphone 咪高峰",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "588",
+        "water_price_min": "538",
+        "water_price_max": "538",
+        "錄音格式 :": "PCM Stereo 44.1K / 48K / 88.2K / 96 kHz, 16 / 24-bit",
+        "最高頻率範圍:": "18000Hz",
+        "阻抗:": "32Ω"
+    },
+    {
+        "names": "Universal Audio Apollo Twin X Quad Heritage Edition",
+        "rating": "",
+        "hon_price_min": "12,100",
+        "hon_price_max": "12,500",
+        "water_price_min": "10,980",
+        "water_price_max": "10,980"
+    },
+    {
+        "names": "BOYA 手持式無線麥克風 By-Whm8 Pro",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "BOYA Wireless Microphone BY-WM4 Mark II",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "790",
+        "water_price_min": "600",
+        "water_price_max": "600",
+        "最高頻率範圍:": "14000Hz"
+    },
+    {
+        "names": "Behringer Analog Mixers QX1222USB",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,520"
+    },
+    {
+        "names": "Saramonic Blink500 B2 2.4Ghz 一對二無線領夾咪",
+        "rating": "10",
+        "hon_price_min": "960",
+        "hon_price_max": "1,760",
+        "water_price_min": "2,015",
+        "water_price_max": "2,015"
+    },
+    {
+        "names": "Blue Microphones Baby Bottle SL Large-Diaphragm Studio Condenser Microphone",
+        "rating": "",
+        "hon_price_min": "4,049",
+        "hon_price_max": "4,499",
+        "制式:": "電容式",
+        "阻抗:": "50Ω"
+    },
+    {
+        "names": "Behringer Audiophile 2x2, 24-Bit/192 kHz USB Audio Interface with Midas Mic Preamplifiers UMC202HD",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "1,100",
+        "water_price_min": "850",
+        "water_price_max": "950"
+    },
+    {
+        "names": "TASCAM 動圈式麥克風 TM-70",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "999",
+        "water_price_min": "550",
+        "water_price_max": "600",
+        "錄音格式 :": "Dynamic 動圈式",
+        "阻抗:": "250Ω"
+    },
+    {
+        "names": "Solid State Logic VHD+ Pre Module",
+        "rating": "",
+        "hon_price_min": "4,790",
+        "hon_price_max": "5,150"
+    },
+    {
+        "names": "Yanmai Capacitor Microphone for Game Anchor Live Broadcasting T1",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "最高頻率範圍:": "20000Hz",
+        "阻抗:": "2200Ω"
+    },
+    {
+        "names": "Shure MV5",
+        "rating": "9.0",
+        "hon_price_min": "698",
+        "hon_price_max": "1,100"
+    },
+    {
+        "names": "YAMAHA MG Series 10頻道USB模擬調音台 MG10XUF",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "2,550"
+    },
+    {
+        "names": "RODE DeadCat VMP+",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "450",
+        "water_price_min": "255",
+        "water_price_max": "255"
+    },
+    {
+        "names": "Mojave Large Diaphragm Cardioid Transformerless Condenser Microphone MA-50BK",
+        "rating": "",
+        "hon_price_min": "4,700",
+        "hon_price_max": "4,700",
+        "制式:": "電容式",
+        "阻抗:": "<100Ω"
+    },
+    {
+        "names": "Saramonic SR-AXM3",
+        "rating": "",
+        "hon_price_min": "1,610",
+        "hon_price_max": "1,610"
+    },
+    {
+        "names": "MAONO USB Podcast Microphone Set with Two Modes Stands AU-902S",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "779",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Sennheiser XSW 65",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,100"
+    },
+    {
+        "names": "MAONO 專業心形聲音 XLR 電容麥克風套件 AU-PM320S",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "499",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Ckmova Type-C 升級版全向型領夾收音咪 LCM2C",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "249",
+        "制式:": "電容式",
+        "阻抗:": "2200Ω"
+    },
+    {
+        "names": "Saramonic CaMixer",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "960"
+    },
+    {
+        "names": "TASCAM XLR Microphone Adapter Kit for Fujifilm Cameras CA-XLR2d-F",
+        "rating": "",
+        "water_price_min": "3,980",
+        "water_price_max": "3,980"
+    },
+    {
+        "names": "LENSGO Video & On-Camera Microphone LYM-DM200",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990"
+    },
+    {
+        "names": "RODE Professional USB Microphone NT-USB+",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,610",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Sony ECM-XYST1M",
+        "rating": "10",
+        "hon_price_min": "920",
+        "hon_price_max": "1,050"
+    },
+    {
+        "names": "Razer Seiren V2 X USB 動態電容式麥克風",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "制式:": "電容式"
+    },
+    {
+        "names": "BOYA BY-BCA6 XLR to 3.5mm Plug Microphone Cable",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Ckmova USB電容領夾收音咪 LUM2",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "150",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Sennheiser Vocal & Instrument Wireless Microphone System EW 100 G4-845-S",
+        "rating": "",
+        "hon_price_min": "7,000",
+        "hon_price_max": "7,000"
+    },
+    {
+        "names": "RODE NTG2",
+        "rating": "8.0",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,290",
+        "water_price_min": "1,390",
+        "water_price_max": "1,390",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Saramonic LC-C35",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490"
+    },
+    {
+        "names": "Multipro 電容麥套裝 USB頭 BM-858",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "399",
+        "制式:": "電容式"
+    },
+    {
+        "names": "BOYA BY-PVM1000L Shotgun Microphone",
+        "rating": "9.0",
+        "hon_price_min": "760",
+        "hon_price_max": "760",
+        "water_price_min": "580",
+        "water_price_max": "820",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "Sennheiser EW135 G3",
+        "rating": "",
+        "hon_price_min": "6,340",
+        "hon_price_max": "6,400"
+    },
+    {
+        "names": "Marvo Desktop USB Microphone MIC-03",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "378",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "ZOOM H2nt Handy Recorder",
+        "rating": "10",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,730",
+        "water_price_min": "980",
+        "water_price_max": "1,390",
+        "錄音格式 :": "MP3 / WAV"
+    },
+    {
+        "names": "TASCAM 4-Track Handheld Recorder With Wi-Fi Functionality DR-44WLB",
+        "rating": "",
+        "water_price_min": "2,180",
+        "water_price_max": "2,180",
+        "阻抗:": "12Ω"
+    },
+    {
+        "names": "MIPRO ACT-646",
+        "rating": "",
+        "hon_price_min": "11,700",
+        "hon_price_max": "11,880"
+    },
+    {
+        "names": "Saramonic UwMic9 (TX9+TX9+RX9)",
+        "rating": "8.0",
+        "hon_price_min": "2,960",
+        "hon_price_max": "3,180"
+    },
+    {
+        "names": "Warm Audio Direct Box Passive WA-DI-P",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "1,210"
+    },
+    {
+        "names": "Elephant E-MIC 004",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "59"
+    },
+    {
+        "names": "Joby Wavo POD Podcast Microphone JB01775-BWW",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "water_price_min": "638",
+        "water_price_max": "638"
+    },
+    {
+        "names": "Apogee Sennheiser Ambeo Smart 3D Microphone / Headset",
+        "rating": "9.8",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580"
+    },
+    {
+        "names": "CyberTech Vlog 2.4G Wireless Microphone iOS Lightning 一對二無線咪系統",
+        "rating": "9.3",
+        "hon_price_min": "369",
+        "hon_price_max": "388",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "最高頻率範圍:": "20000Hz"
+    },
+    {
+        "names": "MAONO AU-CM10S Shotgun Microphone MM-MCM10S",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Neumann Stage Microphone KMS105",
+        "rating": "",
+        "hon_price_min": "4,490",
+        "hon_price_max": "6,400"
+    },
+    {
+        "names": "Sennheiser MD 42",
+        "rating": "",
+        "hon_price_min": "2,470",
+        "hon_price_max": "2,800"
+    },
+    {
+        "names": "Audio Technica ATR2500-USB",
+        "rating": "9.4",
+        "water_price_min": "770",
+        "water_price_max": "780"
+    },
+    {
+        "names": "Sennheiser E609",
+        "rating": "",
+        "hon_price_min": "1,110",
+        "hon_price_max": "1,120"
+    },
+    {
+        "names": "Sony 槍型收音咪 ECM-VG1",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "2,380",
+        "制式:": "電容式"
+    },
+    {
+        "names": "PreSonus Battery-Powered Stereo Headphone Amplifier HP2",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,040"
+    },
+    {
+        "names": "BOYA USB Condenser Microphone BY-PM700",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "980",
+        "water_price_min": "550",
+        "water_price_max": "1,000",
+        "制式:": "電容式",
+        "阻抗:": "16Ω"
+    },
+    {
+        "names": "TOSING 途訊 Candy 糖果無線K歌麥克風 015",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "258"
+    },
+    {
+        "names": "ZOOM R24 Multitrack SD Recorder Controller and Interface",
+        "rating": "",
+        "hon_price_min": "4,760",
+        "hon_price_max": "4,760",
+        "water_price_min": "4,260",
+        "water_price_max": "4,260"
+    },
+    {
+        "names": "MAONO USB Podcast Microphone Set AU-PM422T",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "699",
+        "制式:": "電容式"
+    },
+    {
+        "names": "Softube Console 1 MKII & Fader Stand",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,000"
+    }
+]

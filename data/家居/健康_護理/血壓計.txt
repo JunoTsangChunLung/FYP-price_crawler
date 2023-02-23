@@ -1,0 +1,2690 @@
+[
+    {
+        "names": "Omron 藍牙手臂式血壓計 HEM-7157T",
+        "rating": "9.6",
+        "hon_price_min": "599",
+        "hon_price_max": "820",
+        "種類:": "手臂式",
+        "記憶功能:": "100組記憶"
+    },
+    {
+        "names": "Omron 手臂式血壓計 HEM-7156",
+        "rating": "9.2",
+        "hon_price_min": "560",
+        "hon_price_max": "699",
+        "water_price_min": "525",
+        "water_price_max": "550",
+        "種類:": "手臂式",
+        "記憶功能:": "60組記憶"
+    },
+    {
+        "names": "Omron 藍牙手臂式血壓計 JPN610T",
+        "rating": "9.7",
+        "hon_price_min": "780",
+        "hon_price_max": "1,228",
+        "種類:": "手臂式",
+        "記憶功能:": "100組"
+    },
+    {
+        "names": "Omron 藍牙手臂式血壓計 JPN616T",
+        "rating": "9.3",
+        "hon_price_min": "860",
+        "hon_price_max": "1,500",
+        "種類:": "手臂式",
+        "記憶功能:": "100組 x 2"
+    },
+    {
+        "names": "Omron 手腕式血壓計 HEM-6161",
+        "rating": "9.5",
+        "hon_price_min": "360",
+        "hon_price_max": "568",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Omron 藍牙連接智慧型手臂式血壓計 HEM-7281T",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,090",
+        "water_price_min": "950",
+        "water_price_max": "990",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Omron HEM-7130",
+        "rating": "10",
+        "hon_price_min": "510",
+        "hon_price_max": "699",
+        "water_price_min": "348",
+        "water_price_max": "458",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60組"
+    },
+    {
+        "names": "Omron 手臂式血壓計 HEM-1000",
+        "rating": "9.7",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,280",
+        "water_price_min": "978",
+        "water_price_max": "998",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 藍牙手腕式血壓計 HEM-6232T",
+        "rating": "9.2",
+        "hon_price_min": "500",
+        "hon_price_max": "699",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Panasonic 樂聲 手臂式電子血壓計 EW-BU15",
+        "rating": "9.5",
+        "hon_price_min": "326",
+        "hon_price_max": "518",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手臂式血壓計 HEM-8712",
+        "rating": "9.5",
+        "hon_price_min": "368",
+        "hon_price_max": "599",
+        "water_price_min": "250",
+        "water_price_max": "280",
+        "種類:": "手臂式",
+        "記憶功能:": "1個"
+    },
+    {
+        "names": "Omron 上臂式藍牙血壓計 J750",
+        "rating": "9.6",
+        "water_price_min": "529",
+        "water_price_max": "699",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手臂式血壓計 HEM-7121J-E",
+        "rating": "10",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "water_price_min": "227",
+        "water_price_max": "308",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-7136",
+        "rating": "9.5",
+        "hon_price_min": "550",
+        "hon_price_max": "599",
+        "water_price_min": "395",
+        "water_price_max": "538",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-7600T",
+        "rating": "8.8",
+        "hon_price_min": "930",
+        "hon_price_max": "1,080",
+        "water_price_min": "750",
+        "water_price_max": "1,099",
+        "種類:": "手臂式",
+        "記憶功能:": "100"
+    },
+    {
+        "names": "Omron 手臂式血壓計 HEM-8720",
+        "rating": "",
+        "water_price_min": "309",
+        "water_price_max": "309",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "100組記憶容量"
+    },
+    {
+        "names": "AND 手臂式血壓計 UA-767JP",
+        "rating": "8.8",
+        "hon_price_min": "608",
+        "hon_price_max": "760",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "四組獨立記憶功能 (4x60次)"
+    },
+    {
+        "names": "Omron 上臂式血壓計 J710",
+        "rating": "10",
+        "water_price_min": "398",
+        "water_price_max": "480",
+        "種類:": "上臂式",
+        "記憶功能:": "30次"
+    },
+    {
+        "names": "Omron 手臂式血壓計 HEM-7121",
+        "rating": "8.8",
+        "hon_price_min": "360",
+        "hon_price_max": "599",
+        "water_price_min": "225",
+        "water_price_max": "338",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Omron 上臂式智能藍牙血壓計 J735",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "上臂式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手臂式電子血壓計 (中國版) HEM-7121",
+        "rating": "8.5",
+        "hon_price_min": "400",
+        "hon_price_max": "488",
+        "water_price_min": "225",
+        "water_price_max": "298",
+        "種類:": "手臂式",
+        "記憶功能:": "14"
+    },
+    {
+        "names": "Omron 手臂式血壓計 JPN600",
+        "rating": "7.3",
+        "hon_price_min": "550",
+        "hon_price_max": "1,080",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "OTO 手臂式血壓計 BP-1100",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "670",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "30個"
+    },
+    {
+        "names": "Omron 藍牙手臂式血壓計 JPN710T",
+        "rating": "7.5",
+        "hon_price_min": "980",
+        "hon_price_max": "1,530",
+        "種類:": "手臂式",
+        "記憶功能:": "100組 x 2"
+    },
+    {
+        "names": "Hopewell 全自動手臂式電子血壓計 HAP-810",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "398",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "YES",
+        "記憶功能:": "3次量度結果平均值"
+    },
+    {
+        "names": "Beurer BC28",
+        "rating": "10",
+        "hon_price_min": "258",
+        "hon_price_max": "350",
+        "種類:": "手腕式",
+        "記憶功能:": "2個用戶60次記憶"
+    },
+    {
+        "names": "Omron HEM-7122",
+        "rating": "8.7",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "water_price_min": "260",
+        "water_price_max": "538",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "30次記憶"
+    },
+    {
+        "names": "Omron 手臂式血壓計 J761",
+        "rating": "9.3",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "water_price_min": "750",
+        "water_price_max": "899",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "AND 手臂式血壓計 UA-654MR",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "680",
+        "種類:": "手臂式",
+        "記憶功能:": "60組記憶 + 平均讀數"
+    },
+    {
+        "names": "Uniden IFT技術上臂式血壓計 AM2305",
+        "rating": "8.0",
+        "hon_price_min": "225",
+        "hon_price_max": "278",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "120個記憶 x 4 用戶 (合共480個)"
+    },
+    {
+        "names": "Braun 百靈 iCheck 7 血壓計 BPW4500",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 臂筒式電子血壓計 HEM-1020",
+        "rating": "",
+        "water_price_min": "1,799",
+        "water_price_max": "2,480",
+        "種類:": "上臂式",
+        "記憶功能:": "90"
+    },
+    {
+        "names": "Omron 上臂式血壓計 JPN500",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "680",
+        "water_price_min": "496",
+        "water_price_max": "496",
+        "種類:": "上臂式",
+        "記憶功能:": "60次記憶"
+    },
+    {
+        "names": "Uniden 上臂式血壓計 AM2306",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "299",
+        "種類:": "上臂式",
+        "記憶功能:": "90個記憶 x 2 (共180個)"
+    },
+    {
+        "names": "Omron 手臂式電子血壓計 U30",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "water_price_min": "528",
+        "water_price_max": "568",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60組"
+    },
+    {
+        "names": "Omron 智能藍牙血壓計 U36T",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "768",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手腕式血壓計 T30J",
+        "rating": "",
+        "water_price_min": "288",
+        "water_price_max": "399",
+        "種類:": "手腕式",
+        "記憶功能:": "20組"
+    },
+    {
+        "names": "Omron 手腕式血壓計 HEM-6182",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "425",
+        "water_price_max": "425",
+        "種類:": "手腕式",
+        "記憶功能:": "60次"
+    },
+    {
+        "names": "Omron 上臂式電子血壓計 HEM-7135",
+        "rating": "",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60個測量值"
+    },
+    {
+        "names": "Hopewell 手臂式血壓計 HAP-820",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "699",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "兩位使用者，各150組量度記憶"
+    },
+    {
+        "names": "Omron JPN700",
+        "rating": "8.0",
+        "hon_price_min": "740",
+        "hon_price_max": "980",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "上臂式",
+        "記憶功能:": "100"
+    },
+    {
+        "names": "Beurer 智能上臂式血壓計 BM77",
+        "rating": "10",
+        "hon_price_min": "969",
+        "hon_price_max": "969",
+        "種類:": "上臂式",
+        "記憶功能:": "60組 x 2"
+    },
+    {
+        "names": "Withings BPM Connect Wi-Fi 智能血壓計",
+        "rating": "10",
+        "hon_price_min": "748",
+        "hon_price_max": "828",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Beurer BC40",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "420",
+        "種類:": "手腕式",
+        "記憶功能:": "60次記憶"
+    },
+    {
+        "names": "Hopewell Wrist BPM 手腕式電子血壓計 HAP-910",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "399",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "心律不齊自動偵測",
+        "記憶功能:": "90組"
+    },
+    {
+        "names": "XPower 手臂式血壓計 BP1",
+        "rating": "",
+        "hon_price_min": "193",
+        "hon_price_max": "268",
+        "種類:": "手臂式",
+        "記憶功能:": "可供2人查看過去99個血壓記錄"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-BW10/W",
+        "rating": "9.0",
+        "hon_price_min": "300",
+        "hon_price_max": "448",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-BU35/W",
+        "rating": "8.7",
+        "hon_price_min": "415",
+        "hon_price_max": "668",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手腕式血壓計 HEM-6160",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "SmarterWare Blood Pressure Monitor Case 血壓計 專用保護盒",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39"
+    },
+    {
+        "names": "Dretec 上臂式血壓計 BM-202",
+        "rating": "9.5",
+        "hon_price_min": "228",
+        "hon_price_max": "358",
+        "種類:": "上臂式",
+        "記憶功能:": "記錄兩人的測量結果 (60次)"
+    },
+    {
+        "names": "Beurer 特大螢幕手臂式血壓計 BM45",
+        "rating": "",
+        "hon_price_min": "434",
+        "hon_price_max": "498",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "2個使用者 x 60次記錄"
+    },
+    {
+        "names": "Dretec 手臂式血壓計 BM-211",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Uniden 上臂式血壓計 AM2303",
+        "rating": "2.0",
+        "hon_price_min": "245",
+        "hon_price_max": "320",
+        "種類:": "上臂式",
+        "記憶功能:": "2組血壓值記憶功能, 每組120個"
+    },
+    {
+        "names": "Beurer BM55",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "860",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Braun 百靈 ActivScan 9 Blood Pressure Monitor 血壓計 BUA7200CEM",
+        "rating": "",
+        "hon_price_min": "1,488",
+        "hon_price_max": "1,488",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Dretec 手腕式血壓計 BM-105",
+        "rating": "6.0",
+        "hon_price_min": "198",
+        "hon_price_max": "348",
+        "種類:": "手腕式",
+        "記憶功能:": "存儲測量值99次，最多可登記2人"
+    },
+    {
+        "names": "Omron 手臂式血壓計 U10K",
+        "rating": "6.0",
+        "water_price_min": "250",
+        "water_price_max": "299",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Heal Force 電子血壓計 B01",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "450",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "雙人各90組"
+    },
+    {
+        "names": "Beurer BC57",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "775",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Omron 血壓計臂帶 HEM-CR24",
+        "rating": "10",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "種類:": "手臂帶"
+    },
+    {
+        "names": "Uniden 手腕式血壓計 AM2102",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "299",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "120個記憶 x 2用戶 (合共240個)"
+    },
+    {
+        "names": "Omron 手臂式電子血壓計U11",
+        "rating": "",
+        "water_price_min": "338",
+        "water_price_max": "399",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "14組"
+    },
+    {
+        "names": "Withings BPM 無線血壓計",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "720",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "月兔牌 便攜式手臂血壓計 SBT-9080",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "具備心律不齊，手帶誤放，身體誤動等提示，以避免發生測試時的誤差",
+        "記憶功能:": "兼容2位使用者，提供最多每位120個測試記錄"
+    },
+    {
+        "names": "Omron 上臂式電子血壓計 HEM-7126",
+        "rating": "",
+        "water_price_min": "288",
+        "water_price_max": "299",
+        "種類:": "上臂式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手腕式血壓計 HEM-8613",
+        "rating": "",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 血壓計大碼臂帶 HEM-CL24",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "種類:": "手臂帶"
+    },
+    {
+        "names": "Beurer BC80",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "698",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Beurer BM28",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "398",
+        "water_price_min": "348",
+        "water_price_max": "348",
+        "種類:": "上臂式",
+        "記憶功能:": "4人30次記憶"
+    },
+    {
+        "names": "Omron 7 Series Wireless Upper Arm Blood Pressure Monitor BP7350",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Wellue 藍牙無線上臂式血壓計 BP2A",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "560",
+        "種類:": "上臂式",
+        "記憶功能:": "50"
+    },
+    {
+        "names": "Xiaomi 小米 HiPee 24小時智能血壓計手錶",
+        "rating": "",
+        "water_price_min": "988",
+        "water_price_max": "1,088",
+        "種類:": "手腕式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Uniden 上臂式血壓計 AM2307",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "299",
+        "種類:": "上臂式",
+        "記憶功能:": "90個記憶 x 2 (共180個)"
+    },
+    {
+        "names": "Omron HEM-7120-E",
+        "rating": "10",
+        "water_price_min": "248",
+        "water_price_max": "278",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Beurer BM85",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,070",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 上臂式電子血壓計 U33",
+        "rating": "",
+        "water_price_min": "525",
+        "water_price_max": "548",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Asante BW40",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "298",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Braun 百靈 VitalScan 3 手腕式血壓計 BBP2200",
+        "rating": "",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Oregon BPU321OS",
+        "rating": "",
+        "hon_price_min": "969",
+        "hon_price_max": "969",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron RS1 (НЕМ-6120-E)",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "360",
+        "種類:": "手腕式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "A&D Medical UA-651",
+        "rating": "",
+        "hon_price_min": "408",
+        "hon_price_max": "410",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Ziglite 節亮 全自動手臂式電子血壓計 (HM-DT)",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Yuwell 魚躍 電子血壓計 (藍牙) YE660D",
+        "rating": "",
+        "water_price_min": "588",
+        "water_price_max": "599",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "90"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-BW50/S",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "768",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "AND UA-611",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Sanitas Bluetooth Blood Pressure Monitor 手腕式血壓計 SBC 53",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "種類:": "手腕式",
+        "記憶功能:": "2 x 60 memory spaces"
+    },
+    {
+        "names": "Omron HEM-7320",
+        "rating": "8.0",
+        "hon_price_min": "729",
+        "hon_price_max": "980",
+        "種類:": "手臂式",
+        "記憶功能:": "90次"
+    },
+    {
+        "names": "Beurer BM57",
+        "rating": "10",
+        "hon_price_min": "728",
+        "hon_price_max": "850",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Dretec BM-100",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "238",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Omron M2 手臂式血壓計 (HEM-7121E)",
+        "rating": "6.7",
+        "hon_price_min": "360",
+        "hon_price_max": "390",
+        "water_price_min": "227",
+        "water_price_max": "298",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-BW30/S",
+        "rating": "8.0",
+        "hon_price_min": "400",
+        "hon_price_max": "650",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-8713",
+        "rating": "10",
+        "water_price_min": "368",
+        "water_price_max": "368",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Contec 血壓計 08E",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Omron HEM-6221",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "90個"
+    },
+    {
+        "names": "Omron HEM-6121",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "420",
+        "water_price_min": "338",
+        "water_price_max": "360",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "30個"
+    },
+    {
+        "names": "Medel Check 手臂式血壓計",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "2位用戶 x 60"
+    },
+    {
+        "names": "Uniden 手腕式電子血壓計 AM2101",
+        "rating": "10",
+        "hon_price_min": "163",
+        "hon_price_max": "178",
+        "種類:": "手腕式",
+        "顯示:": "電子"
+    },
+    {
+        "names": "Osim uCheck Smart 智能血壓計 OS-571",
+        "rating": "",
+        "hon_price_min": "868",
+        "hon_price_max": "868",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Beurer BM58",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "768",
+        "種類:": "上臂式",
+        "記憶功能:": "2x60 memery spaces"
+    },
+    {
+        "names": "江醫生 代用血壓計臂帶 YKC",
+        "rating": "",
+        "water_price_min": "90",
+        "water_price_max": "90",
+        "種類:": "手臂帶"
+    },
+    {
+        "names": "Citizen CHU-503",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "559",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "心率不齊",
+        "記憶功能:": "90 組記憶值"
+    },
+    {
+        "names": "Omron 手臂式藍牙電子血壓計 J732",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "手臂式",
+        "記憶功能:": "60次"
+    },
+    {
+        "names": "Omron HEM-7210",
+        "rating": "",
+        "hon_price_min": "910",
+        "hon_price_max": "910",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "HuBDIC 手臂式血壓計 HBP1520",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "250"
+    },
+    {
+        "names": "Omron JPN5",
+        "rating": "8.0",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,130",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "手腕式",
+        "記憶功能:": "90個"
+    },
+    {
+        "names": "Ziglite 節亮 臂式電子血壓測量儀 FBC",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Yuwell 魚躍 手臂式電子血壓計 YE666AR",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "418",
+        "water_price_min": "398",
+        "water_price_max": "408",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有"
+    },
+    {
+        "names": "Uniden AM2301",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "245",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Citizen 上臂式電子血壓計 CHUG330",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "心率不齊提示功能",
+        "記憶功能:": "60組記憶值"
+    },
+    {
+        "names": "Omron HEM-7120",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "water_price_min": "250",
+        "water_price_max": "399",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Yuwell 魚躍 手腕式電子血壓計 YE8800AR",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "74組"
+    },
+    {
+        "names": "Beurer BC30",
+        "rating": "",
+        "hon_price_min": "435",
+        "hon_price_max": "435",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Citizen CH-650",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "water_price_min": "249",
+        "water_price_max": "249",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "90個"
+    },
+    {
+        "names": "PASESA 便攜心血管硬化檢測儀 (社區版) AVE-2000 PLUS",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "12,800",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Withings BPM Core 智能血壓計 配備 ECG 及數碼聽診器",
+        "rating": "",
+        "hon_price_min": "1,998",
+        "hon_price_max": "1,998",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Medel Elite 92587",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "可進行心律不正 (IHB) 檢測",
+        "記憶功能:": "60 讀數記憶體"
+    },
+    {
+        "names": "Uniden 上臂式血壓計 AM2304",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "299",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "支持4個用戶操作, 120個記憶 x 4 (共480個)"
+    },
+    {
+        "names": "Omron Complete Wireless Upper Arm Blood Pressure Monitor + EKG BP7900",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "AND 手腕式血壓計 UB-533",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "699",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "心律不整檢測功能",
+        "記憶功能:": "兩組獨立記憶功能 (2 x 60次)"
+    },
+    {
+        "names": "Asante BA55",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "TANITA 手腕式血壓計 BP-212",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "種類:": "手腕式",
+        "記憶功能:": "自動地記錄血壓及脈率讀數，內置60次紀錄"
+    },
+    {
+        "names": "Beurer 藍牙上臂式血壓計 BM 77",
+        "rating": "",
+        "hon_price_min": "1,019",
+        "hon_price_max": "1,368",
+        "種類:": "上臂式",
+        "記憶功能:": "2 x 60"
+    },
+    {
+        "names": "Omron HEM-7131",
+        "rating": "",
+        "water_price_min": "338",
+        "water_price_max": "378",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Lenovo 上臂式血壓計 SP08D",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 血壓計手臂帶",
+        "rating": "",
+        "water_price_min": "130",
+        "water_price_max": "130",
+        "種類:": "手臂帶"
+    },
+    {
+        "names": "Omron HEM-8102a",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "種類:": "手臂式",
+        "記憶功能:": "14次記憶功能"
+    },
+    {
+        "names": "Dretec 手腕式血壓計 BM-103",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "268",
+        "種類:": "手腕式",
+        "記憶功能:": "60次"
+    },
+    {
+        "names": "Yuwell 魚躍 手腕式血壓計 (語音款) YE8900AR",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "手腕式",
+        "記憶功能:": "60組記憶值"
+    },
+    {
+        "names": "Beurer BC44",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "510",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-BU55/W",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "888",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "AViTA BPM65",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "iHealth Track",
+        "rating": "10",
+        "hon_price_min": "558",
+        "hon_price_max": "558",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "A&D Medical UA-621",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Yuwell 魚躍 手臂式電子血壓計 YE660A",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "water_price_min": "199",
+        "water_price_max": "218",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "無",
+        "記憶功能:": "40組"
+    },
+    {
+        "names": "Beurer BM90",
+        "rating": "",
+        "water_price_min": "1,199",
+        "water_price_max": "1,199",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Accumed BR705",
+        "rating": "",
+        "hon_price_min": "585",
+        "hon_price_max": "585",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有，120組"
+    },
+    {
+        "names": "A&D Medical UA-767",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-7200",
+        "rating": "",
+        "water_price_min": "438",
+        "water_price_max": "438",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手臂式血壓計 HEM-7137",
+        "rating": "",
+        "water_price_min": "448",
+        "water_price_max": "460",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Citizen CH-657",
+        "rating": "",
+        "hon_price_min": "385",
+        "hon_price_max": "398",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "90個"
+    },
+    {
+        "names": "A&D Medical UA-1020",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Accumed AU941f",
+        "rating": "10",
+        "hon_price_min": "585",
+        "hon_price_max": "585",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有，120組"
+    },
+    {
+        "names": "VivaChek Konfort 智能手腕式血壓計 BP55P",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "種類:": "手腕式",
+        "記憶功能:": "60記憶體"
+    },
+    {
+        "names": "Adam BP1 Arm Blood Pressure Monitor",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Aspirations CK-102S",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "種類:": "手腕式",
+        "記憶功能:": "Yes"
+    },
+    {
+        "names": "Nissei DS-N10J",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "740",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "MEDIGO 上臂式電子血壓計 MO-11C",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "種類:": "上臂式",
+        "記憶功能:": "可儲存99組紀錄"
+    },
+    {
+        "names": "Nokia BPM 無線血壓計",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "720",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Nokia BPM+",
+        "rating": "",
+        "hon_price_min": "1,098",
+        "hon_price_max": "1,098",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Beurer BC16",
+        "rating": "",
+        "hon_price_min": "584",
+        "hon_price_max": "584",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "AND UA-704",
+        "rating": "",
+        "water_price_min": "220",
+        "water_price_max": "220",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "AKAI 雅佳 XBP-103H",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "280",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "120個血壓值記憶"
+    },
+    {
+        "names": "Panasonic 樂聲 上臂式電子血壓計 EW3106",
+        "rating": "",
+        "water_price_min": "279",
+        "water_price_max": "279",
+        "種類:": "上臂式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "iHealth View BP7S",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "765",
+        "種類:": "手腕式",
+        "顯示:": "有"
+    },
+    {
+        "names": "Rossmax AC1000F",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,000",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Agelh BA-805",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "快速診斷人體心率運動情況，測量時當心率出現異常情況，屏幕將顯示心率不齊符號",
+        "記憶功能:": "雙人記憶 2*90組雙人記憶功能"
+    },
+    {
+        "names": "Beurer BM60",
+        "rating": "",
+        "hon_price_min": "678",
+        "hon_price_max": "678",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Smart Blood Pressure ECG Monitor 智能上臂式電子血壓計 + ECG心電圖 BP700X",
+        "rating": "",
+        "water_price_min": "419",
+        "water_price_max": "419",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "2個用戶64組數據"
+    },
+    {
+        "names": "Omron HEM-7221至尊版",
+        "rating": "",
+        "water_price_min": "480",
+        "water_price_max": "480",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Maisense Freescan",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-7132",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "種類:": "手臂式",
+        "記憶功能:": "60 次記憶功能"
+    },
+    {
+        "names": "Accumed GD102",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Panasonic 樂聲 手腕式電子血壓計 EW3006",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "手腕式",
+        "記憶功能:": "90次"
+    },
+    {
+        "names": "AND 手腕式血壓計 UB-543",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "650",
+        "種類:": "手腕式",
+        "記憶功能:": "2 user memory (60 x 2) + average reading (AM/PM/ALL)"
+    },
+    {
+        "names": "Cancare 加護 BPCheck Plus",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-3153",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 手腕式電子血壓計 T10",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "370",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "15次"
+    },
+    {
+        "names": "TANITA 手臂式血壓計 BP-222",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "種類:": "手臂式",
+        "記憶功能:": "自動地記錄血壓及脈率讀數，內置60次紀錄"
+    },
+    {
+        "names": "Xiaomi 小米 米家 iHealth 血壓計 藍牙版",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Spirit CK-101",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Accumed K150",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "無",
+        "記憶功能:": "有，90組"
+    },
+    {
+        "names": "Omron 10 Series Wireless Upper Arm Blood Pressure Monitor BP7450",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Ziglite 節亮 家用腕式電子血壓計 (HM-FL)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "種類:": "手腕式",
+        "記憶功能:": "99組"
+    },
+    {
+        "names": "SAFA SE-7000",
+        "rating": "",
+        "種類:": "手臂式",
+        "顯示:": "特大螢幕"
+    },
+    {
+        "names": "A&D Medical UB-542",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Citizen CH-456",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "580",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "90 組(帶日期時間)"
+    },
+    {
+        "names": "Citizen CH-453",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "YES",
+        "記憶功能:": "YES"
+    },
+    {
+        "names": "Beurer BM26",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "448",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron 藍牙手臂式血壓計 HEM6231T",
+        "rating": "",
+        "water_price_min": "698",
+        "water_price_max": "698",
+        "種類:": "手腕式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Alphamed 手腕式血壓計 U62I",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Beurer BM47",
+        "rating": "",
+        "hon_price_min": "479",
+        "hon_price_max": "580",
+        "種類:": "上臂式",
+        "記憶功能:": "4人30次記憶"
+    },
+    {
+        "names": "HuBDIC 手腕式血壓計 HBP500",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60"
+    },
+    {
+        "names": "Omron U32",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60"
+    },
+    {
+        "names": "Xiaomi 小米 米家iHealth智能血壓計",
+        "rating": "10",
+        "hon_price_min": "530",
+        "hon_price_max": "530",
+        "water_price_min": "190",
+        "water_price_max": "430",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Omron HEM-7211卓越版",
+        "rating": "6.0",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "water_price_min": "438",
+        "water_price_max": "438",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Citizen 手腕式電子血壓計 CH650F",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "229",
+        "water_price_min": "249",
+        "water_price_max": "249",
+        "種類:": "手腕式",
+        "記憶功能:": "60"
+    },
+    {
+        "names": "Beurer BM44",
+        "rating": "",
+        "hon_price_min": "588",
+        "hon_price_max": "598",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "松佳 RAK289",
+        "rating": "8.0",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "種類:": "上臂式",
+        "記憶功能:": "Yes"
+    },
+    {
+        "names": "Sanitas SBM21",
+        "rating": "",
+        "hon_price_min": "465",
+        "hon_price_max": "465",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "4個用戶x 30次讀數"
+    },
+    {
+        "names": "iHealth 手腕式智能藍牙無線血壓計",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "540",
+        "種類:": "手腕式",
+        "顯示:": "iPhone, iPad, iPod touch, Android 手機"
+    },
+    {
+        "names": "AND UB-351",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "A&D Medical UA-853",
+        "rating": "",
+        "water_price_min": "809",
+        "water_price_max": "809",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "iHealth 手臂式智能藍牙無線血壓計",
+        "rating": "9.0",
+        "hon_price_min": "655",
+        "hon_price_max": "665",
+        "種類:": "手臂式",
+        "顯示:": "iPhone, iPad, iPod touch, Android 手機"
+    },
+    {
+        "names": "Beurer BM95",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "AND UA-621",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Omron JPN1",
+        "rating": "9.0",
+        "hon_price_min": "930",
+        "hon_price_max": "930",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "NISSEI BK-500M",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Andesfit 智能藍牙手臂式血壓計 ADF-B19",
+        "rating": "",
+        "hon_price_min": "695",
+        "hon_price_max": "695",
+        "種類:": "手臂式",
+        "記憶功能:": "4位使用者，可存396測量紀錄"
+    },
+    {
+        "names": "Citizen CHW301",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Omron 手臂式電子血壓計 U32K",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-BU16",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "A&D Medical UA-767+",
+        "rating": "",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-88612",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "iHealth BP7 Wireless Blood Pressure Wrist Monitor",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "658",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "TSK 專業手腕式全自動電子血壓計",
+        "rating": "",
+        "種類:": "手腕式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Withings Wireless Blood Pressure Monitor",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "790",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Jumper 手臂式血壓計 JPD-HA300",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "2個用戶 x 99次記錄 x 最近3次平均值"
+    },
+    {
+        "names": "Microlife MLA200",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,280",
+        "種類:": "手臂式",
+        "記憶功能:": "200"
+    },
+    {
+        "names": "AND TM-2657P",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "VivaChek Konfort 智能手臂式血壓計 BP35E",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "種類:": "手臂式",
+        "記憶功能:": "120 記憶體"
+    },
+    {
+        "names": "Ziglite 節亮 全自動手臂式電子血壓計 (HM-FK)",
+        "rating": "",
+        "hon_price_min": "184",
+        "hon_price_max": "184",
+        "種類:": "手臂式",
+        "記憶功能:": "99組"
+    },
+    {
+        "names": "iHealth Clear Wireless Upper Arm Blood Pressure Monitor",
+        "rating": "",
+        "hon_price_min": "846",
+        "hon_price_max": "846",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Qardio Arm 智能無線血壓監測儀",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Rossmax CH155",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "OTO 手臂式血壓計 BP-932",
+        "rating": "",
+        "water_price_min": "1,000",
+        "water_price_max": "1,000",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Qardio QardioArm A100",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "Yes",
+        "記憶功能:": "Yes"
+    },
+    {
+        "names": "iHealth BP5",
+        "rating": "",
+        "hon_price_min": "655",
+        "hon_price_max": "655",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "VILECO 維樂高血壓計 KWL-W01",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-6210",
+        "rating": "",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60"
+    },
+    {
+        "names": "Medel Quick RT02394",
+        "rating": "",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Asante BA40",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "378",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "TANITA BP-210",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "A&D Medical UA-851",
+        "rating": "",
+        "water_price_min": "669",
+        "water_price_max": "669",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Beurer BC60",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "639",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Beurer BC60",
+        "rating": "",
+        "hon_price_min": "639",
+        "hon_price_max": "639",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-6131",
+        "rating": "8.0",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60個"
+    },
+    {
+        "names": "Braun 百靈 ExactFit 5 - BP6200",
+        "rating": "",
+        "種類:": "手臂式",
+        "記憶功能:": "有，60組"
+    },
+    {
+        "names": "Medel Soft 手腕式血壓計",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "2位用戶 x 60"
+    },
+    {
+        "names": "Citizen CH-452",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "冇",
+        "記憶功能:": "90個"
+    },
+    {
+        "names": "Nissei DSK-1051J",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "AndesFit 智能藍牙手腕式血壓計 AF2003",
+        "rating": "",
+        "hon_price_min": "595",
+        "hon_price_max": "595",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Bremed 全自動上臂式電子血壓計 BD8000",
+        "rating": "",
+        "種類:": "上臂式",
+        "記憶功能:": "可4人用/ 具有99個讀數"
+    },
+    {
+        "names": "Rossmax RX-AC701K",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Beurer BM35",
+        "rating": "",
+        "water_price_min": "297",
+        "water_price_max": "297",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "TSK BP628 手腕式脈搏血壓計",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Microlife 心房顫動及心率不正顯示血壓計(B3)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Sanitas SBM03",
+        "rating": "",
+        "hon_price_min": "405",
+        "hon_price_max": "405",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Spirit CK-E401D",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Rossmax AU941",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Medel Quick",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Omron 手腕式血壓計 HEM-6120",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Omron HEM-6111",
+        "rating": "",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Beurer BC08",
+        "rating": "",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Medel Elite RT02317",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "TSK BP826",
+        "rating": "",
+        "種類:": "手臂式",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Accumed GD102(KJ-206C)",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Rossmax 電子手臂式血壓計壓脈帶",
+        "rating": "",
+        "種類:": "手臂帶"
+    },
+    {
+        "names": "OTO BP-1000",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Beurer BM40",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK-801",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "A&D Medical UA-782",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "BOSO Medicus Vita",
+        "rating": "",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "60組記錄"
+    },
+    {
+        "names": "Beurer BM16",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "A&D Medical UA-631",
+        "rating": "",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Beurer BM70",
+        "rating": "",
+        "water_price_min": "1,079",
+        "water_price_max": "1,079",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Medel Dynamic RT02361",
+        "rating": "10",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Jziki ZK-W862",
+        "rating": "",
+        "water_price_min": "218",
+        "water_price_max": "218",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "Yes",
+        "記憶功能:": "Yes"
+    },
+    {
+        "names": "EzbuyHK 智能語音家用血壓計",
+        "rating": "",
+        "種類:": "上臂式",
+        "記憶功能:": "記錄99個測量值"
+    },
+    {
+        "names": "Terraillon CB31133WH",
+        "rating": "",
+        "water_price_min": "690",
+        "water_price_max": "690",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "A&D Medical UA-1010",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 EW-BW13",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Citizen CH433B",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Medel Display Top RT02393",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Rossmax RX-AU941",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Omron 5 Series BP742N",
+        "rating": "",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "100個"
+    },
+    {
+        "names": "Bremed 橡膠球血壓計 BD2700",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Accumed 血壓計臂帶",
+        "rating": "",
+        "種類:": "手臂帶"
+    },
+    {
+        "names": "A&D Medical UA-651BLE",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Citizen CH550",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Omron HEM-6200",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "569",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Rossmax GB102",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Citizen CHU302",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Beurer BM20",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK-201",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "489",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Microlife BP A2 Classic Blood Pressure Monitor",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "30組記錄"
+    },
+    {
+        "names": "Braun 百靈 VitalScan 1 BBP2000",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Omron HEM-642",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "NISSEI BK-900S",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "A&D Medical UB-328",
+        "rating": "",
+        "water_price_min": "750",
+        "water_price_max": "750",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK110 錶式血壓計",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Omron BP7000",
+        "rating": "",
+        "hon_price_min": "1,209",
+        "hon_price_max": "1,209",
+        "種類:": "上臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "Unlimited in App"
+    },
+    {
+        "names": "Vion BP700X",
+        "rating": "10",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有, 加簡單心電圖 ( 連接後, 在APP 顯示)",
+        "記憶功能:": "兩組使用者, 128 個記錄"
+    },
+    {
+        "names": "Spirit CK-101C",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Rossmax RX-CF155",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "A&D Medical TM-2655P",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Omron HEM-7230",
+        "rating": "",
+        "種類:": "手臂式",
+        "記憶功能:": "可分別管理兩個人的資料"
+    },
+    {
+        "names": "eBao 智健寶 藍牙手臂式電子血壓計",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "120 x 2"
+    },
+    {
+        "names": "Bremed 手碗血壓計 BD8100",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Terraillon CB32233WH",
+        "rating": "",
+        "water_price_min": "790",
+        "water_price_max": "790",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Koogeek 智能血壓計 KSBP2",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Medel Check RT02316",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron BP710N",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Spirit CK-S300E",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Omron HEM-7310",
+        "rating": "",
+        "種類:": "手臂式",
+        "記憶功能:": "記錄2人的測量資料，共60個記錄"
+    },
+    {
+        "names": "Omron 7 Series Wireless BP654",
+        "rating": "",
+        "種類:": "手腕式",
+        "記憶功能:": "100"
+    },
+    {
+        "names": "Jumper Bluetooth Blood Pressure Monitor 藍牙智能手臂式血壓計 JPD-HA121",
+        "rating": "",
+        "種類:": "手臂式",
+        "記憶功能:": "2個用戶 x 99次記錄 x 最近3次平均值"
+    },
+    {
+        "names": "Omron 3 Series BP629",
+        "rating": "",
+        "種類:": "手腕式",
+        "記憶功能:": "60"
+    },
+    {
+        "names": "Omron HEM-7300",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK-401",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Accumed GB102(KJ-106C)",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Bremed 電子手腕血壓計 BD555",
+        "rating": "",
+        "種類:": "手腕式",
+        "記憶功能:": "1 x 40個記錄"
+    },
+    {
+        "names": "Omron BP761",
+        "rating": "",
+        "種類:": "手臂式",
+        "記憶功能:": "120"
+    },
+    {
+        "names": "iHealth Ease",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Omron Pro Logic HEM-7101",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "Beurer BC20",
+        "rating": "",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Omron 7 Series UltraSilent BP652N",
+        "rating": "",
+        "種類:": "手腕式",
+        "記憶功能:": "100"
+    },
+    {
+        "names": "Omron 10+ Series Bluetooth Smart  BP786",
+        "rating": "",
+        "種類:": "手臂式",
+        "記憶功能:": "200"
+    },
+    {
+        "names": "A&D Medical UB-511",
+        "rating": "",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-7111",
+        "rating": "8.0",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "iHealth 智能血壓計",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Spirit CK-E401W",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "A&D Medical UA-789XL",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK-403",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Spirit CK-E301",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Accumed AW150f",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有，90組"
+    },
+    {
+        "names": "A&D Medical UA-702",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Omron HEM-7280T",
+        "rating": "9.0",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "可記錄100次 x 2人測量數值"
+    },
+    {
+        "names": "Rossmax MW701",
+        "rating": "",
+        "種類:": "手臂式"
+    },
+    {
+        "names": "A&D Medical UA-1030T",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Medel Display 92556",
+        "rating": "10",
+        "種類:": "手臂式",
+        "記憶功能:": "60 讀數記憶體"
+    },
+    {
+        "names": "Accumed CG155f",
+        "rating": "10",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有，90組"
+    },
+    {
+        "names": "Spirit CK-105",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "A&D Medical UM-101",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Vian BP700X",
+        "rating": "10",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有，加心電圖 ( 連接後, 在APP 顯示)",
+        "記憶功能:": "兩組使用者，128 個記錄"
+    },
+    {
+        "names": "Ca-mi My Pressure 2.0",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有，180組"
+    },
+    {
+        "names": "A&D Medical UA-704",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "AND TM-2655P",
+        "rating": "",
+        "種類:": "上臂式"
+    },
+    {
+        "names": "Rossmax 手臂式電子血壓計 RX-X5",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "．心律失常檢測 ．心房顫動偵測 ．心室早期收縮偵測"
+    },
+    {
+        "names": "A&D Medical UA-787+",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK-E301A",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Spirit CK-301",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Rossmax S150",
+        "rating": "",
+        "種類:": "手腕式"
+    },
+    {
+        "names": "Braun 百靈 BP3550",
+        "rating": "",
+        "種類:": "手腕式",
+        "記憶功能:": "可記錄80次"
+    },
+    {
+        "names": "Spirit CK-S300",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Omron 手臂式電子血壓計 L10",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK-E401",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Omron HEM-6052",
+        "rating": "",
+        "種類:": "手腕式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Spirit CK-406A",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "沒有"
+    },
+    {
+        "names": "Omron HEM-7051",
+        "rating": "10",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "沒有",
+        "記憶功能:": "有"
+    },
+    {
+        "names": "Omron HEM-7113",
+        "rating": "",
+        "種類:": "手臂式",
+        "偵測心律不齊:": "有",
+        "記憶功能:": "有"
+    }
+]

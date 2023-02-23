@@ -1,0 +1,3443 @@
+[
+    {
+        "names": "Cyberpower 360W Tower UPS (IEC C13 x 4) UT650EIG",
+        "rating": "10",
+        "hon_price_min": "551",
+        "hon_price_max": "630",
+        "最大輸出功率:": "360W",
+        "半負載運轉時間:": "28分鐘",
+        "尺寸:": "84 x 174 x 280mm",
+        "重量:": "3.8kg"
+    },
+    {
+        "names": "APC Smart-UPS C 1000VA 230V SMC1000IC",
+        "rating": "",
+        "hon_price_min": "2,899",
+        "hon_price_max": "3,600",
+        "最大輸出功率:": "600W",
+        "尺寸:": "219 x 171 x 439mm",
+        "重量:": "17.27kg"
+    },
+    {
+        "names": "APC Smart-UPS 3000VA LCD 230V SMT3000IC",
+        "rating": "",
+        "hon_price_min": "11,180",
+        "hon_price_max": "11,720",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "435 x 197 x 544mm",
+        "重量:": "52.5kg"
+    },
+    {
+        "names": "APC Back UPS Pro BR 1600VA, 8 Outlets, AVR, LCD Interface BR1600MI",
+        "rating": "",
+        "hon_price_min": "3,408",
+        "hon_price_max": "4,695",
+        "最大輸出功率:": "960W",
+        "半負載運轉時間:": "5分鐘",
+        "尺寸:": "100 x 250 x 380mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "Cyberpower 420W BRICs LCD UPS (UK x 3+3 Surge only+USB Charging Port) BR700ELCD",
+        "rating": "",
+        "hon_price_min": "733",
+        "hon_price_max": "899"
+    },
+    {
+        "names": "APC BK650AS",
+        "rating": "8.3",
+        "hon_price_min": "850",
+        "hon_price_max": "1,050",
+        "最大輸出功率:": "400W",
+        "尺寸:": "165 x 91 x 284mm",
+        "重量:": "6.04kg"
+    },
+    {
+        "names": "APC BK350EI",
+        "rating": "10",
+        "hon_price_min": "598",
+        "hon_price_max": "750",
+        "最大輸出功率:": "210W",
+        "半負載運轉時間:": "23分鐘",
+        "尺寸:": "165 x 91 x 284mm",
+        "重量:": "6.32kg"
+    },
+    {
+        "names": "Cyberpower Extended Battery Module BPSE72V45ART2U",
+        "rating": "",
+        "hon_price_min": "4,970",
+        "hon_price_max": "4,980",
+        "充電時間:": "2小時",
+        "重量:": "34.7kg"
+    },
+    {
+        "names": "APC SMX1500RMI2U",
+        "rating": "",
+        "hon_price_min": "6,300",
+        "hon_price_max": "7,550",
+        "最大輸出功率:": "1200W",
+        "尺寸:": "89 x 432 x 490mm",
+        "重量:": "24.82kg"
+    },
+    {
+        "names": "APC SMT1500I",
+        "rating": "",
+        "hon_price_min": "4,698",
+        "hon_price_max": "5,350",
+        "最大輸出功率:": "1000W",
+        "尺寸:": "219.00 mm x 171.00 mm x 439.00 mm",
+        "重量:": "24.09kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 3000VA，機架安裝式，230V SRT3000RMXLI",
+        "rating": "",
+        "hon_price_min": "16,250",
+        "hon_price_max": "16,350",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "85 x 432 x 635mm",
+        "重量:": "31.3kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #17 RBC17",
+        "rating": "10",
+        "hon_price_min": "473",
+        "hon_price_max": "480",
+        "尺寸:": "65 x 94 x 151mm",
+        "重量:": "2.59kg"
+    },
+    {
+        "names": "APC Smart-UPS C 1500VA 230V SMC1500IC",
+        "rating": "",
+        "hon_price_min": "3,879",
+        "hon_price_max": "4,999",
+        "最大輸出功率:": "900W",
+        "尺寸:": "219 x 171 x 439mm",
+        "重量:": "20.1kg"
+    },
+    {
+        "names": "APC Smart-UPS 1500VA 230V SMT1500IC",
+        "rating": "",
+        "hon_price_min": "6,280",
+        "hon_price_max": "8,140",
+        "最大輸出功率:": "1000W",
+        "尺寸:": "439 x 171 x 219mm",
+        "重量:": "24.09kg"
+    },
+    {
+        "names": "APC Back-UPS 700ES (700VA/405Watts) Tower UPS #bE700g-UK",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,100",
+        "最大輸出功率:": "405W"
+    },
+    {
+        "names": "APC Power Saving Back-UPS Pro 不斷電系統 BR1500GI",
+        "rating": "10",
+        "hon_price_min": "3,350",
+        "hon_price_max": "4,250",
+        "最大輸出功率:": "865W",
+        "尺寸:": "301 x 112 x 380mm",
+        "重量:": "12.7kg"
+    },
+    {
+        "names": "APC BR900Gi",
+        "rating": "",
+        "hon_price_min": "1,668",
+        "hon_price_max": "2,100",
+        "最大輸出功率:": "540W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "H250x W100x D382mm",
+        "重量:": "10.72kg"
+    },
+    {
+        "names": "Cyberpower 900W Tower UPS (IEC C13 x 6) UT1500EI",
+        "rating": "",
+        "hon_price_min": "1,438",
+        "hon_price_max": "1,748",
+        "最大輸出功率:": "900W",
+        "半負載運轉時間:": "60W: 90(min)分鐘",
+        "尺寸:": "148 x 178 x 298mm",
+        "重量:": "9.1kg"
+    },
+    {
+        "names": "APC Back UPS Pro BR 1600VA, 8 Outlets, AVR, LCD Interface BR1600MI",
+        "rating": "",
+        "hon_price_min": "3,408",
+        "hon_price_max": "4,695",
+        "最大輸出功率:": "960W",
+        "半負載運轉時間:": "5分鐘",
+        "尺寸:": "100 x 250 x 380mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "APC Smart-UPS RT Battery Pack SURT192RMXLBP2",
+        "rating": "",
+        "hon_price_min": "31,200",
+        "hon_price_max": "31,500",
+        "尺寸:": "739 x 432 x 263mm",
+        "重量:": "181.82kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 2200VA 230V SRTL2200RMXLI",
+        "rating": "",
+        "hon_price_min": "32,380",
+        "hon_price_max": "32,680",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "611 x 432 x 85mm",
+        "重量:": "30.5kg"
+    },
+    {
+        "names": "Cyberpower 900W Professional Rackmount Tower PR1000ELCDRT2U",
+        "rating": "",
+        "hon_price_min": "4,670",
+        "hon_price_max": "4,980",
+        "最大輸出功率:": "900W",
+        "半負載運轉時間:": "22分鐘",
+        "尺寸:": "520 x 300 x 542mm",
+        "重量:": "30.2kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT72BP",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "6,260",
+        "尺寸:": "594 x 85 x 432mm",
+        "重量:": "33.9kg"
+    },
+    {
+        "names": "APC Smart-UPS RT 19\" Rail Kit SURTRK",
+        "rating": "",
+        "hon_price_min": "1,468",
+        "hon_price_max": "1,530"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems PR2200ERTXL2U",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "7,080",
+        "最大輸出功率:": "2200W",
+        "半負載運轉時間:": "11.2分鐘",
+        "尺寸:": "433 x 86.5 x 500mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 2200VA，機架安裝式，230V SRT2200RMXLI",
+        "rating": "",
+        "hon_price_min": "11,950",
+        "hon_price_max": "12,020",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "85 x 432 x 584mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #117 APCRBC117",
+        "rating": "",
+        "hon_price_min": "4,598",
+        "hon_price_max": "4,630",
+        "尺寸:": "76 x 203 x 584mm",
+        "重量:": "22.27kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #7 RBC7",
+        "rating": "",
+        "hon_price_min": "1,956",
+        "hon_price_max": "1,980",
+        "尺寸:": "173 x 152 x 183mm",
+        "重量:": "11.68kg"
+    },
+    {
+        "names": "APC Smart-UPS Charge Mobile Battery for Microsoft Surface Hub 2 CSH2",
+        "rating": "",
+        "hon_price_min": "18,700",
+        "hon_price_max": "18,955",
+        "尺寸:": "89 x 279 x 429mm",
+        "重量:": "9.98kg"
+    },
+    {
+        "names": "Cyberpower Extended Battery Module BPSE72V45A",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,520",
+        "充電時間:": "10小時",
+        "重量:": "34.2kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU32MHVCEE18AT",
+        "rating": "",
+        "hon_price_min": "6,975",
+        "hon_price_max": "7,128",
+        "尺寸:": "433 x 88 x 236mm",
+        "重量:": "7.5kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #31 RBC31",
+        "rating": "",
+        "hon_price_min": "2,598",
+        "hon_price_max": "2,620"
+    },
+    {
+        "names": "APC Symmetra LX 4kVA Scalable to 8kVA N+1 Rack-mount SYA4K8RMI",
+        "rating": "",
+        "hon_price_min": "83,498",
+        "hon_price_max": "86,400",
+        "尺寸:": "572 x 472 x 688mm",
+        "重量:": "134.09kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #55 RBC55",
+        "rating": "",
+        "hon_price_min": "3,978",
+        "hon_price_max": "3,990"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #143 APCRBC143",
+        "rating": "",
+        "hon_price_min": "3,958",
+        "hon_price_max": "3,990",
+        "尺寸:": "225 x 279 x 481mm",
+        "重量:": "22.27kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU10BVHVIEC20F",
+        "rating": "",
+        "hon_price_min": "1,138",
+        "hon_price_max": "1,598",
+        "尺寸:": "44.5 x 914.4 x 38.1mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU15SWHVIEC12ATNET",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "6,188",
+        "尺寸:": "433 x 44 x 236mm",
+        "重量:": "4kg"
+    },
+    {
+        "names": "APC Symmetra LX 8kVA Scalable to 16kVA N+1 Rack-mount SYA8K16RMI",
+        "rating": "",
+        "hon_price_min": "97,670",
+        "hon_price_max": "97,760",
+        "尺寸:": "838 x 472 x 688mm",
+        "重量:": "198.64kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #157 APCRBC157",
+        "rating": "",
+        "hon_price_min": "2,968",
+        "hon_price_max": "2,990"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #24 RBC24",
+        "rating": "",
+        "hon_price_min": "4,838",
+        "hon_price_max": "4,870"
+    },
+    {
+        "names": "APC Smart-UPS Battery Pack XBP48RM1U2-LI",
+        "rating": "",
+        "hon_price_min": "24,750",
+        "hon_price_max": "33,600",
+        "尺寸:": "536 x 432 x 44mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20MHVIEC10AT",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,158",
+        "尺寸:": "433 x 44 x 236mm",
+        "重量:": "3.4kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20BHVIEC12R",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "978",
+        "尺寸:": "445 x 44.5 x 38.1mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "APC Symmetra LX 8kVA SYA8K16I",
+        "rating": "",
+        "hon_price_min": "97,950",
+        "hon_price_max": "98,800",
+        "最大輸出功率:": "5600W",
+        "尺寸:": "726 x 483 x 937mm",
+        "重量:": "219.55kg"
+    },
+    {
+        "names": "APC Smart-UPS RT Battery Pack SURT192RMXLBP2",
+        "rating": "",
+        "hon_price_min": "31,200",
+        "hon_price_max": "31,500",
+        "尺寸:": "739 x 432 x 263mm",
+        "重量:": "181.82kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #22 RBC22",
+        "rating": "",
+        "hon_price_min": "2,368",
+        "hon_price_max": "2,400"
+    },
+    {
+        "names": "APC Dry Contact I/O Accessory AP9810",
+        "rating": "",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,230"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #142 APCRBC142",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "960",
+        "尺寸:": "108 x 132 x 150mm",
+        "重量:": "6.01kg"
+    },
+    {
+        "names": "APC Galaxy VS Maintenance Bypass Panel GVSBPSU20K60H",
+        "rating": "",
+        "hon_price_min": "11,500",
+        "hon_price_max": "11,600",
+        "尺寸:": "220 x 550 x 600mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT96BP",
+        "rating": "",
+        "hon_price_min": "7,680",
+        "hon_price_max": "8,020",
+        "尺寸:": "594 x 85 x 432mm",
+        "重量:": "40.6kg"
+    },
+    {
+        "names": "APC Rack PDU, Switched AP7921B",
+        "rating": "",
+        "hon_price_min": "5,248",
+        "hon_price_max": "5,270",
+        "尺寸:": "44 x 445 x 108mm",
+        "重量:": "2.27kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, Zero U, 32A, 230V, (20)C13 & (4)C19 AP7553",
+        "rating": "",
+        "hon_price_min": "3,240",
+        "hon_price_max": "3,270",
+        "尺寸:": "1619 x 56 x 44mm",
+        "重量:": "5.57kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #140 APCRBC140",
+        "rating": "",
+        "hon_price_min": "5,750",
+        "hon_price_max": "5,870",
+        "尺寸:": "122 x 197 x 597mm",
+        "重量:": "34.55kg"
+    },
+    {
+        "names": "Cyberpower 600W BRICs LCD UPS (UK x 3+3 Surge only+USB Charging Port) BR1000ELCD",
+        "rating": "",
+        "hon_price_min": "1,093",
+        "hon_price_max": "1,280"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #26 RBC26",
+        "rating": "",
+        "hon_price_min": "2,410",
+        "hon_price_max": "2,420"
+    },
+    {
+        "names": "APC Smart-UPS SRT 1500VA RM 230V SRT1500RMXLI",
+        "rating": "",
+        "hon_price_min": "10,750",
+        "hon_price_max": "10,800",
+        "最大輸出功率:": "1500W",
+        "尺寸:": "85 x 432 x 505mm",
+        "重量:": "21kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered, ZeroU, 20A/208V, 16A/230V, (18)C13 & (2)C19 AP8858",
+        "rating": "",
+        "hon_price_min": "4,320",
+        "hon_price_max": "4,330",
+        "尺寸:": "902 x 56 x 44mm",
+        "重量:": "2.93kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #3 RBC3",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "635",
+        "尺寸:": "102 x 94 x 150mm",
+        "重量:": "3.68kg"
+    },
+    {
+        "names": "APC Service Bypass Panel SBP10KRMI4U",
+        "rating": "",
+        "hon_price_min": "9,550",
+        "hon_price_max": "9,550",
+        "尺寸:": "673 x 432 x 178mm",
+        "重量:": "20.91kg"
+    },
+    {
+        "names": "APC Smart-UPS C 1500VA 230V SMC1500I-2UC",
+        "rating": "",
+        "hon_price_min": "5,779",
+        "hon_price_max": "6,999",
+        "最大輸出功率:": "900W",
+        "尺寸:": "477 x 432 x 86mm",
+        "重量:": "28.64kg"
+    },
+    {
+        "names": "APC Temperature Sensor AP9335T",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "1,000"
+    },
+    {
+        "names": "APC Smart-UPS 500VA 230V SCL500RMI1UC",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,550",
+        "最大輸出功率:": "400W",
+        "尺寸:": "232 x 432 x 44mm",
+        "重量:": "4.06kg"
+    },
+    {
+        "names": "APC Temperature & Humidity Sensor AP9335TH",
+        "rating": "",
+        "hon_price_min": "1,548",
+        "hon_price_max": "1,570"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20BHVIEC12Ra",
+        "rating": "",
+        "hon_price_min": "958",
+        "hon_price_max": "1,028",
+        "尺寸:": "445 x 44.5 x 38.1mm",
+        "重量:": "0.9kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #88 APCRBC88",
+        "rating": "",
+        "hon_price_min": "3,395",
+        "hon_price_max": "3,410",
+        "尺寸:": "38 x 207 x 480mm",
+        "重量:": "10.45kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #165 APCRBC165",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "790"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered by Outlet with Switching, ZeroU, 16A, 230V, (21) C13 & (3) C19 AP8659EU3",
+        "rating": "",
+        "hon_price_min": "14,550",
+        "hon_price_max": "14,570",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "6.77kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 1500VA 230V SRTL1500RMXLI-NC",
+        "rating": "",
+        "hon_price_min": "28,280",
+        "hon_price_max": "28,780",
+        "最大輸出功率:": "1350W",
+        "尺寸:": "590 x 432 x 128mm",
+        "重量:": "30.53kg"
+    },
+    {
+        "names": "APC Smart-UPS 3000VA Rack Mount, LCD 3000VA, 230V with SmartConnect Port SMT3000RMI2UC",
+        "rating": "",
+        "hon_price_min": "12,548",
+        "hon_price_max": "12,620",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "86 x 432 x 683mm",
+        "重量:": "44.28kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #8 RBC8",
+        "rating": "",
+        "hon_price_min": "2,048",
+        "hon_price_max": "2,070",
+        "尺寸:": "97 x  259 x 150mm",
+        "重量:": "10kg"
+    },
+    {
+        "names": "APC Smart-UPS 750VA LCD 230V with SmartConnect SMT750IC",
+        "rating": "10",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,580",
+        "最大輸出功率:": "500W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "161 x 138 x 369mm",
+        "重量:": "11.8kg"
+    },
+    {
+        "names": "Cyberpower Maintenance Bypass PDU MBP20HVIEC6",
+        "rating": "",
+        "hon_price_min": "2,788",
+        "hon_price_max": "2,920",
+        "尺寸:": "433 x 51 x 76mm",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #110 APCRBC110",
+        "rating": "",
+        "hon_price_min": "425",
+        "hon_price_max": "430",
+        "尺寸:": "105 x 151 x 65mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered-by-Outlet, ZeroU, 32A, 230V, (21)C13 & (3)C19 AP8453",
+        "rating": "",
+        "hon_price_min": "14,830",
+        "hon_price_max": "14,900",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "8.21kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #116 APCRBC116",
+        "rating": "",
+        "hon_price_min": "2,168",
+        "hon_price_max": "2,200",
+        "尺寸:": "89 x 165 x 419mm",
+        "重量:": "10.45kg"
+    },
+    {
+        "names": "APC Smart-UPS 500VA 230V SCL500RMI1UNC",
+        "rating": "",
+        "hon_price_min": "8,450",
+        "hon_price_max": "8,530",
+        "最大輸出功率:": "400W",
+        "尺寸:": "232 x 432 x 44mm",
+        "重量:": "4.1kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #155 APCRBC155",
+        "rating": "",
+        "hon_price_min": "2,998",
+        "hon_price_max": "3,030"
+    },
+    {
+        "names": "Aten Professional Online UPS (OL1500HV)",
+        "rating": "",
+        "hon_price_min": "7,380",
+        "hon_price_max": "7,450",
+        "最大輸出功率:": "1500W",
+        "半負載運轉時間:": "3.30分鐘",
+        "尺寸:": "88 x 438 x 410mm",
+        "重量:": "14.3kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS150E",
+        "rating": "",
+        "hon_price_min": "3,190",
+        "hon_price_max": "3,780",
+        "最大輸出功率:": "1350W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "151 x 225 x 394mm",
+        "重量:": "15.3kg"
+    },
+    {
+        "names": "APC Smart-UPS XL Battery Pack 24V SUA24XLBP",
+        "rating": "",
+        "hon_price_min": "3,530",
+        "hon_price_max": "3,635",
+        "尺寸:": "439 x 170 x 216mm",
+        "重量:": "31.36kg"
+    },
+    {
+        "names": "APC Smart-UPS 750VA 230V SMTL750RMI2UC",
+        "rating": "",
+        "hon_price_min": "8,280",
+        "hon_price_max": "8,430",
+        "最大輸出功率:": "600W",
+        "尺寸:": "318 x 438 x 86mm",
+        "重量:": "17.69kg"
+    },
+    {
+        "names": "Cyberpower 720W BRICs LCD UPS (UK x 3+3 Surge only+USB Charging Port) BR1200ELCD",
+        "rating": "",
+        "hon_price_min": "1,328",
+        "hon_price_max": "1,480",
+        "最大輸出功率:": "720W",
+        "半負載運轉時間:": "9分鐘",
+        "尺寸:": "166 x 118 x 288mm",
+        "重量:": "8.2kg"
+    },
+    {
+        "names": "Cyberpower 3000W Professional Rackmount Tower PR3000ERTXL2U",
+        "rating": "",
+        "hon_price_min": "9,960",
+        "hon_price_max": "10,800",
+        "最大輸出功率:": "3000W",
+        "半負載運轉時間:": "7.1分鐘",
+        "尺寸:": "433 x 86.5 x 500mm",
+        "重量:": "32.8kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20SWHVIEC10ATNET",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,588",
+        "尺寸:": "433 x 44 x 236mm",
+        "重量:": "3.8kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered, ZeroU, 16A, 230V, (18)C13 & (2)C19, IEC309 Cord AP8858EU3",
+        "rating": "",
+        "hon_price_min": "4,710",
+        "hon_price_max": "4,730",
+        "尺寸:": "902 x 56 x 44mm",
+        "重量:": "2.93kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20SWHVIEC8FNET",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,428",
+        "尺寸:": "433 x 44 x 112mm",
+        "重量:": "1.9kg"
+    },
+    {
+        "names": "APC Easy UPS 3S Empty Modular Battery Cabinet E3SXR6",
+        "rating": "",
+        "hon_price_min": "45,999",
+        "hon_price_max": "46,350",
+        "尺寸:": "1400 x 500 x 851mm",
+        "重量:": "125kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Extension Cable for External Battery Packs SRT002",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,295"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT72BP",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "6,260",
+        "尺寸:": "594 x 85 x 432mm",
+        "重量:": "33.9kg"
+    },
+    {
+        "names": "Cyberpower 1320W Tower UPS (IEC C13 x 6) UT2200EI",
+        "rating": "",
+        "hon_price_min": "2,130",
+        "hon_price_max": "2,380",
+        "最大輸出功率:": "1320W",
+        "半負載運轉時間:": "60W: 95(min)分鐘",
+        "尺寸:": "148 x 178 x 298mm",
+        "重量:": "10.8kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #35 RBC35",
+        "rating": "",
+        "hon_price_min": "365",
+        "hon_price_max": "371"
+    },
+    {
+        "names": "APC Smart-UPS Charge Mobile Battery for Microsoft Surface Hub 2 CSH2",
+        "rating": "",
+        "hon_price_min": "18,700",
+        "hon_price_max": "18,955",
+        "尺寸:": "89 x 279 x 429mm",
+        "重量:": "9.98kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 2200VA 230V SRTL2200RMXLI-NC",
+        "rating": "",
+        "hon_price_min": "37,990",
+        "hon_price_max": "38,300",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "611 x 432 x 85mm",
+        "重量:": "30.5kg"
+    },
+    {
+        "names": "Aten Symmetra LX 12kVA SYA12K16I",
+        "rating": "",
+        "hon_price_min": "108,999",
+        "hon_price_max": "109,170",
+        "最大輸出功率:": "8400W",
+        "尺寸:": "726 x 483 x 937mm",
+        "重量:": "263.64kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 3000VA 230V SRTL3000RMXLI",
+        "rating": "",
+        "hon_price_min": "47,300",
+        "hon_price_max": "47,700",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "639 x 432 x 85mm",
+        "重量:": "30.5kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #141 APCRBC141",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,710",
+        "尺寸:": "76 x 210 x 400mm",
+        "重量:": "11.7kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #150 APCRBC150",
+        "rating": "",
+        "hon_price_min": "3,168",
+        "hon_price_max": "3,200",
+        "尺寸:": "83 x 216 x 343mm",
+        "重量:": "10kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, ZeroU, 16A, 230V, (20)C13 & (4)C19 AP7554",
+        "rating": "",
+        "hon_price_min": "2,920",
+        "hon_price_max": "2,940",
+        "尺寸:": "1619 x 56 x 44mm",
+        "重量:": "5.57kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT192BP2",
+        "rating": "",
+        "hon_price_min": "10,380",
+        "hon_price_max": "10,580",
+        "尺寸:": "683 x 130 x 432mm",
+        "重量:": "91kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #123 APCRBC123",
+        "rating": "",
+        "hon_price_min": "633",
+        "hon_price_max": "650",
+        "尺寸:": "76 x 152 x 203mm",
+        "重量:": "5.21kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 3000VA 230V SRTL3000RMXLI-NC",
+        "rating": "",
+        "hon_price_min": "49,800",
+        "hon_price_max": "53,450",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "639 x 432 x 128mm",
+        "重量:": "30.5kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #115 APCRBC115",
+        "rating": "",
+        "hon_price_min": "2,968",
+        "hon_price_max": "3,000",
+        "尺寸:": "83 x 165 x  419mm",
+        "重量:": "10.82kg"
+    },
+    {
+        "names": "APC Symmetra LX 16kVA Scalable to 16kVA N+1 Rack-mount SYA16K16RMI",
+        "rating": "",
+        "hon_price_min": "149,950",
+        "hon_price_max": "150,360",
+        "尺寸:": "838 x 472 x 688mm",
+        "重量:": "286.82kg"
+    },
+    {
+        "names": "APC Symmetra LX 8kVA SYA8K8I",
+        "rating": "",
+        "hon_price_min": "97,950",
+        "hon_price_max": "98,800",
+        "最大輸出功率:": "5600W",
+        "尺寸:": "726 x 483 x 671mm",
+        "重量:": "201.82kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #13 RBC13",
+        "rating": "",
+        "hon_price_min": "11,100",
+        "hon_price_max": "11,150",
+        "尺寸:": "208 x 165 x 259mm",
+        "重量:": "27.18kg"
+    },
+    {
+        "names": "APC Symmetra LX 4kVA SYA4K8I",
+        "rating": "",
+        "hon_price_min": "84,988",
+        "hon_price_max": "85,900",
+        "最大輸出功率:": "2800W",
+        "尺寸:": "726 x 483 x 671mm",
+        "重量:": "157.73kg"
+    },
+    {
+        "names": "APC Smart-UPS 2200VA X，機架式/塔式，LCD，200 -240V  SMX2200RMHV2U",
+        "rating": "",
+        "hon_price_min": "11,630",
+        "hon_price_max": "11,640",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "85 x 432 x 667mm",
+        "重量:": "37.32kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #106 APCRBC106",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "450",
+        "尺寸:": "48 x 102 x 140mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "APC Rack PDU, Metered, 1U, 12A/208V, 10A/230V, (8)C13 AP7820B",
+        "rating": "",
+        "hon_price_min": "3,948",
+        "hon_price_max": "3,970",
+        "尺寸:": "44 x 444 x 102mm",
+        "重量:": "1.73kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 1500VA 230V SRTL1500RMXLI",
+        "rating": "",
+        "hon_price_min": "25,380",
+        "hon_price_max": "25,700",
+        "最大輸出功率:": "1350W",
+        "尺寸:": "590 x 432 x 128mm",
+        "重量:": "30.53kg"
+    },
+    {
+        "names": "APC High-Performance Battery Module for 400V Symmetra PX 48/96/160KW & 208V Symmetra PX 100KW SYBT9-B4",
+        "rating": "",
+        "hon_price_min": "19,750",
+        "hon_price_max": "19,770",
+        "尺寸:": "159 x 428 x 700mm",
+        "重量:": "100.45kg"
+    },
+    {
+        "names": "Cyberpower 2700W Professional Tower PR3000ELCDSL",
+        "rating": "",
+        "hon_price_min": "6,340",
+        "hon_price_max": "6,680",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "7分鐘",
+        "尺寸:": "170 x 221 x 432mm",
+        "重量:": "26.8kg"
+    },
+    {
+        "names": "APC SMT2200I",
+        "rating": "",
+        "hon_price_min": "7,670",
+        "hon_price_max": "9,380",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "435.00 mm x 197.00 mm x 544.00 mm",
+        "重量:": "48.8kg"
+    },
+    {
+        "names": "APC Easy UPS 3S Parallel Kit E3SOPT002",
+        "rating": "",
+        "hon_price_min": "3,099",
+        "hon_price_max": "3,120",
+        "重量:": "0.45kg"
+    },
+    {
+        "names": "APC SMX2200HV",
+        "rating": "",
+        "hon_price_min": "8,200",
+        "hon_price_max": "9,950",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "432 x 178 x 483mm",
+        "重量:": "38.56kg"
+    },
+    {
+        "names": "APC SMX1000I",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "5,570",
+        "最大輸出功率:": "800W",
+        "尺寸:": "89 x 432 x 490mm",
+        "重量:": "22.86kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered-by-Outlet, ZeroU, 16A, 100-240V, (21)C13 & (3)C19 AP8459WW",
+        "rating": "",
+        "hon_price_min": "11,730",
+        "hon_price_max": "11,760",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "6.08kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Switched, 32A, 230V, (21) C13 & (3) C19 AP8953",
+        "rating": "",
+        "hon_price_min": "10,040",
+        "hon_price_max": "10,080",
+        "尺寸:": "1829 x 56 x 46mm",
+        "重量:": "7.59kg"
+    },
+    {
+        "names": "APC SMT2200RMI2U",
+        "rating": "",
+        "hon_price_min": "8,478",
+        "hon_price_max": "9,980",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "86 x 480 x 683mm",
+        "重量:": "43.31kg"
+    },
+    {
+        "names": "APC Easy UPS 3S 15 kVA 400 V 3:3 UPS for Internal Batteries E3SUPS15KHB",
+        "rating": "",
+        "hon_price_min": "56,300",
+        "hon_price_max": "56,630",
+        "尺寸:": "1400 x  380 x 928mm",
+        "重量:": "112kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS2000ERT2U",
+        "rating": "",
+        "hon_price_min": "6,430",
+        "hon_price_max": "6,980",
+        "最大輸出功率:": "1800W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "438 x 88 x 610mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU10BVHVIEC16F",
+        "rating": "",
+        "hon_price_min": "1,245",
+        "hon_price_max": "1,328",
+        "尺寸:": "44.5 x 609.6 x 38.1mm",
+        "重量:": "1.4kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU32SWHVCEE18ATNET",
+        "rating": "",
+        "hon_price_min": "9,740",
+        "hon_price_max": "9,968",
+        "尺寸:": "433 x 88 x 236mm",
+        "重量:": "8.3kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS3000E",
+        "rating": "",
+        "hon_price_min": "6,370",
+        "hon_price_max": "6,880",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "196 x 337 x 416mm",
+        "重量:": "28.2kg"
+    },
+    {
+        "names": "APC Smart-UPS 1000VA 230V SMTL1000RMI2UC",
+        "rating": "",
+        "hon_price_min": "12,000",
+        "hon_price_max": "12,100",
+        "最大輸出功率:": "800W",
+        "尺寸:": "318 x 438 x 86mm",
+        "重量:": "16.33kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered-by-Outlet, ZeroU, 11.0kW, 230V, (21)C13 & (3)C19 AP8481",
+        "rating": "",
+        "hon_price_min": "18,380",
+        "hon_price_max": "18,420",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "8.21kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT72RMBP",
+        "rating": "",
+        "hon_price_min": "6,790",
+        "hon_price_max": "6,930",
+        "尺寸:": "594 x 432 x 85mm",
+        "重量:": "33.9kg"
+    },
+    {
+        "names": "APC Back-UPS Pro External Battery Pack BR24BPG",
+        "rating": "",
+        "hon_price_min": "2,130",
+        "hon_price_max": "2,165",
+        "尺寸:": "301 x 112 x 382mm",
+        "重量:": "13.4kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, Zero U, 11 kW, 230V, (36)C13 & (6)C19 AP7557",
+        "rating": "",
+        "hon_price_min": "7,799",
+        "hon_price_max": "7,820",
+        "尺寸:": "1778 x 56 x 44mm",
+        "重量:": "5.45kg"
+    },
+    {
+        "names": "Aten External Battery Pack (BP48V18AH)",
+        "rating": "",
+        "hon_price_min": "6,050",
+        "hon_price_max": "6,080",
+        "尺寸:": "88 x 438 x 480mm",
+        "重量:": "29kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT192RMBP2",
+        "rating": "",
+        "hon_price_min": "11,180",
+        "hon_price_max": "11,480",
+        "尺寸:": "683 x 432 x 130mm",
+        "重量:": "91kg"
+    },
+    {
+        "names": "Cyberpower Extended Battery Module BPSE36V45A",
+        "rating": "",
+        "hon_price_min": "2,670",
+        "hon_price_max": "2,680",
+        "充電時間:": "10小時",
+        "重量:": "18.7kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #132 APCRBC132",
+        "rating": "",
+        "hon_price_min": "2,958",
+        "hon_price_max": "2,990",
+        "尺寸:": "83 x 216 x 343mm",
+        "重量:": "10kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, 1U, 16A, 208/230V, (12)C13 AP9565",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,580",
+        "尺寸:": "44 x 447 x 57mm",
+        "重量:": "2.05kg"
+    },
+    {
+        "names": "Cyberpower 1350W Professional Tower PR1500LED",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "4,180",
+        "最大輸出功率:": "1350W",
+        "半負載運轉時間:": "17分鐘",
+        "尺寸:": "170 x 221 x 432mm",
+        "重量:": "25.1kg"
+    },
+    {
+        "names": "APC Smart-UPS RT Battery Pack 48V SURT48XLBP",
+        "rating": "",
+        "hon_price_min": "5,348",
+        "hon_price_max": "5,430",
+        "尺寸:": "483 x 432 x 85mm",
+        "重量:": "29.56kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20SWHVCEE10ATNET",
+        "rating": "",
+        "hon_price_min": "8,435",
+        "hon_price_max": "8,618",
+        "尺寸:": "433 x 44 x 236mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "APC Dry Contact I/O SmartSlot Card AP9613",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,460"
+    },
+    {
+        "names": "APC Smart-UPS Battery Pack XBP48RM1U-LI",
+        "rating": "",
+        "hon_price_min": "8,970",
+        "hon_price_max": "11,240",
+        "尺寸:": "521 x 432 x 43mm",
+        "重量:": "13.02kg"
+    },
+    {
+        "names": "APC Smart SMX SMX3000I UPS (Tower or 4U)",
+        "rating": "",
+        "hon_price_min": "12,040",
+        "hon_price_max": "12,210",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "17分鐘",
+        "尺寸:": "432(H) x 178(W) x 483(D)mm / 4U"
+    },
+    {
+        "names": "APC Back UPS Pro BR 650VA/390Watts , 6 Outlets, AVR, LCD Interface BR650MI",
+        "rating": "10",
+        "hon_price_min": "1,353",
+        "hon_price_max": "1,570"
+    },
+    {
+        "names": "APC Rack PDU Extender, Basic, 2U, 32A, 230V, (4) IEC C19 AP7585",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "4,880",
+        "尺寸:": "89 x 437 x 89mm",
+        "重量:": "4.09kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered-by-Outlet, ZeroU, 16A, 230V, (21)C13 & (3)C19 AP8459EU3",
+        "rating": "",
+        "hon_price_min": "11,980",
+        "hon_price_max": "12,030",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "6.76kg"
+    },
+    {
+        "names": "APC SMT3000I",
+        "rating": "",
+        "hon_price_min": "9,380",
+        "hon_price_max": "11,570",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "435.00 mm x 197.00 mm x 544.00 mm",
+        "重量:": "52.5kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 1500VA 230V SRT1500XLI",
+        "rating": "",
+        "hon_price_min": "8,743",
+        "hon_price_max": "8,990",
+        "最大輸出功率:": "1500W",
+        "尺寸:": "432 x 85 x 505mm",
+        "重量:": "20.5kg"
+    },
+    {
+        "names": "APC Symmetra Lx Extended Run Tower W/9 SYBT5, 230V SYAXR9B9I",
+        "rating": "",
+        "hon_price_min": "55,990",
+        "hon_price_max": "56,700",
+        "尺寸:": "602 x 483 x 726mm",
+        "重量:": "349.09kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic AP9559",
+        "rating": "",
+        "hon_price_min": "2,140",
+        "hon_price_max": "2,160"
+    },
+    {
+        "names": "APC SRT3000XLI SMART-UPS SRT ON-LINE (Tower Model)",
+        "rating": "",
+        "hon_price_min": "13,250",
+        "hon_price_max": "15,570",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "5分鐘",
+        "尺寸:": "432 x 610mm / 2U",
+        "重量:": "54.55kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #119 APCRBC119",
+        "rating": "",
+        "hon_price_min": "10,268",
+        "hon_price_max": "10,300",
+        "尺寸:": "208 x 165 x 259mm",
+        "重量:": "27.18kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 2 Post Mounting Rail Kit for Smart-UPS SRT SRTRK3",
+        "rating": "",
+        "hon_price_min": "1,810",
+        "hon_price_max": "1,840"
+    },
+    {
+        "names": "APC Symmetra 4-16kVA Battery Module SYBATT",
+        "rating": "",
+        "hon_price_min": "4,738",
+        "hon_price_max": "4,800",
+        "尺寸:": "150 x 229 x 508mm",
+        "重量:": "29.55kg"
+    },
+    {
+        "names": "Cyberpower Extended Battery Module BPSE240V47A",
+        "rating": "",
+        "hon_price_min": "14,240",
+        "hon_price_max": "14,280",
+        "充電時間:": "4小時",
+        "重量:": "105kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #23 RBC23",
+        "rating": "",
+        "hon_price_min": "3,518",
+        "hon_price_max": "3,540"
+    },
+    {
+        "names": "Aten Professional Online UPS (OL3000HV)",
+        "rating": "",
+        "hon_price_min": "12,450",
+        "hon_price_max": "12,490",
+        "最大輸出功率:": "3000W",
+        "半負載運轉時間:": "3.41分鐘",
+        "尺寸:": "88 x 438 x 630mm",
+        "重量:": "28.7kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS3000ERT2U",
+        "rating": "",
+        "hon_price_min": "8,690",
+        "hon_price_max": "8,980",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "438 x 88 x 610mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #113 APCRBC113",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "695",
+        "尺寸:": "102 x 133 x 152mm",
+        "重量:": "6.8kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 2200VA 230V SRTL2200RMXLI",
+        "rating": "",
+        "hon_price_min": "32,380",
+        "hon_price_max": "32,680",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "611 x 432 x 85mm",
+        "重量:": "30.5kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered, ZeroU, 32A, 230V, (36)C13 & (6)C19 AP8853",
+        "rating": "",
+        "hon_price_min": "5,620",
+        "hon_price_max": "5,660",
+        "尺寸:": "1791 x 56 x 44mm",
+        "重量:": "6.93kg"
+    },
+    {
+        "names": "APC SMT1500RMI2U",
+        "rating": "",
+        "hon_price_min": "6,248",
+        "hon_price_max": "7,600",
+        "充電時間:": "3hour(s)",
+        "重量:": "28.64kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #18 RBC18",
+        "rating": "",
+        "hon_price_min": "1,468",
+        "hon_price_max": "1,500"
+    },
+    {
+        "names": "APC APTF10KW01 SMART-UPS RT ON-LINE 10KVA Isolation Transformer",
+        "rating": "",
+        "hon_price_min": "13,040",
+        "hon_price_max": "13,250",
+        "尺寸:": "175 x 432 x 749mm",
+        "重量:": "100kg"
+    },
+    {
+        "names": "APC SMX3000HV",
+        "rating": "",
+        "hon_price_min": "9,790",
+        "hon_price_max": "12,100",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "432 x 178 x 483mm",
+        "重量:": "38.64kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Extension Cable for External Battery Packs SRT003",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,230"
+    },
+    {
+        "names": "APC SMT1000I",
+        "rating": "",
+        "hon_price_min": "3,890",
+        "hon_price_max": "5,180",
+        "最大輸出功率:": "700W",
+        "尺寸:": "219.00 mm x 171.00 mm x 439.00 mm",
+        "重量:": "18.86kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #109 APCRBC109",
+        "rating": "",
+        "hon_price_min": "858",
+        "hon_price_max": "865",
+        "尺寸:": "104 x 151 x 132mm",
+        "重量:": "5.58kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #34 RBC34",
+        "rating": "",
+        "hon_price_min": "2,818",
+        "hon_price_max": "2,850"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered by Outlet with Switching, ZeroU, 32A, 230V, (21) C13 & (3) C19 AP8653",
+        "rating": "",
+        "hon_price_min": "17,390",
+        "hon_price_max": "17,410",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "8.23kg"
+    },
+    {
+        "names": "APC Leak Sensor - 20 ft (6.1 m) AP9325",
+        "rating": "",
+        "hon_price_min": "3,428",
+        "hon_price_max": "3,470"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20MVHVIEC24F",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,288",
+        "尺寸:": "44.45 x 1219.2 x 38.1mm",
+        "重量:": "2.63kg"
+    },
+    {
+        "names": "APC Smart-UPS 4-Post Rackmount Rails SU032A",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,260",
+        "尺寸:": "527 x 44 x 89mm",
+        "重量:": "2.73kg"
+    },
+    {
+        "names": "APC Temperature & Humidity Sensor with Display AP9520TH",
+        "rating": "",
+        "hon_price_min": "2,678",
+        "hon_price_max": "2,690"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20BVHVIEC24F",
+        "rating": "",
+        "hon_price_min": "1,915",
+        "hon_price_max": "1,998",
+        "尺寸:": "44.5 x 1219.2 x 38.1mm",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "Cyberpower Extended Battery Module BPSE36V45ART2U",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,280",
+        "尺寸:": "438 x 88 x 430mm",
+        "重量:": "24.2kg"
+    },
+    {
+        "names": "APC SUA750I",
+        "rating": "",
+        "hon_price_min": "2,420",
+        "hon_price_max": "2,600",
+        "最大輸出功率:": "500W",
+        "半負載運轉時間:": "16分鐘",
+        "尺寸:": "157 x 137 x 358mm",
+        "重量:": "13.18kg"
+    },
+    {
+        "names": "APC SMT1000RMI2U",
+        "rating": "",
+        "hon_price_min": "4,170",
+        "hon_price_max": "4,690",
+        "最大輸出功率:": "700W",
+        "尺寸:": "89.00 mm x 432.00 mm x 457.00 mm",
+        "重量:": "28.18kg"
+    },
+    {
+        "names": "APC Smart-Connect 1000 不斷電系統(1000VA/600Watts)",
+        "rating": "",
+        "hon_price_min": "2,540",
+        "hon_price_max": "2,549",
+        "最大輸出功率:": "600W"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #11 RBC11",
+        "rating": "",
+        "hon_price_min": "4,088",
+        "hon_price_max": "4,110",
+        "尺寸:": "173 x 142 x 183mm",
+        "重量:": "24.27kg"
+    },
+    {
+        "names": "APC Smart SMX SMX2200I UPS (Tower or 4U)",
+        "rating": "",
+        "hon_price_min": "9,880",
+        "hon_price_max": "10,060",
+        "最大輸出功率:": "1980W",
+        "半負載運轉時間:": "26.1分鐘",
+        "尺寸:": "432 x 178 x 483mm / 4U"
+    },
+    {
+        "names": "APC Smart-UPS 1000VA 230V SMT1000RMI2UC",
+        "rating": "",
+        "hon_price_min": "5,550",
+        "hon_price_max": "7,260",
+        "最大輸出功率:": "700W",
+        "尺寸:": "477 x 432 x 86mm",
+        "重量:": "22.5kg"
+    },
+    {
+        "names": "APC BR1200GI",
+        "rating": "",
+        "hon_price_min": "2,648",
+        "hon_price_max": "3,009",
+        "最大輸出功率:": "720W",
+        "尺寸:": "387 x  238 x 488",
+        "重量:": "11.6kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #12 RBC12",
+        "rating": "",
+        "hon_price_min": "4,710",
+        "hon_price_max": "4,760",
+        "尺寸:": "97 x 254 x 152mm",
+        "重量:": "20kg"
+    },
+    {
+        "names": "APC SUM1500RMXLI2U",
+        "rating": "",
+        "hon_price_min": "8,340",
+        "hon_price_max": "9,460",
+        "最大輸出功率:": "1425W",
+        "半負載運轉時間:": "28分鐘",
+        "尺寸:": "86 x 432 x 678mm",
+        "重量:": "46.82kg"
+    },
+    {
+        "names": "APC Rack PDU Extender, Basic, 2U, 32A, 230V, (4) IEC 309-32 AP7586",
+        "rating": "",
+        "hon_price_min": "4,850",
+        "hon_price_max": "4,930",
+        "尺寸:": "437 x 89 x 89mm",
+        "重量:": "4.1kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #164 APCRBC164",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "790"
+    },
+    {
+        "names": "APC AP7526",
+        "rating": "",
+        "hon_price_min": "3,018",
+        "hon_price_max": "4,330",
+        "尺寸:": "437 x 254 x 44mm",
+        "重量:": "6.98kg"
+    },
+    {
+        "names": "APC Symmetra LX 16kVA SYA16K16I",
+        "rating": "",
+        "hon_price_min": "132,980",
+        "hon_price_max": "139,999",
+        "最大輸出功率:": "11200W",
+        "尺寸:": "726 x 483 x 937mm",
+        "重量:": "307.73kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT96RMBP",
+        "rating": "",
+        "hon_price_min": "9,380",
+        "hon_price_max": "9,560",
+        "尺寸:": "594 x 432 x 85mm",
+        "重量:": "40.6kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS10000E",
+        "rating": "",
+        "hon_price_min": "20,080",
+        "hon_price_max": "23,180",
+        "最大輸出功率:": "9000W",
+        "半負載運轉時間:": "11分鐘",
+        "尺寸:": "260 x 708 x 550mm",
+        "重量:": "86kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #148 APCRBC148",
+        "rating": "",
+        "hon_price_min": "3,168",
+        "hon_price_max": "3,200",
+        "尺寸:": "83 x 216 x 343mm",
+        "重量:": "10kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS2000E",
+        "rating": "",
+        "hon_price_min": "4,830",
+        "hon_price_max": "5,380",
+        "最大輸出功率:": "1800W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "196 x 337 x 416mm",
+        "重量:": "23.8kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #14 RBC14",
+        "rating": "",
+        "hon_price_min": "11,030",
+        "hon_price_max": "11,070",
+        "尺寸:": "208 x 165 x 259mm",
+        "重量:": "108.73kg"
+    },
+    {
+        "names": "Cyberpower 630W Tower UPS (IEC C13 4+2 Surge-only) UT1050EIG",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,280",
+        "最大輸出功率:": "630W",
+        "半負載運轉時間:": "60W: 65(min)分鐘",
+        "尺寸:": "95 x 220 x 307mm",
+        "重量:": "6.9kg"
+    },
+    {
+        "names": "APC Rack PDU, Metered, 2U, 32A, 230V, (12)C13 & (4)C19 AP7822B",
+        "rating": "",
+        "hon_price_min": "7,810",
+        "hon_price_max": "7,850",
+        "尺寸:": "88 x 444 x 112mm",
+        "重量:": "3.36kg"
+    },
+    {
+        "names": "APC SC420I",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,280",
+        "最大輸出功率:": "260W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "168 x 119 x 368mm",
+        "重量:": "9.09kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #166 APCRBC166",
+        "rating": "",
+        "hon_price_min": "710",
+        "hon_price_max": "720"
+    },
+    {
+        "names": "APC Symmetra LX 12kVA Scalable to 16kVA N+1 Ext. Run Tower SYA12K16IXR",
+        "rating": "",
+        "hon_price_min": "169,250",
+        "hon_price_max": "169,520",
+        "尺寸:": "1516 x 483 x 726mm",
+        "重量:": "488.64kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #6 RBC6",
+        "rating": "",
+        "hon_price_min": "1,397",
+        "hon_price_max": "1,410",
+        "尺寸:": "94 x 152 x 196mm",
+        "重量:": "7.68kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, Zero U, 10A,230V, (15)C13 AP9568",
+        "rating": "",
+        "hon_price_min": "1,640",
+        "hon_price_max": "1,670",
+        "尺寸:": "610 x 44 x 44mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "CyberPower Smart App UPS Systems PR2200ELCDSL",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "6,080",
+        "最大輸出功率:": "1980W",
+        "半負載運轉時間:": "12分鐘",
+        "尺寸:": "170 x 221 x 432mm",
+        "重量:": "25.5kg"
+    },
+    {
+        "names": "APC Smart-UPS RT 19\" Rail Kit SURTRK",
+        "rating": "",
+        "hon_price_min": "1,468",
+        "hon_price_max": "1,530"
+    },
+    {
+        "names": "Cyberpower 1500W Professional Rackmount Tower PR1500ERT2U",
+        "rating": "",
+        "hon_price_min": "5,060",
+        "hon_price_max": "5,380",
+        "最大輸出功率:": "1500W",
+        "半負載運轉時間:": "18.6分鐘",
+        "尺寸:": "433 x 86.5 x 412mm",
+        "重量:": "24.6kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered by Outlet with Switching, ZeroU, 20A/208V, 16A/230V, (21) C13 & (3) C19 AP8659",
+        "rating": "",
+        "hon_price_min": "13,730",
+        "hon_price_max": "13,790",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "6.09kg"
+    },
+    {
+        "names": "APC Symmetra LX 8kVA Scalable to 8kVA N+1 Rack-mount SYA8K8RMI",
+        "rating": "",
+        "hon_price_min": "98,950",
+        "hon_price_max": "99,500",
+        "尺寸:": "572 x 472 x 688mm",
+        "重量:": "178.18kg"
+    },
+    {
+        "names": "APC Symmetra RM 2-6kVA Battery Module SYBT2",
+        "rating": "",
+        "hon_price_min": "3,848",
+        "hon_price_max": "3,870",
+        "尺寸:": "83 x 216 x 546mm",
+        "重量:": "22.27kg"
+    },
+    {
+        "names": "APC BH500INET",
+        "rating": "",
+        "hon_price_min": "928",
+        "hon_price_max": "935",
+        "最大輸出功率:": "300W",
+        "半負載運轉時間:": "13分鐘",
+        "尺寸:": "372 x 225 x 105mm",
+        "重量:": "7.42kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20BVHVIEC32F",
+        "rating": "",
+        "hon_price_min": "2,165",
+        "hon_price_max": "2,268",
+        "尺寸:": "44.5 x 1524 x 38.1mm",
+        "重量:": "3.4kg"
+    },
+    {
+        "names": "Cyberpower 900W Professional Tower PR1000ELCD",
+        "rating": "",
+        "hon_price_min": "3,110",
+        "hon_price_max": "3,380",
+        "最大輸出功率:": "900W",
+        "半負載運轉時間:": "16分鐘",
+        "尺寸:": "170 x 221 x 432mm",
+        "重量:": "18.9kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Switched, 20A/208V, 16A/230V, (21)C13 & (3)C19 AP8959",
+        "rating": "",
+        "hon_price_min": "8,820",
+        "hon_price_max": "8,850",
+        "尺寸:": "1791 x 56 x 44mm",
+        "重量:": "5.73kg"
+    },
+    {
+        "names": "APC Easy UPS 3S 40 kVA 400 V 3:3 UPS for Internal Batteries E3SUPS40KHB",
+        "rating": "",
+        "hon_price_min": "80,980",
+        "hon_price_max": "81,540",
+        "尺寸:": "1400 x 500 x 969mm",
+        "重量:": "158kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, ZeroU, 16A,230V, (20)C13 & (4)C19; IEC309 AP7551",
+        "rating": "",
+        "hon_price_min": "2,495",
+        "hon_price_max": "2,510",
+        "尺寸:": "1619 x 56 x 44mm",
+        "重量:": "4.86kg"
+    },
+    {
+        "names": "APC Easy UPS 3 Series Network E3SOPT001",
+        "rating": "",
+        "hon_price_min": "2,340",
+        "hon_price_max": "2,340"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT192BP",
+        "rating": "",
+        "hon_price_min": "10,180",
+        "hon_price_max": "10,360",
+        "尺寸:": "683 x 130 x 432mm",
+        "重量:": "91kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, Zero U, 22kW, 400V, (6)C19 & (3)C13 AP7555A",
+        "rating": "",
+        "hon_price_min": "7,950",
+        "hon_price_max": "7,970",
+        "尺寸:": "927 x 55 x 88mm",
+        "重量:": "4.76kg"
+    },
+    {
+        "names": "APC Smart-UPS XL Extended Run Battery Pack SUM48RMXLBP2U",
+        "rating": "",
+        "hon_price_min": "8,530",
+        "hon_price_max": "8,635",
+        "尺寸:": "678 x 432 x 86mm",
+        "重量:": "59.55kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #29 RBC29",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "340"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU41004",
+        "rating": "",
+        "hon_price_min": "3,890",
+        "hon_price_max": "4,028",
+        "尺寸:": "433 x 44 x 112mm",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU20MHVCEE10AT",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,648",
+        "尺寸:": "433 x 44 x 236mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "APC Rack PDU, Switched, Zero U, 10A, 230V, (16)C13 AP7950B",
+        "rating": "",
+        "hon_price_min": "8,430",
+        "hon_price_max": "8,460",
+        "尺寸:": "1245 x 56 x 44mm",
+        "重量:": "4.32kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Switched, ZeroU, 16A, 230V, (7)C13 & (1)C19, IEC309 Cord AP8958EU3",
+        "rating": "",
+        "hon_price_min": "8,050",
+        "hon_price_max": "8,060",
+        "尺寸:": "988 x 56 x 46mm",
+        "重量:": "3.23kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #25 RBC25",
+        "rating": "",
+        "hon_price_min": "4,748",
+        "hon_price_max": "4,790"
+    },
+    {
+        "names": "Emerson GXT4-1500RT230",
+        "rating": "",
+        "hon_price_min": "5,100",
+        "hon_price_max": "5,700"
+    },
+    {
+        "names": "APC Rack PDU 2G, Switched, ZeroU, 20A/208V, 16A/230V, (7)C13 & (1)C19 AP8958",
+        "rating": "",
+        "hon_price_min": "7,890",
+        "hon_price_max": "7,910",
+        "尺寸:": "988 x 56 x 46mm",
+        "重量:": "3.23kg"
+    },
+    {
+        "names": "APC Symmetra LX 12kVA Scalable to 16kVA N+1 Rack-mount SYA12K16RMI",
+        "rating": "",
+        "hon_price_min": "132,950",
+        "hon_price_max": "133,540",
+        "尺寸:": "838 x 472 x 688mm",
+        "重量:": "242.74kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 6000VA 230V 5U",
+        "rating": "",
+        "hon_price_min": "16,800",
+        "hon_price_max": "16,880",
+        "最大輸出功率:": "4800W",
+        "尺寸:": "430 x 574 x 217mm",
+        "重量:": "60kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 1000VA RM 230V SRT1000RMXLI",
+        "rating": "",
+        "hon_price_min": "8,990",
+        "hon_price_max": "9,120",
+        "最大輸出功率:": "1000W",
+        "尺寸:": "85 x 432 x 505mm",
+        "重量:": "21kg"
+    },
+    {
+        "names": "APC Smart-UPS C 1000VA 230V SMC1000I-2UC",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "4,500",
+        "最大輸出功率:": "600W",
+        "尺寸:": "406 x 432 x 86mm",
+        "重量:": "20.52kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 1000VA 230V SRTL1000RMXLI",
+        "rating": "",
+        "hon_price_min": "23,480",
+        "hon_price_max": "23,900",
+        "最大輸出功率:": "900W",
+        "尺寸:": "590 x 432 x 128mm",
+        "重量:": "30.53kg"
+    },
+    {
+        "names": "APC SMC1000I-2U",
+        "rating": "",
+        "hon_price_min": "3,267",
+        "hon_price_max": "3,640",
+        "最大輸出功率:": "600W",
+        "尺寸:": "89mm X 432mm X 406mm",
+        "重量:": "20.52kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #118 APCRBC118",
+        "rating": "",
+        "hon_price_min": "3,968",
+        "hon_price_max": "4,000",
+        "尺寸:": "76 x 203 x 584mm",
+        "重量:": "22.27kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #2 RBC2",
+        "rating": "10",
+        "hon_price_min": "418",
+        "hon_price_max": "430",
+        "尺寸:": "94 x 64 x 151mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "Aten External Battery Pack (BP72V18AH)",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,850",
+        "尺寸:": "88 x 438 x 600mm",
+        "重量:": "41.2kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #33 RBC33",
+        "rating": "",
+        "hon_price_min": "1,078",
+        "hon_price_max": "1,090"
+    },
+    {
+        "names": "APC SUA1000RMI1U",
+        "rating": "",
+        "hon_price_min": "4,128",
+        "hon_price_max": "4,128",
+        "最大輸出功率:": "640W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "44 x 432 x 666mm",
+        "重量:": "21.82kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #27 RBC27",
+        "rating": "",
+        "hon_price_min": "4,958",
+        "hon_price_max": "4,990"
+    },
+    {
+        "names": "APC SU2200XLINET",
+        "rating": "",
+        "hon_price_min": "7,720",
+        "hon_price_max": "7,720",
+        "最大輸出功率:": "1600W",
+        "尺寸:": "432 x 196 x 546mm",
+        "重量:": "55kg"
+    },
+    {
+        "names": "APC SU2200RMXLINET",
+        "rating": "",
+        "hon_price_min": "10,680",
+        "hon_price_max": "10,860",
+        "最大輸出功率:": "1600W",
+        "尺寸:": "222 x 483 x 451mm",
+        "重量:": "52.27kg"
+    },
+    {
+        "names": "APC Smart-UPS 1500VA 230V SMTL1500RMI3UC",
+        "rating": "",
+        "hon_price_min": "18,080",
+        "hon_price_max": "18,200",
+        "最大輸出功率:": "1350W",
+        "尺寸:": "302 x 438 x 131mm",
+        "重量:": "19.5kg"
+    },
+    {
+        "names": "APC KVM Console Extender AP5203",
+        "rating": "",
+        "hon_price_min": "3,038",
+        "hon_price_max": "3,050",
+        "尺寸:": "41 x 99 x 81mm",
+        "重量:": "0.8kg"
+    },
+    {
+        "names": "APC SUA3000XLI",
+        "rating": "",
+        "hon_price_min": "9,230",
+        "hon_price_max": "9,350",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "17分鐘",
+        "尺寸:": "444 x 221 x 495mm",
+        "重量:": "55kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #5 RBC5",
+        "rating": "",
+        "hon_price_min": "1,008",
+        "hon_price_max": "1,020",
+        "尺寸:": "94 x 130 x 150mm",
+        "重量:": "4.96kg"
+    },
+    {
+        "names": "Emerson Liebert PSI-XR 3000VA/2700W 230V 2U",
+        "rating": "",
+        "hon_price_min": "8,500",
+        "hon_price_max": "8,500",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "88 x 440 x 700.5mm",
+        "重量:": "46kg"
+    },
+    {
+        "names": "APC SBP5000RMI2U Bypass SMART-UPS RT ON-LINE NON package items",
+        "rating": "",
+        "hon_price_min": "3,640",
+        "hon_price_max": "3,700",
+        "尺寸:": "89 x 432 x 660mm"
+    },
+    {
+        "names": "Cyberpower 1980W Professional Pr Tower PR2200ELCD",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "6,080",
+        "最大輸出功率:": "1980W"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered, ZeroU, 11kW, 230V, (36)C13 & (6)C19 AP8881",
+        "rating": "",
+        "hon_price_min": "11,400",
+        "hon_price_max": "14,500",
+        "尺寸:": "1791 x 56 x 44mm",
+        "重量:": "6.38kg"
+    },
+    {
+        "names": "Aten External Battery Pack (BP24V18AH)",
+        "rating": "",
+        "hon_price_min": "4,030",
+        "hon_price_max": "4,070",
+        "尺寸:": "88 x 438 x 380mm",
+        "重量:": "17.1kg"
+    },
+    {
+        "names": "Aten External Battery Pack (BP36V18AH)",
+        "rating": "",
+        "hon_price_min": "4,750",
+        "hon_price_max": "4,790",
+        "尺寸:": "88 x 438 x 380mm",
+        "重量:": "21.5kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Output Hardwire Kit 5kVA SRT001",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,810",
+        "尺寸:": "43 x 198 x 122mm",
+        "重量:": "0.55kg"
+    },
+    {
+        "names": "APC Smart-UPS 2200VA 230V SMT2200RMI2UC",
+        "rating": "",
+        "hon_price_min": "9,299",
+        "hon_price_max": "10,750",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "86 x 432 x 683mm",
+        "重量:": "42.3kg"
+    },
+    {
+        "names": "APC SURT20KRMXLIBP SMART-UPS RT ON-LINE 15K/20K VA (Rackmount Model)",
+        "rating": "",
+        "hon_price_min": "113,950",
+        "hon_price_max": "115,610",
+        "充電時間:": "2.5hour(s)",
+        "重量:": "247.73kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #151 APCRBC151",
+        "rating": "",
+        "hon_price_min": "3,400",
+        "hon_price_max": "3,440",
+        "尺寸:": "83 x 216 x 343mm",
+        "重量:": "10kg"
+    },
+    {
+        "names": "APC Symmetra LX 8kVA Scalable to 16kVA N+1 Ext. Run Tower SYA8K16IXR",
+        "rating": "",
+        "hon_price_min": "145,980",
+        "hon_price_max": "146,180",
+        "尺寸:": "1516 x 483 x 726mm",
+        "重量:": "473.64kg"
+    },
+    {
+        "names": "SANYO DENKI Hybrid UPS E11B202A002AMUJ",
+        "rating": "",
+        "hon_price_min": "6,875",
+        "hon_price_max": "6,875",
+        "最大輸出功率:": "1200W",
+        "半負載運轉時間:": "12分鐘",
+        "尺寸:": "435 x 723 x 86mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "APC Rack PDU, Metered, Zero U, 10A, 230V, (16)C13 AP7850B",
+        "rating": "",
+        "hon_price_min": "4,028",
+        "hon_price_max": "4,050",
+        "尺寸:": "1245 x 56 x 44mm",
+        "重量:": "3.07kg"
+    },
+    {
+        "names": "APC SURTD3000RMXLI",
+        "rating": "",
+        "hon_price_min": "13,850",
+        "hon_price_max": "14,987",
+        "最大輸出功率:": "2100W",
+        "尺寸:": "130  432 x 660mm",
+        "重量:": "54.55kg"
+    },
+    {
+        "names": "APC SUA3000RMXLI3U",
+        "rating": "",
+        "hon_price_min": "10,580",
+        "hon_price_max": "10,660",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "133 x 483 x 660mm",
+        "重量:": "62.73kg"
+    },
+    {
+        "names": "APC SUM3000RMXLI2U",
+        "rating": "",
+        "hon_price_min": "12,200",
+        "hon_price_max": "13,770",
+        "最大輸出功率:": "2850W",
+        "半負載運轉時間:": "12分鐘",
+        "尺寸:": "86 x 432 x 678mm",
+        "重量:": "46.82kg"
+    },
+    {
+        "names": "APC Easy UPS 3S Battery String E3SBT4",
+        "rating": "",
+        "hon_price_min": "12,940",
+        "hon_price_max": "13,130",
+        "尺寸:": "157 x 428 x 760mm",
+        "重量:": "108kg"
+    },
+    {
+        "names": "APC SC250RMI1U",
+        "rating": "",
+        "hon_price_min": "1,168",
+        "hon_price_max": "1,168",
+        "最大輸出功率:": "165W",
+        "尺寸:": "44 x 432 x 383mm",
+        "重量:": "8.92kg"
+    },
+    {
+        "names": "APC Symmetra LX Extended Run Rack-mount w/ 3 SYBT5, 230V SYARMXR3B3I",
+        "rating": "",
+        "hon_price_min": "16,540",
+        "hon_price_max": "16,570",
+        "尺寸:": "215 x 472 x 686mm",
+        "重量:": "114.1kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS1000ERT2U",
+        "rating": "",
+        "hon_price_min": "3,750",
+        "hon_price_max": "4,745",
+        "最大輸出功率:": "900W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "438 x 88 x 430mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "APC Smart-UPS RT Battery Pack SURT48RMXLBP",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "7,020",
+        "尺寸:": "483 x 432 x 85mm",
+        "重量:": "29.56kg"
+    },
+    {
+        "names": "APC Rack PDU, Basic, Zero U, 16A, 208/230V, (15)C13 AP9572",
+        "rating": "",
+        "hon_price_min": "2,170",
+        "hon_price_max": "2,190",
+        "尺寸:": "620 x 44 x 44mm",
+        "重量:": "2kg"
+    },
+    {
+        "names": "APC SC1000I",
+        "rating": "",
+        "hon_price_min": "2,078",
+        "hon_price_max": "2,100",
+        "最大輸出功率:": "600W",
+        "半負載運轉時間:": "20分鐘",
+        "尺寸:": "89mm x 432mm x 463mm",
+        "重量:": "16.36kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #133 APCRBC133",
+        "rating": "",
+        "hon_price_min": "2,530",
+        "hon_price_max": "2,590",
+        "尺寸:": "83 x 216 x 343mm",
+        "重量:": "11.96kg"
+    },
+    {
+        "names": "APC Rack PDU, Metered, 1U, 16A, 208/230V, (8)C13 AP7821B",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "4,570",
+        "尺寸:": "44 x 444 x 102mm",
+        "重量:": "1.74kg"
+    },
+    {
+        "names": "APC Galaxy VS Maintenance Bypass Panel GVSBPSU10K20H",
+        "rating": "",
+        "hon_price_min": "7,460",
+        "hon_price_max": "7,480",
+        "尺寸:": "150 x 400 x 450mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Switched, 16A, 230V, (21)C13 & (3)C19, IEC309 Cord AP8959EU3",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "9,005",
+        "尺寸:": "1791 x 56 x 44mm",
+        "重量:": "5.73kg"
+    },
+    {
+        "names": "APC SUA1500I",
+        "rating": "",
+        "hon_price_min": "4,190",
+        "hon_price_max": "4,210",
+        "最大輸出功率:": "980W",
+        "半負載運轉時間:": "24分鐘",
+        "尺寸:": "216 x 170 x 439mm",
+        "重量:": "24.09kg"
+    },
+    {
+        "names": "APC Symmetra RM XR Frame w/2 SYBT2 Scalable to 4 220-240V SYRMXR2B4I",
+        "rating": "",
+        "hon_price_min": "25,395",
+        "hon_price_max": "25,430",
+        "尺寸:": "178 x 483 x 640mm",
+        "重量:": "65.46kg"
+    },
+    {
+        "names": "APC BR500I",
+        "rating": "",
+        "hon_price_min": "978",
+        "hon_price_max": "980",
+        "最大輸出功率:": "300W",
+        "尺寸:": "165 x 91 x 284mm",
+        "重量:": "5.89kg"
+    },
+    {
+        "names": "Aten Professional Online UPS (OL2000HV)",
+        "rating": "",
+        "hon_price_min": "9,500",
+        "hon_price_max": "9,550",
+        "最大輸出功率:": "2000W",
+        "半負載運轉時間:": "3.19分鐘",
+        "尺寸:": "88 x 438 x 510mm",
+        "重量:": "20.7kg"
+    },
+    {
+        "names": "APC Smart-UPS 1000VA 230V SMT1000IC",
+        "rating": "",
+        "hon_price_min": "5,180",
+        "hon_price_max": "6,299",
+        "最大輸出功率:": "700W",
+        "尺寸:": "439 x 171 x 219mm",
+        "重量:": "19.4kg"
+    },
+    {
+        "names": "APC Symmetra LX 16kVA Scalable to 16kVA N+1 Ext. Run Tower SYA16K16IXR",
+        "rating": "",
+        "hon_price_min": "176,600",
+        "hon_price_max": "176,800",
+        "尺寸:": "1516 x 483 x 726mm",
+        "重量:": "503.64kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #4 RBC4",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "635",
+        "尺寸:": "99 x 94 x 150mm",
+        "重量:": "3.68kg"
+    },
+    {
+        "names": "APC SC1500I",
+        "rating": "",
+        "hon_price_min": "3,060",
+        "hon_price_max": "3,100",
+        "最大輸出功率:": "865W",
+        "半負載運轉時間:": "21分鐘",
+        "尺寸:": "89mm x 432mm x 463mm",
+        "重量:": "21.36kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT48BP",
+        "rating": "",
+        "hon_price_min": "5,578",
+        "hon_price_max": "5,740",
+        "尺寸:": "536 x 85 x 432mm",
+        "重量:": "29.9kg"
+    },
+    {
+        "names": "APC Smart-UPS X-Series External Battery Pack Rack/Tower SMX120BP",
+        "rating": "",
+        "hon_price_min": "7,360",
+        "hon_price_max": "7,510",
+        "尺寸:": "432 x 178 x 483mm",
+        "重量:": "60.91kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #47 RBC47",
+        "rating": "",
+        "hon_price_min": "285",
+        "hon_price_max": "290"
+    },
+    {
+        "names": "APC Rack PDU, Switched, 2U, 32A, 230V, (16)C13 AP7922B",
+        "rating": "",
+        "hon_price_min": "7,738",
+        "hon_price_max": "7,760",
+        "尺寸:": "89 x 445 x 114mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "APC SMT3000RMI2U",
+        "rating": "",
+        "hon_price_min": "10,100",
+        "hon_price_max": "11,300",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "86.00 mm x 480.00 mm x 683.00 mm",
+        "重量:": "44.28kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #105 APCRBC105",
+        "rating": "",
+        "hon_price_min": "4,588",
+        "hon_price_max": "4,620",
+        "尺寸:": "108 x 165 x 572mm",
+        "重量:": "24.55kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Switched, 11kW, 230V, (21) C13 & (3) C19 AP8981",
+        "rating": "",
+        "hon_price_min": "14,080",
+        "hon_price_max": "14,180",
+        "尺寸:": "1791 x 56 x 46mm",
+        "重量:": "7kg"
+    },
+    {
+        "names": "APC Easy UPS 3S 20 kVA 400 V 3:3 UPS for Internal Batteries E3SUPS20KHB",
+        "rating": "",
+        "hon_price_min": "63,980",
+        "hon_price_max": "64,130",
+        "尺寸:": "1400 x  380 x 928mm",
+        "重量:": "122kg"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS6000E",
+        "rating": "",
+        "hon_price_min": "14,700",
+        "hon_price_max": "19,800",
+        "最大輸出功率:": "5400W",
+        "半負載運轉時間:": "18分鐘",
+        "尺寸:": "260 x 708 x 550mm",
+        "重量:": "70kg"
+    },
+    {
+        "names": "CyberPower Smart App UPS Systems PR1500ELCD",
+        "rating": "",
+        "hon_price_min": "2,846",
+        "hon_price_max": "4,180",
+        "最大輸出功率:": "1350W",
+        "半負載運轉時間:": "17分鐘",
+        "尺寸:": "170 x 221 x 432mm",
+        "重量:": "25.1kg"
+    },
+    {
+        "names": "Emerson Liebert PSI-XR 1000VA/900W 230V 2U",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "最大輸出功率:": "900W",
+        "尺寸:": "88 x 440 x 490.5mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "APC Smart-UPS 2200VA LCD 230V SMT2200IC",
+        "rating": "",
+        "hon_price_min": "9,700",
+        "hon_price_max": "9,890",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "435 x 197 x 544mm",
+        "重量:": "50.2kg"
+    },
+    {
+        "names": "APC Leak Sensor Extension Cable - 20 ft (6.1 m) AP9326",
+        "rating": "",
+        "hon_price_min": "2,560",
+        "hon_price_max": "2,580"
+    },
+    {
+        "names": "APC Symmetra LX Extended Run Rack-mount w/ 9 SYBT5, 230V SYARMXR9B9I",
+        "rating": "",
+        "hon_price_min": "45,180",
+        "hon_price_max": "45,300",
+        "尺寸:": "572 x 483 x 686mm",
+        "重量:": "312.74kg"
+    },
+    {
+        "names": "Cyberpower Power Distribution Units PDU15MHVIEC12AT",
+        "rating": "",
+        "hon_price_min": "4,820",
+        "hon_price_max": "4,968",
+        "尺寸:": "433 x 44 x 236mm",
+        "重量:": "3.4kg"
+    },
+    {
+        "names": "OPTI-UPS ES1000C",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "1,800",
+        "最大輸出功率:": "700W",
+        "半負載運轉時間:": "10分鐘",
+        "尺寸:": "378x140x201mm",
+        "重量:": "14.1kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #59 RBC59",
+        "rating": "",
+        "hon_price_min": "1,508",
+        "hon_price_max": "1,520"
+    },
+    {
+        "names": "APC SURT1000RMXLI",
+        "rating": "",
+        "hon_price_min": "5,160",
+        "hon_price_max": "6,260",
+        "最大輸出功率:": "700W",
+        "尺寸:": "85 x 432 x 483mm",
+        "重量:": "23kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #30 RBC30",
+        "rating": "",
+        "hon_price_min": "373",
+        "hon_price_max": "383"
+    },
+    {
+        "names": "Aten Professional Online UPS (OL1000HV)",
+        "rating": "",
+        "hon_price_min": "6,140",
+        "hon_price_max": "6,190",
+        "最大輸出功率:": "1000W",
+        "半負載運轉時間:": "3.10分鐘",
+        "尺寸:": "88 x 438 x 410mm",
+        "重量:": "12.7kg"
+    },
+    {
+        "names": "APC SUA1000XLI",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,530",
+        "最大輸出功率:": "800W",
+        "半負載運轉時間:": "34分鐘",
+        "尺寸:": "216 x 170 x 439mm",
+        "重量:": "27.27kg"
+    },
+    {
+        "names": "APC Rack PDU, Switched AP7920B",
+        "rating": "",
+        "hon_price_min": "5,280",
+        "hon_price_max": "5,310",
+        "尺寸:": "44 x 445 x 108mm",
+        "重量:": "2.27kg"
+    },
+    {
+        "names": "Maxpower 牛魔王 1200VA+",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "尺寸:": "L372mm x W140mm x H165mm"
+    },
+    {
+        "names": "Cyberpower Smart App UPS Systems OLS1000E",
+        "rating": "",
+        "hon_price_min": "3,070",
+        "hon_price_max": "3,280",
+        "最大輸出功率:": "900W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "151 x 225 x 394mm",
+        "重量:": "13.1kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 19\" Rail Kit for Smart-UPS SRT 2.2/3kVA SRTRK4",
+        "rating": "",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,575"
+    },
+    {
+        "names": "APC SMX750I",
+        "rating": "",
+        "hon_price_min": "3,568",
+        "hon_price_max": "4,250",
+        "最大輸出功率:": "600W",
+        "尺寸:": "89 x 432 x 490mm",
+        "重量:": "22.05kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #48 RBC48",
+        "rating": "",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,100"
+    },
+    {
+        "names": "APC SUA2200XLI",
+        "rating": "",
+        "hon_price_min": "7,500",
+        "hon_price_max": "7,590",
+        "最大輸出功率:": "1980W",
+        "半負載運轉時間:": "26分鐘",
+        "尺寸:": "444 x 221 x 495mm",
+        "重量:": "55kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT Battery Pack SRT48RMBP",
+        "rating": "",
+        "hon_price_min": "6,250",
+        "hon_price_max": "6,410",
+        "尺寸:": "536 x 432 x 85mm",
+        "重量:": "29.9kg"
+    },
+    {
+        "names": "APC UPS Network Management Card 3 with Environmental Monitoring AP9641",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,595"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #152 APCRBC152",
+        "rating": "",
+        "hon_price_min": "5,875",
+        "hon_price_max": "5,890",
+        "尺寸:": "76 x 210 x 762mm",
+        "重量:": "15.29kg"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #43 RBC43",
+        "rating": "",
+        "hon_price_min": "4,198",
+        "hon_price_max": "4,300"
+    },
+    {
+        "names": "APC SMC1500I-2U",
+        "rating": "",
+        "hon_price_min": "4,598",
+        "hon_price_max": "5,850",
+        "最大輸出功率:": "900W",
+        "尺寸:": "89mm X 432mm X 457mm",
+        "重量:": "28.64kg"
+    },
+    {
+        "names": "APC Symmetra RM XR Frame w/4 SYBT2, 220-240V SYRMXR4B4I",
+        "rating": "",
+        "hon_price_min": "33,095",
+        "hon_price_max": "33,140",
+        "尺寸:": "178 x 483 x 640mm",
+        "重量:": "110kg"
+    },
+    {
+        "names": "APC Easy UPS 3S High Capacity Battery String E3SBTH4",
+        "rating": "",
+        "hon_price_min": "14,590",
+        "hon_price_max": "14,710",
+        "尺寸:": "157 x 428 x 760mm",
+        "重量:": "108kg"
+    },
+    {
+        "names": "APC SU5000I",
+        "rating": "",
+        "hon_price_min": "17,090",
+        "hon_price_max": "17,100",
+        "最大輸出功率:": "3750W",
+        "尺寸:": "439 x 229 x 665mm",
+        "重量:": "95.45kg"
+    },
+    {
+        "names": "Emerson GXT4-700RT230",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "5,000"
+    },
+    {
+        "names": "APC PS450I",
+        "rating": "",
+        "hon_price_min": "1,848",
+        "hon_price_max": "1,870",
+        "最大輸出功率:": "280W",
+        "尺寸:": "44 x 445 x 330mm",
+        "重量:": "10.23kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 1000VA 230V SRT1000XLI",
+        "rating": "",
+        "hon_price_min": "7,780",
+        "hon_price_max": "7,990",
+        "最大輸出功率:": "1000W",
+        "尺寸:": "432 x 85 x 505mm",
+        "重量:": "20.5kg"
+    },
+    {
+        "names": "Cyberpower 2000W Professional Rackmount Tower PR2000ERTXL2U",
+        "rating": "",
+        "hon_price_min": "6,040",
+        "hon_price_max": "6,380",
+        "最大輸出功率:": "2000W",
+        "半負載運轉時間:": "12.8分鐘",
+        "尺寸:": "433 x 86.5 x 500mm",
+        "重量:": "34.4kg"
+    },
+    {
+        "names": "APC Symmetra LX 4kVA Power Module, 220/230/240V SYPM4KI",
+        "rating": "",
+        "hon_price_min": "18,300",
+        "hon_price_max": "18,415",
+        "尺寸:": "150 x 250 x 565mm",
+        "重量:": "15kg"
+    },
+    {
+        "names": "APC SUA3000I",
+        "rating": "",
+        "hon_price_min": "8,440",
+        "hon_price_max": "8,440",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "432 x 196 x 546mm",
+        "重量:": "55.92kg"
+    },
+    {
+        "names": "POWERCOM Smart King Pro Tower LCD 不斷電系統 SPT-1500A",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,150",
+        "最大輸出功率:": "1200W",
+        "尺寸:": "140 x 380 x 210mm",
+        "重量:": "15kg"
+    },
+    {
+        "names": "APC Smart-UPS SRT 19\" Rail Kit for Smart-UPS SRT 5/6/8/10kVA SRTRK2",
+        "rating": "",
+        "hon_price_min": "1,940",
+        "hon_price_max": "1,970"
+    },
+    {
+        "names": "APC Service Bypass Panel SBP6KRMI2U",
+        "rating": "",
+        "hon_price_min": "5,930",
+        "hon_price_max": "5,970",
+        "尺寸:": "660 x 432 x 89mm",
+        "重量:": "11.36kg"
+    },
+    {
+        "names": "APC SUA750RMI1U",
+        "rating": "",
+        "hon_price_min": "3,090",
+        "hon_price_max": "3,180",
+        "最大輸出功率:": "480W",
+        "半負載運轉時間:": "24分鐘",
+        "尺寸:": "44 x 432 x 600mm",
+        "重量:": "21.82kg"
+    },
+    {
+        "names": "APC Symmetra LX Battery Module SYBT5",
+        "rating": "",
+        "hon_price_min": "4,340",
+        "hon_price_max": "4,360",
+        "尺寸:": "140 x 210 x 546mm",
+        "重量:": "29.1kg"
+    },
+    {
+        "names": "APC Back-UPS 500 (500VA/300Watts) Tower UPS BK500EI",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,050",
+        "最大輸出功率:": "300W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "165 x 91 x 284mm",
+        "重量:": "6.32kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 2000VA 230V 2U",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,580",
+        "最大輸出功率:": "1800W",
+        "尺寸:": "262 x 570 x 617mm",
+        "重量:": "24kg"
+    },
+    {
+        "names": "APC SMC1000I",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,990",
+        "最大輸出功率:": "600W",
+        "尺寸:": "215mm X 171mm X 439mm",
+        "重量:": "17.27kg"
+    },
+    {
+        "names": "APC SMC1500I",
+        "rating": "",
+        "hon_price_min": "3,138",
+        "hon_price_max": "5,250",
+        "最大輸出功率:": "900W",
+        "尺寸:": "219mm X 171mm X 439mm",
+        "重量:": "24.09kg"
+    },
+    {
+        "names": "APC SUA750XLI",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "2,784",
+        "最大輸出功率:": "600W",
+        "半負載運轉時間:": "52分鐘",
+        "尺寸:": "216 x 170 x 439mm",
+        "重量:": "24.09kg"
+    },
+    {
+        "names": "OPTI-UPS DS2000B-RM",
+        "rating": "",
+        "最大輸出功率:": "1400W",
+        "半負載運轉時間:": "18分鐘",
+        "尺寸:": "635x428x84 mm",
+        "重量:": "43.5kg"
+    },
+    {
+        "names": "APC Rack PDU 2G, Metered by Outlet with Switching, ZeroU, 11.0kW, 230V, (21) C13 & (3) C19 AP8681",
+        "rating": "",
+        "hon_price_min": "20,550",
+        "hon_price_max": "20,580",
+        "尺寸:": "1829 x 56 x 51mm",
+        "重量:": "8.23kg"
+    },
+    {
+        "names": "APC SRT2200XLI",
+        "rating": "",
+        "hon_price_min": "8,890",
+        "hon_price_max": "10,860",
+        "最大輸出功率:": "1980W",
+        "半負載運轉時間:": "11.4分鐘",
+        "尺寸:": "432 x 85 x 584mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "APC SMX120RMBP2U Ext. Battery (For SMX2200RMHV2U, SMX3000RMHV2U)",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "6,300",
+        "尺寸:": "85 x 432 x 667mm / 2U",
+        "重量:": "56.36kg"
+    },
+    {
+        "names": "APC Interface Expander 2 AP9624",
+        "rating": "",
+        "hon_price_min": "2,740",
+        "hon_price_max": "2,750"
+    },
+    {
+        "names": "APC SURTD3000XLI",
+        "rating": "",
+        "hon_price_min": "12,200",
+        "hon_price_max": "13,650",
+        "最大輸出功率:": "2100W",
+        "半負載運轉時間:": "34分鐘",
+        "尺寸:": "432 x 130 x 660mm",
+        "重量:": "54.55kg"
+    },
+    {
+        "names": "APC Rack PDU,Basic, Zero U, 16A, 230V, (20)C13 & (4)C19 AP7552",
+        "rating": "",
+        "hon_price_min": "2,620",
+        "hon_price_max": "2,630",
+        "尺寸:": "1619 x 56 x 44mm",
+        "重量:": "4.86kg"
+    },
+    {
+        "names": "APC RBC32",
+        "rating": "",
+        "hon_price_min": "510",
+        "hon_price_max": "850"
+    },
+    {
+        "names": "APC SU1400RMXLI3U",
+        "rating": "",
+        "hon_price_min": "3,910",
+        "hon_price_max": "3,910",
+        "最大輸出功率:": "1050W",
+        "尺寸:": "130 x 432 x 394mm",
+        "重量:": "31.82kg"
+    },
+    {
+        "names": "APC SUA3000RMI2U",
+        "rating": "",
+        "hon_price_min": "9,080",
+        "hon_price_max": "9,110",
+        "最大輸出功率:": "2700W",
+        "半負載運轉時間:": "11分鐘",
+        "尺寸:": "89 x 483 x 660mm",
+        "重量:": "43.64kg"
+    },
+    {
+        "names": "APC SMT22000RMI2U",
+        "rating": "",
+        "hon_price_min": "8,478",
+        "hon_price_max": "8,590"
+    },
+    {
+        "names": "APC SMT15000RMI2U",
+        "rating": "",
+        "hon_price_min": "6,248",
+        "hon_price_max": "6,350"
+    },
+    {
+        "names": "APC SMX3000RMHV2U",
+        "rating": "",
+        "hon_price_min": "11,350",
+        "hon_price_max": "13,900",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "85 x 432 x 667mm",
+        "重量:": "37.32kg"
+    },
+    {
+        "names": "APC SMT750RMI2U",
+        "rating": "",
+        "hon_price_min": "2,970",
+        "hon_price_max": "3,780",
+        "最大輸出功率:": "500W",
+        "尺寸:": "89.00 mm x 432.00 mm x 406.00 mm",
+        "重量:": "17.27kg"
+    },
+    {
+        "names": "SMAP 不斷電電源供電器 C600",
+        "rating": "",
+        "hon_price_min": "1,688",
+        "hon_price_max": "1,688",
+        "最大輸出功率:": "360W",
+        "重量:": "4.2kg"
+    },
+    {
+        "names": "APC SUA1000I",
+        "rating": "",
+        "hon_price_min": "3,448",
+        "hon_price_max": "3,480",
+        "最大輸出功率:": "670W",
+        "半負載運轉時間:": "21分鐘",
+        "尺寸:": "216 x 170 x 439mm",
+        "重量:": "18.86kg"
+    },
+    {
+        "names": "APC SURT2000XLI",
+        "rating": "",
+        "hon_price_min": "7,078",
+        "hon_price_max": "8,890",
+        "最大輸出功率:": "1400W",
+        "半負載運轉時間:": "16分鐘",
+        "尺寸:": "432 x 85 x 783mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "APC SMT750I",
+        "rating": "",
+        "hon_price_min": "2,718",
+        "hon_price_max": "2,990",
+        "最大輸出功率:": "500W",
+        "尺寸:": "161.00 mm x 138.00 mm x 363.00 mm",
+        "重量:": "13.18kg"
+    },
+    {
+        "names": "AEG B.750",
+        "rating": "",
+        "hon_price_min": "2,460",
+        "hon_price_max": "2,460",
+        "最大輸出功率:": "500W"
+    },
+    {
+        "names": "APC SUA2200I",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "6,820",
+        "最大輸出功率:": "1980W",
+        "半負載運轉時間:": "24分鐘",
+        "尺寸:": "432 x 196 x 546mm",
+        "重量:": "50.92kg"
+    },
+    {
+        "names": "OPTI-UPS PS3000B",
+        "rating": "",
+        "最大輸出功率:": "2400W",
+        "半負載運轉時間:": "16分鐘",
+        "尺寸:": "445x170x215mm",
+        "重量:": "18.9kg"
+    },
+    {
+        "names": "APC SMX2200RMHV2U",
+        "rating": "",
+        "hon_price_min": "1,640",
+        "hon_price_max": "11,470",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "85 x 432 x 667mm",
+        "重量:": "37.32kg"
+    },
+    {
+        "names": "Emerson Liebert PSI-XR 2200VA/1980W 230V 2U",
+        "rating": "",
+        "hon_price_min": "6,730",
+        "hon_price_max": "6,750",
+        "最大輸出功率:": "1980W",
+        "尺寸:": "88 x 440 x 700.5mm",
+        "重量:": "42kg"
+    },
+    {
+        "names": "ECOBOXX 160 KIT",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "最大輸出功率:": "100W",
+        "滿負載運轉時間:": "52 hours分鐘",
+        "半負載運轉時間:": "100 hours分鐘"
+    },
+    {
+        "names": "APC SUA2200RMI2U",
+        "rating": "",
+        "hon_price_min": "7,300",
+        "hon_price_max": "7,360",
+        "最大輸出功率:": "1980W",
+        "半負載運轉時間:": "16分鐘",
+        "尺寸:": "89 x 483 x 660mm",
+        "重量:": "43.64kg"
+    },
+    {
+        "names": "OPTI-UPS DS8000B",
+        "rating": "",
+        "最大輸出功率:": "5600W",
+        "半負載運轉時間:": "13分鐘",
+        "尺寸:": "690x257x700 mm",
+        "重量:": "108kg"
+    },
+    {
+        "names": "OPTI-UPS DS10000B",
+        "rating": "",
+        "最大輸出功率:": "7000W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "690x257x700 mm",
+        "重量:": "110kg"
+    },
+    {
+        "names": "OPTI-UPS ES1500C-RM",
+        "rating": "",
+        "最大輸出功率:": "980W",
+        "半負載運轉時間:": "6分鐘",
+        "尺寸:": "426x428x84 mm",
+        "重量:": "17.7kg"
+    },
+    {
+        "names": "APC SUA1500RMI2U",
+        "rating": "",
+        "hon_price_min": "5,410",
+        "hon_price_max": "5,430",
+        "最大輸出功率:": "980W",
+        "半負載運轉時間:": "26分鐘",
+        "尺寸:": "89 x 432 x 457mm",
+        "重量:": "28.64kg"
+    },
+    {
+        "names": "APC SC450RMI1U",
+        "rating": "",
+        "hon_price_min": "1,740",
+        "hon_price_max": "2,300",
+        "最大輸出功率:": "280W",
+        "半負載運轉時間:": "19分鐘",
+        "尺寸:": "44 x 432 x 383mm",
+        "重量:": "10.18kg"
+    },
+    {
+        "names": "APC SURT2000RMXLI",
+        "rating": "",
+        "hon_price_min": "9,620",
+        "hon_price_max": "9,900",
+        "最大輸出功率:": "1400W",
+        "尺寸:": "85 x 432 x 483mm",
+        "重量:": "25kg"
+    },
+    {
+        "names": "POWERCOM Smart King Pro Tower LCD 不斷電系統 SPT-700A",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "最大輸出功率:": "700W",
+        "尺寸:": "02 x 326 x 165mm",
+        "重量:": "6.8kg"
+    },
+    {
+        "names": "OPTI-UPS PS1500B",
+        "rating": "",
+        "最大輸出功率:": "1050W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "445x170x215 mm",
+        "重量:": "22.7kg"
+    },
+    {
+        "names": "APC SU3000RMINET",
+        "rating": "",
+        "hon_price_min": "10,720",
+        "hon_price_max": "10,720",
+        "最大輸出功率:": "2250W",
+        "尺寸:": "222 x 483 x 451mm",
+        "重量:": "57.27kg"
+    },
+    {
+        "names": "OPTI-UPS TS800C (LINE INTERACTIVE) UPS",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "尺寸:": "305 x 98 x 170mm",
+        "重量:": "5.7kg"
+    },
+    {
+        "names": "APC SMX48RMBP2U Ext. Battery",
+        "rating": "",
+        "hon_price_min": "3,560",
+        "hon_price_max": "4,370",
+        "尺寸:": "246 x 589 x 620mm / 2U"
+    },
+    {
+        "names": "OPTI-UPS PS1000B",
+        "rating": "",
+        "最大輸出功率:": "700W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "445x140x200 mm",
+        "重量:": "15.5kg"
+    },
+    {
+        "names": "APC SUA1000RMI2U",
+        "rating": "",
+        "hon_price_min": "3,600",
+        "hon_price_max": "3,600",
+        "最大輸出功率:": "670W",
+        "半負載運轉時間:": "32分鐘",
+        "尺寸:": "89 x 432 x 457mm",
+        "重量:": "28.18kg"
+    },
+    {
+        "names": "OPTI-UPS DS3000B-RM",
+        "rating": "",
+        "最大輸出功率:": "2100W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "635x428x84 mm",
+        "重量:": "43.5kg"
+    },
+    {
+        "names": "APC BE550G-UK",
+        "rating": "",
+        "hon_price_min": "843",
+        "hon_price_max": "890",
+        "最大輸出功率:": "330W",
+        "半負載運轉時間:": "10分鐘",
+        "尺寸:": "89x 224x 311",
+        "重量:": "559.09kg"
+    },
+    {
+        "names": "OPTI-UPS DS1000B-RM",
+        "rating": "",
+        "最大輸出功率:": "700W",
+        "半負載運轉時間:": "18分鐘",
+        "尺寸:": "425x428x84 mm",
+        "重量:": "18.2kg"
+    },
+    {
+        "names": "OPTI-UPS DS1500B-RM",
+        "rating": "",
+        "最大輸出功率:": "1050W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "425x428x84 mm",
+        "重量:": "18.4kg"
+    },
+    {
+        "names": "APC BE700G-UK",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "1,055",
+        "最大輸出功率:": "405W",
+        "半負載運轉時間:": "13分鐘",
+        "尺寸:": "89 x 224 x 311mm",
+        "重量:": "6.93kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 5000VA 230V 5U",
+        "rating": "",
+        "hon_price_min": "14,700",
+        "hon_price_max": "14,880",
+        "最大輸出功率:": "4000W",
+        "尺寸:": "430 x 574 x 217mm",
+        "重量:": "60kg"
+    },
+    {
+        "names": "Maxpower 牛魔王 650VA+",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "890",
+        "滿負載運轉時間:": "20分鐘",
+        "尺寸:": "L320mm x W90mm x H140mm"
+    },
+    {
+        "names": "OPTI-UPS ES800C",
+        "rating": "",
+        "最大輸出功率:": "480W",
+        "半負載運轉時間:": "6分鐘",
+        "尺寸:": "322x102x165 mm",
+        "重量:": "7kg"
+    },
+    {
+        "names": "Cyberpower Backup UPS Systems UT1500EI",
+        "rating": "",
+        "hon_price_min": "1,438",
+        "hon_price_max": "1,748",
+        "最大輸出功率:": "900W",
+        "尺寸:": "148 x 178 x 298mm",
+        "重量:": "9.1kg"
+    },
+    {
+        "names": "SANYO DENKI Hybrid UPS E11B102A002AMUJ",
+        "rating": "",
+        "hon_price_min": "3,950",
+        "hon_price_max": "3,950",
+        "最大輸出功率:": "800W",
+        "半負載運轉時間:": "12分鐘",
+        "尺寸:": "435 x 723 x 86mm",
+        "重量:": "15kg"
+    },
+    {
+        "names": "APC SURT1000XLI",
+        "rating": "",
+        "hon_price_min": "4,110",
+        "hon_price_max": "5,376",
+        "最大輸出功率:": "700W",
+        "半負載運轉時間:": "32分鐘",
+        "尺寸:": "432 x 85 x 783mm",
+        "重量:": "23kg"
+    },
+    {
+        "names": "Emerson Liebert PSA 1500VA 230V AVR",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "最大輸出功率:": "900W",
+        "尺寸:": "147 x 360 x 234mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "Emerson GXT4-1000RT230",
+        "rating": "",
+        "hon_price_min": "5,190",
+        "hon_price_max": "5,200"
+    },
+    {
+        "names": "OPTI-UPS VS575C",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "最大輸出功率:": "345W",
+        "半負載運轉時間:": "5分鐘",
+        "尺寸:": "200x77x175 mm",
+        "重量:": "2.4kg"
+    },
+    {
+        "names": "APC SC620I",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,850",
+        "最大輸出功率:": "390W",
+        "半負載運轉時間:": "12分鐘",
+        "尺寸:": "168 x 119 x 375mm",
+        "重量:": "12.27kg"
+    },
+    {
+        "names": "AEG A1400",
+        "rating": "",
+        "hon_price_min": "2,220",
+        "hon_price_max": "2,220",
+        "最大輸出功率:": "840W"
+    },
+    {
+        "names": "APC Replacement Battery Cartridge #124 RBC124",
+        "rating": "",
+        "hon_price_min": "527",
+        "hon_price_max": "599",
+        "尺寸:": "76 x 152 x 203mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "APC SUA750RMI2U",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,680",
+        "最大輸出功率:": "480W",
+        "半負載運轉時間:": "17分鐘",
+        "尺寸:": "89 x 432 x 457mm",
+        "重量:": "21.82kg"
+    },
+    {
+        "names": "SMAP C1000",
+        "rating": "",
+        "hon_price_min": "2,488",
+        "hon_price_max": "2,488",
+        "最大輸出功率:": "600W",
+        "重量:": "10kg"
+    },
+    {
+        "names": "APC SUA2200RMXLI3U",
+        "rating": "",
+        "hon_price_min": "8,700",
+        "hon_price_max": "8,760",
+        "最大輸出功率:": "1980W",
+        "半負載運轉時間:": "26分鐘",
+        "尺寸:": "133 x 483 x 660mm",
+        "重量:": "60kg"
+    },
+    {
+        "names": "OPTI-UPS DS2000B",
+        "rating": "",
+        "最大輸出功率:": "1400W",
+        "半負載運轉時間:": "18分鐘",
+        "尺寸:": "425x225x360 mm",
+        "重量:": "42kg"
+    },
+    {
+        "names": "OPTI-UPS DS1000B",
+        "rating": "",
+        "最大輸出功率:": "700W",
+        "半負載運轉時間:": "18分鐘",
+        "尺寸:": "420x152x238 mm",
+        "重量:": "16.5kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 700VA 230V 2U",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,310",
+        "最大輸出功率:": "630W",
+        "尺寸:": "262 x 570 x 617mm",
+        "重量:": "16.8kg"
+    },
+    {
+        "names": "AEG A700",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,260",
+        "最大輸出功率:": "420W"
+    },
+    {
+        "names": "OPTI-UPS PS3000B-RM",
+        "rating": "",
+        "最大輸出功率:": "2100W",
+        "半負載運轉時間:": "20分鐘",
+        "尺寸:": "620x428x84 mm",
+        "重量:": "41kg"
+    },
+    {
+        "names": "Maxpower 牛魔王 Maxpower DC342",
+        "rating": ""
+    },
+    {
+        "names": "Emerson Liebert PSI-XR 1500VA/1350W 230V 2U",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,300",
+        "最大輸出功率:": "1350W",
+        "尺寸:": "88 x 440 x 490.5mm",
+        "重量:": "28kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 10000VA 230V 6U",
+        "rating": "",
+        "hon_price_min": "23,800",
+        "hon_price_max": "23,800",
+        "最大輸出功率:": "9000W",
+        "尺寸:": "430 x 581 x 261mm",
+        "重量:": "70kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 1000VA 230V 2U",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "最大輸出功率:": "900W",
+        "尺寸:": "262 x 570 x 617mm",
+        "重量:": "16.8kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 3000VA 230V 2U",
+        "rating": "",
+        "hon_price_min": "8,270",
+        "hon_price_max": "8,380",
+        "最大輸出功率:": "2700W",
+        "尺寸:": "262 x 570 x 717mm",
+        "重量:": "28kg"
+    },
+    {
+        "names": "Emerson Liebert PSA 1000VA 230V AVR",
+        "rating": "",
+        "hon_price_min": "2,330",
+        "hon_price_max": "2,340",
+        "最大輸出功率:": "600W",
+        "尺寸:": "147 x 360 x 234mm",
+        "重量:": "10.3kg"
+    },
+    {
+        "names": "OPTI-UPS PS1500B-RM",
+        "rating": "",
+        "最大輸出功率:": "1050W",
+        "半負載運轉時間:": "18分鐘",
+        "尺寸:": "550x428x84 mm",
+        "重量:": "22.7kg"
+    },
+    {
+        "names": "OPTI-UPS TS1500C (LINE INTERACTIVE) UPS",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "尺寸:": "360 x 150 x 160mm",
+        "重量:": "10.7kg"
+    },
+    {
+        "names": "OPTI-UPS DS1500B",
+        "rating": "",
+        "最大輸出功率:": "1050W",
+        "半負載運轉時間:": "14分鐘",
+        "尺寸:": "420x152x238 mm",
+        "重量:": "17.1kg"
+    },
+    {
+        "names": "OPTI-UPS PS800B",
+        "rating": "",
+        "最大輸出功率:": "560W",
+        "半負載運轉時間:": "12分鐘",
+        "尺寸:": "312x127x195 mm",
+        "重量:": "11.4kg"
+    },
+    {
+        "names": "OPTI-UPS DS3000B",
+        "rating": "",
+        "最大輸出功率:": "2100W",
+        "半負載運轉時間:": "15分鐘",
+        "尺寸:": "425x225x360 mm",
+        "重量:": "42kg"
+    },
+    {
+        "names": "OPTI-UPS DS6000B",
+        "rating": "",
+        "最大輸出功率:": "4200W",
+        "半負載運轉時間:": "20分鐘",
+        "尺寸:": "590x257x570 mm",
+        "重量:": "87kg"
+    },
+    {
+        "names": "Emerson Liebert GXT3 On-Line 1500VA 230V 2U",
+        "rating": "",
+        "hon_price_min": "4,670",
+        "hon_price_max": "4,670",
+        "最大輸出功率:": "1350W",
+        "尺寸:": "262 x 570 x 617mm",
+        "重量:": "23.2kg"
+    },
+    {
+        "names": "OPTI-UPS ES1500C",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "最大輸出功率:": "980W",
+        "半負載運轉時間:": "6分鐘",
+        "尺寸:": "378x140x201 mm",
+        "重量:": "16.2kg"
+    },
+    {
+        "names": "Eaton ENV600H",
+        "rating": "",
+        "最大輸出功率:": "360W",
+        "重量:": "6kg"
+    },
+    {
+        "names": "OPTI-UPS ES1000C-RM",
+        "rating": "",
+        "最大輸出功率:": "700W",
+        "半負載運轉時間:": "10分鐘",
+        "尺寸:": "426x428x84mm",
+        "重量:": "17.3kg"
+    },
+    {
+        "names": "Eaton ENV1000H",
+        "rating": "",
+        "最大輸出功率:": "600W",
+        "重量:": "9.6kg"
+    },
+    {
+        "names": "OPTI-UPS PS1000B-RM",
+        "rating": "",
+        "最大輸出功率:": "700W",
+        "半負載運轉時間:": "20分鐘",
+        "尺寸:": "550x428x84 mm",
+        "重量:": "22.7kg"
+    },
+    {
+        "names": "OPTI-UPS VS375C",
+        "rating": "",
+        "最大輸出功率:": "225W",
+        "半負載運轉時間:": "7.2分鐘",
+        "尺寸:": "200x77x175 mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "COTEK CX-1250-UK",
+        "rating": "",
+        "hon_price_min": "1,988",
+        "hon_price_max": "1,988",
+        "充電時間:": "4 STAGE 3 BANK",
+        "尺寸:": "213x76x272mm",
+        "重量:": "3.1kgkg"
+    },
+    {
+        "names": "OPTI-UPS ES550C",
+        "rating": "",
+        "最大輸出功率:": "330W",
+        "半負載運轉時間:": "8分鐘",
+        "尺寸:": "322x102x165 mm",
+        "重量:": "6.4kg"
+    },
+    {
+        "names": "Riello DVD 3000",
+        "rating": "9.6",
+        "最大輸出功率:": "2100W",
+        "尺寸:": "2U x 19\" x 582mm",
+        "重量:": "32.8kg"
+    },
+    {
+        "names": "Riello IDG600",
+        "rating": "",
+        "最大輸出功率:": "360W",
+        "半負載運轉時間:": "10分鐘",
+        "尺寸:": "192 x 90 x 232mm",
+        "重量:": "3.2kg"
+    },
+    {
+        "names": "Riello DVT110",
+        "rating": "9.3",
+        "最大輸出功率:": "740W",
+        "半負載運轉時間:": "13 - 14分鐘",
+        "尺寸:": "235x110x383 mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Eaton ENV2000H",
+        "rating": "",
+        "最大輸出功率:": "1200W",
+        "重量:": "10.6kg"
+    },
+    {
+        "names": "Riello IDP 60",
+        "rating": "9.4",
+        "最大輸出功率:": "360W",
+        "尺寸:": "192x90x232 mm",
+        "重量:": "3kg"
+    }
+]

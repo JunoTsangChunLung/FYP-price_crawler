@@ -1,0 +1,4280 @@
+[
+    {
+        "names": "Nakamichi 動圈入耳式監聽有線耳機 HQ-X11",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "無線/有線:": "有線",
+        "阻抗:": "20Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Nakamichi Hi-Res 專業級入耳式監聽耳機 MV500",
+        "rating": "8.6",
+        "hon_price_min": "699",
+        "hon_price_max": "899",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm Gold-Plated Audio Jack",
+        "插針:": "0.75mm Gold Plated (2-pin)",
+        "導線長度:": "1.25m±50mm"
+    },
+    {
+        "names": "Fender Track In-Ear Monitors 一圈一鐵混合式入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "無線/有線:": "有線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "32Ω"
+    },
+    {
+        "names": "Sennheiser 入耳式耳機 IE 200",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "無線/有線:": "有線",
+        "插頭:": "3.5 mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Sennheiser 入耳式耳機 IE 900",
+        "rating": "10",
+        "hon_price_min": "10,850",
+        "hon_price_max": "12,999",
+        "water_price_min": "7,480",
+        "water_price_max": "8,999",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.25"
+    },
+    {
+        "names": "Meze Audio Advar 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,480",
+        "無線/有線:": "有線",
+        "阻抗:": "31Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Shure SE846 UNI Wired Sound Isolating 入耳式耳機 (2021)",
+        "rating": "",
+        "hon_price_min": "4,988",
+        "hon_price_max": "6,988",
+        "無線/有線:": "有線",
+        "驅動單元:": "1個"
+    },
+    {
+        "names": "DUNU Talos 平板混合雙模式入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,499",
+        "無線/有線:": "有線",
+        "靈敏度:": "100±1dB/mW"
+    },
+    {
+        "names": "Acoustune 入耳式耳機 HS2000MX MK2",
+        "rating": "",
+        "hon_price_min": "13,800",
+        "hon_price_max": "13,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "24Ω"
+    },
+    {
+        "names": "Nakamichi 入耳雙磁單動圈耳機 MV101",
+        "rating": "8.0",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-20kHz",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Acoustune RS ONE 監聽入耳式耳機",
+        "rating": "9.7",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Acoustune ​Titanium 入耳式耳機 HS1790TI",
+        "rating": "10",
+        "hon_price_min": "6,800",
+        "hon_price_max": "6,800",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "3.5mm",
+        "插針:": "Nippon Dics Pentaconn 耳連接器",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Campfire Audio Trifecta 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "26,800",
+        "hon_price_max": "26,800",
+        "water_price_min": "26,800",
+        "water_price_max": "26,800",
+        "無線/有線:": "有線",
+        "阻抗:": "6.3Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Shure 入耳式耳機 SE846 Gen 2",
+        "rating": "10",
+        "hon_price_min": "6,800",
+        "hon_price_max": "6,998",
+        "無線/有線:": "有線",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "FiiO 一圈六鐵七單元入耳式耳機 FH9",
+        "rating": "10",
+        "hon_price_min": "3,880",
+        "hon_price_max": "5,488",
+        "無線/有線:": "有線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "18Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Acoustune ​Titanium 入耳式耳機 HS1790TI",
+        "rating": "10",
+        "hon_price_min": "6,800",
+        "hon_price_max": "6,800",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "3.5mm",
+        "插針:": "Nippon Dics Pentaconn 耳連接器",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "FiiO 一圈六鐵七單元入耳式耳機 FH9",
+        "rating": "10",
+        "hon_price_min": "3,880",
+        "hon_price_max": "5,488",
+        "無線/有線:": "有線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "18Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "AAW 混合單元入耳式耳機 A3H+ Lux Edition",
+        "rating": "10",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "無線/有線:": "有線",
+        "靈敏度:": "105dB/mW",
+        "阻抗:": "12Ω"
+    },
+    {
+        "names": "Shure Special Edition Uni Sound Isolating Earphones 紫色特別版隔音入耳式耳機 SE215",
+        "rating": "10",
+        "hon_price_min": "768",
+        "hon_price_max": "768",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Empire Ears x Astell&Kern Odyssey 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "27,980",
+        "hon_price_max": "27,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "100dB/mW",
+        "阻抗:": "2.1Ω"
+    },
+    {
+        "names": "Nicehck 高級動鐵七單元入耳式耳機 NX7 MK4 (香港版)",
+        "rating": "10",
+        "hon_price_min": "898",
+        "hon_price_max": "899",
+        "無線/有線:": "有線",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Campfire Audio Andromeda 入耳式耳機",
+        "rating": "9.3",
+        "hon_price_min": "3,980",
+        "hon_price_max": "6,690",
+        "無線/有線:": "有線",
+        "驅動單元:": "5動鐵"
+    },
+    {
+        "names": "JBL Endurance Run 2 Wireless 入耳式藍牙跑步耳機",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "399",
+        "無線/有線:": "無線",
+        "靈敏度:": "99dB/mW",
+        "阻抗:": "16Ω",
+        "續航力:": "10小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Acoustune 入耳式耳機 HS2000MX",
+        "rating": "10",
+        "hon_price_min": "12,800",
+        "hon_price_max": "13,800",
+        "驅動單元:": "10mm動圈",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "24Ω"
+    },
+    {
+        "names": "Acoustune 入耳式耳機 HS1300SS (Verde 綠色特別版)",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 E3000",
+        "rating": "9.8",
+        "hon_price_min": "380",
+        "hon_price_max": "499",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2M"
+    },
+    {
+        "names": "MoonDrop 水月雨 Aria Snow Edition 高性能類鑽石振膜動國入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2mm"
+    },
+    {
+        "names": "TAGO STUDIO 監聽入耳式耳機 T3-02",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "2,980",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 E3000C",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "無線/有線:": "有線",
+        "靈敏度:": "100dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Shure SE846 UNI Wired Sound Isolating 入耳式耳機 (2021)",
+        "rating": "",
+        "hon_price_min": "4,988",
+        "hon_price_max": "6,988",
+        "無線/有線:": "有線",
+        "驅動單元:": "1個"
+    },
+    {
+        "names": "Acoustune RS Three 監聽入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Nakamichi 3.5mm 入耳式有線耳機MV100",
+        "rating": "8.8",
+        "hon_price_min": "199",
+        "hon_price_max": "249",
+        "water_price_min": "210",
+        "water_price_max": "210",
+        "無線/有線:": "有線",
+        "阻抗:": "17Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.25m±50mm"
+    },
+    {
+        "names": "Sennheiser 入耳式耳機 IE 800 S",
+        "rating": "10",
+        "water_price_min": "3,800",
+        "water_price_max": "3,998",
+        "無線/有線:": "有線",
+        "播放頻率:": "5 to 46,500 Hz",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Shure Aonic 4 Sound Isolating Earphones 入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,798",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "BGVP Melody 韵 入耳式動圈耳機 (3.5mm with Mic)",
+        "rating": "",
+        "hon_price_min": "928",
+        "hon_price_max": "928",
+        "water_price_min": "918",
+        "water_price_max": "918",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.25m ,+-5% 或可更換其他線材升級線"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 (3.5mm) SE535",
+        "rating": "9.4",
+        "hon_price_min": "2,188",
+        "hon_price_max": "3,498",
+        "無線/有線:": "有線",
+        "靈敏度:": "119dB/mW",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Samsung 三星 USB Type-C Earphones Sound by AKG 雙聲道入耳式耳機 EO-IC100B",
+        "rating": "9.6",
+        "hon_price_min": "148",
+        "hon_price_max": "199",
+        "water_price_min": "75",
+        "water_price_max": "160",
+        "無線/有線:": "有線",
+        "靈敏度:": "94.3±3dB/mW",
+        "阻抗:": "32Ω",
+        "插頭:": "Type-C"
+    },
+    {
+        "names": "TangZu Audio Shimin Li 李世民入耳式耳機",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm 2pins",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Sony 無線降噪入耳式耳機 WI-1000XM2",
+        "rating": "9.7",
+        "hon_price_min": "1,660",
+        "hon_price_max": "1,990",
+        "water_price_min": "1,580",
+        "water_price_max": "1,720",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "AAC,LDAC",
+        "驅動單元:": "9mm 動圈+動鐵",
+        "續航力:": "9-13小時"
+    },
+    {
+        "names": "MoonDrop 水月雨 Blessing 2 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,699",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "MoonDrop 水月雨 Aria Snow Edition 高性能類鑽石振膜動國入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2mm"
+    },
+    {
+        "names": "Samsung 三星 AKG 入耳式耳機 EO-IG955",
+        "rating": "9.3",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "60",
+        "water_price_max": "160",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Shure Special Edition Uni Sound Isolating Earphones 紫色特別版隔音入耳式耳機 SE215",
+        "rating": "10",
+        "hon_price_min": "768",
+        "hon_price_max": "768",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Sennheiser 無線監聽耳機 IE 100 PRO Wireless",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,480",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-18kHz",
+        "靈敏度:": "115dB/mW",
+        "阻抗:": "20Ω",
+        "續航力:": "10小時",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Beats Flex 入耳式無線耳機",
+        "rating": "9.6",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "無線/有線:": "無線",
+        "續航力:": "12小時"
+    },
+    {
+        "names": "Beats Flex 入耳式無線耳機",
+        "rating": "9.6",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "無線/有線:": "無線",
+        "續航力:": "12小時"
+    },
+    {
+        "names": "Nicehck 高級動鐵七單元入耳式耳機 NX7 MK3",
+        "rating": "9.3",
+        "hon_price_min": "699",
+        "hon_price_max": "1,099",
+        "無線/有線:": "有線",
+        "阻抗:": "58Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE215 Special Edition",
+        "rating": "9.1",
+        "hon_price_min": "660",
+        "hon_price_max": "888",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "116 cm"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE535 - Red Special Edition, Light Gray Standard 3.5mm Audio Cable (46\")",
+        "rating": "9.1",
+        "hon_price_min": "2,198",
+        "hon_price_max": "3,900",
+        "無線/有線:": "有線",
+        "靈敏度:": "119dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "116cm"
+    },
+    {
+        "names": "Effect Audio x Elysian Acoustic Lab Gaea 高級入耳式耳機",
+        "rating": "",
+        "hon_price_min": "10,380",
+        "hon_price_max": "10,380",
+        "無線/有線:": "有線",
+        "靈敏度:": "102dB/mW",
+        "阻抗:": "10Ω"
+    },
+    {
+        "names": "Shure Aonic 4 Sound Isolating Earphones 入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,798",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Nakamichi Live EW100NC 主動降噪掛頸式藍牙耳機",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "380",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "13-15小時"
+    },
+    {
+        "names": "Acoustune 鈦金屬入耳式耳機 HS1697TI",
+        "rating": "10",
+        "hon_price_min": "5,800",
+        "hon_price_max": "7,800",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Sennheiser 無線監聽耳機 IE 100 PRO Wireless",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,480",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-18kHz",
+        "靈敏度:": "115dB/mW",
+        "阻抗:": "20Ω",
+        "續航力:": "10小時",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Fender Producer Series Mix 4 單元耳入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "34Ω",
+        "插針:": "2Pin"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 + BT2 藍牙升級線 SE535",
+        "rating": "",
+        "hon_price_min": "2,188",
+        "hon_price_max": "5,368",
+        "無線/有線:": "無線",
+        "驅動單元:": "3動鐵",
+        "播放頻率:": "18 Hz- 19000Hz",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Thieaudio Monarch MKII 靜電混合入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "無線/有線:": "有線",
+        "阻抗:": "36Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Intime Shu Mai 燒賣 入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE846",
+        "rating": "9.4",
+        "hon_price_min": "4,540",
+        "hon_price_max": "6,998",
+        "water_price_min": "3,980",
+        "water_price_max": "4,900",
+        "無線/有線:": "有線",
+        "靈敏度:": "114dB/mW",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Hidizs Balanced Armature Drivers HiFi In-ear Monitors 入耳式耳機 MD4",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "無線/有線:": "有線",
+        "阻抗:": "8Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "MoonDrop 水月雨 Chu Earphone 10mm IEM Wired Dynamic Driver HiFi 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "399",
+        "無線/有線:": "有線",
+        "靈敏度:": "120dB/mW",
+        "阻抗:": "28Ω"
+    },
+    {
+        "names": "Intime Shu Mai 燒賣 入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE846",
+        "rating": "9.4",
+        "hon_price_min": "4,540",
+        "hon_price_max": "6,998",
+        "water_price_min": "3,980",
+        "water_price_max": "4,900",
+        "無線/有線:": "有線",
+        "靈敏度:": "114dB/mW",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Nicehck 高級動鐵七單元入耳式耳機 NX7 MK3",
+        "rating": "9.3",
+        "hon_price_min": "699",
+        "hon_price_max": "1,099",
+        "無線/有線:": "有線",
+        "阻抗:": "58Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "TRN 10mm Dual Magnet Dynamic Driver In-ear Earphone 雙磁路動圈入耳式耳機 MT1 PRO",
+        "rating": "9.2",
+        "hon_price_min": "136",
+        "hon_price_max": "136",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "L JACK 3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.25m±5cm"
+    },
+    {
+        "names": "AAW Universal In-Ear Monitor 混合單元入耳式耳機 A3H+ Noir Edition",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "無線/有線:": "有線",
+        "靈敏度:": "105dB/mW",
+        "阻抗:": "12Ω",
+        "插針:": "CM"
+    },
+    {
+        "names": "Shure 入耳式耳機 SE846BA+UNI-A",
+        "rating": "",
+        "hon_price_min": "4,988",
+        "hon_price_max": "6,988"
+    },
+    {
+        "names": "Hidizs Mermaid MM2 HiFi In-Ear Monitor Earphones 入耳式監聽耳機",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JBL 入耳式無線藍牙耳機 T110BT",
+        "rating": "9.5",
+        "hon_price_min": "160",
+        "hon_price_max": "368",
+        "water_price_min": "185",
+        "water_price_max": "309",
+        "無線/有線:": "無線",
+        "靈敏度:": "96dB/mW",
+        "阻抗:": "16Ω",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Campfire Audio Ara 七單元鈦金屬耳機",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "8,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "94dB/mW",
+        "阻抗:": "8.5Ω",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 E5000",
+        "rating": "10",
+        "hon_price_min": "1,780",
+        "hon_price_max": "2,180",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "AAW Universal In-Ear Monitor 入耳式耳機 A3H+",
+        "rating": "10",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,799",
+        "無線/有線:": "有線",
+        "靈敏度:": "105dB/mW",
+        "阻抗:": "12Ω"
+    },
+    {
+        "names": "Bose SoundSport Wireless Headphones 入耳式耳機",
+        "rating": "9.0",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,100",
+        "water_price_min": "790",
+        "water_price_max": "870",
+        "無線/有線:": "無線",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "MoonDrop 水月雨 Variations 變奏曲混合單元入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "無線/有線:": "有線",
+        "阻抗:": "15.2Ω",
+        "插頭:": "2.5mm / 3.5mm / 4.4mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "TangZu Audio Zetian Wu 武則天 14.5mm 平板耳機",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm or 4.4mm",
+        "插針:": "0.78mm 2pins",
+        "導線長度:": "1.2m+5%"
+    },
+    {
+        "names": "Acoustune 入耳式耳機 HS1657CU",
+        "rating": "7.0",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "24Ω"
+    },
+    {
+        "names": "Fender Producer Series Mix 4 單元耳入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "34Ω",
+        "插針:": "2Pin"
+    },
+    {
+        "names": "KZ Acoustics ESX 十週年紀念款 12mm 仿生大動圈入耳式耳機",
+        "rating": "9.0",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.75mm",
+        "導線長度:": "1.2m±5cm"
+    },
+    {
+        "names": "Sony 無線入耳式耳機 WI-C200",
+        "rating": "10",
+        "hon_price_min": "220",
+        "hon_price_max": "299",
+        "water_price_min": "189",
+        "water_price_max": "210",
+        "無線/有線:": "無線",
+        "驅動單元:": "9mm 動圈",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "15小時"
+    },
+    {
+        "names": "Borofone 有線入耳式耳機 BM66",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "B&O Beoplay 入耳式耳機 H5",
+        "rating": "8.1",
+        "hon_price_min": "980",
+        "hon_price_max": "1,550",
+        "water_price_min": "798",
+        "water_price_max": "998",
+        "無線/有線:": "無線",
+        "驅動單元:": "6.4mm 動圈",
+        "播放頻率:": "20 - 20,000Hz"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE846 w/BT Cable",
+        "rating": "",
+        "hon_price_min": "4,699",
+        "hon_price_max": "7,290",
+        "無線/有線:": "無線",
+        "靈敏度:": "37dB/mW",
+        "插針:": "MMCX",
+        "導線長度:": "64\" 及 45″"
+    },
+    {
+        "names": "FiiO 一圈四鐵五單元MMCX可換線耳機 FH7S",
+        "rating": "10",
+        "hon_price_min": "3,688",
+        "hon_price_max": "3,688",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5 / 4.4mm可換插頭",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Thieaudio Prestige 榮譽三合一入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "10,299",
+        "hon_price_max": "10,299",
+        "無線/有線:": "有線",
+        "阻抗:": "11Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "插針:": "2Pin 0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JBL 藍牙耳機 T115BT",
+        "rating": "",
+        "hon_price_min": "265",
+        "hon_price_max": "348",
+        "無線/有線:": "無線",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Acoustune 不銹鋼入耳式耳機 HS1677SS",
+        "rating": "",
+        "hon_price_min": "4,188",
+        "hon_price_max": "5,800",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "TangZu Audio Zetian Wu 武則天 盛世篇 X HBB聯名升級版",
+        "rating": "10",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-20kHz"
+    },
+    {
+        "names": "FiiO 14 周年紀念版純鈹振膜動圈單元耳機 FDX",
+        "rating": "10",
+        "hon_price_min": "3,680",
+        "hon_price_max": "6,888",
+        "無線/有線:": "有線",
+        "阻抗:": "50Ω",
+        "插頭:": "2.5mm, 3.5mm, 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Nakamichi Live EW100NC 主動降噪掛頸式藍牙耳機",
+        "rating": "10",
+        "hon_price_min": "250",
+        "hon_price_max": "380",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "13-15小時"
+    },
+    {
+        "names": "KZ Acoustics 1DD + 4BA Hybrid Driver Earphone 雙磁動圈四鐵入耳式耳機 ZS10 PRO X",
+        "rating": "9.6",
+        "hon_price_min": "445",
+        "hon_price_max": "528",
+        "無線/有線:": "有線",
+        "阻抗:": "29Ω",
+        "插頭:": "3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "QDC Dmagic Solo 動圈耳機 (香港特別版)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,298",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "具備2.5mm、3.5mm及4.4mm插頭可自行替換",
+        "插針:": "CM"
+    },
+    {
+        "names": "Symphonium Audio Meteor 流星入耳式耳機",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "無線/有線:": "有線",
+        "靈敏度:": "111dB/mW",
+        "阻抗:": "9.7Ω"
+    },
+    {
+        "names": "TRN 4BA + 1DD 入耳式動圈耳機 ST5",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "578",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "導線長度:": "1.2m±3cm"
+    },
+    {
+        "names": "Intime Kira 煌 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "680",
+        "hon_price_max": "980",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2"
+    },
+    {
+        "names": "KZ Acoustics EDX Ultra Dual Magnet Dynamic Driver 雙磁路動圈入耳式耳機",
+        "rating": "9.5",
+        "hon_price_min": "206",
+        "hon_price_max": "206",
+        "water_price_min": "158",
+        "water_price_max": "159",
+        "無線/有線:": "有線",
+        "阻抗:": "26Ω",
+        "插頭:": "L Jack 3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "KZ Acoustics Hybrid Drivers Earphone 入耳式耳機 ZSN PRO X",
+        "rating": "9.8",
+        "hon_price_min": "180",
+        "hon_price_max": "188",
+        "無線/有線:": "有線",
+        "阻抗:": "25Ω",
+        "插頭:": "3.5mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Fender 入耳式耳機 Zero4 入耳式耳機",
+        "rating": "4.0",
+        "hon_price_min": "1,980",
+        "hon_price_max": "3,480",
+        "無線/有線:": "有線",
+        "靈敏度:": "115dB/mW",
+        "阻抗:": "24Ω"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 + BT2 藍牙升級線 SE846",
+        "rating": "",
+        "hon_price_min": "4,899",
+        "hon_price_max": "9,748",
+        "無線/有線:": "無線",
+        "驅動單元:": "4動鐵",
+        "播放頻率:": "15 - 20000Hz",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Shure Aonic 5 Sound Isolating Earphones 入耳式耳機",
+        "rating": "2.0",
+        "hon_price_min": "3,080",
+        "hon_price_max": "4,748",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Sony Extra Bass 無線入耳式耳機 WI-XB400",
+        "rating": "9.0",
+        "hon_price_min": "560",
+        "hon_price_max": "599",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "無線/有線:": "無線",
+        "驅動單元:": "12mm 動圈",
+        "播放頻率:": "20Hz-20KHz",
+        "續航力:": "15小時"
+    },
+    {
+        "names": "JBL 入耳式耳機 T110",
+        "rating": "9.6",
+        "hon_price_min": "85",
+        "hon_price_max": "199",
+        "water_price_min": "139",
+        "water_price_max": "139",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz – 20kHz",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "SOUL Run Free Pro HD 運動型無線藍牙耳機",
+        "rating": "7.5",
+        "hon_price_min": "348",
+        "hon_price_max": "590",
+        "無線/有線:": "無線",
+        "播放頻率:": "20 - 20,000Hz",
+        "續航力:": "12小時"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE215 Wireless with BT2",
+        "rating": "7.3",
+        "hon_price_min": "680",
+        "hon_price_max": "1,488",
+        "無線/有線:": "無線",
+        "播放頻率:": "22 Hz – 17 kHz",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Sony 無線入耳式耳機 WI-C310",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "399",
+        "water_price_min": "290",
+        "water_price_max": "290",
+        "無線/有線:": "無線",
+        "播放頻率:": "20-20KHZ",
+        "續航力:": "15小時"
+    },
+    {
+        "names": "FiiO 純鈹振膜動圈MMCX可換線耳機 FD7",
+        "rating": "10",
+        "hon_price_min": "2,780",
+        "hon_price_max": "5,488",
+        "無線/有線:": "有線",
+        "阻抗:": "50Ω",
+        "插頭:": "2.5mm, 3.5mm, 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Campfire Audio Andromeda 2020 五單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,680",
+        "無線/有線:": "有線",
+        "靈敏度:": "112.8dB/mW",
+        "阻抗:": "12.8Ω"
+    },
+    {
+        "names": "Marshall Minor II 入耳式耳機",
+        "rating": "9.3",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,159",
+        "water_price_min": "710",
+        "water_price_max": "1,159",
+        "無線/有線:": "無線",
+        "驅動單元:": "14.2 mm 動圈",
+        "播放頻率:": "20Hz-20KHz",
+        "續航力:": "12小時"
+    },
+    {
+        "names": "Campfire Audio Honeydew 蜜露 Solid Body 單動圈耳機",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680",
+        "無線/有線:": "有線",
+        "靈敏度:": "94dB/mW",
+        "阻抗:": "17.44Ω",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Kinera Hodur 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,350",
+        "無線/有線:": "有線",
+        "阻抗:": "8Ω",
+        "插頭:": "3.5mm, 4.4mm",
+        "插針:": "2pin"
+    },
+    {
+        "names": "MoonDrop 水月雨 KATO 入耳式耳機",
+        "rating": "6.7",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "KZ Acoustics ZEX 雙磁路動圈靜電入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "194",
+        "hon_price_max": "198",
+        "無線/有線:": "有線",
+        "阻抗:": "25Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Nakamichi 強勁低音3.5毫米雙動圈有線耳機 HQ-X21",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "199",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "TRN 四單元旗艦靜電圈鐵混合入耳式耳機 BAX",
+        "rating": "10",
+        "hon_price_min": "2,810",
+        "hon_price_max": "2,990",
+        "water_price_min": "2,990",
+        "water_price_max": "2,990",
+        "無線/有線:": "有線",
+        "插頭:": "3.5/2.5/4.4mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 E2000C",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "399",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 E2000",
+        "rating": "9.3",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2M"
+    },
+    {
+        "names": "TAGO STUDIO 監聽入耳式耳機 T3-02",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "2,980",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "TRN 雙磁動圈8動鐵監聽級HiFi耳機 VX PRO",
+        "rating": "9.7",
+        "hon_price_min": "753",
+        "hon_price_max": "768",
+        "water_price_min": "678",
+        "water_price_max": "765",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.75mm",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Etymotic Research Evo 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "4,100",
+        "hon_price_max": "4,599",
+        "無線/有線:": "有線",
+        "靈敏度:": "99dB/mW",
+        "阻抗:": "47Ω"
+    },
+    {
+        "names": "KZ Acoustics Electrostatic + dynamic hybrid technology earphones 大動圈靜電入耳式耳機 ZES",
+        "rating": "9.8",
+        "hon_price_min": "238",
+        "hon_price_max": "248",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "64 Audio Duo 高級混合單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "10,500",
+        "hon_price_max": "10,888",
+        "water_price_min": "9,880",
+        "water_price_max": "9,880",
+        "無線/有線:": "有線",
+        "靈敏度:": "98dB/mW",
+        "阻抗:": "9Ω"
+    },
+    {
+        "names": "Campfire Audio Holocene 全新世多動鐵入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "water_price_min": "4,980",
+        "water_price_max": "4,980",
+        "無線/有線:": "有線",
+        "阻抗:": "5.4Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JBL Endurance Run 2 Wired 入耳式跑步耳機",
+        "rating": "10",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz - 20kHz",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "IKKO Gems OH1S 有線入耳式監聽器",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,198",
+        "無線/有線:": "有線",
+        "靈敏度:": "109dB/mW",
+        "阻抗:": "32Ω",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "InEar Black Bronze 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "117dB/mW",
+        "阻抗:": "42Ω",
+        "導線長度:": "1.4m"
+    },
+    {
+        "names": "Final Audio A3000 入耳式耳機 FI-A3DPLMB",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "1,180",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插針:": "2Pin",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Campfire Audio Mammoth 猛獁象混合單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,280",
+        "water_price_min": "4,280",
+        "water_price_max": "4,280",
+        "無線/有線:": "有線",
+        "阻抗:": "8.1Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "FiiO 樓氏六單元動鐵MMCX單晶銅鍍銀可換線耳機 FA7S",
+        "rating": "",
+        "hon_price_min": "2,990",
+        "hon_price_max": "2,990",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Motorola Moto 入耳式運動防水藍牙耳機 SP105",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "199",
+        "無線/有線:": "無線",
+        "驅動單元:": "10mm",
+        "續航力:": "8小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Marshall Mode 入耳式耳機",
+        "rating": "7.3",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "410",
+        "water_price_max": "499",
+        "無線/有線:": "有線",
+        "驅動單元:": "動圈"
+    },
+    {
+        "names": "Noble Audio 12mm鍍金黃銅動圈耳機 DXII",
+        "rating": "",
+        "hon_price_min": "4,298",
+        "hon_price_max": "4,980",
+        "無線/有線:": "有線",
+        "阻抗:": "14.9Ω",
+        "插頭:": "4.4mm",
+        "插針:": "2Pin / 0.78mm / CIEM"
+    },
+    {
+        "names": "FiiO 可換聲導管12mm全頻大動圈耳機 (8股152芯單晶銅鍍銀線) FD3 PRO",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,499",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JBL Endurance Run 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "160",
+        "hon_price_max": "199",
+        "water_price_min": "130",
+        "water_price_max": "130",
+        "無線/有線:": "有線",
+        "播放頻率:": "20-20KHz"
+    },
+    {
+        "names": "Meze Audio Rai Penta 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "5,980",
+        "hon_price_max": "7,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "100dB/mW"
+    },
+    {
+        "names": "Campfire Audio Satsuma 蜜柑T.A.E.C.空氣共鳴動鐵單元耳機",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "無線/有線:": "有線",
+        "靈敏度:": "94dB/mW",
+        "阻抗:": "46.4Ω",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "MoonDrop 水月雨 Aria 高性能 LCP 隔膜動態驅動器 IEMs 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "無線/有線:": "有線",
+        "靈敏度:": "122dB/mW",
+        "阻抗:": "32Ω",
+        "插針:": "0.78pin"
+    },
+    {
+        "names": "Sony 智慧手機入耳式耳機 MDR-EX15AP",
+        "rating": "9.0",
+        "hon_price_min": "99",
+        "hon_price_max": "159",
+        "water_price_min": "48",
+        "water_price_max": "99",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Wear & Hear BeHear PROXY 肩帶式聽力輔助揚聲器",
+        "rating": "",
+        "hon_price_min": "1,800",
+        "hon_price_max": "1,800",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz – 20kHz",
+        "靈敏度:": "102dB/mW"
+    },
+    {
+        "names": "Apple EarPods 配備 Lightning 接頭",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "210",
+        "water_price_min": "115",
+        "water_price_max": "189",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Intime Show DD 翔 DD 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Sennheiser 入耳式耳機 IE 800",
+        "rating": "9.5",
+        "hon_price_min": "6,299",
+        "hon_price_max": "6,299",
+        "water_price_min": "3,998",
+        "water_price_max": "3,998",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.1m"
+    },
+    {
+        "names": "64 Audio 旗艦級多單元耳機 U18s",
+        "rating": "",
+        "hon_price_min": "23,999",
+        "hon_price_max": "23,999",
+        "water_price_min": "22,080",
+        "water_price_max": "22,080",
+        "無線/有線:": "有線",
+        "阻抗:": "8Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "Sennheiser 入耳式耳機 IE 80 S",
+        "rating": "9.5",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,999",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Fender Producer Series Mix Pro 6單元耳入耳式耳機",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "8,810",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "34Ω",
+        "插針:": "2Pin"
+    },
+    {
+        "names": "JVC 木振膜入耳式耳機 HA-FW1800",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,480",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Astell & Kern x Campfire Audio PATHFINDER",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "14,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "94dB/mW",
+        "阻抗:": "6.2Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm"
+    },
+    {
+        "names": "FiiO 旗艦單動圈MMCX可換線耳機 FD5",
+        "rating": "10",
+        "hon_price_min": "2,788",
+        "hon_price_max": "2,799",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "FLICKER EAR Flow 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "838",
+        "hon_price_max": "899",
+        "無線/有線:": "有線",
+        "阻抗:": "15Ω",
+        "插針:": "0.78mm, 2 pin",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "AAW 混合單元入耳式耳機 ATH",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999",
+        "無線/有線:": "有線",
+        "靈敏度:": "105dB/mW",
+        "阻抗:": "8Ω"
+    },
+    {
+        "names": "Audio Technica 入耳式智能手機通話耳機 ATH-CKR30iS",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "320",
+        "無線/有線:": "有線",
+        "播放頻率:": "5 ~ 24,000 Hz",
+        "靈敏度:": "102dB/mW"
+    },
+    {
+        "names": "JBL 入耳式耳機 T280A+",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "180",
+        "water_price_min": "160",
+        "water_price_max": "180",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Nakamichi 動圈入耳式監聽有線耳機 HQ-X10",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "169",
+        "無線/有線:": "有線",
+        "阻抗:": "20Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "iBasso 單動圈入耳式耳機  IT00",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "698",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE215",
+        "rating": "8.6",
+        "hon_price_min": "670",
+        "hon_price_max": "888",
+        "無線/有線:": "有線",
+        "靈敏度:": "107dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "162cm"
+    },
+    {
+        "names": "TRN Kirin Superior Class Planar Magnetic Driver In-Ear Monitor 麒麟現象級高階平板單元振膜入耳式音樂HIFI耳機",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,378",
+        "water_price_min": "1,195",
+        "water_price_max": "1,198",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5+2.5+4.4mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.2m±3cm"
+    },
+    {
+        "names": "Softears Twilight 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "7,499",
+        "hon_price_max": "7,499",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-20kHz",
+        "靈敏度:": "116dB/mW"
+    },
+    {
+        "names": "Anew X1 X-ONE 耳機",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,488",
+        "無線/有線:": "有線",
+        "阻抗:": "20Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "SPEAR Labs TRINITY 24k Gold 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "16,800",
+        "hon_price_max": "16,800",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "2-Pin"
+    },
+    {
+        "names": "Audio Technica 入耳式智能手機通話耳機 ATH-CK350iS",
+        "rating": "",
+        "hon_price_min": "185",
+        "hon_price_max": "205",
+        "無線/有線:": "有線",
+        "靈敏度:": "102dB/mW",
+        "阻抗:": "24Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Sony 防水運動MP3播放器耳機 NW-WS413",
+        "rating": "8.2",
+        "hon_price_min": "588",
+        "hon_price_max": "798"
+    },
+    {
+        "names": "DD HiFi Janus 雙插座可選性耳機 E2020A",
+        "rating": "",
+        "hon_price_min": "1,788",
+        "hon_price_max": "1,788",
+        "無線/有線:": "有線",
+        "插針:": "MMCX / 0.78mm"
+    },
+    {
+        "names": "Sennheiser 無線藍牙入耳式耳機 CX 350BT",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "780",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "無線/有線:": "無線",
+        "靈敏度:": "112dB/mW",
+        "阻抗:": "28Ω",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Marshall Mode EQ 入耳式耳機",
+        "rating": "9.5",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "無線/有線:": "有線",
+        "驅動單元:": "9mm 動圈"
+    },
+    {
+        "names": "AKG 入耳式耳機 N5005",
+        "rating": "8.0",
+        "hon_price_min": "7,180",
+        "hon_price_max": "7,180",
+        "water_price_min": "2,210",
+        "water_price_max": "5,000",
+        "無線/有線:": "有線",
+        "靈敏度:": "116dB/mW",
+        "插頭:": "3.5mm / 2.5mm /  Bluetooth"
+    },
+    {
+        "names": "NG Audio Heracles 大力神 5單元混動入耳式耳機",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "5,999",
+        "無線/有線:": "有線",
+        "靈敏度:": "100dB/mW",
+        "阻抗:": "14Ω",
+        "插針:": "0.78 2pin 8芯銅鍍銀"
+    },
+    {
+        "names": "Bose QuietControl 30 入耳式耳機",
+        "rating": "9.4",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,588",
+        "water_price_min": "1,438",
+        "water_price_max": "1,680",
+        "無線/有線:": "無線",
+        "功能:": "語音通話,主動抗噪,NFC"
+    },
+    {
+        "names": "Xpower 藍牙5.0掛頸運動耳機 GB02",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "無線/有線:": "無線",
+        "驅動單元:": "14mm",
+        "續航力:": "7-8小時"
+    },
+    {
+        "names": "Sony 入耳式耳機 MDR-EX255AP",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "298",
+        "water_price_min": "78",
+        "water_price_max": "168",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm (4節)",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Unique Melody Maven Pro 鈦合金製入耳式耳機",
+        "rating": "",
+        "hon_price_min": "12,888",
+        "hon_price_max": "12,888",
+        "無線/有線:": "有線",
+        "阻抗:": "30Ω",
+        "插針:": "2-Pin"
+    },
+    {
+        "names": "BFD Audio Gem 六鐵一圈入耳式耳機",
+        "rating": "",
+        "hon_price_min": "5,000",
+        "hon_price_max": "5,000",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-16kHz"
+    },
+    {
+        "names": "Fiio 入耳式耳機 FA7",
+        "rating": "9.0",
+        "hon_price_min": "2,088",
+        "hon_price_max": "2,698",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "120cm"
+    },
+    {
+        "names": "Sennheiser Digital Wireless Headphones for TV Listening 入耳式耳機 RS 5000",
+        "rating": "10",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "water_price_min": "1,898",
+        "water_price_max": "1,898",
+        "無線/有線:": "無線",
+        "播放頻率:": "15-16000Hz"
+    },
+    {
+        "names": "SOUL Run Free Pro X 運動型無線藍牙耳機",
+        "rating": "7.3",
+        "hon_price_min": "154",
+        "hon_price_max": "355",
+        "無線/有線:": "無線",
+        "驅動單元:": "動鐵",
+        "播放頻率:": "20Hz-20KHz",
+        "續航力:": "15小時"
+    },
+    {
+        "names": "Apple EarPods 配備遙控及麥克風",
+        "rating": "9.1",
+        "hon_price_min": "125",
+        "hon_price_max": "228",
+        "water_price_min": "118",
+        "water_price_max": "178",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "JVC 入耳式耳機 HA-FXC50",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1m"
+    },
+    {
+        "names": "Joyroom 有線入耳式耳機 (帶咪通話) JR-EL115",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "48",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Acoustune 入耳式耳機 HS1551CU",
+        "rating": "10",
+        "hon_price_min": "2,200",
+        "hon_price_max": "3,280",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "TRN XuanWu Planar Magnetic & Customized Balanced Armature Driver IEMS Earphone 玄武平板單元振膜耳機",
+        "rating": "9.5",
+        "hon_price_min": "295",
+        "hon_price_max": "295",
+        "water_price_min": "275",
+        "water_price_max": "275",
+        "無線/有線:": "有線",
+        "阻抗:": "12Ω",
+        "插頭:": "L JACK 3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Adidas Sport In-Ear 藍牙耳機 FWD-01",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "1,159",
+        "water_price_min": "509",
+        "water_price_max": "509",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "續航力:": "16+小時"
+    },
+    {
+        "names": "MUM ULTRA T 鈦蛋超人 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Oriolus Traillii JP 朱鸝旗艦級入耳式耳機 (黑红新色特定版)",
+        "rating": "",
+        "hon_price_min": "49,999",
+        "hon_price_max": "49,999",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Metalure Wave 純動圈入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,980",
+        "無線/有線:": "有線",
+        "插頭:": "2.5mm",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "64 Audio 高級入耳式耳機 U6t",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "8,999",
+        "無線/有線:": "有線",
+        "阻抗:": "10Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "InEar Black Moon 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "7,980",
+        "hon_price_max": "7,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "119dB/mW",
+        "阻抗:": "14Ω",
+        "導線長度:": "1.4m"
+    },
+    {
+        "names": "XROUND Aero 高解析入耳式耳機",
+        "rating": "6.0",
+        "hon_price_min": "499",
+        "hon_price_max": "589",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "NF AUDIO 監聽發燒級動圈入耳式耳機 NM2+",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "AIWA 愛華 入耳式耳機 ESTM-100",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "168",
+        "無線/有線:": "有線",
+        "靈敏度:": "98dB/mW",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 B3",
+        "rating": "7.3",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "FLICKER EAR Keep Real 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-18kHz"
+    },
+    {
+        "names": "NX Ears In Ear Monitor Opera 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,380",
+        "無線/有線:": "有線",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Thieaudio Oracle MKII \"神諭二世\"入耳式耳機",
+        "rating": "",
+        "hon_price_min": "4,699",
+        "hon_price_max": "4,699",
+        "無線/有線:": "有線",
+        "阻抗:": "100Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Unique Melody Mest MKII HK Special+ 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "10,888",
+        "hon_price_max": "11,888",
+        "無線/有線:": "有線",
+        "阻抗:": "12.3Ω",
+        "插頭:": "4.4mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Raptgo x HBB Hook-X 平板單元入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "NX Ears In Ear Monitor Sonata 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "無線/有線:": "有線",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 E4000",
+        "rating": "8.5",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "water_price_min": "1,060",
+        "water_price_max": "1,060",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Thieaudio V16 Divinity \"神靈' 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "11,880",
+        "hon_price_max": "11,880",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "Smart-switch (2.5mm, 3.5mm, 4.4mm)",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Shanling 旗艦動圈34週年限定典藏版入耳式有線HiFi耳機 MG800",
+        "rating": "10",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,200",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "2.5mm, 3.5mm, 4.4mm",
+        "導線長度:": "1.3m"
+    },
+    {
+        "names": "Hidizs Mermaid HiFi In-Ear Monitor Earphones 入耳式耳機 MS1 Rainbow",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "無線/有線:": "有線",
+        "靈敏度:": "112dB/mW",
+        "阻抗:": "20Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Belkin Rockstar 入耳式耳機配備 Lightning 接頭",
+        "rating": "9.3",
+        "hon_price_min": "190",
+        "hon_price_max": "358",
+        "無線/有線:": "有線",
+        "插頭:": "Lightning",
+        "導線長度:": "1.12m"
+    },
+    {
+        "names": "JBL 入耳式耳機 Tune 110",
+        "rating": "10",
+        "hon_price_min": "89",
+        "hon_price_max": "199",
+        "water_price_min": "99",
+        "water_price_max": "139",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "111.3cm"
+    },
+    {
+        "names": "Shanling 半開放式動圈入耳式耳機 MG-600",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "2.5mm & 3.5mm & 4.4mm",
+        "導線長度:": "1.3m"
+    },
+    {
+        "names": "iBasso 七單元圈鐵入耳式耳機  IT07",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "6,888",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "2.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "MoonDrop 水月雨 Starfield . 星野. 碳納米管振膜動圈耳機",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Monster N-Tune 300 Bluetooth Wireless Earphone 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "249",
+        "water_price_min": "120",
+        "water_price_max": "158",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "MoonDrop 水月雨 Solis 太陽神烏 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "7,880",
+        "hon_price_max": "7,880",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Tralucent 1 Plus 2.3 in-ear Hi-End Pure Music Earphone 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "14,800",
+        "無線/有線:": "有線",
+        "阻抗:": "26Ω",
+        "插頭:": "3.5mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.2m OCC銅鍍銀耳機線"
+    },
+    {
+        "names": "JBL Endurance Run BT 入耳式藍牙跑步耳機",
+        "rating": "5.3",
+        "hon_price_min": "370",
+        "hon_price_max": "399",
+        "water_price_min": "259",
+        "water_price_max": "259",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "24 小時小時"
+    },
+    {
+        "names": "Nokia Essential Wireless Earphones 運動入耳式耳機 E1502",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "靈敏度:": "114.5±3dB/mW",
+        "阻抗:": "32Ω",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "JBL UA Sport Wireless Flex 入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "588",
+        "hon_price_max": "999",
+        "water_price_min": "399",
+        "water_price_max": "798",
+        "無線/有線:": "無線",
+        "播放頻率:": "10Hz – 22kHz",
+        "續航力:": "12小時"
+    },
+    {
+        "names": "DUNU Vulkan 火神入耳式耳機",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,999",
+        "water_price_min": "2,900",
+        "water_price_max": "2,900",
+        "無線/有線:": "有線",
+        "阻抗:": "15Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2±0.1m"
+    },
+    {
+        "names": "Anker SoundCore Spirit Pro 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "418",
+        "無線/有線:": "無線",
+        "驅動單元:": "6mm 動圈",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Oriolus Szalayi 褐鸝三混合單元入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "6,990",
+        "hon_price_max": "6,990",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "10Ω",
+        "插針:": "2Pin 0.78mm"
+    },
+    {
+        "names": "1MORE 頸掛式降噪藍牙耳機 EHD9001BA",
+        "rating": "8.0",
+        "hon_price_min": "880",
+        "hon_price_max": "1,199",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "AAC,LDAC",
+        "阻抗:": "32Ω",
+        "續航力:": "14-20小時"
+    },
+    {
+        "names": "Fender PureSonic Premium Wireless Earbuds 無線入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "538",
+        "hon_price_max": "980",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "AAC,aptX",
+        "驅動單元:": "9.2 mm 動圈"
+    },
+    {
+        "names": "TRN 一圈八鐵旗艦款紅色金虎特別版 VX pro",
+        "rating": "",
+        "hon_price_min": "895",
+        "hon_price_max": "895",
+        "water_price_min": "865",
+        "water_price_max": "865",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE215 Special Edition with Mic",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "888",
+        "無線/有線:": "有線",
+        "靈敏度:": "107dB/mW",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "FAudio Dark Sky 動圈入耳式耳機",
+        "rating": "",
+        "hon_price_min": "6,880",
+        "hon_price_max": "6,999",
+        "無線/有線:": "有線",
+        "靈敏度:": "114dB/mW",
+        "阻抗:": "24Ω",
+        "插頭:": "2.5mm"
+    },
+    {
+        "names": "B&O Beoplay 入耳式耳機 E6",
+        "rating": "9.0",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,198",
+        "water_price_min": "1,040",
+        "water_price_max": "1,500",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "AAC",
+        "播放頻率:": "20-20KHz",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "Magaosi 藍牙版入耳式耳機 Y3",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "488",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE215",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "888",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "JBL Duet ARC 入耳式耳機",
+        "rating": "9.0",
+        "hon_price_min": "258",
+        "hon_price_max": "799",
+        "water_price_min": "199",
+        "water_price_max": "320",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "TangZu Audio 上官婉兒 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "無線/有線:": "有線",
+        "阻抗:": "20Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm 2pins",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "TRN 14.2mm 鈹膜動圈耳塞式耳機 EMX",
+        "rating": "9.0",
+        "hon_price_min": "428",
+        "hon_price_max": "438",
+        "water_price_min": "395",
+        "water_price_max": "395",
+        "無線/有線:": "有線",
+        "阻抗:": "45Ω",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm Jack",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JBL Endurance Sprint 入耳式耳機",
+        "rating": "9.2",
+        "hon_price_min": "380",
+        "hon_price_max": "450",
+        "water_price_min": "290",
+        "water_price_max": "310",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "AKG 入耳式耳機 Wireless Y100",
+        "rating": "7.0",
+        "hon_price_min": "399",
+        "hon_price_max": "799",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "AAC",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Philips 飛利浦 入耳式有線耳機 SHE9050",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "KZ Acoustics 8BA Balanced Armature Units Earphones 動鐵8單元入耳式耳機 AS16 Pro",
+        "rating": "9.8",
+        "hon_price_min": "490",
+        "hon_price_max": "498",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "L JACK 3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "120±5cm"
+    },
+    {
+        "names": "Acoustune HS1650CU 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "3,499",
+        "hon_price_max": "4,980",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω"
+    },
+    {
+        "names": "Philips 飛利浦 MyJam FreshTones 藍牙入耳式耳機 SHB5250",
+        "rating": "10",
+        "hon_price_min": "159",
+        "hon_price_max": "258",
+        "water_price_min": "138",
+        "water_price_max": "148",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Monster iSport Spirit 無線藍牙運動耳機",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Lenovo 磁吸掛頸式藍牙入耳式耳機 HE05",
+        "rating": "8.0",
+        "hon_price_min": "98",
+        "hon_price_max": "99",
+        "無線/有線:": "無線",
+        "驅動單元:": "10mm 動圈",
+        "靈敏度:": "98dB/mW",
+        "續航力:": "9-12小時"
+    },
+    {
+        "names": "Xpower 藍牙4.2運動耳機 XT11/XT-11",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "無線/有線:": "無線",
+        "驅動單元:": "8mm",
+        "續航力:": "3-4小時"
+    },
+    {
+        "names": "EarStudio Earphones 3.5mm w/Mic 帶咪入耳式耳機 HE100",
+        "rating": "10",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "無線/有線:": "有線",
+        "阻抗:": "27Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Clariar 入耳式耳機 i430",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "4,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "103dB/mW",
+        "阻抗:": "16Ω"
+    },
+    {
+        "names": "Gaudio Nair 2022 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "7,980",
+        "hon_price_max": "7,980",
+        "無線/有線:": "有線",
+        "阻抗:": "26Ω",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "JBL 入耳式耳機 C100SI",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "water_price_min": "48",
+        "water_price_max": "88",
+        "無線/有線:": "有線",
+        "靈敏度:": "100±3dB/mW",
+        "阻抗:": "16±3.2Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "AAW 3 Driver Hybrid In-Ear Monitor 入耳式耳機 ACH",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,799",
+        "無線/有線:": "有線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "20Ω"
+    },
+    {
+        "names": "Sony 手提電話藍牙耳機 SBH54",
+        "rating": "4.8",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "water_price_min": "420",
+        "water_price_max": "480",
+        "無線/有線:": "無線",
+        "藍牙版本:": "3.0",
+        "續航力:": "4小時"
+    },
+    {
+        "names": "Sony Extra Bass 入耳式耳機 MDR-XB55AP",
+        "rating": "8.8",
+        "hon_price_min": "330",
+        "hon_price_max": "369",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Audio Technica 耳塞式耳機 ATH-CK350M",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m (Y型)"
+    },
+    {
+        "names": "Audio Technica 入耳式耳機 ATH-CKR100",
+        "rating": "10",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,698",
+        "water_price_max": "2,698",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Beyerdynamic Xelento Remote 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "3,990",
+        "hon_price_max": "6,780",
+        "water_price_min": "4,650",
+        "water_price_max": "4,680",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.3m"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE425",
+        "rating": "9.3",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,960",
+        "無線/有線:": "有線",
+        "靈敏度:": "109dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "162.54cm"
+    },
+    {
+        "names": "PW Audio Siren 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-16kHz",
+        "插針:": "0.78 2pin"
+    },
+    {
+        "names": "Pioneer 入耳式耳機 SE-C3T",
+        "rating": "10",
+        "hon_price_min": "110",
+        "hon_price_max": "139",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Fonemax Extra Bass Lightning 入耳式耳機 XM50i",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "228",
+        "無線/有線:": "有線",
+        "驅動單元:": "12mm 動圈",
+        "插頭:": "Lightning"
+    },
+    {
+        "names": "FLICKER EAR 入耳式耳機 Fornax (5 Hybrid Drivers)",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "4,680",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Audio Technica 無線入耳式耳機 ATH-CK200BT",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "319",
+        "無線/有線:": "無線",
+        "播放頻率:": "20 ~ 20,000 Hz",
+        "續航力:": "7小時"
+    },
+    {
+        "names": "NF AUDIO 雙腔體動圈單元入耳式耳機NA2+",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm 2pin"
+    },
+    {
+        "names": "Sony 入耳式耳機 XBA-N1AP",
+        "rating": "9.1",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Futech Audio F10+1/V4E 旗艦單邊11單元10鐵1圈V4E-4調音開關16風格耳機 + Sc8純銀升級線",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "4,500",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-20kHz",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "AUDEZE Euclid 封閉式平板單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "7,980",
+        "hon_price_max": "7,980",
+        "無線/有線:": "有線",
+        "阻抗:": "12Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE425",
+        "rating": "9.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "2,480",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm / Bluetooth"
+    },
+    {
+        "names": "Belkin Rockstar 入耳式耳機配備 USB-C 接頭",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "358",
+        "無線/有線:": "有線",
+        "插頭:": "USB-C",
+        "導線長度:": "1.12m"
+    },
+    {
+        "names": "Evening Star 入耳式耳機 LYS933",
+        "rating": "9.6",
+        "hon_price_min": "589",
+        "hon_price_max": "589",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "KZ Acoustics EDC Monitor-Grade Dual Dynamic Earphones 雙磁路動圈監聽入耳式耳機",
+        "rating": "9.5",
+        "hon_price_min": "88",
+        "hon_price_max": "98",
+        "無線/有線:": "有線",
+        "阻抗:": "23Ω",
+        "插頭:": "3.5mm",
+        "插針:": "CM, 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Panther Audio Dawn 全頻單動鐵入耳式耳機",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm 2pin"
+    },
+    {
+        "names": "DUNU 入耳式耳機 EST112",
+        "rating": "6.0",
+        "hon_price_min": "2,749",
+        "hon_price_max": "3,999",
+        "無線/有線:": "有線",
+        "阻抗:": "10Ω",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "SOUL Run Free Pro Bio 運動型無線藍牙耳機",
+        "rating": "5.3",
+        "hon_price_min": "350",
+        "hon_price_max": "720",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.1",
+        "播放頻率:": "20-20KHz"
+    },
+    {
+        "names": "DUNU 三單元動鐵入耳式耳機 SA3",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "無線/有線:": "有線",
+        "驅動單元:": "3動鐵單元"
+    },
+    {
+        "names": "JBL Under Armour Sport Wireless (2nd Gen) 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "710",
+        "water_price_min": "460",
+        "water_price_max": "460",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "JBL 入耳式耳機 T290",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "280",
+        "water_price_min": "88",
+        "water_price_max": "190",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "TRN 一圈六鐵監聽級HiFi耳機 VX",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "588",
+        "water_price_min": "548",
+        "water_price_max": "588",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.75mm",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "KZ Acoustics x HBB Array 3 Drivers Zinc Alloy 入耳式耳機 DQ6S",
+        "rating": "9.3",
+        "hon_price_min": "225",
+        "hon_price_max": "228",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "無線/有線:": "有線",
+        "阻抗:": "25Ω",
+        "插頭:": "L Jack 3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "FLICKER EAR Respect 混合單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-18kHz"
+    },
+    {
+        "names": "KZ Acoustics 13.2mm Dual-Cavity Planar Magnetic Driver Earphones Balanced Edition 平板振膜均衡版入耳式耳機 PR1",
+        "rating": "9.8",
+        "hon_price_min": "568",
+        "hon_price_max": "568",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Jomo Audio S100 Cappuccino 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,680",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm , 4.4mm",
+        "插針:": "0.78mm 2pins",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Meze Audio 12 Classics 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "599",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Kinera Baldr 靜電混合單元耳機",
+        "rating": "",
+        "hon_price_min": "9,980",
+        "hon_price_max": "9,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "109±2dB/mW",
+        "阻抗:": "22Ω"
+    },
+    {
+        "names": "Accutone 入耳式耳機 HS1300SS (Dorado 貴族金限量版)",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,588",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "FiiO 一圈兩鐵三單元MMCX單晶銅鍍銀可換線耳機 FH3",
+        "rating": "10",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,380",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JBL Under Armour Sport Wireless React 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "1,289",
+        "water_price_min": "784",
+        "water_price_max": "784",
+        "無線/有線:": "無線",
+        "播放頻率:": "20Hz - 20kHz",
+        "續航力:": "9小時"
+    },
+    {
+        "names": "Spiral Ear SE 5-Way Ulitmate Universal In Ear Monitors",
+        "rating": "",
+        "hon_price_min": "13,800",
+        "hon_price_max": "13,800",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JVC Wood Dome 10週年記念版入耳式耳機 HA-FW10000",
+        "rating": "",
+        "hon_price_min": "12,900",
+        "hon_price_max": "12,980",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Futech Audio F3+1 3鐵1圈兩調音開關4風格耳機 + 6號金銀升級線",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "無線/有線:": "有線",
+        "插頭:": "4.4mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "AFUL Performer 5 1DD + 4BA 入耳式監聽耳機",
+        "rating": "10",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "無線/有線:": "有線",
+        "阻抗:": "35Ω",
+        "插頭:": "3.5mm",
+        "插針:": "2-pin 0.78mm"
+    },
+    {
+        "names": "Kinera Imperial Baldr (Baldr 2.0) 旗艦級靜電混合單元耳機",
+        "rating": "",
+        "hon_price_min": "9,460",
+        "hon_price_max": "10,880",
+        "無線/有線:": "有線",
+        "靈敏度:": "109 +/- 2dB/mW",
+        "阻抗:": "22Ω",
+        "插頭:": "4.4mm"
+    },
+    {
+        "names": "TRN 10mm Dual Magnet Dynamic Driver Monitor-Grade In-ear Earphone 雙磁路動圈監聽入耳式耳機 CS2",
+        "rating": "9.6",
+        "hon_price_min": "105",
+        "hon_price_max": "105",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "L Jack 3.5mm",
+        "插針:": "CM, 0.75mm",
+        "導線長度:": "1.25m±5cm"
+    },
+    {
+        "names": "BGVP Acoustic ArtMagic 一圈四鐵五單體Hi-Fi發燒入耳式耳機 DH5",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "790",
+        "無線/有線:": "有線",
+        "靈敏度:": "119dB/mW",
+        "阻抗:": "19Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Kinera Imperial Nanna (Nanna 2.0 Pro) 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "6,880",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "60Ω",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "Wavaya Penta 陶瓷監聽耳機",
+        "rating": "",
+        "hon_price_min": "10,900",
+        "hon_price_max": "10,900",
+        "無線/有線:": "有線",
+        "靈敏度:": "99dB/mW",
+        "阻抗:": "7.8Ω"
+    },
+    {
+        "names": "KZ Acoustics Stage Monitor-Grade Composite Magnetic Dynamic Driver 複合動圈入耳式舞台監聽耳機 EDX",
+        "rating": "9.5",
+        "hon_price_min": "115",
+        "hon_price_max": "118",
+        "無線/有線:": "有線",
+        "阻抗:": "23Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.75mm",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Nostalgia Audio Camelot 旗艦級多混合單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "19,800",
+        "hon_price_max": "19,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "114dB/mW",
+        "阻抗:": "13Ω"
+    },
+    {
+        "names": "DUNU Falcon Pro｜隼 Pro 入耳式耳機",
+        "rating": "9.0",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,699",
+        "無線/有線:": "有線",
+        "阻抗:": "26Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2±0.1m"
+    },
+    {
+        "names": "Kinera SIF MMCX 可換線耳機",
+        "rating": "9.0",
+        "hon_price_min": "265",
+        "hon_price_max": "265",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Custom Art Fibae 2 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "3,780",
+        "hon_price_max": "3,780",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "2Pin"
+    },
+    {
+        "names": "1MORE 入耳式耳機 E1001",
+        "rating": "8.0",
+        "hon_price_min": "699",
+        "hon_price_max": "999",
+        "無線/有線:": "有線",
+        "靈敏度:": "99dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Lime Ears Pneuma 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "15,980",
+        "hon_price_max": "15,980",
+        "無線/有線:": "有線",
+        "阻抗:": "Four-way passive hybrid crossoverΩ",
+        "續航力:": "Switchable subwoofer dynamic driver小時",
+        "導線長度:": "BAM technology."
+    },
+    {
+        "names": "Hidition 入門入耳式耳機 NT-1",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,480",
+        "無線/有線:": "有線",
+        "靈敏度:": "102.5dB/mW",
+        "阻抗:": "14Ω"
+    },
+    {
+        "names": "Anker SoundBuds Slim 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "268",
+        "hon_price_max": "298",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Monster iSport Bluetooth Wireless In Ear 入耳式耳機",
+        "rating": "9.0",
+        "hon_price_min": "199",
+        "hon_price_max": "309",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Belkin Soundform 入耳式耳機配備 USB-C 接頭 G3H0002bt",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "369",
+        "無線/有線:": "有線",
+        "插頭:": "USB-C"
+    },
+    {
+        "names": "Philips 飛利浦 入耳式耳機  SHE3850",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "無線/有線:": "有線",
+        "阻抗:": "28Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "BQEYZ Spring 2 壓電陶瓷動圈動鐵耳機",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,080",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Teckon 雙單元入耳式監聽耳機 IEM-E2-17",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "無線/有線:": "有線",
+        "阻抗:": "17.9Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "InEar ProPhile 8L 多單元動鐵入耳式耳機",
+        "rating": "",
+        "hon_price_min": "9,980",
+        "hon_price_max": "13,800",
+        "water_price_min": "9,980",
+        "water_price_max": "9,980",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Audio Technica 入耳式耳機 ATH-CK2000Ti",
+        "rating": "10",
+        "hon_price_min": "5,300",
+        "hon_price_max": "6,340",
+        "無線/有線:": "有線",
+        "靈敏度:": "102dB/mW",
+        "阻抗:": "10Ω"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機  SE535 - Red Special Edition, 3.5mm Remote + Mic (Apple & Android) and Bluetooth wireless",
+        "rating": "",
+        "hon_price_min": "2,188",
+        "hon_price_max": "3,780",
+        "無線/有線:": "無線",
+        "插頭:": "3.5mm / Bluetooth",
+        "導線長度:": "127cm"
+    },
+    {
+        "names": "Lenovo 頸掛式無線藍牙耳機 XE05",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "無線/有線:": "無線",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "9-12小時",
+        "防塵/防水等級:": "IPX5"
+    },
+    {
+        "names": "Empire Ears Legend X (Universal) In-Ear Monitors 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "16,800",
+        "hon_price_max": "16,800",
+        "water_price_min": "16,800",
+        "water_price_max": "16,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "102dB/mW"
+    },
+    {
+        "names": "Monster Airmars USB-C Wired in-Ear Headphones Type-C 有線入耳式耳機連咪 GM01",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "150",
+        "無線/有線:": "有線",
+        "插頭:": "USB Type-C",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Thieaudio Elixir 動圈單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-70kHz"
+    },
+    {
+        "names": "Sony 入耳式耳機 MDR-EX155AP",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "248",
+        "water_price_min": "149",
+        "water_price_max": "149",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Accutone Studio S2 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "2,390",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "130cm (Universal MMCX)"
+    },
+    {
+        "names": "Sennheiser 藍牙入耳式耳機 CX 6.00BT",
+        "rating": "10",
+        "hon_price_min": "488",
+        "hon_price_max": "799",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.2",
+        "播放頻率:": "17-21,000 Hz"
+    },
+    {
+        "names": "Unique Melody Mini MEST 混合單元耳機",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,888",
+        "無線/有線:": "有線",
+        "驅動單元:": "三動鐵單元+骨傳導"
+    },
+    {
+        "names": "Motorola Earbuds 2 入耳式耳機 SH006",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "89",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "JBL Reflect Mini BT 入耳式耳機",
+        "rating": "8.3",
+        "hon_price_min": "200",
+        "hon_price_max": "659",
+        "water_price_min": "200",
+        "water_price_max": "320",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "64 Audio tia Fourte 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "27,999",
+        "hon_price_max": "27,999",
+        "無線/有線:": "有線",
+        "阻抗:": "10Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "TRN 7BA Driver Unit In-ear Earphone 7單元動鐵耳機 X7",
+        "rating": "9.4",
+        "hon_price_min": "690",
+        "hon_price_max": "875",
+        "water_price_min": "617",
+        "water_price_max": "875",
+        "無線/有線:": "有線",
+        "阻抗:": "20Ω",
+        "插頭:": "3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Campfire Audio Vega 2020 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "6,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "94dB/mW",
+        "阻抗:": "36Ω",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "KZ Acoustics Eletret Electrostatic, Dual Magnet DD and BA Hybrid Drivers In-ear Earphone ZEX Pro 靜電+雙磁路動圈+動鐵三單元入耳式耳機",
+        "rating": "9.5",
+        "hon_price_min": "284",
+        "hon_price_max": "285",
+        "無線/有線:": "有線",
+        "阻抗:": "25Ω",
+        "插頭:": "3.5mm",
+        "插針:": "CM, 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Philips 飛利浦 入耳式耳機 SHE5200",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "60",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm Stereo",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Futech Audio F1+1 Galaxy Silver 圈鐵耳機 + 8S單晶銀升級線",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "FiiO 可換聲導管12mm全頻大動圈耳機 (四股120芯單晶銅線) FD3",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "999",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Noble Audio Sultan 靜電混合單元旗艦耳機 (Hong Kong Edition)",
+        "rating": "",
+        "hon_price_min": "19,800",
+        "hon_price_max": "24,980",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "JVC 降噪無線藍牙耳機 HA-FX65BN",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "359",
+        "water_price_max": "359",
+        "無線/有線:": "無線",
+        "驅動單元:": "8.5mm 動圈",
+        "播放頻率:": "20-20000Hz",
+        "續航力:": "6小時"
+    },
+    {
+        "names": "Nuarl 無線入耳式耳機 NB20",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "349",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "QDC Uranus 天王星混合單元入耳式耳機 (香港特別版)",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm",
+        "插針:": "2Pin"
+    },
+    {
+        "names": "Moxpad 入耳式耳機 X6",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.35m"
+    },
+    {
+        "names": "Onkyo 入耳式有線耳機 E300M",
+        "rating": "10",
+        "hon_price_min": "659",
+        "hon_price_max": "659",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "無線/有線:": "有線",
+        "靈敏度:": "108dB/mW",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JBL Synchros Reflect BT 入耳式耳機",
+        "rating": "8.8",
+        "hon_price_min": "220",
+        "hon_price_max": "599",
+        "water_price_min": "370",
+        "water_price_max": "380",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Victor Wood Inner Ear Headphone 入耳式耳機 HA-FW1500",
+        "rating": "",
+        "water_price_min": "3,998",
+        "water_price_max": "3,998",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Teckon 雙單元入耳式監聽耳機 IEM-E2-1",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "無線/有線:": "有線",
+        "阻抗:": "17.9Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Lenovo 有線帶麥可調音量Type-c耳機 TW13 (黑色)",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "無線/有線:": "有線",
+        "插頭:": "Type C",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "MoonDrop 水月雨 太陽神鳥X水月娘KXXS～痛枕～限定豪華特典",
+        "rating": "",
+        "hon_price_min": "7,680",
+        "hon_price_max": "7,688",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω"
+    },
+    {
+        "names": "Shanling 五單元圈鐵 HiFi 入耳式耳機 ME700",
+        "rating": "",
+        "hon_price_min": "3,998",
+        "hon_price_max": "3,998",
+        "無線/有線:": "有線",
+        "靈敏度:": "106±3dB/mW",
+        "阻抗:": "18Ω"
+    },
+    {
+        "names": "PW Audio Biscuit 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "3,999",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-16kHz"
+    },
+    {
+        "names": "Sennheiser Momentum In-Ear 入耳式耳機",
+        "rating": "9.3",
+        "hon_price_min": "690",
+        "hon_price_max": "698",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "無線/有線:": "有線",
+        "靈敏度:": "118dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.3m"
+    },
+    {
+        "names": "Acoustune HS1670SS 入耳式耳機",
+        "rating": "9.5",
+        "hon_price_min": "3,180",
+        "hon_price_max": "5,998",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "24Ω"
+    },
+    {
+        "names": "Teckon 入耳式監聽耳機 IEM-E2-21",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "無線/有線:": "有線",
+        "阻抗:": "17.9Ω",
+        "插頭:": "3.5mm",
+        "插針:": "2Pin",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Intime Go 轟 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "980",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2"
+    },
+    {
+        "names": "Sony 無線入耳式耳機 WI-C300",
+        "rating": "9.5",
+        "hon_price_min": "250",
+        "hon_price_max": "298",
+        "water_price_min": "200",
+        "water_price_max": "299",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "AAC",
+        "播放頻率:": "20Hz - 20,000Hz",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Fabio Marina 入耳式高級金屬耳機 FM-250",
+        "rating": "10",
+        "hon_price_min": "179",
+        "hon_price_max": "189",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "Type-C",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "KZ 高音質5BA入耳式耳機 BA10",
+        "rating": "9.3",
+        "hon_price_min": "484",
+        "hon_price_max": "485",
+        "water_price_min": "384",
+        "water_price_max": "385",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Marshall Mode EQ - Android 入耳式耳機",
+        "rating": "9.3",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Kinera Imperial Odin (Odin 2.0) 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "5,720",
+        "hon_price_max": "6,580",
+        "無線/有線:": "有線",
+        "阻抗:": "24Ω",
+        "插頭:": "4.4mm",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "Sudio Tva 入耳式有線耳機",
+        "rating": "8.0",
+        "hon_price_min": "280",
+        "hon_price_max": "299",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "DUNU ZEN PRO 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "5,500",
+        "無線/有線:": "有線",
+        "插頭:": "4.4mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Sudio Tre 藍牙入耳式耳機",
+        "rating": "8.4",
+        "hon_price_min": "730",
+        "hon_price_max": "849",
+        "無線/有線:": "有線",
+        "靈敏度:": "103 ± 3dB SPL @ 1 kHz 178mVdB/mW",
+        "插頭:": "Bluetooth"
+    },
+    {
+        "names": "Pioneer ClipWear Active 藍牙入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "178",
+        "hon_price_max": "308",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.1"
+    },
+    {
+        "names": "InEar ProMission X 10單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "15,800",
+        "hon_price_max": "19,980",
+        "water_price_min": "15,680",
+        "water_price_max": "15,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "12dB/mW",
+        "阻抗:": "10Ω"
+    },
+    {
+        "names": "Vision Ears Signature Design Universal Fit Custom In-Ears 入耳式耳機 VE 3.2",
+        "rating": "",
+        "hon_price_min": "9,180",
+        "hon_price_max": "9,500",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Nicehck Lofty 旗艦動圈入耳式HiFi可換線發燒級金屬耳機",
+        "rating": "10",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm / 2.5mm / 4.4mm",
+        "插針:": "0.78mm 2pin",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Sennheiser 入耳式耳機 CX 3.00",
+        "rating": "8.5",
+        "hon_price_min": "300",
+        "hon_price_max": "450",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2 m"
+    },
+    {
+        "names": "Sony 運動防水藍牙入耳式耳機 NWZ-WS613",
+        "rating": "8.0",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4"
+    },
+    {
+        "names": "AUDIOFLY 入耳式耳機 AF56W",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "328",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "FAudio Scale 圈鐵混合單元耳機",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "35Ω",
+        "插針:": "2Pin"
+    },
+    {
+        "names": "JLab Audio Fit Sport 3 Fitness Earbuds 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "258",
+        "hon_price_max": "299",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 E1000",
+        "rating": "8.7",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Acoustune 入耳式耳機 HS1501",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "2,300",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Vision Ears Signature Design Universal Fit Custom In-Ears 入耳式耳機 VE 4.2",
+        "rating": "",
+        "hon_price_min": "11,500",
+        "hon_price_max": "11,730",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "KZ Acoustics Dynamic Driver in Ear Monitor 入耳式耳機 EDA",
+        "rating": "9.6",
+        "hon_price_min": "255",
+        "hon_price_max": "265",
+        "無線/有線:": "有線",
+        "阻抗:": "34Ω",
+        "插頭:": "3.5mm",
+        "插針:": "CM 0.75mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "ADVANCED Model 3 入耳式耳機",
+        "rating": "9.0",
+        "hon_price_min": "498",
+        "hon_price_max": "638",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "aptX,AAC",
+        "續航力:": "5小時"
+    },
+    {
+        "names": "BLON Metal In-ear Earphone 入耳式耳機 Z200",
+        "rating": "9.3",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "AUDEZE 入耳式耳機 LCDi4",
+        "rating": "",
+        "hon_price_min": "21,580",
+        "hon_price_max": "21,580",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "JLab Audio Metal Earbuds (IOS / Andriod) 入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Jabra Elite 25e 無線藍牙入耳式耳機",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "499",
+        "water_price_min": "479",
+        "water_price_max": "479",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.1",
+        "續航力:": "18小時"
+    },
+    {
+        "names": "Wavaya Tria Live! 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "110dB/mW",
+        "阻抗:": "40Ω"
+    },
+    {
+        "names": "HP Music Headset 入耳式耳機 DHE-7003",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "139",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Ambient-Acoustics Unique Custom In-Ear Monitors 入耳式耳機 LAM5-C",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "8,800",
+        "無線/有線:": "有線",
+        "靈敏度:": "Sensivity (50Hz): 110dB/mVt,116dB/mVt,120dB/mVt, 124dB/mW",
+        "阻抗:": "Impedance (50Hz): 12Ω",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Lenovo 無線運動入耳式耳機 H204",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85",
+        "無線/有線:": "無線",
+        "靈敏度:": "90dB/mW"
+    },
+    {
+        "names": "Campfire Audio Solaris Limited Edition 旗艦級混合單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "12,880",
+        "無線/有線:": "有線",
+        "靈敏度:": "115dB/mW",
+        "阻抗:": "10Ω"
+    },
+    {
+        "names": "Tralucent Plus 5.2S Professional Earphone 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "26,980",
+        "hon_price_max": "26,980",
+        "無線/有線:": "有線",
+        "阻抗:": "28Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm",
+        "導線長度:": "1.25m OCC銅鍍銀耳機線"
+    },
+    {
+        "names": "SOUL Pure+ 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "230",
+        "無線/有線:": "無線",
+        "功能:": "防水,運動型"
+    },
+    {
+        "names": "FLICKER EAR Circinus 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,590",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Sony 智慧手機入耳式耳機 MDR-EX15LP",
+        "rating": "10",
+        "hon_price_min": "82",
+        "hon_price_max": "102",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "ORB CF-IEM 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "104dB/mW",
+        "阻抗:": "10.2Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Borofone 入耳式耳機 BE5",
+        "rating": "8.0",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "TFZ Balance 2M 雙動圈監耳聽入耳式可換線耳機",
+        "rating": "10",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "SOUL Pure Wireless Plus 藍牙入耳式耳機",
+        "rating": "6.0",
+        "hon_price_min": "119",
+        "hon_price_max": "198",
+        "無線/有線:": "無線",
+        "驅動單元:": "8mm 單元",
+        "播放頻率:": "20Hz-20kHz",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Marshall Mode - Android 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "JLab Audio JBuds Pro 藍牙運動耳機",
+        "rating": "2.0",
+        "hon_price_min": "190",
+        "hon_price_max": "259",
+        "無線/有線:": "無線",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Borofone DasMelody Earphones with Mic BM20",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "AROMA Jewel 661 6靜電 6動鐵 1動圈旗艦級混合單元耳機",
+        "rating": "",
+        "hon_price_min": "39,999",
+        "hon_price_max": "39,999",
+        "無線/有線:": "有線",
+        "靈敏度:": "103dB/mW",
+        "阻抗:": "22Ω"
+    },
+    {
+        "names": "Borofone Wired Earphones with Mic 1.2m BM54",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "89",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz-20kHz"
+    },
+    {
+        "names": "Hidizs Mermaid Hybrid Dual Drivers HiFi Earphones 入耳式耳機 MS2",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm",
+        "插針:": "CM 0.78mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Jabra Evolve 75e 商用級頸掛入耳式無線藍牙耳機",
+        "rating": "9.0",
+        "hon_price_min": "1,914",
+        "hon_price_max": "2,116",
+        "water_price_min": "1,800",
+        "water_price_max": "1,800",
+        "無線/有線:": "無線",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "14小時"
+    },
+    {
+        "names": "Meze Audio Rai Solo 單動圈單元入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "998",
+        "hon_price_max": "1,980",
+        "無線/有線:": "有線",
+        "靈敏度:": "105dB/mW",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Edifier 專業手遊震動藍牙耳機 GM3 BT",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "499",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "aptX",
+        "播放頻率:": "20-20kHz",
+        "續航力:": "12小時"
+    },
+    {
+        "names": "JBL Duet Mini 入耳式耳機",
+        "rating": "6.7",
+        "hon_price_min": "140",
+        "hon_price_max": "350",
+        "water_price_min": "99",
+        "water_price_max": "170",
+        "無線/有線:": "無線",
+        "驅動單元:": "8.6mm 動圈"
+    },
+    {
+        "names": "SOUL Upbeat 高效入耳式耳機",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "128",
+        "water_price_min": "89",
+        "water_price_max": "89",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Plantronics Backbeat Go 410 主動解噪入耳式耳機",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "988",
+        "無線/有線:": "無線",
+        "播放頻率:": "20-20000hz",
+        "續航力:": "8小時"
+    },
+    {
+        "names": "Shuoer Acoustic In Ear Monitors 入耳式耳機 EJ07M",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,180",
+        "water_price_min": "4,398",
+        "water_price_max": "4,398",
+        "無線/有線:": "有線",
+        "阻抗:": "19Ω",
+        "插頭:": "3.5mm / 4.4mm",
+        "插針:": "2 Pin",
+        "導線長度:": "1.25"
+    },
+    {
+        "names": "FlipEars Aurora 北極光 旗艦級入耳式耳機",
+        "rating": "",
+        "hon_price_min": "13,980",
+        "hon_price_max": "13,980",
+        "無線/有線:": "有線",
+        "阻抗:": "21Ω",
+        "插頭:": "2.5mm",
+        "插針:": "0.78mm CM-2pin"
+    },
+    {
+        "names": "Philips 飛利浦 配備麥克風耳塞式耳機 TAE1205",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "無線/有線:": "無線",
+        "靈敏度:": "108.5dB/mW",
+        "阻抗:": "32Ω",
+        "續航力:": "7小時",
+        "防塵/防水等級:": "IPX4"
+    },
+    {
+        "names": "XROUND AERO Plus 高解析有線入耳耳機",
+        "rating": "6.0",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "無線/有線:": "有線",
+        "阻抗:": "20Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Audio Technica 入耳式智能手機通話耳機 ATH-CKR70IS",
+        "rating": "8.0",
+        "hon_price_min": "540",
+        "hon_price_max": "1,010",
+        "無線/有線:": "有線",
+        "靈敏度:": "200dB/mW"
+    },
+    {
+        "names": "Acoustune 黃銅製可換線入耳式耳機 HS1655CU",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "5,480",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Kinera Freya 混合單元入耳式耳機",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,890",
+        "無線/有線:": "有線",
+        "阻抗:": "22Ω",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "fFLAT5 Forte One 入耳式耳機",
+        "rating": "8.0",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "water_price_min": "168",
+        "water_price_max": "168",
+        "無線/有線:": "有線",
+        "靈敏度:": "98dB/mW"
+    },
+    {
+        "names": "BGVP Melody 韵 入耳式動圈耳機 (配2.5+3.5+4.4 版)",
+        "rating": "10",
+        "hon_price_min": "978",
+        "hon_price_max": "978",
+        "無線/有線:": "有線",
+        "阻抗:": "18Ω",
+        "插頭:": "3.5mm, 2.5mm, 4.4mm",
+        "插針:": "MMCX"
+    },
+    {
+        "names": "Nakamichi Elite X1 入耳式耳機",
+        "rating": "8.7",
+        "hon_price_min": "300",
+        "hon_price_max": "690",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "Nakamichi N-energy 01 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "300",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "Audio Technica 入耳式智能手機通話耳機 ATH-CKR90IS",
+        "rating": "10",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,799",
+        "無線/有線:": "有線",
+        "靈敏度:": "109dB/mW"
+    },
+    {
+        "names": "Mosidun 入耳式耳機 i9",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Audio Technica 入耳式智能手機通話耳機 ATH-CKR50IS",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "399",
+        "無線/有線:": "有線",
+        "靈敏度:": "103dB/mW"
+    },
+    {
+        "names": "EOps Noisezero WV2+ 高通QCC3020晶片加強版 入耳式耳機",
+        "rating": "9.3",
+        "hon_price_min": "399",
+        "hon_price_max": "580",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "aptX,AAC",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Softears Volume 1圈2鐵入耳式耳機",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "無線/有線:": "有線",
+        "阻抗:": "52Ω",
+        "插頭:": "3.5mm",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "Joyroom 有線入耳式耳機 (帶咪通話) JR-EL114",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "無線/有線:": "有線",
+        "靈敏度:": "85dB/mW",
+        "阻抗:": "2.2KΩ",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "CTM Da Vinci X 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "10,000",
+        "hon_price_max": "16,800",
+        "無線/有線:": "有線",
+        "阻抗:": "43.8Ω"
+    },
+    {
+        "names": "HP 有線入耳式降噪音樂耳機 DHH-1111",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "88",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Awei 運動藍牙耳機 A921BL",
+        "rating": "8.7",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "無線/有線:": "無線",
+        "藍牙版本:": "4.0"
+    },
+    {
+        "names": "PLEXTONE Type-C Sport Earphone 入耳式耳機 X56M",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "64 Audio Nio 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "10,999",
+        "hon_price_max": "14,999",
+        "water_price_min": "13,680",
+        "water_price_max": "13,680",
+        "無線/有線:": "有線",
+        "靈敏度:": "105dB/mW",
+        "阻抗:": "6Ω",
+        "插針:": "2Pin"
+    },
+    {
+        "names": "Happy Plugs In-Ear 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "240",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "BLON 金屬鏤空動圈單元耳機 BL-A8",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "720",
+        "無線/有線:": "有線",
+        "靈敏度:": "115dBdB/mW",
+        "阻抗:": "32Ω"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 F3100",
+        "rating": "",
+        "hon_price_min": "1,390",
+        "hon_price_max": "1,390",
+        "無線/有線:": "有線",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Azden 入耳式耳機 HS-11",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "368",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Wraps Limited Edition Rainbow 粉彩時尚編織手環耳機",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "240",
+        "無線/有線:": "有線",
+        "靈敏度:": "80dB/mW",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Awei K歌有線耳機 ES-180I",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "TinHiFi 天天動聽 碳納米管振膜入耳式監聽耳機 T4",
+        "rating": "",
+        "hon_price_min": "948",
+        "hon_price_max": "948",
+        "water_price_min": "810",
+        "water_price_max": "810",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.25m"
+    },
+    {
+        "names": "Harman Kardon Fly BT 藍牙入耳式耳機",
+        "rating": "10",
+        "hon_price_min": "698",
+        "hon_price_max": "980",
+        "water_price_min": "550",
+        "water_price_max": "560",
+        "無線/有線:": "有線",
+        "靈敏度:": "94dB/mW",
+        "阻抗:": "32Ω"
+    },
+    {
+        "names": "Fabio Marina 3.5mm插頭強勁低音高級金屬耳機 FM-230",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "WK Design 雙動圈有線入耳式耳機 - 3.5mm 接頭 Y9",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Mosidun HIFI Earphone 6D (3m) i6",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "99",
+        "無線/有線:": "有線",
+        "靈敏度:": "116dB/mW",
+        "阻抗:": "32Ω",
+        "導線長度:": "3m"
+    },
+    {
+        "names": "Fir Audio Xenon 6 (XE6) 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "24,888",
+        "hon_price_max": "24,888",
+        "無線/有線:": "有線",
+        "阻抗:": "28Ω",
+        "插頭:": "4.4mm",
+        "插針:": "0.78mm"
+    },
+    {
+        "names": "Auglamour F300 可換線音樂HIFI耳機",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "268",
+        "無線/有線:": "有線",
+        "阻抗:": "16Ω",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Final Audio 入耳式耳機 B2",
+        "rating": "10",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "USAMS EP-39 In-ear Corded Headsets 1.2m 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "無線/有線:": "有線",
+        "阻抗:": "32Ω"
+    },
+    {
+        "names": "Sennheiser 藍牙運動入耳式耳機 CX Sport",
+        "rating": "8.0",
+        "hon_price_min": "749",
+        "hon_price_max": "750",
+        "無線/有線:": "無線",
+        "支援音訊格式:": "AAC,aptX",
+        "驅動單元:": "動圈",
+        "播放頻率:": "17 – 21,000 Hz"
+    },
+    {
+        "names": "Audiolab M-Ear 4D 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "7,500",
+        "無線/有線:": "有線",
+        "阻抗:": "66Ω"
+    },
+    {
+        "names": "Lenovo Metal Rarphone 金屬入耳式耳機 HF103",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "無線/有線:": "有線",
+        "靈敏度:": "97dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.15m"
+    },
+    {
+        "names": "Monster iSport Solitaire Lite 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "無線/有線:": "無線",
+        "藍牙版本:": "5.0",
+        "續航力:": "10小時"
+    },
+    {
+        "names": "Shure Sound Isolating 隔音入耳式耳機 SE315",
+        "rating": "8.1",
+        "hon_price_min": "980",
+        "hon_price_max": "1,330",
+        "無線/有線:": "有線",
+        "靈敏度:": "116dB/mW",
+        "插頭:": "3.5mm",
+        "導線長度:": "162cm"
+    },
+    {
+        "names": "64 Audio 入耳式耳機 U12t",
+        "rating": "",
+        "hon_price_min": "15,999",
+        "hon_price_max": "15,999",
+        "water_price_min": "15,280",
+        "water_price_max": "15,280",
+        "無線/有線:": "有線",
+        "插頭:": "3.5mm",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Sony 智慧手機入耳式耳機 MDR-EX650AP",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "350",
+        "water_price_min": "148",
+        "water_price_max": "298",
+        "無線/有線:": "有線",
+        "導線長度:": "約1.2 m，OFC 絞合線Y 型"
+    },
+    {
+        "names": "BGVP 樓氏+聲揚 HiFi高解析八動鐵旗艦耳機 - 穩定化木殼 DM8",
+        "rating": "",
+        "hon_price_min": "3,390",
+        "hon_price_max": "3,390",
+        "無線/有線:": "有線",
+        "阻抗:": "12Ω",
+        "插頭:": "3.5mm",
+        "插針:": "MMCX",
+        "導線長度:": "1.2m"
+    },
+    {
+        "names": "Lime Ears Æther R 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "12,800",
+        "hon_price_max": "12,800",
+        "無線/有線:": "有線"
+    },
+    {
+        "names": "Ambient-Acoustics Custom in-ears 入耳式耳機 MAD6",
+        "rating": "",
+        "hon_price_min": "9,380",
+        "hon_price_max": "9,390",
+        "無線/有線:": "有線",
+        "阻抗:": "Impedance (100 Hz) - 8.5Ω",
+        "插頭:": "3.5mm"
+    },
+    {
+        "names": "Borofone 入耳式耳機 BE24",
+        "rating": "2.0",
+        "hon_price_min": "168",
+        "hon_price_max": "198",
+        "無線/有線:": "無線",
+        "功能:": "運動型"
+    },
+    {
+        "names": "Pioneer 入耳式耳機 SE-CL5BT",
+        "rating": "8.0",
+        "hon_price_min": "178",
+        "hon_price_max": "199",
+        "無線/有線:": "無線"
+    },
+    {
+        "names": "JBL Grip 200 入耳式耳機",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "無線/有線:": "有線",
+        "播放頻率:": "20Hz – 20kHz"
+    },
+    {
+        "names": "Elecom 入耳式耳機 EHP-CS3520M",
+        "rating": "",
+        "hon_price_min": "97",
+        "hon_price_max": "97",
+        "無線/有線:": "有線",
+        "靈敏度:": "98dB/mW",
+        "插頭:": "3.5mm 4極迷你插頭 (L型)",
+        "導線長度:": "1.2m (Y型)"
+    },
+    {
+        "names": "Epos Adapt 460 Epos I Sennheiser 入耳式耳機 (1000204)",
+        "rating": "",
+        "hon_price_min": "2,700",
+        "hon_price_max": "2,718",
+        "無線/有線:": "無線",
+        "驅動單元:": "動圈",
+        "播放頻率:": "100-10000Hz",
+        "靈敏度:": "118dB/mW",
+        "續航力:": "14小時"
+    },
+    {
+        "names": "DITA Perpetua 十周年紀念旗艦耳機",
+        "rating": "",
+        "hon_price_min": "23,800",
+        "hon_price_max": "23,800",
+        "無線/有線:": "有線",
+        "阻抗:": "20Ω",
+        "插頭:": "第二代 Awesome Plug (2.5mm平衡，3.5 mm及4.4mm平衡)",
+        "插針:": "0.78mm",
+        "導線長度:": "1.2m"
+    }
+]

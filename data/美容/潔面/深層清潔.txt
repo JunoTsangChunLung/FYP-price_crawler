@@ -1,0 +1,876 @@
+[
+    {
+        "names": "Dr. Dennis Gross Alpha Beta Universal Daily Peel 果酸煥膚棉片 (60 Treatments)",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "種類:": "去角質潔膚片",
+        "主要成分:": "果酸/水楊酸",
+        "容量/數量:": "60 Treatments",
+        "天然/醫學:": "醫學"
+    },
+    {
+        "names": "First Aid Beauty Facial Radiance Pads 柔膚提亮去角質潔膚片 60pcs",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "去角質潔膚片",
+        "主要成分:": "檸檬皮、印度醋栗、甘醇和酸乳酸、FAB強效抗氧化劑",
+        "容量/數量:": "60pcs"
+    },
+    {
+        "names": "SU:M37 Skin Saver Essential Cleansing Set 清潔系列 (潔膚泡沫,卸妝水)套裝",
+        "rating": "",
+        "water_price_min": "114",
+        "water_price_max": "114",
+        "種類:": "深層潔面泡沫"
+    },
+    {
+        "names": "Clarins Men Exfoliating Cleanser 男士二合一磨砂潔面啫喱 125ml",
+        "rating": "",
+        "種類:": "磨砂啫喱",
+        "主要成分:": "野牛草",
+        "容量/數量:": "125ml"
+    },
+    {
+        "names": "Mario Badescu Silver Powder 吸油去黑頭粉 28g",
+        "rating": "",
+        "water_price_min": "139",
+        "water_price_max": "139",
+        "種類:": "深層潔面粉",
+        "產地:": "美國",
+        "容量/數量:": "28g"
+    },
+    {
+        "names": "Fresh Strawberry Exfoliating Face Wash  士多啤梨柔膚磨砂潔面霜 125ml",
+        "rating": "",
+        "water_price_min": "232",
+        "water_price_max": "232",
+        "種類:": "磨砂膏",
+        "主要成分:": "葡萄籽油, 無患子果皮萃取, 楊桃葉萃取, 白糖晶粒",
+        "容量/數量:": "125ml"
+    },
+    {
+        "names": "SU:M37 Time Energy Peeling Gel 時光肌底去角質凝膠 100ml",
+        "rating": "",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "種類:": "去角質啫喱",
+        "產地:": "韓國",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Melty Berry 草莓鼻去黑頭溶解角質凝露 40g",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "容量/數量:": "40g"
+    },
+    {
+        "names": "Dermaci 5分鐘溶解黑頭水 100ml",
+        "rating": "",
+        "water_price_min": "258",
+        "water_price_max": "258",
+        "種類:": "黑頭導出液",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Holika Holika Elephant 3-Step Black Head Nose Pack 大象3步黑頭鼻貼",
+        "rating": "",
+        "water_price_min": "19",
+        "water_price_max": "19",
+        "種類:": "黑頭貼",
+        "產地:": "韓國",
+        "主要成分:": "金縷梅水,檸檬香脂,葡萄柚等提取成分"
+    },
+    {
+        "names": "PDC Celdie 清香玫瑰深層清爽潔面膏 120g",
+        "rating": "",
+        "water_price_min": "34",
+        "water_price_max": "34",
+        "種類:": "深層潔面乳",
+        "容量/數量:": "120g"
+    },
+    {
+        "names": "Korea Devilkin 玻尿酸去角質凝膠 100ml",
+        "rating": "",
+        "water_price_min": "55",
+        "water_price_max": "55",
+        "種類:": "去角質啫喱",
+        "產地:": "韓國",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Stridex 2%水楊酸抗痘 / 去黑頭潔面棉片 - 加強型 (55片)",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "種類:": "去角質棉",
+        "產地:": "美國",
+        "主要成分:": "水楊酸2％W / W，含有維生素C和E，不含酒精",
+        "容量/數量:": "55片"
+    },
+    {
+        "names": "All aBout Cos Unblemish Cleaning Form (150ml)",
+        "rating": "",
+        "water_price_min": "145",
+        "water_price_max": "145",
+        "種類:": "深層潔面乳",
+        "主要成分:": "詳見網頁",
+        "容量/數量:": "150ml",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "GLAMOUR 人參幹細胞活性潔面泡",
+        "rating": "10",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "種類:": "深層潔面泡沫",
+        "主要成分:": "●人參幹細胞 ●蝸牛修復精華 ●透明質酸鈉",
+        "容量/數量:": "100ml",
+        "天然/醫學:": "天然醫學"
+    },
+    {
+        "names": "Mefactory Piggy Peeling Pad 膠原豬去角質&保濕兩用棉 5片/盒",
+        "rating": "",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "種類:": "去角質棉",
+        "容量/數量:": "35g x 5片"
+    },
+    {
+        "names": "Stridex 0.5%水楊酸抗痘 / 去黑頭潔面棉片 - 溫和型 (55片)",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "種類:": "去角質棉",
+        "產地:": "美國",
+        "主要成分:": "水楊酸0.5％W / W，不含酒精",
+        "容量/數量:": "55片"
+    },
+    {
+        "names": "St.Ives Even & Bright Pink Lemon & Mandarin Orange Scrub 檸檬柑橘磨砂潔面膏 170g",
+        "rating": "",
+        "water_price_min": "42",
+        "water_price_max": "42",
+        "種類:": "磨砂膏",
+        "產地:": "美國",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "38G PFLTW03",
+        "rating": "",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "功效:": "卸妝,淨白,保濕,深層清潔﹐去角質",
+        "主要成分:": "天然水果成份",
+        "容量/數量:": "43g",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "旅美人 綠茶去角質啫喱 200g",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "種類:": "去角質啫喱",
+        "產地:": "日本",
+        "主要成分:": "主要成分為兒茶素、洋甘菊 及透明質酸",
+        "容量/數量:": "200g"
+    },
+    {
+        "names": "RiRe 黑頭深層清潔洗面泥 40ml",
+        "rating": "",
+        "water_price_min": "42",
+        "water_price_max": "42",
+        "種類:": "深層潔面乳",
+        "容量/數量:": "40ml"
+    },
+    {
+        "names": "Kiehl's Clearly Corrective Brightening & Exfoliating Daily Cleanser 激光極淨白去角質潔面膠 150ml",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "主要成分:": "白樺精華, 牡丹萃取, 珍珠岩",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "RiRe All Kill Black Peeling Pad 去角質清潔棉 5片",
+        "rating": "",
+        "water_price_min": "56",
+        "water_price_max": "56",
+        "種類:": "去角質棉",
+        "容量/數量:": "5片"
+    },
+    {
+        "names": "Lancome Mousse Eclat Clarifying Self-Foaming Cleanser 200ml",
+        "rating": "",
+        "種類:": "深層潔面乳"
+    },
+    {
+        "names": "PDC 深層去黑頭潔淨液 20ml",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "種類:": "黑頭導出棒",
+        "容量/數量:": "20ml"
+    },
+    {
+        "names": "Fresh Soy Face Exfoliant 100ml 大豆去角質磨砂霜",
+        "rating": "",
+        "water_price_min": "265",
+        "water_price_max": "305",
+        "種類:": "磨砂膏",
+        "膚質:": "所有膚質",
+        "容量/數量:": "100mL"
+    },
+    {
+        "names": "Tony Moly 士多啤梨磨砂",
+        "rating": "",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "種類:": "磨砂膏",
+        "產地:": "韓國"
+    },
+    {
+        "names": "RiRe All Kill Brush Cleanser 黑竹炭粉刺清潔棒 (附纖細刷) 8g",
+        "rating": "",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "種類:": "深層潔面乳",
+        "主要成分:": "全木炭粉, 黑豆, 黑芝麻, 艾草",
+        "容量/數量:": "8g"
+    },
+    {
+        "names": "Rosette 臉部去角質死皮凝膠啫喱 (清爽型) 120g",
+        "rating": "",
+        "water_price_min": "32",
+        "water_price_max": "32",
+        "種類:": "去角質啫喱",
+        "容量/數量:": "120g"
+    },
+    {
+        "names": "旅美人 石榴去角質啫喱Gel 270g",
+        "rating": "",
+        "hon_price_min": "205",
+        "hon_price_max": "205",
+        "種類:": "去角質啫喱",
+        "產地:": "日本",
+        "主要成分:": "三大主要成分 : 石榴籽提取物、尿素、Butylene Glyclo",
+        "容量/數量:": "270g"
+    },
+    {
+        "names": "St.Ives Blackhead Clearing Green Tea Scrub 綠茶去黑頭磨砂潔面膏 170g",
+        "rating": "",
+        "water_price_min": "39",
+        "water_price_max": "39",
+        "種類:": "磨砂膏",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "Declare Soft Peeling 柔滑磨砂啫喱 100ml",
+        "rating": "",
+        "種類:": "磨砂啫喱",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Etude House Baking Powder BB Deep Cleansing Foam 160ml",
+        "rating": "",
+        "種類:": "深層潔面乳"
+    },
+    {
+        "names": "旅美人 H20 去角質啫喱Gel",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "主要成分:": "紅石榴",
+        "容量/數量:": "270g",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Kose 肌極白米酵素洗顏粉 日本內銷版",
+        "rating": "",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "種類:": "深層潔面粉"
+    },
+    {
+        "names": "Kiehl's Rare Earth Deep Pore Daily Cleanser 亞瑪遜白泥毛孔深層潔膚霜 150ml",
+        "rating": "",
+        "water_price_min": "168",
+        "water_price_max": "168",
+        "種類:": "深層潔面乳",
+        "主要成分:": "燕麥籽, 亞瑪遜白泥, 費拉蘆薈, 硅藻土",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "SU:M37 Bright award Micro Whipping Deep Cleansing Foam 臻白納米深層潔面膏",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "種類:": "深層潔面乳",
+        "容量/數量:": "200ml"
+    },
+    {
+        "names": "Aesop Purifying Facial Exfoliant Paste 純淨滋潤去角質霜",
+        "rating": "",
+        "water_price_min": "296",
+        "water_price_max": "296",
+        "種類:": "深層潔面乳",
+        "主要成分:": "石英微粒，迷迭香葉，乳酸",
+        "容量/數量:": "75ml"
+    },
+    {
+        "names": "LANEIGE Multi Deep-Clean Cleanser 深層去角質潔面乳 150ml",
+        "rating": "",
+        "water_price_min": "84",
+        "water_price_max": "84",
+        "種類:": "深層潔面乳",
+        "膚質:": "所有膚質",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Rosette 保濕磨砂啫喱 120g",
+        "rating": "",
+        "water_price_min": "29",
+        "water_price_max": "29",
+        "種類:": "去角質啫喱",
+        "容量/數量:": "120g"
+    },
+    {
+        "names": "Chanel Cleansing Cream to Foam 柔亮深層潔膚乳 150ml",
+        "rating": "",
+        "種類:": "深層潔面乳"
+    },
+    {
+        "names": "Clé de Peau Refreshing cleaning foam 110ml",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "容量/數量:": "110ML"
+    },
+    {
+        "names": "旅美人 H17 Collagen Peelling Gel 膠原蛋白去角質啫喱 270g",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "主要成分:": "膠原蛋白",
+        "容量/數量:": "270g",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Tony Moly Tony Moly Egg Pore Black Head Out Oil Gel蛋白黑頭啫喱油",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "種類:": "黑頭啫喱油",
+        "產地:": "韓國",
+        "主要成分:": "高蛋白, Magic Cap-sule",
+        "容量/數量:": "30ML"
+    },
+    {
+        "names": "Deoproce 天然強效潔面泡沫(青瓜) CBB0096",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "Clarins doux nettoyant moussant gentle foaming cleanser 溫和柔滑潔面泡沫 200ml",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "容量/數量:": "200ML"
+    },
+    {
+        "names": "Shiseido Men Cleansing Foam 125ml",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "容量/數量:": "125ml"
+    },
+    {
+        "names": "Marzia Clinic 21901 極速美白磨沙 200 ML",
+        "rating": "",
+        "種類:": "磨砂啫喱",
+        "主要成分:": "閃電美白複合物 0.1%, 二氧化矽 1%",
+        "容量/數量:": "200 ml",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Clarins doux nettoyant moussant gentle foaming cleanser 溫和柔滑潔面泡沫 125ml",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "容量/數量:": "125ML"
+    },
+    {
+        "names": "PDC Celdie 蜂蜜滋養深層清爽潔面膏 120g",
+        "rating": "",
+        "water_price_min": "34",
+        "water_price_max": "34",
+        "種類:": "深層潔面乳",
+        "容量/數量:": "120g"
+    },
+    {
+        "names": "Nella Fantasia 黑頭擦子膠 Jelly Pop",
+        "rating": "",
+        "water_price_min": "138",
+        "water_price_max": "138",
+        "種類:": "黑頭貼",
+        "產地:": "韓國"
+    },
+    {
+        "names": "Kose 肌極酵素潔顏粉",
+        "rating": "",
+        "種類:": "深層潔面粉",
+        "主要成分:": "洗淨成分:蛋白質分解酵素（蛋白酶）/ 清除皮脂成分（矽膠、月桂醯麩胺酸鈉）。保濕成分 :天然米萃取保濕成分〔米固醇、米糠油、米胚芽油〕 ※米固醇就是植物甾醇油酸酯。",
+        "容量/數量:": "0.4g x 32包"
+    },
+    {
+        "names": "伊太后 御方草本洗卸去角質凝膠",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "主要成分:": "蘆薈萃取液、甘草萃取、人蔘、膠原蛋白",
+        "容量/數量:": "120mL"
+    },
+    {
+        "names": "Estee Lauder 微藻平衡淨化潔面啫喱125ml",
+        "rating": "",
+        "種類:": "深層潔面啫喱"
+    },
+    {
+        "names": "St.Ives Gentle Smoothing Oatmeal Scrub & Mask 燕麥蜜糖滋潤磨砂潔面膏 170g",
+        "rating": "",
+        "water_price_min": "39",
+        "water_price_max": "39",
+        "種類:": "磨砂膏",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "MdoC 淨肌去角質啫喱",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "種類:": "去角質啫喱",
+        "主要成分:": "植物性剝皮劑，米糠提取物",
+        "容量/數量:": "100g"
+    },
+    {
+        "names": "Cogit Enzyme Formulated Horny Peeling Stick Soap 8g 酵素黑頭清潔棒 8g",
+        "rating": "",
+        "water_price_min": "59",
+        "water_price_max": "59",
+        "種類:": "黑頭導出棒",
+        "產地:": "日本",
+        "容量/數量:": "8g"
+    },
+    {
+        "names": "Dewytree Phyto Therapy Moist Peeling Gel 木瓜保濕去角質啫喱",
+        "rating": "",
+        "hon_price_min": "115",
+        "hon_price_max": "115",
+        "種類:": "去角質啫喱",
+        "產地:": "韓國",
+        "主要成分:": "木瓜酵素",
+        "容量/數量:": "150ML"
+    },
+    {
+        "names": "Shinagawa CELESTY Glow Whitening Peeling Gel 白晢美白袪角質凝膠",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "產地:": "日本",
+        "主要成分:": "蘊含酵母精華(YH-15)、葡萄柚精華和奇異果精華"
+    },
+    {
+        "names": "Shiseido UNO Whip Wash Scrub 深層清爽磨砂洗面奶 130g",
+        "rating": "",
+        "water_price_min": "28",
+        "water_price_max": "28",
+        "種類:": "磨砂膏",
+        "容量/數量:": "130g"
+    },
+    {
+        "names": "Coesam Korea 玫瑰果籽潔面魔力粉",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "主要成分:": "有機玫瑰果、玉米、木瓜蛋白酶、蘆薈、苦菜、花粉萃取、柚子籽、仙人掌",
+        "容量/數量:": "70g",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "PDC Celdie AHA蘋果酸深層清爽潔面膏 120g",
+        "rating": "",
+        "water_price_min": "34",
+        "water_price_max": "34",
+        "種類:": "深層潔面乳",
+        "容量/數量:": "120g"
+    },
+    {
+        "names": "Dewytree Phyto Therapy Fresh Peeling Gel 檸檬清爽去角質啫喱",
+        "rating": "",
+        "hon_price_min": "76.5",
+        "hon_price_max": "76.5",
+        "種類:": "去角質啫喱",
+        "產地:": "韓國",
+        "主要成分:": "天然檸檬酵素",
+        "容量/數量:": "150ML"
+    },
+    {
+        "names": "Innisfree Jeju Volcanic Pore Scrub Foam 濟州火山泥毛孔清潔去角質磨砂",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "種類:": "磨砂膏",
+        "產地:": "韓國",
+        "主要成分:": "濟州超級火山岩泥",
+        "容量/數量:": "150ML"
+    },
+    {
+        "names": "CHOBS 蘆薈去角質乳",
+        "rating": "10",
+        "種類:": "去角質啫喱",
+        "主要成分:": "有機庫拉索蘆薈葉萃取物",
+        "容量/數量:": "60ml",
+        "天然/醫學:": "天然有機"
+    },
+    {
+        "names": "Tatcha The Deep Cleanse 深層潔膚露 去角質潔面啫喱 150ml",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "產地:": "日本",
+        "主要成分:": "日本絲瓜果實, 日本野玫瑰, 日本豹紋百合",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Estee Lauder Perfectly Clean 全效深層淨肌潔面泡沫/面膜 150ml",
+        "rating": "",
+        "water_price_min": "195",
+        "water_price_max": "220",
+        "種類:": "深層潔面泡沫",
+        "膚質:": "所有膚質",
+        "容量/數量:": "150ml"
+    },
+    {
+        "names": "Deoproce 天然強效潔面蜂膠泡沫洗面膏 CBB0099",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "Becupidon 邱比特角質分解水 200ml",
+        "rating": "",
+        "種類:": "去角質水",
+        "主要成分:": "蘆薈水, 水解蠶絲蛋白, 玻尿酸",
+        "容量/數量:": "200ml"
+    },
+    {
+        "names": "Pretty Skin 熊果苷凝肌去角質霜 DA-2202",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "容量/數量:": "100g"
+    },
+    {
+        "names": "Kanebo SUISAI 酵素洗顏粉 1枚入",
+        "rating": "",
+        "種類:": "深層潔面粉"
+    },
+    {
+        "names": "Jayanti 有機摩洛哥堅果油磨砂膏",
+        "rating": "",
+        "種類:": "磨砂膏",
+        "產地:": "意大利",
+        "主要成分:": "有機摩洛哥堅果油",
+        "容量/數量:": "50ml"
+    },
+    {
+        "names": "SU:M37 Skin Saver Cleansing Special Set 精華泡沫洗面套裝",
+        "rating": "",
+        "water_price_min": "135",
+        "water_price_max": "135",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國"
+    },
+    {
+        "names": "Deoproce 天然強效潔面白米泡沫洗面膏 CBB0100",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "Reborn Aromatherapy Gently Nourishing Cleansing Balm 輕型滋養清潔膏 100g",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "主要成分:": "南瓜油，紅花油，椰子油，乳木果油，芒果油，山茶油，葡萄籽油，薰衣草精油，葡萄柚精油，小燭樹蠟，維生素E。就是這樣。不含酒精，人造防腐劑，對羥基苯甲酸酯，鄰苯二甲酸酯或填充劑。",
+        "容量/數量:": "100g",
+        "天然/醫學:": "含100%天然有機精油"
+    },
+    {
+        "names": "Kiehl's Men's Oil Eliminator Deep Cleansing Exfoliating Face Wash 男士除油深層潔膚磨砂霜 200ml",
+        "rating": "",
+        "種類:": "磨砂膏",
+        "主要成分:": "微粉杏籽和摩洛哥堅果殼, 水楊酸",
+        "容量/數量:": "200ml"
+    },
+    {
+        "names": "Innisfree Almond Sugar Scrub 有機杏仁黑糖磨沙",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "種類:": "磨砂膏",
+        "產地:": "韓國",
+        "主要成分:": "有機杏仁, 黑糖",
+        "容量/數量:": "100ML"
+    },
+    {
+        "names": "Innisfree Wine Peeling Jelly Scrub 紅酒溫和去角質水珠按摩霜",
+        "rating": "",
+        "hon_price_min": "105",
+        "hon_price_max": "105",
+        "種類:": "去角質啫喱",
+        "產地:": "韓國",
+        "容量/數量:": "40ML"
+    },
+    {
+        "names": "Aromatherapy Associates Mattifying Deep Cleanse Face Wash 控油洗面奶 200ml",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "產地:": "英國",
+        "主要成分:": "薰衣草，茶樹油和Jojoba油",
+        "容量/數量:": "200ML"
+    },
+    {
+        "names": "Deoproce 天然強效潔面泡沫(蘆薈) CBB0098",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "1028 Deep Cleansing Foam 深層潔淨超綿感泡泡保濕洗面乳 120ml",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "膚質:": "敏感性,混合性,所有膚質",
+        "容量/數量:": "120ml"
+    },
+    {
+        "names": "Dermedic 玻尿酸超水感去角質嫩膚乳",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "主要成分:": "溫泉水, 玻尿酸, 尿素, 尿囊素, 甘油",
+        "天然/醫學:": "皮科學醫藥專業"
+    },
+    {
+        "names": "Burt's Bees Citrus Facial Scrub",
+        "rating": "",
+        "種類:": "磨砂膏"
+    },
+    {
+        "names": "Reborn Aromatherapy Gently Resurfacing Facial Exfoliant 輕型修復面部角質清潔膏 100g",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "主要成分:": "燕麥粉，東乳木果油，杏粉，芙蓉粉，鱷梨油，棉花糖提取物，薰衣草精油 ，乳香精油，甜橙精油，維生素E。就是這樣。不含酒精，人造防腐劑，對羥基苯甲酸酯，鄰苯二甲酸酯或填充劑。",
+        "容量/數量:": "100g",
+        "天然/醫學:": "含100%天然有機精油"
+    },
+    {
+        "names": "MAIONE 青春無瑕潔面乳",
+        "rating": ""
+    },
+    {
+        "names": "Shinagawa Derma CELESTY Luxe Age-defying Exfoliating Gel 祛角質凝膠",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "主要成分:": "西梅精華、胎盤蛋白、水溶性膠原蛋白",
+        "容量/數量:": "120g"
+    },
+    {
+        "names": "RVL 01 Cleanlixir 深層潔膚液",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "產地:": "美國",
+        "容量/數量:": "120mL"
+    },
+    {
+        "names": "Deoproce 天然強效潔面泡沫(綠茶) CBB0097",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "Marzia Clinic 維他A/C/E元素磨砂凝膠",
+        "rating": "",
+        "種類:": "磨砂啫喱",
+        "容量/數量:": "250mL",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Caudalie Instant Foaming Cleanser 潔面泡沫葡萄籽潔面慕絲 150ml",
+        "rating": "",
+        "種類:": "深層潔面泡沫"
+    },
+    {
+        "names": "Lorrain 神奇黑頭水 125ml",
+        "rating": "",
+        "種類:": "黑頭導出液",
+        "容量/數量:": "125ml"
+    },
+    {
+        "names": "AVI 海棠水妍潔膚乳 200ml",
+        "rating": "",
+        "種類:": "深層潔面乳"
+    },
+    {
+        "names": "SEASON Refresh Clean Bubble Deep Cleanser O2潔面泡",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "主要成分:": "馬齒覓發酵萃取物、小麥籽萃取物、尿囊素、積雪草發酵萃取物等",
+        "容量/數量:": "80ml"
+    },
+    {
+        "names": "Botani Exfoliating Facial Cream 燕麥磨沙面霜",
+        "rating": "",
+        "種類:": "磨沙膏",
+        "主要成分:": "植物角鯊烯 / 木瓜 / 燕麥 / 蘆薈精華 / 金盞花",
+        "容量/數量:": "100g"
+    },
+    {
+        "names": "Sexylook 草莓粉刺淨空組",
+        "rating": "",
+        "種類:": "黑頭導出液"
+    },
+    {
+        "names": "Innisfree Wine Peeling Jelly Softener 紅酒去角質調理水",
+        "rating": "10",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "種類:": "去角質水",
+        "產地:": "韓國",
+        "主要成分:": "天然玫瑰, 紅酒",
+        "容量/數量:": "180ML"
+    },
+    {
+        "names": "Tony Moly Egg Pore Soft Cleansing Foam 雞蛋毛孔深層潔面乳",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "種類:": "深層潔面乳",
+        "產地:": "韓國",
+        "主要成分:": "蛋黃精華（15mg）",
+        "容量/數量:": "150ML"
+    },
+    {
+        "names": "Tony Moly Egg Pore Deep Cleansing Foam 雞蛋毛孔深層潔淨泡沫",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "主要成分:": "蛋黃精華(15mg)",
+        "容量/數量:": "150ML"
+    },
+    {
+        "names": "ARTISTIC & Co. AQUA HEALING (150g)",
+        "rating": "",
+        "種類:": "去黑頭水"
+    },
+    {
+        "names": "Etude House Baking Powder Crunch Pore Scrub 梳打深層毛孔潔淨去角質乳",
+        "rating": "8.0",
+        "hon_price_min": "82",
+        "hon_price_max": "82",
+        "種類:": "深層潔面乳",
+        "產地:": "韓國",
+        "容量/數量:": "7G"
+    },
+    {
+        "names": "Dr.Ci:Labo 城野醫生 零毛孔去角質凝膠 120g",
+        "rating": "",
+        "種類:": "去角質啫喱"
+    },
+    {
+        "names": "UGBang Peeling Gel 去角質精華液",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "種類:": "去角質精華液",
+        "產地:": "韓國",
+        "主要成分:": "高麗人蔘精華、蘆薈、蜂皇漿、維他命、礦物質和草本精華",
+        "容量/數量:": "100ML"
+    },
+    {
+        "names": "Amazing21 B5 Sodium Hyaluronate Moisture Exfoliating Gel",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "產地:": "台灣",
+        "容量/數量:": "100ml"
+    },
+    {
+        "names": "Deoproce 天然強效潔面燕麥香蕉泡沫洗面膏 CBB0102",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "Marzia Clinic 22530  淨化潔膚凝膠 250 ML",
+        "rating": "",
+        "種類:": "深層潔面啫喱",
+        "主要成分:": "活性緊致物 0.5%, 酵母提煉物 0.1%, 茶樹精油 0.1%, 薰衣草精油 0.1%",
+        "容量/數量:": "250 ml",
+        "天然/醫學:": "天然"
+    },
+    {
+        "names": "Jayanti 敍利亞阿勒玻茉莉皂",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "產地:": "意大利",
+        "主要成分:": "天然有機橄欖油和月桂油",
+        "容量/數量:": "100GM"
+    },
+    {
+        "names": "Clarins One-Step Gentle Exfoliating Cleanser 四合一磨砂潔面乳 125ml",
+        "rating": "",
+        "種類:": "深層潔面乳",
+        "產地:": "法國",
+        "主要成分:": "辣木,",
+        "容量/數量:": "125ml"
+    },
+    {
+        "names": "Tony Moly Egg Pore Blackhead Steam Balm 雞蛋純凈去黑頭蒸汽磨砂膏",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "種類:": "磨砂膏",
+        "產地:": "韓國",
+        "主要成分:": "有精卵成分(50ppm)、葡萄酒醋、溫泉水、木炭粉、綠茶粉、鹽",
+        "容量/數量:": "30ML"
+    },
+    {
+        "names": "Beauty People 南瓜精華去角質凝膠",
+        "rating": "",
+        "種類:": "去角質啫喱",
+        "產地:": "韓國",
+        "主要成分:": "WATER, CETRIMONIUM CHLORIDE, BUTYLENE GLYCOL, CELLULOSE, CARBOMER, SODIUM HYALURONATE, BETAINE, CUCURBITA PEPO (PUMPKIN) FRUIT EXTRACT, AQUILARIA AGALLOCHA STEM EXTRACT, ANGELICA DAHURICA ROOT EXTRACT, CNIDIUM OFFICINALE ROOT EXTRACT, TRICHOSANTHES KIRILO",
+        "容量/數量:": "200ml"
+    },
+    {
+        "names": "Deoproce 天然強效黃金潔面泡沫 CBB0095",
+        "rating": "",
+        "種類:": "深層潔面泡沫",
+        "產地:": "韓國",
+        "主要成分:": "8種天然提取物 :  黃金, 人參, 蠶繭, 紫蘇, 甘草, 茯苓, 蛇床子, 桑桑阿壩樹皮",
+        "容量/數量:": "170g"
+    },
+    {
+        "names": "Tony Moly Appletox Smooth Massage Peeling Cream 青蘋果去角質按摩乳霜",
+        "rating": "",
+        "hon_price_min": "76",
+        "hon_price_max": "76",
+        "種類:": "去角質啫喱",
+        "產地:": "韓國",
+        "主要成分:": "青蘋果, 木瓜, 其他新鮮蔬果",
+        "容量/數量:": "80G"
+    },
+    {
+        "names": "Jayanti 有機特純橄欖磨砂潔面泥",
+        "rating": "",
+        "種類:": "磨砂膏",
+        "產地:": "意大利",
+        "主要成分:": "有機特純橄欖",
+        "容量/數量:": "50ml"
+    }
+]

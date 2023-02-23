@@ -1,0 +1,512 @@
+[
+    {
+        "names": "Daewoo 大宇 養生杯 X02",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "499",
+        "water_price_min": "340",
+        "water_price_max": "368",
+        "容量:": "0.4公升",
+        "功率:": "400-480W"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能破壁機",
+        "rating": "10",
+        "hon_price_min": "690",
+        "hon_price_max": "749",
+        "water_price_min": "680",
+        "water_price_max": "798",
+        "容量:": "1.6公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Daewoo 大宇 百變廚房機器 (破壁機 + 養生壺套裝) DY-SM02",
+        "rating": "10",
+        "hon_price_min": "568",
+        "hon_price_max": "756",
+        "water_price_min": "518",
+        "water_price_max": "628",
+        "容量:": "0.6公升",
+        "功率:": "120W"
+    },
+    {
+        "names": "Tefal 特福 「真空抗氧」養生烹煮機 BL985A",
+        "rating": "",
+        "hon_price_min": "1,878",
+        "hon_price_max": "3,120",
+        "容量:": "2.5公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Philips 飛利浦 Viva Collection 冷熱烹調攪拌機 HR2088/91",
+        "rating": "9.6",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,680",
+        "容量:": "2公升",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Tefal 特福 Dynamix Cook 養生烹煮機 BL967B",
+        "rating": "10",
+        "hon_price_min": "1,248",
+        "hon_price_max": "1,750",
+        "water_price_min": "1,240",
+        "water_price_max": "1,240",
+        "容量:": "1.75公升",
+        "功率:": "1300W"
+    },
+    {
+        "names": "Mokkom 大口徑冷壓鮮榨原汁機",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "710",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "功率:": "200W",
+        "隔渣:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 養生調理機 IBN-1000",
+        "rating": "10",
+        "hon_price_min": "419",
+        "hon_price_max": "498",
+        "容量:": "1公升",
+        "功率:": "400W"
+    },
+    {
+        "names": "Apixintl 安本素 破壁機 APIX-HB10",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680"
+    },
+    {
+        "names": "Primada 全能冷熱破壁養生機 PS810",
+        "rating": "8.0",
+        "hon_price_min": "1,519",
+        "hon_price_max": "1,590",
+        "容量:": "1.75公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Thomson 雙層內膽破壁攪拌機 TM-HPB50",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "容量:": "0.6公升",
+        "功率:": "120W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機專用配件 - 果汁杯 JAR-40",
+        "rating": "",
+        "hon_price_min": "940",
+        "hon_price_max": "1,080",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 迷你養生調理機 IBN-400",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "420",
+        "容量:": "0.4公升",
+        "功率:": "160W"
+    },
+    {
+        "names": "Tefal 特福 Ultrablend Cook 養生烹煮機 BL962B",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,548",
+        "容量:": "2公升",
+        "功率:": "1300W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-16",
+        "rating": "10",
+        "hon_price_min": "2,995",
+        "hon_price_max": "3,500",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 - The Sparkle Collection PRO-11(LX)",
+        "rating": "",
+        "hon_price_min": "23,185",
+        "hon_price_max": "29,250",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "SURE 石崎秀兒 升級全自動8大多功能料理破壁豆漿機 SHB-ABT582",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "620",
+        "容量:": "熱飲: 1公升 / 冷飲: 1.5公升",
+        "功率:": "攪拌: 200W / 加熱: 380W"
+    },
+    {
+        "names": "Miyamoto 高速冷熱烹調養生機 BL-88",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "399",
+        "容量:": "1公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Nutzen 多用加熱破壁機 SCUP-28",
+        "rating": "2.3",
+        "hon_price_min": "2,010",
+        "hon_price_max": "2,010",
+        "容量:": "1.75公升",
+        "功率:": "1400W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-6SS",
+        "rating": "",
+        "hon_price_min": "2,635",
+        "hon_price_max": "3,080",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "Sence 加熱破壁料理機 HB-020BK",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,499",
+        "容量:": "2公升",
+        "功率:": "2200W"
+    },
+    {
+        "names": "Magic Living 多功能料理破壁機 YJ-Y60",
+        "rating": "",
+        "hon_price_min": "968",
+        "hon_price_max": "969"
+    },
+    {
+        "names": "German Pool 德國寶 冰沙乾磨專用杯 (自然養生機專用) GSM-10",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "790",
+        "容量:": "2公升"
+    },
+    {
+        "names": "BioloMix 智能攪拌機 T5600",
+        "rating": "",
+        "water_price_min": "549",
+        "water_price_max": "549",
+        "功率:": "2200W"
+    },
+    {
+        "names": "Viomi 雲米 破壁料理機 YM-BH01",
+        "rating": "",
+        "water_price_min": "1,899",
+        "water_price_max": "2,170"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-9SR",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "3,008",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 - 商用系列 PHS-200",
+        "rating": "",
+        "hon_price_min": "5,658",
+        "hon_price_max": "8,000",
+        "容量:": "1.5公升",
+        "功率:": "1200W"
+    },
+    {
+        "names": "Nutzen 迷你慢磨原養機 MSL-2-2",
+        "rating": "",
+        "hon_price_min": "1,355",
+        "hon_price_max": "1,510",
+        "功率:": "150W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-11",
+        "rating": "2.0",
+        "hon_price_min": "2,995",
+        "hon_price_max": "3,280",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "Goldenwell 智能冷熱破壁養生機 GW-HBO800",
+        "rating": "10",
+        "hon_price_min": "1,088",
+        "hon_price_max": "1,598",
+        "容量:": "2公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Royalstar 變頻加熱破壁機",
+        "rating": "",
+        "water_price_min": "698",
+        "water_price_max": "698",
+        "容量:": "3公升"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-10S",
+        "rating": "6.0",
+        "hon_price_min": "3,028",
+        "hon_price_max": "3,510",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "Primada 全能冷熱養生機 PS800",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,580",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Primada 全能冷熱養生機 PS710",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "2,880",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "Zhenmi 臻米 迷你免濾破壁機透明款 (400ml)",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機專用配件 - 冰沙乾磨專用杯 GSM-20",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "968",
+        "容量:": "2公升"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-15",
+        "rating": "",
+        "hon_price_min": "3,110",
+        "hon_price_max": "3,660",
+        "容量:": "2公升",
+        "功率:": "1400W"
+    },
+    {
+        "names": "Primada 全能冷熱養生機 PS750",
+        "rating": "",
+        "hon_price_min": "1,455",
+        "hon_price_max": "1,820",
+        "容量:": "1.8公升"
+    },
+    {
+        "names": "German Pool 德國寶 活力養生機 PRO-M1",
+        "rating": "",
+        "hon_price_min": "2,170",
+        "hon_price_max": "2,588",
+        "容量:": "1公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "Primada 全能冷熱養生機 PS700",
+        "rating": "",
+        "容量:": "20公升"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 『營養士』食材調理破壁機 IBN-725S",
+        "rating": "",
+        "hon_price_min": "1,329",
+        "hon_price_max": "2,140",
+        "容量:": "2公升",
+        "功率:": "800W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-12S",
+        "rating": "",
+        "hon_price_min": "2,638",
+        "hon_price_max": "3,190",
+        "water_price_min": "2,500",
+        "water_price_max": "2,500",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "Nutzen 真空破壁攪拌機 VB-200",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,690",
+        "容量:": "2公升",
+        "功率:": "1500W"
+    },
+    {
+        "names": "German Pool 德國寶 養生機真空抗氧機 VAP-100",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "690"
+    },
+    {
+        "names": "JNC 歐洲式設計 - 旋風式破壁養生機 JNC-CBSB-CG",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,980",
+        "容量:": "1.75公升",
+        "功率:": "2200W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 - 旋風系列 PHD-100",
+        "rating": "10",
+        "hon_price_min": "5,069",
+        "hon_price_max": "6,610",
+        "容量:": "1.5公升",
+        "功率:": "1200W"
+    },
+    {
+        "names": "German Pool 德國寶 養生機真空抗氧套裝 VAS-200",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "480"
+    },
+    {
+        "names": "JNC 養生精華萃取機 JHA-FDP-EEXT1",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "容量:": "1.7公升",
+        "隔渣:": "有",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 智能破壁機 SBL178",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,600",
+        "容量:": "1.75公升",
+        "功率:": "1000W"
+    },
+    {
+        "names": "Zhenmi 迷你免濾破壁機輔食米糊果汁機 400ml",
+        "rating": "",
+        "water_price_min": "289",
+        "water_price_max": "289",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "Nutzen 慢磨原養機 BSL-4",
+        "rating": "",
+        "hon_price_min": "1,780",
+        "hon_price_max": "1,880",
+        "功率:": "240W"
+    },
+    {
+        "names": "Senga 多功能破壁濃湯寶 RBM-775",
+        "rating": "",
+        "hon_price_min": "1,698",
+        "hon_price_max": "1,698",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能養生營養機 PFP003018",
+        "rating": "",
+        "hon_price_min": "2,599",
+        "hon_price_max": "2,599"
+    },
+    {
+        "names": "Tefal 特福 Ultrablend Cook 養生烹煮機 BL962",
+        "rating": "",
+        "hon_price_min": "2,059",
+        "hon_price_max": "2,400",
+        "容量:": "1.75公升",
+        "功率:": "1300W"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-9S",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "容量:": "2公升",
+        "功率:": "1680W"
+    },
+    {
+        "names": "Senga 多功能破壁濃湯寶 SJB-325",
+        "rating": "",
+        "容量:": "1.75公升"
+    },
+    {
+        "names": "Midea 美的 智能家用多功能破壁機 MJ-PB40E254D",
+        "rating": "",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Proluxury 普樂氏 多功能營養機 PFP001019",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "容量:": "1.9公升"
+    },
+    {
+        "names": "German Pool 德國寶 自然養生機 PRO-8",
+        "rating": "",
+        "hon_price_min": "3,208",
+        "hon_price_max": "3,208",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Proluxury 普樂氏 智能真空破壁攪拌機 PSB060010",
+        "rating": "",
+        "hon_price_min": "2,698",
+        "hon_price_max": "2,698"
+    },
+    {
+        "names": "Ladyship 養生調製機 KM-6588",
+        "rating": "",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Primada 全能冷熱破壁養生機 PS700S",
+        "rating": "",
+        "hon_price_min": "2,378",
+        "hon_price_max": "2,378"
+    },
+    {
+        "names": "Primada 全能冷熱養生機 PS600",
+        "rating": "",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Midea 美的 健康生磨養生機 HJ13K11",
+        "rating": "",
+        "hon_price_min": "549",
+        "hon_price_max": "598",
+        "功率:": "1180W"
+    },
+    {
+        "names": "Cuisintec Mini Cooking Blender 迷你加熱破壁機 KC-8968",
+        "rating": "",
+        "容量:": "0.4公升",
+        "功率:": "300W"
+    },
+    {
+        "names": "Hamilton Beach Professional High Performance Blender with Quiet Shield 靜音罩破壁機 58915",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,300",
+        "容量:": "1公升"
+    },
+    {
+        "names": "Ladyship 全營養調理機 LVT-866",
+        "rating": "",
+        "容量:": "2公升"
+    },
+    {
+        "names": "Nutzen 迷你慢磨原養機 MSL-2",
+        "rating": "",
+        "功率:": "150W"
+    },
+    {
+        "names": "Ladyship 生機博士全營養調理機 LVT-768",
+        "rating": "",
+        "容量:": "1.5公升"
+    },
+    {
+        "names": "Nutzen 慢磨養生機 SL-1",
+        "rating": ""
+    }
+]

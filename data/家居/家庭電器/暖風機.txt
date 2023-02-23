@@ -1,0 +1,3633 @@
+[
+    {
+        "names": "Yohome 家の逸 便攜防燃4D搖頭全身即熱暖風機 M05",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "299",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "MOMAX Smart Heat IoT 智能暖風機 (IW5)",
+        "rating": "8.5",
+        "hon_price_min": "350",
+        "hon_price_max": "688",
+        "water_price_min": "498",
+        "water_price_max": "499",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Daewoo 大宇 烘腳暖風一體機 FH02HK",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "438",
+        "最大熱力輸出:": "650W",
+        "尺寸:": "430 x 330 x 103mm"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W PTC 陶瓷遙控暖風機 INT-2068R",
+        "rating": "9.3",
+        "hon_price_min": "440",
+        "hon_price_max": "609",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "137 x 176 x 500mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Iris Ohyama 多功能除蟎暖被乾燥機 FK-W1",
+        "rating": "8.7",
+        "hon_price_min": "650",
+        "hon_price_max": "880",
+        "water_price_min": "688",
+        "water_price_max": "768",
+        "最大熱力輸出:": "760W",
+        "尺寸:": "168 x 195 x 360mm"
+    },
+    {
+        "names": "MOMAX Smart Heat IoT 中型智能暖風機 (IW6S)",
+        "rating": "8.0",
+        "hon_price_min": "490",
+        "hon_price_max": "699",
+        "water_price_min": "600",
+        "water_price_max": "620",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "230 x 230 x 630mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 直立式陶瓷暖風機 HFX25S20",
+        "rating": "10",
+        "hon_price_min": "788",
+        "hon_price_max": "1,098",
+        "water_price_min": "767",
+        "water_price_max": "767",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "155 x 590 x 196mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi Vertical Edge 暖風機 HFS50F22",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "710",
+        "最大熱力輸出:": "2200W",
+        "適用房間:": "70m³",
+        "尺寸:": "229 x 178 x 360mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 1800W Capsule 陶瓷暖風機 HFX30C18.IW",
+        "rating": "8.0",
+        "hon_price_min": "360",
+        "hon_price_max": "498",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "270 x 192 x 137mm"
+    },
+    {
+        "names": "iHomey 46吋空氣淨化冷暖無葉風扇 (帶空氣淨化功能) AM046",
+        "rating": "10",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,380",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 2000W 陶瓷暖風機 RA-CH563S",
+        "rating": "8.7",
+        "hon_price_min": "390",
+        "hon_price_max": "599",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "338 x 227 x 174mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "SENKI 千崎 暖風機 SK-K01",
+        "rating": "9.0",
+        "hon_price_min": "278",
+        "hon_price_max": "499",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2200W 二合一加濕浴室陶瓷暖風機 TBH-22H",
+        "rating": "10",
+        "hon_price_min": "710",
+        "hon_price_max": "890",
+        "water_price_min": "717",
+        "water_price_max": "717",
+        "最大熱力輸出:": "2200W",
+        "時間掣:": "15小時時間掣",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W Vertical Edge 浴室暖風機 HFS50A20",
+        "rating": "6.0",
+        "hon_price_min": "290",
+        "hon_price_max": "480",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "22.9 x 14.6 x33.5cm"
+    },
+    {
+        "names": "Rasonic 樂信 直立扇暖風機 RA-CH2400K",
+        "rating": "10",
+        "hon_price_min": "800",
+        "hon_price_max": "1,280",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "672.5 x 267.8 x 267.8mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Machino PTC 陶瓷暖風機 H2",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "298",
+        "最大熱力輸出:": "1000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 2200W 陶瓷暖風機 RA-CH862S",
+        "rating": "8.2",
+        "hon_price_min": "630",
+        "hon_price_max": "910",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "551 x 222 x 195mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kaneda 金田 2000W 迷你強力陶瓷暖風機 KH-221M",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "498",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Infinity Ceramic Heating Fan 陶瓷式加熱冷暖風機 FH22",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "388",
+        "最大熱力輸出:": "1000W",
+        "尺寸:": "125 x 125 x 215mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2400W 陶瓷暖風機 DCH7993ER.BC",
+        "rating": "9.8",
+        "hon_price_min": "730",
+        "hon_price_max": "998",
+        "最大熱力輸出:": "2400W",
+        "適用房間:": "70m³"
+    },
+    {
+        "names": "De'Longhi Capsule Hobby 暖風機 HFS30C24.DG",
+        "rating": "8.0",
+        "hon_price_min": "325",
+        "hon_price_max": "488",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "270 x 170 x 280mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 智米智能暖風機",
+        "rating": "9.3",
+        "hon_price_min": "980",
+        "hon_price_max": "1,980",
+        "water_price_min": "650",
+        "water_price_max": "1,680",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "230 x 230 x 680mm"
+    },
+    {
+        "names": "Midea 美的 2000W搖控陶瓷暖風機 NTH20-20R",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "480",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "196 x 196 x 452mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 UV-C空氣淨化風扇暖風機 EFB-PCTH",
+        "rating": "8.9",
+        "hon_price_min": "2,020",
+        "hon_price_max": "2,480",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "700 x 255 x 255mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 電子溫感 PTC 暖風機 INT-1219",
+        "rating": "10",
+        "hon_price_min": "270",
+        "hon_price_max": "380",
+        "water_price_min": "258",
+        "water_price_max": "258",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "138 x 138 x 217mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2400W 電子感應式陶瓷暖風機 TCH8993ER",
+        "rating": "6.6",
+        "hon_price_min": "1,020",
+        "hon_price_max": "1,383",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "695 x 275 x 262mm"
+    },
+    {
+        "names": "Midea 美的 搖擺塔式暖風機 NTH20-17LW",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "water_price_min": "338",
+        "water_price_max": "338",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "186 x 186 x 440mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 2000W 風扇暖風機 NT20-21A",
+        "rating": "10",
+        "hon_price_min": "180",
+        "hon_price_max": "260",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家石墨烯踢腳線電暖器 仿真火焰版",
+        "rating": "",
+        "water_price_min": "1,899",
+        "water_price_max": "2,100",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "1250 x 170 x 222mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 2000W 直立式搖擺陶瓷暖風機 NTH20-21R",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "550",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "209 x 603 x 199mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W Bend Line 陶瓷暖風機 HFX60E20",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "650",
+        "water_price_min": "467",
+        "water_price_max": "467",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "351 x 232 x 181mm"
+    },
+    {
+        "names": "De'Longhi 2000W Vertical Edge 浴室專用暖風機 HFS50B20",
+        "rating": "9.0",
+        "hon_price_min": "330",
+        "hon_price_max": "530",
+        "water_price_min": "334",
+        "water_price_max": "334",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "22.9 x 14.6 x 33.5cm"
+    },
+    {
+        "names": "inno3C HEPA cum UV-C 殺菌消毒冷暖風機 i-ACW3",
+        "rating": "",
+        "hon_price_min": "1,988",
+        "hon_price_max": "1,998",
+        "water_price_min": "1,688",
+        "water_price_max": "1,888",
+        "最大熱力輸出:": "2000W",
+        "時間掣:": "1 / 3 / 6 / 9小時自動關機功能",
+        "尺寸:": "245 x 245 x 729mm"
+    },
+    {
+        "names": "German Pool 德國寶 直立式搖擺暖風機 HTF-420",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "755",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "433 x 170 x 155mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 智米電暖器1S",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "water_price_min": "380",
+        "water_price_max": "688",
+        "最大熱力輸出:": "2200W"
+    },
+    {
+        "names": "Turbo Italy 2500W 人體感應陶瓷暖風機 TBH-536",
+        "rating": "6.0",
+        "hon_price_min": "790",
+        "hon_price_max": "1,078",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "260 x 260 x 686mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W Bend Line 陶瓷暖風機 HFX65V20",
+        "rating": "10",
+        "hon_price_min": "778",
+        "hon_price_max": "1,099",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "182 x 226 x 612mm"
+    },
+    {
+        "names": "Midea 美的 2000W 陶瓷搖擺暖風機 NT20-12A",
+        "rating": "10",
+        "hon_price_min": "338",
+        "hon_price_max": "420",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家石墨烯踢腳線電暖器 超薄版 TJXDNQ03LX",
+        "rating": "",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "1200 x 124 x 257mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Tefal 特福 2400W Instant Comfort Aqua 浴室暖風機 SE6510",
+        "rating": "9.4",
+        "hon_price_min": "350",
+        "hon_price_max": "450",
+        "最大熱力輸出:": "2400W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Usatisfy 速熱陶瓷暖風機",
+        "rating": "6.7",
+        "hon_price_min": "180",
+        "hon_price_max": "249",
+        "最大熱力輸出:": "1000W",
+        "尺寸:": "146 x 102 x 131mm"
+    },
+    {
+        "names": "ATOM H20 HEATER 暖風機",
+        "rating": "10",
+        "hon_price_min": "173",
+        "hon_price_max": "338",
+        "最大熱力輸出:": "950W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W PTC 陶瓷遙控暖風機 INT-2069R",
+        "rating": "10",
+        "hon_price_min": "419",
+        "hon_price_max": "509",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "180 x 180 x 530mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 2000W 陶瓷暖風機 NT20-16A",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "370",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kusa 小型PTC陶瓷暖風電爐 DH-300",
+        "rating": "10",
+        "hon_price_min": "358",
+        "hon_price_max": "398",
+        "最大熱力輸出:": "800W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W 搖擺防水霧暖風機 INF-20E",
+        "rating": "5.3",
+        "hon_price_min": "275",
+        "hon_price_max": "380",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 1800W PTC 陶瓷暖風機連遙控 INT-1808R",
+        "rating": "10",
+        "hon_price_min": "440",
+        "hon_price_max": "678",
+        "water_price_min": "440",
+        "water_price_max": "440",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "203 x 203 x 540mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Morphy Richards 摩飛冷暖風機 MR2021",
+        "rating": "8.0",
+        "hon_price_min": "199",
+        "hon_price_max": "380",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Iris Ohyama Turbo Heat Slim 人體感應陶瓷暖風機 JCH-12TDS1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "371 x 192 x 175mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 鬥禾桌面電暖器 (冷暖兩用) DH-QN04",
+        "rating": "",
+        "water_price_min": "268",
+        "water_price_max": "280",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 1800W PTC 搖擺防水霧暖風機 (IP21標準) INB-1821",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "420",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "138 x 208 x 292mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷暖風機 TCH-260",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "910",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "233 x 187 x 656mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家立式暖風機 Lite",
+        "rating": "",
+        "water_price_min": "449",
+        "water_price_max": "449",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "184 x 184 x 500mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 濕暖風機 HTU-600",
+        "rating": "8.0",
+        "hon_price_min": "538",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "Xiaomi 小米 智能 電暖氣 Smart Space Heater S",
+        "rating": "",
+        "water_price_min": "590",
+        "water_price_max": "750",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kaneda 金田 座枱遙控陶瓷暖風機 KH-222ER",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "698",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "196 x 452 x 196mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 1800W 陶瓷浴室暖風機 TBH-180 / TBH-180G",
+        "rating": "10",
+        "hon_price_min": "330",
+        "hon_price_max": "460",
+        "water_price_min": "320",
+        "water_price_max": "320",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "178 x 135 x 280mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "1Chiban 2000W PTC陶瓷暖風機 IB-H20",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "338",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Viomi 雲米 石墨烯AI對流電暖器",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "751 x 230 x 430mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Stadler Form Anna Big 2000W 陶瓷冷暖風機",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,199",
+        "最大熱力輸出:": "2000W",
+        "適用房間:": "25 m² / 63 m³",
+        "尺寸:": "183 x 420 x 183mm"
+    },
+    {
+        "names": "Infinity 個人迷你陶瓷暖風機 H8",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "328",
+        "最大熱力輸出:": "900W",
+        "適用房間:": "100-200呎",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Fakir Hobby 暖風機 HL600",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,130",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Yohome 家の逸 速熱搖頭暖風機 HP-12AR",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "329",
+        "water_price_min": "248",
+        "water_price_max": "248",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "135 x 135 x 235mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家桌面暖風機",
+        "rating": "10",
+        "hon_price_min": "328",
+        "hon_price_max": "340",
+        "water_price_min": "188",
+        "water_price_max": "328",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W Verticale Young 暖風機 HVY1020",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "298",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2000W 遙控陶瓷暖風機 TCH-2050",
+        "rating": "",
+        "hon_price_min": "437",
+        "hon_price_max": "498",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "230 x 230 x 450mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Fakir Trend 陶瓷暖風機 HL140",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "950",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家立式暖風機",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "water_price_min": "750",
+        "water_price_max": "970",
+        "最大熱力輸出:": "2100W",
+        "尺寸:": "184 x 184 x 555mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "LifeDeco MyHeater H2 PTC智能音樂冷暖風機",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "最大熱力輸出:": "800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 2500W 陶瓷暖風機 RA-CH2500L",
+        "rating": "6.0",
+        "hon_price_min": "2,388",
+        "hon_price_max": "2,388",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "839 x 260 x 260mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Kaneda 金田 多功能遙控陶瓷暖風機 KH-223ER",
+        "rating": "10",
+        "hon_price_min": "630",
+        "hon_price_max": "898",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "180 x 614 x 180mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Iris Ohyama Turbo Heat 人體感應陶瓷暖風機 JCH-12TD3",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Iris Ohyama 多功能除蟎暖被乾燥機 FK-W2",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "1,199",
+        "water_price_min": "996",
+        "water_price_max": "996",
+        "溫度調校:": "有",
+        "尺寸:": "320 x 196 x 166mm",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Famous 法國名家 2000W 浴室暖風機 NF-2017(FAM)",
+        "rating": "8.0",
+        "hon_price_min": "149",
+        "hon_price_max": "228",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "最大熱力輸出:": "1000-2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Kusa 桌面型PTC陶瓷暖風電爐 DH-100",
+        "rating": "10",
+        "hon_price_min": "358",
+        "hon_price_max": "378",
+        "最大熱力輸出:": "800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Viomi 雲米 踢腳線電暖器",
+        "rating": "",
+        "water_price_min": "560",
+        "water_price_max": "799",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Stadler Form Anna Little 1200W 陶瓷暖風機",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "730",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Princess 1500W 迷你陶瓷暖風機 345064",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "399",
+        "最大熱力輸出:": "1500W",
+        "尺寸:": "220 x 150 x 95mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Origo 直立式陶瓷暖風機 (可於浴室使用) FH-T20P",
+        "rating": "",
+        "hon_price_min": "775",
+        "hon_price_max": "898",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "195 x 195 x 755mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Lingcod 家用小型桌面暖風機取暖器 DH700",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "138",
+        "最大熱力輸出:": "500W",
+        "尺寸:": "160 x 110 x 90mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "LifeDeco HC02 Hot+Cool 冷暖兩用無葉暖風機",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Infinity H1 小型暖風機",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "299",
+        "最大熱力輸出:": "1000W",
+        "尺寸:": "145 x 130 x 102mm"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 陶瓷暖風機 SFH2000W",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "400",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 智米 GR-H 石墨烯電暖器",
+        "rating": "9.3",
+        "water_price_min": "799",
+        "water_price_max": "888",
+        "最大熱力輸出:": "2200W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2200W 陶瓷暖風機 DCH7032",
+        "rating": "6.0",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "250 x 170 x 342mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 600W 迷你陶瓷暖風機 HTM-560",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "ALOK 2合1冷暖兩用暖風機 H01",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "溫度調校:": "3檔模式",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Gemini 雙子星 1800W 家用浴室陶瓷暖風機 GCH18B",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "最大熱力輸出:": "1800W"
+    },
+    {
+        "names": "Goodway 威馬 2000W 直立式陶瓷暖風機 GH-20202",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "798",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "620 x 210 x 210mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2200W PTC 陶瓷遙控直立式暖風機 INT-2263R",
+        "rating": "10",
+        "hon_price_min": "598",
+        "hon_price_max": "798",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 有品 頂惠取暖器暖風機 (冷暖兩用)",
+        "rating": "",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 600W 迷你陶瓷暖風機 TCH-619B",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "399",
+        "water_price_min": "270",
+        "water_price_max": "279",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Sothing WarmBaby 呆呆桌面暖風機",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "498",
+        "water_price_min": "168",
+        "water_price_max": "168",
+        "最大熱力輸出:": "500W",
+        "尺寸:": "220 x 150 x 158mm"
+    },
+    {
+        "names": "Harrow 陶瓷暖風機 HT-CH1500",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "238",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2200W Vertical Edge 浴室暖風機 HFS50D22",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "480",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "335 x 229 x 146mm"
+    },
+    {
+        "names": "Stadler Form Anna 2000W 陶瓷暖風機",
+        "rating": "6.0",
+        "hon_price_min": "485",
+        "hon_price_max": "485",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Daewoo 大宇 簡約桌面取暖器 DWH-BM07",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "380",
+        "最大熱力輸出:": "1500W",
+        "尺寸:": "140 x 205 x 300mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Morphy Richards 親膚冷暖風機 MR2020",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "320",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家踢腳線電暖器",
+        "rating": "",
+        "water_price_min": "790",
+        "water_price_max": "880",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 有品 艾美特桌面加濕暖風機",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "water_price_min": "369",
+        "water_price_max": "599",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Amando 暖風機 A2130",
+        "rating": "",
+        "hon_price_min": "608",
+        "hon_price_max": "608",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "530 x 190 x 190mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Srue 省電小太陽桌面暖風機 SIQQ2017",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "469",
+        "最大熱力輸出:": "600W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "UNIWARE 桌面暖風機 NFJ-001",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "699",
+        "溫度調校:": "2段",
+        "尺寸:": "130 x 130 x 167mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Betar Humidifying Heater 加濕暖風機 HA33-08E",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "最大熱力輸出:": "800W",
+        "溫度調校:": "三檔"
+    },
+    {
+        "names": "De'Longhi 2400W Vertical Edge 浴室暖風機 HFS50F24",
+        "rating": "10",
+        "hon_price_min": "548",
+        "hon_price_max": "650",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "22.9x17.8 x 36cm"
+    },
+    {
+        "names": "Daewoo 大宇 桌面暖風機 K5",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "488",
+        "water_price_min": "268",
+        "water_price_max": "388",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 1500W 陶瓷暖風機 HT015",
+        "rating": "10",
+        "hon_price_min": "478",
+        "hon_price_max": "598",
+        "最大熱力輸出:": "1500W",
+        "尺寸:": "353 x 140 x 195mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Genzo Mono 2200W 多用途暖風機 GM-BH20AC",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "340 x 320 x 155mm"
+    },
+    {
+        "names": "Amando 暖風機 A2080",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "530",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "420 x 180 x 140mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Nutzen 多功能陶瓷暖風機 NCH-2000",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,168",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "700 x 240 x 240mm",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 2000W 浴室陶瓷暖風機 NTB20-15L",
+        "rating": "8.0",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Miffy 暖手寶陶瓷暖風機 R007",
+        "rating": "10",
+        "hon_price_min": "258",
+        "hon_price_max": "298",
+        "water_price_min": "298",
+        "water_price_max": "298",
+        "最大熱力輸出:": "400W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Mcbazel 大功率1200W家用PTC陶瓷暖風機 電暖器",
+        "rating": "",
+        "最大熱力輸出:": "1200W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能電暖器 (居浴兩用)",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "880",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Summe 德國卓爾 1800W 陶瓷暖風機 NP-1810S",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "398",
+        "最大熱力輸出:": "1800W",
+        "時間掣:": "無",
+        "尺寸:": "185 x 265 x 150mm"
+    },
+    {
+        "names": "Xiaomi 小米 愛登 EDON 小K智能暖風機",
+        "rating": "",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kimoji 900W 陶瓷發熱暖風機 YSC-086",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "360",
+        "最大熱力輸出:": "900W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Viomi 雲米 互聯網加濕踢腳線電暖器Pro2",
+        "rating": "",
+        "water_price_min": "899",
+        "water_price_max": "980",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Outlines 迷你智能暖風機",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Goodway 威馬 1800W 陶瓷暖風機 GH-18201",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "408",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Coplax Thalia 多功能暖風機",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "water_price_min": "599",
+        "water_price_max": "699",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "298 x 105 x 389mm"
+    },
+    {
+        "names": "Tefal 特福 2000W Excel Aqua Plus 陶瓷暖風機 SE9285",
+        "rating": "9.8",
+        "hon_price_min": "669",
+        "hon_price_max": "720",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Thomson 手提定時陶瓷電暖器 TM-SAW23F",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "最大熱力輸出:": "600W",
+        "尺寸:": "213 x 113 x 178mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Tefal 特福 2400W Intense Comfort Hot 陶瓷暖風機 SE9420",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,350"
+    },
+    {
+        "names": "Turbo Italy 3合1暖風循環乾衣寶 TFH-20",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "998",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "231 x 255 x 378mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2500W 遙控陶瓷暖風機 TCH-T31",
+        "rating": "10",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,455",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "290 x 290 x 1017mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Airmate 艾美特 PTC 陶瓷暖風機 WP20-X17",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "399",
+        "最大熱力輸出:": "2000W"
+    },
+    {
+        "names": "MICHI Temp+ 家用暖風機",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Summe 德國卓爾 2200W 陶瓷暖風機 NP-2200S",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "599",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Origo 陶瓷暖風機 (可於浴室使用) FH-C18",
+        "rating": "10",
+        "hon_price_min": "570",
+        "hon_price_max": "658",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "170 x 165 x 250mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 1000W 迷你陶瓷暖風機 TCH-020",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "460",
+        "最大熱力輸出:": "1000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 米家石墨烯折疊踢腳線電暖器 超薄版 TJXDNQ05ZM",
+        "rating": "",
+        "water_price_min": "1,360",
+        "water_price_max": "1,380",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "展開: 1505 x 165 x 268mm / 折疊: 753 x 230 x 268mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Pisen 品勝 麵包暖風機 NFJ1901",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148"
+    },
+    {
+        "names": "Famous 法國名家 1800W PTC浴室搖擺暖風機 NTB-18",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "295",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 2200W 陶瓷搖擺冷暖風機 NTH22-18AR",
+        "rating": "10",
+        "hon_price_min": "761",
+        "hon_price_max": "805",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "855 x 203 x 320mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Famous 法國名家 2000W 陶瓷暖風機 NTK-20",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "329",
+        "water_price_min": "219",
+        "water_price_max": "219",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Iris Ohyama 多功能除蟎暖被乾燥機 BW-C1",
+        "rating": "",
+        "water_price_min": "552",
+        "water_price_max": "750",
+        "最大熱力輸出:": "490W",
+        "尺寸:": "370 x 150 x 184mm",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2200W Verticale Elite 陶瓷暖風機 HBE3551TCB",
+        "rating": "8.0",
+        "hon_price_min": "820",
+        "hon_price_max": "1,180",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "397 x 281 x 226mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Famous 法國名家 PTC浴室搖擺暖風機 NTB-15(FAM)",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "320",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 陶瓷恆溫暖風機 TCH-2272",
+        "rating": "",
+        "hon_price_min": "342",
+        "hon_price_max": "342",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "180 x 135 x 300mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Hyundai 現代 1800W 陶瓷暖風機 HY-20HT",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Pacific 太平洋 陶瓷暖風機 PH22T",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "750",
+        "溫度調校:": "三段溫度調校",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Chillbuds 室內陶瓷加熱炭燒桌面暖風機 N6",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Cable-B 小型大功率暖風機 (2000W)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "438",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "185 x 160 x 170mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 2000W 2合1風扇暖風機 HTF-520",
+        "rating": "7.0",
+        "hon_price_min": "910",
+        "hon_price_max": "1,150",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 2000W 陶瓷暖風機 HT220",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "980",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "569 x 213 x 206mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 即品 - 有品定制電暖器",
+        "rating": "",
+        "water_price_min": "599",
+        "water_price_max": "980",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Nutzen 1200W 左右自動送風陶瓷暖風機 HPTC-12",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "398",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W PTC 陶瓷遙控直立式暖風機 INT-2061R",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "530",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 1500W陶瓷搖擺暖風機 NTY15CA",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "275",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "BIE 888 台式暖風機取暖器",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "438",
+        "最大熱力輸出:": "800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Origo 迷你陶瓷暖風機 FH-100",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Fakir 2000W 陶瓷浴室暖風機 HB120",
+        "rating": "6.0",
+        "hon_price_min": "470",
+        "hon_price_max": "478",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Rowenta 好運達 2000W 陶瓷暖風機 SO9030",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Souyi 搖頭式放濕UVC殺菌暖風機 SY-149",
+        "rating": "",
+        "hon_price_min": "557",
+        "hon_price_max": "628",
+        "最大熱力輸出:": "800W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2500W 陶瓷暖風機 TCH-M257",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "820",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "210 x 222 x 608mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imakara 3秒極速熱陶瓷暖風機",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷浴室暖風機 TBH-204",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "718",
+        "water_price_min": "510",
+        "water_price_max": "510",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 600W 迷你陶瓷暖風機 TCH-60M",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "309",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 科西 K3 取暖器 (2000W)",
+        "rating": "",
+        "water_price_min": "2,680",
+        "water_price_max": "2,680",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "1Chiban 1800W PTC陶瓷防水霧暖風機 BR-PTC21",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "398",
+        "最大熱力輸出:": "1800W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "The Loel PTC陶瓷電暖器",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "325 x 167 x 207mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "飛比 加濕暖風機",
+        "rating": "10",
+        "water_price_min": "450",
+        "water_price_max": "550",
+        "尺寸:": "132 x 140 x 250mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 有品 Beautitec 活性炭暖腳寶",
+        "rating": "",
+        "water_price_min": "890",
+        "water_price_max": "890",
+        "最大熱力輸出:": "130W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kaneda 金田 2000W 迷你強力陶瓷暖風機 KH-211M",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "450",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Origo 迷你暖風機 FH-05Y",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "198",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "EraClean 迷你暖風機",
+        "rating": "10",
+        "water_price_min": "220",
+        "water_price_max": "230",
+        "尺寸:": "120 x 120 x 219mm"
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷浴室人體感應暖風機 TBH-20N",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "178 x 178 x 380mm"
+    },
+    {
+        "names": "Redbox 暖風機 電暖器 HLX-2112",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "410",
+        "最大熱力輸出:": "500W",
+        "尺寸:": "300 x 82 x 88mm",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Silk Road 施樂牌 陶瓷暖風機 (可搖擺) SR-918",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 陶瓷暖風機 DCH7031",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "170 x 342 x 253mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 有品 歐偉士電暖器PRO踢腳線取暖器",
+        "rating": "",
+        "water_price_min": "1,890",
+        "water_price_max": "1,890",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Sothing WarmBaby 呆呆桌面暖風機 (小惡魔特別款)",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "588"
+    },
+    {
+        "names": "Homey 家美牌 1800W 防水霧暖風機 HR-1800",
+        "rating": "8.0",
+        "hon_price_min": "310",
+        "hon_price_max": "390",
+        "最大熱力輸出:": "1800W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "1Chiban 2000W 防水霧暖風機 IB-BR2",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Tefal 特福 1800W 陶瓷暖風機 SE9265",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2000W 二合一加濕陶瓷暖風機 TCH-550H",
+        "rating": "",
+        "hon_price_min": "1,029",
+        "hon_price_max": "1,029",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "260 x 260 x 800mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2000W 直立式仿壁爐陶瓷暖風機 TCH-539",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "260 x 260 x 830mm"
+    },
+    {
+        "names": "Midea 美的 2000W溫控暖風機 NF20BA",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2000W 掛牆浴室陶瓷暖風機 TBH-201M",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "670",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Harrow 陶瓷暖風機 HT-CH1518",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "298",
+        "最大熱力輸出:": "1500W"
+    },
+    {
+        "names": "SilverCrest 對流式暖風機帶遙控器 SKD 2300 D4",
+        "rating": "",
+        "water_price_min": "600",
+        "water_price_max": "600",
+        "最大熱力輸出:": "2300W",
+        "尺寸:": "692 x 220 x 438mm",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "樂秀 踢腳線式電暖器 (2200W)",
+        "rating": "",
+        "water_price_min": "1,280",
+        "water_price_max": "1,280",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kaneda 金田 2000W 座枱高效能陶瓷暖風機 KH-212M",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Sothing mini Warmbaby 小呆桌面暖風機",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "458",
+        "最大熱力輸出:": "500W",
+        "尺寸:": "155 x 128 x 145mm"
+    },
+    {
+        "names": "Goodway 威馬 2000W 陶瓷暖風機 GH-60202",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W PTC 陶瓷遙控暖風機 INT-2055R",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "430",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 2000W 搖擺暖風機 NTH20-18MRA",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "323",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "215 x 583 x 215mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imakara 2000W大輸出暖風機 - 觸控3段溫度調節",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Sothing WarmBaby 呆呆桌面暖風機 (Christmas 小鹿特別款)",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "Craft 迷你靜音旋轉冷暖風兩用機 S700",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "288",
+        "最大熱力輸出:": "800W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Nutzen 1200W 陶瓷暖風機 NPTC-12",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2500W 遙控陶瓷暖風機 TCH-T32",
+        "rating": "",
+        "hon_price_min": "1,498",
+        "hon_price_max": "1,498",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "290 x 290 x 1018mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Kuton 2000W 陶瓷電暖爐 KT-201CHM",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "680",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "180 x 574 x 180mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Bebay 小型加濕冷暖風機",
+        "rating": "",
+        "最大熱力輸出:": "1300W",
+        "尺寸:": "215 x 155 x 205mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 有品 歐偉士電暖器3T踢腳線取暖器 (3000W)",
+        "rating": "",
+        "water_price_min": "2,299",
+        "water_price_max": "2,299",
+        "最大熱力輸出:": "3000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2200W PTC 陶瓷遙控直立式暖風機 INT-22ER",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "640",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 即品&FOCUS踢腳線電暖器",
+        "rating": "",
+        "water_price_min": "1,060",
+        "water_price_max": "1,060",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W Tower 陶瓷暖風機 TCH7091ER",
+        "rating": "9.0",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "600 x 199 x 220mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Gemini 雙子星 直立式陶瓷暖風機 GCH20",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Nutzen 2000W 浴室暖風機 NHIP-10",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "369",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "T-One PTC Fan Heater 陶瓷暖風機",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "438",
+        "最大熱力輸出:": "800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Morita 桌面暖風機",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "399",
+        "尺寸:": "125 x 125 x 205mm"
+    },
+    {
+        "names": "Machino 迷你暖風機 H1-MAC",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "398",
+        "最大熱力輸出:": "700W"
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷暖風機 TBH-213",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "800",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "iNNOTEC 迷你陶瓷暖氣機 IH-3808",
+        "rating": "",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2400W 遙控陶瓷暖風機 DCH7093ER",
+        "rating": "5.0",
+        "hon_price_min": "748",
+        "hon_price_max": "748",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "253 x 170 x 338mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2000W遙控掛牆浴室陶瓷暖風機 TBH-201W",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "998",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "444 x 102 x 182mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "NIKAI 2000W 暖風機 LQ-801B",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "最大熱力輸出:": "2000W",
+        "溫度調校:": "3段調較"
+    },
+    {
+        "names": "Kaneda 金田 2000W 陶瓷暖風機 KH-201M",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Famous 法國名家 1500W 陶瓷搖擺暖風機 NTK-15(FAM)",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 暖風機 - 木紋 (可於浴室使用) FH9006W",
+        "rating": "5.0",
+        "hon_price_min": "280",
+        "hon_price_max": "358",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Cellini 徹里尼 小型暖風機 CBH20E",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "溫度調校:": "2段熱力選擇"
+    },
+    {
+        "names": "Nutzen 迷你陶瓷暖風機 NCW-950",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "498",
+        "最大熱力輸出:": "950W",
+        "尺寸:": "180 x 110 x 220mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Origo 2000W 陶瓷暖風機 (可於浴室使用) FH-T18P",
+        "rating": "",
+        "hon_price_min": "718",
+        "hon_price_max": "718",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2000W 掛牆浴室陶瓷暖風機 TBH-201",
+        "rating": "5.0",
+        "hon_price_min": "998",
+        "hon_price_max": "1,030",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "445 x 105 x 180mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Donlim 加濕暖風機 DL-1165",
+        "rating": "",
+        "water_price_min": "238",
+        "water_price_max": "238",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 陶瓷人體感應暖風機 TCH-535P",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "最大熱力輸出:": "1500W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Airmate 艾美特 2合1加濕暖風機 WP5-M21U",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Mcbazel 陶瓷加熱暖風機 三檔電暖風 配遙控器 12小時內定時關機",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "尺寸:": "255 x 148 x 100mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 1800W 陶瓷暖風機 TCH-18NPM",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "488",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "EURON 2000W 小型暖風機 EFH-2000W",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "350",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W 防水霧搖擺暖風機 (IP21) INF-20EA",
+        "rating": "",
+        "hon_price_min": "305",
+        "hon_price_max": "305",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2500W Wifi 陶瓷暖風機 TCH-533Wifi",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,068",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "260 x 260 x 800mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Acer 陶瓷暖風機 AH110",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "203 x 203 x 240mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Goodway 威馬 2000W 三合一負離子淨化陶瓷放濕暖風機 GH-960N",
+        "rating": "9.0",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W IP21 防水霧搖擺暖風機 INF-20EB",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "AKAI 雅佳 2200W 防水陶瓷暖風機 XH200",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "379",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "250 x 145 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2500W Wifi 陶瓷靜音暖風機 TCH-25QWifi",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "1,109",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "340 x 155 x 340mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 空氣淨化搖擺暖風機 FH-38",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "320",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "iNNOTEC 1800W 陶瓷暖氣機 IH-3403",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "229 x 224 x 567mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Kaneda 金田 2000W 遙控多功能陶瓷暖風機 KH-213ER",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "215 x 570 x 240mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "inno3C Desktop Fan Heater 座檯式暖風機 i-WF5",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Nutzen 2000W 陶瓷暖風機 NHR-28",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W PTC 陶瓷搖擺暖風機 INT-20E",
+        "rating": "6.0",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 600W 迷你陶瓷暖風機 HTM-360",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "最大熱力輸出:": "600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Re-Lift 2000W 直立式暖風機 PTH2301-TR",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "180 x 574 x 180mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 艾美特懸浮式暖風機 O₃+巴氏高溫殺菌款",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "water_price_min": "2,580",
+        "water_price_max": "2,580",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2000W 人體感應陶瓷暖風機 TCH-532",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "223 x 223 x 508mm",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Limo 1200W 電視形狀暖風機 H2",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷浴室人體感應暖風機 TBH-215",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "860",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "185 x 105 x 375mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 1800W PTC 陶瓷LCD搖擺暖風機 INT-18E",
+        "rating": "10",
+        "hon_price_min": "346",
+        "hon_price_max": "389",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Tefal 特福 2000W 浴室用陶瓷暖風機 SE9280",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Gree 格力 2000W 3段暖風機 NTFD-20a",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "520 x 210 x 170mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "ALOK 1000W PTC陶瓷暖風機 N2",
+        "rating": "",
+        "最大熱力輸出:": "1000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Thanko SBTACTPI 手持冷暖氣機",
+        "rating": "",
+        "hon_price_min": "374",
+        "hon_price_max": "468"
+    },
+    {
+        "names": "Whirlpool 惠而浦 2400W 陶瓷暖風機 HT224",
+        "rating": "10",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "800 x 260 x 260mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "1Chiban 1800W 陶瓷暖風機 IB-H918",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Stadler Form Paul 2000W 靜音冷暖風機",
+        "rating": "9.0",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Nutzen 1800W 浴室陶瓷暖風機 NHIP-20",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "HIKII B.Duck 2in1 暖手寶暖風機",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "De'Longhi 2400W Caldobagno 浴室專用暖風機 HBC3032",
+        "rating": "",
+        "最大熱力輸出:": "2400W",
+        "適用房間:": "70m³",
+        "尺寸:": "276 x 227 x 378mm"
+    },
+    {
+        "names": "Whirlpool 惠而浦 2200W 陶瓷暖風機 HT3220",
+        "rating": "2.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "686 x 225 x 234mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Cinetron 新朗 家用陶瓷暖風機 CT1500SB",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 1800W 陶瓷恆溫暖風機 TCH-2270",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Gree 格力 1800W 小型暖風機 NTFD-18-WG",
+        "rating": "10",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "280 x 200 x 170mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "HYDEN 電暖器 S700",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "最大熱力輸出:": "600W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "iNNOTEC 1800W 陶瓷暖氣機 IH-3293",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "565 x 250 x 270mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi Calgobagno 暖風機 HBC 3030",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "276 x 227 x 378mm"
+    },
+    {
+        "names": "Megapool 1500W 紅外線圓枱電暖燈",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "iNNOTEC 1500W 浴室專用陶瓷暖氣機 IH-3834",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "190 x 130 x 290mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Geek 500W 小型暖風機 HT-231",
+        "rating": "",
+        "最大熱力輸出:": "500W",
+        "尺寸:": "125 x 95 x 162mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Nutzen 1800W 陶瓷暖風機 NHR-18",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "419",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "De'Longhi Slim Style Convector Heater HCX9124E",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "820 x 75 x 555mm"
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷恆溫暖風機 TCH-1862",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "227 x 174 x 338mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Liv'gart 2000W 掛牆式浴室陶瓷暖風機 LBH-201M",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 2000W 直立式搖擺暖風機 HTS-200",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "646 x 230 x 230mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Silk Road 施樂牌 陶瓷暖風機 SR-915",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "AKAI 雅佳 2000W 直立式陶瓷暖風機 XH205",
+        "rating": "10",
+        "hon_price_min": "468",
+        "hon_price_max": "469",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "220 x 670 x 220mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "iNNOTEC 2200W 陶瓷暖風機 IH-3718",
+        "rating": "",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "230 x 200 x 580 mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "MASUDO 松島 2500W 陶瓷暖風機 MAHT-5A01P",
+        "rating": "",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "50 x 1130mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 2000W SilentPower 風扇暖風機 FHT1200",
+        "rating": "7.7",
+        "hon_price_min": "1,630",
+        "hon_price_max": "1,630",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "688 x 210 x 210mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W SlimStyle 對流式暖風機 HCX3124FS",
+        "rating": "6.0",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "820 x 75 x 550mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 1800W 遙控陶瓷暖風機 RA-CH810S",
+        "rating": "7.0",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "547 x 210 x 210mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Smart Tiger 1200W Personal Heater S800",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "262 x 303mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "MAX 小型陶瓷暖風機 MA-HR0020",
+        "rating": "10",
+        "溫度調校:": "2段",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Tefal 特福 2000W 防水濺暖風機 SE9080",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 2000W 陶瓷暖風機 32B006",
+        "rating": "8.0",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "150 x 650 x 170mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2500W 遙控陶瓷暖風機 TCH-253",
+        "rating": "",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "263 x 263 x 809mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Gemini 雙子星 2000W 直立式陶瓷暖風機 GCH2000E",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "210 x 530 x 210mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Homey 家美牌 2000W 防水霧暖風機 HR-100G",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "230 x 305 x 150mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Neomax 美斯 2000W 負離子陶瓷暖風機 NH-1028G",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "230 x 540 x 200mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rowenta 好運達 2000W TurboCeram Silence 暖風機 SO9015",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 2000W 陶瓷暖風機 32B002A",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "150 x 150 x 610mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "AKAI 雅佳 2000W 陶瓷暖風機 XH2003",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2200W 陶瓷恆溫暖風機 TCH-2281",
+        "rating": "",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "212 x 195 x 551mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Fochea 1200W 2段暖風機 HT-331",
+        "rating": "",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "240 x 118 x 333mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Origo 2000W 陶瓷暖風機 (可於浴室使用) FH-T48P",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "105 x 205 x 600mm",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 1200W 2段暖風機 SH-6632",
+        "rating": "",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 1800W 陶瓷暖風機 TCH-135",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "MASUDO 松島 2000W 3段暖風機 MACH-0202N",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "840 x 244 x 557mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Innoware 億威 PTC 2000瓦陶瓷暖爐 CH2000SL",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2200W Verticale Style 3段防滴水暖風機 HVF3051T",
+        "rating": "",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "237 x 175 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷恆溫暖風機 TCH-1861",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Olevia 1800W 遙控暖風機 OH-T10H1L-B",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 1800W 陶瓷暖風機 DCH2530",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 1500W 陶瓷搖擺暖風機 NTL15",
+        "rating": "8.0",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 2000W 陶瓷暖風機 HT3201",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "513 x 214 x 169mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Homey 家美牌 1800W 陶瓷暖風機 HR-1602",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 2000W 直立式陶瓷暖風機 NT20-13CAW",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "212 x 232 x 584mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "日之星 1500W 火爐式暖風爐 YSHF1509",
+        "rating": "8.0",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Princess 2000W 陶瓷暖風機 345036",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "245 x 265 x 570mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Pacific 太平洋 2000W 陶瓷暖風機 PH-20",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "550 x 66mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rowenta 好運達 2400W Instant Comfort Aqua 靜音暖風機 SO6510",
+        "rating": "",
+        "最大熱力輸出:": "2400W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 2000W 無線搖控陶瓷暖風機 NT20-06AN",
+        "rating": "8.0",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Rowenta 好運達 2000W Aqua Excel 暖風機 SO9080",
+        "rating": "8.3",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 2000W 2段暖風機 NFE20",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Novelti 800W 陶瓷暖風扇 NH5081",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "最大熱力輸出:": "800W"
+    },
+    {
+        "names": "Yoshidashou 1000W 小型暖風機 YS-010",
+        "rating": "",
+        "最大熱力輸出:": "500/1000W",
+        "時間掣:": "沒",
+        "尺寸:": "161 x 119 x 249mm"
+    },
+    {
+        "names": "Kaneda 金田 2000W 座枱高效能陶瓷暖風機 KH-202M",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Magic Living 500W 章魚 PTC 陶瓷暖風機 BD-LS-04",
+        "rating": "",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 2000W 直立式遙控暖風機 HTF-210",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "586 x 210 x 220mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W 座地式暖風機 HVN2050T",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Dimplex 電寶力 2000W Downflow Fan Heater with Pullcord FX20V",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Famous 法國名家 2000W 2段暖風機 NFF-006(FAM)",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "iNNOTEC 迷你陶瓷暖氣機 IH-3638",
+        "rating": "",
+        "最大熱力輸出:": "500W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W Verticale Young 暖風機 HVY1030",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "238 x 177 x 254mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "MASUDO 松島 2000W 陶瓷暖風機 MACH-1593",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "73 x 238 x 337mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "TELEFUNKEN 暖風機 KRH1500M",
+        "rating": "",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 1500W 陶瓷暖風機 (可於浴室使用) FH-M48",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "最大熱力輸出:": "1500W",
+        "尺寸:": "105 x 205 x 305mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W 3段暖風機 DCH5231",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "221 x 184 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "De'Longhi 2000W 陶瓷暖風機 DCH5531",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "578",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "221 x 184 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 1900W PTC陶瓷電暖器 SH-2000FT",
+        "rating": "",
+        "最大熱力輸出:": "1900W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 陶瓷暖風暖手寶 FH-40",
+        "rating": "",
+        "最大熱力輸出:": "500W",
+        "尺寸:": "70 x 70 x 30mm,  小巧機身：150 x 143 x 130mm"
+    },
+    {
+        "names": "MASUDO 松島 1200W 2段暖風機 MACH-5905P",
+        "rating": "",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Smartech 1500W \"Warm Box\" 恆溫陶瓷暖氣機 SH-1938",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kaneda 金田 2000W 遙控多功能陶瓷暖風機 KH-203ER",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "215 x 570 x 240mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W 浴室專用暖風機 HVF3030MOR",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "237 x 175 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Philco 飛歌 1800W 陶瓷暖風機 PCH18E",
+        "rating": "7.0",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 1500W 陶瓷暖風機 NTW",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Hyundai 現代 2000W 放濕暖風機 DF-HT050",
+        "rating": "8.0",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "451 x 433 x 186mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 2000W 陶瓷搖擺暖風機 NT20-12B",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "260 x 245 x 270mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W 多段暖風機 DCH6031",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "227 x 165 x 265mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Homey 家美牌 2000W 防水霧暖風機 HR-10",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Neomax 美斯 2500W 雙層陶瓷暖風機 NH-3028GD",
+        "rating": "9.3",
+        "最大熱力輸出:": "2500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Tefal 特福 2000W 陶瓷直立式暖風機 SE9040",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "620 x 220 x 220mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Bello 2000W PTC 陶瓷直立式暖風機 HPK20-E(BEL)",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Larette 2000W 暖風機 LRH901M",
+        "rating": "8.0",
+        "最大熱力輸出:": "2000W",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 1800W 浴室陶瓷暖風機 TBH-119",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "De'Longhi 2400W 直立式陶瓷暖風機 TCH8093ER",
+        "rating": "6.7",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "275 x 269 x 695mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Rowenta 好運達 2000W Proceram 直立暖風機 SO9020",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 2400W 火辣椒陶瓷暖風機 FH-C3209",
+        "rating": "",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "205 x 240 x 215mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 2000W 陶瓷暖風機 (可於浴室使用) FH-T41P",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 1800W 家用暖風機 HT118",
+        "rating": "7.6",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "451 x 281 x 554mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 2200W 陶瓷暖風機 HT222",
+        "rating": "",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "713 x 240 x 240mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Neomax 美斯 2500W 雙層陶瓷暖風機 NH-2028GD",
+        "rating": "8.0",
+        "最大熱力輸出:": "2500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Hyundai 現代 2000W 陶瓷負離子暖風機 DF-HT500",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "236 x 550 x 200mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 2000W 陶瓷暖風機 RA-CH2000L",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "214 x 584 x 169mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Tegasus 天馬 1500W 直立暖風機 H-3102-06",
+        "rating": "8.0",
+        "最大熱力輸出:": "1500W",
+        "適用房間:": "150平方尺",
+        "尺寸:": "530 x 220 x 190mm"
+    },
+    {
+        "names": "AKAI 雅佳 1800W 直立式暖風機 SCT-18",
+        "rating": "10",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "210 x 210 x 547mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "iNNOTEC 2000W 陶瓷暖氣機 IH-3548",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "260 x 250 x 755mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W 浴室用暖風機 HVF3030MD",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "237 x 175 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "SHIKANO 2000W 暖風機 SA-1602E",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2500W 金屬陶瓷暖風機 TCH-M256",
+        "rating": "6.0",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "263 x 263 x 702mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Kyodo 2000W 直立式陶瓷暖風機 KPT-2000B",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "時間掣:": "1-8 小時",
+        "尺寸:": "215 x 550 x 235mm"
+    },
+    {
+        "names": "HTP Heater 2000W 戶內外電暖器",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "220 x 120mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "SK Japan 艾斯凱傑 暖風機 SKJ-CR008",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "22 x 18 x 8cm"
+    },
+    {
+        "names": "Turbo Italy 2500W 遙控陶瓷暖風機 TCH-259",
+        "rating": "",
+        "最大熱力輸出:": "2500W",
+        "尺寸:": "265 x 265 x 800mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "EURON 1800W 小型暖風機 EFH1800",
+        "rating": "8.0",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 1000W 石英電熱管暖爐 NS-8B",
+        "rating": "",
+        "最大熱力輸出:": "1000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "iNNOTEC 2000W 陶瓷暖氣機 IH-3288",
+        "rating": "6.0",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "190 x 260 x 770mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2400W Verticale Style 浴室專用暖風機 HVF3552TB",
+        "rating": "6.0",
+        "最大熱力輸出:": "2400W",
+        "尺寸:": "270 x 210 x 330mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2000W 遙控PTC式陶瓷直立暖風機 ICH-620-LED",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "210 x 200 x 550mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Iris Ohyama 1200W 人體感應陶瓷暖風機 JCH-12DLC",
+        "rating": "6.0",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "245 x 123 x 339mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Gree 格力 1800W 陶瓷暖風機 NTFA-18",
+        "rating": "10",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "290 x 180 x 140mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Loyola 忠臣 1800W 多段暖風機 FH-102",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "溫度調校:": "4段"
+    },
+    {
+        "names": "Deer 2000W 暖風機 FH302",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Gemini 雙子星 2000W 防水霧家用暖風機 GBH20B",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rowenta 好運達 2400W Turbo Excel 直立暖風機 SO6215",
+        "rating": "",
+        "最大熱力輸出:": "2400W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2500W 金屬陶瓷暖風機 TCH-M254",
+        "rating": "",
+        "最大熱力輸出:": "2500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Fortress 豐澤牌 陶瓷暖風機 FHP2015",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "溫度調校:": "2段熱風選擇"
+    },
+    {
+        "names": "De'Longhi 1800W 2段暖風機 DCH1030",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "180 x 160 x 230mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 1250W PTC 加濕陶瓷電暖器 SH-6638",
+        "rating": "10",
+        "最大熱力輸出:": "1250W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Smartech 2000W \"Warm Tube\" 負離子恆溫陶瓷暖氣機 SH-1388",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "KELVINATOR 冷暖風機 KRFCH2000AR",
+        "rating": "",
+        "時間掣:": "7.5小時",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Iris Ohyama 1300W 人體感應直立式陶瓷暖風機 JCH-12DHC",
+        "rating": "10",
+        "最大熱力輸出:": "1300W",
+        "尺寸:": "270 x 270 x 710cm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2200W 陶瓷恆溫暖風機 TCH-2261",
+        "rating": "",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "MASUDO 松島 2000W 陶瓷暖風機 MAHT-5A02P",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "50 x 850mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Smartech 1000W \"Warm Honey\" 遠紅外線陶瓷暖氣機 SH-1188",
+        "rating": "8.0",
+        "最大熱力輸出:": "1000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 1800W 陶瓷暖風機 INT-18ER",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 1800W 直立式陶瓷暖風機 TCH6590ER",
+        "rating": "",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "210 x 550 x 190mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 1800W 陶瓷暖風機 DCH3030",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "SANWA 2000W 暖風機 CRFH-2002",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Origo 2000W 多用途浴室暖風寶 FH-B2008",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "340 x 560 x 140mm"
+    },
+    {
+        "names": "MASUDO 松島 1500W 浴室速暖電暖爐 MACH-51537S",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi Verticale Style 暖風機 HVF3533B",
+        "rating": "",
+        "最大熱力輸出:": "3000W",
+        "尺寸:": "270 x 212 x 339mm"
+    },
+    {
+        "names": "Iris Ohyama 1200W 人體感應陶瓷暖風機 JCH-12DC",
+        "rating": "6.0",
+        "最大熱力輸出:": "1200W",
+        "尺寸:": "245 x 123 x 339mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Philco 飛歌 1800W 陶瓷暖風機 PCH1800M",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 1800W 陶瓷暖風機 SH-6636",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2200W Steel Elite 暖風機 HVS3031",
+        "rating": "",
+        "最大熱力輸出:": "2200W",
+        "尺寸:": "220 x 162 x 305mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Tefal 特福 1800W 2段暖風機 SE9065",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "iNNOTEC 1500W 陶瓷暖風機 IH-3803",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "尺寸:": "190 x 180 x 270mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 2000W 陶瓷搖擺暖風機 HT120",
+        "rating": "4.0",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "605 x 230 x 237mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 1800W 2段暖氣機 BH-1602TH",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "MASUDO 松島 2000W 無線遙控暖風機 MA-1810",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 多功能遙控冷暖風機 AD90E",
+        "rating": "6.0",
+        "時間掣:": "1/2/4小時",
+        "尺寸:": "270 x 744 x 320mm"
+    },
+    {
+        "names": "Liv'gart 2000W 陶瓷暖風機 LCH-200M",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Midea 美的 2000W 直立式陶瓷暖風機 NT20-14B",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Origo 多用途暖風乾燥機 MD-01",
+        "rating": ""
+    },
+    {
+        "names": "Turbo Italy 2000W 陶瓷暖風機 TCH-202M",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Iris Ohyama 1200W 人體感應陶瓷暖風機 JCH-12D",
+        "rating": "5.3",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Smartech 1500W \"Warm Tube\" 負離子陶瓷暖氣機 SH-1010",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "最大熱力輸出:": "1500W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "MASUDO 松島 1800W 暖風機 MA-1510",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Deer 2000W 暖風機 FH301",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Rowenta 好運達 2000W Proceram 暖風機 SO9040",
+        "rating": "10",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Rasonic 樂信 1800W 陶瓷暖風機 RA-CH552S",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "MASUDO 松島 1800W 陶瓷暖風機 MACH-1820",
+        "rating": "",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "210 x 210 x 547mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "iNNOTEC 1800W 陶瓷暖風機 IH-3406",
+        "rating": "10",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "HOMSTAR 2000W 3段暖風機 FH03",
+        "rating": "9.0",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Silver 1800W 陶瓷暖風機 168",
+        "rating": "10",
+        "最大熱力輸出:": "1800W",
+        "尺寸:": "19 x 9 x 9\"",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Gemini 雙子星 多功能除塵蟎烘乾暖被寶 GMD70",
+        "rating": "",
+        "最大熱力輸出:": "700W",
+        "尺寸:": "331 x 316 x 130mm"
+    },
+    {
+        "names": "Kada 禾田 2000W 可調式暖風機 KD-FH1206",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2000W 遙控陶瓷暖風機 TCH-200",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "GT 2000W Carpri 90 幻彩二合一冷暖風機",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "German Pool 德國寶 1200W 迷你暖風機 HTM-120",
+        "rating": "10",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 2000W 座檯浴室暖風機 TBH-607",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2500W 遙控陶瓷暖風機 TCH-250",
+        "rating": "",
+        "最大熱力輸出:": "2500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 1500W PTC陶瓷暖風機 ICH-615M",
+        "rating": "",
+        "最大熱力輸出:": "1500W",
+        "尺寸:": "235 x 148 x 462mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 2000W 2段暖風機 NF20-9BJB",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Rowenta 好運達 2400W Balnea Silence 電暖器 SO6210",
+        "rating": "",
+        "最大熱力輸出:": "2400W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Philco 飛歌 2000W 多段暖風機 PBH2000",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Larette 1000W 浴室專用暖風機 LRPH1000A",
+        "rating": "",
+        "最大熱力輸出:": "1000W",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Turbo Italy 2500W 金屬陶瓷暖風機 TCH-M255",
+        "rating": "",
+        "最大熱力輸出:": "2500W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "HOMSTAR 1800W 陶瓷暖風機 PTC12B",
+        "rating": "9.0",
+        "最大熱力輸出:": "1800W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Megapool 1200W 便攜式紅外線電暖燈",
+        "rating": "",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Philco 飛歌 2000W 陶瓷暖風機 PCH20E",
+        "rating": "7.3",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "157 x 380 x 176mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "iNNOTEC 2000W 迷你陶瓷暖氣機 IH-3626",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Midea 美的 2000W 人感陶瓷暖風機 NTY12-15J",
+        "rating": "10",
+        "最大熱力輸出:": "1200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W Verticale Style 暖風機 HVF3030M.R",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "237 x 175 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "De'Longhi 2000W Protecto 直立式暖風機 HWB4530",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "400 x 140 x 450mm",
+        "過熱保護裝置:": "沒有",
+        "翻倒自動斷電裝置:": "沒有"
+    },
+    {
+        "names": "Famous 法國名家 1600W PTC 陶瓷搖擺暖風機 NT-16(FAM)",
+        "rating": "",
+        "最大熱力輸出:": "1600W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Imarflex 伊瑪牌 2200W 遙控陶瓷暖風機 INT-22R",
+        "rating": "10",
+        "最大熱力輸出:": "2200W",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 1250W PTC 定時加濕陶瓷電暖器 SH-6639",
+        "rating": "",
+        "最大熱力輸出:": "1250W",
+        "尺寸:": "420 x 380 x 140mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "Turbo Italy 1000W 迷你陶瓷暖風機 TCH-010",
+        "rating": "",
+        "最大熱力輸出:": "1000W",
+        "翻倒自動斷電裝置:": "有"
+    },
+    {
+        "names": "De'Longhi 2000W 浴室專用暖風機 HVF3030MBL",
+        "rating": "",
+        "最大熱力輸出:": "2000W",
+        "尺寸:": "237 x 175 x 315mm",
+        "過熱保護裝置:": "有",
+        "翻倒自動斷電裝置:": "沒有"
+    }
+]

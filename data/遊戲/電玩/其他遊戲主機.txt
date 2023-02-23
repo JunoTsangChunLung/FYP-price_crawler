@@ -1,0 +1,616 @@
+[
+    {
+        "names": "Valve Steam Deck (256GB)",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "5,180",
+        "water_price_min": "3,099",
+        "water_price_max": "4,950"
+    },
+    {
+        "names": "Valve Steam Deck (64GB)",
+        "rating": "8.0",
+        "hon_price_min": "2,999",
+        "hon_price_max": "4,180",
+        "water_price_min": "2,999",
+        "water_price_max": "3,980"
+    },
+    {
+        "names": "Valve Steam Deck (512GB)",
+        "rating": "10",
+        "hon_price_min": "3,080",
+        "hon_price_max": "6,380",
+        "water_price_min": "3,080",
+        "water_price_max": "6,350"
+    },
+    {
+        "names": "Nintendo Game & Watch: The Legend of Zelda 薩爾達傳說 遊戲主機",
+        "rating": "9.3",
+        "hon_price_min": "280",
+        "hon_price_max": "378",
+        "種類:": "遊戲主機",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "GPD WIN 4 (32+2000GB)",
+        "rating": "",
+        "hon_price_min": "10,300",
+        "hon_price_max": "10,300",
+        "種類:": "主機",
+        "連接介面:": "USB4 x 1, USB Type-C 3.2 Gen2 x 1, USB Type-A 3.2 Gen2 x 1"
+    },
+    {
+        "names": "Nintendo Game & Watch: 超級瑪利歐兄弟 (35週年紀念版主機)",
+        "rating": "9.5",
+        "hon_price_min": "330",
+        "hon_price_max": "499",
+        "water_price_min": "320",
+        "water_price_max": "368",
+        "種類:": "攜帶型遊戲機",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "Taito Egret II Mini 主機 (Full Package)",
+        "rating": "",
+        "water_price_min": "3,979",
+        "water_price_max": "3,979",
+        "家用/手提:": "家用/手提",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "GPD WIN 3 Handheld Steam Game Console (i7-1195G7, 16+1TB)",
+        "rating": "8.0",
+        "hon_price_min": "8,999",
+        "hon_price_max": "9,009",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "GPD XP Game Console (6+128GB)",
+        "rating": "8.0",
+        "hon_price_min": "2,799",
+        "hon_price_max": "2,980",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "GPD WIN 3 Handheld Steam Game Console (i5 version)",
+        "rating": "",
+        "hon_price_min": "7,709",
+        "hon_price_max": "7,709",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "Retro Game 懷舊街機掌機",
+        "rating": "8.0",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "Nintendo 任天堂紅白機",
+        "rating": "8.0",
+        "water_price_min": "748",
+        "water_price_max": "748",
+        "種類:": "主機",
+        "影音端子:": "USB, HDMI"
+    },
+    {
+        "names": "SNK NEOGEO Arcade Stick Pro Model No. GM1D1X1900",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "種類:": "Game",
+        "影音端子:": "HDMI",
+        "連接介面:": "TV , Monitor"
+    },
+    {
+        "names": "GPD WIN 4 (16+512GB)",
+        "rating": "",
+        "hon_price_min": "7,500",
+        "hon_price_max": "7,500",
+        "種類:": "主機",
+        "連接介面:": "USB4 x 1, USB Type-C 3.2 Gen2 x 1, USB Type-A 3.2 Gen2 x 1"
+    },
+    {
+        "names": "TAITO 電車 Go Plug & Play (2021年版本)",
+        "rating": "",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "影音端子:": "hdmi"
+    },
+    {
+        "names": "Anbernic Linux+Android System 雙系統掌機 (16+128GB 版本) RG552",
+        "rating": "10",
+        "家用/手提:": "手提",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "GPD WIN 4 (32+1000GB)",
+        "rating": "",
+        "hon_price_min": "9,300",
+        "hon_price_max": "9,300",
+        "種類:": "主機",
+        "連接介面:": "USB4 x 1, USB Type-C 3.2 Gen2 x 1, USB Type-A 3.2 Gen2 x 1"
+    },
+    {
+        "names": "GPD WIN 4 (16+1000GB)",
+        "rating": "",
+        "hon_price_min": "8,300",
+        "hon_price_max": "8,300",
+        "種類:": "主機",
+        "連接介面:": "USB4 x 1, USB Type-C 3.2 Gen2 x 1, USB Type-A 3.2 Gen2 x 1"
+    },
+    {
+        "names": "Nintendo 週刊少年JUMP迷你紅白主機",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "種類:": "主機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "Powkiddy Q9 Retro game 街機掌機",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "Powkiddy A8 Retro Arcade 懷舊遊戲機 連 雙手掣",
+        "rating": "10",
+        "hon_price_min": "478",
+        "hon_price_max": "499",
+        "種類:": "遊戲機",
+        "影音端子:": "AV"
+    },
+    {
+        "names": "Nintendo Classic Mini: Super Famicom 任天堂經典迷你：超級任天堂",
+        "rating": "",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "種類:": "主機",
+        "影音端子:": "HDMI",
+        "連接介面:": "HDMI"
+    },
+    {
+        "names": "SEGA Game Gear Micro 超迷你手提遊戲機",
+        "rating": "",
+        "water_price_min": "458",
+        "water_price_max": "480",
+        "種類:": "超迷你手提遊戲機",
+        "連接介面:": "micro USB"
+    },
+    {
+        "names": "SNK NEOGEO MVS X HOME ARCADE (美版) Model No. 1171",
+        "rating": "",
+        "water_price_min": "4,200",
+        "water_price_max": "4,200",
+        "種類:": "Game",
+        "影音端子:": "配備喇叭"
+    },
+    {
+        "names": "Sony PlayStation Classic (SCPH-1000RH)",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "種類:": "主機",
+        "連接介面:": "HDMI"
+    },
+    {
+        "names": "Nintendo Classic Mini Family Computer",
+        "rating": "10",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "種類:": "主機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "Taito Egret II mini Console + Paddle & Trackball Pack (套裝)",
+        "rating": "",
+        "water_price_min": "2,180",
+        "water_price_max": "2,180",
+        "家用/手提:": "家用/手提",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "SEGA 人中之龍5",
+        "rating": "9.3",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Atari 經典遊戲主機 - Flashback 7 (內置101款Games) - 歐版",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "種類:": "主機",
+        "家用/手提:": "家用"
+    },
+    {
+        "names": "FALCOM PS3 英雄傳說 閃之軌跡 II 中文版",
+        "rating": "8.0",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Nintendo NES Classic Edition",
+        "rating": "",
+        "water_price_min": "3,980",
+        "water_price_max": "3,980",
+        "種類:": "主機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "Columbus Circle 16 Bit Pocket HDMI 超任手提遊戲機 (日本CYBER) (CC-16PHD-GR)",
+        "rating": "4.0",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "家用/手提:": "家用/手提",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "Activision PS3 決勝時刻：黑色行動 3 Call of Duty: Black Ops III   中,英文",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Square Enix PS3 勇者鬥惡龍 創世小玩家 阿雷夫加爾德復興記 日文版",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Bandai Namco PS3 鋼彈破壞者 Gundam Breaker 日版日文",
+        "rating": "",
+        "water_price_min": "109",
+        "water_price_max": "109",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Square Enix PS3 勇者鬥惡龍 英雄集結 闇龍與世界樹之城 Dragon Quest Heroes  日文版",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "505 Games PS3  狙擊之神 3 Sniper Elite 3   英文版",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Retro Arcade Game Box Console mini Games 3000+ 街頭遊戲機",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "498"
+    },
+    {
+        "names": "Orb Gaming 復古遊戲 1.8 吋 LCD 彩色屏幕",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "EA PS3 BATTLEFIELD 4 英文版",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "48",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "The C64 Mini",
+        "rating": "",
+        "water_price_min": "528",
+        "water_price_max": "528",
+        "連接介面:": "HDMI"
+    },
+    {
+        "names": "Activision XBOX360 決勝時刻：黑色行動 3 Call of Duty: Black Ops III  中,英文版",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Waveshare Game HAT for Raspberry Pi 遊戲盒子",
+        "rating": "",
+        "hon_price_min": "385",
+        "hon_price_max": "385"
+    },
+    {
+        "names": "SNK NeoGeoX Gold Limited Edition",
+        "rating": "8.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "種類:": "主機",
+        "家用/手提:": "家用"
+    },
+    {
+        "names": "SNK NEOGEO MINI 國際版 Model No. FM1l1x1800",
+        "rating": "",
+        "water_price_min": "480",
+        "water_price_max": "480",
+        "種類:": "Game",
+        "連接介面:": "TV , Monitor"
+    },
+    {
+        "names": "Nintendo New 2DS LL 藍色 日版主機",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "AtGames Sega Mega Drive Flashback HD",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "HDMI"
+    },
+    {
+        "names": "Google Stadia Founder's Edition",
+        "rating": "10"
+    },
+    {
+        "names": "Pandora's 潘多拉盒X 3D",
+        "rating": "10",
+        "種類:": "街機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "SEGA Mega Drive Mini 主機",
+        "rating": "",
+        "家用/手提:": "家用",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "Nintendo Miniature Super Nintendo Entertainment System",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "種類:": "主機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "Orb Gaming Mini Arcade Machine 迷你復古街機遊戲機",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "348"
+    },
+    {
+        "names": "SNK NEOGEO mini",
+        "rating": "7.0",
+        "hon_price_min": "620",
+        "hon_price_max": "620",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "種類:": "迷你街機",
+        "影音端子:": "HDMI, 3.5mm",
+        "連接介面:": "HDMI"
+    },
+    {
+        "names": "Nintendo New 2DS LL 綠黑色 日版主機",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "MAGES. 魅影破壞者:Extra  Phantom Breaker Extra PS3 JP",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "219",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Warner Bros. PS3 Lego：Marvel Super Heros 英文版",
+        "rating": "10",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Dell Alienware Steam Machine",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo NEW 2DS LL 迷路金屬史萊姆版",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Square Enix PS3 王國之心 HD 2.5 ReMIX  kingdom hearts -HD 2.5 ReMIX- 日文版",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Bandai Namco PS3 時空幻境 熱情傳奇Tales of Zestiria",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Cyber Gadget Retro Freak 14合1 高清遊戲機",
+        "rating": "",
+        "water_price_min": "1,150",
+        "water_price_max": "1,150",
+        "種類:": "主機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "SEGA Mega Drive 經典遊戲主機 (內置80款Games) - 歐版",
+        "rating": "",
+        "種類:": "主機",
+        "家用/手提:": "家用"
+    },
+    {
+        "names": "Bandai Namco Mobile Suit Gundam: Extreme VS",
+        "rating": "9.6",
+        "water_price_min": "449",
+        "water_price_max": "449",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Nvidia SHIELD",
+        "rating": "9.4",
+        "種類:": "主機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "SNK NeoGeo Mini 迷你懷舊主機 (X'Mas Edition)",
+        "rating": "",
+        "種類:": "主機",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "Retro Arcade 經典迷你街機 360 in 1",
+        "rating": "",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "Nintendo 2DS POKEMON冰藍色限定主機",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Archos GamePad 2 8GB/16GB",
+        "rating": "10",
+        "種類:": "主機",
+        "影音端子:": "Rockchip RK3066",
+        "連接介面:": "microSD, microSDHC, TransFlash, microSDXC ,USB 2.0 host/client, 480Mbit/s, OTG 1.3 micro-USB,Bluetooth,Wi-Fi,3.5mm"
+    },
+    {
+        "names": "Capcom Xbox 360 Resident Evil 5",
+        "rating": "8.0",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Nintendo 2DS The Legend of Zelda",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "SEGA Astro City Mini",
+        "rating": "",
+        "影音端子:": "HDMI"
+    },
+    {
+        "names": "Casio CG-400 The Beam War 遊戲機",
+        "rating": "",
+        "種類:": "遊戲機"
+    },
+    {
+        "names": "Casio CG-390 Border Army 遊戲機",
+        "rating": ""
+    },
+    {
+        "names": "CoolBaby 迷你復古懷舊遊戲機",
+        "rating": "",
+        "種類:": "充電遊戲機",
+        "影音端子:": "AV",
+        "連接介面:": "AV線"
+    },
+    {
+        "names": "CoolBaby 8 Bit 2.5\" LCD Li-ion 懷舊迷你遊戲掌機 RS-6",
+        "rating": "",
+        "種類:": "迷你充電式遊戲機",
+        "影音端子:": "AV",
+        "連接介面:": "AV 線"
+    },
+    {
+        "names": "CAPCOM Resident Evil 6",
+        "rating": "8.0",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "OUYA Game Console",
+        "rating": "",
+        "種類:": "主機",
+        "影音端子:": "HDMI",
+        "連接介面:": "USB / LAN"
+    },
+    {
+        "names": "EA PS3 FIFA 17 英文版",
+        "rating": "",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "Nintendo 2DS LL 精靈球限定日版主機",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "SEGA Genesis Mini 主機",
+        "rating": "",
+        "家用/手提:": "家用",
+        "連接介面:": "USB"
+    },
+    {
+        "names": "Nintendo DSiLL x Love Plus",
+        "rating": "10",
+        "種類:": "主機",
+        "影音端子:": "Headset connector",
+        "連接介面:": "Wi-Fi"
+    },
+    {
+        "names": "KOEI PS3 戰國無雙 ～真田丸～ 日文版",
+        "rating": "",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "SEGA Genesis 經典終極手提遊戲機 (內置80款Games) - 歐版",
+        "rating": "",
+        "種類:": "主機",
+        "家用/手提:": "手提"
+    },
+    {
+        "names": "Supreme 7.1 吋屏 Galloping Ghost x supreme 單人",
+        "rating": "10"
+    },
+    {
+        "names": "Nintendo New 2DS LL 橘色 日版主機",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Nintendo New 2DS LL 紫色 日版主機",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "WiFi"
+    },
+    {
+        "names": "Cyber Gadget Retro Freak 12合1 全懷舊復古遊戲主機遊戲機",
+        "rating": "",
+        "種類:": "主機",
+        "連接介面:": "HDMI"
+    },
+    {
+        "names": "GungHo PS3 Ragnarok Odyssey ACE 仙境傳說 奧德賽 ACE",
+        "rating": "",
+        "種類:": "遊戲"
+    },
+    {
+        "names": "SEGA 頭文字 D Extreme Stage",
+        "rating": "8.0"
+    },
+    {
+        "names": "KONAMI Metal Gear Rising: Revengeance",
+        "rating": "10",
+        "種類:": "遊戲"
+    }
+]

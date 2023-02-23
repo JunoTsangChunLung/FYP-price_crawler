@@ -1,0 +1,3218 @@
+[
+    {
+        "names": "XP-Pen Artist 10 Gen2 繪圖板",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10及以上版本",
+        "尺寸:": "299 x 173.3 x 12.9mm"
+    },
+    {
+        "names": "Wacom Intuos S (CTL-4100)",
+        "rating": "9.3",
+        "hon_price_min": "620",
+        "hon_price_max": "698",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "類型:": "繪圖板",
+        "壓感級別:": "4096級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "200 x 160 x 8.8mm"
+    },
+    {
+        "names": "Wacom Intuos Pro S 專業數位繪圖板 PTH-460",
+        "rating": "10",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,080",
+        "類型:": "繪圖板",
+        "系統需求:": "windows、mac",
+        "尺寸:": "269 x 170 x 8mm"
+    },
+    {
+        "names": "Wacom Intuos Pro M",
+        "rating": "10",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,550",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Penpower 無線小蒙恬",
+        "rating": "6.0",
+        "hon_price_min": "370",
+        "hon_price_max": "499",
+        "water_price_min": "360",
+        "water_price_max": "360",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Penpower 晶鑽小蒙恬",
+        "rating": "8.6",
+        "hon_price_min": "160",
+        "hon_price_max": "219",
+        "water_price_min": "150",
+        "water_price_max": "160",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 7 / Vista / XP",
+        "尺寸:": "10.8 x 9 x 2.1 cm"
+    },
+    {
+        "names": "Wacom Intuos S with Bluetooth 藍牙版繪圖板 CTL-4100WL",
+        "rating": "",
+        "hon_price_min": "795",
+        "hon_price_max": "868",
+        "類型:": "繪圖板",
+        "壓感級別:": "4096級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "200 x 160 x 8.8mm"
+    },
+    {
+        "names": "Huion Kamvas Pro 16 Plus (4K) 專業數位繪圖顯示器",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,800",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android（USB 3.1 DP1.2）",
+        "尺寸:": "402.7 x 257.4 x 13mm"
+    },
+    {
+        "names": "Wacom One Creative Pen Display 入門級繪圖顯示屏 DTC-133W",
+        "rating": "8.4",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,199",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows, Mac",
+        "尺寸:": "225 x 357 x 14.6mm"
+    },
+    {
+        "names": "Wacom Intuos M with Bluetooth 藍牙版繪圖板 CTL-6100WL",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,665",
+        "類型:": "繪圖板",
+        "壓感級別:": "4096級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "264 x 200 x 8.8mm"
+    },
+    {
+        "names": "Wacom Bamboo One 繪圖板 (中型款) CTL-672/K0-f",
+        "rating": "10",
+        "hon_price_min": "620",
+        "hon_price_max": "650",
+        "water_price_min": "565",
+        "water_price_max": "620",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Window / MAC",
+        "尺寸:": "277 x 189 x 8.7mm"
+    },
+    {
+        "names": "Wacom Cintiq 27QHD",
+        "rating": "",
+        "hon_price_min": "19,780",
+        "hon_price_max": "19,820",
+        "類型:": "繪圖板",
+        "尺寸:": "770 x 465 x 54.5 公釐"
+    },
+    {
+        "names": "XP-Pen Artist 12 Gen2 繪圖板",
+        "rating": "10",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,680",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10及以上版本",
+        "尺寸:": "346.2 x 209 x 12mm"
+    },
+    {
+        "names": "Penpower EZ Go Pro 小蒙恬",
+        "rating": "10",
+        "hon_price_min": "375",
+        "hon_price_max": "499",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 10 / 8 / 7 / Vista / XP / Mac"
+    },
+    {
+        "names": "Wacom Cintiq Pro 27 屏幕繪圖板 DTH271",
+        "rating": "",
+        "hon_price_min": "26,900",
+        "hon_price_max": "26,990",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "PC：Windows 10或更高版本 (最新服務包/版本) / Mac：macOS 10.15或更高版本 (最新更新)",
+        "尺寸:": "379 x 638 x 31mm"
+    },
+    {
+        "names": "Wacom Intuos S with Bluetooth 藍牙版繪圖板 CTL-4100WL",
+        "rating": "",
+        "hon_price_min": "795",
+        "hon_price_max": "868",
+        "類型:": "繪圖板",
+        "壓感級別:": "4096級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "200 x 160 x 8.8mm"
+    },
+    {
+        "names": "Huion Kamvas Pro 16 (4K) 專業數位繪圖顯示器",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "6,999",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later, Android (USB3.1 DP1.2)",
+        "尺寸:": "402.7 x 257.4 x 13mm"
+    },
+    {
+        "names": "Wacom 15.6吋商業用手寫液晶顯示器 DTK-1660E",
+        "rating": "",
+        "hon_price_min": "4,969",
+        "hon_price_max": "5,230",
+        "類型:": "手寫板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10 / 8.1 / 7 (32-bit, 64-bit) , Mac OSX 10.11 or later",
+        "尺寸:": "422 x 285 x 24.5mm"
+    },
+    {
+        "names": "Wacom Cintiq Pro 32吋手寫液晶顯示器 DTH-3220",
+        "rating": "",
+        "hon_price_min": "22,900",
+        "hon_price_max": "27,800",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac",
+        "尺寸:": "854 x 506 x 53.25mm"
+    },
+    {
+        "names": "XP-Pen Deco M X3 繪圖板",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "730",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10, CHROME OS及以上版本",
+        "尺寸:": "315 x 187 x 8.8mm"
+    },
+    {
+        "names": "Huion KAMVAS RDS-22 2K 繪圖板",
+        "rating": "",
+        "hon_price_min": "6,280",
+        "hon_price_max": "6,290",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android (USB 3.1 DP1.2)",
+        "尺寸:": "546 x 323 x 19-26.7mm"
+    },
+    {
+        "names": "Penpower 晶鑽小蒙恬",
+        "rating": "8.6",
+        "hon_price_min": "160",
+        "hon_price_max": "219",
+        "water_price_min": "150",
+        "water_price_max": "160",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 7 / Vista / XP",
+        "尺寸:": "10.8 x 9 x 2.1 cm"
+    },
+    {
+        "names": "Wacom Intuos Pro M",
+        "rating": "10",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,550",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "XP-Pen Artist Pro 16 專業數位繪圖顯示器",
+        "rating": "10",
+        "hon_price_min": "4,970",
+        "hon_price_max": "4,980",
+        "類型:": "繪圖板/手寫板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/10, Mac OS X 10.10 (or later), Chrome OS 88 (or later), Linux",
+        "尺寸:": "443.27 x 256.45 x 9mm"
+    },
+    {
+        "names": "Huion A3 拷貝台",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "720",
+        "類型:": "拷貝台",
+        "尺寸:": "479 x 360 x 8mm"
+    },
+    {
+        "names": "XP-Pen Artist 22 Gen2 繪圖板",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "5,380",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7, Mac OS X 10.10 及以上版本",
+        "尺寸:": "538 x 332 x 25.8mm"
+    },
+    {
+        "names": "XP-Pen Artist 16 Gen2 繪圖板",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,080",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10及以上版本",
+        "尺寸:": "436.2 x 247.3 x 12mm"
+    },
+    {
+        "names": "Wacom Bamboo One 繪圖板 (中型款) CTL-672/K0-f",
+        "rating": "10",
+        "hon_price_min": "620",
+        "hon_price_max": "650",
+        "water_price_min": "565",
+        "water_price_max": "620",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Window / MAC",
+        "尺寸:": "277 x 189 x 8.7mm"
+    },
+    {
+        "names": "Huion Inspiroy RTP-700",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "860",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later, Android 6.0 or later",
+        "尺寸:": "345.6 x 214.8 x 8.5mm"
+    },
+    {
+        "names": "XP-Pen Artist 13 Gen2 繪圖板",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,180",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10及以上版本",
+        "尺寸:": "373.5 x 229.1 x 12mm"
+    },
+    {
+        "names": "Wacom Intuos M with Bluetooth 藍牙版繪圖板 CTL-6100WL",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,665",
+        "類型:": "繪圖板",
+        "壓感級別:": "4096級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "264 x 200 x 8.8mm"
+    },
+    {
+        "names": "Penpower Max小蒙恬",
+        "rating": "7.2",
+        "hon_price_min": "260",
+        "hon_price_max": "389",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 10/Windows 8 / Windows 7 / Vista / XP",
+        "尺寸:": "136x 125 x 16.7mm"
+    },
+    {
+        "names": "Wacom Cintiq Pro 16 (2021) 創作手寫液晶顯示器 DTH167",
+        "rating": "",
+        "hon_price_min": "11,870",
+        "hon_price_max": "13,525",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "PC：Windows 7或更高版本（最新服務包/版本）/ Mac：macOS 10.14或更高版本（最新更新）",
+        "尺寸:": "410 x 266 x 22mm"
+    },
+    {
+        "names": "XP-Pen Artist Display 22R Pro 繪圖板",
+        "rating": "10",
+        "hon_price_min": "4,780",
+        "hon_price_max": "5,380",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7, Mac OS X 10.10 及以上版本",
+        "尺寸:": "570 x 334.8 x 44.8mm"
+    },
+    {
+        "names": "Wacom Cintiq Pro 13 DTH-1320/K2-C",
+        "rating": "",
+        "hon_price_min": "6,295",
+        "hon_price_max": "8,880",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Huion Kamvas Pro 24 4K 專業數位繪圖顯示器",
+        "rating": "10",
+        "hon_price_min": "10,800",
+        "hon_price_max": "10,830",
+        "類型:": "繪圖板/手寫板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android（USB 3.1 DP1.2）",
+        "尺寸:": "589.2 x 364 x 22.7mm"
+    },
+    {
+        "names": "XP-Pen Innovator Display 16 繪圖板",
+        "rating": "10",
+        "hon_price_min": "4,500",
+        "hon_price_max": "4,980",
+        "類型:": "繪圖板/手寫板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10  and higher,Chrome OS.",
+        "尺寸:": "443.27 x 256.45 x 9mm"
+    },
+    {
+        "names": "Huion Inspiroy H1161 繪圖板",
+        "rating": "9.0",
+        "hon_price_min": "860",
+        "hon_price_max": "860",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later, Android 6.0 or later",
+        "尺寸:": "372.5 x 221.4 x 8mm"
+    },
+    {
+        "names": "XP-Pen Deco Pro MW Bluetooth",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,480",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級 斜度感應級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android",
+        "尺寸:": "339.7 x 227 x 16.5mm"
+    },
+    {
+        "names": "XP-Pen Artist PRO 16TP 4K Touch 繪圖板",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,800",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or later , Android (USB 3.1 DP1.2)",
+        "尺寸:": "406.4 x 263.1 x 15.4mm"
+    },
+    {
+        "names": "Huion KAMVAS PRO 20",
+        "rating": "10",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,980",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.12 or later",
+        "尺寸:": "589 x 344 x 21mm"
+    },
+    {
+        "names": "Huion Inspiroy H1060P 手繪板",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "880",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7或以上, macOS 10.12或以上",
+        "尺寸:": "360 x 240 x 10mm"
+    },
+    {
+        "names": "XP-Pen Deco Mini4 便攜迷你繪圖版",
+        "rating": "10",
+        "hon_price_min": "360",
+        "hon_price_max": "380",
+        "類型:": "繪圖版",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7,Mac OS X 10.10 (或更高) Android 6.0 (或更高).",
+        "尺寸:": "178.2 x 125 x 8mm"
+    },
+    {
+        "names": "XP-Pen Artist 13.3 PRO 數位屏",
+        "rating": "10",
+        "hon_price_min": "2,730",
+        "hon_price_max": "3,180",
+        "類型:": "繪圖板/手寫板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10 and higher, Chrome OS",
+        "尺寸:": "390.4 x 249.98 x 12.9mm"
+    },
+    {
+        "names": "Wacom Intuos Pro Paper Edition L PTH-860/K1-F",
+        "rating": "",
+        "hon_price_min": "4,230",
+        "hon_price_max": "4,600",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Wacom Cintiq 22 手寫液晶顯示器 DTK-2260",
+        "rating": "6.0",
+        "hon_price_min": "8,480",
+        "hon_price_max": "10,480",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows & Mac",
+        "尺寸:": "570 x 359 x 40mm"
+    },
+    {
+        "names": "Wacom MobileStudio Pro 16 (512GB)",
+        "rating": "10",
+        "hon_price_min": "18,790",
+        "hon_price_max": "25,190",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Huion Kamvas Pro 13",
+        "rating": "10",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,299",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.12 or later",
+        "尺寸:": "388 x 219 x 11mm"
+    },
+    {
+        "names": "Huion Kamvas 16 (2021) 專業數位繪圖顯示器",
+        "rating": "10",
+        "hon_price_min": "3,750",
+        "hon_price_max": "3,800",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, MacOS 10.12 or late, Android (USB 3.1 DP1.2)",
+        "尺寸:": "423.52 x 253 x 12mm"
+    },
+    {
+        "names": "Wacom Bamboo Folio, large (CDS810G)",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "1,300",
+        "類型:": "手寫板",
+        "系統需求:": "Android, Apple, Windows",
+        "尺寸:": "338 x 268 x 19mm"
+    },
+    {
+        "names": "Huion Inspiroy RTE-100 OSU 繪圖板",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later, Android 6.0 or later",
+        "尺寸:": "185.7 x 138.2 x 6.3mm"
+    },
+    {
+        "names": "Huion Kamvas 24 Plus 2K 專業色彩繪圖顯示器",
+        "rating": "",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,900",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android（USB 3.1 DP1.2）",
+        "尺寸:": "546 x 323 x 19-26.7mm (Without Stand)"
+    },
+    {
+        "names": "Wacom CintiQ 13HD (DTK-1301/K0-F)",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,800",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows,Mac",
+        "尺寸:": "375 x 248 x 14mm"
+    },
+    {
+        "names": "XP-Pen Deco LW X3 繪圖板",
+        "rating": "10",
+        "hon_price_min": "860",
+        "hon_price_max": "1,080",
+        "類型:": "繪圖板",
+        "讀取速度:": "266pps",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10, CHROME OS及以上版本"
+    },
+    {
+        "names": "Huion GT-220 v2",
+        "rating": "",
+        "hon_price_min": "5,988",
+        "hon_price_max": "6,990",
+        "類型:": "繪圖板",
+        "讀取速度:": "233pps",
+        "壓感級別:": "8192級",
+        "系統需求:": "Win 10/Windows 8/Win7/Mac OS 10.11 or above"
+    },
+    {
+        "names": "Wacom Bamboo Folio A5",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,188",
+        "類型:": "智慧型記事本",
+        "系統需求:": "Android、Apple, Windows",
+        "尺寸:": "338 x 268 x 19mm"
+    },
+    {
+        "names": "Huion KAMVAS RDS-16 2022 繪圖板",
+        "rating": "10",
+        "hon_price_min": "3,480",
+        "hon_price_max": "4,380",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android（USB 3.1 DP1.2）",
+        "尺寸:": "423.5 x 253 x 12mm"
+    },
+    {
+        "names": "Huion Kamvas 13 Green 繪圖版",
+        "rating": "8.5",
+        "hon_price_min": "2,380",
+        "hon_price_max": "3,180",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.12 or late",
+        "尺寸:": "366.5 x 217.4 x 11mm（Without Stand）"
+    },
+    {
+        "names": "XP-Pen Deco MW X3 繪圖板",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "880",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 (32/64bit), Mac OS X 10.10, CHROME OS及以上版本",
+        "尺寸:": "259.8 x 157.8 x 8.8mm"
+    },
+    {
+        "names": "Veikk 15.6吋全高清92%NTSC繪圖板 (可調節支架) VK1560PRO",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,690",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later; Mac 10.12 or later; Android 6.0 or later; Linux(Ubuntu/elementary OS/Pop!OS/ezgo/debian/mint/mageia/centOS/Arch)",
+        "尺寸:": "424.2 x 262 x 16.5mm"
+    },
+    {
+        "names": "Huion KAMVAS RDS-220 2K 繪圖板",
+        "rating": "",
+        "hon_price_min": "6,280",
+        "hon_price_max": "6,480",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android (USB 3.1 DP1.2)",
+        "尺寸:": "546 x 323 x 19-26.7mm (Without Stand)"
+    },
+    {
+        "names": "Penpower 蒙恬電紙筆 (Win/Mac)",
+        "rating": "10",
+        "hon_price_min": "420",
+        "hon_price_max": "499",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "XP-Pen Deco Pro SW Bluetooth 繪圖板",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,150",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Android, Windows 10/8/7 (32/64bit), Mac OS X 10.10及以上版本",
+        "尺寸:": "350.8 x 199.5 x 16.5mm"
+    },
+    {
+        "names": "XP-Pen AC19 Shortcut Remote",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "480",
+        "類型:": "Remote"
+    },
+    {
+        "names": "Wacom Intuos Draw Pen Medium (CTL-690)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "930",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "USB 連接埠 , 網際網路連線 , CD/DVD-ROM 光碟機 , Windows 7、8 或 10 , Mac OS X 10.8.5 或更新版本",
+        "尺寸:": "工作區尺寸 : 216 x 135 mm (8.5 x 5.3 \")"
+    },
+    {
+        "names": "Wacom Cintiq Pro 16 DTH-1620/K2-C",
+        "rating": "",
+        "hon_price_min": "13,500",
+        "hon_price_max": "13,525",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Wacom Bamboo Folio, small (CDS610G)",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "1,080",
+        "類型:": "手寫板",
+        "系統需求:": "Android, Apple, Windows",
+        "尺寸:": "257 x 200 x 19mm"
+    },
+    {
+        "names": "myFirst Sketch Pro 10\" 素描畫板 FS1011SA",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Wacom ACK22207 Ballpoint BP 1.0 Refill",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類型:": "筆芯"
+    },
+    {
+        "names": "myFirst Sketch Book 10\" LCD 繪畫板 FS1021SA",
+        "rating": "",
+        "hon_price_min": "768",
+        "hon_price_max": "798",
+        "類型:": "繪圖板",
+        "尺寸:": "256 x 160.5 x 11.7mm"
+    },
+    {
+        "names": "Huion 繪圖板 HS611",
+        "rating": "10",
+        "hon_price_min": "740",
+        "hon_price_max": "830",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later, Android 6.0 or later",
+        "尺寸:": "333.4 x 218.4 x 7.3mm"
+    },
+    {
+        "names": "Wacom Bamboo One",
+        "rating": "9.3",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "6.0\" x 3.7\""
+    },
+    {
+        "names": "Wacom Intuos Comic (M)(CTH-690)",
+        "rating": "",
+        "hon_price_min": "888",
+        "hon_price_max": "1,530",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 7,8或10/Mac OS X 10.8.5 或更新版本"
+    },
+    {
+        "names": "Penpower 遠距通隨寫板",
+        "rating": "",
+        "hon_price_min": "539",
+        "hon_price_max": "550",
+        "類型:": "手寫板",
+        "讀取速度:": "200pps",
+        "壓感級別:": "8192級",
+        "尺寸:": "309 x 237 x 9mm"
+    },
+    {
+        "names": "XP-Pen Deco Fun L 繪圖板",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "730",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/10，Mac OS X10.10 及以上版本，Android 6.0、Chrome OS 88及以上版本，Linux",
+        "尺寸:": "315 x 222.9 x 12.5mm"
+    },
+    {
+        "names": "Wacom Bamboo Fineline 3",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom CintiQ 22HD",
+        "rating": "",
+        "hon_price_min": "16,790",
+        "hon_price_max": "18,300",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows 7 / Vista / XP / Mac OS X 10.5 或以後",
+        "尺寸:": "25.6\" 闊 x 15.7\" 高 x 2.2\" 深 (650 x 400 x 55 毫米)"
+    },
+    {
+        "names": "Huion Inspiroy HS64 繪圖板",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "430",
+        "類型:": "繪圖板",
+        "讀取速度:": "266pps",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.12 or later"
+    },
+    {
+        "names": "Boogie Board Blackboard",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "499",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "類型:": "手寫板",
+        "板面尺寸:": "8.5 x 11\""
+    },
+    {
+        "names": "Wacom Intuos pro Pen & Touch Medium",
+        "rating": "",
+        "hon_price_min": "2,370",
+        "hon_price_max": "2,370",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "8.8 x 5.5 in"
+    },
+    {
+        "names": "Wacom Bamboo Tip",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "388",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom MobileStudio Pro 13 (128GB)",
+        "rating": "",
+        "hon_price_min": "7,345",
+        "hon_price_max": "14,690",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "獨立Windows 10操作系統 可通過Wacom Link連接Windows, Mac",
+        "尺寸:": "367 x 229 x 16mm"
+    },
+    {
+        "names": "Huion Inspiroy Q630M 繪圖板",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,580",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later, Android 6.0 or later",
+        "尺寸:": "356.6 x 207 x 8mm"
+    },
+    {
+        "names": "Wacom Intuos ART (S) (CTH-490)",
+        "rating": "8.0",
+        "hon_price_min": "480",
+        "hon_price_max": "775",
+        "類型:": "繪圖板",
+        "讀取速度:": "133pps",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 7,8或10/Mac OS X 10.8.5 或更新版本"
+    },
+    {
+        "names": "UGEE Graphics Drawing Tablet 手繪板 S640",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "680",
+        "類型:": "繪圖板",
+        "讀取速度:": "220pps",
+        "壓感級別:": "8192級",
+        "尺寸:": "215.3 x 162.53 x 12.06mm"
+    },
+    {
+        "names": "XP-Pen Deco Mini 7 W (Wireless)",
+        "rating": "10",
+        "hon_price_min": "550",
+        "hon_price_max": "690",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7,Mac OS X 10.10 (或更高) Android 6.0 (或更高)",
+        "尺寸:": "260.2 x 162.2 x 9.3mm"
+    },
+    {
+        "names": "Huion Inspiroy Giano G930L A4 繪圖板",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,880",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later, Android 6.0 or later",
+        "尺寸:": "429 x 260.9 x 9mm"
+    },
+    {
+        "names": "Xiaomi 小米 小米米家液晶小黑板 13.5吋",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "120",
+        "water_price_min": "139",
+        "water_price_max": "150",
+        "類型:": "手寫板",
+        "尺寸:": "318 x 225 x 7mm"
+    },
+    {
+        "names": "Wacom CintiQ 21UX",
+        "rating": "",
+        "hon_price_min": "19,499",
+        "hon_price_max": "19,499",
+        "類型:": "繪圖板",
+        "系統需求:": "PC：Windows 7、Vista 、XP （32 or 64 bit）。  Macintosh：OS X v10.4 或以上",
+        "尺寸:": "329 x 299 x 165 毫米"
+    },
+    {
+        "names": "XP-Pen Deco 03 數位板",
+        "rating": "10",
+        "hon_price_min": "830",
+        "hon_price_max": "889",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.10 or late"
+    },
+    {
+        "names": "BOSTO 16HD 液晶顯示器繪圖板",
+        "rating": "10",
+        "hon_price_min": "1,910",
+        "hon_price_max": "1,980",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac",
+        "尺寸:": "450 x 251 x 190mm"
+    },
+    {
+        "names": "BOSTO 16HDK 液晶顯示器繪圖板 (快捷按鍵版本)",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,480",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Mac / Window",
+        "尺寸:": "450 x 251 x 190mm"
+    },
+    {
+        "names": "Huion Kamvas Pro 24 2K 專業數位繪圖顯示器",
+        "rating": "10",
+        "hon_price_min": "7,200",
+        "hon_price_max": "7,650",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late",
+        "尺寸:": "659 x 391 x 25mm"
+    },
+    {
+        "names": "Boogie Board SCRIBBLE N' PLAY",
+        "rating": "",
+        "hon_price_min": "408",
+        "hon_price_max": "408",
+        "water_price_min": "370",
+        "water_price_max": "370",
+        "類型:": "繪圖板",
+        "板面尺寸:": "8.5"
+    },
+    {
+        "names": "UGEE Graphics Drawing Tablet 手繪板 S1060",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "780",
+        "類型:": "繪圖板",
+        "讀取速度:": "220pps",
+        "壓感級別:": "8192級",
+        "尺寸:": "320.71 x 225.73 x 12.1mm"
+    },
+    {
+        "names": "Huion INSPIROY Q11K V2",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,100",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.11 or later",
+        "尺寸:": "390 x 223 x 11mm"
+    },
+    {
+        "names": "Huion Kamvas Pro 16 Premium 繪圖屏",
+        "rating": "10",
+        "hon_price_min": "4,560",
+        "hon_price_max": "4,580",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or later",
+        "尺寸:": "437.8 x 251.2 x 11.5mm"
+    },
+    {
+        "names": "Wacom Cintiq Companion 2 Premium (256GB)",
+        "rating": "",
+        "hon_price_min": "16,760",
+        "hon_price_max": "16,950",
+        "類型:": "繪圖板",
+        "尺寸:": "374 x 248 x 15 公釐"
+    },
+    {
+        "names": "Wacom Bamboo Slate, large CDS810S",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "930",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Xencelabs 數位繪圖板產品組",
+        "rating": "10",
+        "hon_price_min": "2,098",
+        "hon_price_max": "2,190",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Huion KAMVAS GT-221 Pro",
+        "rating": "",
+        "hon_price_min": "7,530",
+        "hon_price_max": "7,600",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, Mac OS X10.11 or later"
+    },
+    {
+        "names": "Huion Inspiroy Ink H320M 雙面設計繪圖板",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7或以上, macOS 10.12或以上, Android 6.0或以上",
+        "尺寸:": "305.4 x 179.6 x 9mm"
+    },
+    {
+        "names": "Huion KAMVAS PRO 16 專業繪圖板",
+        "rating": "",
+        "hon_price_min": "3,960",
+        "hon_price_max": "3,979",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.12 or later",
+        "尺寸:": "388 x 219 x 11mm"
+    },
+    {
+        "names": "XP-Pen Artist 15.6 數位屏",
+        "rating": "10",
+        "hon_price_min": "2,660",
+        "hon_price_max": "2,680",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.10 or late"
+    },
+    {
+        "names": "XP-Pen Deco Mini7 便攜迷你繪圖版",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "490",
+        "類型:": "繪圖版",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7,Mac OS X 10.10 (或更高) Android 6.0 (或更高).",
+        "尺寸:": "260.2 x 162.2 x 9.3mm"
+    },
+    {
+        "names": "Penpower 遠距通 可視隨寫板",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "660",
+        "類型:": "手寫板",
+        "壓感級別:": "8192級",
+        "尺寸:": "273.5 x 176.6 x 8mm"
+    },
+    {
+        "names": "XP-Pen Star G960S 數位板",
+        "rating": "10",
+        "hon_price_min": "448",
+        "hon_price_max": "580",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/10, Mac OS X 10.10 and higher, Android 6.0 and above"
+    },
+    {
+        "names": "Adonit Pixel",
+        "rating": "",
+        "hon_price_min": "658",
+        "hon_price_max": "658",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Huion INSPIROY 1060Plus",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "890",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, Mac OS X10.11 or later",
+        "尺寸:": "360 x 240 x 10mm"
+    },
+    {
+        "names": "Boogie Board Original 10.5 eWriter",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "489",
+        "類型:": "繪圖板",
+        "尺寸:": "10.5inch"
+    },
+    {
+        "names": "Huion Inspiroy H610X 繪圖板",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "790",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later Android 6.0 or later",
+        "尺寸:": "324.5 x 205.6 x 8mm"
+    },
+    {
+        "names": "Xiaomi 小米 小米米家液晶小黑板 10吋",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "69",
+        "water_price_min": "79",
+        "water_price_max": "98",
+        "類型:": "手寫板",
+        "尺寸:": "244 x 173 x 6mm"
+    },
+    {
+        "names": "Wacom Intuos Pro Paper Edition M PTH-660/K1-F",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,550",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "UGEE Graphics Drawing Tablet 手繪板 M708",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "893",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 Mac Os",
+        "尺寸:": "259 x 210 x 8mm"
+    },
+    {
+        "names": "Veikk 10 x 6吋 8192 級壓力及斜度感應繪圖板 VK1060",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "790",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later; Mac 10.12 or later; Android 6.0 or later; Linux(Ubuntu/elementary OS/Pop!OS/ezgo/debian/mint/mageia/centOS/Arch)",
+        "尺寸:": "340 x 213 x 9mm"
+    },
+    {
+        "names": "Huion Inspiroy HS610",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "849",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.12 or later,Android 6.0 or later",
+        "尺寸:": "350 x 211.8 x 8mm"
+    },
+    {
+        "names": "Artisul D13",
+        "rating": "10",
+        "hon_price_min": "4,499",
+        "hon_price_max": "4,499",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Windows 8.1 / 8 / 7 (32/64bit);  Mac: OS X 10.8 or later",
+        "尺寸:": "389 x 250.7 x 14mm"
+    },
+    {
+        "names": "Wacom Intuos Pro L",
+        "rating": "4.0",
+        "hon_price_min": "3,720",
+        "hon_price_max": "4,180",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Adonit Switch",
+        "rating": "",
+        "hon_price_min": "355",
+        "hon_price_max": "355",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Veikk 10 x 6吋雙轉盤斜度感應繪圖板 VK1060PRO",
+        "rating": "10",
+        "hon_price_min": "520",
+        "hon_price_max": "890",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later; Mac 10.12 or later; Android 6.0 or later; Linux(Ubuntu/elementary OS/Pop!OS/ezgo/debian/mint/mageia/centOS/Arch)",
+        "尺寸:": "340 x 213 x 9mm"
+    },
+    {
+        "names": "XP-Pen Note Plus 智慧手寫本",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "880",
+        "類型:": "手寫板",
+        "系統需求:": "Android / ios"
+    },
+    {
+        "names": "Wacom CINTIQ 13HD",
+        "rating": "10",
+        "hon_price_min": "7,680",
+        "hon_price_max": "8,400",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows(R) 8、7（32/64 位元）、Vista SP1、XP SP2  Mac：OS X v10.6.8 以上版本（Intel 處理器）",
+        "尺寸:": "375 x 248 x 14 公釐（14.75 x 9.75 x 0.5 吋）"
+    },
+    {
+        "names": "XP-Pen Artist 15.6 PRO 數位屏",
+        "rating": "10",
+        "hon_price_min": "3,690",
+        "hon_price_max": "3,790",
+        "類型:": "繪圖板",
+        "讀取速度:": "233pps",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.10 or Late"
+    },
+    {
+        "names": "Huion KAMVAS PRO 16 2K 繪圖板",
+        "rating": "",
+        "hon_price_min": "5,240",
+        "hon_price_max": "5,680",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android（USB 3.1 DP1.2）",
+        "尺寸:": "436.2 x 247.3 x 10-11.5mm"
+    },
+    {
+        "names": "Wacom Intuos Art Pen&Touch Medium (CTH-690)",
+        "rating": "6.0",
+        "hon_price_min": "888",
+        "hon_price_max": "990",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "USB 連接埠 , 網際網路連線 , CD/DVD-ROM 光碟機 , Windows 7、8 或 10 , Mac OS X 10.8.5 或更新版本",
+        "尺寸:": "工作區尺寸 : 216 x 135 mm (8.5 x 5.3 \")"
+    },
+    {
+        "names": "InfoThink 電紙繪板冰雪奇緣系列 (安娜)",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "399",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Huion KAMVAS PRO 22",
+        "rating": "",
+        "hon_price_min": "5,150",
+        "hon_price_max": "5,200",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.12 or later",
+        "尺寸:": "589 x 344mm"
+    },
+    {
+        "names": "Wacom MobileStudio Pro 16 (256GB)",
+        "rating": "2.0",
+        "hon_price_min": "12,800",
+        "hon_price_max": "19,940",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Penpower EZ Go小蒙恬",
+        "rating": "8.0",
+        "hon_price_min": "378",
+        "hon_price_max": "399",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 7 / Vista / XP",
+        "尺寸:": "10.5 x 8.5 x 1 cm"
+    },
+    {
+        "names": "Huion Inspiroy H580X 繪圖板",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "580",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, macOS 10.12 or later Android 6.0 or later",
+        "尺寸:": "276.7 x 170.6 x 8mm"
+    },
+    {
+        "names": "XP-Pen Deco Fun XS 繪圖板",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/10，Mac OS X10.10 及以上版本，Android 6.0、Chrome OS 88及以上版本，Linux",
+        "尺寸:": "182.4 x 134.7 x 10.5mm"
+    },
+    {
+        "names": "Huion Inspiroy G10T",
+        "rating": "",
+        "hon_price_min": "889",
+        "hon_price_max": "890",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Win 10/Windows 8/Win7/Mac OS 10.8 or later",
+        "尺寸:": "374 x 177 x 9mm"
+    },
+    {
+        "names": "XP-Pen Deco Fun S 繪圖板",
+        "rating": "8.0",
+        "hon_price_min": "450",
+        "hon_price_max": "480",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/10，Mac OS X10.10 及以上版本，Android 6.0、Chrome OS 88及以上版本，Linux",
+        "尺寸:": "210.5 x 159.8 x 12.9mm"
+    },
+    {
+        "names": "XP-Pen Deco 01 V2 民王繪圖板",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "729",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac"
+    },
+    {
+        "names": "Huion Inspiroy Q620M Dial 專業級便攜數位板",
+        "rating": "10",
+        "hon_price_min": "730",
+        "hon_price_max": "920",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac"
+    },
+    {
+        "names": "Artisul D16",
+        "rating": "",
+        "hon_price_min": "5,299",
+        "hon_price_max": "5,999",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Windows 8.1 / 8 / 7 (32/64bit);  Mac: OS X 10.8 or later",
+        "尺寸:": "424.2 x 262 x 16.5mm"
+    },
+    {
+        "names": "B.Duck 8.5吋彩色電子墨手護目手寫板繪圖板 J85C",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類型:": "手寫板/繪圖板",
+        "尺寸:": "244 x 185 x 15mm"
+    },
+    {
+        "names": "Wacom MobileStudio Pro 13\" – i7, 512GB gen2 第二代繪圖電腦 DTH-W1321H/K0-C",
+        "rating": "",
+        "hon_price_min": "22,900",
+        "hon_price_max": "22,990",
+        "類型:": "繪圖板",
+        "系統需求:": "windows",
+        "尺寸:": "229 x 367 x 17 mm"
+    },
+    {
+        "names": "Huion INSPIROY Keydial KD200 二合一單手鍵盤+數位板",
+        "rating": "8.0",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,380",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1(Wired and Dongle), Windows 10 64bit(Bluetooth), macOS 10.12 或以上, Android 6.0 或以上",
+        "尺寸:": "394.5 x 187.7 x 8.5mm"
+    },
+    {
+        "names": "Wacom MobileStudio Pro 13 (64GB)",
+        "rating": "",
+        "hon_price_min": "6,295",
+        "hon_price_max": "12,590",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 或更高Mac OS X 10.10 或更高，USB-C 接口(或者Mini DisplayPort 及 USB 接口)",
+        "尺寸:": "367 x 229 x 16mm"
+    },
+    {
+        "names": "Penpower 樂活蒙恬筆",
+        "rating": "6.0",
+        "hon_price_min": "598",
+        "hon_price_max": "720",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows / Mac",
+        "尺寸:": "21cm x 21cm x 0.7cm"
+    },
+    {
+        "names": "Wacom ACK425082 Notepads A4 (3PACK)",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138"
+    },
+    {
+        "names": "Gaomon GM3 A3 繪圖板",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "類型:": "繪圖板",
+        "板面尺寸:": "430 x 310 mm"
+    },
+    {
+        "names": "XP-Pen Artist 24 2K 專業數位繪圖顯示器",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,880",
+        "類型:": "繪圖板/手寫板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late , Android",
+        "尺寸:": "590 x 361 x 34mm"
+    },
+    {
+        "names": "Huion INSPIROY H640P",
+        "rating": "8.0",
+        "hon_price_min": "620",
+        "hon_price_max": "620",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, Mac OS X10.11 or later",
+        "尺寸:": "206 x 147.7 x 8mm"
+    },
+    {
+        "names": "Huion KAMVAS GT-191 PRO V2",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "5,600",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.12 or later",
+        "尺寸:": "475 x 298mm"
+    },
+    {
+        "names": "Acepen 6 x 4吋繪圖板 AP604",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "449",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/10/Vista/XP, For Mac OS X10.4",
+        "尺寸:": "180 x 142mm"
+    },
+    {
+        "names": "XP-Pen Star G960 數位板",
+        "rating": "8.0",
+        "hon_price_min": "479",
+        "hon_price_max": "479",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/10, Mac OS X 10.10 and higher, Android 6.0 and above"
+    },
+    {
+        "names": "XP-Pen Deco PRO S 數位板",
+        "rating": "10",
+        "hon_price_min": "800",
+        "hon_price_max": "910",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.10 or later,Android 6.0 or later",
+        "尺寸:": "350.8 x 199.5 x 130.16mm"
+    },
+    {
+        "names": "Wacom Bamboo Sketch CS-610PK",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "700",
+        "類型:": "壓感筆電容筆觸控筆"
+    },
+    {
+        "names": "XP-Pen Artist 12 數位屏",
+        "rating": "10",
+        "hon_price_min": "2,260",
+        "hon_price_max": "2,280",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.10 or late"
+    },
+    {
+        "names": "Wicue 12吋液晶手寫板",
+        "rating": "",
+        "water_price_min": "239",
+        "water_price_max": "239",
+        "類型:": "手寫板",
+        "板面尺寸:": "12吋"
+    },
+    {
+        "names": "SmarterWare 20” LCD Writing Board 光能黑板",
+        "rating": "",
+        "hon_price_min": "245",
+        "hon_price_max": "245",
+        "類型:": "光能黑板"
+    },
+    {
+        "names": "Wacom CintiQ 22HD touch",
+        "rating": "",
+        "hon_price_min": "16,790",
+        "hon_price_max": "23,300",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows 7 / Vista / XP / Mac OS X 10.5 或以後",
+        "尺寸:": "18.9\" 闊 x 10.7\" 高 (479.2 x 271.3 毫米)"
+    },
+    {
+        "names": "Wacom Intuos 5 touch Large",
+        "rating": "6.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Microsoft Windows® XP (SP3), Windows® Vista (SP2), Windows® 7 (SP1), or higher  • Mac: Mac OS X 10.5.8 or later, Intel® processor",
+        "尺寸:": "29.2” x 12.5” x 0.5”"
+    },
+    {
+        "names": "XP-Pen Artist 12 PRO 數位屏",
+        "rating": "",
+        "hon_price_min": "2,270",
+        "hon_price_max": "2,880",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac"
+    },
+    {
+        "names": "Bamboo Windows Ink  CS-321A",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "628",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Penpower TOOYA Master 塗鴉大師 (Win/Mac)",
+        "rating": "6.0",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows 電腦 Windows 8 / Windows 7 / Vista / XP USB埠 Mac 電腦 Mac OS X 10.5以上作業系統 USB埠",
+        "尺寸:": "39 x 24 x 1.3 cm"
+    },
+    {
+        "names": "Huion Kamvas 22 Plus 數位繪圖顯示器",
+        "rating": "9.0",
+        "hon_price_min": "4,880",
+        "hon_price_max": "5,300",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , MacOS 10.12 or late",
+        "尺寸:": "546 x 323 x 19-26.7mm (Without Stand)"
+    },
+    {
+        "names": "Wacom Bamboo Slate, small CDS610S",
+        "rating": "6.0",
+        "hon_price_min": "780",
+        "hon_price_max": "800",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Boogie Board JOT 8.5",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "380",
+        "類型:": "繪圖板",
+        "板面尺寸:": "8.5\""
+    },
+    {
+        "names": "XP-Pen Artist Display 24 Pro 2K QHD 繪圖板",
+        "rating": "10",
+        "hon_price_min": "6,150",
+        "hon_price_max": "6,600",
+        "類型:": "繪圖板/手寫板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 10/8/7 and Mac OS X 10.10 (and higher)",
+        "尺寸:": "632 x 370 x 44.8mm"
+    },
+    {
+        "names": "Wacom Cintiq 27QHD DTK2700",
+        "rating": "",
+        "hon_price_min": "18,000",
+        "hon_price_max": "19,790",
+        "類型:": "繪圖板",
+        "尺寸:": "770 x 465 x 54.5mm"
+    },
+    {
+        "names": "Wacom DTU-2231",
+        "rating": "",
+        "hon_price_min": "14,799",
+        "hon_price_max": "14,799",
+        "類型:": "繪圖板",
+        "壓感級別:": "512級",
+        "尺寸:": "22.2\"w x 14.7\"d x 2.2\"h"
+    },
+    {
+        "names": "Boogie Board Sync 9.7",
+        "rating": "",
+        "hon_price_min": "1,039",
+        "hon_price_max": "1,039",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "類型:": "手寫板",
+        "板面尺寸:": "9.7inch"
+    },
+    {
+        "names": "Bamboo Sketch",
+        "rating": "8.0",
+        "hon_price_min": "650",
+        "hon_price_max": "700"
+    },
+    {
+        "names": "InfoThink 電紙繪板冰雪奇緣系列 (Elsa 愛莎)",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "399",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "XP-Pen Star G430S 數位板",
+        "rating": "10",
+        "hon_price_min": "300",
+        "hon_price_max": "330",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.10 or late"
+    },
+    {
+        "names": "Wacom Cintiq Pro 24 Pen & Touch (DTH-2420H)",
+        "rating": "10",
+        "hon_price_min": "17,980",
+        "hon_price_max": "20,790",
+        "類型:": "手寫板",
+        "分辨率:": "5080lpi",
+        "壓感級別:": "8192級"
+    },
+    {
+        "names": "Wacom ACK425081 Notepads A5 (3pack)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "138"
+    },
+    {
+        "names": "Adobe Ink & Slide Creative Cloud Pen and Digital Ruler",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "手寫筆"
+    },
+    {
+        "names": "Wacom DTF-720",
+        "rating": "",
+        "hon_price_min": "9,970",
+        "hon_price_max": "9,970",
+        "類型:": "繪圖板",
+        "壓感級別:": "512級",
+        "尺寸:": "15.75\"w x 14.25\"d x 2.2\"h"
+    },
+    {
+        "names": "Penpower 隨意筆",
+        "rating": "8.0",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 7 / Vista / XP",
+        "尺寸:": "12 x 8 x 1.1 cm"
+    },
+    {
+        "names": "Wacom CintiQ 24HD",
+        "rating": "10",
+        "hon_price_min": "15,000",
+        "hon_price_max": "15,000",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows7/Vista/XP ,Mac OS"
+    },
+    {
+        "names": "Penpower 手機簽名王 (iOS/Android/Win)",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "類型:": "手寫板",
+        "尺寸:": "59 x18 x 9 mm"
+    },
+    {
+        "names": "Huion INSPIROY Q11K",
+        "rating": "8.0",
+        "hon_price_min": "970",
+        "hon_price_max": "970",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, Mac OS X10.11 or later",
+        "尺寸:": "390 x 223 x 11mm"
+    },
+    {
+        "names": "Huion Inspiroy H430P 電繪板",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "類型:": "繪圖板",
+        "壓感級別:": "4096級",
+        "系統需求:": "Windows 7 或以上, macOS 10.12 或以上, Android 6.0 或以上, Linux",
+        "尺寸:": "186.6 x 139.2 x 6.3mm"
+    },
+    {
+        "names": "Veikk 11.6吋全高清輕便繪圖板 VK1200",
+        "rating": "10",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,680",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 11/10/8/7, Mac OS 10.12 (or later), Chrome OS 88 (or later), Linux(Ubuntu/elementary OS/Pop!OS/ezgo/debian/mint/mageia/centOS/Arch), Android 6.0 (or later)",
+        "尺寸:": "318 x 189 x 12mm"
+    },
+    {
+        "names": "Wicue 10吋液晶手寫板",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "178",
+        "類型:": "手寫板",
+        "板面尺寸:": "10吋"
+    },
+    {
+        "names": "Adonit Mark",
+        "rating": "",
+        "hon_price_min": "147",
+        "hon_price_max": "147",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "myFirst Sketch Board 21 inch LCD 素描板",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "458",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Wacom New MobileStudio Pro 13\" (i5, 128GB) 第二代繪圖電腦 DTH-W1321L",
+        "rating": "4.0",
+        "hon_price_min": "16,100",
+        "hon_price_max": "17,990",
+        "類型:": "繪圖板",
+        "尺寸:": "229 x 367 x 17mm"
+    },
+    {
+        "names": "Adonit Jot Dash",
+        "rating": "",
+        "hon_price_min": "465",
+        "hon_price_max": "465",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Penpower 筆跡記事王 (Windows / Mac)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "406",
+        "類型:": "手寫板",
+        "系統需求:": "Windows, Mac",
+        "尺寸:": "136 x 125 x 22mm"
+    },
+    {
+        "names": "XP-Pen Deco Pro M 數位板",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "930",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later , macOS 10.10 or later,Android 6.0 or later",
+        "尺寸:": "339.7 x 227 x 16.5mm"
+    },
+    {
+        "names": "Wacom New MobileStudio Pro 16\" (i7,512GB) 第二代繪圖電腦 DTH-W1621H",
+        "rating": "",
+        "hon_price_min": "29,080",
+        "hon_price_max": "29,120",
+        "類型:": "繪圖板",
+        "尺寸:": "262 x 418 x 21mm"
+    },
+    {
+        "names": "Huion A4 拷貝台",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "類型:": "拷貝台",
+        "尺寸:": "360 x 270 x 8mm"
+    },
+    {
+        "names": "myFirst Sketch II 10 inch LCD 素描板 CR2025",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Penpower 行動筆記王MyInk",
+        "rating": "10",
+        "hon_price_min": "900",
+        "hon_price_max": "980",
+        "類型:": "行動筆記"
+    },
+    {
+        "names": "BOSTO 16HDT 液晶顯示器繪圖板 (多觸點手觸控版本)",
+        "rating": "10",
+        "hon_price_min": "2,950",
+        "hon_price_max": "2,980",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Mac / Window",
+        "尺寸:": "450 x 251 x 190mm"
+    },
+    {
+        "names": "myFirst Sketch II 8.5 inch LCD 素描板 CR2016",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Touchable L65EB",
+        "rating": "",
+        "hon_price_min": "28,000",
+        "hon_price_max": "28,000",
+        "類型:": "觸控電子白板",
+        "分辨率:": "3840 x 2160lpi",
+        "尺寸:": "1521 x 915 x 98mm"
+    },
+    {
+        "names": "Huion INSPIROY H950P",
+        "rating": "8.0",
+        "hon_price_min": "620",
+        "hon_price_max": "620",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, Mac OS X10.11 or later"
+    },
+    {
+        "names": "Penpower Write2Go 蒙恬電紙筆 (Win/Mac)",
+        "rating": "",
+        "hon_price_min": "445",
+        "hon_price_max": "445",
+        "類型:": "手寫板",
+        "系統需求:": "Windows, Mac",
+        "尺寸:": "136 x 125 x 16.7mm"
+    },
+    {
+        "names": "Penpower 蒙恬筆標準版",
+        "rating": "",
+        "類型:": "手寫板",
+        "系統需求:": "Windows / Mac",
+        "尺寸:": "16 x 17 x 0.9 cm"
+    },
+    {
+        "names": "Wacom ACK22208 Finetip FT 0.4 Refill",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "88",
+        "類型:": "筆芯"
+    },
+    {
+        "names": "Wacom Cintiq Companion 2 Standard (128GB)",
+        "rating": "8.0",
+        "hon_price_min": "8,500",
+        "hon_price_max": "13,970",
+        "類型:": "繪圖板",
+        "尺寸:": "374 x 248 x 15 公釐"
+    },
+    {
+        "names": "Penpower TOOYA Fun",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "680",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows 8 / 7 / Vista / XP /Mac OS X 10.6 or above",
+        "尺寸:": "8\" X 6\""
+    },
+    {
+        "names": "Penpower 寫意蒙恬筆",
+        "rating": "",
+        "類型:": "手寫板",
+        "系統需求:": "Windows / Mac",
+        "尺寸:": "直徑20 cm，厚度0.8 cm"
+    },
+    {
+        "names": "Wacom Intuos 3D (M)(CTH-690)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "960",
+        "類型:": "繪圖板",
+        "讀取速度:": "133pps",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows 7,8或10/Mac OS X 10.8.5 或更新版本"
+    },
+    {
+        "names": "Wacom Bamboo Pen Small",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "512級",
+        "系統需求:": "Windows 2000 & XP, Vista Mac OS X v.10.4.8 及以上",
+        "尺寸:": "248.2 x 176.1 x 8.5 毫米"
+    },
+    {
+        "names": "Wacom MobileStudio Pro 13 (512GB)",
+        "rating": "",
+        "hon_price_min": "10,485",
+        "hon_price_max": "20,990",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "獨立Windows 10操作系統 可通過Wacom Link連接Windows, Mac",
+        "尺寸:": "367 x 229 x 16mm"
+    },
+    {
+        "names": "Ozaki iStorke L+(Stylus)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Intuos pro Pen & Touch Small",
+        "rating": "2.0",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,280",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "12.6 x 8.2 x 0.5 in"
+    },
+    {
+        "names": "Equil Smartpen",
+        "rating": "",
+        "water_price_min": "1,238",
+        "water_price_max": "1,238"
+    },
+    {
+        "names": "Wacom Bamboo Stylus duo 2nd gen",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "ISKN Slate 2+",
+        "rating": "",
+        "hon_price_min": "2,159",
+        "hon_price_max": "2,159",
+        "類型:": "繪圖板",
+        "板面尺寸:": "266 x 186 x 7mm"
+    },
+    {
+        "names": "Wacom Intuos Creative Stylus 2",
+        "rating": "8.7",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Mcbazel A4尺寸 LED燈箱描圖板",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Wacom Bamboo Stylus",
+        "rating": "10",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Fun Small",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000 & XP, Vista",
+        "尺寸:": "248.2 x 176.1 x 8.5 毫米"
+    },
+    {
+        "names": "Wacom DTK-2241",
+        "rating": "",
+        "hon_price_min": "12,788",
+        "hon_price_max": "12,788",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows(R) 8、7（32/64 位元）、Vista SP1、XP SP2  Mac：OS X v10.6.8 以上版本（Intel 處理器）"
+    },
+    {
+        "names": "iPens X1",
+        "rating": "6.0",
+        "hon_price_min": "238",
+        "hon_price_max": "388",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Intuos pro Pen & Touch Large",
+        "rating": "",
+        "hon_price_min": "2,250",
+        "hon_price_max": "3,750",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "Pen: 325 x 203 mm (12.8 x 8.0 in) ; Multi-touch: 299 x 190 mm (11.8 x 7.5 in)"
+    },
+    {
+        "names": "Penpower 星河小蒙恬",
+        "rating": "8.0",
+        "hon_price_min": "168",
+        "hon_price_max": "175",
+        "類型:": "手寫板",
+        "系統需求:": "中文Windows 7 / Vista / XP",
+        "尺寸:": "96(長)x 96(寬)x 19.2(高)mm"
+    },
+    {
+        "names": "XP-Pen Deco 02 數位板",
+        "rating": "10",
+        "hon_price_min": "810",
+        "hon_price_max": "819",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.10 or late"
+    },
+    {
+        "names": "Wacom MobileStudio Pro 13 (256GB)",
+        "rating": "",
+        "hon_price_min": "8,920",
+        "hon_price_max": "17,840",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "獨立Windows 10操作系統 可通過Wacom Link連接Windows, Mac",
+        "尺寸:": "367 x 229 x 16mm"
+    },
+    {
+        "names": "Adonit Jot Script",
+        "rating": "10",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Intuos Draw CTL-490",
+        "rating": "8.0",
+        "hon_price_min": "410",
+        "hon_price_max": "410",
+        "類型:": "繪圖板",
+        "尺寸:": "6"
+    },
+    {
+        "names": "Wacom CINTIQ 13HD TOUCH",
+        "rating": "8.0",
+        "hon_price_min": "8,600",
+        "hon_price_max": "8,600",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "win/mac",
+        "尺寸:": "375 ｘ 248 ｘ 14 公釐"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Fineline",
+        "rating": "10",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "Touch Pen"
+    },
+    {
+        "names": "Acepen 10 x 6.25吋繪圖板 - 1060N",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級"
+    },
+    {
+        "names": "Wacom Intuos4 XL",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "5,900",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "623 * 462 * 28 mm"
+    },
+    {
+        "names": "Penpower Picasso",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,050",
+        "類型:": "繪圖板",
+        "分辨率:": "4000 dpilpi"
+    },
+    {
+        "names": "Boogie Board VersaTiles 12\" 電子手寫塗鴉板",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359",
+        "類型:": "手寫板",
+        "尺寸:": "210 x 210mm"
+    },
+    {
+        "names": "XP-Pen Star G640S 數位板",
+        "rating": "10",
+        "hon_price_min": "450",
+        "hon_price_max": "460",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, MAC OS 10.10 or late"
+    },
+    {
+        "names": "Wacom Intuos 3D",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,588",
+        "類型:": "手寫板",
+        "分辨率:": "2540lpi"
+    },
+    {
+        "names": "JW CONCEPT XP-03PRO Drawing Pad 8192 Pen Pressure",
+        "rating": "",
+        "hon_price_min": "529",
+        "hon_price_max": "529",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac",
+        "尺寸:": "360 x 210 x 9mm"
+    },
+    {
+        "names": "Gerhantech 15\" LCD Pad for Drawing and Handwriting 繪圖手寫板 GWP01",
+        "rating": "",
+        "類型:": "手寫板/繪圖板",
+        "尺寸:": "317 x 224 x 5.2mm"
+    },
+    {
+        "names": "UC-LOGIC Artisul D13",
+        "rating": "10",
+        "hon_price_min": "4,499",
+        "hon_price_max": "4,499",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級級",
+        "系統需求:": "Windows 10、8.1、8、7（32/64 位元）  Mac：OS X v10.7 以上版本",
+        "尺寸:": "38.9CM(寬) X 25CM(長) X 1.4CM(高)"
+    },
+    {
+        "names": "Gaomon GM4 A4 繪圖板",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "類型:": "繪圖板",
+        "板面尺寸:": "310 x 210 mm"
+    },
+    {
+        "names": "Wacom CTL-471/K0-F",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "PC: Windows 8, Windows 7,Vista或XP SP3或更高* Macintosh: Max OS X 10.6.8或更高*",
+        "尺寸:": "210 x 146 x 7.5mm"
+    },
+    {
+        "names": "Wacom Intuos Pen & Touch Medium",
+        "rating": "8.0",
+        "hon_price_min": "990",
+        "hon_price_max": "1,499",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "8.5 x 5.3 in"
+    },
+    {
+        "names": "Wacom Cintiq 24HD touch",
+        "rating": "",
+        "hon_price_min": "18,000",
+        "hon_price_max": "28,300",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows 7, Windows 8 ready, Mac OS X 10.6+",
+        "尺寸:": "769 x 463 x 64 mm"
+    },
+    {
+        "names": "Penpower 隨行蒙恬筆",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Wacom BAMBOO INK",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "628",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Duo, 4th Generation",
+        "rating": "8.0",
+        "hon_price_min": "99",
+        "hon_price_max": "138",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Pen & Touch",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "740",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000 & XP, Vista Mac OS X v.10.4.8 及以上",
+        "尺寸:": "248.2 x 176.1 x 8.5 毫米"
+    },
+    {
+        "names": "Wacom Intuos Pen Medium",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "960",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "8.5 x 5.3 in"
+    },
+    {
+        "names": "InfoThink 電紙繪板冰雪奇緣系列(Olaf 雪寶)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "399",
+        "類型:": "繪圖板"
+    },
+    {
+        "names": "Boogie Board blackboard電子手寫塗鴉板 5.5\"x7.25\"",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Wacom Inkling",
+        "rating": "8.0",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows7/Vista/XP ,Mac OS",
+        "尺寸:": "21g"
+    },
+    {
+        "names": "Wacom Intuos4 L",
+        "rating": "",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "474 * 320 * 14 mm"
+    },
+    {
+        "names": "Wacom PL 1600 DTU-1631A",
+        "rating": "",
+        "hon_price_min": "6,780",
+        "hon_price_max": "6,780",
+        "類型:": "繪畫板",
+        "壓感級別:": "512級",
+        "尺寸:": "420 mm x 283 mm x 49 mm"
+    },
+    {
+        "names": "SmarterWare Wireless Graphic Tablet for Win/Mac/Android 無線數位繪圖板 WH850",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac, Android",
+        "尺寸:": "311 x 207 x 10mm"
+    },
+    {
+        "names": "Wacom Intuos Creative Stylus",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "760",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Hanvon Art Master AM 1209",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista/7 Mac OS 10.5 or above",
+        "尺寸:": "476×363×15 mm"
+    },
+    {
+        "names": "JW CONCEPT XP-05 PRO Drawing Pad 8192 Pen Pressure",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows, Mac",
+        "尺寸:": "210 x 208 x 2mm"
+    },
+    {
+        "names": "Adonit Jot Pro 2.0",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "270",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Splash Pen 畫板 [CTL-471/K]",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "210 x 146 x 7.5 毫米"
+    },
+    {
+        "names": "Ozaki iFinger",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Artisul Pencil Medium",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Windows 8.1 /8 /7 (32/64bit)   MAC: OS x 10.8 or later",
+        "尺寸:": "292 x 190.5 x 3mm"
+    },
+    {
+        "names": "Artisul D10",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "2,800",
+        "類型:": "繪圖板",
+        "系統需求:": "PC: Windows 8, Windows 7 SP1 or later  Mac: OS X 10.6.8 or later , Inter processor",
+        "尺寸:": "301.88 x 209.6 x 11.95mm"
+    },
+    {
+        "names": "Penpower TOOYA X",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "448",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows / Mac OS"
+    },
+    {
+        "names": "Wacom Intuos pro Pen & Touch Medium Special Edition",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,899",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "8.8 x 5.5 in"
+    },
+    {
+        "names": "The Joy Factory Pinpoint Precision Stylus",
+        "rating": "10",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Nomad brush Nomad Play",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Hanvon Art Master AM0806 (A5)",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista Mac OS 10.4 or above",
+        "尺寸:": "8 x 6 inch"
+    },
+    {
+        "names": "Penpower 悠遊蒙恬筆 Win/Mac",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Adonit Snap",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Stylus feel",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Touchable L75EB",
+        "rating": "",
+        "hon_price_min": "45,000",
+        "hon_price_max": "45,000",
+        "類型:": "觸控電子白板",
+        "分辨率:": "3840 x 2160lpi",
+        "尺寸:": "1762 x 1034 x 100mm"
+    },
+    {
+        "names": "文明筆 元朝篇II代 5”免安裝手寫版",
+        "rating": "",
+        "類型:": "手寫板",
+        "系統需求:": "Windows",
+        "尺寸:": "179 x 125 x 15mm"
+    },
+    {
+        "names": "Gaomon GM156HD",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1 or later, Mac OS 10.11 or later",
+        "尺寸:": "452.4 x 252 x 19.5mm"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Mini (CS120)",
+        "rating": "",
+        "類型:": "Touch Pen"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Duo 3rd gen",
+        "rating": "",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "類型:": "Touch Pen"
+    },
+    {
+        "names": "Nomad brush Compose Long Tip",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Intuos4 M",
+        "rating": "10",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "370 * 254 * 12 mm"
+    },
+    {
+        "names": "Hanvon Rollick RL 0604",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista/7 Mac OS 10.5 or above",
+        "尺寸:": "240×238×7 mm"
+    },
+    {
+        "names": "Touchable L55EB",
+        "rating": "",
+        "hon_price_min": "16,000",
+        "hon_price_max": "16,000",
+        "類型:": "觸控電子白板",
+        "分辨率:": "3840 x 2160lpi",
+        "尺寸:": "1458 x 932 x 220mm"
+    },
+    {
+        "names": "Mcbazel 8.5吋液晶手寫板",
+        "rating": "6.0",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Wacom Bamboo Pen Medium",
+        "rating": "8.0",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000 & XP, Vista Mac OS X v.10.4.8 及以上",
+        "尺寸:": "248.2 x 176.1 x 8.5 毫米"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Feel for Samsung Galaxy Note",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "Touch Pen"
+    },
+    {
+        "names": "Artisul Pencil Small",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "類型:": "繪圖板",
+        "系統需求:": "PC: Windows 8.1 /8 /7 (32/64bit)   MAC: OS x 10.8 or later",
+        "尺寸:": "220 x 184.1 x 9.1mm"
+    },
+    {
+        "names": "Penpower 銀鋼小蒙恬",
+        "rating": "8.0",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 7 / Vista / XP (32 bit or 64 bit) 作業系統",
+        "尺寸:": "9.6 x 9 x 1.9 cm"
+    },
+    {
+        "names": "Boogie Board Jot 4.5 eWriter Clearview",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "類型:": "繪圖板",
+        "板面尺寸:": "4.5\""
+    },
+    {
+        "names": "P-Active 1029B",
+        "rating": "",
+        "hon_price_min": "1,098",
+        "hon_price_max": "1,098",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000 / XP / VISTA",
+        "尺寸:": "390 mm (L) x 340 mm (W) x 28mm (H)"
+    },
+    {
+        "names": "P-Active Funkids",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows XP / Vista / Win7 趨動支援MAC作業系統(需上網下載)",
+        "尺寸:": "230 mm (L) x 195mm (W) x 9mm (H)"
+    },
+    {
+        "names": "Bamboo Stylus Duo cs110",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Intuos4 Wireless",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "363 x 253 x 15 mm"
+    },
+    {
+        "names": "Adonit Jot Touch with Pixelpoint",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Targus AMM01US",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Baseus Rotary Stylus",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Boogie Board Jot 4.5 eWriter LCD",
+        "rating": "",
+        "water_price_min": "88",
+        "water_price_max": "88",
+        "類型:": "繪畫寫字板",
+        "板面尺寸:": "4.5\""
+    },
+    {
+        "names": "Penpower miniCard小蒙恬",
+        "rating": "10",
+        "類型:": "手寫板",
+        "系統需求:": "Windows 7 / Vista / XP",
+        "尺寸:": "8.5 x 5.4 x 0.5 cm"
+    },
+    {
+        "names": "Kanvus Office 53",
+        "rating": "6.0",
+        "hon_price_min": "440",
+        "hon_price_max": "440"
+    },
+    {
+        "names": "Adonit Jot FLIP Stylus Pen",
+        "rating": "",
+        "類型:": "Stylus Pen"
+    },
+    {
+        "names": "Nomad brush Flex long tip",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom CintiQ 12WX",
+        "rating": "",
+        "hon_price_min": "7,450",
+        "hon_price_max": "7,450",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "405 x 270 x 17 毫米"
+    },
+    {
+        "names": "Kanvus Life 106",
+        "rating": "7.5",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "PC or Mac",
+        "尺寸:": "308 x 258 x 10.5 公釐"
+    },
+    {
+        "names": "SmarterWare 11” LCD Writing Board",
+        "rating": "",
+        "類型:": "手寫板",
+        "板面尺寸:": "11"
+    },
+    {
+        "names": "Adonit Jot Script 2",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Touch",
+        "rating": "10",
+        "類型:": "繪圖板",
+        "系統需求:": "Windows 2000 & XP, Vista Mac OS X v.10.4.8 及以上",
+        "尺寸:": "208.4 x 137.6 x 7.5 毫米"
+    },
+    {
+        "names": "Hanvon Graphicpal 0605",
+        "rating": "",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "壓感級別:": "1024級",
+        "系統需求:": "Win98/Me/2000/XP/7/MAC OS"
+    },
+    {
+        "names": "Kanvus Life H85",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "PC or Mac",
+        "尺寸:": "240 x 341 x 9.6 mm"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Solo 3rd gen",
+        "rating": "10",
+        "類型:": "Touch Pen"
+    },
+    {
+        "names": "文明筆 漢朝篇 4”免安裝手寫版",
+        "rating": "2.0",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "類型:": "手寫板",
+        "系統需求:": "Windows",
+        "尺寸:": "103 x 85 x 10mm"
+    },
+    {
+        "names": "Livescribe 3 Smartpen",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "類型:": "smartpen"
+    },
+    {
+        "names": "P-Active XP-P850",
+        "rating": "9.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows7, Vista, XP, Mac OS X",
+        "尺寸:": "238(D) X 192(W) X 12(H)mm"
+    },
+    {
+        "names": "Hanvon SenTIP 12\"",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista/7 Mac OS 10.5.X or later",
+        "尺寸:": "390x270x17mm"
+    },
+    {
+        "names": "Wacom CintiQ 12UX 二代",
+        "rating": "",
+        "hon_price_min": "20,900",
+        "hon_price_max": "20,900",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "561 x 421 x 47.8 毫米"
+    },
+    {
+        "names": "braVod AUROII Large",
+        "rating": "8.7",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows XP/Vista/7 Mac OSX10.4+",
+        "尺寸:": "448mm X 297mm X 17mm"
+    },
+    {
+        "names": "Wacom BAMBOO Stylus Fineline 2",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Fun Medium",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000 & XP, Vista",
+        "尺寸:": "336.8 x 223.0 x 8.5 毫米"
+    },
+    {
+        "names": "Musemee Notier V2",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Pad USB",
+        "rating": "7.0",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "類型:": "繪圖板",
+        "系統需求:": "USB port Windows 8 and Windows 7 Mac OS X 10.7 or later (driver available)"
+    },
+    {
+        "names": "Hanvon Painting Master PM0504",
+        "rating": "",
+        "類型:": "繪圖板",
+        "讀取速度:": "100pps",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista/7 Mac OS 10.5.X or later"
+    },
+    {
+        "names": "Huion KAMVAS GT-191H",
+        "rating": "10",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1/10, Mac OS X10.11 or later"
+    },
+    {
+        "names": "Genius EasyPen i405",
+        "rating": "",
+        "類型:": "繪圖板",
+        "讀取速度:": "100pps",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows7/Vista/XP ,Mac OS"
+    },
+    {
+        "names": "Adonit Jot Touch 4",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "FreeTab 電子黑板",
+        "rating": "",
+        "類型:": "電子手寫黑板"
+    },
+    {
+        "names": "UC-LOGIC SP1001",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows 8.1、8、7（32/64 位元）  Mac：OS X v10.7 以上版本",
+        "尺寸:": "30.2CM(寬) X 21CM(長) X 1.2CM(高)"
+    },
+    {
+        "names": "Adonit Dash 2",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "braVod AUROII",
+        "rating": "10",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,590",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows XP/Vista/7 Mac OSX10.4+",
+        "尺寸:": "347mm X 233mm X 17mm"
+    },
+    {
+        "names": "Adonit Jot Mini Precision Disc Stylus",
+        "rating": "10",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Penpower TOOYA PRO",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Mac OS X 10.4以上",
+        "尺寸:": "306*257*9(mm)"
+    },
+    {
+        "names": "Bamboo Stylus cs100/bo-c",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Odoyo iStylus Duo",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Duo CS-110/K0-C",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "文明筆 春秋篇 5.3”免安裝手寫版",
+        "rating": "",
+        "類型:": "手寫板",
+        "系統需求:": "Windows",
+        "尺寸:": "186 x 127 x 12mm"
+    },
+    {
+        "names": "Kanvus Artist 95",
+        "rating": "4.0",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "壓感級別:": "1024級",
+        "尺寸:": "420 x 300 x 15.5公釐"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Alpha CS-130",
+        "rating": "",
+        "類型:": "Touch Pen"
+    },
+    {
+        "names": "Boogie Board Blackboard Note",
+        "rating": "",
+        "類型:": "繪圖板",
+        "尺寸:": "9.4 x 7.3 x 0.7 inches"
+    },
+    {
+        "names": "P-Active 1209B",
+        "rating": "10",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000 / XP / VISTA (98及98ME需上網下載)",
+        "尺寸:": "390 mm (L) x 340 mm (W) x 28mm (H)"
+    },
+    {
+        "names": "iQbe 12 Inch LCD Writing Board",
+        "rating": "",
+        "類型:": "手寫板",
+        "尺寸:": "11 x 7.3 x 0.3 inches"
+    },
+    {
+        "names": "SmarterWare 8.5” LCD Writing Board",
+        "rating": "",
+        "類型:": "手寫板",
+        "板面尺寸:": "8.5"
+    },
+    {
+        "names": "Odoyo i-Stylus Uni",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Equil Smartpen 2",
+        "rating": ""
+    },
+    {
+        "names": "Wacom Intuos4 S",
+        "rating": "6.0",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "系統需求:": "Windows XP(SP2),Windows Vista,Mac OS X 10.4.8+",
+        "尺寸:": "309 * 208 * 12 mm"
+    },
+    {
+        "names": "Kanvus Light 64",
+        "rating": "6.0",
+        "類型:": "繪圖板",
+        "讀取速度:": "125pps",
+        "壓感級別:": "1024級",
+        "尺寸:": "190.5 x 196 x 7.8 公釐"
+    },
+    {
+        "names": "Wacom Bamboo (3rd generation) - Pen & Touch(Small Size)",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "920",
+        "類型:": "繪圖板",
+        "讀取速度:": "133pps",
+        "壓感級別:": "1024級",
+        "尺寸:": "278 x 176 x 9.8 mm （10.9 x 6.9 x 0.4 in）"
+    },
+    {
+        "names": "君彩 DJJ-7",
+        "rating": "",
+        "類型:": "手寫板",
+        "系統需求:": "Win2000/XP/Vista/Win7"
+    },
+    {
+        "names": "Penpower 聽寫王標準版",
+        "rating": "10",
+        "類型:": "手寫板",
+        "系統需求:": "Windows XP",
+        "尺寸:": "16.6 x 17.8 x 0.9 cm"
+    },
+    {
+        "names": "The Joy Factory Monet Metallic Charcoal",
+        "rating": "10",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "elago EL-STYLUS-RET",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Genius MousePen i608X",
+        "rating": "",
+        "類型:": "繪圖板",
+        "分辨率:": "2,560lpi",
+        "讀取速度:": "100pps"
+    },
+    {
+        "names": "Wacom Intuos 5 Medium",
+        "rating": "10",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Microsoft Windows® XP (SP3), Windows® Vista (SP2), Windows® 7 (SP1), or higher  • Mac: Mac OS X 10.5.8 or later, Intel® processor",
+        "尺寸:": "15.0” x 9.9” x 0.5\""
+    },
+    {
+        "names": "Wacom Intuos Pen & Touch Small",
+        "rating": "8.0",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "147.2 x 92.0mm"
+    },
+    {
+        "names": "The Joy Factory Monet Metallic Pink",
+        "rating": "10",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "P-Active 1910A",
+        "rating": "10",
+        "hon_price_min": "9,999",
+        "hon_price_max": "9,999",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000 / XP / VISTA",
+        "尺寸:": "396 mm×324 mm×16.3 mm"
+    },
+    {
+        "names": "文明筆 清朝篇",
+        "rating": "",
+        "類型:": "手寫板",
+        "尺寸:": "9.5*8.4cm"
+    },
+    {
+        "names": "Wacom Bamboo Pad Wireless",
+        "rating": "10",
+        "類型:": "手寫板",
+        "尺寸:": "141.4 x 166.5 x 4.5 至 15.7 mm"
+    },
+    {
+        "names": "Bamboo Stylus Solo cs100",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Intuos 5 touch Medium",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Microsoft Windows® XP (SP3), Windows® Vista (SP2), Windows® 7 (SP1), or higher  • Mac: Mac OS X 10.5.8 or later, Intel® processor",
+        "尺寸:": "15.0” x 9.9” x 0.5\""
+    },
+    {
+        "names": "Kanvus Virtuoso T5000",
+        "rating": "9.0",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,590",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "壓感級別:": "2048級",
+        "系統需求:": "Win XP 或Mac OSX 10.4 或以上"
+    },
+    {
+        "names": "君點 千彩水晶版",
+        "rating": "8.0",
+        "hon_price_min": "29",
+        "hon_price_max": "29",
+        "類型:": "手寫板",
+        "板面尺寸:": "3\""
+    },
+    {
+        "names": "Wacom Bamboo Omni",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Stylus Feel Carbon",
+        "rating": "",
+        "類型:": "Touch Pen"
+    },
+    {
+        "names": "Adonit Jot mini 2.0",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "MOMAX The Arc Stylus",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Huion KAMVAS GT-156",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7 or later, MAC OS 10.11 or later",
+        "尺寸:": "432 x 264 x 14.8mm"
+    },
+    {
+        "names": "Wacom Bamboo Alpha Stylus Black CS180K",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Adonit Jot Flip",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "The Joy Factory Monet Metallic Green",
+        "rating": "10",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo ONE CTE-631",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "512級",
+        "系統需求:": "win 7 /win xp /mac os",
+        "尺寸:": "285x265x11毫米"
+    },
+    {
+        "names": "Wacom Bamboo (3rd generation) - Pen & Touch",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Microsoft Windows XP, Vista (SP2) or Windows 7  Apple Mac OS X 10.5.8及以上",
+        "尺寸:": "352 x 209 x 9.8 mm(13.9 x 8.2 x 0.4 in)"
+    },
+    {
+        "names": "command T Touch Stylus",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Stylus solo 2nd gen",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Wacom Bamboo Solo 4th Generation",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "The Joy Factory Pinpoint Precision Stylus E1 (2nd Gen)",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Hanvon Art Master AMIII",
+        "rating": "10",
+        "hon_price_min": "1,228",
+        "hon_price_max": "1,228",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows 2000/XP/Vista/7 Mac OS 10.5 or above",
+        "尺寸:": "484 x 333 x 12mm"
+    },
+    {
+        "names": "P-Active XP-5560C",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows7, Vista, XP, Mac OS X",
+        "尺寸:": "207 mm (L) x 216 mm (W) x 16mm (H)"
+    },
+    {
+        "names": "Bamboo Stylus duo cs200",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Bamboo Stylus Pocket cs20",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Nickelodeon 8.5吋LCD手寫板 (2色)",
+        "rating": "",
+        "類型:": "手寫板"
+    },
+    {
+        "names": "Gaomon GM116HD",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "8192級",
+        "系統需求:": "Windows 7/8/8.1 or later, Mac OS 10.11 or later",
+        "尺寸:": "361.6 x 200 x 13mm"
+    },
+    {
+        "names": "P-Active 5560A",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows XP/Vista/7 Mac OSX10.5.2以下",
+        "尺寸:": "207 mm (L) x 216 mm (W) x 16 mm (H)"
+    },
+    {
+        "names": "P-Active 8060",
+        "rating": "9.5",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows XP/VISTA/Windows7 MAC10.4~10.6.2",
+        "尺寸:": "278 mm (L) x 252 mm (W) x 10mm (H)"
+    },
+    {
+        "names": "Adonit Jot Pro Precision Disc Stylus",
+        "rating": "10",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Hanvon Graphicpal 0806",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista/7 Mac OS 10.5.X or later",
+        "尺寸:": "345×271×13.5mm"
+    },
+    {
+        "names": "Hanvon Rollick RL 0504",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista Mac OS 10.4 or above",
+        "尺寸:": "5 x 4 inch"
+    },
+    {
+        "names": "Wacom Bamboo (3rd generation) - Pen & Touch (Medium Size)",
+        "rating": "4.0",
+        "類型:": "繪圖板",
+        "讀取速度:": "133pps",
+        "壓感級別:": "1024級",
+        "尺寸:": "352 x 209 x 9.8 mm（13.9 x 8.2 x 0.4 in）"
+    },
+    {
+        "names": "Wacom Intuos 5 touch Small",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Microsoft Windows® XP (SP3), Windows® Vista (SP2), Windows® 7 (SP1), or higher  • Mac: Mac OS X 10.5.8 or later, Intel® processor",
+        "尺寸:": "12.6” x 8.2” x 0.5”"
+    },
+    {
+        "names": "P-Active XP-4026",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows 2000/XP/Vista/Win7",
+        "尺寸:": "138mm (L) x126 mm (W) x 8mm (H)"
+    },
+    {
+        "names": "Wacom Bamboo (3rd Generation) - Pen (Small)",
+        "rating": "6.0",
+        "類型:": "繪圖板",
+        "讀取速度:": "133pps",
+        "壓感級別:": "1024級",
+        "尺寸:": "278 x 176 x 9.8 mm （10.9 x 6.9 x 0.4 in）"
+    },
+    {
+        "names": "P-Active XP-8060C",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows7, Vista, XP, Mac OS X",
+        "尺寸:": "278 mm (L) x 252 mm (W) x 10mm (H)"
+    },
+    {
+        "names": "HornetTek IP4PN01",
+        "rating": "2.0",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "Kanvus Light 54",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows Vista/7"
+    },
+    {
+        "names": "Adonit Bluetooth pressure sensitive stylus",
+        "rating": "",
+        "類型:": "觸控筆"
+    },
+    {
+        "names": "braVod AUROII Essence",
+        "rating": "10",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,590",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows XP/Vista/7 Mac OSX10.4+",
+        "尺寸:": "347mm X 233mm X 17mm"
+    },
+    {
+        "names": "P-Active XP-8050PRO",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "Windows7, Vista, XP, Mac OS X",
+        "尺寸:": "242 mm (L) x 300 mm (W) x 12.5mm (H)"
+    },
+    {
+        "names": "braVod AURO-VIEW",
+        "rating": "10",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "壓感級別:": "512級"
+    },
+    {
+        "names": "Wacom PenPartner plus",
+        "rating": "",
+        "類型:": "繪圖板",
+        "系統需求:": "2000/XP",
+        "尺寸:": "155.8(w)X138.9(D)x13.5(H)"
+    },
+    {
+        "names": "Wacom Intuos 5 Small",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "2048級",
+        "系統需求:": "PC: Microsoft Windows® XP (SP3), Windows® Vista (SP2), Windows® 7 (SP1), or higher, Mac OS X 10.5.8 or later, Intel® processor",
+        "尺寸:": "12.6” x 8.2” x 0.5”"
+    },
+    {
+        "names": "Kanvus Virtuoso 5001",
+        "rating": "8.0",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,290",
+        "類型:": "繪圖板",
+        "讀取速度:": "200pps",
+        "壓感級別:": "2048級",
+        "系統需求:": "Win XP 或Mac OSX 10.4 或以上"
+    },
+    {
+        "names": "Wacom Intuos Pen Small",
+        "rating": "",
+        "類型:": "繪圖板",
+        "壓感級別:": "1024級",
+        "系統需求:": "Windows/Mac",
+        "尺寸:": "152 x 95 mm"
+    },
+    {
+        "names": "Odoyo i-Stylus Duo with ball pen",
+        "rating": "",
+        "類型:": "觸控筆"
+    }
+]

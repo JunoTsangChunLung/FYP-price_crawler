@@ -1,0 +1,1261 @@
+[
+    {
+        "names": "Aqara 人體傳感器 P1 RTCGQ14LM",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Aqara 溫濕度傳感器 WSDCGQ11LM",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "類型:": "溫濕度感應器"
+    },
+    {
+        "names": "SwitchBot Meter Plus 溫度濕度計",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "199",
+        "類型:": "溫度濕度計"
+    },
+    {
+        "names": "Aqara 門窗感應器",
+        "rating": "10",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Govee Bluetooth Hygrometer Thermometer 藍牙濕度及溫度計 H5075",
+        "rating": "10",
+        "hon_price_min": "89",
+        "hon_price_max": "99",
+        "類型:": "溫度濕度計"
+    },
+    {
+        "names": "Eufy Entry Sensor 門窗感應器",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "299",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Govee Wi-Fi 溫度及濕度計 H5179",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "280",
+        "類型:": "溫度濕度計"
+    },
+    {
+        "names": "Hopewell 無線運動傳感器警報器 (插電式) MDK-2011",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "ALOK 9合1空氣檢測儀 可檢測甲醛溫度濕度APP實時監控數據",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類型:": "空氣監測器"
+    },
+    {
+        "names": "LifeSmart Smart Home Starter Kit 智能家居入門套裝",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,305",
+        "類型:": "智能感應器"
+    },
+    {
+        "names": "LifeSmart Defed Siren 警報器",
+        "rating": "",
+        "hon_price_min": "344",
+        "hon_price_max": "349",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Xiaomi 小米 米家藍牙溫濕度計 2",
+        "rating": "8.7",
+        "hon_price_min": "39",
+        "hon_price_max": "68",
+        "water_price_min": "48",
+        "water_price_max": "68",
+        "類型:": "溫度濕度計"
+    },
+    {
+        "names": "Xiaomi 小米 Xiaoda 小達 智能感應節水器",
+        "rating": "10",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "water_price_min": "128",
+        "water_price_max": "128",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Airthings View Plus 氡氣和空氣質量監測器",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "LifeSmart Defed Motion Sensor 動態感應器",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "279",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Imou Turret (T26EP) 超廣角H.265 1080P聲光警報網絡攝影機",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "496"
+    },
+    {
+        "names": "Hopewell 無線動作傳感警報器 MD-2011",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "360",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "AduroSmart ERIA Wireless Motion Sensor 動作感應器",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "349",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Arlo Chime 2 智能警報器",
+        "rating": "10",
+        "hon_price_min": "396",
+        "hon_price_max": "599",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Aqara 震動感應器",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "water_price_min": "79",
+        "water_price_max": "85",
+        "類型:": "震動感應器"
+    },
+    {
+        "names": "Aqara TVOC 空氣質素監測器",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "water_price_min": "309",
+        "water_price_max": "309",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "SwitchBot Meter 溫度濕度計",
+        "rating": "10",
+        "hon_price_min": "140",
+        "hon_price_max": "169",
+        "類型:": "溫度濕度計"
+    },
+    {
+        "names": "Google Nest Secure 居家安全警報系統 Starter Pack",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "water_price_min": "1,499",
+        "water_price_max": "1,880",
+        "類型:": "組合"
+    },
+    {
+        "names": "Arlo Chime 智能警報器",
+        "rating": "",
+        "hon_price_min": "478",
+        "hon_price_max": "558",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "LifeSmart Siren 智能家居警報器",
+        "rating": "",
+        "hon_price_min": "237",
+        "hon_price_max": "246",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Aqara 水浸傳感器 SJCGQ11LM",
+        "rating": "8.8",
+        "hon_price_min": "138",
+        "hon_price_max": "139",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "LifeSmart Defed Door / Window Sensor 門窗感應器",
+        "rating": "",
+        "hon_price_min": "222",
+        "hon_price_max": "229",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Xiaomi 小米 米家電子溫濕度計Pro LYWSD02MMC",
+        "rating": "10",
+        "hon_price_min": "139",
+        "hon_price_max": "149",
+        "water_price_min": "128",
+        "water_price_max": "178",
+        "類型:": "溫度濕度計"
+    },
+    {
+        "names": "Airthings Wave Mini 室內空氣質量檢測儀",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Guardman 護匡 門窗警報器 GWT-L100",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "LifeSmart Door/Window Sensor 門窗感應器",
+        "rating": "8.0",
+        "hon_price_min": "160",
+        "hon_price_max": "188",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Google Nest Temperature Sensor",
+        "rating": "",
+        "hon_price_min": "515",
+        "hon_price_max": "518",
+        "water_price_min": "419",
+        "water_price_max": "419",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "APC NetBotz Door Switch Sensor for an APC Rack - 62 in. 門開關傳感器 NBES0313",
+        "rating": "",
+        "hon_price_min": "532",
+        "hon_price_max": "532",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "LifeSmart Gas Sensor 可燃氣體偵測器",
+        "rating": "",
+        "hon_price_min": "347",
+        "hon_price_max": "399",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Panasonic 樂聲 智能家居系列 - 動作感應器 KX-HNS102HM",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "390",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Ezviz 螢石 Door/Window Sensor 門窗傳感器 T2",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "168",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "brennenstuhl RM L 3100 光電式煙霧警報器 (連3V鋰電) 1290050",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "LifeSmart Cube Motion Sensor 多功能動態感應器",
+        "rating": "10",
+        "hon_price_min": "162",
+        "hon_price_max": "278",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Sensibo Air 智能空調遙控器 - 配有房間傳感器 (HomeKit 兼容)",
+        "rating": "10",
+        "hon_price_min": "1,210",
+        "hon_price_max": "1,250",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "ALOK 五合一空氣檢測儀 可檢測甲醛溫度濕度",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "空氣監測器"
+    },
+    {
+        "names": "Xiaomi 小米 青萍空氣檢測儀",
+        "rating": "",
+        "water_price_min": "1,180",
+        "water_price_max": "1,240",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "LifeSmart Water Leak Sensor 漏水感應器",
+        "rating": "",
+        "hon_price_min": "197",
+        "hon_price_max": "238",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Ezviz 螢石 4-Piece Home Sensor Kit 智能 Home Kit 4件套 CS-B1",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "879",
+        "類型:": "智能家居組合"
+    },
+    {
+        "names": "UKGPro 智能水浸感應探測器 U-WW001",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Aqara Smart Smoke Detector 智能煙霧探測警報器",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "isafenest 獨立式煙霧感應器 (10年3V鋰電池不可更換) LZ-1921",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "SwitchBot Contact Sensor 門窗感應器",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "200",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Nest Nest Thermostat 恆溫控制器",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,380",
+        "water_price_min": "2,099",
+        "water_price_max": "2,100",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "SwitchBot Motion Sensor 動態感應器",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "200",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "SmarterWare 3MP 全高清1080p智能佈防警報 Smart 5G WiFi IPCAM C10Q",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "388"
+    },
+    {
+        "names": "Xiaomi 小米 溫濕度傳感器",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "90",
+        "water_price_min": "68",
+        "water_price_max": "80",
+        "類型:": "溫濕度感應器"
+    },
+    {
+        "names": "Xiaomi 小米 青萍空氣檢測儀Lite",
+        "rating": "",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Google Nest Thermostat",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,488",
+        "water_price_min": "790",
+        "water_price_max": "1,488",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "Xiaomi 小米 米家煙霧報警器",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "360",
+        "water_price_min": "190",
+        "water_price_max": "280",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Guardman 護匡 防漏水警報器 GWT-L500",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Elgato Eve Room IOS 室內空氣偵測器",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "Indoor sensor"
+    },
+    {
+        "names": "Foobot Indoor Air Quality Sensor 室內空氣偵測器",
+        "rating": "10",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450"
+    },
+    {
+        "names": "Micro Sun 二氧化碳甲醛檢測監察、警報器 (USB Charged)",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "類型:": "智能空氣監測器, 警報器"
+    },
+    {
+        "names": "Newest Living Smart Zigbee Siren 智能 Zigbee 警報器",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Ring Chime Gen2 第二代智能警報器",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Belkin WeMo Switch + Motion",
+        "rating": "8.0",
+        "hon_price_min": "300",
+        "hon_price_max": "460"
+    },
+    {
+        "names": "Imou Motion Detector 動態偵測器",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "168",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "iHORN Smoke Sensor 智能煙霧傳感警報器 LH-601WF",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "UKGPro 大智能煙霧感應器 (內置WiFi無線天線) U-SS02W",
+        "rating": "",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "UKGPro 智能WiFi車庫或電動門開門器無線感應線 U-WD003-0M",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Airthings Wave Plus 氡氣和空氣質量監測器",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "UKGPro RF無線分體式紅外人體自動感應器 U-2308-KF",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Aqara 人體傳感器 RTCGQ11LM",
+        "rating": "10",
+        "water_price_min": "89",
+        "water_price_max": "118",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "UKGPro 智能安防套裝 (警報器 + 門鈴 + 門磁傳感器 + PIR傳感器 + 2x遠程) U-W2-KIT",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "748",
+        "類型:": "組合"
+    },
+    {
+        "names": "UKG Smart 智能ZigBee門磁感應器 USZ-DOOR-WH-ZD06",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Imou Door Contact 門磁偵測器",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "138",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Google Nest Temperature Sensor",
+        "rating": "",
+        "hon_price_min": "515",
+        "hon_price_max": "518",
+        "water_price_min": "419",
+        "water_price_max": "419",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "Xiaomi 小米 米家 PM2.5 檢測儀",
+        "rating": "",
+        "water_price_min": "430",
+        "water_price_max": "430"
+    },
+    {
+        "names": "Guardman 護匡 多重接收器 (配備接駁互聯網功能) GWR-T3000",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,170",
+        "類型:": "智能感應器 , 智能警報器"
+    },
+    {
+        "names": "Arlo Chime 2 智能警報器",
+        "rating": "10",
+        "hon_price_min": "396",
+        "hon_price_max": "599",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Imou Siren 聲光警報器",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Netzhome Wi-Fi Security Stud 防盜小圓釘 WT10",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "199",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Xiaomi 小米 人體傳感器",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "85",
+        "water_price_min": "65",
+        "water_price_max": "65",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "AVIO 智能家居燈飾組合",
+        "rating": "8.0",
+        "hon_price_min": "29,900",
+        "hon_price_max": "29,900",
+        "類型:": "組合"
+    },
+    {
+        "names": "Xiaomi 小米 米家溫溼傳感器",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "120",
+        "water_price_min": "68",
+        "water_price_max": "105",
+        "類型:": "溫濕度感應器"
+    },
+    {
+        "names": "Elgato Eve Room Sensor 室內空氣偵測器",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "環境感應器"
+    },
+    {
+        "names": "Guardman 護匡 Wireless Doorbell / WindowAlarm 無線門窗警報器 (超薄版) GWT-L120",
+        "rating": "",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Fibaro Smoke Sensor 煙霧感應器",
+        "rating": "10",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Brennenstuhl 煙霧感應器 BR166",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "LifeSmart Cube Environmental Sensor 多功能環境感應器",
+        "rating": "10",
+        "hon_price_min": "187",
+        "hon_price_max": "218",
+        "類型:": "溫度感應器, 環境感應器"
+    },
+    {
+        "names": "LifeSmart Motion Sensor 動態感應器",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "188",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Xiaomi 小米 米家溫濕度傳感器 WSDCGQ01LM",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "100",
+        "類型:": "溫濕度感應器"
+    },
+    {
+        "names": "SensePlus 室內空氣質素監測器 MX-AQ-01",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "UKG Smart 智能ZigBee水浸感應探測器 USZ-WATER-WH-ZW06",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Xiaomi 小米 門窗傳感器",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "89",
+        "water_price_min": "48",
+        "water_price_max": "79",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "MCOHome 二氧化碳監測器 MH9-CO2-WA",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Guardman 護匡 磁力拉動式警報器",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Ezviz 螢石 智能家居警報套裝 BS-113A",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "990",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "SensePlus 煙霧感應器 MX-WQ-01",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "UKGPro WiFi 智能門磁感應器 U-WD001",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "AduroSmart ERIA Wireless Contact Sensor 門窗傳感器",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "LEAP MOTION 體感控制器 LM-010",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,199",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Smach 智元 核輻射監察、警報器 (個人劑量警報) RG1000",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "類型:": "核輻射監察器, 警報器"
+    },
+    {
+        "names": "Netatmo Smart Thermostat 溫度感應器",
+        "rating": "",
+        "water_price_min": "1,650",
+        "water_price_max": "1,650",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "Broadlink 智能保安套裝S1 配件 (Security Set Accessory) - PIR Sensor PIR人體識別別器",
+        "rating": "8.0",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Fibaro Flood Sensor Gen 5 漏水探測器 第五代",
+        "rating": "10",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Elgato 溫濕度監測器",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "Nest Connect 信號擴大器",
+        "rating": "",
+        "hon_price_min": "848",
+        "hon_price_max": "859",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Oregon 智能空氣監察儀 SEH101",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Samsung 三星 SmartThings Motion Sensor",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Fibaro Door/Window Sensor 智能門窗感應器 FGBHDW-002",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "LifeSmart Environmental Sensor 環境感測器",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "350",
+        "類型:": "溫濕度感應器, 環境感應器"
+    },
+    {
+        "names": "netzhome WiFi 智能溫度感測器 - WT08",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "isafenest 獨立式煙霧感應器 (5年9V碳性可更換電池) LZ-1906",
+        "rating": "",
+        "water_price_min": "228",
+        "water_price_max": "228",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Ezviz 螢石 Wireless Open-Close Detector 無線單體門磁傳感器 T6",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "210",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Elgato Eve Motion 無線動作感應器",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "448",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "MCOHome PM2.5 監測器 MH-PM2.5-EU",
+        "rating": "",
+        "hon_price_min": "1,188",
+        "hon_price_max": "1,188",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "iHORN PIR Motion Sensor 智能移動感應 LH-961ZB",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "UKGPro 智能光譜火焰傳感器 (WiFi) U-FSW",
+        "rating": "",
+        "hon_price_min": "1,749",
+        "hon_price_max": "1,749",
+        "類型:": "火焰傳感器, 警報器"
+    },
+    {
+        "names": "Xiaomi 小米 光照傳感器",
+        "rating": "",
+        "water_price_min": "128",
+        "water_price_max": "128",
+        "類型:": "光照傳感器, 環境感應器"
+    },
+    {
+        "names": "Samsung 三星 SmartThings Starter Kit",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "water_price_min": "1,750",
+        "water_price_max": "1,790",
+        "類型:": "智能插頭, 智能感應器"
+    },
+    {
+        "names": "Fibaro Smoke Sensor 2 煙霧感應器",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Kingmax AirQ Check 微型空氣品質偵測器 GS-01",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Elgato Eve Weather IOS 室外傳感器",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "449",
+        "類型:": "Outdoor Sensor"
+    },
+    {
+        "names": "Brinno 動態感應配件 MAS100G",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "動作感應器配件"
+    },
+    {
+        "names": "Elgato Eve Door & Window IOS 門窗傳感器",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "348",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Xiaomi 小米 米家藍牙溫濕度計 LYWSDCGQ/01ZM",
+        "rating": "8.0",
+        "hon_price_min": "100",
+        "hon_price_max": "108",
+        "water_price_min": "48",
+        "water_price_max": "90",
+        "類型:": "溫度濕度計"
+    },
+    {
+        "names": "isafenest 迷你獨立式煙霧感應器 (10年3V鋰電池不可更換) LZ-1951",
+        "rating": "",
+        "water_price_min": "338",
+        "water_price_max": "338",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Fibaro Universal Binary Sensor 通用傳感器",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Google Nest Learning Thermostat, 3rd Generation",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "water_price_min": "1,080",
+        "water_price_max": "1,680",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "Broadlink e-Air 智能環境監測器 A1",
+        "rating": "",
+        "hon_price_min": "365",
+        "hon_price_max": "698",
+        "類型:": "環境感應器"
+    },
+    {
+        "names": "Fibaro Flood Sensor 水浸傳感器 FGBHFS-101",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Fibaro CO Sensor 空氣品質偵測器",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "UKGPro WiFi 智能PIR移動感應器 U-PD02W",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "isafenest 智能煙霧感應器 (10年感應電池+3年可換鋰電池) 內置WiFi無線天線 LZ-1956I",
+        "rating": "",
+        "water_price_min": "388",
+        "water_price_max": "388",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Netzhome WiFi Leak Sensor 漏水感應器 WT12",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "iHORN Gas Leakage Sensor 智能燃氣洩露報警器 LH-801WF",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Bike Guard 708A3 Plus 單車雙向無線警報系統",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Xiaomi 小米 米家Honeywell 煙霧傳感器",
+        "rating": "",
+        "hon_price_min": "360",
+        "hon_price_max": "360",
+        "water_price_min": "270",
+        "water_price_max": "280",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "iHORN Temperature & Humidity Sensor 智能溫濕度傳感器 LH-331ZB",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "類型:": "溫濕度感應器"
+    },
+    {
+        "names": "Fibaro Flood Sensor  水浸傳感器",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "Fibaro Swipe 手勢感應器",
+        "rating": "",
+        "hon_price_min": "3,499",
+        "hon_price_max": "3,499"
+    },
+    {
+        "names": "Fibaro Motion Sensor 環境感測器",
+        "rating": "8.0",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "動作感應器, 環境感應器"
+    },
+    {
+        "names": "Fibaro Motion Sensor 動作感應器 FGBHMS-001",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "brennenstuhl RM C 9010 光電式煙霧警報器 (連DC9V) 1290080",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Netzhome Wi-Fi Motion Sensor 智能移動感應器 WT09",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "動作感應器"
+    },
+    {
+        "names": "Fibaro Door/Window Sensor 門窗傳感器",
+        "rating": "10",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Broadlink Alarm & Security Kit 智能監控保安系統 S1",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "警報器"
+    },
+    {
+        "names": "Fibaro CO Sensor HK 空氣品質偵測器 FGBHCD-001",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Ring Chime Pro Gen2 第二代專業智能警報器",
+        "rating": "",
+        "hon_price_min": "474",
+        "hon_price_max": "474",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "UKGPro 智能3合1 (PIR移動 / 溫度 / 濕度) WiFi USB供電偵測感應器 U-PD07W",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "類型:": "動作感應器, 溫濕度感應器"
+    },
+    {
+        "names": "AVIO 智能家居入門組合",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "類型:": "組合"
+    },
+    {
+        "names": "Guardman 護匡 插頭式警報接收器",
+        "rating": "",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Aeotec Door Window Sensor 門窗感應器",
+        "rating": "10",
+        "hon_price_min": "830",
+        "hon_price_max": "830",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Nest Detect 感應器",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "748",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Netzhome WiFi Vibration Sensor 智能震動感應器 WT04",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類型:": "動作感應器, 震動感應器"
+    },
+    {
+        "names": "UKGPro 智能WiFi車庫或電動門開門器5米感應線 U-WD003-5M",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Terncy 小燕 門窗感應器",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Samsung 三星 SmartThings Multi Sensor",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Borui 手持式安全警報和振動金屬探測器 GP-101",
+        "rating": "10",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "UKGPro 智能WiFi警報器 U-AB02W",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Sleepace RestOn Smart Sleep Monitor 智能睡眠監視器",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,260",
+        "類型:": "睡眠監測器"
+    },
+    {
+        "names": "Broadlink e-Air Environment Sensor 智能環境監測器 A1",
+        "rating": "8.0",
+        "hon_price_min": "365",
+        "hon_price_max": "668",
+        "類型:": "環境監測器"
+    },
+    {
+        "names": "Origins Laser Egg 空氣檢測儀",
+        "rating": "",
+        "類型:": "智能空氣監測器"
+    },
+    {
+        "names": "Netzhome Wi-Fi Door Sensor 智能門窗感應器 WT06",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Netzhome WiFi Temperature Sensor 智能溫度感測器 WT08",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類型:": "溫度感應器"
+    },
+    {
+        "names": "BroadLink Wi-Fi智能微管家套裝 S1C",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228"
+    },
+    {
+        "names": "Aeotec MultiSensor 6  6合1感應器",
+        "rating": "10",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,220",
+        "類型:": "智能感應器"
+    },
+    {
+        "names": "AVIO 智能家居保安組合",
+        "rating": "8.0",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類型:": "組合"
+    },
+    {
+        "names": "Xiaomi 小米 小米智能家庭套裝",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "組合"
+    },
+    {
+        "names": "Netzhome WiFi Water Level Sensor 水位感應器WT13",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "水浸探測器"
+    },
+    {
+        "names": "UKGPro 智能煙霧感應器 U-SS01W",
+        "rating": "",
+        "類型:": "煙霧警報器"
+    },
+    {
+        "names": "Panasonic 樂聲 智能家居系列 - 窗/門感應器 KX-HNS101HM",
+        "rating": "",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "DLINK myDLink Wi-Fi Water Sensor 水浸傳感器 DCH-S160",
+        "rating": "",
+        "類型:": "Wi-Fi Water Sensor"
+    },
+    {
+        "names": "RSH 智能感應器 MS03",
+        "rating": "",
+        "類型:": "智能感應器"
+    },
+    {
+        "names": "D-link Smart Home HD Starter Kit DCH-100KT/B",
+        "rating": "",
+        "類型:": "智能監測器, 智能插頭, 智能感應器"
+    },
+    {
+        "names": "TCL LIFE Home Monitoring Kit 智能家居監測套件",
+        "rating": "",
+        "類型:": "智能家居監測套件"
+    },
+    {
+        "names": "IB 智能防盜系統高畫質網路攝影一體機 P2P Cam (支援無線門鐘, 警笛, 水浸警報等感應器)",
+        "rating": "10"
+    },
+    {
+        "names": "Hoholife GPS定位及跌倒警報器",
+        "rating": "",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "Care Go GPS 跟踪個人警報器",
+        "rating": "",
+        "類型:": "智能警報器"
+    },
+    {
+        "names": "RSH 門窗傳感器 DW04DS-WH",
+        "rating": "",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Withings Aura Smart Sleep System 睡眠質素監測系統",
+        "rating": "",
+        "類型:": "睡眠監測器"
+    },
+    {
+        "names": "Koogeek Door & Window Sensor 門窗傳感器",
+        "rating": "",
+        "類型:": "門窗感應器"
+    },
+    {
+        "names": "Sleepace Sleep Dot 享睡鈕扣智能睡眠監測器",
+        "rating": "",
+        "類型:": "睡眠監測器"
+    }
+]

@@ -1,0 +1,2979 @@
+[
+    {
+        "names": "Capcom PC Monster Hunter Rise: Sunbreak《魔物獵人崛起:破曉》 (數位一般版)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "298",
+        "遊戲類型:": "冒險 / 角色扮演",
+        "推出年月(大約):": "2022-06-30"
+    },
+    {
+        "names": "Bandai Namco PC Elden Ring《艾爾登法環》",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "339",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2022-02-25"
+    },
+    {
+        "names": "Bandai Namco PC SD Gundam Battle Alliance 高達激鬥同盟 (Steam數位普通版)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2022-08-25"
+    },
+    {
+        "names": "Bandai Namco PC SD Gundam Battle Alliance 高達激鬥同盟 (Steam數位豪華版)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2022-08-25"
+    },
+    {
+        "names": "Capcom PC Monster Hunter: World 魔物獵人崛起: 世界 (豪華版)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-08-10"
+    },
+    {
+        "names": "Bethesda PC The Elder Scrolls Online: Morrowind Digital Collector's Edition 上古卷軸OL: 晨風 (典藏版)",
+        "rating": "",
+        "hon_price_min": "485",
+        "hon_price_max": "485",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2017-06-08"
+    },
+    {
+        "names": "Team17 PC Moving Out 胡鬧搬家",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "遊戲類型:": "動作 / 休閒 / 模擬 / 合作",
+        "推出年月(大約):": "2020-04-28"
+    },
+    {
+        "names": "505 Games PC Ghost Runner 幽影行者 (Steam數位版)",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2020-10-28"
+    },
+    {
+        "names": "Skvader Entertainment PC Myth of Mist:Legacy 迷霧國度:傳承 (Steam數位版)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "遊戲類型:": "策略 / 模擬 / 冒險 / 角色扮演",
+        "推出年月(大約):": "2022年1月28日"
+    },
+    {
+        "names": "Bethesda PC The Evil Within 2 邪靈入侵 2 (實體版)",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "遊戲類型:": "動作 / 冒險",
+        "推出年月(大約):": "2017-10-13"
+    },
+    {
+        "names": "Capcom PC Monster Hunter: World 魔物獵人崛起: 世界 (普通版)",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-08-10"
+    },
+    {
+        "names": "Mojang Studios PC Minecraft 我的世界 (Java & Bedrock Edition)",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "209",
+        "遊戲類型:": "動作 / 冒險",
+        "推出年月(大約):": "2022-06-06"
+    },
+    {
+        "names": "Clouded Leopard PC ONI: 鬼族武者立志傳 (Steam數位版)",
+        "rating": "",
+        "hon_price_min": "214",
+        "hon_price_max": "214",
+        "遊戲類型:": "動作 / 冒險",
+        "推出年月(大約):": "2023-03-09"
+    },
+    {
+        "names": "Microsoft game studios PC Age of Empires: Definitive Edition 世紀帝國: 決定版 (Win10版)",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2019-08-19"
+    },
+    {
+        "names": "甲山林娛樂 PC Fate Seeker II 天命奇御二 (Steam 數位版)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2021-11-22"
+    },
+    {
+        "names": "Capcom PC Monster Hunter Rise 魔物獵人崛起 (Steam數位豪華版)",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2022-01-13"
+    },
+    {
+        "names": "Battlestate Games PC Escape from Tarkov 逃離塔科夫 (Standard Edition)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "320",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2017-12-22"
+    },
+    {
+        "names": "Bandai Namco PC Steam《超級機器人大戰 30》究極版",
+        "rating": "",
+        "hon_price_min": "779",
+        "hon_price_max": "779",
+        "遊戲類型:": "策略模擬 / 角色扮演",
+        "推出年月(大約):": "2021-10-28"
+    },
+    {
+        "names": "Activision PC Crash Bandicoot N. Sane Trilogy 古惑狼大冒險三部曲 (盒裝版)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-06-30"
+    },
+    {
+        "names": "SEGA PC Company of Heroes 3 英雄連隊 3 (Steam數位版)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "遊戲類型:": "策略",
+        "推出年月(大約):": "2023-02-23"
+    },
+    {
+        "names": "Capcom PC Monster Hunter World: Iceborne 魔物獵人 世界: Iceborn (DLC - Iceborne 普通版)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2020-01-10"
+    },
+    {
+        "names": "SEGA PC Company of Heroes 3 英雄連隊 3",
+        "rating": "",
+        "hon_price_min": "418",
+        "hon_price_max": "418",
+        "遊戲類型:": "策略",
+        "推出年月(大約):": "2023-02-23"
+    },
+    {
+        "names": "Capcom PC 魔物獵人 物語 2：破滅之翼 豪華版 Monster Hunter Stories 2: Wings of Ruin",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "遊戲類型:": "冒險 / 角色扮演",
+        "推出年月(大約):": "2021-07-09"
+    },
+    {
+        "names": "Capcom PC Monster Hunter Rise 魔物獵人崛起 (Steam 數位一般版)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2022-01-13"
+    },
+    {
+        "names": "Capcom PC Monster Hunter Rise: Sunbreak《魔物獵人崛起:破曉》(數位豪華版)",
+        "rating": "",
+        "hon_price_min": "379",
+        "hon_price_max": "379",
+        "遊戲類型:": "冒險 / 角色扮演",
+        "推出年月(大約):": "2022-06-30"
+    },
+    {
+        "names": "Game Nobility PC Sunny Cafe 晴天咖啡館 (數位一般版)",
+        "rating": "",
+        "hon_price_min": "59",
+        "hon_price_max": "59",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2021-12-09"
+    },
+    {
+        "names": "Falcom PC Ys: Foliage Ocean in Celceta 伊蘇: 塞爾塞塔的樹海 (實體平裝版)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2015-12-04"
+    },
+    {
+        "names": "KOEI PS FAIRY TAIL 魔導少年 (數位豪華版)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "遊戲類型:": "動作 / 冒險 / 角色扮演",
+        "推出年月(大約):": "2020-07-30"
+    },
+    {
+        "names": "THQ Nordic PC Darksiders Genesis 暗黑血統: 創世紀",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2019-12-06"
+    },
+    {
+        "names": "Obsidian PC Pillars of Eternity II: Deadfire 永恒之柱2: 死亡之火",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2018-05-09"
+    },
+    {
+        "names": "SEGA PC Two Point Hospital 雙點醫院",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2018-08-30"
+    },
+    {
+        "names": "Compile Heart PC Hyperdimension Neptunia Victory II 新次元遊戲 戰機少女 VII",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2020-06-18"
+    },
+    {
+        "names": "大宇資訊有限公司 PC 仙劍客棧2 (Steam序號版)",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75",
+        "遊戲類型:": "角色扮演 / 模擬",
+        "推出年月(大約):": "2022-07-08"
+    },
+    {
+        "names": "Bandai Namco PC Sword Art Online Alicization Lycoris 刀劍神域 彼岸遊境",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2020-07-08"
+    },
+    {
+        "names": "Xbox Game Studios PC Age of Empires II：Definitive Edition 世紀帝國2: 決定版 (Steam版)",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2019-11-15"
+    },
+    {
+        "names": "Pupuya Games PC Little Witch Nobeta 小魔女諾貝塔",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "遊戲類型:": "冒險",
+        "推出年月(大約):": "2022-09-29"
+    },
+    {
+        "names": "Microsoft game studios PC Halo: The Master Chief Collection Halo: 士官長合輯 (Win10版)",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2019-12-04"
+    },
+    {
+        "names": "Ubisoft PC Assassin's Creed Odyssey 刺客教條 奧德賽 (數位豪華版)",
+        "rating": "",
+        "hon_price_min": "525",
+        "hon_price_max": "525",
+        "遊戲類型:": "動作 / 冒險",
+        "推出年月(大約):": "2018-10-05"
+    },
+    {
+        "names": "SOFTSTAR 軒轅劍柒",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "235",
+        "遊戲類型:": "動作/冒險/角色扮演",
+        "推出年月(大約):": "2020-10-29"
+    },
+    {
+        "names": "Deep Silver Agents of Mayhem《黑街特務》英文版",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "199",
+        "water_price_min": "90",
+        "water_price_max": "90"
+    },
+    {
+        "names": "Bandai Namco PC Steam《超級機器人大戰 30》豪華版",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "遊戲類型:": "策略模擬 / 角色扮演",
+        "推出年月(大約):": "2021-10-28"
+    },
+    {
+        "names": "Idea Factory PC Agarest: Generations of War 2 阿加雷斯特戰記 2",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2015-02-28"
+    },
+    {
+        "names": "Bandai Namco PC 破曉傳奇 Tales of Arise",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2021-09-10"
+    },
+    {
+        "names": "MILESTONE 塞巴斯蒂安拉力賽 SEBASTIEN LOEB RALLY EVO (中英文版)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "270",
+        "遊戲類型:": "PC",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Capcom PC 魔物獵人 物語 2：破滅之翼 Monster Hunter Stories 2: Wings of Ruin",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "遊戲類型:": "冒險 / 角色扮演",
+        "推出年月(大約):": "2021-07-09"
+    },
+    {
+        "names": "Microsoft game studios PC Gears Tactics 戰爭機器：戰術小隊",
+        "rating": "",
+        "hon_price_min": "402",
+        "hon_price_max": "402",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2020-04-28"
+    },
+    {
+        "names": "Capcom Marvel vs. Capcom：Infinite 中英文合版",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "299",
+        "遊戲類型:": "動作、格鬥",
+        "推出年月(大約):": "2017年 9月"
+    },
+    {
+        "names": "Bandai Namco PC 我的英雄學院 唯我正義 (Steam數位版)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2020-03-13"
+    },
+    {
+        "names": "Battlestate Games PC Escape from Tarkov 逃離塔科夫 (Edge of Darkness Limited Edition)",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2017-12-22"
+    },
+    {
+        "names": "Bethesda PC The Evil Within 2 邪靈入侵 2 (數位版)",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "遊戲類型:": "動作 / 冒險",
+        "推出年月(大約):": "2017-10-13"
+    },
+    {
+        "names": "Bandai Namco One Piece: 海賊無雙3 中文版",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "328",
+        "遊戲類型:": "動作"
+    },
+    {
+        "names": "Microsoft game studios MICROSOFT FLIGHT SIMULATOR X STEAM EDITION",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "180",
+        "遊戲類型:": "PC",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Bandai Namco ONE PIECE BURNING BLOOD (中文版)",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "298",
+        "推出年月(大約):": "30-OCT-2016"
+    },
+    {
+        "names": "Bethesda Elder Scrolls V: Skyrim",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "109",
+        "遊戲類型:": "動作角色扮演",
+        "推出年月(大約):": "2011年11月12日"
+    },
+    {
+        "names": "Bandai Namco Project Cars 2 中英文合版",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "遊戲類型:": "賽車",
+        "推出年月(大約):": "2017-09-22"
+    },
+    {
+        "names": "2K Games Borderlands 3 邊緣禁地 3 中英合版",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "198",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2019-9-15"
+    },
+    {
+        "names": "Bandai Namco NEW GUNDAM BREAKER 中文版",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-06-22"
+    },
+    {
+        "names": "Activision PC Crash Bandicoot N. Sane Trilogy 古惑狼大冒險三部曲  (數位版)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-06-30"
+    },
+    {
+        "names": "Xbox Game Studios 最後一戰：星環戰役 2 HALO WARS 2 (中英文版)",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "350"
+    },
+    {
+        "names": "Microsoft game studios Flight Simulator 2020 Premium Deluxe Edition (DVD Version)",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "568",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2020-08-18"
+    },
+    {
+        "names": "Codemasters F1 2019[週年紀念版] (英文)- 歐版 F1 2019[Anniversary Edition](ENG) - EU",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "遊戲類型:": "競速",
+        "推出年月(大約):": "2019-06-28"
+    },
+    {
+        "names": "EA 靚影特務：關鍵催化 MIRRIR'S EDGE CATALYST (中英文版)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "09-JUNE-2016"
+    },
+    {
+        "names": "Xbox Game Studios Xbox Series X|S / Xbox One / Windows Halo Infinite《最後一戰：無限》",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "402"
+    },
+    {
+        "names": "Arc System Works PC DNF Duel 數位版",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359",
+        "遊戲類型:": "狩獵 / 動作",
+        "推出年月(大約):": "2022-06-28"
+    },
+    {
+        "names": "2K Games Civilization Beyond Earth 文明帝國: 超越地球",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "遊戲類型:": "戰略",
+        "推出年月(大約):": "2014年10月25日"
+    },
+    {
+        "names": "KOEI 三國志 14",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "遊戲類型:": "策略模擬"
+    },
+    {
+        "names": "大宇資訊 天使帝國 4 (中文版)",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "遊戲類型:": "PC",
+        "推出年月(大約):": "30-JUNE-2016"
+    },
+    {
+        "names": "Deep Silver 死亡之島決定版 DEAD ISLAND DEFINITIVE COLLECTION(英文版)",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "遊戲類型:": "PC",
+        "推出年月(大約):": "31-MAY-2016"
+    },
+    {
+        "names": "Ubisoft PC For Honor 榮耀戰魂 中英合版",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "多人"
+    },
+    {
+        "names": "EA Dead Space 3",
+        "rating": "10",
+        "遊戲類型:": "動作角色扮演",
+        "推出年月(大約):": "2013年2月26日"
+    },
+    {
+        "names": "KOEI 信長之野望 創造 戰國立志傳 (中文版) (亞洲版)",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "450",
+        "遊戲類型:": "PC",
+        "推出年月(大約):": "28-JULY-2016"
+    },
+    {
+        "names": "BigBen Interactive Warhammer Chaosbane 戰鎚：混沌禍源 (繁/簡/中英文版) - 亞洲版",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2019-06-04"
+    },
+    {
+        "names": "Bethesda Fallout 76 中英文版",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "399",
+        "遊戲類型:": "動作,角色扮演",
+        "推出年月(大約):": "2018-11-13"
+    },
+    {
+        "names": "SEGA PC Football Manager 2022 《足球經理 2022》",
+        "rating": "",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2021-11-9"
+    },
+    {
+        "names": "CI Games Sniper Ghost Warrior 3 Season Pass Edition",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2017年4月"
+    },
+    {
+        "names": "EA Mass Effect Andromeda 質量效應：仙女座 英文版",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "198",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "多人"
+    },
+    {
+        "names": "Milestone Ride 3 極速騎行3 (中英文合版) - 亞洲版",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "遊戲類型:": "競速",
+        "推出年月(大約):": "2018-11-30"
+    },
+    {
+        "names": "SEGA Total War Saga：TROY《全軍破敵傳奇：特洛伊》 (鐵盒實體版)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "328",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2020年11月5日"
+    },
+    {
+        "names": "Capcom PC Resident Evil 3 (Biohazard RE:3) 惡靈古堡 3 (生化危機 3) 重製版 (Steam)",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "449",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2020-04-03"
+    },
+    {
+        "names": "Quantic Dream PC 底特律 : 變人 Detroit: Become Human【Collectors' Edition】",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "2,380",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2020-10-22"
+    },
+    {
+        "names": "BigBen Interactive PC 世界越野冠軍賽 8 (繁中/簡中/英/日/韓文版) - 歐版 WRC 8 (T.CHI/S.CHI/ENG/JPN/KOR) - EU",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "遊戲類型:": "競速",
+        "推出年月(大約):": "2019-09-05"
+    },
+    {
+        "names": "Bethesda 毀滅戰士 DOOM (中英文版)",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "233",
+        "遊戲類型:": "PC",
+        "推出年月(大約):": "13-MAY-2016"
+    },
+    {
+        "names": "Xbox Game Studios PC Age of Empires II：Definitive Edition 世紀帝國2: 決定版 (Win10版)",
+        "rating": "",
+        "hon_price_min": "143",
+        "hon_price_max": "143",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2019-11-15"
+    },
+    {
+        "names": "EA Titanfall 2",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "198",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "28/10/2016"
+    },
+    {
+        "names": "Softstar 大宇資訊 PC 仙劍奇俠傳七 Chinese Paladin : Sword and Fairy 7",
+        "rating": "",
+        "hon_price_min": "205",
+        "hon_price_max": "228",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2021-10-22"
+    },
+    {
+        "names": "KOEI PC FAIRY TAIL 魔導少年 (數位一般版)",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "469",
+        "遊戲類型:": "動作 / 冒險 / 角色扮演",
+        "推出年月(大約):": "2020-07-30"
+    },
+    {
+        "names": "EA Dragon Age 2",
+        "rating": "10",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "遊戲人數:": "1~多"
+    },
+    {
+        "names": "SEGA Total War : Attila 全軍破敵 : 阿提拉 (英文版)",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "KOEI 信長之野望 : 創造 中文版",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "遊戲類型:": "戰略",
+        "推出年月(大約):": "28/8"
+    },
+    {
+        "names": "Pupuya Games PC Little Witch Nobeta【Deluxe Edition】小魔女諾貝塔【豪華聯名版】",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "848",
+        "遊戲類型:": "冒險",
+        "推出年月(大約):": "2022-09-29"
+    },
+    {
+        "names": "Ubisoft WATCH DOGS 2 看門狗 2 中文版",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "298",
+        "推出年月(大約):": "29-NOV-2016"
+    },
+    {
+        "names": "Softstar 大宇資訊 PC 仙劍奇俠傳七 (豪華版) Chinese Paladin : Sword and Fairy 7 (Deluxe Edition)",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "620",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2021-10-22"
+    },
+    {
+        "names": "2K Games The Bureau: XCOM Declassified",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2013年8月20日"
+    },
+    {
+        "names": "Xbox Game Studios PC Age of Empires IV 世紀帝國4 (Steam數位特別版)",
+        "rating": "",
+        "hon_price_min": "505",
+        "hon_price_max": "505",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2021-10-28"
+    },
+    {
+        "names": "Bandai Namco 劍魂6 SoulCalibur VI",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "遊戲類型:": "格鬥",
+        "推出年月(大約):": "2018-10-18"
+    },
+    {
+        "names": "Ubisoft WAR PACK (SILENT HUNTER 5 + HEROES OVER EUROPE + CLIFFS OF DOVER IL-2 STURMOVIK)",
+        "rating": "",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "遊戲類型:": "PC",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Bandai Namco PC《一拳超人 無名英雄》 One Punch Man A Hero Nobody Knows",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2020-2-28"
+    },
+    {
+        "names": "Bandai Namco 噬神者3 God Eater 3 (中文標準版)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "299",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2019-02-28"
+    },
+    {
+        "names": "Blizzard StarCraft II: Heart of the Swarm (SAE)",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "遊戲類型:": "即時戰略",
+        "推出年月(大約):": "2013年3月12日"
+    },
+    {
+        "names": "Ubisoft PC 火線獵殺：野境",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "7-3-2017"
+    },
+    {
+        "names": "Ubisoft Tom Clancy's Splinter Cell Blacklist",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "210",
+        "遊戲類型:": "第三身射擊",
+        "推出年月(大約):": "2013年8月20日"
+    },
+    {
+        "names": "EA The Sims 4 模擬市民4",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2014年9月2日"
+    },
+    {
+        "names": "Bandai Namco PC Steam《超級機器人大戰 30》普通版",
+        "rating": "",
+        "hon_price_min": "419",
+        "hon_price_max": "419",
+        "遊戲類型:": "策略模擬 / 角色扮演",
+        "推出年月(大約):": "2021-10-28"
+    },
+    {
+        "names": "Ubisoft 《虹彩六號：圍攻行動》Tom Clancy's Rainbow Six：Siege 中英文合版",
+        "rating": "9.3",
+        "hon_price_min": "98",
+        "hon_price_max": "120",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "1/12/2015"
+    },
+    {
+        "names": "KOEI 信長之野望 大志 中文版",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2017"
+    },
+    {
+        "names": "Eidos interactive PC Deus Ex：Mankind Divided《駭客入侵：人類分裂》",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "149",
+        "遊戲類型:": "動作角式扮演",
+        "推出年月(大約):": "23/8/2016"
+    },
+    {
+        "names": "SEGA Football Manager 2020 中英文版",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "模擬,運動",
+        "推出年月(大約):": "2019-11-19"
+    },
+    {
+        "names": "大宇資訊 俠客風雲傳前傳 (中文版)",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "220",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "28-SEP-2016"
+    },
+    {
+        "names": "THQ Nordic PC Darksiders III 末世騎士III (中英文版)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "290",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-11-28"
+    },
+    {
+        "names": "Rockstar L.A. Noire The Complete Edition",
+        "rating": "8.0",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2011-11-15"
+    },
+    {
+        "names": "SEGA 全軍破敵 : 經典6合1合輯",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Capcom Resident Evil 6",
+        "rating": "",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "3月22日"
+    },
+    {
+        "names": "Bethesda The Evil Within 邪靈入侵",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "99",
+        "遊戲類型:": "動作冒險",
+        "推出年月(大約):": "2014年10月14日"
+    },
+    {
+        "names": "Bandai Namco TEKKEN 7",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "150",
+        "遊戲類型:": "動作, 運動"
+    },
+    {
+        "names": "Warner Bros. LEGO Marvel Super Heroes 2",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2017-11-15"
+    },
+    {
+        "names": "大宇資訊 軒轅劍陸 平裝版",
+        "rating": "7.0",
+        "hon_price_min": "99",
+        "hon_price_max": "180",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2013年8月9日"
+    },
+    {
+        "names": "Capcom Devil May Cry 5 (惡魔獵人5) 中日英文版",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "278",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2019-03-08"
+    },
+    {
+        "names": "2K Games XCOM: Enemy Unknown",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "遊戲類型:": "戰略",
+        "推出年月(大約):": "2012年10月12日"
+    },
+    {
+        "names": "Bandai Namco 多啦A夢 牧場物語 Steam版",
+        "rating": "",
+        "hon_price_min": "255",
+        "hon_price_max": "255",
+        "遊戲類型:": "角色扮演、模擬經營",
+        "推出年月(大約):": "2019-10-11"
+    },
+    {
+        "names": "SEGA Football Manager 2019 足球經理2019 中英文版",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "180",
+        "遊戲類型:": "模擬, 運動",
+        "推出年月(大約):": "2018-11-02"
+    },
+    {
+        "names": "Capcom DmC Devil May Cry",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "25-1-2013"
+    },
+    {
+        "names": "Square Enix RISE OF THE TOMB RAIDER 20 YEAR CELEBRATION 古墓奇兵：崛起  20週年慶典版 (中英文版)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "08-OCT-2016"
+    },
+    {
+        "names": "河洛工作室 俠客風雲傳前傳 典藏版",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "28-SEP-2016"
+    },
+    {
+        "names": "Ubisoft 《湯姆克蘭西：全境封鎖》Tom Clancy's The Division 中英文合版",
+        "rating": "10",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "遊戲類型:": "射擊 , 動作, 多人連線",
+        "推出年月(大約):": "8/3/2016"
+    },
+    {
+        "names": "Ubisoft Far Cry 5 極地戰嚎5",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "遊戲類型:": "動作/冒險",
+        "推出年月(大約):": "2018-03-27"
+    },
+    {
+        "names": "EA THE sims 4 GET TOGETHER",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2014-09-02"
+    },
+    {
+        "names": "Thermite Games PC Nobody - The Turnaround 大多數 (Steam 數位版)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2022-11-16"
+    },
+    {
+        "names": "Microsoft game studios 量子裂痕：永恆典藏版 QUANTUM BREAK : TIMELESS COLLECTOR’S EDITION (中英文版)",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "268",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "29-SEP-2016"
+    },
+    {
+        "names": "Bethesda Elder Scrolls V: Skyrim Special Edition 上古卷軸 5：無界天際 特別版 中英合版",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "259",
+        "推出年月(大約):": "28-OCT-2016"
+    },
+    {
+        "names": "Bandai Namco PC 偶像大師 星耀季節",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2021-10-14"
+    },
+    {
+        "names": "Ubisoft Assassins Creed Liberation",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "145",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2013年1月30日"
+    },
+    {
+        "names": "CD Projekt RED 電馭叛客 2077 Cyberpunk 2077 (PC 實體普通版 - GOG平台)",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2020年12月10日"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed：Origins 刺客教條：起源 (數位豪華版-中文)",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2017"
+    },
+    {
+        "names": "Bandai Namco PC Code Vein 噬血代碼 中英文合版",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Bungie Destiny 2 《天命 2》",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "99",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2017-10-25"
+    },
+    {
+        "names": "Activision Call of Duty: Black Ops 4 Pro Edition《決勝時刻: 黑色行動4》",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2018-10-12"
+    },
+    {
+        "names": "Valve Counter Strike Global Offensive",
+        "rating": "6.0",
+        "hon_price_min": "78",
+        "hon_price_max": "99",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "1 - 多"
+    },
+    {
+        "names": "Bigben Interactive 網球世界巡迴賽 [羅蘭·加洛斯球場版] - 亞洲版 PC Tennis World Tour [Rolland-Garros Edition] - ASIA",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2019-06-16"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed Rogue 刺客教條 : 叛變 (中英文版)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "199",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "KOEI 仁王 Nioh: Complete Edition",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "380",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2017-11-07"
+    },
+    {
+        "names": "宇峻奧汀 幻想三國誌5",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "208",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2018-04-25"
+    },
+    {
+        "names": "Deep Silver 烽火家園: 革命再起 HOMEFRONT: THE REVOLUTION (英文版)",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "19-MAY-2016"
+    },
+    {
+        "names": "Bandai Namco 時空幻境 宵星傳奇 Remaster 中文版",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "299",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2019-01-11"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed Revelations",
+        "rating": "6.0",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2011年11月29日"
+    },
+    {
+        "names": "甲山林娛樂 天命奇御 中文版",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2018-08-08"
+    },
+    {
+        "names": "Capcom Resident Evil 7 Biohazard《惡靈古堡7》中英合版",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "380",
+        "遊戲類型:": "冒險",
+        "推出年月(大約):": "2017年1月"
+    },
+    {
+        "names": "EA Mass Effect 3",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "180",
+        "遊戲類型:": "動作角色扮演",
+        "推出年月(大約):": "2012年3月6日"
+    },
+    {
+        "names": "Xbox Game Studios PC Age of Empires IV 世紀帝國4 (Steam數位普通版)",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "378",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2021-10-28"
+    },
+    {
+        "names": "Bethesda PC Fallout 4 輻射 中英文版",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "120",
+        "遊戲類型:": "冒險",
+        "推出年月(大約):": "10/11/2015"
+    },
+    {
+        "names": "Blizzard 鬥陣特攻: 啟元版 (中英文版)",
+        "rating": "8.7",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "遊戲類型:": "PC",
+        "推出年月(大約):": "24-MAY-2016"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed：Syndicate 刺客教條 : 梟雄 中英文合版",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "199",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "19/11/2015"
+    },
+    {
+        "names": "Blizzard World of Warcraft 60-Day Pre-Paid Game Card (US Version)",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "遊戲類型:": "MMO RPG",
+        "推出年月(大約):": "2004"
+    },
+    {
+        "names": "SEGA Football Manager 2019 足球經理2019 中文版",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "遊戲類型:": "模擬, 運動",
+        "推出年月(大約):": "2018-11-02"
+    },
+    {
+        "names": "Square Enix Lost Planet 3",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲類型:": "第三身動作",
+        "推出年月(大約):": "2013年8月30日"
+    },
+    {
+        "names": "Milestone 世界摩托車錦標賽 19(英文版) - 歐版 MotoGP 19 (ENG) - EU",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "遊戲類型:": "RCG",
+        "推出年月(大約):": "2019/06/06"
+    },
+    {
+        "names": "Ubisoft RockSmith 2014 連 REAL TONE CABLE",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "遊戲類型:": "音樂",
+        "推出年月(大約):": "2013年 10月 22日"
+    },
+    {
+        "names": "DOVETAIL PC TRAIN SIMULATOR 2016",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Blizzard StarCraft II: Wings of Liberty",
+        "rating": "9.0",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "即時戰略",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "SEGA PC《足球經理2021》Football Manager 2021 (實體光碟版)",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "遊戲類型:": "模擬/運動",
+        "推出年月(大約):": "2020-11-25"
+    },
+    {
+        "names": "Konami Winning Eleven 世界足球競賽 2018 中英文合版",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2017-09-12"
+    },
+    {
+        "names": "Blizzard StarCraft II: Heart of the Swarm",
+        "rating": "8.0",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "即時策略",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "SEGA Total War: WARHAMMER II《全軍破敵：戰鎚II 》中英文合版",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "348",
+        "遊戲類型:": "RTS 即時策略",
+        "推出年月(大約):": "2017年9月"
+    },
+    {
+        "names": "Warner Bros. PC LEGO DC Super-Villains《樂高DC超級反派》中英文版",
+        "rating": "",
+        "water_price_min": "188",
+        "water_price_max": "188",
+        "遊戲類型:": "動作,冒險",
+        "推出年月(大約):": "2018-10-17"
+    },
+    {
+        "names": "EA PC 戰地風雲2 (完全版合輯)",
+        "rating": "",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Bandai Namco PC 破曉傳奇 究極版 Tales of Arise",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "569",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2021-09-10"
+    },
+    {
+        "names": "Bandai Namco 火影忍者 疾風傳：終極風暴 4",
+        "rating": "",
+        "hon_price_min": "310",
+        "hon_price_max": "310",
+        "推出年月(大約):": "2016-03-11"
+    },
+    {
+        "names": "Capcom Dead Rising 4 死亡復甦 4 中英合版",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "多人"
+    },
+    {
+        "names": "EA FIFA 17 中英文版",
+        "rating": "",
+        "遊戲人數:": "1-2",
+        "推出年月(大約):": "29-sep-2016"
+    },
+    {
+        "names": "Activision 隻狼: 暗影雙死",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "遊戲類型:": "動作冒險",
+        "推出年月(大約):": "2019-03-21"
+    },
+    {
+        "names": "Square Enix 《 古墓奇兵 崛起》 RISE OF THE TOMB RAIDER【PC中英文版】",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "29/1/2016"
+    },
+    {
+        "names": "Capcom Remember Me",
+        "rating": "10",
+        "hon_price_min": "39",
+        "hon_price_max": "99",
+        "遊戲類型:": "射擊冒險",
+        "推出年月(大約):": "04-06-2013"
+    },
+    {
+        "names": "河洛工作室 河洛群俠傳 中文版",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "180",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2018-10-23"
+    },
+    {
+        "names": "SEGA Company of Heroes 2 英雄連隊 2",
+        "rating": "8.0",
+        "water_price_min": "98",
+        "water_price_max": "98",
+        "遊戲人數:": "1-8",
+        "推出年月(大約):": "26-6-2013"
+    },
+    {
+        "names": "Bandai Namco SD Gundam G Generation Crossrays 繁體中文版",
+        "rating": "",
+        "遊戲類型:": "戰略遊戲",
+        "推出年月(大約):": "2019-11-28"
+    },
+    {
+        "names": "Capcom Dead Rising 3 死亡復甦 3",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2014年9月5日"
+    },
+    {
+        "names": "KOEI 《三國志 13》 (中文平裝版)",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "遊戲類型:": "戰略",
+        "推出年月(大約):": "28/1/2016"
+    },
+    {
+        "names": "Activision Call of Duty: Modern Warfare 2",
+        "rating": "6.0",
+        "water_price_min": "200",
+        "water_price_max": "200",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "09年11月"
+    },
+    {
+        "names": "EA PC 極速快感 Need for Speed 中英文合版",
+        "rating": "",
+        "遊戲類型:": "競速",
+        "推出年月(大約):": "2016-03"
+    },
+    {
+        "names": "Falcom 英雄傳說 - 零之軌跡 Limited Edition",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "KOEI PC 三國志 13 with 威力加強版 中文版",
+        "rating": "",
+        "遊戲類型:": "策略模擬",
+        "遊戲人數:": "1人"
+    },
+    {
+        "names": "Bandai Namco Ace Combat 7: Skies Unknown 中文版",
+        "rating": "",
+        "hon_price_min": "319",
+        "hon_price_max": "319",
+        "遊戲類型:": "動作,射擊",
+        "推出年月(大約):": "2019-01-17"
+    },
+    {
+        "names": "Konami Pro Evolution Soccer 2015 PES 實況足球",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2014-11-13"
+    },
+    {
+        "names": "2K Games NBA 2K18",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "9月"
+    },
+    {
+        "names": "Deep Silver Dead Island : Riptide",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "4月25日"
+    },
+    {
+        "names": "Square Enix Murdered: Soul Suspect 靈魂追兇",
+        "rating": "",
+        "遊戲類型:": "動作冒險",
+        "推出年月(大約):": "2014年6月10日"
+    },
+    {
+        "names": "Kalypso Media Sudden Strike 4 《裝甲騎兵 4》(中英文合版) - 亞洲版",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "推出年月(大約):": "2017/8/16"
+    },
+    {
+        "names": "Ubisoft Prince of Persia - The Forgotten Sands",
+        "rating": "",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Blizzard World of Warcraft Warlords of Draenor 魔獸世界 德拉諾之霸 普通版 (美版)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "遊戲類型:": "MMORPG",
+        "推出年月(大約):": "2014年11月13日"
+    },
+    {
+        "names": "Bandai Namco 七龍珠 異戰 2 中文版",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "EA Battlefield 3 Aftermath",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2012年12月14日"
+    },
+    {
+        "names": "EA DRAGON AGE: ORIGINS - ULTIMATE EDITION (ORIGINS + AWAKENING EXPANSION PACK)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Ubisoft PC 刺客教條：大革命 Assassin's Creed：Unity",
+        "rating": "9.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2014-11-13"
+    },
+    {
+        "names": "Konami METAL GEAR SOLID V THE PHANTOM PAIN",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Blizzard 暗黑破壞神3：戰鬥合輯 中英合版",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "遊戲類型:": "角色扮演",
+        "遊戲人數:": "多人"
+    },
+    {
+        "names": "Falcom 伊蘇 8 -丹娜的隕涕日-",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2018-01-30"
+    },
+    {
+        "names": "Blizzard Diablo III Collector's Edition English Version",
+        "rating": "8.7",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2012年5月15日"
+    },
+    {
+        "names": "Ubisoft Far Cry Primal《極地戰嚎：野蠻紀源》(中英合版)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "199",
+        "遊戲類型:": "第一身動作",
+        "推出年月(大約):": "1/3/2016"
+    },
+    {
+        "names": "Activision Call of Duty WWII 決勝時刻：二戰",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2017-11-03"
+    },
+    {
+        "names": "KOEI 無雙OROCHI 蛇魔 3 中文版",
+        "rating": "",
+        "遊戲類型:": "動作冒險",
+        "推出年月(大約):": "2018-10-16"
+    },
+    {
+        "names": "EA 植物大戰殭屍：花園戰爭 2 Plants vs. Zombies: Garden Warfare 2  中英文版",
+        "rating": "",
+        "遊戲類型:": "動作, 策略, 射擊",
+        "推出年月(大約):": "2016年2月23日"
+    },
+    {
+        "names": "EA BattleField 4",
+        "rating": "10",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2013年10月29日"
+    },
+    {
+        "names": "SEGA Total War: Shogun2",
+        "rating": "",
+        "遊戲類型:": "戰略",
+        "推出年月(大約):": "2011年3月頭"
+    },
+    {
+        "names": "Capcom Street Fighter V 快打旋風5",
+        "rating": "2.0",
+        "遊戲類型:": "對戰格鬥",
+        "推出年月(大約):": "2016年2月"
+    },
+    {
+        "names": "KOEI 三國無雙6 PC版",
+        "rating": "",
+        "推出年月(大約):": "2011"
+    },
+    {
+        "names": "SEGA Football Manager 2018《足球經理 2018》中英文版",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2017-11-11"
+    },
+    {
+        "names": "NCSOFT Guild Wars 2 激戰2",
+        "rating": "9.3",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "遊戲類型:": "mmorpg",
+        "推出年月(大約):": "2012-8-28"
+    },
+    {
+        "names": "EA SimCity",
+        "rating": "8.7",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2013年3月5日"
+    },
+    {
+        "names": "EA 戰地風雲：強硬路線 Battlefield：Hardline 中英文合版",
+        "rating": "8.0",
+        "hon_price_min": "99",
+        "hon_price_max": "199",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "17-3-2015"
+    },
+    {
+        "names": "Focus Wargame Red Dragon",
+        "rating": "",
+        "遊戲類型:": "即時戰略",
+        "推出年月(大約):": "2014年6月12日"
+    },
+    {
+        "names": "Bandai Namco Dark Souls 2 黑暗靈魂2 中英文版",
+        "rating": "8.0",
+        "遊戲類型:": "動作角色扮演",
+        "推出年月(大約):": "2014年4月28日"
+    },
+    {
+        "names": "Rockstar Grand Theft Auto IV (GTA 4)",
+        "rating": "9.4",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "08年12月"
+    },
+    {
+        "names": "Falcom 紅樓夢",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "09年02月"
+    },
+    {
+        "names": "KOEI 戰國無雙2",
+        "rating": "",
+        "推出年月(大約):": "2006"
+    },
+    {
+        "names": "2K Games Duke Nukem Forever",
+        "rating": "4.0",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2011"
+    },
+    {
+        "names": "Square Enix Tomb Raider 2013 (中英文合版)",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2013年3月8日"
+    },
+    {
+        "names": "Activision Call of Duty: Black Ops 3",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "1-4"
+    },
+    {
+        "names": "EA 戰地風雲 1 Battlefield 1 中英合版",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "19/10/2016"
+    },
+    {
+        "names": "HandyGames 鐵血傭兵：憤怒 Jagged Alliance: Rage",
+        "rating": "",
+        "遊戲類型:": "角色扮演,策略,模擬,冒險",
+        "推出年月(大約):": "2018-12-07"
+    },
+    {
+        "names": "Capcom Resident Evil Revelations 2",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "遊戲人數:": "1-2"
+    },
+    {
+        "names": "Bandai Namco Dark Souls Remastered 中文版",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2018-05-24"
+    },
+    {
+        "names": "KOEI Winning Post 9 日文版",
+        "rating": "6.0",
+        "遊戲類型:": "Horse Racing",
+        "推出年月(大約):": "2019-3-30"
+    },
+    {
+        "names": "Square Enix Final Fantasy XV Windows Edition 最終幻想XV",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "378",
+        "遊戲類型:": "RPG",
+        "推出年月(大約):": "2018-03-05"
+    },
+    {
+        "names": "Airship Syndicate 追逐戰：夜戰 亞洲版",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "遊戲類型:": "RPG",
+        "推出年月(大約):": "2017-10"
+    },
+    {
+        "names": "CD Projekt RED 巫師 3: 血與酒 擴張資料片",
+        "rating": "",
+        "遊戲類型:": "PC",
+        "推出年月(大約):": "30-MAY-2016"
+    },
+    {
+        "names": "Falcom 紅樓夢 特別版",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "09年02月"
+    },
+    {
+        "names": "2K Games NBA 2K17",
+        "rating": "",
+        "遊戲人數:": "1-4",
+        "推出年月(大約):": "16-SEP-2016"
+    },
+    {
+        "names": "Codemasters Overlord 2",
+        "rating": "",
+        "遊戲類型:": "動作探險",
+        "推出年月(大約):": "09年06月"
+    },
+    {
+        "names": "SEGA Football Manager 2014",
+        "rating": "10",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "11月2日"
+    },
+    {
+        "names": "Bethesda 獵魂 Prey (中英文合版) (盒裝版)",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "230",
+        "遊戲類型:": "動作/冒險/第一人稱射擊/科幻",
+        "推出年月(大約):": "2017年5月"
+    },
+    {
+        "names": "CD Projekt RED 巫師3: 狂獵 (包括石之心+血與酒資料片&16DLC)(年度版) (中英文版)",
+        "rating": "",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "30-AUG-2016"
+    },
+    {
+        "names": "EA FIFA 16",
+        "rating": "9.0",
+        "遊戲類型:": "足球",
+        "推出年月(大約):": "21/9/2015"
+    },
+    {
+        "names": "EA Battlefield 3",
+        "rating": "9.9",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "1 - 64"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed: Origins 刺客教條：起源 (數位普通版-中文)",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2017"
+    },
+    {
+        "names": "SCS Software American Truck Simulator - California",
+        "rating": "",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2 February 2016"
+    },
+    {
+        "names": "Square Enix PC 最終幻想 : 零式高清 (中英文版)",
+        "rating": "",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "MAY-2016"
+    },
+    {
+        "names": "EA FIFA 13",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2012年9月25日"
+    },
+    {
+        "names": "Warner Home Video Games 樂高 : 復仇者聯盟",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "遊戲人數:": "1-2"
+    },
+    {
+        "names": "Focus Wargame: European Escalation",
+        "rating": "",
+        "遊戲類型:": "模擬戰略",
+        "推出年月(大約):": "2102年3月9日"
+    },
+    {
+        "names": "EA Star Wars: The Old Republic",
+        "rating": "",
+        "遊戲類型:": "MMORPG",
+        "推出年月(大約):": "2011年12月"
+    },
+    {
+        "names": "Cyanide Studio 專業自行車隊經理：環法賽 2019 (英文) - 亞洲版 PRO-CYCLING MANAGER 2019 TOUR DE FRANCE(ENG) - ASIA",
+        "rating": "",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "遊戲類型:": "RCG",
+        "推出年月(大約):": "2019/06/20"
+    },
+    {
+        "names": "SEGA Football Manager 2015",
+        "rating": "10",
+        "遊戲類型:": "經營",
+        "推出年月(大約):": "2014年11月7日"
+    },
+    {
+        "names": "Bandai Namco Dragonball FighterZ 七龍珠 FighterZ (中文版)",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-02"
+    },
+    {
+        "names": "EA Medal of Honor Warfighter",
+        "rating": "8.7",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "23/10/2012"
+    },
+    {
+        "names": "Activision Call of Duty: Infinite Warfare 決勝時刻：無盡戰爭 中英合版",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2016-11-04"
+    },
+    {
+        "names": "Bandai Namco PC STEAM版 超級機器人大戰 V",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "遊戲類型:": "戰略遊戲",
+        "推出年月(大約):": "2019-10-3"
+    },
+    {
+        "names": "2K Games NBA 2K13",
+        "rating": "10",
+        "遊戲類型:": "球類",
+        "推出年月(大約):": "2012年10月"
+    },
+    {
+        "names": "Warner Home Video Games Batman : Arkham Origins",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2013年11月8日"
+    },
+    {
+        "names": "EA Need For Speed Hot Pursuit",
+        "rating": "8.7",
+        "遊戲類型:": "賽車",
+        "遊戲人數:": "1 - 多"
+    },
+    {
+        "names": "THQ Nordic ELEX 亞洲版",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "遊戲類型:": "RPG",
+        "推出年月(大約):": "2017-08"
+    },
+    {
+        "names": "EA Bulletstorm",
+        "rating": "8.0",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "1 ~ 多"
+    },
+    {
+        "names": "Bethesda 《上古卷軸 5：無界天際 傳奇版》中文版",
+        "rating": "9.0",
+        "遊戲類型:": "角色扮演",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "EA 模擬市民4 : 來去上班 The Sims 4 : Get to Work",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "270",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "31/3/2015"
+    },
+    {
+        "names": "Bandai Namco Jump Force 繁體中文版",
+        "rating": "",
+        "遊戲類型:": "格鬥/動作/動漫",
+        "推出年月(大約):": "2019年2月15日"
+    },
+    {
+        "names": "EA FIFA 19",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "90",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2018-9-28"
+    },
+    {
+        "names": "EA Syndicate",
+        "rating": "8.0",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2012年2月21日"
+    },
+    {
+        "names": "2K Games Borderlands The Pre-Sequel 邊緣禁地：續集前傳",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2014年10月14日"
+    },
+    {
+        "names": "EA Dead Space 2",
+        "rating": "9.0",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2011年"
+    },
+    {
+        "names": "Ubisoft Far Cry 3 - Blood Dragon",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2013年5月2日"
+    },
+    {
+        "names": "Ubisoft Prince of Persia",
+        "rating": "8.0",
+        "遊戲類型:": "動作探險",
+        "推出年月(大約):": "08年12月"
+    },
+    {
+        "names": "EA PC  國際足盟大賽 15 FIFA 15 中,英文版",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "24-09-2014"
+    },
+    {
+        "names": "Blizzard Overwatch 廉價版",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2016-05-05"
+    },
+    {
+        "names": "Bandai Namco NARUTO TO BORUTO 新忍出擊 中文版",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-08-30"
+    },
+    {
+        "names": "Square Enix Final Fantasy XIV",
+        "rating": "",
+        "遊戲類型:": "MMORPG",
+        "推出年月(大約):": "10年09月"
+    },
+    {
+        "names": "THQ Nordic Red Faction: Armageddon",
+        "rating": "6.0",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2011年"
+    },
+    {
+        "names": "Koei 真三國無雙7 with 猛將傳",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "遊戲類型:": "動作角色扮演",
+        "推出年月(大約):": "2014年5月23日"
+    },
+    {
+        "names": "網元聖唐 古劍奇譚 3 簡體中文版 (數位標準版)",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2018-11-23"
+    },
+    {
+        "names": "EA Dragon Age Inquisition 闇龍紀元 異端審判",
+        "rating": "",
+        "遊戲類型:": "動作角色扮演",
+        "推出年月(大約):": "2014年11月18日"
+    },
+    {
+        "names": "EA Crysis 3 Hunter Edition",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2013年2月26日"
+    },
+    {
+        "names": "Kalypso Media 裝甲騎兵 4 亞洲版",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2017-08-14"
+    },
+    {
+        "names": "KOEI 三國志 IX",
+        "rating": "",
+        "遊戲類型:": "戰略"
+    },
+    {
+        "names": "Falcom 英雄傳說：碧之軌跡",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "遊戲類型:": "RPG",
+        "推出年月(大約):": "2013年3月29日"
+    },
+    {
+        "names": "EA FIFA 15",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2014年9月23日"
+    },
+    {
+        "names": "Excalibur UK Truck Simulator",
+        "rating": "",
+        "遊戲類型:": "模擬駕駛",
+        "推出年月(大約):": "2011年11月"
+    },
+    {
+        "names": "KOEI PC 無雙 OROCHI 蛇魔 3 STEAM 數位序號",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-10-16"
+    },
+    {
+        "names": "Ubisoft 工人物語7 : 王國之路 (黃金版) + 帝國的興起 (歐洲版)",
+        "rating": "",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "EA PC 闇龍紀元 : 異端審判 Dragon Age：Inquisition",
+        "rating": "",
+        "遊戲類型:": "策略 , 動作",
+        "推出年月(大約):": "2014/11/18"
+    },
+    {
+        "names": "CI Games Sniper: Ghost Warrior Contracts 狙擊之王：幽靈戰士合約 (繁中/簡中/英文版) - 亞洲版",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2019-11-22"
+    },
+    {
+        "names": "EA Battlefield 3: Premium",
+        "rating": "9.3",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2012年6月22日"
+    },
+    {
+        "names": "Softstar 大宇資訊 仙劍奇俠傳 5 前傳 普通版",
+        "rating": "8.0",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2013年1月15日"
+    },
+    {
+        "names": "EA Battlefield: Bad Company 2:Vietnam",
+        "rating": "8.0",
+        "遊戲類型:": "FPS",
+        "推出年月(大約):": "2010"
+    },
+    {
+        "names": "Ubisoft Tom Clancy's H.A.W.X.",
+        "rating": "4.0",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "09年03月"
+    },
+    {
+        "names": "EA Battlefield 1 Exclusive Collector's Edition 收藏版",
+        "rating": "",
+        "遊戲類型:": "FPS",
+        "推出年月(大約):": "21 Oct 2016"
+    },
+    {
+        "names": "Ubisoft Watch Dogs 看門狗",
+        "rating": "10",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2014年5月27日"
+    },
+    {
+        "names": "EA COMMAND & CONQUER ULTIMATE COLLECTION 17 IN 1",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Ubisoft PC 火線獵殺：野境 中英合版",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "多人"
+    },
+    {
+        "names": "Capcom Resident Evil Revelations",
+        "rating": "8.0",
+        "遊戲類型:": "恐怖射擊",
+        "推出年月(大約):": "30-5-2013"
+    },
+    {
+        "names": "Valve Left 4 Dead 2",
+        "rating": "9.8",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "09年11月"
+    },
+    {
+        "names": "Blizzard Overwatch",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2016-05-05"
+    },
+    {
+        "names": "Activision Call of Duty: Black Ops",
+        "rating": "8.7",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2010年11月10日"
+    },
+    {
+        "names": "Bohemia Interactive ARMA III",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2013年9月12日"
+    },
+    {
+        "names": "Nvizzio Creations RollerCoaster Tycoon World: Deluxe Edition",
+        "rating": "",
+        "遊戲類型:": "模擬, 策略",
+        "推出年月(大約):": "16-11-2016"
+    },
+    {
+        "names": "Capcom Resident Evil: Operation Raccoon City",
+        "rating": "",
+        "遊戲類型:": "第三身射擊",
+        "推出年月(大約):": "2012年5月18日"
+    },
+    {
+        "names": "KOEI Winning Post 8 2018 馬場大亨",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2018-03-22"
+    },
+    {
+        "names": "Square Enix Hitman: The Complete First Season 英文版",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Activision Call of Duty: Black Ops 2",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2012年11月13日"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed 2",
+        "rating": "10",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Deep Silver Saints Row IV",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2013年8月23日"
+    },
+    {
+        "names": "Codemasters PC 極速房車賽 [首日版] (英文) - 亞洲版 GRID [Day One Edition] (ENG) - ASIA",
+        "rating": "",
+        "遊戲類型:": "競速",
+        "推出年月(大約):": "2019-10-11"
+    },
+    {
+        "names": "Deep Silver Emergency 2012",
+        "rating": "",
+        "遊戲類型:": "即時戰略",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Activision Call of Duty Ghost",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2013年11月5日"
+    },
+    {
+        "names": "Blizzard World of WarCraft - Rurning Crusade",
+        "rating": ""
+    },
+    {
+        "names": "Ubisoft Assassin's Creed: Brotherhood 刺客教條：兄弟會",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "16-11-2010"
+    },
+    {
+        "names": "Activision Singularity",
+        "rating": "10",
+        "遊戲類型:": "第一身射擊",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Ubisoft PC /MAC 搖滾史密斯 Rocksmith 2014 Edition Remastered",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "遊戲類型:": "音樂",
+        "推出年月(大約):": "7/12/2016"
+    },
+    {
+        "names": "EA Spore Galactic Adventures",
+        "rating": "",
+        "遊戲類型:": "攻略",
+        "推出年月(大約):": "09年06月"
+    },
+    {
+        "names": "Capcom Dead Rising 2",
+        "rating": "7.3",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "10年09月"
+    },
+    {
+        "names": "2K Games NBA 2K19 中英文版",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "2018-09-11"
+    },
+    {
+        "names": "SEGA Binary Domain",
+        "rating": "",
+        "遊戲類型:": "第三身射擊",
+        "推出年月(大約):": "2012年4月27日"
+    },
+    {
+        "names": "Capcom Lost Planet 2",
+        "rating": "8.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "10年05月"
+    },
+    {
+        "names": "Ubisoft The Crew 飆酷車神",
+        "rating": "10",
+        "遊戲類型:": "賽車",
+        "推出年月(大約):": "2014年12月2日"
+    },
+    {
+        "names": "BigBen Interactive V-Rally 4 越野英雄4 (中英文合版) - 亞洲版",
+        "rating": "",
+        "遊戲類型:": "競速",
+        "推出年月(大約):": "2018-09-06"
+    },
+    {
+        "names": "KOEI 真三國無雙5 中文玩偶典藏版",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "09年07月"
+    },
+    {
+        "names": "EA Anthem 冒險聖歌 中英文合版",
+        "rating": "",
+        "遊戲類型:": "動作, 冒險, 角色扮演, 射擊",
+        "推出年月(大約):": "2019-02-21"
+    },
+    {
+        "names": "Warner Home Video Games The Lego Movie Videogame",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2014年2月7日"
+    },
+    {
+        "names": "SEGA Football Manager 2013",
+        "rating": "",
+        "遊戲類型:": "足球模擬",
+        "推出年月(大約):": "2012年11月1日"
+    },
+    {
+        "names": "Blizzard Diablo 3 暗黑破壞神3 繁體中文版",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "遊戲類型:": "ARPG",
+        "推出年月(大約):": "2012年5月"
+    },
+    {
+        "names": "Blizzard World of WarCraft - Cataclysm",
+        "rating": ""
+    },
+    {
+        "names": "Activision Call of Duty: Black Ops 4《決勝時刻: 黑色行動4》Mystery Box Edition",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2018-10-12"
+    },
+    {
+        "names": "Blizzard Overwatch Collector's Edition 典藏版",
+        "rating": "",
+        "遊戲類型:": "FPS",
+        "推出年月(大約):": "May 2016"
+    },
+    {
+        "names": "Codemasters Dirt 3",
+        "rating": "10",
+        "遊戲類型:": "賽車",
+        "推出年月(大約):": "11年5月"
+    },
+    {
+        "names": "EA 植物大戰殭屍：花園戰爭 Plants vs. Zombies: Garden Warfare",
+        "rating": ""
+    },
+    {
+        "names": "Bandai Namco Ace Combat: Assault Horizon",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2013年1月25日"
+    },
+    {
+        "names": "EA THE sims 4 bundle",
+        "rating": "",
+        "遊戲類型:": "策略模擬",
+        "推出年月(大約):": "2014-09-02"
+    },
+    {
+        "names": "Nordic Games Alan Wake 心靈殺手 繁體中文版",
+        "rating": "",
+        "遊戲類型:": "動作冒險",
+        "推出年月(大約):": "2012年3月9日"
+    },
+    {
+        "names": "Konami Pro Evolution Soccer 2014",
+        "rating": "",
+        "遊戲類型:": "足球",
+        "推出年月(大約):": "2013年9月20日"
+    },
+    {
+        "names": "EA The Sims 3: Showtime Katy Perry Collector’s Edition",
+        "rating": "",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2012年3月6日"
+    },
+    {
+        "names": "EA Simcity 5 資料片 未來之城",
+        "rating": "10",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2013年11月12日"
+    },
+    {
+        "names": "Konami Pro Evolution Soccer 2013",
+        "rating": "10",
+        "遊戲類型:": "足球類",
+        "推出年月(大約):": "2012年9月"
+    },
+    {
+        "names": "Softstar 大宇資訊 仙劍奇俠傳五",
+        "rating": "10",
+        "遊戲類型:": "角色扮演遊戲 (RPG)",
+        "推出年月(大約):": "2011年9月6日"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed Ultimate Collection (I, II, Brotherhood, Revelations)",
+        "rating": "",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "EA FIFA 18",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "Sep 26, 2017"
+    },
+    {
+        "names": "Ubisoft Far Cry 3",
+        "rating": "9.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "11月29日"
+    },
+    {
+        "names": "BigBen Interactive WRC 6",
+        "rating": "",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "8-OCT-2016"
+    },
+    {
+        "names": "MILESTONE RIDE 2",
+        "rating": "",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "08-OCT-2016"
+    },
+    {
+        "names": "Warner Home Video Games 真人快打 X (鐡盒英文版)",
+        "rating": "",
+        "遊戲人數:": "1-2"
+    },
+    {
+        "names": "Activision Call of Duty: Black Ops 4《決勝時刻: 黑色行動4》中英文版",
+        "rating": "8.0",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2018-10-12"
+    },
+    {
+        "names": "KOEI 三國志12 威力加強版",
+        "rating": "",
+        "遊戲類型:": "歷史戰略",
+        "推出年月(大約):": "2013年6月20日"
+    },
+    {
+        "names": "Codemasters Grid 2",
+        "rating": "",
+        "遊戲類型:": "賽車",
+        "推出年月(大約):": "30-5-2013"
+    },
+    {
+        "names": "Bethesda Brink",
+        "rating": "7.0",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2011"
+    },
+    {
+        "names": "Capcom Ultra Street Fighter 4",
+        "rating": "",
+        "遊戲類型:": "格鬥",
+        "推出年月(大約):": "2014 8月7日"
+    },
+    {
+        "names": "EA Medal Of Honor",
+        "rating": "8.0",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "10年10月"
+    },
+    {
+        "names": "Square Enix 古墓奇兵：暗影 中文版",
+        "rating": "9.0",
+        "遊戲類型:": "遊戲",
+        "推出年月(大約):": "2018-09-14"
+    },
+    {
+        "names": "EA The Sims 3 Seasons 春夏秋冬",
+        "rating": "",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2012年11月13日"
+    },
+    {
+        "names": "IGS 當個創世神 MineCraft",
+        "rating": "9.3",
+        "遊戲類型:": "冒險",
+        "推出年月(大約):": "2011年"
+    },
+    {
+        "names": "Ubisoft 縱橫諜海 (終極版) (5合1合輯)",
+        "rating": "",
+        "遊戲類型:": "PC",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Rockstar Max Payne 3",
+        "rating": "9.3",
+        "遊戲類型:": "第三身射擊",
+        "推出年月(大約):": "2012年6月1日"
+    },
+    {
+        "names": "Ubisoft Tom Clancy's Ghost Recon Future Soldier",
+        "rating": "",
+        "遊戲類型:": "第三身射擊",
+        "推出年月(大約):": "2012年6月12日"
+    },
+    {
+        "names": "EA Kingdoms of Amalur: Reckoning",
+        "rating": "9.0",
+        "遊戲類型:": "動作角色扮演",
+        "推出年月(大約):": "2012年2月7日"
+    },
+    {
+        "names": "2K Games 文明帝國 6 CIVILIZATION VI  (中英文版)",
+        "rating": "",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "21-OCT-2016"
+    },
+    {
+        "names": "Square Enix Final Fantasy XIV Online 60 Days Game Time Card",
+        "rating": ""
+    },
+    {
+        "names": "Blizzard 星海爭霸II：戰鬥合輯 中英合版",
+        "rating": "",
+        "遊戲類型:": "策略模擬",
+        "遊戲人數:": "多人"
+    },
+    {
+        "names": "EA COMMAND & CONQUER 4",
+        "rating": "",
+        "遊戲類型:": "戰略",
+        "推出年月(大約):": "10年03月"
+    },
+    {
+        "names": "EA Titanfall",
+        "rating": "8.0",
+        "遊戲類型:": "動作射擊",
+        "推出年月(大約):": "2014年3月11日"
+    },
+    {
+        "names": "2K Games Spec Ops: The Line",
+        "rating": "",
+        "遊戲類型:": "第三身射擊",
+        "推出年月(大約):": "2012年6月29日"
+    },
+    {
+        "names": "Bandai Namco 黑暗靈魂3：薪火漸逝 中文版",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "20-APR-2017"
+    },
+    {
+        "names": "Deep Silver Emergency 2014",
+        "rating": "",
+        "遊戲類型:": "Simulation",
+        "推出年月(大約):": "2013年11月15日"
+    },
+    {
+        "names": "Blizzard Diablo 3 Reaper of Souls",
+        "rating": "7.0",
+        "遊戲類型:": "ARPG",
+        "推出年月(大約):": "2014年3月25日"
+    },
+    {
+        "names": "KOEI 三國志 11",
+        "rating": "",
+        "遊戲類型:": "戰略"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed 3",
+        "rating": "",
+        "遊戲類型:": "Action",
+        "推出年月(大約):": "2012.11"
+    },
+    {
+        "names": "Blizzard Diablo 3 暗黑破壞神3 英文版",
+        "rating": "8.4",
+        "遊戲類型:": "ARPG",
+        "推出年月(大約):": "2012年6月"
+    },
+    {
+        "names": "CD Projekt RED 巫師3: 石之心 擴張資料片",
+        "rating": "",
+        "遊戲類型:": "PC",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Ubisoft Assassin's Creed 3 中文版",
+        "rating": "4.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "22/11/2012"
+    },
+    {
+        "names": "THQ Nordic Company of Heroes: Anthology",
+        "rating": "",
+        "遊戲類型:": "攻略",
+        "推出年月(大約):": "09年04月"
+    },
+    {
+        "names": "Square Enix Kane & Lynch 2: Dog Days",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "10年08月"
+    },
+    {
+        "names": "Ubisoft RUSE",
+        "rating": "",
+        "遊戲類型:": "即時戰略",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "EA Battlefield 5 戰地風雲5 中英文版",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2018-11-20"
+    },
+    {
+        "names": "2K Games BATTLEBORN",
+        "rating": "",
+        "遊戲類型:": "PC",
+        "推出年月(大約):": "03-MAY-2016"
+    },
+    {
+        "names": "Ubisoft Far Cry 4 極地戰嚎4",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2014年11月18日"
+    },
+    {
+        "names": "Konami Winning Eleven 2013",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "4/10/2012"
+    },
+    {
+        "names": "KOEI 三國志12",
+        "rating": "",
+        "遊戲類型:": "策略模擬",
+        "遊戲人數:": "1-多"
+    },
+    {
+        "names": "Codemasters Damnation",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "09年05月"
+    },
+    {
+        "names": "CD Projekt RED The Witcher 3: Wild Hunt 巫師3: 狂獵",
+        "rating": "8.7",
+        "遊戲類型:": "RPG",
+        "推出年月(大約):": "19-5-2015"
+    },
+    {
+        "names": "Square Enix Hitman: Absolution",
+        "rating": "10",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "11月23日"
+    },
+    {
+        "names": "Activision Prototype",
+        "rating": "9.3",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "09年06月"
+    },
+    {
+        "names": "Ubisoft Prince of Persia - The two Thrones",
+        "rating": "",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Ubisoft RockSmith Guitar & Bass",
+        "rating": "10",
+        "遊戲類型:": "音樂",
+        "推出年月(大約):": "2012年10月"
+    },
+    {
+        "names": "LUCAS ART Star War: The Force Unleashed II",
+        "rating": "6.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "10年10月"
+    },
+    {
+        "names": "Square Enix FINAL FANTASY XIV：紅蓮的解放者 限定版",
+        "rating": "",
+        "遊戲類型:": "線上角色扮演",
+        "推出年月(大約):": "2017-06-23"
+    },
+    {
+        "names": "Konami Pro Evolution Soccer PES 2017",
+        "rating": "",
+        "推出年月(大約):": "10-SEP-2016"
+    },
+    {
+        "names": "4A Games 戰慄深隧：流亡(中/英文版) - 亞洲版",
+        "rating": "",
+        "遊戲類型:": "SLG",
+        "推出年月(大約):": "2019-02-15"
+    },
+    {
+        "names": "Activision X-Men Origins: Wolverine",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "09年05月"
+    },
+    {
+        "names": "Warner Bros. Lego Marvel Super Heroes",
+        "rating": "8.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2013年11月25日"
+    },
+    {
+        "names": "Ubisoft Tom Clancy's Splinter Cell: Conviction",
+        "rating": "",
+        "遊戲類型:": "第三人稱潛入類",
+        "推出年月(大約):": "2010"
+    },
+    {
+        "names": "Bethesda The Elder Scrolls Online《上古卷軸OL》普通版",
+        "rating": "10",
+        "遊戲類型:": "MMORPG",
+        "推出年月(大約):": "4月1日"
+    },
+    {
+        "names": "2K Games XCOM2 (中英文版)",
+        "rating": "",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "2K Games 惡靈進化 Evolve",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2015-2-10"
+    },
+    {
+        "names": "Bethesda The Elder Scrolls Online",
+        "rating": "",
+        "遊戲類型:": "MMORPG",
+        "推出年月(大約):": "2014年4月4日"
+    },
+    {
+        "names": "Activision Call of Duty: Black Operations II",
+        "rating": "",
+        "遊戲類型:": "first person shooting",
+        "推出年月(大約):": "2012.11.13"
+    },
+    {
+        "names": "Warner Home Video Games F.E.A.R. 2: Project Origin",
+        "rating": "10",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "09年02月"
+    },
+    {
+        "names": "Softstar 大宇資訊 仙劍奇俠傳 5 前傳 特別版",
+        "rating": "10",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2013年1月15日"
+    },
+    {
+        "names": "Ubisoft 航海新世紀 1404 黃金版 + 2070 (合輯)",
+        "rating": "",
+        "遊戲類型:": "PC",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "KOEI 三國志 X",
+        "rating": "",
+        "遊戲類型:": "戰略"
+    },
+    {
+        "names": "Falcom 英雄傳說 - 碧之軌跡 Limited edition",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Capcom 快打旋風 5 大型電玩版",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2018-01-16"
+    },
+    {
+        "names": "EA Battlefield: Bad Company 2",
+        "rating": "9.4",
+        "遊戲類型:": "射擊",
+        "遊戲人數:": "1 ~ 多"
+    },
+    {
+        "names": "Warner Home Video Games 蝙蝠俠：阿卡漢騎士 Batman：Arkham Knight",
+        "rating": "6.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2015-6-23"
+    },
+    {
+        "names": "SEGA Football Manager 2016《足球經理 2016》",
+        "rating": "",
+        "遊戲類型:": "模擬經營",
+        "推出年月(大約):": "13/11/2015"
+    },
+    {
+        "names": "Blizzard StarCraft II: Heart of the Swarm Collector's Edition",
+        "rating": "",
+        "遊戲類型:": "即時戰略",
+        "推出年月(大約):": "2013年3月12日"
+    },
+    {
+        "names": "Microsoft game studios Microsoft Flight Simulator X Gold Edition",
+        "rating": "10",
+        "遊戲類型:": "Flight simulation",
+        "遊戲人數:": "Single, Multiple"
+    },
+    {
+        "names": "Codemasters Dirt Rally 2.0 大地長征：拉力賽2.0 (中/英文版) - 亞洲版",
+        "rating": "",
+        "遊戲類型:": "遊戲",
+        "推出年月(大約):": "2019-02-26"
+    },
+    {
+        "names": "Capcom 魔物獵人 Frontier G 狩魂典藏包 連 F310 手掣",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2014/11/28"
+    },
+    {
+        "names": "Codemasters F-1 2013",
+        "rating": "",
+        "遊戲類型:": "賽車",
+        "推出年月(大約):": "2013年10月4日"
+    },
+    {
+        "names": "Danger Close Medal of Honor 榮譽勳章 繁體版",
+        "rating": "",
+        "遊戲類型:": "第一人稱射擊",
+        "推出年月(大約):": "2010"
+    },
+    {
+        "names": "EA The Sims 3: Showtime Limited Edition 華麗舞台",
+        "rating": "",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2012年3月6日"
+    },
+    {
+        "names": "Square Enix Just Cause 3《正當防衛 3》",
+        "rating": "",
+        "遊戲類型:": "動作射擊",
+        "推出年月(大約):": "30/11/2015"
+    },
+    {
+        "names": "Activision Call of Duty 4: Modern Warfare (Game of the Year Edition)",
+        "rating": "9.2",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "09年06月"
+    },
+    {
+        "names": "GameBar 古劍奇譚2 平裝版",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "2013年8月16日"
+    },
+    {
+        "names": "SEGA Empire: Total War",
+        "rating": "",
+        "遊戲類型:": "攻略",
+        "推出年月(大約):": "09年03月"
+    },
+    {
+        "names": "EA Anthem 冒險聖歌 Legion of Dawn 黎明軍團版",
+        "rating": "",
+        "遊戲類型:": "動作, 冒險, 角色扮演, 射擊",
+        "推出年月(大約):": "2019-02-21"
+    },
+    {
+        "names": "CI Games Enemy Front",
+        "rating": "",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2014年6月"
+    },
+    {
+        "names": "EA Shift 2 Unleashed",
+        "rating": "",
+        "遊戲類型:": "賽車",
+        "遊戲人數:": "1 ~ 多"
+    },
+    {
+        "names": "Warner Bros. Hitman 2 Standard Edition",
+        "rating": "",
+        "遊戲類型:": "動作,射擊",
+        "推出年月(大約):": "2018-11-13"
+    },
+    {
+        "names": "Blizzard WARCRAFT 魔獸爭霸 III 世紀典藏版",
+        "rating": "",
+        "推出年月(大約):": "2003"
+    },
+    {
+        "names": "EA Darkspore",
+        "rating": "",
+        "遊戲類型:": "格鬥",
+        "推出年月(大約):": "2011"
+    },
+    {
+        "names": "2K Games NBA 2K16",
+        "rating": "",
+        "遊戲類型:": "運動",
+        "推出年月(大約):": "25/9/2015"
+    },
+    {
+        "names": "Falcom 英雄傳說 碧之軌跡 限定特典",
+        "rating": "",
+        "遊戲類型:": "RPG",
+        "推出年月(大約):": "2013年3月29日"
+    },
+    {
+        "names": "Bandai Namco PC Project CARS",
+        "rating": "",
+        "遊戲類型:": "賽車",
+        "推出年月(大約):": "7-5-2015"
+    },
+    {
+        "names": "Eidos Interactive Just Cause 2",
+        "rating": "10",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "10年03月"
+    },
+    {
+        "names": "Square Enix Sleeping Dogs",
+        "rating": "9.0",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "2012年8月14日"
+    },
+    {
+        "names": "EA BattleField 4 Premium(高級版)",
+        "rating": "",
+        "遊戲類型:": "FPS多人射擊",
+        "推出年月(大約):": "2013年10月29日"
+    },
+    {
+        "names": "EA 極速快感︰生存競速 限量版 Need for Speed：Rivals Limited Edition",
+        "rating": "",
+        "遊戲類型:": "賽車",
+        "推出年月(大約):": "11月19日"
+    },
+    {
+        "names": "Ubisoft Wheelman",
+        "rating": "",
+        "遊戲類型:": "動作",
+        "推出年月(大約):": "09年03月"
+    },
+    {
+        "names": "ATARI ROLLER COSATER TYCOON WORLD(2016)",
+        "rating": "",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "2016"
+    },
+    {
+        "names": "Deep Silver Metro Last Light 戰慄深隧 : 最後曙光",
+        "rating": "",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "30-5-2013"
+    },
+    {
+        "names": "EA Battlefield 3 Back To Karkand",
+        "rating": "10",
+        "遊戲類型:": "第一身射擊",
+        "推出年月(大約):": "2011年12月15日"
+    },
+    {
+        "names": "Square Enix The Last Remnant",
+        "rating": "",
+        "遊戲類型:": "角色扮演",
+        "推出年月(大約):": "09年04月"
+    },
+    {
+        "names": "Infinity Ward Call of Duty: Modern Warfare 3",
+        "rating": "8.7",
+        "遊戲類型:": "射擊",
+        "推出年月(大約):": "2011/11"
+    },
+    {
+        "names": "Softstar 大宇資訊 仙劍奇俠傳 5 前傳 大陸豪華版",
+        "rating": "",
+        "遊戲類型:": "RPG",
+        "推出年月(大約):": "2013年1月15日"
+    },
+    {
+        "names": "Blizzard 星海爭霸II : 虛空之遺 StarCraft II：Legacy of the Void 國際平裝版",
+        "rating": "",
+        "遊戲類型:": "戰略",
+        "推出年月(大約):": "10/11/2015"
+    },
+    {
+        "names": "Capcom 生化危機2 重製版 Biohazard RE:2 中英文合版",
+        "rating": "",
+        "遊戲類型:": "射擊,動作",
+        "推出年月(大約):": "2019-01-25"
+    },
+    {
+        "names": "EA The Sims 3 Dragon Valley",
+        "rating": "",
+        "遊戲類型:": "模擬",
+        "推出年月(大約):": "2013年8月6日"
+    },
+    {
+        "names": "Capcom 生化危機 : 始源合輯 RESIDENT EVIL ORIGINS COLLECTION",
+        "rating": "",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Ubisoft Tom Clancy’s H.A.W.X. 2 - Deluxe Edition",
+        "rating": "10",
+        "遊戲人數:": "1 ~ 多",
+        "推出年月(大約):": "10年09月"
+    },
+    {
+        "names": "Degica RPG 制作大師 VX Ace",
+        "rating": "",
+        "遊戲類型:": "其他",
+        "推出年月(大約):": "2013年7月10日"
+    },
+    {
+        "names": "Valve Left 4 Dead",
+        "rating": "9.6",
+        "遊戲類型:": "第一人稱射擊",
+        "推出年月(大約):": "08年11月"
+    }
+]

@@ -1,0 +1,1822 @@
+[
+    {
+        "names": "Whirlpool 惠而浦 熱泵冷凝式乾衣機 (9kg) HSCX90424",
+        "rating": "2.0",
+        "hon_price_min": "5,800",
+        "hon_price_max": "7,490",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "17 (棉質節能、棉質、混合衣物、合成纖維、纖細衣物、羊毛、大型物件、30分鐘速乾、襯衣、易熨防皺、清新、特別程序: 牛仔布、少量衣物、運動衣物、絲質、顏色衣物、羽絨)",
+        "時間掣:": "自選乾衣時間 : 30-220分鐘, 預校開機時間 : 30分鐘-24小時"
+    },
+    {
+        "names": "LG 樂金 Dual Inverter Heat Pump 熱泵乾衣機 (9kg) WF-DT90VW",
+        "rating": "",
+        "hon_price_min": "8,500",
+        "hon_price_max": "10,549",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "600 x 850 x 690mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "LG 樂金 Styler 衣物護理機 S3MFC",
+        "rating": "9.6",
+        "hon_price_min": "9,050",
+        "hon_price_max": "12,500",
+        "類型:": "乾衣櫃",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Panasonic 樂聲 排氣式乾衣機 (4.5kg) NH-H4500T",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "2,820",
+        "water_price_min": "2,179",
+        "water_price_max": "2,179",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "掛牆式",
+        "耗電量:": "1300W"
+    },
+    {
+        "names": "LG 樂金 Styler 衣物護理機 S3WFS",
+        "rating": "7.0",
+        "hon_price_min": "7,600",
+        "hon_price_max": "11,550",
+        "類型:": "乾衣櫃",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (3kg) PD3EV",
+        "rating": "9.0",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,988",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "2項乾衣程式選擇 (時間+ / 清爽乾衣)",
+        "時間掣:": "120"
+    },
+    {
+        "names": "Xiaomi 小米 小浪智能衣物消毒乾衣機 (14L) HD-YWHL04",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "898",
+        "water_price_min": "599",
+        "water_price_max": "888"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 熱泵式冷凝乾衣機 (9kg) WT47RT90GB",
+        "rating": "10",
+        "hon_price_min": "7,650",
+        "hon_price_max": "10,298",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "60分鐘, 120或180分鐘程序完成防皺時段"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 冷凝式乾衣機 (7kg) WT46G400HK",
+        "rating": "7.0",
+        "hon_price_min": "4,190",
+        "hon_price_max": "5,518",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2500W"
+    },
+    {
+        "names": "Xiaomi 小米 小浪智能衣物消毒烘乾機 (35L) HD-YWHL01",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "998",
+        "water_price_min": "580",
+        "water_price_max": "899",
+        "類型:": "乾衣架",
+        "耗電量:": "650W"
+    },
+    {
+        "names": "Tefal 特福 Care For You 衣物護理機 YT3040",
+        "rating": "",
+        "hon_price_min": "6,190",
+        "hon_price_max": "7,278",
+        "類型:": "乾衣櫃",
+        "耗電量:": "3100W"
+    },
+    {
+        "names": "Whirlpool 惠而浦 排氣式乾衣機 (7kg) AWD712S",
+        "rating": "4.0",
+        "hon_price_min": "2,730",
+        "hon_price_max": "4,090",
+        "類型:": "排氣式",
+        "尺寸:": "845 x 595 x 578mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "LG 樂金 冷凝式乾衣機 (9kg) WF-DT90PW",
+        "rating": "6.0",
+        "hon_price_min": "4,400",
+        "hon_price_max": "5,139",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "3-19小時"
+    },
+    {
+        "names": "Xiaomi 小米 小浪智能衣物消毒烘乾機 (60L)",
+        "rating": "2.0",
+        "water_price_min": "1,040",
+        "water_price_max": "1,388",
+        "尺寸:": "402 x 300 x 805mm",
+        "耗電量:": "860W"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (5.5kg) PDV556HQWA",
+        "rating": "10",
+        "hon_price_min": "2,500",
+        "hon_price_max": "3,100",
+        "類型:": "排氣式",
+        "耗電量:": "2250W",
+        "乾衣程序數目:": "6",
+        "時間掣:": "30 / 60 / 90 /120 / 150 分鐘計時乾衣"
+    },
+    {
+        "names": "Xiaomi 小米 小浪智能衣物消毒烘乾機 (60L)",
+        "rating": "2.0",
+        "water_price_min": "1,040",
+        "water_price_max": "1,388",
+        "尺寸:": "402 x 300 x 805mm",
+        "耗電量:": "860W"
+    },
+    {
+        "names": "LG 樂金 Styler 衣物護理機 S3GNF",
+        "rating": "",
+        "hon_price_min": "11,290",
+        "hon_price_max": "12,190",
+        "類型:": "乾衣櫃",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Candy 熱泵冷凝式乾衣機 (7kg) CSO4H7AIDES",
+        "rating": "10",
+        "hon_price_min": "4,660",
+        "hon_price_max": "5,080",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "850 x 600 x 470mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Zanussi 金章 前置式乾衣機 (3kg) ZDV300",
+        "rating": "",
+        "hon_price_min": "2,650",
+        "hon_price_max": "3,080",
+        "類型:": "排氣式",
+        "尺寸:": "520 x 656 x 400mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Gree 格力 雙層衣櫃烘衣機 NFA-12A-WG",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "類型:": "乾衣櫃"
+    },
+    {
+        "names": "Xiaomi 小米 有品 清蜓智能便攜乾衣機",
+        "rating": "",
+        "water_price_min": "578",
+        "water_price_max": "598",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "耗電量:": "600W",
+        "時間掣:": "有"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (3kg) PD3EV",
+        "rating": "9.0",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,988",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "2項乾衣程式選擇 (時間+ / 清爽乾衣)",
+        "時間掣:": "120"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (9kg) GVSC9DCG-80",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "4,930",
+        "類型:": "冷凝式",
+        "耗電量:": "2300W",
+        "乾衣程序數目:": "4種自動乾衣程序",
+        "時間掣:": "30-45-49分鐘"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (7kg) TCA220WP Active",
+        "rating": "",
+        "hon_price_min": "8,205",
+        "hon_price_max": "9,691",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "596 x 850 x 640mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "LG 樂金 Dual Inverter Heat Pump 熱泵乾衣機 WF-DT90TW",
+        "rating": "2.0",
+        "hon_price_min": "8,390",
+        "hon_price_max": "9,880",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "600 x 850 x 690mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Teka 熱泵冷凝式乾衣機 TKS890H",
+        "rating": "",
+        "hon_price_min": "5,178",
+        "hon_price_max": "5,722",
+        "類型:": "冷凝式"
+    },
+    {
+        "names": "Samsung 三星 AI智能魔衣櫥 JetSteam除菌清新 DF60A8500CG",
+        "rating": "2.0",
+        "hon_price_min": "10,175",
+        "hon_price_max": "12,998",
+        "類型:": "乾衣櫃",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "LG 樂金 商用前置式乾衣機 (10kg) RV1329C4T",
+        "rating": "",
+        "hon_price_min": "8,010",
+        "hon_price_max": "9,800",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Indesit 依達時 排氣式乾衣機 (4kg) NIS 41 V UK",
+        "rating": "",
+        "hon_price_min": "2,700",
+        "hon_price_max": "3,450",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "3",
+        "時間掣:": "自選乾衣時間: 0-120分鐘"
+    },
+    {
+        "names": "Gala 家麗 排氣式乾衣機 (7kg) GDM7D",
+        "rating": "",
+        "hon_price_min": "2,450",
+        "hon_price_max": "2,890",
+        "類型:": "排氣式",
+        "尺寸:": "840 x 595 x 555mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (3kg) PD30U",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,390",
+        "類型:": "排氣式",
+        "尺寸:": "670 x 500 x 470mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Xiaomi 小米 六豎便攜衣物消毒烘乾桶",
+        "rating": "",
+        "water_price_min": "668",
+        "water_price_max": "699",
+        "類型:": "乾衣櫃",
+        "尺寸:": "203 x 212 x 250mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Candy 10公斤冷凝式乾衣機 GVSC10DCG-80",
+        "rating": "",
+        "hon_price_min": "3,640",
+        "hon_price_max": "5,180",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2300W"
+    },
+    {
+        "names": "LG 樂金 Dual Inverter Heat Pump 熱泵乾衣機 WF-DT90TW",
+        "rating": "2.0",
+        "hon_price_min": "8,390",
+        "hon_price_max": "9,880",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "600 x 850 x 690mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Xiaomi 小米 天駿小天使 (TIJUMP) 衣物除菌遙控烘乾機 (巴氏+紫外線殺菌)",
+        "rating": "",
+        "water_price_min": "788",
+        "water_price_max": "788",
+        "類型:": "乾衣櫃",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1200W"
+    },
+    {
+        "names": "Casa Dryer 掛牆式乾衣機",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "429",
+        "類型:": "乾衣架",
+        "耗電量:": "1000W",
+        "乾衣程序數目:": "6",
+        "時間掣:": "最長達180分鐘定時功能"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (9kg) TEJ665 WP Eco&9kg",
+        "rating": "",
+        "hon_price_min": "14,705",
+        "hon_price_max": "18,095",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "12"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (7kg) TEB145 WP",
+        "rating": "",
+        "hon_price_min": "8,430",
+        "hon_price_max": "9,150",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "12"
+    },
+    {
+        "names": "Donlim 折疊式乾衣機 DL-1216",
+        "rating": "",
+        "water_price_min": "798",
+        "water_price_max": "798",
+        "類型:": "乾衣架",
+        "時間掣:": "0-180分鐘"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (9kg) TWV680 WP Passion",
+        "rating": "",
+        "hon_price_min": "24,900",
+        "hon_price_max": "32,031",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "12"
+    },
+    {
+        "names": "Zanussi 金章 排氣式乾衣機 (3kg) TD896N",
+        "rating": "",
+        "hon_price_min": "2,859",
+        "hon_price_max": "2,859",
+        "類型:": "排氣式",
+        "尺寸:": "680 x 500 x 470mm"
+    },
+    {
+        "names": "Bosch Serie 8 熱泵技術冷凝式乾衣機 (9kg) WTW85551BY",
+        "rating": "",
+        "hon_price_min": "10,580",
+        "hon_price_max": "10,590",
+        "類型:": "冷凝式",
+        "尺寸:": "842 x 598 x 599mm",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (8kg) CSOC8TE-S",
+        "rating": "",
+        "hon_price_min": "3,040",
+        "hon_price_max": "4,630",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 600 x 600mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Whirlpool 惠而浦 纖巧型排氣式乾衣機 (3kg) AWG 367",
+        "rating": "6.7",
+        "hon_price_min": "2,420",
+        "hon_price_max": "2,420",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "乾衣程序數目:": "2",
+        "時間掣:": "0-120分鐘"
+    },
+    {
+        "names": "Zanussi 金章 前置式熱泵冷凝式乾衣機 (8kg) ZDH8333PZ1",
+        "rating": "",
+        "hon_price_min": "6,750",
+        "hon_price_max": "7,430",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "600 x 850 x 665mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 排氣式乾衣機 (7kg) DE7060M2",
+        "rating": "10",
+        "hon_price_min": "2,820",
+        "hon_price_max": "3,180",
+        "類型:": "排氣式",
+        "尺寸:": "600 x 830 x 600mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Gorenje 冷凝式乾衣機 (8kg) DE8B",
+        "rating": "",
+        "hon_price_min": "3,390",
+        "hon_price_max": "4,749",
+        "類型:": "冷凝式",
+        "尺寸:": "600 x 850 x 625mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Cinetron新朗 排氣式乾衣機 (7kg) CD-7",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,680",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2350W"
+    },
+    {
+        "names": "Whirlpool 惠而浦 冷凝式乾衣機 (第6感, 10kg) DSCX10122",
+        "rating": "",
+        "hon_price_min": "5,970",
+        "hon_price_max": "6,670",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "18"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (8kg) GVSC8DE-S",
+        "rating": "",
+        "hon_price_min": "2,990",
+        "hon_price_max": "4,200",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "16"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 冷凝式乾衣機 (7kg) EDP2074PDW",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "4,599",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "14"
+    },
+    {
+        "names": "Indesit 依達時 排氣式乾衣機 (4kg) IS41V",
+        "rating": "",
+        "hon_price_min": "2,619",
+        "hon_price_max": "3,450",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "耗電量:": "2200W",
+        "時間掣:": "0-120分鐘"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (5kg) PD50M",
+        "rating": "4.0",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,970",
+        "類型:": "排氣式",
+        "尺寸:": "800 x 595 x 570mm",
+        "座地式/掛牆式:": "座地式/掛牆式"
+    },
+    {
+        "names": "Candy 排氣式乾衣機 (8kg) CSEV8LF-S",
+        "rating": "",
+        "hon_price_min": "3,340",
+        "hon_price_max": "3,880",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "15"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (8kg) GVCD813B-S",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "4,100",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "18"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 排氣式乾衣機 (7kg) DE7060M",
+        "rating": "6.0",
+        "hon_price_min": "2,700",
+        "hon_price_max": "3,980",
+        "類型:": "排氣式",
+        "尺寸:": "830 x 600 x 600mm",
+        "座地式/掛牆式:": "座地式/掛牆式"
+    },
+    {
+        "names": "Zanussi 金章 排氣式乾衣機 (7.5kg) ZDV7552",
+        "rating": "",
+        "hon_price_min": "2,520",
+        "hon_price_max": "2,760",
+        "乾衣量:": "7.5公斤",
+        "乾衣程序數目:": "6",
+        "時間掣:": "30/60/90分鐘"
+    },
+    {
+        "names": "Philco 飛歌 冷凝式乾衣機 (7kg) PCD7H",
+        "rating": "",
+        "hon_price_min": "4,470",
+        "hon_price_max": "4,850",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "16",
+        "時間掣:": "0-24小時"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (8kg) TKG 640",
+        "rating": "10",
+        "hon_price_min": "13,065",
+        "hon_price_max": "15,700",
+        "乾衣量:": "8公斤",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "LG 樂金 商用前置式乾衣機 (10.5kg) RV1329C7T",
+        "rating": "",
+        "hon_price_min": "10,900",
+        "hon_price_max": "14,140",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Miele T1 Heat-Pump Tumble Dryer 乾衣機 (8kg) TCD360WP",
+        "rating": "",
+        "hon_price_min": "9,900",
+        "hon_price_max": "10,780",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "850 x 596 x 636mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Gala 家麗 8公斤冷凝式 GDT8CD",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,500",
+        "類型:": "冷凝式",
+        "尺寸:": "845 x 596 x 609mm",
+        "座地式/掛牆式:": "座地式/掛牆式"
+    },
+    {
+        "names": "Homey 家美牌 暖風乾衣寶 HCD-12",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "489",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1200W"
+    },
+    {
+        "names": "Miele T1 Classic 熱泵乾衣機 (8kg) TDD120WP",
+        "rating": "",
+        "hon_price_min": "11,700",
+        "hon_price_max": "12,950",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1100W"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 UltimateCare 700冷凝式乾衣機 (7kg) EDC704GEWA",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "5,200",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 600 x 540 (最大600) mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "TGC Hello Kitty 煤氣乾衣機 (6.5kg) RJD650",
+        "rating": "",
+        "hon_price_min": "3,708",
+        "hon_price_max": "4,480",
+        "類型:": "煤氣",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "5",
+        "時間掣:": "5-90分鐘"
+    },
+    {
+        "names": "Whirlpool 惠而浦 冷凝式乾衣機 (第6感, 8kg) DDLX80115",
+        "rating": "10",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,810",
+        "類型:": "冷凝式",
+        "尺寸:": "595 x 855 x 625",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Morphy Richards 衣物烘乾殺菌護理機",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,798",
+        "water_price_min": "1,488",
+        "water_price_max": "1,488",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "一鍵消毒烘乾  全程無需照料 殺菌率達到99.99%",
+        "時間掣:": "蒸汽輕洗15分鐘+烘乾護理45分鐘，就可以除去99.99%的細菌"
+    },
+    {
+        "names": "Whirlpool 惠而浦 排氣式乾衣機 (7kg) AWG 788",
+        "rating": "5.3",
+        "hon_price_min": "2,850",
+        "hon_price_max": "3,350",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "6",
+        "時間掣:": "0-140分鐘"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (8kg) TEF645 WP EcoSpeed&8kg",
+        "rating": "10",
+        "hon_price_min": "12,300",
+        "hon_price_max": "12,880",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "12"
+    },
+    {
+        "names": "Zanussi 金章 冷凝式乾衣機 (8kg) ZDC8203W",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "6,750",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "8"
+    },
+    {
+        "names": "Primer 排氣式乾衣機 (10kg) DP-10 T2",
+        "rating": "",
+        "hon_price_min": "33,200",
+        "hon_price_max": "33,200",
+        "類型:": "排氣式",
+        "尺寸:": "680 x 1056 x 755mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Rundry 3合1衣物護理器",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "water_price_min": "568",
+        "water_price_max": "568",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "掛牆式"
+    },
+    {
+        "names": "Midea 美的 烘乾機 (430L) HBGJ12A1",
+        "rating": "",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1200W"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (4kg) PD40M",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "2,580",
+        "類型:": "排氣式",
+        "尺寸:": "800 x 595 x 475mm",
+        "座地式/掛牆式:": "座地式/掛牆式"
+    },
+    {
+        "names": "Bosch Serie 8 熱泵冷凝式乾衣機 (9kg) WTX87MH0SG",
+        "rating": "",
+        "hon_price_min": "9,870",
+        "hon_price_max": "11,880",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "842 x 598 x 599mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "TGC 煤氣乾衣機 (6.5kg) RJD650",
+        "rating": "",
+        "hon_price_min": "3,658",
+        "hon_price_max": "4,030",
+        "類型:": "煤氣",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "5",
+        "時間掣:": "5-90分鐘"
+    },
+    {
+        "names": "Higold 智能晾衣機 DB9",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "類型:": "乾衣架",
+        "尺寸:": "1300 x 330 x 80mm",
+        "座地式/掛牆式:": "掛牆式"
+    },
+    {
+        "names": "Candy 排氣式乾衣機 (8kg) GOV580C-S",
+        "rating": "6.0",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,590",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2300W"
+    },
+    {
+        "names": "Moido 摺疊便攜乾衣架 MO4",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "類型:": "乾衣架"
+    },
+    {
+        "names": "MAYTAG 前置式乾衣機 MDE20MN",
+        "rating": "",
+        "hon_price_min": "15,800",
+        "hon_price_max": "15,800",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Cinetron新朗 排氣式乾衣機 (6kg) CD-6U",
+        "rating": "",
+        "hon_price_min": "2,429",
+        "hon_price_max": "2,429",
+        "類型:": "排氣式",
+        "尺寸:": "850 x 595 x 555mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Whirlpool 惠而浦 美式重量級乾衣機 (15kg) 3LWED4815FW",
+        "rating": "",
+        "hon_price_min": "7,060",
+        "hon_price_max": "7,890",
+        "類型:": "排氣式",
+        "尺寸:": "737 x 1090 x 735mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Siemens 西門子 iQ700 selfCleaning condenser 熱泵技術冷凝式乾衣機 WT47W541BY",
+        "rating": "",
+        "hon_price_min": "8,800",
+        "hon_price_max": "9,400",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "11"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (7kg) GCC570NBS",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "3,550",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 600 x 600mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 冷凝式乾衣機 (8kg) EDC804CEWA",
+        "rating": "",
+        "hon_price_min": "5,030",
+        "hon_price_max": "6,290",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 600 x 600 (最大665) mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Gala 家麗 排氣式乾衣機 (6kg) GD16D",
+        "rating": "",
+        "hon_price_min": "2,758",
+        "hon_price_max": "2,910",
+        "類型:": "排氣式",
+        "尺寸:": "850 x 596 x 530mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Baumatic 掛牆式排氣乾衣機 (4.5kg) BTD45",
+        "rating": "",
+        "hon_price_min": "2,288",
+        "hon_price_max": "2,288",
+        "類型:": "排氣式",
+        "尺寸:": "700 x 600 x 435mm",
+        "座地式/掛牆式:": "掛牆式"
+    },
+    {
+        "names": "Nardi UV除菌乾衣機 (3kg) ASMN205CW",
+        "rating": "10",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "類型:": "排氣式",
+        "耗電量:": "800W",
+        "乾衣程序數目:": "8種",
+        "時間掣:": "200分鐘"
+    },
+    {
+        "names": "Zanussi 金章 冷凝式乾衣機 (7kg) ZTE275",
+        "rating": "",
+        "hon_price_min": "5,699",
+        "hon_price_max": "5,699",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "14",
+        "時間掣:": "3/6/9小時"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 熱泵技術冷凝式乾衣機 (9kg) EDH903BEWA",
+        "rating": "",
+        "hon_price_min": "10,000",
+        "hon_price_max": "11,500",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "850 x 600 x 600 (最大665) mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Sunpentown 尚朋堂 乾衣寶 DP-1200S",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1200W"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (10kg) GVCD1013B-S",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "4,510",
+        "乾衣量:": "10公斤",
+        "耗電量:": "2300W",
+        "乾衣程序數目:": "11",
+        "時間掣:": "23小時預校洗衣時間"
+    },
+    {
+        "names": "Candy 排風式乾衣機 (8kg) CSV8LFS",
+        "rating": "",
+        "hon_price_min": "3,140",
+        "hon_price_max": "3,680",
+        "類型:": "排氣式",
+        "尺寸:": "600 x 850 x 600mm"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (9kg) TKR 450 WP",
+        "rating": "",
+        "hon_price_min": "20,599",
+        "hon_price_max": "20,899",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "21"
+    },
+    {
+        "names": "Samsung 三星 智能魔衣櫥 DF60R8600CG",
+        "rating": "",
+        "類型:": "乾衣櫃",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Whirlpool 惠而浦 美式重量級乾衣機 (10.5kg) 3LWED4900YW",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "6,999",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "5",
+        "時間掣:": "10-70分鐘"
+    },
+    {
+        "names": "Cinetron新朗 冷凝式乾衣機 (8kg) CD-8C",
+        "rating": "",
+        "hon_price_min": "3,358",
+        "hon_price_max": "3,358",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 595 x 630mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (8kg) TKG 440 WP",
+        "rating": "",
+        "hon_price_min": "16,099",
+        "hon_price_max": "16,399",
+        "類型:": "冷凝式",
+        "尺寸:": "596 x 850 x 636mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "TEKA 冷凝式乾衣機 TKS850C",
+        "rating": "2.0",
+        "hon_price_min": "3,250",
+        "hon_price_max": "4,230"
+    },
+    {
+        "names": "TGC 煤氣乾衣機 (4.3kg) RJD430",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,650",
+        "類型:": "煤氣",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "5",
+        "時間掣:": "5-90分鐘"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (10kg) GVSC10DE-S",
+        "rating": "",
+        "hon_price_min": "4,105",
+        "hon_price_max": "5,430",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "15"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (7kg) TWB140 WP",
+        "rating": "",
+        "hon_price_min": "8,650",
+        "hon_price_max": "9,515",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "12"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 Series 7 冷凝式乾衣機 (8kg) DE8060P2",
+        "rating": "",
+        "hon_price_min": "4,500",
+        "hon_price_max": "5,049",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "30，60，90mins"
+    },
+    {
+        "names": "Candy 冷凝式乾衣機 (8kg) GOC581B-UK",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "4,390",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2500W"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (8kg) TKB 340",
+        "rating": "",
+        "hon_price_min": "12,509",
+        "hon_price_max": "12,690",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "24小時"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 排氣式乾衣機 (7kg) WT34A200HK",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,100",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2000W"
+    },
+    {
+        "names": "Miele T1 Classic 冷凝式乾衣機 (7kg) TDB120WP",
+        "rating": "",
+        "hon_price_min": "7,900",
+        "hon_price_max": "7,900",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "596 x 850 x 636mm",
+        "耗電量:": "1100W"
+    },
+    {
+        "names": "LG 樂金 前置式乾衣機 (9kg) WF-D90PS",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,800",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "3-19小時"
+    },
+    {
+        "names": "Siemens 西門子 iQ700 熱泵技術冷凝式乾衣機 (9kg) WT47W540BY",
+        "rating": "6.0",
+        "hon_price_min": "9,000",
+        "hon_price_max": "9,360",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Gala 家麗 排氣式乾衣機 (6kg) GDI6D",
+        "rating": "",
+        "hon_price_min": "2,360",
+        "hon_price_max": "2,758",
+        "類型:": "排氣式",
+        "尺寸:": "850 x 596 x 530mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "ACA 可攜式烘乾機",
+        "rating": "",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "類型:": "乾衣架"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 熱泵技術冷凝式乾衣機 (9kg) EDH3497RDW",
+        "rating": "10",
+        "hon_price_min": "11,198",
+        "hon_price_max": "15,998",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "850 x 600 x 600mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Zanussi 金章 排氣式乾衣機 (3kg) TD892N",
+        "rating": "",
+        "hon_price_min": "2,360",
+        "hon_price_max": "2,890",
+        "類型:": "排氣式",
+        "尺寸:": "680 x 500 x 470mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 排氣式乾衣機 (7kg) WT34A201HK",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,190",
+        "類型:": "排氣式",
+        "尺寸:": "84.2 x 59.8 x 60.1cm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Candy 排氣式乾衣機 (8kg) GCV580NC-S",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "2,969",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2300W",
+        "乾衣程序數目:": "7"
+    },
+    {
+        "names": "Ariston 愛朗 前置冷凝式乾衣機 (8kg) TCF87B6H1",
+        "rating": "",
+        "hon_price_min": "5,899",
+        "hon_price_max": "5,899",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2700W",
+        "乾衣程序數目:": "16"
+    },
+    {
+        "names": "White-Westinghouse 美式乾衣機 (10kg) MKR62GWTWB",
+        "rating": "",
+        "hon_price_min": "6,109",
+        "hon_price_max": "6,480",
+        "乾衣量:": "10公斤",
+        "尺寸:": "1116 x 688 x 680mm"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 冷凝式乾衣機 (8kg) EDC2086PDW",
+        "rating": "",
+        "hon_price_min": "5,350",
+        "hon_price_max": "5,399",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "14",
+        "時間掣:": "8-12小時"
+    },
+    {
+        "names": "TGC 煤氣乾衣機 (6kg) RJD600",
+        "rating": "",
+        "hon_price_min": "3,730",
+        "hon_price_max": "3,780",
+        "類型:": "煤氣",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "5-80分鐘"
+    },
+    {
+        "names": "Origo 便攜式殺菌乾衣機 CD-P35",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "掛牆式",
+        "耗電量:": "500W"
+    },
+    {
+        "names": "Miele 乾衣機配件 - 乾衣籃 TRK555",
+        "rating": "",
+        "類型:": "乾衣架"
+    },
+    {
+        "names": "Gala 家麗 7公斤排氣式乾衣機 GDI7D",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,800",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "時間掣:": "有"
+    },
+    {
+        "names": "Whirlpool 惠而浦 冷凝式乾衣機 (第6感, 7kg) AZB 7671",
+        "rating": "",
+        "hon_price_min": "4,599",
+        "hon_price_max": "4,599",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "12小時"
+    },
+    {
+        "names": "Candy 冷凝式熱泵乾衣機 (7kg) CS4 H7A1DE-S",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,950",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 600 x 487mm",
+        "時間掣:": "23小時"
+    },
+    {
+        "names": "Gaggenau 8公升 內置式熱泵乾衣機 WD260100",
+        "rating": "",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "600 x 842mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Ariston 愛朗 排氣式乾衣機 (6kg) ASL600V",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "4,880",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2200W",
+        "時間掣:": "1-24小時"
+    },
+    {
+        "names": "Indesit 依達時 冷凝式乾衣機 (7kg) IDC75",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,480",
+        "類型:": "冷凝式",
+        "耗電量:": "2300W",
+        "乾衣程序數目:": "4",
+        "時間掣:": "20-160分鐘"
+    },
+    {
+        "names": "YES 衣櫃型暖風乾衣寶 (10kg) YHA-CD801F",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W",
+        "時間掣:": "有"
+    },
+    {
+        "names": "Origo 可折疊式UV殺菌乾衣櫃 (20kg) CD-S1248UV",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 冷凝式乾衣機 (7kg) EDC67550W",
+        "rating": "",
+        "hon_price_min": "4,899",
+        "hon_price_max": "4,899",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "14"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (9kg) TMV 840 WP",
+        "rating": "",
+        "hon_price_min": "23,270",
+        "hon_price_max": "25,069",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "22"
+    },
+    {
+        "names": "Ariston 愛朗 排氣式乾衣機 (7kg) TVF75C6H1",
+        "rating": "",
+        "hon_price_min": "3,839",
+        "hon_price_max": "3,839",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2400W",
+        "乾衣程序數目:": "16"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (7kg) T8812C",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "8"
+    },
+    {
+        "names": "Whirlpool 惠而浦 冷凝式乾衣機 (第6感, 7kg) DDLX70113",
+        "rating": "",
+        "hon_price_min": "4,600",
+        "hon_price_max": "4,600",
+        "類型:": "冷凝式",
+        "尺寸:": "855 x 595 x 640mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Miele Eco&Steam WiFi&XL 熱泵冷凝式乾衣機 (9kg) TCJ680WP",
+        "rating": "",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "596 x 850 x 636mm"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (7kg) TDA 140 C",
+        "rating": "",
+        "hon_price_min": "8,699",
+        "hon_price_max": "8,699",
+        "類型:": "冷凝式",
+        "尺寸:": "595 x 850 x 580mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Air-O-Dry 摺疊式熱力乾衣機 (5kg) K-112",
+        "rating": "9.0",
+        "乾衣量:": "5公斤",
+        "耗電量:": "800W",
+        "時間掣:": "30-180 mins"
+    },
+    {
+        "names": "Miele T1 熱泵乾衣機 (8kg) TKB 440 WP",
+        "rating": "",
+        "hon_price_min": "12,799",
+        "hon_price_max": "12,799",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "8"
+    },
+    {
+        "names": "Ariston 愛朗 排氣式乾衣機 (7kg) AS700V",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2200W",
+        "時間掣:": "2小時"
+    },
+    {
+        "names": "White-Westinghouse 排氣式乾衣機 (15kg) MKRN15GWAWB",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "3720W",
+        "乾衣程序數目:": "13"
+    },
+    {
+        "names": "Siemens 西門子 熱泵冷凝式乾衣機 (7kg) WT46W567GB",
+        "rating": "",
+        "類型:": "熱泵冷凝式",
+        "耗電量:": "1500W",
+        "乾衣程序數目:": "15",
+        "時間掣:": "1-24小時"
+    },
+    {
+        "names": "JNC 可摺式負離子乾衣機(衣櫃形) JHA-CD-FW1000-i",
+        "rating": "9.0",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "White-Westinghouse 前置式乾衣機 (10kg) MDE675NZHS",
+        "rating": "",
+        "hon_price_min": "7,450",
+        "hon_price_max": "7,450",
+        "乾衣量:": "10公斤",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "4500W"
+    },
+    {
+        "names": "Gorenje 熱泵冷凝式乾衣機 (9kg) DA92IL",
+        "rating": "",
+        "類型:": "熱泵冷凝式",
+        "尺寸:": "600 x 850 x 625mm"
+    },
+    {
+        "names": "Deerma 德爾瑪 多功能乾燥機 DEM-Q7C",
+        "rating": "",
+        "類型:": "乾衣櫃",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (6kg) T 4859 Ci ss",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "820 x 595 x 575mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 排氣式乾衣機 (6kg) DE50F56A2",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "乾衣程序數目:": "2"
+    },
+    {
+        "names": "YES 衣服烘乾機 (圓形摺疊式) YHA-CD802",
+        "rating": "10",
+        "類型:": "乾衣架",
+        "尺寸:": "650 x 1420mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Zanussi 金章 排氣式乾衣機 (6kg) ZVD514",
+        "rating": "",
+        "類型:": "排氣式",
+        "尺寸:": "595 x 850 x 530mm"
+    },
+    {
+        "names": "JNC 可摺式乾衣機 (圓形) JHA-CD-FC1000",
+        "rating": "9.5",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Miele 排風式乾衣機 (8kg) T8966",
+        "rating": "",
+        "乾衣量:": "8公斤",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Gala 家麗 排氣式乾衣機 (5kg) GD10",
+        "rating": "",
+        "類型:": "排氣式",
+        "尺寸:": "850 x 595 x 570mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "LG 樂金 冷凝式乾衣機 (9kg) WF-D90PW",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,800",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "3-19小時"
+    },
+    {
+        "names": "Iris Ohyama 衣物乾燥機 IK-C300",
+        "rating": "",
+        "尺寸:": "204 x 204 x 451mm",
+        "耗電量:": "260W",
+        "時間掣:": "有"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (12kg) MDE675NZHS",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "4500W",
+        "乾衣程序數目:": "7"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 排氣式乾衣機 (6kg) DE50F56E",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "3/6/9小時"
+    },
+    {
+        "names": "Origo UV殺菌乾衣櫃 (10kg) CD-S1238UV",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (8kg) T8000",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 595 x 596mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 冷凝式乾衣機 (7kg) WT46E302HK",
+        "rating": "4.0",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2100W"
+    },
+    {
+        "names": "Origo Clothes Dryer 殺菌乾衣櫃 (10kg) CD-S1232",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "3小時"
+    },
+    {
+        "names": "Zanussi 金章 纖薄型冷凝式乾衣機 (3.5kg) TC180",
+        "rating": "7.5",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "2"
+    },
+    {
+        "names": "Cinetron新朗 排氣式乾衣機 (6kg) CD-6",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "2,550",
+        "類型:": "排氣式",
+        "尺寸:": "850 x 595 x 630mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "White-Westinghouse 前置排氣式乾衣機 (10.1kg) WED29ZEMW",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "7300W",
+        "乾衣程序數目:": "9"
+    },
+    {
+        "names": "Electrolux 伊萊克斯 冷凝式蒸汽乾衣機 (7kg) EDI97170W",
+        "rating": "",
+        "hon_price_min": "6,089",
+        "hon_price_max": "6,089",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "14"
+    },
+    {
+        "names": "Proluxury 普樂氏 紫外光除菌負離子暖風乾衣機 (圓形) PCD003001",
+        "rating": "",
+        "類型:": "乾衣架"
+    },
+    {
+        "names": "White-Westinghouse 排氣式乾衣機 (7kg) WKFK07GGAW3",
+        "rating": "",
+        "類型:": "排氣式",
+        "尺寸:": "800 x 605 x 600mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "White-Westinghouse 排氣式乾衣機 (13kg) MKRN13GWAWB",
+        "rating": "",
+        "hon_price_min": "6,211",
+        "hon_price_max": "6,211",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "3720W",
+        "乾衣程序數目:": "13"
+    },
+    {
+        "names": "Haier 海爾 前置式乾衣機 HN-S100TVE",
+        "rating": "",
+        "尺寸:": "850 x 595 x 535mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Hibachi 氣霸 排氣式乾衣機 (2.5kg) HY-250DS",
+        "rating": "10",
+        "類型:": "排氣式",
+        "尺寸:": "495 x 590 x 400mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Origo 2-合-1 UV殺菌乾衣機 (10kg) CD-1231UV",
+        "rating": "8.0",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "3小時"
+    },
+    {
+        "names": "Air-O-Dry 摺疊式熱力乾衣機 (5kg) K-111",
+        "rating": "9.3",
+        "乾衣量:": "5公斤",
+        "耗電量:": "800W",
+        "時間掣:": "Yes"
+    },
+    {
+        "names": "Philco 飛歌 冷凝式乾衣機 (10.1kg) MER341ZLW",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "1110 x 686 x 655mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Origo UV殺菌乾衣機 (10kg) CD-1235UV",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (7kg) PVD7E",
+        "rating": "",
+        "hon_price_min": "2,669",
+        "hon_price_max": "2,669",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "15",
+        "時間掣:": "3/6/9小時"
+    },
+    {
+        "names": "Siemens 西門子 熱泵冷凝式乾衣機 (7kg) WT46W568GB",
+        "rating": "",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1500W",
+        "乾衣程序數目:": "15"
+    },
+    {
+        "names": "Whirlpool 惠而浦 排氣式乾衣機 (6kg) AWG 288S",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "6",
+        "時間掣:": "0-140分鐘"
+    },
+    {
+        "names": "Bosch Serie 8 熱泵技術冷凝式乾衣機 (9kg) WTW85561BY",
+        "rating": "",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "24小時"
+    },
+    {
+        "names": "Siemens 西門子 iQ500 冷凝式乾衣機 (8kg) WT46S592HK",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2100W"
+    },
+    {
+        "names": "Siemens 西門子 冷凝式乾衣機 (7kg) WT46E301TH",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2100W",
+        "乾衣程序數目:": "11"
+    },
+    {
+        "names": "Whirlpool 惠而浦 排氣式乾衣機 (6kg) AWZ 3667",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "7",
+        "時間掣:": "1-12小時"
+    },
+    {
+        "names": "Homey 家美牌 衣櫃式暖風乾衣寶 SCD-1200",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1200W"
+    },
+    {
+        "names": "Siemens 西門子 iQ800 熱泵冷凝式乾衣機 (8kg) WT48Y780EU",
+        "rating": "",
+        "類型:": "熱泵冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Ariston 愛朗 排氣式乾衣機 (7kg) ASL700V",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "11",
+        "時間掣:": "1-24小時"
+    },
+    {
+        "names": "TSK 第三代極速乾衣寶 WSD-2189",
+        "rating": "6.0",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1300W"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 冷凝式乾衣機 (7kg) WT46E302TH",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2100W",
+        "乾衣程序數目:": "11"
+    },
+    {
+        "names": "Indesit 依達時 排氣式乾衣機 (3kg) IS31V",
+        "rating": "10",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "時間掣:": "0-120分鐘"
+    },
+    {
+        "names": "Siemens 西門子 冷凝式乾衣機 (8kg) WT46S591AU",
+        "rating": "",
+        "類型:": "冷凝式",
+        "耗電量:": "2100W",
+        "乾衣程序數目:": "15",
+        "時間掣:": "1-24小時"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 排氣式乾衣機 (7kg) WT34V100ME",
+        "rating": "10",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2800W"
+    },
+    {
+        "names": "Zanussi 金章 排氣式乾衣機 (7kg) ZTB271",
+        "rating": "10",
+        "類型:": "排氣式",
+        "尺寸:": "850 x 600 x 580mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "TSK 多功能折合式乾衣寶 DBLS-01",
+        "rating": "",
+        "類型:": "乾衣架",
+        "耗電量:": "900W"
+    },
+    {
+        "names": "Origo 殺菌乾衣乾鞋機 HD-03S",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "掛牆式",
+        "耗電量:": "150W"
+    },
+    {
+        "names": "Whirlpool 惠而浦 冷凝式乾衣機 (9kg) AZB 9780",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "855 x 598 x 580mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Origo 殺菌乾衣機 (10kg) CD-1233",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Whirlpool 惠而浦 冷凝式乾衣機 (第6感, 9kg) AZB 9781",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "14+"
+    },
+    {
+        "names": "Indesit 依達時 排氣式乾衣機 (3kg) G32VU",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "時間掣:": "0-120分鐘"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (7kg) T8828",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "11",
+        "時間掣:": "24小時"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 排氣式乾衣機 (4kg) FPDE40F56A2",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "掛牆式",
+        "乾衣程序數目:": "2"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (6kg) T8402",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 595 x 580mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "White-Westinghouse 美式乾衣機 (11kg) XKR72GWTWB",
+        "rating": "",
+        "乾衣量:": "11公斤",
+        "尺寸:": "1116 x 688 x 750mm"
+    },
+    {
+        "names": "White-Westinghouse 排氣式乾衣機 (5.5kg) WDR55",
+        "rating": "",
+        "類型:": "排氣式",
+        "尺寸:": "720 x 600 x 540mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 排氣式乾衣機 (5kg) DE50F56A",
+        "rating": "",
+        "類型:": "排氣式",
+        "尺寸:": "795 x 565 x 560mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "KYODO 摺疊式暖風乾衣機 TJ-1A-JY",
+        "rating": "10",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "1000W"
+    },
+    {
+        "names": "Fisher & Paykel 飛雪 排氣式乾衣機 (6kg) DE50F56E1",
+        "rating": "",
+        "類型:": "排氣式",
+        "尺寸:": "565 x 795 x 565mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "TGC 煤氣乾衣機 (4kg) RJD400",
+        "rating": "",
+        "類型:": "煤氣",
+        "座地式/掛牆式:": "座地式",
+        "時間掣:": "5-60分鐘"
+    },
+    {
+        "names": "Zanussi 金章 冷凝式乾衣機 (7kg) ZTE171",
+        "rating": "6.0",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "14",
+        "時間掣:": "3/6/9小時"
+    },
+    {
+        "names": "KYODO 摺疊式暖風乾衣機 EZ-101210",
+        "rating": "",
+        "類型:": "乾衣架",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "900W"
+    },
+    {
+        "names": "YES 衣服烘乾機 (多功能衣櫃式) YHA-CD802F",
+        "rating": "",
+        "類型:": "乾衣架",
+        "尺寸:": "650 x 1370 x 500mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (6kg) T 4859 Ci Li",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "595 x 820 x 575mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Siemens 西門子 冷凝式乾衣機 (8kg) WT46S5B2EU",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2800W",
+        "乾衣程序數目:": "15"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (6kg) T4804",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 595 x 580mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Zanussi 金章 冷凝式乾衣機 (8kg) ZDC68560W",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式/掛牆式",
+        "乾衣程序數目:": "2"
+    },
+    {
+        "names": "Philco 飛歌 排氣式乾衣機 (13kg) MKRR13GWAWB",
+        "rating": "",
+        "類型:": "排氣式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "7"
+    },
+    {
+        "names": "Siemens 西門子 iQ300 冷凝式乾衣機 (8kg) WT46B200HK",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2800W"
+    },
+    {
+        "names": "Ariston 愛朗 冷凝式乾衣機 (8kg) AQCF851BU",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "耗電量:": "2100W",
+        "時間掣:": "1-24小時"
+    },
+    {
+        "names": "Miele 冷凝式乾衣機 (7kg) T8822",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 595 x 580mm",
+        "座地式/掛牆式:": "座地式"
+    },
+    {
+        "names": "Philco 飛歌 冷凝式乾衣機 (7kg) PCD7EX",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "15",
+        "時間掣:": "3/6/9小時"
+    },
+    {
+        "names": "Whirlpool 惠而浦 冷凝式乾衣機 (7kg) AZB 7670",
+        "rating": "",
+        "類型:": "冷凝式",
+        "座地式/掛牆式:": "座地式",
+        "乾衣程序數目:": "9"
+    },
+    {
+        "names": "Miele 冷凝式滾筒乾衣機 (9kg) T7944",
+        "rating": "",
+        "類型:": "冷凝式",
+        "尺寸:": "850 x 595 x 634mm",
+        "座地式/掛牆式:": "座地式"
+    }
+]

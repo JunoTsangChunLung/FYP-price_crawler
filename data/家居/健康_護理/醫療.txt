@@ -1,0 +1,3194 @@
+[
+    {
+        "names": "GOLDSITE SARS-CoV-2 (COVID-19) Antigen Kit Self-Testing 新冠病毒抗原快速檢測試劑套裝",
+        "rating": "9.7",
+        "hon_price_min": "10",
+        "hon_price_max": "28",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Dr.Parent CES 迷你無藥便用失眠焦慮治療儀",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "599",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Newedo 擊退灰甲激光治療儀",
+        "rating": "10",
+        "hon_price_min": "668",
+        "hon_price_max": "699",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Wondfo 新冠病毒 COVID-19 新冠病毒抗原快速測試套裝",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "55",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Aikang Covid-19 Antigen Test Kit 新冠病毒快速診斷套裝",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "68",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Green Spring SARS-CoV-2 Antigen Rapid Test Kit 新冠狀病毒抗原快速測試棒",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "35",
+        "water_price_min": "10",
+        "water_price_max": "28",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "德宜生 電動折疊輪椅 DSYOO2 (12A, 20km)",
+        "rating": "",
+        "water_price_min": "3,680",
+        "water_price_max": "3,980",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Longsee 新冠快速抗原檢測試劑 (25份裝)",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "1,900",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "BGI YHLO GLINE-2019-nCoV Ag COVID-19新冠病毒抗原快速測試套裝",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "400",
+        "water_price_min": "10",
+        "water_price_max": "45",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Ionizo 指尖式脈搏血氧儀",
+        "rating": "10",
+        "hon_price_min": "98",
+        "hon_price_max": "198",
+        "water_price_min": "108",
+        "water_price_max": "108",
+        "類型:": "血氧計"
+    },
+    {
+        "names": "BioTeke SARS-CoV-2 Antigen Test Kit 新冠病毒抗原快速檢測試劑盒",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "10",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Abbott 雅培 Panbio COVID-19 Antigen Self-Test 新冠抗原自我測試 (20 Tests)",
+        "rating": "6.0",
+        "hon_price_min": "300",
+        "hon_price_max": "2,500",
+        "water_price_min": "1,980",
+        "water_price_max": "2,700",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Philips Respironics AmaraView Full Face Mask 口鼻罩",
+        "rating": "",
+        "water_price_min": "900",
+        "water_price_max": "900",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Xpower 指尖脈搏血氧儀 AD901",
+        "rating": "10",
+        "hon_price_min": "99",
+        "hon_price_max": "198",
+        "water_price_min": "59",
+        "water_price_max": "150",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Pulse Oximeter 便攜式心率脈搏血氧監測儀 A2",
+        "rating": "10",
+        "hon_price_min": "28",
+        "hon_price_max": "268",
+        "water_price_min": "38",
+        "water_price_max": "180",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Pulse Oximeter 便攜式心率脈搏血氧監測儀 A2",
+        "rating": "10",
+        "hon_price_min": "28",
+        "hon_price_max": "268",
+        "water_price_min": "38",
+        "water_price_max": "180",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "康健美 iHealth Hub 血氧心率檢測儀",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "199",
+        "water_price_min": "119",
+        "water_price_max": "150"
+    },
+    {
+        "names": "iRainbow 指尖脈搏血氧儀 LK89",
+        "rating": "7.3",
+        "hon_price_min": "98",
+        "hon_price_max": "198",
+        "water_price_min": "68",
+        "water_price_max": "150"
+    },
+    {
+        "names": "YunRui SARS-CoV-2 (Covid-19) Antigen Rapid Test Kit 新冠病毒快速診斷套裝 (1 Test)",
+        "rating": "10",
+        "hon_price_min": "16",
+        "hon_price_max": "65",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Longsee 新冠快速抗原檢測試劑 (1份裝)",
+        "rating": "10",
+        "hon_price_min": "20",
+        "hon_price_max": "39",
+        "water_price_min": "10",
+        "water_price_max": "25",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Fami 指夾式血氧儀 FP001",
+        "rating": "8.9",
+        "hon_price_min": "20",
+        "hon_price_max": "168",
+        "water_price_min": "150",
+        "water_price_max": "168"
+    },
+    {
+        "names": "Fluorecare SARS-CoV-2 Antigen Test Kit 新冠病毒抗原測試盒 (膠體金法)",
+        "rating": "9.0",
+        "hon_price_min": "10",
+        "hon_price_max": "35",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "AmbiSense' ClipOn 充電式助聽機",
+        "rating": "10",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Wiz Biotech 新冠病毒快速測試 鼻腔拭子樣本抗原自我檢測套裝",
+        "rating": "2.0",
+        "hon_price_min": "10",
+        "hon_price_max": "85",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Jumper Fingertip Pulse Oximeter 指夾式脈搏血氧儀 JPD-500D",
+        "rating": "8.0",
+        "hon_price_min": "99",
+        "hon_price_max": "178",
+        "water_price_min": "150",
+        "water_price_max": "178",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Reagen COVID-19 新冠病毒抗原快速測試套裝 (1支裝)",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "28",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Glallergen Novel Coronavirus (2019-nCoV) Antigen Test Kit 新冠狀病毒檢測套裝",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "68",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Dvot SARS-COV2 Antigen Test Kit 新冠病毒快速測試棒 (1 test)",
+        "rating": "7.2",
+        "hon_price_min": "10",
+        "hon_price_max": "48",
+        "water_price_min": "10",
+        "water_price_max": "78",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Beurer 紅外線照護燈 BEU-IL50",
+        "rating": "9.4",
+        "hon_price_min": "899",
+        "hon_price_max": "1,208",
+        "water_price_min": "780",
+        "water_price_max": "798"
+    },
+    {
+        "names": "SmarterWare Pulse Oximeter 血氧測量機 LK88",
+        "rating": "10",
+        "hon_price_min": "38",
+        "hon_price_max": "99",
+        "water_price_min": "88",
+        "water_price_max": "88",
+        "類型:": "血氧機"
+    },
+    {
+        "names": "Lepu Medical SARS-CoV-2 Covid-19 快速測試套裝 (5套裝)",
+        "rating": "",
+        "hon_price_min": "12",
+        "hon_price_max": "330",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "HopeGen 新型冠狀病毒抗原快速檢測試劑 (1 Test)",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "126",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "HECIN 新冠狀病毒抗原快速檢測套裝 (1 Test)",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "258",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Hotgen 抗原快速測試 (1盒)",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "50",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "LON10 集寶 便攜多功能切藥收納器 QBG",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118"
+    },
+    {
+        "names": "Omron 家用制氧機 (2L) HAO-2210",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "3,880",
+        "water_price_min": "3,880",
+        "water_price_max": "3,880",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Dr.Parent 耳機式聲音放大器 Pro 2.0",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Omron 製氧機 (5L) Y-511W",
+        "rating": "",
+        "water_price_min": "5,280",
+        "water_price_max": "7,880",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Hopewell 耳機型充電式助聽器 HAP-120",
+        "rating": "9.2",
+        "hon_price_min": "740",
+        "hon_price_max": "888",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "SmarterWare Pulse Oximeter 血氧測量機 A2",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "119",
+        "water_price_min": "119",
+        "water_price_max": "119"
+    },
+    {
+        "names": "Santafell 舒坦福 1-7L 家用老人氧氣機 YY-11",
+        "rating": "9.8",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Deepblue 新冠狀病毒抗原快速測試棒 (通過CE1434) 1枝",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "158",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "小飛哥 12A 電池高背電動輪椅 (15-18km) XFGW25-108",
+        "rating": "",
+        "water_price_min": "3,680",
+        "water_price_max": "3,680",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Micro Sun medex 護托,膝防護護托 (K20b)",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,600",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Healthtree 兒童血氧儀 JKS50A",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "398"
+    },
+    {
+        "names": "Ta-Da Chair 泰達椅 (手杖椅)",
+        "rating": "10",
+        "hon_price_min": "828",
+        "hon_price_max": "937",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Bioantibody SARS-CoV-2 Saliva Antigen Rapid Detection Kit 新冠快速測試 鼻拭子 1個裝",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "35",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Hopewell 耳機型充電式助聽器 (+120dB) HAP-130",
+        "rating": "10",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "ecSTIM Delta 手提式電子止痛 + 超聲波治療儀",
+        "rating": "10",
+        "hon_price_min": "2,490",
+        "hon_price_max": "2,855",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "SPEED Pulse Oximeter 血氧機 LK87",
+        "rating": "8.5",
+        "hon_price_min": "38",
+        "hon_price_max": "238",
+        "water_price_min": "25",
+        "water_price_max": "79"
+    },
+    {
+        "names": "仁和 折疊電動輪椅 (35km)",
+        "rating": "",
+        "water_price_min": "4,580",
+        "water_price_max": "4,780",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Beurer 100W 紅外線照射燈 IL11",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "598",
+        "water_price_min": "310",
+        "water_price_max": "310"
+    },
+    {
+        "names": "ALOK 心率脈搏血氧儀 X1805",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "199",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "S.T.O.P. 新冠病毒抗原快速測試套裝",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "98",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Genrui 新型冠狀病毒抗原檢測試劑盒 (膠體金法) 1次測試",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "60",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Mr Care 家用擊退灰甲激光儀 (第二代) RK-6000FL",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Realy Tech Novel Coronavirus (SARS-Cov-2) Antigen Rapid Test Cassette (swab) Covid-19 抗原檢快速測試套裝 (5 Tests)",
+        "rating": "8.4",
+        "hon_price_min": "10",
+        "hon_price_max": "198",
+        "water_price_min": "60",
+        "water_price_max": "60",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Hopewell 掛耳充電式助聽器 (+120dB) HAP-73U",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Gene Science - Medicals 峻山生物 - 醫療 Novel Coronavirus (COVID-19) Antigen Detection Kit (1支裝)",
+        "rating": "",
+        "hon_price_min": "13",
+        "hon_price_max": "15",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "CuomoBio 新冠病毒快檢測試套裝 25套盒裝",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "3,500",
+        "water_price_min": "2,490",
+        "water_price_max": "2,498",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Abbott 雅培 Panbio COVID-19 Antigen Self-Test 新冠抗原自我測試 (1 Test)",
+        "rating": "7.3",
+        "hon_price_min": "20",
+        "hon_price_max": "150",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Dvot SARS-COV2 Antigen Test Kit 新冠病毒快速檢測劑 (10支)",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "650",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Tens+ Dreammate 電子智能助眠器 D6",
+        "rating": "2.0",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Hopewell 耳機型充電式助聽器 HAP-160",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,200",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "GenBody COVID-19 Ag 快速測試套裝",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "2,500",
+        "water_price_min": "2,500",
+        "water_price_max": "2,500",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "iHealth COVID-19 Antigen Rapid Test 快速測試 核酸檢測劑 (2 Tests)",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "110",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Yuwell 魚躍 指夾式脈搏血氧儀 YX306",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "water_price_min": "188",
+        "water_price_max": "399",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Gravity Support Chair 重力支撐椅 (抗菌姿勢矯正椅)",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "698",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Jinwofu 金沃夫 新型冠狀病毒快速檢測套裝 (5支裝)",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "15",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "UDXBIO COVID-19 Antigen Rapid Test 新冠病毒快速測試套裝",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "125",
+        "water_price_min": "15",
+        "water_price_max": "15",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Ainsnbot 電動輪椅 (20AH, 30km) JYWD602",
+        "rating": "",
+        "water_price_min": "9,680",
+        "water_price_max": "9,680",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Hopewell +130dB口袋式助聽器 HAP-60",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Pulse Oximeter 血氧飽和度監測儀心率脈搏血氧監測儀 (黑色) X1805",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "water_price_min": "99",
+        "water_price_max": "199",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Lenovo 指夾式脈搏血氧儀 S8",
+        "rating": "8.0",
+        "water_price_min": "119",
+        "water_price_max": "199",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "INDICAID 新冠肺炎快速抗原測試套裝 25套盒裝",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "3,200",
+        "water_price_min": "2,588",
+        "water_price_max": "3,200",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Bioantibody SARS-CoV-2 Saliva Antigen Rapid Detection Kit 新冠病毒快速測試棒 口含式 (1支裝)",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "26",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Beurer 150W 紅外線照射燈 IL21",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "598",
+        "water_price_min": "410",
+        "water_price_max": "570"
+    },
+    {
+        "names": "Inogen One G5 手提氧氣機",
+        "rating": "",
+        "water_price_min": "26,800",
+        "water_price_max": "26,800",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Zhenrui 新冠病毒抗原快速測試棒 (1盒5支)",
+        "rating": "10",
+        "hon_price_min": "40",
+        "hon_price_max": "100",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Philips Respironics SimplyGo Mini 手提氧氣機",
+        "rating": "",
+        "water_price_min": "24,800",
+        "water_price_max": "24,800",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Creative Medical 指夾式血氧儀 PC-60F",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "water_price_min": "450",
+        "water_price_max": "499",
+        "類型:": "血氧儀"
+    },
+    {
+        "names": "福宏 折疊輕便電動輪椅 (15-70km)",
+        "rating": "10",
+        "water_price_min": "3,700",
+        "water_price_max": "3,700",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "ResMed Airfit P30i Nasal Pillow Mask 鼻枕",
+        "rating": "",
+        "water_price_min": "800",
+        "water_price_max": "800",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Toamit 東亞產業 Covid 19 Antigen Rapid Test Device 新冠病毒抗原自我檢測套裝",
+        "rating": "8.4",
+        "hon_price_min": "20",
+        "hon_price_max": "90",
+        "water_price_min": "20",
+        "water_price_max": "78",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Beurer 暖敷脈衝舒痛儀 EM 59",
+        "rating": "10",
+        "hon_price_min": "920",
+        "hon_price_max": "1,188",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Longsee 2019-nCoV Ag Rapid Detection Kit (Immuno-Chromatography) (1 Pcs) LS-C-T-008",
+        "rating": "10",
+        "hon_price_min": "15",
+        "hon_price_max": "78",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Caremate 韓國蜂巢凝膠海綿坐墊",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "H-GUARD COVID-19 Antigen Test Kit 新冠病毒快速檢測套裝 (1 Test)",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "38",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Guardman 護匡 Wireless Magnetic Pull Alarm 無線磁力拉動式警報器 GWT-L700",
+        "rating": "",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "HECIN 新冠狀病毒抗原快速檢測套裝 (每盒有20份裝)",
+        "rating": "",
+        "hon_price_min": "40",
+        "hon_price_max": "490",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "KISSH SARS-CoV-2 Antigen Test Kit (GICA) 新冠病毒抗原快速測試棒 (1 Test)",
+        "rating": "",
+        "hon_price_min": "40",
+        "hon_price_max": "48",
+        "water_price_min": "20",
+        "water_price_max": "20",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "LABNOVATION Covid-19 新冠病毒快速抗原檢測套裝",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "85",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "HECIN 新冠抗原快速檢測套裝 (1盒5件裝)",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "268",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Hopewell 藍牙掛耳充電式助聽器 (+120dB) HAP-76BT",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,550",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Omron 制氧機老人孕婦吸氧機 Y4",
+        "rating": "",
+        "water_price_min": "2,788",
+        "water_price_max": "2,788",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "BHM COVID-19 Antigen Rapid Test (新冠病毒抗原快速測試) 鼻拭套裝 20套盒裝",
+        "rating": "",
+        "hon_price_min": "3,790",
+        "hon_price_max": "3,980",
+        "water_price_min": "3,799",
+        "water_price_max": "3,799",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Eldpathy 可調節安穩隨行傘",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Beurer 指式脈搏血氧儀 PO30",
+        "rating": "10",
+        "hon_price_min": "500",
+        "hon_price_max": "698",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Reach Health 護腰矯姿坐墊 RHUS-02",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "490",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "ABCDs 新冠病毒快速測試棒",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "108",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "PlusLife Mini Dock 掌上新冠核酸即時檢測機 PM001",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,098",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "ResMed AirMini AutoSet 旅行自動型呼吸機",
+        "rating": "",
+        "hon_price_min": "8,600",
+        "hon_price_max": "11,728",
+        "water_price_min": "7,900",
+        "water_price_max": "7,900",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Yuwell 魚躍 指夾式血氧儀 YX102",
+        "rating": "9.3",
+        "hon_price_min": "208",
+        "hon_price_max": "208",
+        "water_price_min": "199",
+        "water_price_max": "399"
+    },
+    {
+        "names": "DGT 新冠病毒抗原快速檢測",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "98",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "GP Getein Biotech COVID-19 新型冠狀病毒快速抗原測試檢測包 (鼻拭子測試) 1 Test",
+        "rating": "10",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "DGT 新冠病毒抗原快速檢測",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "98",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "GP Getein Biotech COVID-19 新型冠狀病毒快速抗原測試檢測包 (鼻拭子測試) 1 Test",
+        "rating": "10",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "M-Plus Blocc Shield  防疫防飛沫全罩式防霧面罩 (可更換濾芯)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "128",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Hopewell 掛耳式充電型助聽器 (+130dB) HAP-75U",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "780",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Abbott 雅培 Panbio COVID-19 Antigen Self-Test 新冠抗原自我測試 (10 Tests)",
+        "rating": "2.0",
+        "hon_price_min": "150",
+        "hon_price_max": "1,500",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Hopewell 掛耳式助聽器 (+130dB) HAP-40",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "480",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "3M Steri-Strip Reinforced Skin Closures 免縫膠帶 6 x 100mm (50包/盒) R1546",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "StrongStep (SARS-Cov-2) Antigen Rapid 新冠病毒快速測試劑 (1 Test)",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "35",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "ROHS Fingertip Pulse Oximeter 血氧機",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "138",
+        "water_price_min": "99",
+        "water_price_max": "99"
+    },
+    {
+        "names": "Yuwell 魚躍 魚躍電動輪椅 D210B",
+        "rating": "",
+        "water_price_min": "6,500",
+        "water_price_max": "6,500",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Face Shield Direct Splash Protection Face Shield 面罩",
+        "rating": "10",
+        "hon_price_min": "12",
+        "hon_price_max": "25",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Beurer PO40 血氧測量機",
+        "rating": "10",
+        "hon_price_min": "588",
+        "hon_price_max": "738",
+        "water_price_min": "250",
+        "water_price_max": "380",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Needs Labo 腰頸舒壓矽膠墊",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "158",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Omron 機家用醫用老人制氧機 (3L) Y-309W",
+        "rating": "6.0",
+        "water_price_min": "3,380",
+        "water_price_max": "4,460",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Oxitech 血含氧量儀",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Yuwell 魚躍 指夾式血氧機 YX303",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328",
+        "water_price_min": "199",
+        "water_price_max": "399",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "GX.Diffuser 谷心 艾灸儀 (四頭款) GX-J01",
+        "rating": "",
+        "hon_price_min": "859",
+        "hon_price_max": "859"
+    },
+    {
+        "names": "Omron 家用制氧機 (3L) HAO-3620",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "water_price_min": "4,680",
+        "water_price_max": "4,680",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Yuwell 魚躍 8L 93%高氧濃度醫用級吸氧機 8F-8W",
+        "rating": "",
+        "water_price_min": "9,980",
+        "water_price_max": "9,980",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Fisher & Paykel Vitera Full Face Mask 口鼻罩",
+        "rating": "",
+        "water_price_min": "1,000",
+        "water_price_max": "1,000",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Needs Labo 人體工學矽膠中空圓型矯姿坐墊",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "134",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Beurer 2-in-1 knee and elbow TENS EM-29",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "848",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Yuwell 魚躍 指夾式脈搏血氧儀 YX301",
+        "rating": "",
+        "water_price_min": "188",
+        "water_price_max": "399",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Aripa COVID-19-N 快速抗原檢測 (1 Test)",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "65",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "3M Steri-Strip Skin Closures 免縫膠帶 6 x 75mm (一盒50pcs) R1541",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600",
+        "類型:": "預防及傷口用"
+    },
+    {
+        "names": "NEEDS LABO 小腿醫學加壓套 (兩件裝)",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "148",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "AliveCor KardiaMobile Card 心電圖儀",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Healthtree 血氧儀 JKS50B",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "398",
+        "water_price_min": "350",
+        "water_price_max": "350"
+    },
+    {
+        "names": "ResMed AirSense 10 自動正氣壓睡眠呼吸機 女士版",
+        "rating": "",
+        "hon_price_min": "8,200",
+        "hon_price_max": "11,728",
+        "water_price_min": "7,900",
+        "water_price_max": "7,900",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Rayovac Extra Advanced 助聽器電池 675 (PR44) 6粒咭裝",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "28",
+        "類型:": "助聽器電池"
+    },
+    {
+        "names": "Omron 醫用級高品質制氧機 (5L) KJR-Y53W",
+        "rating": "",
+        "water_price_min": "5,280",
+        "water_price_max": "11,980",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "ResMed AirSense 10 自動正氣壓睡眠呼吸機",
+        "rating": "9.0",
+        "hon_price_min": "8,200",
+        "hon_price_max": "11,728",
+        "water_price_min": "7,900",
+        "water_price_max": "7,900",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Boson Biotech 新冠病毒抗原快速測試卡 (單盒20套裝)",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "江醫生 指夾式脈搏血氧儀 YK-80C",
+        "rating": "10",
+        "water_price_min": "79",
+        "water_price_max": "108",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Philips 飛利浦 Respironics EverFlo 5L 氧氣機",
+        "rating": "",
+        "hon_price_min": "18,490",
+        "hon_price_max": "18,500",
+        "water_price_min": "8,800",
+        "water_price_max": "9,900",
+        "類型:": "醫療儀器",
+        "備註:": "重量： 31 lb ● 尺寸：23\" (H) x 15\" (W) x 9.5\" (D)    ● 低耗電量：平均只需 295 watts  ● 製氧量：0.5-5 升/每分鐘 ● 氧氣濃度：於5度時，93% (+/-3%) ● 噪音水平： 平均大約40dBA超低噪音  ● 低氧機濃度警示 (OPI)： 低氧氣：82%；超低氧氣：70%  ● 輸出壓力：5.5 PSI (+/- 3.5 PSI)"
+    },
+    {
+        "names": "Healgen Rapid COVID-19 Antigen Self-Test 快速測試劑 (1 Test)",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "ZYBIO 新冠病毒抗原快速檢測試劑盒 SARS-COV-2 ANTIGEN ASSAY KIT",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "19",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Apex  Auto CPAP 自動正氣壓睡眠呼吸機",
+        "rating": "10",
+        "hon_price_min": "5,800",
+        "hon_price_max": "5,800",
+        "water_price_min": "5,800",
+        "water_price_max": "5,800",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Aiqura 便攜式心率脈搏血氧監測儀 AD805",
+        "rating": "8.0",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Sharp 聲寶 奈米蛾眼科技防護面罩 FG-F10M",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Yuwell 魚躍 全自動調壓單水平呼吸機 YH580",
+        "rating": "10",
+        "hon_price_min": "5,688",
+        "hon_price_max": "6,098",
+        "water_price_min": "5,698",
+        "water_price_max": "6,098",
+        "類型:": "全自動調壓單水平呼吸機"
+    },
+    {
+        "names": "Landwind COVID-19 Antigen Test Kit 新冠快速抗原測試劑 (1 Test)",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "25",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Boson Biotech 新冠病毒快速抗原測試套裝 (1盒)",
+        "rating": "",
+        "hon_price_min": "13",
+        "hon_price_max": "13",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Norman 新冠病毒抗原快速測試套裝 (1 Test)",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "60",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "VivaDiag Pro SARS-CoV-2 Ag Rapid Test 新冠病毒抗原快速測試套裝 (含5次快速測試)",
+        "rating": "2.0",
+        "hon_price_min": "10",
+        "hon_price_max": "350",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Dr. Spine 壓力分散坐墊",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Bioantibody SARS-CoV-2 Saliva Antigen Rapid Detection Kit 新冠快速測試 深喉唾液式 1個裝",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "35",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Philips 飛利浦 DreamStation Auto CPAP 飛利浦自動正氣壓睡眠呼吸機",
+        "rating": "8.2",
+        "water_price_min": "7,120",
+        "water_price_max": "7,120",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Pesonla LLLT Pro 舒痛儀",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Needs Labo 人體工學矽膠矯姿坐墊 (大碼版)",
+        "rating": "9.5",
+        "hon_price_min": "115",
+        "hon_price_max": "1,888",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Inogen At Home 家用型氧氣機 GS100",
+        "rating": "",
+        "water_price_min": "14,000",
+        "water_price_max": "14,000",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "eDiagnosis 新冠病毒快速測試 鼻腔拭子樣本抗原檢測套裝 (1件裝)",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "80",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Yuwell 魚躍 製氧機 8F-3CW",
+        "rating": "",
+        "water_price_min": "3,880",
+        "water_price_max": "3,980",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Needs Labo 腿部醫學加壓套 (粉紅色兩件裝)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "198",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 前開式約束手套 - 一只裝 JEB",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Santafell 舒坦福 1L-7 家用老人升氧氣機 W-12",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,880",
+        "water_price_min": "1,780",
+        "water_price_max": "1,780",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Caire FreeStyle Comfort 手提氧氣機",
+        "rating": "",
+        "water_price_min": "25,800",
+        "water_price_max": "25,800",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Gemibee 速熱遠紅外線發熱護膝",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "AKM 丌方 SARS-CoV-2 Covid-19 新冠病毒抗原快速測試套裝 (1 Test)",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "ResMed Airfit N30i Nasal Mask 鼻罩",
+        "rating": "",
+        "water_price_min": "800",
+        "water_price_max": "800",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Yuwell 魚躍 輕便折疊代步車電動輪椅 D130H",
+        "rating": "",
+        "water_price_min": "6,980",
+        "water_price_max": "6,980",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Beech 王様の腰枕 日本製王樣舒適腰枕",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "water_price_min": "398",
+        "water_price_max": "399",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Healthtree 藍牙血氧儀 JKS50C",
+        "rating": "10",
+        "hon_price_min": "249",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Yuwell 魚躍 家用保健製氧機 YU100",
+        "rating": "",
+        "water_price_min": "2,180",
+        "water_price_max": "2,180",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "ChoiceMMed Fingertip Pulse Oximeter 血氧計 MD300C15D",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380",
+        "類型:": "血氧計"
+    },
+    {
+        "names": "Dr. Pro 矯形肩背帶 女裝",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "99",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Flowflex COVID-19 新冠病毒抗原快速測試套裝 (25件裝)",
+        "rating": "10",
+        "hon_price_min": "300",
+        "hon_price_max": "2,500",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "OTO 護背墊 BR-10",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Elaimei 兒童睡眠封口貼 (綜合階段) 90件裝",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Yuwell 魚躍 制氧機 (1L) YU300",
+        "rating": "",
+        "water_price_min": "2,180",
+        "water_price_max": "2,280",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Hopewell 耳機型充電式助聽器 (+120dB) HAP-150",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Face Shield 高清防飛沬隔離面罩 (成人/小童)",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "50",
+        "water_price_min": "25",
+        "water_price_max": "25",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "SoftTouch 嬰兒專用清潔棉 150枚入",
+        "rating": "10",
+        "hon_price_min": "25",
+        "hon_price_max": "36",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Hightop 漢唐 新冠病毒抗原快速測試套裝 (1支裝)",
+        "rating": "",
+        "hon_price_min": "17",
+        "hon_price_max": "25",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Saiertech COVID-19 鼻拭子快速抗原檢測試劑盒 (1套測試 / 每盒)",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "CR Group SRL 便攜指夾式脈搏血氧儀",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99"
+    },
+    {
+        "names": "Hopewell 充電耳內式助聽器 HAP-90",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Yuwell 魚躍 呼吸機鼻罩 YN-03",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "498",
+        "water_price_min": "498",
+        "water_price_max": "498",
+        "類型:": "呼吸機鼻罩",
+        "備註:": "ResMed, Philips等各大品牌呼吸機適用"
+    },
+    {
+        "names": "Flexwarm 飛樂思 電熱暖宮腹帶護腰帶 | Heating Mentrual Pain Relief Belt",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "499",
+        "water_price_min": "248",
+        "water_price_max": "399",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Unione 指尖脈搏血氧儀 AD901",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "138"
+    },
+    {
+        "names": "新勢醫療 摺疊式電動輪椅 N0988",
+        "rating": "",
+        "water_price_min": "3,500",
+        "water_price_max": "3,500",
+        "類型:": "電動輪椅"
+    },
+    {
+        "names": "Beurer Menstrual Relax 暖敷生理貼 EM50",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "799",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 肩關節半脫位脫臼肩膀固定保護帶 JEE",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Beurer 電流按摩止痛及健肌儀 EM 49",
+        "rating": "10",
+        "hon_price_min": "720",
+        "hon_price_max": "725",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Philips 飛利浦 紅外線健康燈 PR3120/00",
+        "rating": "5.0",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Genesprint 深喉快速測試卡套裝 SARS-CoV-2",
+        "rating": "",
+        "hon_price_min": "10",
+        "hon_price_max": "240",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "SleepBank 睡眠撲滿助眠機",
+        "rating": "",
+        "water_price_min": "4,980",
+        "water_price_max": "4,980",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展複康治療儀 (主機+多關機訓練手套+鏡像手套 基礎-英文版) 左手M號 SAB3003",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "3,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "TensCare 電極貼 (正方形) 50x50mm (4塊裝)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "個人護理/醫療儀器/復康用品/止痛用品"
+    },
+    {
+        "names": "Wondfo (2019-nCoV)抗體檢測試劑20人份盒裝",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "400",
+        "water_price_min": "10",
+        "water_price_max": "10",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Hongyu 紅雨醫藥 新冠狀病毒抗原快速測試棒",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "20",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Ziglite 節亮 運動捆綁式透氣護肘 KBJ",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (進階-繁體英文版配多關節手套)(六鍵電容屏) 左手S號 SHC003",
+        "rating": "",
+        "hon_price_min": "5,966",
+        "hon_price_max": "5,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 可折疊背靠護理洗澡椅 WCH",
+        "rating": "",
+        "hon_price_min": "730",
+        "hon_price_max": "730",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Suzuran 思詩樂 嬰兒專用抗菌清潔棉 1080片",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "98",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Newedo 無線鼻炎紅光理療儀",
+        "rating": "10",
+        "hon_price_min": "332",
+        "hon_price_max": "369",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (進階-繁體英文版配多關節手套)(六鍵電容屏) 右手XXL號 SHC10003",
+        "rating": "",
+        "hon_price_min": "5,966",
+        "hon_price_max": "5,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Arista 即驗即知「新冠病毒」測試棒 (1支裝)",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "water_price_min": "136",
+        "water_price_max": "136",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Karma 超輕手推長者輪椅 (14吋實心小輪｜三段式剎車系統｜8.5kg) KM-2501",
+        "rating": "",
+        "water_price_min": "4,780",
+        "water_price_max": "4,780",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Wheelchair88 Stable Cane 三腳柺杖",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Ziglite 節亮 套指式護腕護掌-棕色一副【L】KBM",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Micro Sun 紅外線 660nm+850nm 治療燈 (225 LED)",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,680",
+        "類型:": "醫療器材"
+    },
+    {
+        "names": "LON10 可拆分3格便攜式分裝藥盒 - 21格 QBE",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Haier 海爾 制氧機 HA105 (7L)",
+        "rating": "",
+        "water_price_min": "2,580",
+        "water_price_max": "2,580",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Xingyu 星宇 一次性即棄藍色丁晴手套 (每盒100隻)",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Dr.Pro 加強型舒適矯姿帶",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Yuwell 魚躍 指夾式脈搏血氧儀 YX102B",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "water_price_min": "199",
+        "water_price_max": "399",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 磁療矽膠護腕套滑鼠手手套 - 一只裝 JEV",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Healovation Air Salter 噴霧器套裝",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 吊針打點滴提醒器輸液寶 FAY",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "WESAIL Covid-19 Ag Test Kit 新冠病毒抗原快速檢測套裝",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Yuwell 魚躍 單水平全自動無創呼吸機止鼾器 YH450",
+        "rating": "",
+        "hon_price_min": "6,610",
+        "hon_price_max": "6,610",
+        "water_price_min": "6,610",
+        "water_price_max": "6,610",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Rayovac Extra Advanced 助聽器電池 10 (PR70) 6粒咭裝",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "28"
+    },
+    {
+        "names": "SaveMed 無粉丁腈檢查手套 (大碼) 一盒100隻/50對",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Ziglite 節亮 足弓訓練器 - 一對裝",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Needs Labo Cosios 坐姿矯正椅背",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "328",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Reli 910 玻璃面紅光‧近紅外線理療器",
+        "rating": "",
+        "hon_price_min": "9,800",
+        "hon_price_max": "9,800",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 360度可旋轉洗澡凳 WCG",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "538",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "ABIOM 2019-nCoV Antigen Test Kit 新冠病毒快速診斷套裝",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "38",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "INV Bio-technology 新冠狀病毒抗原快速檢測套裝 (1劑)",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Kyncilor 護膝帶",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "RHT NCCO-IG 皮膚鎖水修護膜 30ml",
+        "rating": "10",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "LON10 集寶 生理鹽粉洗鼻鹽可調製生理鹽水 (40包 x 2盒) PBD2",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Reli 820 紅光‧近紅外線理療器",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Wheelchair88 Pegasus II 半自動站立式輪椅",
+        "rating": "",
+        "hon_price_min": "49,800",
+        "hon_price_max": "49,800",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Hopewell 耳內式助聽器 (+110dB) HAP-80s",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "480",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 手眼協調精細康復訓練木插板 JEI",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展複康治療儀 (主機+多關機訓練手套+鏡像手套 基礎-英文版) 右手XL號 SAB8003",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "3,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Reach Health 護腰矯姿坐墊 RHUS-01",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 可攜式肺肌訓練器 JEU",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Cup n Stim 塑膠拔罐 (6cm)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80"
+    },
+    {
+        "names": "Strongstep (SARS-Cov-2) Antigen Rapid 新冠病毒快速測試劑 (25 Tests)",
+        "rating": "",
+        "hon_price_min": "1,620",
+        "hon_price_max": "1,620",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Ziglite 節亮 夜用大腳骨拇趾外翻矯正器 - 一對裝 JEW",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Medicom SafeBasics Clip Cap 18\" 一次性夾帽無紡布頭套髮帽 (100pcs/pack)",
+        "rating": "",
+        "water_price_min": "50",
+        "water_price_max": "50",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Snore Circle Snore Earset E4 耳戴式智能止鼾器",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "599",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Skater Curious George 急救藥水膠布 (M Size) 50片裝",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Yuwell 魚躍 折疊手動輪椅車 2000",
+        "rating": "",
+        "water_price_min": "1,880",
+        "water_price_max": "1,880",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Medicom SafeWear Full Face Shield 防護面罩 (30個)",
+        "rating": "",
+        "water_price_min": "675",
+        "water_price_max": "675",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Silver Ultra 新型冠狀病毒快速抗原測試劑 1盒",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "140",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Plenitud 倍樂 成人舒爽褲 (中碼) 9片",
+        "rating": "",
+        "hon_price_min": "59",
+        "hon_price_max": "59",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 加壓綁帶矽膠護膝 - 1隻裝 KBG",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Micro Sun 手指康復訓練器 (中風/偏癱)",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 護腰帶腰托固定 - M JDY",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "MAKOTO 抗菌雙頭化妝清潔棉花棒(尖頭+圓頭)獨立包裝33本入[粉色]",
+        "rating": "",
+        "water_price_min": "25",
+        "water_price_max": "25",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Wheelchair88 Lumbar Brace Support 腰封",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 60ml+20ml直咀針筒 (餵食用) 各5支 JFA",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Yuwell 魚躍 呼吸機口鼻全面罩 YF-02",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "water_price_min": "398",
+        "water_price_max": "498",
+        "類型:": "睡眠呼吸機面罩",
+        "備註:": "ResMed, Philips等各大品牌呼吸機適用"
+    },
+    {
+        "names": "Beurer IL35",
+        "rating": "10",
+        "hon_price_min": "550",
+        "hon_price_max": "758",
+        "water_price_min": "500",
+        "water_price_max": "500",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Goki 指夾式脈搏血氧儀 P31",
+        "rating": "",
+        "water_price_min": "79",
+        "water_price_max": "99",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "LON10 集寶 可攜式迷你分格收納藥盒 QBD",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Kaneishi 金石衛材 極速止鼻血棉條 (細Size) 100個裝",
+        "rating": "",
+        "water_price_min": "30",
+        "water_price_max": "30",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Needs Labo 拇指外翻矽膠護托",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "SmarterWare Pulse Oximeter 血氧測量機 PO1",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "55",
+        "water_price_min": "55",
+        "water_price_max": "55",
+        "類型:": "血氧機"
+    },
+    {
+        "names": "Beurer PO60 藍牙血氧測量儀",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "1,038",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指鏡像復康治療器-升級版 (左S) SBA1",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 矽膠星星握力訓練球 JEY",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Karma 超輕手推長者輪椅 (20吋實心大輪｜可拆腳踏｜10.9kg) KM-2512",
+        "rating": "",
+        "water_price_min": "5,180",
+        "water_price_max": "5,180",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Phiten Metax Lotion 舒緩按摩乳液 120ml",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "138",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Heal Force 指式脈搏血氧儀 A3",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 SCB 多功能一體機 (英文版)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Hanimaga Disposable Type5/6 Coveralls  一次性防護工作服",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "類型:": "預防及傷口用品",
+        "備註:": "大碼(適合身高170 - 180cm)"
+    },
+    {
+        "names": "BRACOO 全效透氣支撐護膝套 (高階減震全效型) KP41",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Wheelchair88 Foldawheel 折疊電動輪椅 PW-999UL",
+        "rating": "",
+        "hon_price_min": "22,800",
+        "hon_price_max": "22,800",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "BMC 呼吸機管道 L1 (D19)",
+        "rating": "",
+        "water_price_min": "128",
+        "water_price_max": "128",
+        "類型:": "呼吸機管道"
+    },
+    {
+        "names": "Paides 手腕固定托",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 電加熱艾炙護足踝 JFG",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "NoCry 安全護目鏡 ANSI Z87.1",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "類型:": "護目鏡"
+    },
+    {
+        "names": "Ziglite 節亮 矽膠防水防髒護理圍嘴成人圍兜 (NBU)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 萬能袖帶輔助器 JFE",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Omron 便攜霧化吸氧器 S10",
+        "rating": "",
+        "water_price_min": "2,968",
+        "water_price_max": "2,998",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 手指鏡像復康治療器-基礎版 (左L) SAA5",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Banitore 便利妥 便利析 - 新型抗原SARS-COV-2檢測試劑盒 (COVID-19 測試) - 鼻拭子及深喉測試劑 (1 Test)",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "28",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "YORTER 單指夾式血氧飽和檢測儀 YK82C",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "HG 手臂吊帶",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "90",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Medex 拇趾外翻拉繩矯形器 F04b",
+        "rating": "",
+        "hon_price_min": "504",
+        "hon_price_max": "598",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 NBN2 兒童款短臂小環創傷保護洗澡沐浴防水套",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Pigeon 嬰兒棉棒抗菌棉籤清潔嬰兒耳鼻用 (108支)",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "28",
+        "water_price_min": "25",
+        "water_price_max": "28",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (進階-繁體英文版配多關節手套)(六鍵電容屏) 左手XL號 SHC7003",
+        "rating": "",
+        "hon_price_min": "5,966",
+        "hon_price_max": "5,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "ResMed Swift FX Nasal Pillow Mask 鼻枕",
+        "rating": "",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Flexwarm 2代高效睡眠眼罩",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "M-Plus Blocc Face Shield 同款頭戴式透明防護面具",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類型:": "防護裝備"
+    },
+    {
+        "names": "Vstrip RV2 家用新型冠狀病毒抗原快速檢驗試劑",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "168",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "TensCare Perfect TENS 雙頻道電子止痛機",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 踝骨固定足下垂支具 左右通用 M (TD-TV)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Philips Respironics DreamStation Go Auto with A-Flex 旅行呼吸機",
+        "rating": "10",
+        "water_price_min": "9,100",
+        "water_price_max": "9,100",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Caremate 韓國蜂巢凝膠坐墊",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "600"
+    },
+    {
+        "names": "Yuwell 魚躍 製氧機 YU360",
+        "rating": "",
+        "water_price_min": "1,950",
+        "water_price_max": "2,468",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Heal Force Fingertip Pulse Oximeter Prince - 100B 指式脈搏血氧儀",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "water_price_min": "99",
+        "water_price_max": "699",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 U型款臥床翻身輔助器-護理用品 (NAX)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Flexwarm 飛樂思 智能電熱熱敷眼罩 | Heating Eyeshade",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "B.A.J 百安健 網球肘康復帶 (單隻) JW",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "SUZURAN 思詩樂 潔淨乾棉 (180片)",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "CuomoBio 新冠病毒抗原快速測試劑 COVID-19 Antigen Rapid Test",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Yuwell 魚躍 5L升醫用製氧機 8F-5AW",
+        "rating": "",
+        "water_price_min": "5,280",
+        "water_price_max": "5,280",
+        "類型:": "醫用製氧機"
+    },
+    {
+        "names": "Plenitud 倍樂 成人舒爽墊 (19cm) 26片",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Wellue O2Ring 智能睡眠監測指環",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 孕婦老人衛浴馬桶增高墊 WCI",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "618",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 電熱艾灸護單肩 JFF",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Reli Belt 紅光‧ 近紅外線理療帶",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Yuwell 魚躍 帶霧化小型便攜製氧機 YU560",
+        "rating": "",
+        "water_price_min": "2,468",
+        "water_price_max": "2,480",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Heal Force Fingertip Pulse Oximeter Prince - 100A 指式脈搏血氧儀",
+        "rating": "",
+        "water_price_min": "79",
+        "water_price_max": "85",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Rayovac Extra Advanced 助聽器電池 312 (PR41) 6粒咭裝",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "28"
+    },
+    {
+        "names": "Ziglite 節亮 便攜頸椎矯正頸托固定器-白色 JDS",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "189",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Annie's Nitrile Gloves 一次性無粉丁腈手套 100隻",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Ziglite 節亮 折疊便攜免彎腰仰式洗頭盆 NBV",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Yuwell 魚躍 指夾式脈搏血氧飽和檢測器儀 YX302",
+        "rating": "",
+        "water_price_min": "559",
+        "water_price_max": "599"
+    },
+    {
+        "names": "Ziglite 節亮 遠紅外護膝M 單只右左通用 (TD-JY)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Veinoplus V.I 舒足健",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,343",
+        "類型:": "其他生活輔助品"
+    },
+    {
+        "names": "Thermocare THCA-00004",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "843",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Dr. Pro 遠紅外線/抗菌防臭護膝套",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "188",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 兒童前臂骨折吊帶 L (TD-KH2)",
+        "rating": "",
+        "hon_price_min": "94",
+        "hon_price_max": "94",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Arooxy 艾潤 家用簡單指夾式血氧飽和檢測儀 YK-82C",
+        "rating": "",
+        "water_price_min": "389",
+        "water_price_max": "389"
+    },
+    {
+        "names": "3M Protective Coverall 4535 防護衣",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "98",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Jumper Fingertip Pulse Oximeter 指夾式脈搏血氧儀 JPD-500F",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "water_price_min": "280",
+        "water_price_max": "280"
+    },
+    {
+        "names": "Needs Labo 3D減壓止鼾枕頭",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "428",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Suzuran 思詩樂 嬰兒專用棉花棒200支裝",
+        "rating": "",
+        "hon_price_min": "22",
+        "hon_price_max": "36",
+        "water_price_min": "22",
+        "water_price_max": "24",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Fora 膽固醇試紙 (TCH) (10枚)",
+        "rating": "",
+        "hon_price_min": "357",
+        "hon_price_max": "357",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Nano 草本除臭氣囊鞋墊",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Neat Feat 樂活適 足部及鞋履粉劑 125g",
+        "rating": "",
+        "hon_price_min": "152",
+        "hon_price_max": "152",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Reach Health CPAP過濾棉 (Resmed 9/10系適用)",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指夾式血氧儀 寶石款 (HM-SK)",
+        "rating": "10",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (主機+多關機訓練手套+鏡像手套 基礎-繁體版) 右手L號 SAA-26003",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "3,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Philips 飛利浦 Respironics DreamStation A-Flex 全自動智能型連續正氣壓睡眠呼吸機",
+        "rating": "10",
+        "water_price_min": "7,120",
+        "water_price_max": "7,120",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 多功能四輪手推折疊助行購物車 WBZ",
+        "rating": "",
+        "hon_price_min": "1,589",
+        "hon_price_max": "1,589",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "URS 十四合一尿試紙 URS-14",
+        "rating": "",
+        "hon_price_min": "171",
+        "hon_price_max": "171",
+        "類型:": "尿液試紙"
+    },
+    {
+        "names": "Ziglite 節亮 手指康復握力器訓練球 JEF",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "3M Tegaderm + Pad 透明防水膠膜敷貼 每盒50片 (3584)",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "TensCare Mynd 偏頭痛電療儀",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,200",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 帶橫梁折疊鋁合金老人助行器 (LR-LO)",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Ziglite 節亮 智能背部感應式矯正器防駝背形態體態矯正 JDD",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 防滑不銹鋼抓杆坐便器扶手 WCJ",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "618",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "護衛神 電動輪椅 (20km)",
+        "rating": "",
+        "water_price_min": "7,480",
+        "water_price_max": "7,480",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指鏡像復康治療器-升級版 (右M) SBA4",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Dretec 脈摶血氧儀 OX-102",
+        "rating": "10",
+        "hon_price_min": "288",
+        "hon_price_max": "568",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "3M Protective Coverall 工作防護衣 4532+",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "110",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "VANSFUL 十合一尿試紙 URS-10T",
+        "rating": "",
+        "hon_price_min": "96",
+        "hon_price_max": "96",
+        "類型:": "尿液試紙"
+    },
+    {
+        "names": "3M Tegaderm +Pad防水透明薄膜膠布連棉墊 (每盒25片) 3591",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Dupont Tyvek 400 Protective Coverall with Hood 保護衣 TBM 001",
+        "rating": "9.8",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Accion SuperBack 智能駝背矯正帶",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Forca 全貼合人體工學保健坐墊",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 隱藏尿管斜挎包尿袋引流袋 - 方形引流袋1000毫升用 NDH",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "318",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "PASESA 便攜式心血管硬化檢測儀 (醫療版) AVE-2000 PRO",
+        "rating": "",
+        "hon_price_min": "35,000",
+        "hon_price_max": "36,000",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Backjoy Posture Core 美姿救星",
+        "rating": "",
+        "water_price_min": "338",
+        "water_price_max": "338",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "RIYIN 4 Channel in-ear Hearing Aid 隱形入耳式助聽器 (中度至嚴重弱聽) T23",
+        "rating": "10",
+        "hon_price_min": "888",
+        "hon_price_max": "888",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Dreamlight Dreamlight Ease",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "155",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Healthtree 真無線充電式降噪助聽耳機 JKS60A",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "MG Living 指尖脈搏血氧儀 AD901",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "198",
+        "water_price_min": "108",
+        "water_price_max": "108"
+    },
+    {
+        "names": "Yonker OFit2 家用指夾式脈搏血氧儀",
+        "rating": "10",
+        "hon_price_min": "138",
+        "hon_price_max": "199"
+    },
+    {
+        "names": "acc+ test 新型冠狀病毒抗原測試劑 (一盒)",
+        "rating": "10",
+        "hon_price_min": "10",
+        "hon_price_max": "18"
+    },
+    {
+        "names": "Needs Labo 人體工學矽膠矯姿坐墊",
+        "rating": "10",
+        "hon_price_min": "88",
+        "hon_price_max": "228",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Xiaomi 小米 阿多立 USB充電 熱敷眼罩",
+        "rating": "",
+        "water_price_min": "160",
+        "water_price_max": "180",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 透氣手腕固定保護指套/護腕 (HA-DO)",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 鏡像控制手套 (G05)",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Arista 即驗即知「新冠病毒」測試棒 (20支裝)",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,000",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Ziglite 節亮 三片式背帶型膝關節固定支具/腿部康復護膝 L (TD-UQ)",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Moloven 成人紙尿片/紙尿褲 (大碼, 男女通用) 10片",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "銀適 四段摺合式拐杖",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "GP Getein Biotech 新冠病毒抗原快速測試劑 (25份裝)",
+        "rating": "",
+        "hon_price_min": "63",
+        "hon_price_max": "63",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Ziglite 節亮 翻身輔助護理帶 (DU-NAC)",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Real Life 樂來福 四腳T字兩用拐杖 (四腳T字型｜可伸縮｜鋁合金) S17",
+        "rating": "",
+        "water_price_min": "589",
+        "water_price_max": "589",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "小林製藥 小林退熱貼 小童貼",
+        "rating": "",
+        "hon_price_min": "30",
+        "hon_price_max": "30",
+        "water_price_min": "30",
+        "water_price_max": "30",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "La Roche-Posay Cicaplast Baume B5 萬用修復霜 B5 100ml",
+        "rating": "",
+        "water_price_min": "155",
+        "water_price_max": "155",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Yuwell 魚躍 鼻腔清洗器 JQ-S06U",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 可調式頸椎強化支撐護具 (M size, HA-DN)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Dr.Pro 止鼻鼾貼 (36片裝) (NEE31)",
+        "rating": "10",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "TC 超輕高清防護面罩",
+        "rating": "10",
+        "hon_price_min": "15",
+        "hon_price_max": "15",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "GTC 高透光防護面罩",
+        "rating": "10",
+        "hon_price_min": "15",
+        "hon_price_max": "15",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Ziglite 節亮 鋁合⾦輕便多功能帶燈折疊⼿杖 (LR-SN)",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Hopewell 耳內式助聽器 (+110dB) HAP-80",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "480",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Welltiss 惠磁·健 PEMF 脈衝電磁場修復儀",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (主機+多關機訓練手套+鏡像手套 基礎-繁體版) 左手S號 SAA-2003",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "3,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Philips 飛利浦 DreamStation 2 睡眠呼吸機",
+        "rating": "",
+        "hon_price_min": "10,810",
+        "hon_price_max": "10,810",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 腿部四腔空氣波按壓理療儀 (JCT)",
+        "rating": "",
+        "hon_price_min": "644",
+        "hon_price_max": "644",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Gemibee 2合1速熱遠紅外線發熱帶",
+        "rating": "",
+        "hon_price_min": "759",
+        "hon_price_max": "759",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "STOREMIX 便攜式家用氧氣機, 呼吸機",
+        "rating": "",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 磁療自發熱護腰帶 (JCY)",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "3M Nexcare - 公主防水膠布(PR-20)",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "50",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "SENTEQ 凝膠足弓護墊 SQ2-N008",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Smart Nora The Non-Invasive Snoring Solution 止鼻鼾器",
+        "rating": "",
+        "water_price_min": "1,250",
+        "water_price_max": "1,250",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Xiaomi 小米 HiPee CES 睡眠治療儀",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "water_price_min": "1,280",
+        "water_price_max": "1,380",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Poy Sian 八仙薄荷香筒鼻通",
+        "rating": "",
+        "water_price_min": "12",
+        "water_price_max": "12",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Fisher & Paykel Simplus 口鼻罩",
+        "rating": "",
+        "water_price_min": "1,000",
+        "water_price_max": "1,280",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "3M Steri-Strip Reinforced Adhesive Skin Closures (3 x 75mm) R1540",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Hayashi Knit 輕巧矯姿帶",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 輪椅/家用安全帶 可調約束帶安全護具 (NBC)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Beurer AS95 脈搏活動感應器",
+        "rating": "",
+        "hon_price_min": "545",
+        "hon_price_max": "545",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 膚色透氣手指護具 (TD-SU)",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 腿部抬⾼下肢墊 (DU-PY)",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Misfit Beddit Sleep System 睡眠監測",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "monkeyking 兒童嬰兒防飛沫面罩防疫帽",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "water_price_min": "68",
+        "water_price_max": "69",
+        "類型:": "預防用品"
+    },
+    {
+        "names": "Jumper 數字脈搏血氧儀 Jpd-500E",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "360"
+    },
+    {
+        "names": "Microlife Fingertip Pulse Oximeter OXY300",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "700",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Thermocare 腰背濕熱電墊 THCA-00001",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "880",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (進階-繁體英文版配多關節手套)(六鍵電容屏) 右手L號 SHC6003",
+        "rating": "",
+        "hon_price_min": "5,966",
+        "hon_price_max": "5,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 兒童四合一頸椎固定支具 (TD-KP)",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Philips 飛利浦 PICO 鼻罩",
+        "rating": "",
+        "water_price_min": "600",
+        "water_price_max": "800",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Medicom 1137A 醫療手套 無粉丁腈手套-藍色",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "Ziglite 節亮 鋁合金四腳拐杖-助行器 (LR-SS)",
+        "rating": "",
+        "hon_price_min": "158",
+        "hon_price_max": "158",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Micro Sun O型X型腿腿部矯正帶",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "NEO-MEDI Support Plus 肌內貼護肘",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 凹形多用海綿踝骨墊 (DU-QA)",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 雙手指矯正固定夾板 (TD-ID)",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮-手指伸展複康治療儀 (主機+多關機訓練手套+鏡像手套 基礎-英文版) 右手XXL號 SAB10003",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "3,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 手指鏡像復康治療器-基礎版 (左S) SAA1",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 兒童前臂骨折吊帶 S (TD-KH1)",
+        "rating": "",
+        "hon_price_min": "94",
+        "hon_price_max": "94",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 可調節肩外展固定枕-右 JEQ",
+        "rating": "",
+        "hon_price_min": "468",
+        "hon_price_max": "468",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "CyberTech Portable Protection Adualt Child Face Shield  (分離便攜式) 成人兒童高清面罩",
+        "rating": "10",
+        "hon_price_min": "15",
+        "hon_price_max": "15",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "MiKi 舒適高身手推輪椅 (22吋實心大輪｜可折背｜厚坐墊) MCS-47KJL",
+        "rating": "",
+        "water_price_min": "4,180",
+        "water_price_max": "4,180",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Wellue 藍牙手指式脈搏血氧儀 FS20F",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399"
+    },
+    {
+        "names": "Yuwell 魚躍 呼吸機鼻罩 YN-02",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "water_price_min": "358",
+        "water_price_max": "358",
+        "類型:": "呼吸機鼻罩",
+        "備註:": "ResMed, Philips等各大品牌呼吸機適用"
+    },
+    {
+        "names": "St.ECOGO 100% Nitrile Gloves 丁腈橡膠手套 - 細碼 (1盒100隻)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "預防及傷口用品"
+    },
+    {
+        "names": "SoftTouch 嬰兒純棉擦巾 (每盒80枚 - 孖裝)",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "62",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Pigeon 初生嬰兒粘著綿棒(50支)",
+        "rating": "",
+        "hon_price_min": "27",
+        "hon_price_max": "27",
+        "water_price_min": "25",
+        "water_price_max": "33",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Ziglite 節亮 多功能伸展握力球-10磅/20磅 JEO2",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Tenson 嬰兒清潔棉柔巾 100片裝 (10x10cm)",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "25",
+        "類型:": "個人護理"
+    },
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 人體工學蝶型護脊椎腰墊",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "759",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Reli 210 紅光理療手電筒",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "EN 1000ml 便携純氧氣瓶 (99.6%純度)",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (主機+多關機訓練手套+鏡像手套 基礎-英文版) SAB",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "3,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Creative Medical 手指式脈搏血氧儀 PC-60B1",
+        "rating": "",
+        "water_price_min": "298",
+        "water_price_max": "298"
+    },
+    {
+        "names": "Ziglite 節亮 手指伸展復康治療儀 (主機+多關機訓練手套+鏡像手套 基礎-繁體版) 右手S號 SAA-22003",
+        "rating": "",
+        "hon_price_min": "3,966",
+        "hon_price_max": "3,966",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Philips 飛利浦 Respironics DreamStation Auto CPAP 飛利浦偉康自動睡眠呼吸機",
+        "rating": "10",
+        "water_price_min": "7,120",
+        "water_price_max": "7,120",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Hayashi Knit 護頸托",
+        "rating": "",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "類型:": "復康用品"
+    },
+    {
+        "names": "Ziglite 節亮 帶警報LED燈折疊拐杖 (LR-IU)",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "類型:": "輪椅及助行用品"
+    },
+    {
+        "names": "Yuwell 魚躍 氧氣機 300",
+        "rating": "",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380",
+        "類型:": "醫療儀器"
+    },
+    {
+        "names": "All Test 15分鐘新冠狀病毒COVID-19快速測試棒 (1 Test)",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85",
+        "類型:": "快速測試"
+    },
+    {
+        "names": "Micro Sun 輪椅頭枕",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "LON10 集寶 嬰兒護理喂藥套裝 VBD",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "119",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "ResMed Airfit F20 口鼻罩",
+        "rating": "",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "類型:": "其他生活輔助用品"
+    },
+    {
+        "names": "Ziglite 節亮 NBP 成人款小腿中環創傷保護洗澡沐浴防水套",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類型:": "個人護理"
+    }
+]

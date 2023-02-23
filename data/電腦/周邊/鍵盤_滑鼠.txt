@@ -1,0 +1,3803 @@
+[
+    {
+        "names": "Logitech Master Series MX Mechanical Mini 無線發光迷你鍵盤",
+        "rating": "10",
+        "hon_price_min": "1,130",
+        "hon_price_max": "1,499",
+        "water_price_min": "980",
+        "water_price_max": "1,120",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech Signature M650 Wireless Mouse 無線靜音滑鼠",
+        "rating": "9.9",
+        "hon_price_min": "265",
+        "hon_price_max": "355",
+        "water_price_min": "249",
+        "water_price_max": "330",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech MX Master 3s 高性能無線滑鼠",
+        "rating": "8.3",
+        "hon_price_min": "719",
+        "hon_price_max": "899",
+        "water_price_min": "580",
+        "water_price_max": "690",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech MX KEYS Mini 智能無線鍵盤",
+        "rating": "9.7",
+        "hon_price_min": "580",
+        "hon_price_max": "899",
+        "water_price_min": "524",
+        "water_price_max": "590",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech MX Master 3 無線滑鼠",
+        "rating": "9.4",
+        "hon_price_min": "619",
+        "hon_price_max": "899",
+        "water_price_min": "480",
+        "water_price_max": "788",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech MX Vertical 垂直滑鼠",
+        "rating": "9.6",
+        "hon_price_min": "688",
+        "hon_price_max": "899",
+        "water_price_min": "549",
+        "water_price_max": "799",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech K380 跨平台藍牙鍵盤",
+        "rating": "8.7",
+        "hon_price_min": "175",
+        "hon_price_max": "299",
+        "water_price_min": "155",
+        "water_price_max": "398",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech LIFT Vertical Ergonomic Mouse 藍牙無線人體工學垂直滑鼠",
+        "rating": "9.9",
+        "hon_price_min": "549",
+        "hon_price_max": "699",
+        "water_price_min": "450",
+        "water_price_max": "510",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Logitech Silent Plus M331 靜音滑鼠",
+        "rating": "9.7",
+        "hon_price_min": "128",
+        "hon_price_max": "259",
+        "water_price_min": "128",
+        "water_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Pebble M350 無線靜音滑鼠",
+        "rating": "9.2",
+        "hon_price_min": "150",
+        "hon_price_max": "199",
+        "water_price_min": "119",
+        "water_price_max": "199",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "MOFT Keyboard 藍芽摺疊鍵盤",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "568",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech 靜音無線鍵盤滑鼠組合 MK295",
+        "rating": "9.5",
+        "hon_price_min": "188",
+        "hon_price_max": "299",
+        "water_price_min": "195",
+        "water_price_max": "269",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Signature K650 無線舒適鍵盤",
+        "rating": "",
+        "hon_price_min": "316",
+        "hon_price_max": "389",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "Logi Bolt USB 接收器或藍牙低耗電技術"
+    },
+    {
+        "names": "Logitech Lift For Mac 藍牙無線人體工學垂直滑鼠",
+        "rating": "10",
+        "hon_price_min": "520",
+        "hon_price_max": "699",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Logitech MX Master 3 for Mac 高階無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "999",
+        "water_price_min": "638",
+        "water_price_max": "788",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech MK235 無線鍵盤滑鼠組合",
+        "rating": "5.3",
+        "hon_price_min": "125",
+        "hon_price_max": "269",
+        "water_price_min": "119",
+        "water_price_max": "143",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Master Series MX Mechanical 無線發光鍵盤",
+        "rating": "9.8",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,499",
+        "water_price_min": "980",
+        "water_price_max": "1,180",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech MX ERGO 無線軌跡球滑鼠",
+        "rating": "10",
+        "hon_price_min": "639",
+        "hon_price_max": "849",
+        "water_price_min": "499",
+        "water_price_max": "740",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "Unifying 接收器, Micro-USB 充電連接線"
+    },
+    {
+        "names": "Logitech MX KEYS 智能鍵盤",
+        "rating": "9.9",
+        "hon_price_min": "599",
+        "hon_price_max": "999",
+        "water_price_min": "515",
+        "water_price_max": "590",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech MX Master 3s for Mac 高階無線靜音滑鼠",
+        "rating": "",
+        "hon_price_min": "719",
+        "hon_price_max": "899",
+        "water_price_min": "638",
+        "water_price_max": "638",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Logitech MX KEYS Mini For Mac 智能無線鍵盤",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "899",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech 多工無線靜音滑鼠 M590",
+        "rating": "8.9",
+        "hon_price_min": "225",
+        "hon_price_max": "299",
+        "water_price_min": "165",
+        "water_price_max": "219",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Xpower KB3 超薄無線藍牙鍵盤",
+        "rating": "6.0",
+        "hon_price_min": "128",
+        "hon_price_max": "159",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙, Micro USB充電"
+    },
+    {
+        "names": "Logitech MX Keys for MAC 高階無線鍵盤",
+        "rating": "9.5",
+        "hon_price_min": "559",
+        "hon_price_max": "999",
+        "water_price_min": "649",
+        "water_price_max": "649",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech 舒適無線鍵盤滑鼠組合 MK345",
+        "rating": "8.5",
+        "hon_price_min": "185",
+        "hon_price_max": "299",
+        "water_price_min": "163",
+        "water_price_max": "228",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Tourbox Elite-Smoke Black Translucent 修圖專業鍵盤透明版",
+        "rating": "",
+        "hon_price_min": "2,398",
+        "hon_price_max": "2,398",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech MX Anywhere 3 無線滑鼠 (Mac版本) #910-005995",
+        "rating": "10",
+        "hon_price_min": "574",
+        "hon_price_max": "799",
+        "water_price_min": "578",
+        "water_price_max": "650",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech POP Keys Wireless Mechanical 無線藍牙機械鍵盤",
+        "rating": "7.3",
+        "hon_price_min": "499",
+        "hon_price_max": "699",
+        "water_price_min": "455",
+        "water_price_max": "568",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech K375S 無線鍵盤",
+        "rating": "9.1",
+        "hon_price_min": "168",
+        "hon_price_max": "269",
+        "water_price_min": "155",
+        "water_price_max": "290",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Bluetooth Mouse",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "200",
+        "water_price_min": "85",
+        "water_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech MX Anywhere 3 無線滑鼠 (Mac版本) #910-005995",
+        "rating": "10",
+        "hon_price_min": "574",
+        "hon_price_max": "799",
+        "water_price_min": "578",
+        "water_price_max": "650",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech POP Keys Wireless Mechanical 無線藍牙機械鍵盤",
+        "rating": "7.3",
+        "hon_price_min": "499",
+        "hon_price_max": "699",
+        "water_price_min": "455",
+        "water_price_max": "568",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech Silent Plus M331 靜音滑鼠",
+        "rating": "9.7",
+        "hon_price_min": "128",
+        "hon_price_max": "259",
+        "water_price_min": "128",
+        "water_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech K375S 無線鍵盤",
+        "rating": "9.1",
+        "hon_price_min": "168",
+        "hon_price_max": "269",
+        "water_price_min": "155",
+        "water_price_max": "290",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech MX Mechanical Mini For Mac 無線機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,399",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Microsoft Bluetooth Desktop Mouse & Keyboard Combo QHG-00018 / QHG-00048",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "415",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech Signature K855 無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "699",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech M100r 有線滑鼠",
+        "rating": "6.0",
+        "hon_price_min": "49",
+        "hon_price_max": "98",
+        "water_price_min": "54",
+        "water_price_max": "54",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech POP Mouse 無線藍牙滑鼠 (910-0065)",
+        "rating": "9.2",
+        "hon_price_min": "220",
+        "hon_price_max": "299",
+        "water_price_min": "180",
+        "water_price_max": "239",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Apple Magic Keyboard for iPad Pro 11-inch (2nd Generation) - US English",
+        "rating": "10",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,299",
+        "water_price_min": "1,948",
+        "water_price_max": "2,050",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Logitech MK220 無線鍵盤滑鼠組合",
+        "rating": "8.3",
+        "hon_price_min": "110",
+        "hon_price_max": "229",
+        "water_price_min": "107",
+        "water_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Spotlight 無線簡報遙控器",
+        "rating": "10",
+        "hon_price_min": "653",
+        "hon_price_max": "799",
+        "water_price_min": "618",
+        "water_price_max": "648",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB / Bluetooth"
+    },
+    {
+        "names": "Microsoft Sculpt Ergonomic DeskTop Keyboard & Mouse",
+        "rating": "10",
+        "hon_price_min": "638",
+        "hon_price_max": "750",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech K380 for Mac 跨平台藍牙無線鍵盤 (英文版)",
+        "rating": "10",
+        "hon_price_min": "175",
+        "hon_price_max": "259",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Anker 2.4G Wireless Vertical Ergonomic Optical Mouse",
+        "rating": "9.6",
+        "hon_price_min": "140",
+        "hon_price_max": "189",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Silent Plus M331 靜音滑鼠",
+        "rating": "9.7",
+        "hon_price_min": "128",
+        "hon_price_max": "259",
+        "water_price_min": "128",
+        "water_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech MX Master 3 for Mac 高階無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "999",
+        "water_price_min": "638",
+        "water_price_max": "788",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Designer Compact Keyboard (Bluetooth)",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "505",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Tourbox Elite 修圖專業鍵盤",
+        "rating": "",
+        "hon_price_min": "2,080",
+        "hon_price_max": "2,098",
+        "water_price_min": "2,098",
+        "water_price_max": "2,098",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech MX KEYS 智能鍵盤",
+        "rating": "9.9",
+        "hon_price_min": "599",
+        "hon_price_max": "999",
+        "water_price_min": "515",
+        "water_price_max": "590",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech MK235 無線鍵盤滑鼠組合",
+        "rating": "5.3",
+        "hon_price_min": "125",
+        "hon_price_max": "269",
+        "water_price_min": "119",
+        "water_price_max": "143",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech MX Master 3 + MX KEYS 高階無線鍵鼠套裝",
+        "rating": "9.5",
+        "hon_price_min": "1,248",
+        "hon_price_max": "1,550",
+        "water_price_min": "1,040",
+        "water_price_max": "1,299",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Logitech 標準有線USB鍵盤 K120",
+        "rating": "10",
+        "hon_price_min": "65",
+        "hon_price_max": "90",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Azio IZO系列藍牙無線機械鍵盤 - 主鍵區",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Surface Arc Mouse",
+        "rating": "8.4",
+        "hon_price_min": "390",
+        "hon_price_max": "435",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Lofree DOT Mechanical Keyboard 無線機械式鍵盤 - Milk Tea",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Microsoft Wireless Desktop 900 無線鍵盤滑鼠組合",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech ERGO K860 + MX Vertical 人體工學鍵鼠套裝",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,848",
+        "water_price_min": "1,299",
+        "water_price_max": "1,485",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech 多工無線靜音滑鼠 M590",
+        "rating": "8.9",
+        "hon_price_min": "225",
+        "hon_price_max": "299",
+        "water_price_min": "165",
+        "water_price_max": "219",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech M585 Multi-Device Multi-Tasking Mouse",
+        "rating": "10",
+        "hon_price_min": "165",
+        "hon_price_max": "249",
+        "water_price_min": "143",
+        "water_price_max": "235",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech K380 for Mac 跨平台藍牙無線鍵盤 (英文版)",
+        "rating": "10",
+        "hon_price_min": "175",
+        "hon_price_max": "259",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech Slim 無線鍵盤與滑鼠組合 MK470",
+        "rating": "9.4",
+        "hon_price_min": "260",
+        "hon_price_max": "399",
+        "water_price_min": "239",
+        "water_price_max": "260",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech M221 Silent 無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "80",
+        "hon_price_max": "179",
+        "water_price_min": "83",
+        "water_price_max": "120",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech M185 無線滑鼠",
+        "rating": "9.1",
+        "hon_price_min": "72",
+        "hon_price_max": "179",
+        "water_price_min": "78",
+        "water_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "NuPhy Air60 Low Profile Wireless Mechanical Keyboard 短軸無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB-C, Bluetooth 藍牙 5.0 及 2.4GHz USB 接收器"
+    },
+    {
+        "names": "Logitech MK120 滑鼠鍵盤組",
+        "rating": "7.0",
+        "hon_price_min": "93",
+        "hon_price_max": "188",
+        "water_price_min": "85",
+        "water_price_max": "115",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "有線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech MX Anywhere 2S 無線滑鼠",
+        "rating": "7.7",
+        "hon_price_min": "368",
+        "hon_price_max": "625",
+        "water_price_min": "305",
+        "water_price_max": "450",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Comfort Plus 無線滑鼠 M280",
+        "rating": "8.0",
+        "hon_price_min": "99",
+        "hon_price_max": "199",
+        "water_price_min": "79",
+        "water_price_max": "130",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Wireless Combo MK270R 無線鍵盤滑鼠組合",
+        "rating": "9.3",
+        "hon_price_min": "127",
+        "hon_price_max": "269",
+        "water_price_min": "118",
+        "water_price_max": "180",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Tourbox NEO 2021 創作者軟件控制器 KB-TBOXV2",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,299"
+    },
+    {
+        "names": "Mofii Sweet LipStick Edition 中文倉頡碼無線鍵盤滑鼠套裝",
+        "rating": "",
+        "hon_price_min": "197",
+        "hon_price_max": "248",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Capdase Keyboard for Tablet and Smart Phone",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "278",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Logitech K400 Plus 無線鍵盤",
+        "rating": "8.3",
+        "hon_price_min": "185",
+        "hon_price_max": "399",
+        "water_price_min": "169",
+        "water_price_max": "398",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Marathon Mouse M705",
+        "rating": "8.2",
+        "hon_price_min": "328",
+        "hon_price_max": "409",
+        "water_price_min": "239",
+        "water_price_max": "309",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech MK220 無線鍵盤滑鼠組合",
+        "rating": "8.3",
+        "hon_price_min": "110",
+        "hon_price_max": "229",
+        "water_price_min": "107",
+        "water_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Capdase Keyboard for Tablet and Smart Phone",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "278",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Microsoft Surface Arc Mouse",
+        "rating": "8.4",
+        "hon_price_min": "390",
+        "hon_price_max": "435",
+        "water_price_min": "450",
+        "water_price_max": "450",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Classic Intellimouse 經典閃靈鯊有線滑鼠",
+        "rating": "2.0",
+        "hon_price_min": "257",
+        "hon_price_max": "309",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "藍光",
+        "連接埠:": "USB 2.0"
+    },
+    {
+        "names": "Microsoft Wireless Desktop 850 Keyboard and Mouse",
+        "rating": "9.6",
+        "hon_price_min": "120",
+        "hon_price_max": "329",
+        "組合/鍵盤/滑鼠/簡報器:": "組合"
+    },
+    {
+        "names": "Logitech R500 Laser Presentation Remote",
+        "rating": "",
+        "hon_price_min": "337",
+        "hon_price_max": "399",
+        "water_price_min": "280",
+        "water_price_max": "380",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "POLAR 2.4GHz USB Charging Wireless Mouse 靜音無聲充電式滑鼠 POM-622",
+        "rating": "8.0",
+        "hon_price_min": "78",
+        "hon_price_max": "80",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "NuPhy Halo65 Mechanical Keyboard 短軸無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB-C, Bluetooth 5.0 及 2.4GHz USB 接收器"
+    },
+    {
+        "names": "Logitech K400 Plus 無線鍵盤",
+        "rating": "8.3",
+        "hon_price_min": "185",
+        "hon_price_max": "399",
+        "water_price_min": "169",
+        "water_price_max": "398",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Future Lab 脈衝滑鼠筆 G2",
+        "rating": "8.4",
+        "hon_price_min": "378",
+        "hon_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech M585 Multi-Device Multi-Tasking Mouse",
+        "rating": "10",
+        "hon_price_min": "165",
+        "hon_price_max": "249",
+        "water_price_min": "143",
+        "water_price_max": "235",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "XPower 人體工學靜音無線滑鼠 WM4",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "169",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Comfort Plus 無線滑鼠 M280",
+        "rating": "8.0",
+        "hon_price_min": "99",
+        "hon_price_max": "199",
+        "water_price_min": "79",
+        "water_price_max": "130",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech K480 無線鍵盤",
+        "rating": "7.6",
+        "hon_price_min": "203",
+        "hon_price_max": "399",
+        "water_price_min": "150",
+        "water_price_max": "468",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Philips 飛利浦 C314 無線鍵盤滑鼠組合 SPT6314",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "180",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "iClever LED背光超薄靜音藍牙鍵盤 IC-BK04",
+        "rating": "",
+        "hon_price_min": "173",
+        "hon_price_max": "190",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech Pebble M350 纖薄靜音無線滑鼠 (小王子-狐狸玫瑰-White) 107-94-00125-1",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "250",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Lofree TOUCH Triple Mode Mechanical Keyboard 68鍵無線鍵盤 - Gray (Gateron G PRO Yellow)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙 / 2.4G 無線接收器 / Type C"
+    },
+    {
+        "names": "Logitech 全尺寸無線鍵鼠套裝 MK275",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "179",
+        "water_price_min": "119",
+        "water_price_max": "179",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Xpower 2.4GHz無線光學滑鼠 M109",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "98",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Lofree TOUCH Triple Mode Mechanical Keyboard 68鍵無線鍵盤 - Tofu (Gateron G PRO Red)",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "649",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙 / 2.4G 無線接收器 / Type C"
+    },
+    {
+        "names": "Logitech 標準有線USB鍵盤 K120",
+        "rating": "10",
+        "hon_price_min": "65",
+        "hon_price_max": "90",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Surface Arc Mouse (2017)",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "460",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Xiaomi 小米 無線雙模滑鼠靜音版 WXSMSBMW02",
+        "rating": "10",
+        "hon_price_min": "78",
+        "hon_price_max": "119",
+        "water_price_min": "78",
+        "water_price_max": "80",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Microsoft Bluetooth Desktop Mouse & Keyboard Combo (QHG-00017)",
+        "rating": "2.0",
+        "hon_price_min": "350",
+        "hon_price_max": "415",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "NuPhy Air75 Wireless Low Profile Mechanical Keyboard 短軸無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "NuPhy NuFolio V2 便攜式平板智能電話底座 連鍵盤保護套 for Air60/Air75 Wireless Mechanical Keyboard",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤保護套"
+    },
+    {
+        "names": "Verbatim Wireless Keyboard & Mouse Combo",
+        "rating": "3.3",
+        "hon_price_min": "98",
+        "hon_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Targus KM610 無線鍵盤滑鼠組合 AKM610TC",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤+滑鼠",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Pebble M350 纖薄靜音無線滑鼠  (小王子-經典呈現-Black) 107-94-00123-1",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "250",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Verbatim Wireless Keyboard & Mouse Combo (66519)",
+        "rating": "10",
+        "hon_price_min": "98",
+        "hon_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Mx Master 3 + MX KEYS Mini 高階無線鍵鼠套裝",
+        "rating": "",
+        "hon_price_min": "1,248",
+        "hon_price_max": "1,550",
+        "water_price_min": "1,030",
+        "water_price_max": "1,099",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "USB,藍牙"
+    },
+    {
+        "names": "Mofii Luse 背光充電藍牙機械鍵盤 - 復古紅(禮盒包裝) 780-4017",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "498",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Razer Huntsman Mini 全彩光機械式鍵盤 (黑色 Linear 線性光軸)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "950",
+        "water_price_min": "720",
+        "water_price_max": "868",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "有線"
+    },
+    {
+        "names": "Microsoft All-in-One Media Keyboard",
+        "rating": "10",
+        "hon_price_min": "228",
+        "hon_price_max": "253",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Rapoo 雷柏 9300M 無線藍牙鍵鼠套裝",
+        "rating": "4.7",
+        "hon_price_min": "255",
+        "hon_price_max": "298",
+        "water_price_min": "269",
+        "water_price_max": "270",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Elecom EX-G 靜音藍牙滑鼠 (M) M-XGM15BBS",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "338",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Verbatim Silent Wireless Mouse 靜音無線滑鼠 (66752)",
+        "rating": "10",
+        "hon_price_min": "68",
+        "hon_price_max": "78",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elecom \"Deft Pro\" 軌跡球滑鼠 (食指操作型) M-DPT1MRBK",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "648",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Microsoft 1850 Wireless Notebook Mobile Mouse",
+        "rating": "10",
+        "hon_price_min": "77",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "usb"
+    },
+    {
+        "names": "Tourbox NEO 2021 創作者軟件控制器 KB-TBOXV2",
+        "rating": "",
+        "hon_price_min": "1,290",
+        "hon_price_max": "1,299"
+    },
+    {
+        "names": "Rapoo 雷柏 無線激光演示器翻頁筆 XR200",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "188",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Microsoft Designer Bluetooth Compact Keyboard (21Y-00018)",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "549",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Targus AMP13AP",
+        "rating": "",
+        "hon_price_min": "173",
+        "hon_price_max": "238",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Rapoo 雷柏 Multi-mode Wireless Keyboard & Mouse 8050T",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "229",
+        "water_price_min": "175",
+        "water_price_max": "175",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Maxell 2.4 Wireless Keyboard + Mouse Set 無線鍵盤滑鼠套裝 (MXKB-WL10+MXMU-WL10)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "148",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "iClever High Precision Optical Wireless Vertical Mouse TM209G",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "239",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech M185 無線滑鼠",
+        "rating": "9.1",
+        "hon_price_min": "72",
+        "hon_price_max": "179",
+        "water_price_min": "78",
+        "water_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Keys-To-Go Ultra-portable Keyboard for iPad",
+        "rating": "8.0",
+        "hon_price_min": "489",
+        "hon_price_max": "599",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Huion Mini Keydial KD100 二合一單手鍵盤+數位板",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech M221 Silent 無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "80",
+        "hon_price_max": "179",
+        "water_price_min": "83",
+        "water_price_max": "120",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech K270 無線鍵盤",
+        "rating": "9.4",
+        "hon_price_min": "128",
+        "hon_price_max": "165",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "ABKO 復古圓鍵靜音無線鍵盤及滑鼠套裝 WKM810",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "iClever 超薄靜音USB-C + 2.4G雙頭無線全尺寸鍵盤 GK20",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "310",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙+ 2.4G無線"
+    },
+    {
+        "names": "ApaxQ 2.4G 無線非同步數字鍵盤 KPW08",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "138",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Maxell 2.4G Wireless Mouse 無線光學滑鼠",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech M337 無線藍牙滑鼠",
+        "rating": "9.7",
+        "hon_price_min": "236",
+        "hon_price_max": "259",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Apple Magic Mouse 2",
+        "rating": "9.0",
+        "hon_price_min": "550",
+        "hon_price_max": "680",
+        "water_price_min": "450",
+        "water_price_max": "669",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Lofree 1% Transparent Mechanical Keyboard 半透明無線機械式鍵盤",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,199",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙 / Type C"
+    },
+    {
+        "names": "Logitech POP Keys & POP Mouse Combo Set (with Desk Mat) 鍵鼠組合套裝",
+        "rating": "",
+        "hon_price_min": "839",
+        "hon_price_max": "999",
+        "water_price_min": "620",
+        "water_price_max": "645",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Miffy 無線全鍵盤+滑鼠+鍵盤滑鼠墊 3合1套裝 MIF13",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "398",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵鼠墊組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Universal Foldable Keyboard",
+        "rating": "10",
+        "hon_price_min": "355",
+        "hon_price_max": "780",
+        "water_price_min": "299",
+        "water_price_max": "438",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Targus Wireless Optical Mouse AMW600AP",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "89",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 Wireless Laser Presenter 無線簡報器演示筆 SPT9404",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "170",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Logitech Pebble M350 (Line Friend) 無線滑鼠",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "199",
+        "water_price_min": "170",
+        "water_price_max": "170",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB + 藍牙"
+    },
+    {
+        "names": "Rapoo 雷柏 藍牙多模式鍵盤滑鼠套裝 9000G",
+        "rating": "10",
+        "hon_price_min": "228",
+        "hon_price_max": "249",
+        "water_price_min": "178",
+        "water_price_max": "189",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "POLAR Silent Wireless Combo Set 無線鍵盤滑鼠組合 (PKM-203)",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "139",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "iClever 藍牙通用超薄鍵盤 IC-BK10",
+        "rating": "",
+        "hon_price_min": "184",
+        "hon_price_max": "199",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Rapoo 雷柏 BT Multi-Device Laser Mouse 藍牙多模式無線激光滑鼠 MT750S",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "339",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Sculpt Comfort Desktop 無線鍵盤滑鼠組合",
+        "rating": "9.6",
+        "hon_price_min": "389",
+        "hon_price_max": "519",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Promate Slider Optical Tracking Wireless Ergonomic Mouse",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "AVITA 無線鍵盤滑鼠套裝 KMA-200",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Azio IZO系列藍牙機械鍵盤 - 數字鍵盤/計算器",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "POLAR Silent Wireless Combo Set 無線鍵盤滑鼠組合 (PKM-202)",
+        "rating": "",
+        "hon_price_min": "100",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech 小王子聯名 K380+M350 (Eng Ver.) 滑鼠鍵盤組合",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "699",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Microsoft Wireless Mobile Mouse 3500",
+        "rating": "10",
+        "hon_price_min": "118",
+        "hon_price_max": "209",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "藍光",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Usatisfy AI Mouse 語音翻譯滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "120",
+        "hon_price_max": "199",
+        "water_price_min": "130",
+        "water_price_max": "130",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "3Dconnexion SpaceMouse Compact (3DX-700059)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,350",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "Logitech MX Master 無線滑鼠",
+        "rating": "9.3",
+        "hon_price_min": "399",
+        "hon_price_max": "460",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Philips 飛利浦 2.4G+Bluetooth 無線投影演示器 SPT9604",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "185",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Logitech K380 + MX Anywhere 3 無線鍵盤滑鼠套裝",
+        "rating": "10",
+        "hon_price_min": "788",
+        "hon_price_max": "999",
+        "water_price_min": "630",
+        "water_price_max": "739",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Microsoft Ergonomic Desktop 人體工學桌面鼠鍵套裝 - 中文版 (RJU-00017)",
+        "rating": "",
+        "hon_price_min": "695",
+        "hon_price_max": "699",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Samsung 三星 Bluetooth Mouse Slim 藍牙滑鼠 (EJ-M3400)",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "water_price_min": "150",
+        "water_price_max": "150",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Rapoo 雷柏 8000M 多模式 無線藍牙鍵盤滑鼠套裝",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "169",
+        "water_price_min": "128",
+        "water_price_max": "159",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech ERGO K860 + MX ERGO 人體工學鍵鼠套裝",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,748",
+        "water_price_min": "1,270",
+        "water_price_max": "1,443",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Targus Bluetooth Mouse AMB580",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "170",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Verbatim USB Optical Wireless Mouse 光纖無線滑鼠 66432",
+        "rating": "10",
+        "hon_price_min": "44",
+        "hon_price_max": "78",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Advanced 鍵盤及滑鼠組合 MK540",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "water_price_min": "239",
+        "water_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech K360r 無線鍵盤",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "229",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB Unifying"
+    },
+    {
+        "names": "Kensington Pro Fit Ergo 無線垂直軌跡球滑鼠 K75370",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "680",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Multipro TT-A01 KB K-1000 Mini Keyboard",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "有線"
+    },
+    {
+        "names": "Mofii Sweet Colorful Series 無線鍵盤滑鼠套裝",
+        "rating": "6.0",
+        "hon_price_min": "198",
+        "hon_price_max": "228",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Elephant 藍牙及無線雙頻全靜音滑鼠 M525",
+        "rating": "2.0",
+        "hon_price_min": "95",
+        "hon_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Microsoft Wireless Mobile Mouse 無線行動滑鼠 1850",
+        "rating": "7.3",
+        "hon_price_min": "77",
+        "hon_price_max": "139",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Kensington Expert Mouse Wired Optical Trackball (K64325WW)",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "958",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "POUT Hands 5 Combo 3合1 快充無線充電鍵盤 + 無線充電滑鼠",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Mofii Candy M 有線白色背光機械鍵盤",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "448",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Xiaomi 小米 無線鼠標 Lite",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "water_price_min": "58",
+        "water_price_max": "78",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech K580 + Pebble M350 藍牙鍵盤滑鼠套裝",
+        "rating": "9.0",
+        "hon_price_min": "419",
+        "hon_price_max": "449",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Microsoft Ergonomic Desktop 人體工學桌面鼠鍵套裝 (RJU-00015)",
+        "rating": "",
+        "hon_price_min": "645",
+        "hon_price_max": "699",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "SmarterWare Trackballl Mouse 藍牙BT +2.4G 無線充電式滑鼠",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB, 藍牙, 2.4GHz"
+    },
+    {
+        "names": "Logitech R800 專業簡報器",
+        "rating": "8.0",
+        "hon_price_min": "390",
+        "hon_price_max": "699",
+        "water_price_min": "375",
+        "water_price_max": "460",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Spido AI Mouse 語音翻譯滑鼠 (香港定制版)",
+        "rating": "10",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Lightsync RGB 機械式遊戲鍵盤 G813 + Lightspeed 無線遊戲滑鼠 G304",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB,藍牙"
+    },
+    {
+        "names": "Logitech 藍牙無線滑鼠 M558",
+        "rating": "10",
+        "hon_price_min": "238",
+        "hon_price_max": "238",
+        "water_price_min": "128",
+        "water_price_max": "468",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Baseus Orange Dot Wireless Presenter (Red Laser) ACFYB-0G",
+        "rating": "",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "ROCKTECH KB110 PS/2 Wired Keyboard",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "PS/2"
+    },
+    {
+        "names": "Thecoopidea x Pokémon TAPPY 寵物小精靈無線鍵盤滑鼠套裝",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "滑鼠類型:": "光學"
+    },
+    {
+        "names": "Microsoft Arc Mouse (ELG)",
+        "rating": "8.5",
+        "hon_price_min": "378",
+        "hon_price_max": "498",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Forter  藍牙無線可充電鍵盤 (配送護膜) ik8500",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "238",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "HP Wireless Multi-Device Keyboard and Mouse Combo CS10",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "HP K300 Keyboard",
+        "rating": "8.0",
+        "hon_price_min": "109",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Lenovo Lenovo Go Wireless Split Keyboard - US English (4Y41C33748)",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Philips 飛利浦 Wired Combo 有線鍵盤滑鼠組合 SPT6224",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "MINIX Neo M2 Air Mouse 電腦搖控器滑鼠",
+        "rating": "",
+        "hon_price_min": "118",
+        "hon_price_max": "118",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Microsoft Surface Pro Signature Keyboard with Slim Pen 2 (For Surface Pro 8 / X)",
+        "rating": "10",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,680",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Targus P30 Wireless USB Presenter with Laser Pointer (AMP30GL)",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "240",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech R400 專業簡報器",
+        "rating": "10",
+        "hon_price_min": "296",
+        "hon_price_max": "538",
+        "water_price_min": "215",
+        "water_price_max": "488",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Verbatim 雙模式無線靜音滑鼠 (66522/66523)",
+        "rating": "10",
+        "hon_price_min": "145",
+        "hon_price_max": "168",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Elecom \"Relacon\" 軌跡球遙控器滑鼠 (藍牙) M-RT1BRXBK",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "538",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Razer Huntsman Mini 全彩光機械式鍵盤 (Mercury白 Linear 線性光軸)",
+        "rating": "",
+        "hon_price_min": "775",
+        "hon_price_max": "950",
+        "water_price_min": "720",
+        "water_price_max": "868",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "有線"
+    },
+    {
+        "names": "Logitech 機械背光鍵盤 K845",
+        "rating": "10",
+        "water_price_min": "320",
+        "water_price_max": "368",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "LOFREE 圓點藍牙機械鍵盤 EH112S Dot",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,299",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Philips 飛利浦 2.4GHz 無線鍵盤滑鼠套裝 C602 (SPT6602B)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "178",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "WIWU Fold Mini Bluetooth Keyboard 迷你摺疊藍牙鍵盤 FMK-01",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "298",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "iClever 藍牙+ 2.4G無線充電鍵盤 DK03",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "259",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Forter 2.4GHz 無線光學滑鼠 i365",
+        "rating": "",
+        "hon_price_min": "105",
+        "hon_price_max": "148",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Lofree 1% Semi Transparent Frosted Mechanical Keyboard 半透明白色無線機械式鍵盤 - Misty",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙 / Type C"
+    },
+    {
+        "names": "Microsoft All-in-One Media Keyboard N9Z-00026",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "255"
+    },
+    {
+        "names": "A4TECH 2.4G Wireless Laser Pen 無線簡報器 LP15",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "140",
+        "組合/鍵盤/滑鼠/簡報器:": "無線簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "3Dconnexion CadMouse Pro Wireless Mouse (3DX-700078)",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "iClever Wireless Keyboard and Mouse Combo GK03",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech K380 For Mac Multi-Device Keyboard + M350 Pebble Mouse",
+        "rating": "10",
+        "hon_price_min": "389",
+        "hon_price_max": "449",
+        "water_price_min": "305",
+        "water_price_max": "305",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Elecom EX-G 無線 BlueLED 滑鼠 (L) M-XGL10DB",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "SmarterWare RGB Bluetooth Multi-Device Silent Mouse 藍牙多模式無線雙滾輪靜音滑鼠 M10",
+        "rating": "",
+        "hon_price_min": "379",
+        "hon_price_max": "379",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Rapoo 雷柏 M500 Silent 無線滑鼠",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "189",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Cherry 無線滑鼠 MW2400",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "132",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Matias Mac Type C 有線鍵盤 FK316C",
+        "rating": "",
+        "hon_price_min": "449",
+        "hon_price_max": "449",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB Type-C"
+    },
+    {
+        "names": "iClever 超薄靜音藍牙+ 2.4G無線鍵盤 (iPad插槽) DKA2KB",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "289",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "WIWU Waltz Rotating Magic Smart Keyboard Case",
+        "rating": "",
+        "hon_price_min": "436",
+        "hon_price_max": "438",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Wireless Trackball M570",
+        "rating": "10",
+        "hon_price_min": "385",
+        "hon_price_max": "399",
+        "water_price_min": "379",
+        "water_price_max": "379",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "POLAR Silent Wireless Mouse (POM-617)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "HP 無線鍵盤鼠標套裝 CS500",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "HP Wired Keyboard and Mouse KM100",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "119",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Havit Wireless Keyboard and Mouse KB260GCM",
+        "rating": "",
+        "hon_price_min": "119",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Omars Wired Lightning Keyboard",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "Lightning"
+    },
+    {
+        "names": "iMICE 2.4G無線靜音滑鼠 家用及商用 E-1800",
+        "rating": "",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "iClever Ergonomic Wireless Vertical Mouse WM-101",
+        "rating": "9.5",
+        "hon_price_min": "138",
+        "hon_price_max": "170",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Rapoo 雷柏 Mini Bluetooth Mouse 多模式靜音藍牙無線金屬滑鼠 (2.4G+BT4.0+3.0) M600 mini",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "169",
+        "water_price_min": "135",
+        "water_price_max": "135",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Miffy 摺疊式無線藍牙鍵盤 MPC-002",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "298",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Apple Smart Keyboard 適用於 10.5 吋 iPad Pro - 美式英文",
+        "rating": "",
+        "hon_price_min": "1,018",
+        "hon_price_max": "1,249",
+        "water_price_min": "808",
+        "water_price_max": "998"
+    },
+    {
+        "names": "Cherry 有線鍵盤 G80-3811 MX1.0 TKL",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "699",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech K750 無線鍵盤",
+        "rating": "9.5",
+        "hon_price_min": "489",
+        "hon_price_max": "512",
+        "water_price_min": "429",
+        "water_price_max": "499",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Ergonomic Mouse RJG-00005",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "368",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Azio FOQO Wireless Keyboard 無線鍵盤",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "Bluetooth 5.0 及 USB-C"
+    },
+    {
+        "names": "Logitech MX Anywhere 2 無線滑鼠",
+        "rating": "8.0",
+        "hon_price_min": "369",
+        "hon_price_max": "399",
+        "water_price_min": "399",
+        "water_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Rapoo 雷柏 Wired USB Mouse 有線5制光學滑鼠 N300",
+        "rating": "10",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "water_price_min": "75",
+        "water_price_max": "75",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "iClever 便攜式藍牙 Tenkey (數字鍵盤) KP08",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "150",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Philips 飛利浦 USB 有線滑鼠 SPK7123",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "75",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Akko 美少女戰士 Crystal 系列 Smart 1 無線滑鼠 (Sailor Jupiter)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB 2.4"
+    },
+    {
+        "names": "Logitech Line Friends 多設備藍牙無線鍵盤 K380",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "300",
+        "water_price_min": "150",
+        "water_price_max": "380",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Targus Dual Mode Presenter with Laser Pointer (AMP32GL)",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Havit Wired Optical Mouse MS871",
+        "rating": "",
+        "hon_price_min": "55",
+        "hon_price_max": "55",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elecom Huge Trackball 無線軌跡球 M-HT1DRBK",
+        "rating": "10",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "軌跡球",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "POLAR 無線滑鼠 PBM-701",
+        "rating": "4.3",
+        "hon_price_min": "99",
+        "hon_price_max": "179",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Elecom Slint 28mm 薄型無線滑鼠 (附收纳袋) M-TM10BB",
+        "rating": "",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Modern English Cordless Keyboard - USB+Bluetooth (FingerPrint) EKZ-00009",
+        "rating": "",
+        "hon_price_min": "938",
+        "hon_price_max": "968",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Hii AI智能語音翻譯滑鼠 (Mac Version) HM-1A",
+        "rating": "",
+        "hon_price_min": "318",
+        "hon_price_max": "679",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠"
+    },
+    {
+        "names": "POLAR 2.4GHz Laser Wireless Presenter PWP-R01",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Philips 飛利浦 2.4GHz 無線鍵盤滑鼠套裝 C501 (SPT6501B)",
+        "rating": "2.0",
+        "hon_price_min": "120",
+        "hon_price_max": "125",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Kensington Pro Fit Ergo Vertical Wireless Mouse K75501WW",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Elecom EX-G系列無線軌跡球 (大拇指操控型) M-XT2DRBK",
+        "rating": "",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Skycolor Wireless Laser Presenter 無線簡報器演示筆 T230",
+        "rating": "",
+        "hon_price_min": "115",
+        "hon_price_max": "115",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "DENVA Bluetooth Mouse 藍牙無線滑鼠 B100",
+        "rating": "",
+        "hon_price_min": "218",
+        "hon_price_max": "218",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Lenovo Lecoo 有線滑鼠 MS101",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Voice M380 語音輸入滑鼠",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "280",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "ZAGG Wireless Keyboard Full-Size Bluetooth 無線鍵盤",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "358",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Philips 飛利浦 2.4GHz 無線滑鼠 M344 (SPK7344)",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Modern Mouse 時尚滑鼠",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "305",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Philips 飛利浦 2.4GHz 無線滑鼠 M524 (SPK7524)",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Apple Magic Mouse 2 - 太空灰",
+        "rating": "10",
+        "hon_price_min": "729",
+        "hon_price_max": "880",
+        "water_price_min": "570",
+        "water_price_max": "620",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "ApaxQ 可折疊鋁製藍牙鍵盤 BT007",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268"
+    },
+    {
+        "names": "Lenovo Lecoo KB101 有線鍵盤",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "65",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Wireless Keyboard 850",
+        "rating": "10",
+        "hon_price_min": "138",
+        "hon_price_max": "180",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "ApaxQ 有線數字鍵盤 KP05",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "80",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "有線"
+    },
+    {
+        "names": "Elephant 超薄降噪無線鍵盤及靜音滑鼠套裝 (英文版) KEM-W2011-ENG",
+        "rating": "",
+        "hon_price_min": "139",
+        "hon_price_max": "140",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "滑鼠類型:": "光學"
+    },
+    {
+        "names": "Lenovo P11 Pro 鍵盤套件",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "DeLUX 多彩 PockCombo 超輕薄摺疊鍵盤滑鼠套裝",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Logitech Pebble M350 纖薄靜音無線滑鼠 (小王子-狐狸語錄-Pink) 107-94-00124-1",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "250",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Lenovo ThinkPad TrackPoint 鍵盤 II (美國英文) ( 4Y40X49493)",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "836",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Rapoo 雷柏 Multi-mode Bluetooth Wireless Mouse 藍牙多模式無線滑鼠 MT550G",
+        "rating": "10",
+        "hon_price_min": "199",
+        "hon_price_max": "249",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Surface Pro Type Cover Keyboard For Surface Pro 8 / X",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "830",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Matias Tactile Pro for Mac 標準型ALPS機械鍵盤 (FK302)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "960",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Matias Wired Aluminum Keyboard for Mac (FK318)",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "560",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB 2.0"
+    },
+    {
+        "names": "ZAGG Tri Fold 手提可摺式藍牙無線鍵盤",
+        "rating": "10",
+        "hon_price_min": "468",
+        "hon_price_max": "588",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Joyroom Page Turning Pen JR-BP663",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "119",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Serafim Keybo 雷射投影鍵盤",
+        "rating": "",
+        "hon_price_min": "558",
+        "hon_price_max": "798",
+        "water_price_min": "398",
+        "water_price_max": "598",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elecom EX-G 無線 BlueLED 滑鼠 (M) M-XGM10DB",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Arc Touch Mouse RVF-00054",
+        "rating": "10",
+        "hon_price_min": "380",
+        "hon_price_max": "438",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "藍光",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Xiaomi 小米 無線滑鼠",
+        "rating": "",
+        "hon_price_min": "87",
+        "hon_price_max": "88",
+        "water_price_min": "80",
+        "water_price_max": "80",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "ZAGG Flex Universal Keyboard Bluetooth",
+        "rating": "",
+        "hon_price_min": "558",
+        "hon_price_max": "588",
+        "鍵盤 (無線/有線):": "無線",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Meetion Wired Ergonomic Vertical Mouse 有線直立式滑鼠 MT-M390",
+        "rating": "10",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "iClever 無線滑鼠鍵盤組合 IC-GK08",
+        "rating": "",
+        "hon_price_min": "210",
+        "hon_price_max": "249",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Havit PC Wired Mouse MS70",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "NuPhy Halo75 Wireless Mechanical Keyboard 短軸無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "組合/鍵盤/滑鼠/簡報器:": "機械鍵盤",
+        "連接埠:": "USB-C, Bluetooth 5.0 及 2.4GHz USB 接收器 (USB-A)"
+    },
+    {
+        "names": "Logitech 無線鍵盤滑鼠組合 MK850 (英文版)",
+        "rating": "10",
+        "hon_price_min": "499",
+        "hon_price_max": "799",
+        "water_price_min": "495",
+        "water_price_max": "530",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "HP Wireless Dual Mode Mouse FM710A",
+        "rating": "",
+        "hon_price_min": "127",
+        "hon_price_max": "158",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Kensington Pro Fit Wired Mid-Size Mouse USB K72355US",
+        "rating": "",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech Marathon Mouse M705",
+        "rating": "8.2",
+        "hon_price_min": "328",
+        "hon_price_max": "409",
+        "water_price_min": "239",
+        "water_price_max": "309",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "雷射",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Targus 簡報遙控器 AMP3001GL",
+        "rating": "10",
+        "hon_price_min": "148",
+        "hon_price_max": "240",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Xiaomi 小米 便攜滑鼠",
+        "rating": "10",
+        "hon_price_min": "118",
+        "hon_price_max": "199",
+        "water_price_min": "100",
+        "water_price_max": "120",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "3Dconnexion CadMouse Compact Wireless Mouse (3DX-700082)",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "890",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "3Dconnexion SpaceMouse Wireless (3DX-700066)",
+        "rating": "",
+        "hon_price_min": "1,510",
+        "hon_price_max": "1,510",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "iClever 人體工學無線滑鼠 TM231G",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "235",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Havit Mini Slim USB Multimedia Keyboard HV-KB367",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "89",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "T-WOLF Business Wired Keyboard & Mouse Set TF500",
+        "rating": "",
+        "hon_price_min": "59",
+        "hon_price_max": "70",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech K360 Wireless Keyboard",
+        "rating": "10",
+        "hon_price_min": "217",
+        "hon_price_max": "217",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Elecom EX-G Ultimate Laser 靜音終極激光滑鼠 (L) M-XGL20DLS",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech M325 無線滑鼠",
+        "rating": "9.0",
+        "hon_price_min": "139",
+        "hon_price_max": "229",
+        "water_price_min": "120",
+        "water_price_max": "120",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "3Dconnexion CadMouse Pro Ergonomic Mouse (3DX-700080)",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "Fmouse 語音無線藍牙滑鼠 M113",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB, 藍牙"
+    },
+    {
+        "names": "Kensington Pro Fit Wireless Mobile Mouse K75228WW",
+        "rating": "",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Sculpt Ergonomic Mouse",
+        "rating": "8.4",
+        "hon_price_min": "348",
+        "hon_price_max": "375",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Anker Ergonomic Optical Mouse 98ANWVM-BA",
+        "rating": "",
+        "hon_price_min": "90",
+        "hon_price_max": "95",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "Remax Wireless Laser Presenter 無線簡報器演示筆 LZ-B2",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "159",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Targus 可折疊無線藍牙抗菌多功能連接鍵盤 AKF003",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Elecom Capclip 藍牙無線滑鼠 M-FCC2BRSBK",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Azio IZO Wireless Keyboard Series 2 無線藍牙機械鍵盤系列 2",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "Bluetooth 5.0 及 USB-C 接收器"
+    },
+    {
+        "names": "FD 富德 Wireless Mouse 無線滑鼠 V1",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Rapoo 雷柏 X120 無線光學鍵盤滑鼠組合",
+        "rating": "10",
+        "hon_price_min": "98",
+        "hon_price_max": "99",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "有線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Dell 有線光學滑鼠 MS116",
+        "rating": "10",
+        "hon_price_min": "47",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Meetion USB有線鍵盤 MT-AK100",
+        "rating": "10",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Targus 簡報器 AMP09AP",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "290",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Xpower x 罐頭豬Lulu 無線鍵盤滑鼠套裝 KB2",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Mokibo 無線 2 合 1 觸控板 + 鍵盤",
+        "rating": "",
+        "hon_price_min": "788",
+        "hon_price_max": "929",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Mofii 2.4G 混彩鍵盤套裝 666",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "189",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "MINIX NEO W2 2.4GHz Wireless Remote Control (PC/Android/Windows)",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 Keyboard Mouse Combo 有線鍵盤滑鼠組合 SPT6254 (C254)",
+        "rating": "10",
+        "hon_price_min": "75",
+        "hon_price_max": "78",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Baseus USB Type-C Wireless Laser Presenter 簡報演示筆 PPT",
+        "rating": "9.0",
+        "hon_price_min": "147",
+        "hon_price_max": "159",
+        "water_price_min": "99",
+        "water_price_max": "108",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "AKKO 龍珠超系列 Smart 1無線滑鼠 (超級賽亞人桃紅-黑悟空)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Cheerdots CheerPod 迷你4合1智慧滑鼠",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Logitech Silent Plus M330 無線滑鼠",
+        "rating": "",
+        "water_price_min": "113",
+        "water_price_max": "148",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Multipro Wireless Mini Keyboard with Mouse 1434",
+        "rating": "",
+        "hon_price_min": "129",
+        "hon_price_max": "129",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Philips 飛利浦 光學無線滑鼠 M505",
+        "rating": "",
+        "water_price_min": "85",
+        "water_price_max": "85",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Elephant 智能語音充電式滑線滑鼠 AI-001",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "288",
+        "water_price_min": "228",
+        "water_price_max": "228",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Kensington Orbit Optical Trackball K72500",
+        "rating": "",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "Microsoft Wireless Desktop 3050 無線鍵盤滑鼠組合",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "389",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 K200 系列有線鍵盤 SPK6234",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "88",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Forter 雙藍牙 + 2.4G 人體工學滑鼠 I930tu",
+        "rating": "",
+        "hon_price_min": "136",
+        "hon_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Hyundai 現代 Wireless Laser Presenter 無線簡報器演示筆 HYF012",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "175",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器"
+    },
+    {
+        "names": "Microsoft Surface Go Signature Type Cover",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "900",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Logitech M186 無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "88",
+        "hon_price_max": "90",
+        "water_price_min": "71",
+        "water_price_max": "110",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Microsoft Surface Mobile Mouse",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "190",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "iClever BoostType Portable Tri-folding Bluetooth Keyboard with Touchpad BK08",
+        "rating": "9.5",
+        "hon_price_min": "340",
+        "hon_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Wireless Mouse 900",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "239",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Lenovo ThinkPad 基本型無線滑鼠 (4X30M56887)",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Azio Retro Classic Series BT 無線鍵盤",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,999",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "FILCO 有線鍵盤 FKBN87M/PWE2",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,250",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Meetion Ergonomic 2.4G Wireless Vertical Mouse 無線直立式滑鼠 MT-R390",
+        "rating": "10",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elephant 金屬面板降噪浮鍵中文有線鍵盤 KE-012-CHI",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech K400 無線鍵盤連觸控板滑鼠",
+        "rating": "10",
+        "hon_price_min": "185",
+        "hon_price_max": "258",
+        "water_price_min": "175",
+        "water_price_max": "199",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "觸控版",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Kensington Pro Fit Wireless Mid-Size Mouse K72405US",
+        "rating": "",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Lenovo Lecoo Wireless Laser Presenter 無線簡報器演示筆 SPT9634",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "175",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Forter V8 2.4GHz 無線光學滑鼠",
+        "rating": "10",
+        "hon_price_min": "65",
+        "hon_price_max": "75",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "iClever 藍牙+ 2.4G無線滑鼠 MD165",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "210",
+        "組合/鍵盤/滑鼠/簡報器:": "人體工學滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Matias Wireless Aluminum Keyboard (FK418BTS/FK418BTB) (銀色和太空灰)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "730",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Matias FK302QPC 標準型ALPS 有線鍵盤",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "899",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "有線"
+    },
+    {
+        "names": "Logitech Full-Size Wireless Mouse 全尺寸的無線滑鼠 M190",
+        "rating": "10",
+        "hon_price_min": "73",
+        "hon_price_max": "159",
+        "water_price_min": "73",
+        "water_price_max": "73",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 無線滑鼠 SPK7211",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "inHOME 2.4GHz USB 無線光學筆滑鼠",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "SmarterWare Air Mouse with Voice Remote Control 語音滑鼠遙控",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "Fujitsu Wireless Mouse FR202",
+        "rating": "7.0",
+        "hon_price_min": "90",
+        "hon_price_max": "129",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Xpower 人體工學垂直無線滑鼠 WM2",
+        "rating": "",
+        "hon_price_min": "124",
+        "hon_price_max": "148",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Xpower 2.4GHz+藍牙雙模式無線光學滑鼠 WM3",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "雙模式2.4GHz及藍牙5.2無線連接"
+    },
+    {
+        "names": "Lenovo Lecco  2.4G USB 無線光電滑鼠 WS-202",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Logitech MK710 無線滑鼠鍵盤組",
+        "rating": "9.0",
+        "hon_price_min": "520",
+        "hon_price_max": "520",
+        "water_price_min": "359",
+        "water_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "POLAR 2.4GHz Charging Laser Mouse (POM-615)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 C315 Silent Keyboard & Mouse Combo 無線靜音鍵盤滑鼠套裝 SPT6315",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "150",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "T-WOLF 2.4G Wireless Mouse Q18",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學"
+    },
+    {
+        "names": "InfoThink 小熊維尼系列跳跳虎無線光學滑鼠 (限量版) iWM-100(Tigger)",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "228",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 無線滑鼠 M404",
+        "rating": "",
+        "hon_price_min": "59",
+        "hon_price_max": "85",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學"
+    },
+    {
+        "names": "Mofii Candy Colorful 粉紅混彩鍵盤連滑鼠",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "218",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤連滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Philips 飛利浦 無線滑鼠 SPK7305",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "115",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "AKKO 海賊王系列 Smart 1 無線滑鼠 (喬巴Chopper)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Mofii Candy 無線藍牙鍵盤",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "169",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Glotech 智能無線語音翻譯滑鼠 AM-01",
+        "rating": "10",
+        "hon_price_min": "150",
+        "hon_price_max": "199",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "語音翻譯滑鼠"
+    },
+    {
+        "names": "Matias Ergo Pro Linear for Mac 分離式人體工學ALPS機械鍵盤 (FK403R)",
+        "rating": "10",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,380",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤"
+    },
+    {
+        "names": "Logitech M191 Optical Cordless Mouse 910-005927",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "water_price_min": "109",
+        "water_price_max": "109",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elephant RGB燈效直立式無線滑鼠 M526",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "238",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學"
+    },
+    {
+        "names": "Philips 飛利浦 無線鍵盤滑鼠組合 SPT6602",
+        "rating": "8.0",
+        "hon_price_min": "129",
+        "hon_price_max": "178",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Havit Wireless Mouse MS858GT",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "FD 富德 Multi-device connection Bluetooth Wireless Keyboard iK3381",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Elecom “EX-G PRO\" 軌跡球滑鼠 (拇指操作型) M-XPT1MRBK",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "648",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Rapoo 雷柏 2.4G Wireless Vertical Ergonomic Mouse 直立式無線滑鼠 MV20",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 無線滑鼠 SPK7322",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "AOC 靜音無線滑鼠 Silent Wireless Mouse MS310",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Microsoft Arc Touch Bluetooth Mouse 7MP-00016",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "438",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "藍光",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Philips 飛利浦 2.4GHz 無線滑鼠 M405 (SPK7405)",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 無線滑鼠 SPK7403",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Forter 無線2.4GHz鍵盤滑鼠組合套裝 ik7300",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "120",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "T-WOLF T20 背光打機有線鍵盤",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Kensington Pro Fit Ergonomic Wireless Keyboard and Mouse K75406US",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Logitech Line Friends 無線滑鼠",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elephant 降噪中文無線鍵盤 KE-013-CHI",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "110",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elecom EX-G 靜音藍牙滑鼠 (L) M-XGL10BBS",
+        "rating": "10",
+        "hon_price_min": "269",
+        "hon_price_max": "269",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Elephant 無線滑鼠 ELE-M521",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "118",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Azio Retro系列 R.C.M.復古真牛皮無線藍牙滑鼠",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "849",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Rapoo 雷柏 Ralemo Air 1 無線藍牙滑鼠",
+        "rating": "",
+        "hon_price_min": "335",
+        "hon_price_max": "335",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB,藍牙"
+    },
+    {
+        "names": "Cherry 有線鍵盤 Cherry G80-3000",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Matias Wired Aluminum Tenkeyless Keyboard for Mac - Silver (FK308S)",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "499",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "POLAR Silent Wireless Mouse (POM-620)",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "109",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Matias Laptop Pro wireless KB for Mac 80% 迷你型ALPS機械鍵盤 (FK303QBT)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,099",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Microsoft Modern Mobile Mouse",
+        "rating": "9.7",
+        "hon_price_min": "179",
+        "hon_price_max": "248",
+        "water_price_min": "150",
+        "water_price_max": "180",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "FILCO 有線鍵盤 FKBN104M/EB",
+        "rating": "",
+        "hon_price_min": "1,149",
+        "hon_price_max": "1,250",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Kensington 無線 Wireless軌跡球 (72352)",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "499",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "軌跡球",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Spido ViviMouse Ai 語音翻譯無線滑鼠",
+        "rating": "10",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Kensington Orbit Fusion 無線軌跡球滑鼠 K72363",
+        "rating": "",
+        "hon_price_min": "779",
+        "hon_price_max": "789",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "S-3CDE K7 Plus 7合1多功能手寫板鍵盤",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Rapoo 雷柏 M10 2.4G Wireless Optical Mouse",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "99",
+        "water_price_min": "49",
+        "water_price_max": "65",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學"
+    },
+    {
+        "names": "Microsoft Ergonomic Keyboard LXM-00017 (中文鍵盤)",
+        "rating": "10",
+        "hon_price_min": "465",
+        "hon_price_max": "499",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Kensington Orbit Optical Trackball K64327EU",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "Rapoo 雷柏 1090p 無線滑鼠",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "98",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "POLAR 2.4G Silent Wireless Mouse POM-612",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "80",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Havit Wireless Mouse MS76GT",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Apple Magic Mouse 精妙滑鼠 (USB-C to Lightning)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "729",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "3Dconnexion SpaceMouse Pro Wireless (3DX-700075)",
+        "rating": "",
+        "hon_price_min": "2,790",
+        "hon_price_max": "2,790",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "HP Star Wars Special Edition Wireless Mouse P3E54AA",
+        "rating": "10",
+        "hon_price_min": "99",
+        "hon_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB Wireless"
+    },
+    {
+        "names": "Microsoft Number Pad",
+        "rating": "10",
+        "hon_price_min": "219",
+        "hon_price_max": "268",
+        "組合/鍵盤/滑鼠/簡報器:": "數字鍵盤",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "Matias Wired Keyboard for Mac (FK316)",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "399",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Havit USB Multimedia Keyboard KB256",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Xiaomi 小米 Cherry紅軸機械鍵盤",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "water_price_min": "439",
+        "water_price_max": "439",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "鍵盤 (無線/有線):": "有線"
+    },
+    {
+        "names": "FILCO 有線鍵盤 FKBN104ML/EB",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,250",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Meetion Modern USB Vertical Mouse 有線直立式滑鼠 MT-M380",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Mofii Candy Max 藍牙/ 2.4G 雙模式無線鍵盤",
+        "rating": "",
+        "hon_price_min": "196",
+        "hon_price_max": "298",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "iClever 灰絨面折疊藍牙鍵盤 IC-BK06",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "299",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Elecom EX-G Ultimate Laser 靜音終極激光滑鼠 (S) M-XGS20DLS",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Verbatim Rechargeable Wireless Mouse (66382)",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "99",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "3Dconnexion CadMouse Compact Ergonomic Mouse (3DX-700081)",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "有線"
+    },
+    {
+        "names": "Dell 無線滑鼠鍵盤套裝 KM632",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "209",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "POLAR Silent Wireless Mouse (POM-618)",
+        "rating": "",
+        "hon_price_min": "148",
+        "hon_price_max": "149",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Elecom 無線紅外滑鼠 (3個按鈕) M-IR07DRS",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Fujitsu Wireless Keyboard Mouse Combo KX-300",
+        "rating": "2.0",
+        "hon_price_min": "159",
+        "hon_price_max": "185",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Lenovo 基本型 USB 滑鼠 (4Y50R20863)",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "FILCO 有線鍵盤 FKBN104M/EMU2",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,250",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB, PS/2"
+    },
+    {
+        "names": "iMICE 2.4G無線鍵盤及滑鼠套裝 家用及商用 AN-100",
+        "rating": "",
+        "water_price_min": "148",
+        "water_price_max": "148",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "飛鼠 雙面遊戲鍵盤 T10",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Havit USB Mouse Wired Optical Mouse HV-MS689",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Forter 2.4GHz 無線電競滑鼠 i750",
+        "rating": "10",
+        "hon_price_min": "125",
+        "hon_price_max": "128",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "NuPhy Halo96 Wireless Mechanical Keyboard 無線機械鍵盤",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,499",
+        "組合/鍵盤/滑鼠/簡報器:": "機械鍵盤",
+        "連接埠:": "USB-C, Bluetooth 5.0 及 2.4GHz USB 接收器 (USB-A)"
+    },
+    {
+        "names": "Steelseries LASER 9800 MODULE For Rival 700 and Rival 710",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Box2s 有線滑鼠 BS-010n",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "連接埠:": "USB 2.0"
+    },
+    {
+        "names": "Kensington Wireless Presenter with Red Laser (K33374)",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "380",
+        "組合/鍵盤/滑鼠/簡報器:": "簡報器",
+        "鍵盤 (無線/有線):": "無線"
+    },
+    {
+        "names": "POLAR Silent Wireless Mouse POM-616",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "99",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Rapoo 雷柏 9060M Multimode Ultra slim Wireless Keyboard and Mouse",
+        "rating": "2.0",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "water_price_min": "318",
+        "water_price_max": "318",
+        "組合/鍵盤/滑鼠/簡報器:": "組合",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "Philips 飛利浦 無線滑鼠 SPK7402",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "95",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠 (無線/有線):": "無線"
+    },
+    {
+        "names": "iClever 藍牙+ 2.4G無線滑鼠 MD172",
+        "rating": "10",
+        "hon_price_min": "220",
+        "hon_price_max": "229",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "藍牙"
+    },
+    {
+        "names": "Kensington Orbit Optical Trackball K64327F",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "599",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Philips 飛利浦 600 系列多設備藍牙鍵盤 SPK6614",
+        "rating": "2.0",
+        "hon_price_min": "278",
+        "hon_price_max": "278",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB / 藍牙"
+    },
+    {
+        "names": "Kensington Silent Mouse-for-Life Wireless USB Mouse K72392US",
+        "rating": "",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠",
+        "滑鼠類型:": "光學",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "EagleTec KG020 Gloud 有線鍵盤",
+        "rating": "10",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "組合/鍵盤/滑鼠/簡報器:": "鍵盤",
+        "連接埠:": "USB"
+    },
+    {
+        "names": "Lenovo Yoga 滑鼠與雷射簡報器 4Y50U59628",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "350",
+        "組合/鍵盤/滑鼠/簡報器:": "滑鼠/簡報器",
+        "連接埠:": "藍牙"
+    }
+]

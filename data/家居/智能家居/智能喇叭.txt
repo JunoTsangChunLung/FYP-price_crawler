@@ -1,0 +1,637 @@
+[
+    {
+        "names": "Apple HomePod (第2代)",
+        "rating": "",
+        "hon_price_min": "2,270",
+        "hon_price_max": "2,299",
+        "water_price_min": "2,148",
+        "water_price_max": "2,148",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "Denon Home 150 Wireless Speaker 無線串流網絡揚聲器",
+        "rating": "10",
+        "hon_price_min": "1,680",
+        "hon_price_max": "2,232",
+        "water_price_min": "1,860",
+        "water_price_max": "1,860",
+        "產品特點:": "串流音樂",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Amazon Echo Dot (4th Generation) Smart Speaker with Alexa 智能喇叭",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "water_price_min": "240",
+        "water_price_max": "530",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "尺寸:": "100 x 100 x 89mm"
+    },
+    {
+        "names": "Xiaomi 小米 Sound Pro 7單元高保真智能音箱",
+        "rating": "",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "產品特點:": "串流音樂,控制智能家居裝置,支援NFC",
+        "靈敏度:": "91dB",
+        "尺寸:": "140 x 140 x 204.7mm"
+    },
+    {
+        "names": "Apple HomePod Mini",
+        "rating": "9.8",
+        "hon_price_min": "630",
+        "hon_price_max": "750",
+        "water_price_min": "598",
+        "water_price_max": "679",
+        "產品特點:": "串流音樂,控制智能家居裝置,語音提示",
+        "重量:": "0.345kg"
+    },
+    {
+        "names": "Marshall Uxbridge Voice with the Google Assistant 智能喇叭",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "water_price_min": "1,599",
+        "water_price_max": "1,799",
+        "麥克風數目:": "1",
+        "靈敏度:": "96dB",
+        "尺寸:": "128 x 168 x 123mm",
+        "重量:": "1.39kg"
+    },
+    {
+        "names": "Harman Kardon Citation One MKII 智能喇叭",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "2,199",
+        "water_price_min": "799",
+        "water_price_max": "1,398",
+        "產品特點:": "串流音樂",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Google Home Mini 智慧音箱",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "450",
+        "water_price_min": "90",
+        "water_price_max": "398",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "重量:": "0.173kg"
+    },
+    {
+        "names": "Google Home Hub 智能家居助理",
+        "rating": "6.5",
+        "hon_price_min": "670",
+        "hon_price_max": "1,090",
+        "water_price_min": "400",
+        "water_price_max": "958",
+        "麥克風數目:": "2",
+        "尺寸:": "67.3 x 178.5 x 118mm",
+        "重量:": "0.48kg"
+    },
+    {
+        "names": "Belkin Soundform Elite Hi-Fi 智能喇叭 + 無線充電器",
+        "rating": "9.3",
+        "hon_price_min": "1,199",
+        "hon_price_max": "2,294",
+        "麥克風數目:": "2",
+        "尺寸:": "162 x 162 x 168.5mm",
+        "重量:": "1.25kg"
+    },
+    {
+        "names": "Xiaomi 小米 小愛音箱Pro",
+        "rating": "9.0",
+        "hon_price_min": "480",
+        "hon_price_max": "550",
+        "water_price_min": "380",
+        "water_price_max": "450",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "尺寸:": "118 x 118 x 215mm",
+        "重量:": "1.207kg"
+    },
+    {
+        "names": "Huawei Sound X 2021 智能喇叭",
+        "rating": "6.0",
+        "water_price_min": "2,480",
+        "water_price_max": "2,990",
+        "頻率:": "38Hz-40kHz",
+        "重量:": "3.14kg"
+    },
+    {
+        "names": "Bose Home Speaker 500 智能揚聲器",
+        "rating": "10",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,499",
+        "water_price_min": "2,788",
+        "water_price_max": "3,499",
+        "產品特點:": "串流音樂",
+        "重量:": "2.15kg"
+    },
+    {
+        "names": "Amazon Echo Show 5 智能喇叭",
+        "rating": "8.0",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "water_price_min": "399",
+        "water_price_max": "999",
+        "產品特點:": "控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Huawei Sound SE 智能音箱",
+        "rating": "",
+        "water_price_min": "760",
+        "water_price_max": "760",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "尺寸:": "147 x 186.7mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Amazon Echo Dot (3rd Generation) 智能喇叭",
+        "rating": "8.0",
+        "water_price_min": "210",
+        "water_price_max": "355",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "0.3kg"
+    },
+    {
+        "names": "Google Nest Mini 智能喇叭",
+        "rating": "9.4",
+        "hon_price_min": "248",
+        "hon_price_max": "399",
+        "water_price_min": "180",
+        "water_price_max": "399",
+        "麥克風數目:": "3",
+        "尺寸:": "98 x 42mm",
+        "重量:": "0.181kg"
+    },
+    {
+        "names": "Google Nest Audio 智能喇叭",
+        "rating": "9.1",
+        "hon_price_min": "750",
+        "hon_price_max": "1,299",
+        "water_price_min": "598",
+        "water_price_max": "999",
+        "產品特點:": "控制智能家居裝置",
+        "重量:": "1.2kg"
+    },
+    {
+        "names": "Bose Home Speaker 300 智能揚聲器",
+        "rating": "9.5",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,099",
+        "water_price_min": "1,380",
+        "water_price_max": "2,099",
+        "產品特點:": "串流音樂",
+        "重量:": "0.9kg"
+    },
+    {
+        "names": "Xiaomi 小米 AI音箱",
+        "rating": "4.7",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "water_price_min": "230",
+        "water_price_max": "288",
+        "麥克風數目:": "6",
+        "阻抗:": "4Ω",
+        "尺寸:": "211.6 x 88 x 88mm",
+        "重量:": "0.636kg"
+    },
+    {
+        "names": "Xiaomi 小米 小愛音箱 (支持廣東話)",
+        "rating": "",
+        "water_price_min": "358",
+        "water_price_max": "358",
+        "麥克風數目:": "6",
+        "產品特點:": "串流音樂,控制智能家居裝置"
+    },
+    {
+        "names": "Amazon Echo Show 8 (2nd Gen, 2021 release) 智能喇叭",
+        "rating": "10",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "water_price_min": "928",
+        "water_price_max": "1,499",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Google Home Smart Speaker & Home Assistant 智慧語音聲控喇叭",
+        "rating": "10",
+        "hon_price_min": "430",
+        "hon_price_max": "1,299",
+        "water_price_min": "390",
+        "water_price_max": "800",
+        "產品特點:": "串流音樂,控制智能家居裝置"
+    },
+    {
+        "names": "Huawei Sound 智能音箱",
+        "rating": "8.7",
+        "water_price_min": "1,270",
+        "water_price_max": "1,280",
+        "麥克風數目:": "6",
+        "尺寸:": "147 x 186.7mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Huawei Sound X 智能音箱",
+        "rating": "6.4",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "麥克風數目:": "6",
+        "尺寸:": "203 x 165mm",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "Amazon Echo Dot (5th Gen, 2022 release) Kids Edition Smart Speaker 智能喇叭",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "749",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "重量:": "0.304kg"
+    },
+    {
+        "names": "Amazon Echo Flex - Plug-in Mini Smart Speaker with Alexa 智能喇叭",
+        "rating": "10",
+        "hon_price_min": "225",
+        "hon_price_max": "225",
+        "water_price_min": "225",
+        "water_price_max": "380",
+        "產品特點:": "控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Amazon Echo Dot (4th Generation) Smart Speaker with Clock and Alexa 智能喇叭",
+        "rating": "",
+        "water_price_min": "388",
+        "water_price_max": "680",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "尺寸:": "100 x 100 x 89mm"
+    },
+    {
+        "names": "Apple HomePod 香港版",
+        "rating": "8.4",
+        "hon_price_min": "3,788",
+        "hon_price_max": "3,788",
+        "麥克風數目:": "6",
+        "尺寸:": "172 x 142mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "Marshall Uxbridge Voice with Amazon Alexa 智能喇叭",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,799",
+        "water_price_min": "1,680",
+        "water_price_max": "1,799",
+        "麥克風數目:": "1",
+        "靈敏度:": "96dB",
+        "尺寸:": "128 x 168 x 123mm",
+        "重量:": "1.39kg"
+    },
+    {
+        "names": "Xiaomi 小米 小愛觸屏音箱",
+        "rating": "10",
+        "water_price_min": "268",
+        "water_price_max": "378",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "0.272kg"
+    },
+    {
+        "names": "Google Nest Mini (2nd Gen) 智能喇叭",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "599",
+        "water_price_min": "230",
+        "water_price_max": "330",
+        "麥克風數目:": "3",
+        "尺寸:": "98 x 42mm",
+        "重量:": "183kg"
+    },
+    {
+        "names": "Xiaomi 小米 小愛音箱 HD",
+        "rating": "10",
+        "water_price_min": "650",
+        "water_price_max": "750",
+        "麥克風數目:": "6",
+        "尺寸:": "150 x 150 x 234mm",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "Amazon Echo Show 5 (2nd Gen, 2021 release) 智能喇叭",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "618",
+        "water_price_min": "399",
+        "water_price_max": "570",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Sonos Move Smart Speaker 智能揚聲器",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "3,799",
+        "water_price_min": "3,480",
+        "water_price_max": "3,980",
+        "麥克風數目:": "4",
+        "尺寸:": "240 x 160 x 126 mm",
+        "重量:": "3kg"
+    },
+    {
+        "names": "Xiaomi 小米 小愛觸屏音箱 Pro 8 (X08A)",
+        "rating": "10",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能,語音提示"
+    },
+    {
+        "names": "Acer Halo 智能揚聲器 (Google Voice Assistant)",
+        "rating": "",
+        "麥克風數目:": "2",
+        "尺寸:": "96.5 x 96.5 x 168mm",
+        "重量:": "0.67kg"
+    },
+    {
+        "names": "Amazon Echo (4th Generation) With Premium Sound, Smart Home Hub, and Alexa 智能喇叭",
+        "rating": "",
+        "water_price_min": "629",
+        "water_price_max": "1,299",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "0.97kg"
+    },
+    {
+        "names": "Sonos One Voice-Controlled Smart Speaker 智能揚聲器",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "water_price_min": "1,459",
+        "water_price_max": "1,460",
+        "產品特點:": "串流音樂",
+        "重量:": "1.85kg"
+    },
+    {
+        "names": "Xiaomi 小米 小愛音箱 Art",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "488",
+        "water_price_min": "370",
+        "water_price_max": "499",
+        "產品特點:": "串流音樂,控制智能家居裝置,語音提示",
+        "重量:": "0.853kg"
+    },
+    {
+        "names": "Huawei Sound X NEW 智能音箱",
+        "rating": "",
+        "water_price_min": "2,499",
+        "water_price_max": "2,899",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "靈敏度:": "93dB",
+        "尺寸:": "175.6 x 224mm"
+    },
+    {
+        "names": "Amazon Echo Show 15 智能顯示屏",
+        "rating": "",
+        "hon_price_min": "2,799",
+        "hon_price_max": "2,799",
+        "water_price_min": "2,788",
+        "water_price_max": "2,788",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能,語音提示",
+        "重量:": "2.215kg"
+    },
+    {
+        "names": "JBL Link 300 Voice-Activated Speaker 智能藍牙喇叭",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "重量:": "1.7kg"
+    },
+    {
+        "names": "Huawei 華為 AI 音箱 2",
+        "rating": "",
+        "water_price_min": "385",
+        "water_price_max": "499",
+        "麥克風數目:": "4",
+        "尺寸:": "110 x 110 x 156mm"
+    },
+    {
+        "names": "Amazon Echo Plus (2nd Generation) 智能喇叭",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "water_price_min": "630",
+        "water_price_max": "1,899",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "尺寸:": "148 x 99 x 99mm"
+    },
+    {
+        "names": "Amazon Amazon Echo Dot (5th Generation) 智能喇叭",
+        "rating": "",
+        "hon_price_min": "729",
+        "hon_price_max": "729",
+        "water_price_min": "368",
+        "water_price_max": "399",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "重量:": "0.34kg"
+    },
+    {
+        "names": "Amazon Echo Spot 智能喇叭",
+        "rating": "",
+        "water_price_min": "756",
+        "water_price_max": "1,400",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Amazon Echo Dot (5th Gen) Smart Speaker with clock and Alexa 智能喇叭",
+        "rating": "",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "尺寸:": "100 x 100 x 89mm"
+    },
+    {
+        "names": "Xiaomi 小米 Redmi 小愛觸屏音箱 8英吋",
+        "rating": "",
+        "water_price_min": "580",
+        "water_price_max": "589",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "0.845kg"
+    },
+    {
+        "names": "Xiaomi 小米 小愛音箱mini",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "280",
+        "麥克風數目:": "4",
+        "阻抗:": "4Ω",
+        "尺寸:": "90 x 90 x 50mm",
+        "重量:": "0.21kg"
+    },
+    {
+        "names": "Amazon Echo Show (2nd Generation) 智能語音助手",
+        "rating": "",
+        "water_price_min": "1,550",
+        "water_price_max": "2,399",
+        "產品特點:": "串流音樂,通話功能",
+        "尺寸:": "246 x 174 x 107mm"
+    },
+    {
+        "names": "Xiaomi 小米 小愛音箱 (萬能遙控版)",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "298",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "0.468kg"
+    },
+    {
+        "names": "Mobvoi TicHome Mini Smart Assistant 智能家居助理",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "產品特點:": "串流音樂,控制智能家居裝置,語音提示",
+        "尺寸:": "110 x 43 x 110mm"
+    },
+    {
+        "names": "Amazon Echo Show 5 (2nd Gen) Kids 智能喇叭",
+        "rating": "",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,099",
+        "water_price_min": "488",
+        "water_price_max": "1,029",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Amazon Echo Show 8 - HD 8\" Smart Display with Alexa 智能喇叭",
+        "rating": "",
+        "water_price_min": "655",
+        "water_price_max": "1,499",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Amazon Echo Dot (4th Generation) Kids Edition Smart Speaker 智能喇叭",
+        "rating": "",
+        "water_price_min": "468",
+        "water_price_max": "799",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "0.3413kg"
+    },
+    {
+        "names": "Amazon Echo Show (1st Generation) 智能語音助手",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "water_price_min": "1,399",
+        "water_price_max": "1,580",
+        "麥克風數目:": "8",
+        "尺寸:": "187 x 187 x 90mm",
+        "重量:": "1.17kg"
+    },
+    {
+        "names": "Apple Homepod 英國版",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "麥克風數目:": "6",
+        "尺寸:": "172 x 142mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "Amazon Echo Dot (2nd Generation) 智能喇叭",
+        "rating": "10",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "0.163kg"
+    },
+    {
+        "names": "Tronsmart Element T6 Max SoundPulse Bluetooth Speaker 智能藍牙喇叭",
+        "rating": "8.7",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "麥克風數目:": "1",
+        "尺寸:": "140 x 140 x 193mm",
+        "重量:": "2.07kg"
+    },
+    {
+        "names": "Google Home Max Premium Smart Speaker 智慧型喇叭",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "4,290",
+        "water_price_min": "2,150",
+        "water_price_max": "2,580",
+        "產品特點:": "串流音樂"
+    },
+    {
+        "names": "Amazon Echo (2nd Generation) 智能喇叭",
+        "rating": "10",
+        "water_price_min": "495",
+        "water_price_max": "860",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能"
+    },
+    {
+        "names": "Amazon Echo (1st Generation) 智能喇叭",
+        "rating": "",
+        "water_price_min": "880",
+        "water_price_max": "880",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "1.064kg"
+    },
+    {
+        "names": "Xiaomi 小米 Yeelight 語音助手",
+        "rating": "",
+        "麥克風數目:": "6",
+        "產品特點:": "控制智能家居裝置"
+    },
+    {
+        "names": "Amazon Echo Dot (2nd Generation) 智能喇叭 (三腳插版本)",
+        "rating": "",
+        "產品特點:": "串流音樂,控制智能家居裝置,通話功能",
+        "重量:": "163kg"
+    },
+    {
+        "names": "天貓精靈 智能喇叭 X1",
+        "rating": "",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "麥克風數目:": "6",
+        "尺寸:": "126 x 83 x 83mm",
+        "重量:": "0.4kg"
+    },
+    {
+        "names": "Apple HomePod 澳洲版",
+        "rating": "2.0",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "麥克風數目:": "6",
+        "尺寸:": "172 x 142mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "Apple Homepod 美國版",
+        "rating": "",
+        "麥克風數目:": "6",
+        "尺寸:": "172 x 142mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "JBL Link View 8\" Virtual Assistant Speaker 智能喇叭",
+        "rating": "",
+        "頻率:": "60Hz-20kHz (-6dB)",
+        "重量:": "1.3kg"
+    },
+    {
+        "names": "Amazon Echo (三腳插版本) 智能喇叭",
+        "rating": "",
+        "產品特點:": "串流音樂,控制智能家居裝置",
+        "重量:": "1.064kg"
+    },
+    {
+        "names": "Amazon Echo Dot Smart Speaker With Clock + Alexa 智能喇叭",
+        "rating": "",
+        "產品特點:": "串流音樂,控制智能家居裝置"
+    },
+    {
+        "names": "Cowin DiDa 藍牙智能語音音箱",
+        "rating": "",
+        "產品特點:": "串流音樂,通話功能",
+        "尺寸:": "153 x 93 x 93mm",
+        "重量:": "0.473kg"
+    }
+]

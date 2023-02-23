@@ -1,0 +1,483 @@
+[
+    {
+        "names": "Nintendo Wii Sports Resort",
+        "rating": "9.2",
+        "hon_price_min": "100",
+        "hon_price_max": "100",
+        "種類:": "遊戲",
+        "遊戲類型:": "運動",
+        "遊戲人數:": "1-4",
+        "推出年月(大約):": "09年06月"
+    },
+    {
+        "names": "Nintendo WIIU 瑪利歐派對 10 Mario Party 10",
+        "rating": "10",
+        "water_price_min": "378",
+        "water_price_max": "378",
+        "種類:": "遊戲",
+        "遊戲類型:": "益智",
+        "遊戲人數:": "多",
+        "推出年月(大約):": "10-03-2015"
+    },
+    {
+        "names": "OEM 2合1 Wii AV線和有線感測器杆 Wii U AV線 有線感測器杆",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "種類:": "週邊配件",
+        "Wii U/Wii:": "Wii"
+    },
+    {
+        "names": "Nintendo WII U MARIO KART 8(日版)",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "378",
+        "water_price_min": "378",
+        "water_price_max": "378",
+        "種類:": "遊戲",
+        "日/美/歐版:": "日版"
+    },
+    {
+        "names": "Nintendo WIIU 超級瑪利歐 3D 世界 Super Mario 3D World",
+        "rating": "",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "4"
+    },
+    {
+        "names": "Nintendo WII U MARIO KART 8(美版)",
+        "rating": "8.0",
+        "water_price_min": "419",
+        "water_price_max": "419",
+        "種類:": "遊戲",
+        "日/美/歐版:": "美版"
+    },
+    {
+        "names": "Mcbazel Wii U平板 充電器 交流適配器 100-240V電源充電器 UK Plug",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "種類:": "週邊配件",
+        "Wii U/Wii:": "Wii U"
+    },
+    {
+        "names": "Nintendo Wii (美版)",
+        "rating": "10",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo Wii U Wii Fit U 活動量計",
+        "rating": "",
+        "water_price_min": "179",
+        "water_price_max": "179",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Nintendo WiiU 主機 (瑪利歐30週年)(32GB)",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo WIIU  MARIO KART 8 WII U DELUXE SET 32GB CONSOLE (BLACK)   美國版US Verion",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo Wii Party U 連Wii Remote Plus套裝 美版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲人數:": "4",
+        "推出年月(大約):": "2013-10"
+    },
+    {
+        "names": "Nintendo Fling Smash",
+        "rating": "",
+        "water_price_min": "310",
+        "water_price_max": "310",
+        "種類:": "遊戲",
+        "遊戲類型:": "益智",
+        "遊戲人數:": "1-2"
+    },
+    {
+        "names": "Nintendo WIIU FAMICOM REMIX 1+2 (日文版)",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "22-04-2014"
+    },
+    {
+        "names": "Bandai Namco 太鼓の達人Wii 超ごうか版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "音樂",
+        "遊戲人數:": "1-4",
+        "推出年月(大約):": "29-11-2012"
+    },
+    {
+        "names": "Nintendo WiiU 奇諾比奧隊長尋寶之旅  Captain Toad: Treasure Tracker 日版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "益智",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "11-11-2014"
+    },
+    {
+        "names": "Nintendo WiiU 主機 (瑪利歐賽車 8)(32GB)(白色) 日版",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo WIIU 星之卡比 彩虹詛咒 Kirby and the Rainbow Curse 日文版",
+        "rating": "7.0",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "3",
+        "推出年月(大約):": "22-1-2015"
+    },
+    {
+        "names": "MEMOREX Wii / WiiU Wireless Nunchuk - Black",
+        "rating": "",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Nintendo 任天堂明星大亂鬥 Wii U 大乱闘スマッシュブラザーズWii U Super Smash Bros. Wii U",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "4",
+        "推出年月(大約):": "2014-12-06"
+    },
+    {
+        "names": "Nintendo Wii Fit U w/Wii Balance Board accessory and Fit Meter",
+        "rating": "",
+        "種類:": "遊戲",
+        "日/美/歐版:": "美",
+        "推出年月(大約):": "2013-11"
+    },
+    {
+        "names": "Nintendo Wii U Console Sports Club Set(32GB)(White) - JPN (運動即玩組合)(32GB)(白) - 日版",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo MARIO 25週年版",
+        "rating": "6.0",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1 ~ 2"
+    },
+    {
+        "names": "MEMOREX Wii Remote Plus + wireless Nunchuk Combo (with MotionPlus )",
+        "rating": "",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Nintendo Wii Fit Plus 中文版",
+        "rating": "8.8",
+        "種類:": "遊戲",
+        "遊戲類型:": "運動",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "10年01月"
+    },
+    {
+        "names": "Nintendo 薩爾達傳說：天空之劍",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "2011年11月23日"
+    },
+    {
+        "names": "Nintendo WII U 幻影異聞錄 #FE 限定日文版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "角色扮演",
+        "遊戲人數:": "1人",
+        "推出年月(大約):": "2015-12-26"
+    },
+    {
+        "names": "Bandai Namco 太鼓の達人 決定版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "音樂",
+        "遊戲人數:": "4",
+        "推出年月(大約):": "2011年11月23日"
+    },
+    {
+        "names": "Bandai Namco WiiU 太鼓之達人 超大份量！日版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "其他",
+        "遊戲人數:": "4",
+        "推出年月(大約):": "18-11-2014"
+    },
+    {
+        "names": "Bandai Namco 太鼓の達人Wii みんなでパーティ☆3代目!(同梱版)",
+        "rating": "10",
+        "water_price_min": "340",
+        "water_price_max": "340",
+        "種類:": "遊戲",
+        "遊戲類型:": "音樂",
+        "遊戲人數:": "1-2"
+    },
+    {
+        "names": "Nintendo Wii U 怪物猎人限定版主機 (日版)",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Ubisoft Red Steel 2",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Nintendo Wii專用 Nunchuk(雙節棍)",
+        "rating": "",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Square Enix Final Fantasy 水晶編年史：水晶持有者",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "角式扮演",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Nintendo Wii (黑色) +Monster Hunter 3 套裝",
+        "rating": "8.0",
+        "water_price_min": "2,800",
+        "water_price_max": "2,800",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo WiiU 瑪利歐賽車 8 Mario Kart 8  (日文版)",
+        "rating": "6.0",
+        "種類:": "遊戲",
+        "遊戲類型:": "競速",
+        "遊戲人數:": "多",
+        "推出年月(大約):": "27-05-2014"
+    },
+    {
+        "names": "Nintendo New Super Mario Bros 中文版",
+        "rating": "9.5",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1-4",
+        "推出年月(大約):": "2010年7月03日"
+    },
+    {
+        "names": "Nintendo Wii U 黑色主機 - 日版(32GB)",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo Wii Party",
+        "rating": "9.2",
+        "種類:": "遊戲",
+        "日/美/歐版:": "日版",
+        "遊戲類型:": "益智"
+    },
+    {
+        "names": "Nintendo Wii (日版)",
+        "rating": "9.0",
+        "種類:": "主機"
+    },
+    {
+        "names": "Marvelous No More Heroes 2：Desperate Struggle",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Nintendo WiiU 奇諾比奧隊長尋寶之旅 Captain Toad: Treasure Tracker  日版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "益智",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "18-11-2014"
+    },
+    {
+        "names": "Nintendo WIIU 薩爾達無雙  Hyrule Warriors 日文版",
+        "rating": "10",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1-2",
+        "推出年月(大約):": "13-08-2014"
+    },
+    {
+        "names": "MEMOREX Wii MotionPlus Controller Black with built-in MotionPlus",
+        "rating": "",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "BANPRESTO 超級機器人大戰 NEO",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "戰棋",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Mcbazel 128MB Memory Card for Nintendo Wii",
+        "rating": "",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "LEVEL-5 閃電十一人 王牌前鋒 2012 終極版",
+        "rating": "9.3",
+        "種類:": "遊戲",
+        "遊戲類型:": "運動",
+        "遊戲人數:": "1-4"
+    },
+    {
+        "names": "Nintendo Wii U 普通版主機 (日版)",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo Wii Fit",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Nintendo WII U 幻影異聞錄 #FE 日文版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "角色扮演",
+        "遊戲人數:": "1人",
+        "推出年月(大約):": "2015-12-26"
+    },
+    {
+        "names": "Nintendo Wii U 32GB豪華版主機 (美版)",
+        "rating": "8.0",
+        "種類:": "主機"
+    },
+    {
+        "names": "Bandai Namco 超級戰隊大戰 群雄雲集",
+        "rating": "6.0",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1-2",
+        "推出年月(大約):": "2011年10月"
+    },
+    {
+        "names": "Square Enix Dragon Quest Monster Battle Road Victory",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "角式扮演",
+        "遊戲人數:": "1-4"
+    },
+    {
+        "names": "Nintendo WIIU 樂高：哈比人歷險記 LEGO :The Hobbit",
+        "rating": "",
+        "種類:": "遊戲",
+        "日/美/歐版:": "美版英文",
+        "遊戲類型:": "動作"
+    },
+    {
+        "names": "Nintendo 明星大亂鬥",
+        "rating": "10",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1 ~ 4",
+        "推出年月(大約):": "08年 1月"
+    },
+    {
+        "names": "Nintendo Black Wii Holiday Bundle with New Super Mario Bros",
+        "rating": "10",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo WIIU 超級瑪利歐製作大師  Super Mario Maker 日文版",
+        "rating": "",
+        "種類:": "遊戲",
+        "遊戲類型:": "動作",
+        "遊戲人數:": "1",
+        "推出年月(大約):": "8-9-2015"
+    },
+    {
+        "names": "Nintendo WiiU 主機 (瑪利歐賽車 8)(32GB)(黑色) 日版",
+        "rating": "8.0",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo Wii U 白色主機 - 日版(8GB)",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo PIKMIN 3 美版",
+        "rating": "",
+        "種類:": "遊戲",
+        "日/美/歐版:": "美",
+        "推出年月(大約):": "2013-08"
+    },
+    {
+        "names": "Nintendo Wii專用 Remote(控制器)",
+        "rating": "10",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Bandai Namco 茵樹奇異鳥",
+        "rating": "8.0",
+        "種類:": "遊戲",
+        "日/美/歐版:": "日",
+        "遊戲人數:": "1-4"
+    },
+    {
+        "names": "Nintendo WIIU Nunchuck controllers",
+        "rating": "",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Nintendo Mario Kart",
+        "rating": "9.3",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "種類:": "遊戲",
+        "遊戲類型:": "賽車",
+        "遊戲人數:": "4",
+        "推出年月(大約):": "08年04月"
+    },
+    {
+        "names": "Nintendo WIIU Mario Kart 8 Wii U Deluxe Set  美國版US verion",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo WiiU/WII i REMOTE PLUS (PEACH) (Yoshi)  WIIU/WII 控制器 PLUS  (碧姬) (耀西)  日版",
+        "rating": "",
+        "種類:": "週邊配件"
+    },
+    {
+        "names": "Nintendo Wii U 豪華版主機 (日版)",
+        "rating": "8.4",
+        "種類:": "主機"
+    },
+    {
+        "names": "Bandai Namco SD Gundam G Generation World",
+        "rating": "10",
+        "種類:": "遊戲",
+        "日/美/歐版:": "日",
+        "遊戲人數:": "1"
+    },
+    {
+        "names": "Nintendo Wii U Console Family Set(32GB)+ Wii Fit U (Shiro)-JPN (家庭超值即玩組合)(32GB) + Wii Fit U (白)- 日版",
+        "rating": "",
+        "種類:": "主機"
+    },
+    {
+        "names": "Nintendo Motion Plus",
+        "rating": "2.0",
+        "種類:": "週邊配件"
+    }
+]

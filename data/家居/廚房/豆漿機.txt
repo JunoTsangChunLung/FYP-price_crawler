@@ -1,0 +1,235 @@
+[
+    {
+        "names": "Mokkom 大容量破壁營養機 MK-600A",
+        "rating": "9.6",
+        "hon_price_min": "399",
+        "hon_price_max": "498",
+        "water_price_min": "388",
+        "water_price_max": "489",
+        "容量:": "0.6公升",
+        "重量:": "1.15kg"
+    },
+    {
+        "names": "Rasonic 樂信 智能煮磨機 RSM-H3505",
+        "rating": "",
+        "hon_price_min": "508",
+        "hon_price_max": "628",
+        "容量:": "0.4公升",
+        "頻率:": "50/60Hz",
+        "尺寸:": "165 x 118 x 302mm",
+        "重量:": "2.11kg"
+    },
+    {
+        "names": "BRUNO 多功能熱湯豆漿機 BAK802",
+        "rating": "10",
+        "hon_price_min": "580",
+        "hon_price_max": "698",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Mokkom 迷你多功能養生豆漿機 MK-240C",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "368",
+        "water_price_min": "270",
+        "water_price_max": "399",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Mokkom 全自動破壁豆漿機 MK-240A",
+        "rating": "7.3",
+        "hon_price_min": "240",
+        "hon_price_max": "399",
+        "water_price_min": "280",
+        "water_price_max": "338",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Mokkom 迷你豆漿機 MK-242",
+        "rating": "4.0",
+        "hon_price_min": "158",
+        "hon_price_max": "280",
+        "water_price_min": "240",
+        "water_price_max": "240",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Xiaomi 小米 迷你破璧豆漿機 YM-A68",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "499",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Thomson 多功能養生豆漿機 TM-HHB10W",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Turbo Italy 多功能養生豆漿機 TSM-392G",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "818",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "Selectpro 破壁豆漿機 SSM-04A",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "369"
+    },
+    {
+        "names": "SURE 石崎秀兒 \"小鳥籠\" 多功能料理破壁豆漿機 SHB-PM602",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "569",
+        "容量:": "0.6公升",
+        "頻率:": "50Hz",
+        "重量:": "1.5kg"
+    },
+    {
+        "names": "UNION 聯合 高速磨豆分渣機 MH-230",
+        "rating": "",
+        "hon_price_min": "6,370",
+        "hon_price_max": "6,370",
+        "隔渣:": "有",
+        "重量:": "23.5kg"
+    },
+    {
+        "names": "Peripop 多功能養生豆漿機 PP-HKMHB",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "358"
+    },
+    {
+        "names": "Mokkom 迷你奶茶豆漿機",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "428",
+        "water_price_min": "398",
+        "water_price_max": "398",
+        "容量:": "0.3公升",
+        "尺寸:": "95 x 112 x 230mm",
+        "重量:": "0.82kg"
+    },
+    {
+        "names": "Harrow 第三代迷你破壁豆漿機 HT-SM350",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "428",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Joyoung 豆漿機 DJ13C-D81SC",
+        "rating": "10"
+    },
+    {
+        "names": "OCooker 圈廚 迷你破壁輔食豆漿機 350ml",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "368",
+        "water_price_min": "590",
+        "water_price_max": "590",
+        "容量:": "0.35公升"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 豆漿濃湯機 HD2079",
+        "rating": "7.0",
+        "容量:": "1.1公升"
+    },
+    {
+        "names": "Haipai Touch 迷你豆漿機/膳食杯 HP-M30A",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "330",
+        "容量:": "0.3公升"
+    },
+    {
+        "names": "Goodway 威馬 升級專利版全自動智能豆漿機 GSM-168B",
+        "rating": "",
+        "hon_price_min": "869",
+        "hon_price_max": "869"
+    },
+    {
+        "names": "Turbo Italy 多功能養生豆漿機 TSM-391",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "348",
+        "容量:": "0.4公升"
+    },
+    {
+        "names": "Zhenmi 臻米 加熱破壁機迷你多功能豆漿機+果汁機",
+        "rating": "",
+        "water_price_min": "399",
+        "water_price_max": "399"
+    },
+    {
+        "names": "Primada 糊至尊五穀養生豆漿機 PS1350",
+        "rating": "",
+        "容量:": "1.3公升"
+    },
+    {
+        "names": "Homey 家美牌 多功能豆漿機 SM-02",
+        "rating": "10",
+        "hon_price_min": "398",
+        "hon_price_max": "399",
+        "容量:": "1.1-1.3公升"
+    },
+    {
+        "names": "MTOY 迷你豆漿榨汁多功能破壁機",
+        "rating": ""
+    },
+    {
+        "names": "Homey 家美牌 多功能豆漿機 SM-20",
+        "rating": "",
+        "容量:": "1.3公升"
+    },
+    {
+        "names": "Proluxury 普樂氏 0.35公升高效智能玻璃豆漿熱湯機 PSM002035",
+        "rating": "",
+        "容量:": "0.35公升",
+        "尺寸:": "188 x 163 x 338mm"
+    },
+    {
+        "names": "Supor 蘇泊爾 全自動多功能免濾豆漿機 DJ13B-W20E",
+        "rating": "",
+        "容量:": "1.3公升",
+        "隔渣:": "Yes"
+    },
+    {
+        "names": "AKAI 雅佳 全自動豆漿機 XSM-700A",
+        "rating": "",
+        "容量:": "1.8公升",
+        "隔渣:": "附濾網隔"
+    },
+    {
+        "names": "Homey 家美牌 多功能豆漿機 SB-30",
+        "rating": "",
+        "hon_price_min": "700",
+        "hon_price_max": "700"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 豆漿濃湯機 HD2061/07",
+        "rating": "6.0",
+        "容量:": "1.2公升"
+    },
+    {
+        "names": "Philips 飛利浦 Daily Collection 豆漿機 HD2052",
+        "rating": "8.0",
+        "容量:": "1.2公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Rongke 一按全自動煮熟多功能 豆漿機攪拌機",
+        "rating": "",
+        "容量:": "1.2公升",
+        "防滴漏:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 Avance Collection 豆漿及濃湯機 HD2078",
+        "rating": "",
+        "容量:": "1.0-1.3公升"
+    }
+]

@@ -1,0 +1,4363 @@
+[
+    {
+        "names": "Jonsbo 喬思伯 ATX Case 機箱 D41 Mesh Screen",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "899",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白 / 黑",
+        "尺寸:": "452 x 407 x 205mm",
+        "重量:": "6.78kg"
+    },
+    {
+        "names": "Antec Mid-Tower Gaming Case NX292",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "406 x 206 x 450mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "NZXT H9 Flow Mid-tower ATX Case",
+        "rating": "2.0",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black, White",
+        "尺寸:": "495 x 466 x 290mm",
+        "重量:": "12.1kg"
+    },
+    {
+        "names": "NZXT H9 Elite Mid-tower ATX Case",
+        "rating": "2.0",
+        "hon_price_min": "1,759",
+        "hon_price_max": "1,769",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "White, Black",
+        "尺寸:": "495 x 466 x 290mm",
+        "重量:": "13.1kg"
+    },
+    {
+        "names": "MSI MAG FORGE M100A M-ATX 壓克力機箱",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "388 x 200 x 423mm",
+        "重量:": "3.36kg"
+    },
+    {
+        "names": "ASUS ROG Hyperion GR701 Full-Tower 全塔式電競機殼",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "3,599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "9個",
+        "顏色:": "黑色",
+        "尺寸:": "268 x 639 x 659mm",
+        "重量:": "20.8kg"
+    },
+    {
+        "names": "MONTECH AIR 100 ARGB 純白版機殼",
+        "rating": "8.0",
+        "hon_price_min": "420",
+        "hon_price_max": "490",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "白色",
+        "尺寸:": "405 x 210 x 425mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "ASUS Prime AP201 MicroATX Case",
+        "rating": "8.0",
+        "hon_price_min": "570",
+        "hon_price_max": "640",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑, 白",
+        "尺寸:": "205 x 350 x 460mm",
+        "重量:": "5.8kg"
+    },
+    {
+        "names": "MSI MAG FORGE M100R Micro ATX Tower",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "388 x 200 x 423mm",
+        "重量:": "5.03kg"
+    },
+    {
+        "names": "Fractal Design North ATX Mid-tower",
+        "rating": "",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,020",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Chalk White / Charcoal Black / Chalk White TG Clear / Charcoal Black TG Dark",
+        "尺寸:": "447 x 215 x 469mm",
+        "重量:": "7.7kg"
+    },
+    {
+        "names": "MSI MEG PROSPECT 700RL 戰神機殼",
+        "rating": "2.0",
+        "hon_price_min": "2,950",
+        "hon_price_max": "2,999",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "585 x 257 x 537mm"
+    },
+    {
+        "names": "Corsair 4000D AIRFLOW Tempered Glass Mid-Tower ATX Case",
+        "rating": "10",
+        "hon_price_min": "560",
+        "hon_price_max": "640",
+        "直立/橫放:": "直立",
+        "顏色:": "Black, White",
+        "尺寸:": "453 x 230 x 466mm",
+        "重量:": "7.8kg"
+    },
+    {
+        "names": "HYTE Y60 Mid-Tower",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,590",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 白, 紅",
+        "尺寸:": "456 x 285 x 462mm"
+    },
+    {
+        "names": "Antec Performance P120 Crystal White Mid-Tower case",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "755",
+        "直立/橫放:": "直立",
+        "擴充槽:": "水平:7個; 垂直:3個",
+        "顏色:": "白",
+        "尺寸:": "476 x 234 x 485mm",
+        "重量:": "10.2kg"
+    },
+    {
+        "names": "NZXT H7 Flow Mid-Tower Airflow Case 機箱",
+        "rating": "",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,149",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "CM-H71FW-01 (White) / CM-H71FB-01 (Black) / CM-H71FG-01 (White/Black)",
+        "尺寸:": "505 x 230 x 480mm",
+        "重量:": "10.05kg"
+    },
+    {
+        "names": "Tecware Nexus AIR M2 High Airflow MATX 機箱",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "1個",
+        "顏色:": "黑 / 白",
+        "尺寸:": "350 x 200 x 390mm"
+    },
+    {
+        "names": "Cooler Master Silencio S400 Sakura Edition 直立式機殼",
+        "rating": "",
+        "hon_price_min": "715",
+        "hon_price_max": "730",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "4個",
+        "擴充槽:": "4個",
+        "顏色:": "白+粉红+灰",
+        "尺寸:": "418 x 210 x 408mm"
+    },
+    {
+        "names": "Lian Li O11 Dynamic MINI 機箱",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "800",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 白",
+        "尺寸:": "420 x 269.5 x 380mm"
+    },
+    {
+        "names": "HYTE x hololive Reveal Hakos Baelz Y60 PC Case",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "直立/橫放:": "直立",
+        "擴充槽:": "6 half-height + 3個",
+        "尺寸:": "456 x 285 x 462mm"
+    },
+    {
+        "names": "Tecware Flatline High Airflow MATX Case 電腦機箱",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑 / 白",
+        "尺寸:": "380 x 210 x 403mm"
+    },
+    {
+        "names": "Cooler Master MasterBox NR200P Mini-ITX Case",
+        "rating": "10",
+        "hon_price_min": "649",
+        "hon_price_max": "750",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "是",
+        "顏色:": "黑色 / 白色",
+        "尺寸:": "376 x 185 x 292mm incl. Protrusions，360 x 185 x 274mm excl. Protrusions",
+        "重量:": "5.1kg"
+    },
+    {
+        "names": "NZXT H7 Elite Premium Mid-Tower Case 機箱",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,688",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "CM-H71EW-01 (White) / CM-H71EB-01 (Black)",
+        "尺寸:": "505 x 230 x 480mm",
+        "重量:": "11.36kg"
+    },
+    {
+        "names": "Ssupd MESHROOM S Case",
+        "rating": "10",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,360",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "灰,黑,綠,藍",
+        "尺寸:": "247 x 167 x 362mm",
+        "重量:": "3.2kg"
+    },
+    {
+        "names": "Cooler Master MasterBox NR200P MAX Case",
+        "rating": "10",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,860",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "免工具組裝:": "是",
+        "顏色:": "Black / Grey",
+        "尺寸:": "377 x 185 x 292mm"
+    },
+    {
+        "names": "MONTECH AIR 100 ARGB 機殼",
+        "rating": "10",
+        "hon_price_min": "379",
+        "hon_price_max": "479",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑色",
+        "尺寸:": "405 x 210 x 425mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Jonsbo 喬思伯 M-ATX 機箱 D30",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "680",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 , 銀 ,白",
+        "尺寸:": "204 x 401 x 325mm",
+        "重量:": "3.9kg"
+    },
+    {
+        "names": "Fractal Design Pop Air ATX 機箱",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "700",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白色 / 黑色",
+        "尺寸:": "473.5 x 215 x 454mm",
+        "重量:": "8.7kg"
+    },
+    {
+        "names": "Fractal Design Meshify 2 RGB 機箱 FD-C-MES2A",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,380",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 + 2個",
+        "顏色:": "Black / White",
+        "尺寸:": "542 x 240 x 474 mm",
+        "重量:": "12.7kg"
+    },
+    {
+        "names": "MSI 電競機箱 MPG GUNGNIR 110R",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "430 x 215 x 450mm"
+    },
+    {
+        "names": "Antec NX200m",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "340",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "Black",
+        "尺寸:": "351 x 200 x 390mm",
+        "重量:": "3.51kg"
+    },
+    {
+        "names": "Ssupd Meshlicious Case",
+        "rating": "",
+        "hon_price_min": "920",
+        "hon_price_max": "920",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "黑 , 白",
+        "尺寸:": "245 x 166.4 x 360mm"
+    },
+    {
+        "names": "Jonsbo 喬思伯 M-ATX版型系列機箱 D31 MESH",
+        "rating": "10",
+        "hon_price_min": "490",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑, 白",
+        "尺寸:": "452 x 363 x 205mm",
+        "重量:": "5.8kg"
+    },
+    {
+        "names": "Fractal Design Torrent Compact E-ATX Case",
+        "rating": "10",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,080",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "3個",
+        "擴充槽:": "7個",
+        "尺寸:": "450 x 222 x 467mm"
+    },
+    {
+        "names": "Fractal Design Torrent Nano Mini-ITX Case",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "899",
+        "直立/橫放:": "直立",
+        "顏色:": "Black TG Dark / Black RGB TG Light / White TG Clear / Black Solid",
+        "尺寸:": "417 x 222 x 374mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Ssupd Meshlicious Case with Riser cable PCI-E 4.0 ver",
+        "rating": "",
+        "hon_price_min": "1,240",
+        "hon_price_max": "1,500",
+        "直立/橫放:": "直立/橫放",
+        "2.5吋磁碟槽/硬碟槽:": "(with full length GPU & ATX PSU) 2個",
+        "顏色:": "黑, 白",
+        "尺寸:": "245 x 166.4 x 360mm"
+    },
+    {
+        "names": "NZXT H5 Flow Compact Mid-tower Airflow Case 機箱",
+        "rating": "",
+        "hon_price_min": "860",
+        "hon_price_max": "899",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "White, Black",
+        "尺寸:": "464 x 227 x 446mm",
+        "重量:": "7.01kg"
+    },
+    {
+        "names": "Cooler Master MasterBox TD500 Mesh White",
+        "rating": "",
+        "hon_price_min": "670",
+        "hon_price_max": "739",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白",
+        "尺寸:": "493 x 217 x 469mm",
+        "重量:": "6.95kg"
+    },
+    {
+        "names": "MSI MAG SHIELD M300 Mini Tower Case",
+        "rating": "2.0",
+        "hon_price_min": "130",
+        "hon_price_max": "279",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "350 x 165 x 295mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "DeepCool MATREXX 40 3FS Micro-ATX Case",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "Black",
+        "尺寸:": "400 x 215 x 431mm",
+        "重量:": "5.52kg"
+    },
+    {
+        "names": "Corsair iCUE 5000X RGB QL Edition Mid-Tower ATX Case (CC-9011233-WW)",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,200",
+        "直立/橫放:": "直立",
+        "擴充槽:": "9個",
+        "顏色:": "White",
+        "尺寸:": "521 x 520 x 245mm",
+        "重量:": "14.1kg"
+    },
+    {
+        "names": "HYTE S-Tier Aesthetic ATX Case Y40",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,399",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "2個",
+        "顏色:": "紅/白/黑",
+        "尺寸:": "439 x 240 x 472mm​"
+    },
+    {
+        "names": "Antec 電腦機箱 P82 FLOW v2",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "454 x 215 x 480mm",
+        "重量:": "7.78kg"
+    },
+    {
+        "names": "Tecware Forge M2 Compact MATX ARGB Case 電腦機箱",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "350",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑 / 白",
+        "尺寸:": "350 x 200 x 390mm"
+    },
+    {
+        "names": "Antec 主機機箱 NX410",
+        "rating": "9.0",
+        "hon_price_min": "430",
+        "hon_price_max": "450",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑 , 白",
+        "尺寸:": "390 x 210 x 485 mm",
+        "重量:": "5.1kg"
+    },
+    {
+        "names": "Lian Li Q58 with PCIe 4.0 Riser cable 小型機箱",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,150",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "顏色:": "黑, 白",
+        "尺寸:": "342 x 170 x 250mm"
+    },
+    {
+        "names": "MONTECH Sky One Mini M-ATX Case",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "355 x 196 x 315mm",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "Corsair iCUE 4000D RGB AIRFLOW Mid-Tower Case (CC-9011240-WW)",
+        "rating": "",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,079",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 vertical + 2 horizontal個",
+        "顏色:": "Black",
+        "尺寸:": "466 x 453 x 230mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "MONTECH AIR 100 ARGB 純白版機殼",
+        "rating": "8.0",
+        "hon_price_min": "420",
+        "hon_price_max": "490",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "白色",
+        "尺寸:": "405 x 210 x 425mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "ASUS TUF Gaming GT502 雙艙機殼",
+        "rating": "",
+        "hon_price_min": "1,410",
+        "hon_price_max": "1,499",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "285 x 450 x 446 mm",
+        "重量:": "11kg"
+    },
+    {
+        "names": "Cooler Master MasterBox TD500 Mesh",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "710",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "493 x 217 x 469mm",
+        "重量:": "6.95kg"
+    },
+    {
+        "names": "Antec mATX Tower Case VSK-3000 Elite",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "Black",
+        "尺寸:": "410 x 180 x 373mm",
+        "重量:": "3.45kg"
+    },
+    {
+        "names": "InWin A1 Prime Mini-ITX Tower",
+        "rating": "",
+        "hon_price_min": "1,590",
+        "hon_price_max": "1,620",
+        "直立/橫放:": "直立",
+        "顏色:": "黑,白,粉紅",
+        "尺寸:": "含螺絲&手把高度: 357 x 224 x 273 mm",
+        "重量:": "6.14kg"
+    },
+    {
+        "names": "ASUS TUF Gaming GT301 ZAKU II EDITION 機箱",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "1,099",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "2個",
+        "擴充槽:": "7個"
+    },
+    {
+        "names": "Lian Li O11 Dynamic Mini Snow Edition",
+        "rating": "10",
+        "hon_price_min": "940",
+        "hon_price_max": "950",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "2個",
+        "顏色:": "雪白色",
+        "尺寸:": "420 x 269.5 x 380mm"
+    },
+    {
+        "names": "Lian Li Lancool III RGB 雙側透玻璃機殼",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "直立/橫放:": "直立",
+        "顏色:": "黑,白",
+        "尺寸:": "526 x 238 x 523mm"
+    },
+    {
+        "names": "NZXT Compact Mid-tower Case H510 Flow",
+        "rating": "2.0",
+        "hon_price_min": "668",
+        "hon_price_max": "699",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑, 白",
+        "尺寸:": "460 x 210 x 428mm"
+    },
+    {
+        "names": "Fractal Design Pop Mini Silent M-ATX Case",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "Black TG Clear Tint, Black Solid",
+        "尺寸:": "432 x 215 x 393mm",
+        "重量:": "6.23kg"
+    },
+    {
+        "names": "HYTE Revolt 3 Premium iTX Small Form Factor Case (淨機箱無火牛版本)",
+        "rating": "10",
+        "hon_price_min": "1,030",
+        "hon_price_max": "1,050",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "顏色:": "黑/白",
+        "尺寸:": "253 x 178 x 409mm"
+    },
+    {
+        "names": "Fractal Design North ATX Mid-tower",
+        "rating": "",
+        "hon_price_min": "1,010",
+        "hon_price_max": "1,020",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Chalk White / Charcoal Black / Chalk White TG Clear / Charcoal Black TG Dark",
+        "尺寸:": "447 x 215 x 469mm",
+        "重量:": "7.7kg"
+    },
+    {
+        "names": "NZXT H510 H Series PC Case",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "689",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 / 白 / 黑紅",
+        "尺寸:": "210 x 460 x 428mm",
+        "重量:": "6.6kg"
+    },
+    {
+        "names": "ASUS TUF Gaming GT301 Case",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "780",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "426 x 214 x 482mm",
+        "重量:": "7.2kg"
+    },
+    {
+        "names": "Antec Micro-ATX Gaming Case DP301M",
+        "rating": "8.0",
+        "hon_price_min": "330",
+        "hon_price_max": "379",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "455 x 260 x 485 mm (DWH)",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "MONTECH AIR 1000 LITE 入門版機殼",
+        "rating": "2.0",
+        "hon_price_min": "428",
+        "hon_price_max": "438",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "純白 / 純黑",
+        "尺寸:": "416 x 220 x 495mm",
+        "重量:": "6.72kg"
+    },
+    {
+        "names": "Lian Li O11 Dynamic MINI 機箱",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "800",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 白",
+        "尺寸:": "420 x 269.5 x 380mm"
+    },
+    {
+        "names": "Corsair iCUE 5000T RGB Tempered Glass Mid-Tower ATX PC Case (CC-9011230-WW/CC-9011231-WW)",
+        "rating": "",
+        "hon_price_min": "2,770",
+        "hon_price_max": "2,799",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "顏色:": "Black, White",
+        "尺寸:": "560 x 530 x 251",
+        "重量:": "14.53kg"
+    },
+    {
+        "names": "Abkoncore CNM202 機箱",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 / 白 / 粉紅",
+        "尺寸:": "205 x 380 x 430mm",
+        "重量:": "4.575kg"
+    },
+    {
+        "names": "Cooler Master MasterBox NR200P MAX Case",
+        "rating": "10",
+        "hon_price_min": "2,650",
+        "hon_price_max": "2,860",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "免工具組裝:": "是",
+        "顏色:": "Black / Grey",
+        "尺寸:": "377 x 185 x 292mm"
+    },
+    {
+        "names": "Cooler Master MasterBox 500",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "635",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色",
+        "尺寸:": "516 x 224 x 510mm"
+    },
+    {
+        "names": "Corsair iCUE 5000D RGB AIRFLOW Mid-Tower Case - True White (CC-9011243-WW)",
+        "rating": "",
+        "hon_price_min": "1,549",
+        "hon_price_max": "1,549",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 vertical + 2 horizontal個",
+        "顏色:": "White",
+        "尺寸:": "520 x 520 x 245mm",
+        "重量:": "12.4kg"
+    },
+    {
+        "names": "HYTE Y60 Mid-Tower",
+        "rating": "",
+        "hon_price_min": "1,530",
+        "hon_price_max": "1,590",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 白, 紅",
+        "尺寸:": "456 x 285 x 462mm"
+    },
+    {
+        "names": "Corsair 4000D AIRFLOW Tempered Glass Mid-Tower ATX Case",
+        "rating": "10",
+        "hon_price_min": "560",
+        "hon_price_max": "640",
+        "直立/橫放:": "直立",
+        "顏色:": "Black, White",
+        "尺寸:": "453 x 230 x 466mm",
+        "重量:": "7.8kg"
+    },
+    {
+        "names": "Corsair 7000D Airflow Full-Tower ATX PC Case (CC-9011219-WW/C-9011218-WW)",
+        "rating": "",
+        "hon_price_min": "1,508",
+        "hon_price_max": "1,588",
+        "直立/橫放:": "直立",
+        "顏色:": "黑,白",
+        "尺寸:": "600 x 550 x 248mm"
+    },
+    {
+        "names": "Phanteks ECLIPSE G360A Tempered Glass ATX Case",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "699",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black, White",
+        "尺寸:": "455 x 200 x 465mm",
+        "重量:": "6.51kg"
+    },
+    {
+        "names": "DarkFlash C285 Luxury ATX PC Gaming Case",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑 , 白",
+        "尺寸:": "420 x 285 x 410mm"
+    },
+    {
+        "names": "MONTECH Air 1000 Premium ARGB 白色機殼",
+        "rating": "10",
+        "hon_price_min": "510",
+        "hon_price_max": "539",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白色",
+        "尺寸:": "416 x 220 x 495mm"
+    },
+    {
+        "names": "MSI MAG FORGE 111R Middle Tower Case (CA-MAF111R)",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "409 x 214 x 485mm"
+    },
+    {
+        "names": "NZXT Small Form Factor Case - H1 V2",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,999",
+        "直立/橫放:": "直立",
+        "顏色:": "Matte Black, Matte White",
+        "尺寸:": "405 x 196 x 196mm",
+        "重量:": "7.6kg"
+    },
+    {
+        "names": "Lian Li Lancool III RGB 雙側透玻璃機殼",
+        "rating": "10",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "直立/橫放:": "直立",
+        "顏色:": "黑,白",
+        "尺寸:": "526 x 238 x 523mm"
+    },
+    {
+        "names": "Lian Li 11L Small Form Factor Case A4-H2O",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,280",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "顏色:": "黑、銀",
+        "尺寸:": "326 x 140 x 244mm"
+    },
+    {
+        "names": "Antec Gaming Cases DF600 FLUX",
+        "rating": "9.0",
+        "hon_price_min": "460",
+        "hon_price_max": "539",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "467 x 220 x 486 mm",
+        "重量:": "7.38kg"
+    },
+    {
+        "names": "Corsair 5000D AIRFLOW Tempered Glass Mid-Tower ATX PC Case CC-9011210-WW",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,139",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "顏色:": "Black",
+        "尺寸:": "520 x 245 x 520mm"
+    },
+    {
+        "names": "Cooler Master Cosmos Infinity 30th Anniversary C700M 機箱",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "7,999",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "尺寸:": "650 x 306 x 651mm",
+        "重量:": "25.8kg"
+    },
+    {
+        "names": "Corsair iCUE 5000D RGB AIRFLOW Mid-Tower Case - True White (CC-9011243-WW)",
+        "rating": "",
+        "hon_price_min": "1,549",
+        "hon_price_max": "1,549",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 vertical + 2 horizontal個",
+        "顏色:": "White",
+        "尺寸:": "520 x 520 x 245mm",
+        "重量:": "12.4kg"
+    },
+    {
+        "names": "Magniumgear NEO Qube 2 機箱",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "980",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 , 白",
+        "尺寸:": "270 x 450 x 460mm",
+        "重量:": "8.8kg"
+    },
+    {
+        "names": "NZXT Small Form Factor Case - H1",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "3,199",
+        "直立/橫放:": "直立",
+        "顏色:": "Matte White / Matte Black",
+        "尺寸:": "187 x 387.7 x 187.6mm",
+        "重量:": "6.53kg"
+    },
+    {
+        "names": "Cooler Master MasterBox MB320L ARGB",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "455",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑色",
+        "尺寸:": "435.5 x 217.5 x 410mm",
+        "重量:": "30.79kg"
+    },
+    {
+        "names": "MONTECH X3 MESH 機殼",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "458",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑 / 白",
+        "尺寸:": "370 x 210 x 480",
+        "重量:": "5.42kg"
+    },
+    {
+        "names": "DarkFlash C285 Luxury ATX PC Gaming Case",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑 , 白",
+        "尺寸:": "420 x 285 x 410mm"
+    },
+    {
+        "names": "Corsair Carbide Series 100R Mid-Tower Case CC-9011075-WW",
+        "rating": "8.0",
+        "hon_price_min": "279",
+        "hon_price_max": "310",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "yes",
+        "顏色:": "Black",
+        "尺寸:": "471mm x 200mm x 430mm",
+        "重量:": "4.8kg"
+    },
+    {
+        "names": "Cooler Master HAF 700 EVO Case",
+        "rating": "",
+        "hon_price_min": "3,630",
+        "hon_price_max": "3,650",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "Titanium Grey",
+        "尺寸:": "556 x 279 x 540mm"
+    },
+    {
+        "names": "MSI MPG GUNGNIR 110R WHITE 電競機箱",
+        "rating": "",
+        "hon_price_min": "789",
+        "hon_price_max": "999",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白",
+        "尺寸:": "430 x 215 x 450mm"
+    },
+    {
+        "names": "Phanteks Eclipse G500A DRGB Mid Tower (PH-EC500GA_D)",
+        "rating": "10",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "直立/橫放:": "直立",
+        "顏色:": "Black, White",
+        "尺寸:": "500 x 240 x 515mm",
+        "重量:": "10.68kg"
+    },
+    {
+        "names": "ASUS ROG Strix Helios EVA Edition",
+        "rating": "7.0",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,080",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "黑",
+        "尺寸:": "250 x 565 x 591mm",
+        "重量:": "18kg"
+    },
+    {
+        "names": "Antec Mid-Tower ATX Gaming Case NX360",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "378 x 210 x 472mm",
+        "重量:": "4kg"
+    },
+    {
+        "names": "Cooler Master MasterBox NR400 (光碟機版) MCB-NR400-KG5N-S00",
+        "rating": "10",
+        "hon_price_min": "440",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "411 x 210 x 411mm"
+    },
+    {
+        "names": "Xigmatek Gemini II Mini-Tower Case with Fixed RGB Fans",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "390 x 210 x 420mm"
+    },
+    {
+        "names": "Lian Li Lancool 216 Mid-tower 機箱",
+        "rating": "10",
+        "hon_price_min": "820",
+        "hon_price_max": "920",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑,白",
+        "尺寸:": "480.9 x 491.7 x 235mm"
+    },
+    {
+        "names": "Fractal Design Meshify 2 Compact Clear Tempered Glass",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "950",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "White",
+        "尺寸:": "424 x 210 x 475mm",
+        "重量:": "9.3kg"
+    },
+    {
+        "names": "Antec VSK10 (Plastic Window) 機箱",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "405 x 208 x 400mm",
+        "重量:": "3.73kg"
+    },
+    {
+        "names": "Antec P10-C ATX 機箱",
+        "rating": "9.0",
+        "hon_price_min": "590",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "477 x 220 x 486mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "ASUS ROG Strix Helios 中塔式電競機箱",
+        "rating": "2.0",
+        "hon_price_min": "2,030",
+        "hon_price_max": "2,399",
+        "直立/橫放:": "直立",
+        "尺寸:": "250 x 565 x 591mm",
+        "重量:": "18kg"
+    },
+    {
+        "names": "Antec P82 Silent",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "454 x 215 x 480mm",
+        "重量:": "7kg"
+    },
+    {
+        "names": "Thermaltake AH T200 小型強化玻璃機殼",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "直立/橫放:": "直立",
+        "擴充槽:": "5個",
+        "顏色:": "白色 / 黑色",
+        "尺寸:": "444.2 x 282 x 551.5mm",
+        "重量:": "10.8kg"
+    },
+    {
+        "names": "NZXT H5 Elite Premium Compact Mid-tower Case 機箱",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "2,399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "White, Black",
+        "尺寸:": "464 x 227 x 446mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Fractal Design Ridge 機箱",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "黑 , 白",
+        "尺寸:": "Vertical: 374 x 110 x 395mm, Horizontal: 360 x 375 x 115mm",
+        "重量:": "4.3kg"
+    },
+    {
+        "names": "MSI MAG Forge 100R",
+        "rating": "7.3",
+        "hon_price_min": "300",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "421 x 210 x 499mm",
+        "重量:": "5.64kg"
+    },
+    {
+        "names": "Fractal Design Meshify 2 Compact Lite",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "White, Black, RGB Black",
+        "尺寸:": "424 x 210 x 475mm",
+        "重量:": "9.3kg"
+    },
+    {
+        "names": "MONTECH AIR 1000 LITE 入門版機殼",
+        "rating": "2.0",
+        "hon_price_min": "428",
+        "hon_price_max": "438",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "純白 / 純黑",
+        "尺寸:": "416 x 220 x 495mm",
+        "重量:": "6.72kg"
+    },
+    {
+        "names": "Cooler Master MasterBox TD500 Mesh",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "710",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "493 x 217 x 469mm",
+        "重量:": "6.95kg"
+    },
+    {
+        "names": "DeepCool MATREXX 50 Minimalistic Mid-Tower Case",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "442 x 210 x 479mm",
+        "重量:": "7.4kg"
+    },
+    {
+        "names": "Cooler Master HAF Series 機箱 HAF500",
+        "rating": "6.0",
+        "hon_price_min": "780",
+        "hon_price_max": "830",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "免工具組裝:": "是",
+        "顏色:": "黑, 白",
+        "尺寸:": "516 x 224 x 510mm"
+    },
+    {
+        "names": "Corsair iCUE 4000D RGB AIRFLOW Mid-Tower Case (CC-9011240-WW)",
+        "rating": "",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,079",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 vertical + 2 horizontal個",
+        "顏色:": "Black",
+        "尺寸:": "466 x 453 x 230mm",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Cooler Master MasterBox Q300L RETRO Micro-ATX Case",
+        "rating": "",
+        "hon_price_min": "455",
+        "hon_price_max": "480",
+        "直立/橫放:": "直立/橫放",
+        "擴充槽:": "4個",
+        "顏色:": "白色",
+        "尺寸:": "387 x 230 x 381mm",
+        "重量:": "3.7kg"
+    },
+    {
+        "names": "1st Player PC Gaming Case Mi6",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑, 白",
+        "尺寸:": "205 x 350 x 460mm",
+        "重量:": "5.8kg"
+    },
+    {
+        "names": "Gigabyte ATX Gaming Case C200 Glass",
+        "rating": "10",
+        "hon_price_min": "249",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "480 x 210 x 435mm",
+        "重量:": "7.24kg"
+    },
+    {
+        "names": "SilverStone Fara R1 Pro 鋼化玻璃ARGB中塔式ATX機殼",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑, 白",
+        "尺寸:": "207 x 446 x 390mm",
+        "重量:": "5.37kg"
+    },
+    {
+        "names": "Geometric Future King Arthur 機箱",
+        "rating": "2.0",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "3個",
+        "顏色:": "黑黃 , 白",
+        "尺寸:": "395 x 215 x 410mm"
+    },
+    {
+        "names": "Corsair iCUE 5000X RGB Tempered Glass Mid-Tower ATX PC Smart Case CC-9011212-WW",
+        "rating": "10",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,419",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "顏色:": "Black",
+        "尺寸:": "520 x 245 x 520mm",
+        "重量:": "13.84kg"
+    },
+    {
+        "names": "Fractal Design Define 7 Compact Light Tempered Glass",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "940",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "415 x 210 x 451mm",
+        "重量:": "8.76kg"
+    },
+    {
+        "names": "MONTECH Air 1000 Premium ARGB 白色機殼",
+        "rating": "10",
+        "hon_price_min": "510",
+        "hon_price_max": "539",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白色",
+        "尺寸:": "416 x 220 x 495mm"
+    },
+    {
+        "names": "Antec Dark Cube ITX Case",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,490",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "512 x 240 x 406mm",
+        "重量:": "10.2kg"
+    },
+    {
+        "names": "Lian Li Lancool-II-Mesh-rgb",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑, 白",
+        "尺寸:": "478 x 229 x 494mm"
+    },
+    {
+        "names": "DarkFlash DLM 22 機箱",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "尺寸:": "360 x 208 x 425mm"
+    },
+    {
+        "names": "1st Player SP7 Emotion View ATX 機箱",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白",
+        "尺寸:": "380 x 308 x 425mm",
+        "重量:": "7.9kg"
+    },
+    {
+        "names": "Corsair iCUE 5000T RGB Tempered Glass Mid-Tower ATX PC Case (CC-9011230-WW/CC-9011231-WW)",
+        "rating": "",
+        "hon_price_min": "2,770",
+        "hon_price_max": "2,799",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "顏色:": "Black, White",
+        "尺寸:": "560 x 530 x 251",
+        "重量:": "14.53kg"
+    },
+    {
+        "names": "NZXT H7 Mid-Tower Case 機箱",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,099",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "CM-H71BW-01 (White) / CM-H71BB-01 (Black) / CM-H71BG-01 (White/Black)",
+        "尺寸:": "505 x 230 x 480mm",
+        "重量:": "10.26kg"
+    },
+    {
+        "names": "Corsair iCUE 4000D RGB AIRFLOW Mid-Tower Case - True White (CC-9011241-WW)",
+        "rating": "",
+        "hon_price_min": "1,079",
+        "hon_price_max": "1,079",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 vertical + 2 horizontal個",
+        "顏色:": "White",
+        "尺寸:": "466 x 453 x 230",
+        "重量:": "8.1kg"
+    },
+    {
+        "names": "Razer Tomahawk Mini-ITX PC Case",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,750",
+        "直立/橫放:": "直立",
+        "顏色:": "黑色",
+        "尺寸:": "321.5 x 206.2 x 367.2mm",
+        "重量:": "5.8kg"
+    },
+    {
+        "names": "Thermaltake S100 TG 雪白版小型強化玻璃機殼",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "尺寸:": "411 x 220 x 441mm",
+        "重量:": "6.1kg"
+    },
+    {
+        "names": "Antec NX700",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "440 x 220 x 492mm"
+    },
+    {
+        "names": "NZXT H510 Elite H Series PC Case",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,150",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 / 白",
+        "尺寸:": "210 x 460 x 428mm",
+        "重量:": "7.5kg"
+    },
+    {
+        "names": "Argon ONE M.2 Case for Raspberry Pi 4 (ARGON40)",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "直立/橫放:": "橫放"
+    },
+    {
+        "names": "Xigmatek Oreo Arctic Mini-Tower Case with RGB Fans",
+        "rating": "10",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "白",
+        "尺寸:": "375 x 210 x 420mm"
+    },
+    {
+        "names": "Xigmatek Gemini II Arctic Mini-Tower Case with Fixed RGB Fans",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "白",
+        "尺寸:": "390 x 210 x 420mm"
+    },
+    {
+        "names": "Abkoncore SuitMaster 332S ATX 機箱",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "570",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑, 白",
+        "尺寸:": "208 x 448 x 469mm",
+        "重量:": "6.9kg"
+    },
+    {
+        "names": "SilverStone ALTA G1M 直立式機殼 SST-ALG1",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "850",
+        "直立/橫放:": "直立",
+        "顏色:": "Black / White",
+        "尺寸:": "200 x 507 x 307mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Antec Micro-ATX Gaming Case DP301M",
+        "rating": "8.0",
+        "hon_price_min": "330",
+        "hon_price_max": "379",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "455 x 260 x 485 mm (DWH)",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "Darkflash Luxury M-ATX Tempered Glass Case DLM 21 Mesh",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 白, 粉红, 粉藍",
+        "尺寸:": "376 x 208 x 405mm",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "Antec DP502 FLUX Mid-Tower Gaming Case",
+        "rating": "10",
+        "hon_price_min": "539",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "3個",
+        "擴充槽:": "7個",
+        "尺寸:": "463 x 220 x 486mm"
+    },
+    {
+        "names": "Cooler Master MasterBox Q500L",
+        "rating": "9.0",
+        "hon_price_min": "380",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立/橫放",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "386 x 230 x 381mm"
+    },
+    {
+        "names": "Fractal Design Meshify C Tempered Glass 機箱",
+        "rating": "10",
+        "hon_price_min": "720",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "尺寸:": "413 x 217 x 453mm",
+        "重量:": "6.45kg"
+    },
+    {
+        "names": "Xigmatek LUX M Mini-Tower Case (EN48540)",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "367 x 210 x 420mm"
+    },
+    {
+        "names": "Tecware VXR 機箱",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "405 x 255 x 435mm",
+        "重量:": "7.5kg"
+    },
+    {
+        "names": "Corsair iCUE 4000X RGB Tempered Glass Mid-Tower ATX Case",
+        "rating": "10",
+        "hon_price_min": "870",
+        "hon_price_max": "938",
+        "直立/橫放:": "直立",
+        "顏色:": "Black, White",
+        "尺寸:": "453mm x 230mm x 466mm",
+        "重量:": "7.8kg"
+    },
+    {
+        "names": "Cooler Master Elite 300 (TG Version) 機箱",
+        "rating": "",
+        "hon_price_min": "338",
+        "hon_price_max": "388",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "413.5 x 203.5 x 425mm",
+        "重量:": "6.4kg"
+    },
+    {
+        "names": "AITC Kingsman Gaming CuBic Case",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑, 白, 粉紅, 粉藍",
+        "尺寸:": "365 x 210 x 422mm"
+    },
+    {
+        "names": "GC-system Power Train 側透 ATX大機箱",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "380 x 190 x 439mm",
+        "重量:": "4.6kg"
+    },
+    {
+        "names": "Fractal Design Define 7 Compact White TG Clear Tint (FD-C-DEF7C-04)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "940",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "427 x 210 x 474 mm",
+        "重量:": "8.76kg"
+    },
+    {
+        "names": "Lian Li 電腦機箱 O11 Dynamic XL ROG",
+        "rating": "",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,690",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "Black / White / Silver",
+        "尺寸:": "471 x 285 x 513mm"
+    },
+    {
+        "names": "AeroCool Atomic ARGB Mini Tower Case",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4+2個",
+        "顏色:": "黑",
+        "尺寸:": "230 x 390 x 403.5mm"
+    },
+    {
+        "names": "Fractal Design Meshify C 機箱",
+        "rating": "",
+        "hon_price_min": "698",
+        "hon_price_max": "720",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "413 x 217 x 453mm",
+        "重量:": "6.16kg"
+    },
+    {
+        "names": "Corsair 4000D Tempered Glass Mid-Tower ATX Case",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "638",
+        "直立/橫放:": "直立",
+        "顏色:": "Black, White",
+        "尺寸:": "453 x 230 x 466mm",
+        "重量:": "7.8kg"
+    },
+    {
+        "names": "Corsair 275R Airflow Tempered Glass Mid-Tower Gaming Case CC-9011181-WW",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "457 x 216 x 455mm",
+        "重量:": "6.9kg"
+    },
+    {
+        "names": "Corsair 7000X RGB Tempered Glass Full-Tower ATX PC Case (CC-9011227-WW/CC-9011226-WW)",
+        "rating": "",
+        "hon_price_min": "1,848",
+        "hon_price_max": "1,998",
+        "直立/橫放:": "直立",
+        "顏色:": "黑,白",
+        "尺寸:": "600 x 550 x 248mm"
+    },
+    {
+        "names": "Phanteks EVOLV SHIFT XT",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,450",
+        "直立/橫放:": "直立",
+        "顏色:": "黑,銀",
+        "尺寸:": "371 x 173 x 244mm"
+    },
+    {
+        "names": "AeroCool Hexform-G-BK-V2 Mini Tower Case",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "200 x 375 x 306mm"
+    },
+    {
+        "names": "InWin B1 Pure Mini ITX Tower Case",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "810",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "白+原木合板",
+        "尺寸:": "238 x 302 x 108 mm",
+        "重量:": "1.65kg"
+    },
+    {
+        "names": "Corsair Crystal Series 280X Tempered Glass Micro ATX Case CC-9011136-WW",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "879",
+        "直立/橫放:": "直立",
+        "顏色:": "Black or White",
+        "尺寸:": "398 x 276 x 351mm"
+    },
+    {
+        "names": "Cooler Master MasterBox 520 ARGB 機箱",
+        "rating": "",
+        "hon_price_min": "675",
+        "hon_price_max": "685",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "是",
+        "顏色:": "黑/白",
+        "尺寸:": "502 x 210 x 498mm",
+        "重量:": "7.44kg"
+    },
+    {
+        "names": "Jonsbo 喬思伯 ATX 機箱 D40",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "750",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "3個",
+        "顏色:": "黑 , 白",
+        "尺寸:": "204 x 401 x 386mm"
+    },
+    {
+        "names": "Lian Li Q58X3",
+        "rating": "",
+        "hon_price_min": "940",
+        "hon_price_max": "960",
+        "適用主機板規格:": "Mini-ITX",
+        "尺寸:": "342 x 170 x 250mm"
+    },
+    {
+        "names": "Thermaltake Core G3",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "650",
+        "直立/橫放:": "直立/橫放",
+        "尺寸:": "454 x 140 x 371 mm",
+        "重量:": "4.2kg"
+    },
+    {
+        "names": "Fractal Design Meshify 2 XL Light Tempered Glass 機箱 FD-C-MES2X-02",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "直立/橫放:": "直立",
+        "擴充槽:": "9 + 3個",
+        "顏色:": "Black",
+        "尺寸:": "600 x 240 x 566 mm",
+        "重量:": "14.1kg"
+    },
+    {
+        "names": "Antec Constellation Series Compact PC Chassis DRACO 10",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "389",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "Black",
+        "尺寸:": "444 x 220 x 410mm",
+        "重量:": "5.3kg"
+    },
+    {
+        "names": "MONTECH X3 GLASS 機殼",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "458",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑 / 白",
+        "尺寸:": "370 x 210 x 480",
+        "重量:": "5.42kg"
+    },
+    {
+        "names": "Phanteks Enthoo Evolv Shift Air 機箱",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "980",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 灰",
+        "尺寸:": "186 x 470 x 274mm",
+        "重量:": "6.6kg"
+    },
+    {
+        "names": "Phanteks Eclipse P300 Tempered Glass",
+        "rating": "",
+        "hon_price_min": "518",
+        "hon_price_max": "550",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "200 x 450 x 400mm"
+    },
+    {
+        "names": "Thermaltake The Tower 100 全景直立式迷你機殼",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "直立/橫放:": "直立",
+        "擴充槽:": "2個",
+        "顏色:": "黑色 / 白色 / 尊爵金 / 松石綠 / 競速綠",
+        "尺寸:": "462.8 x 266 x 266mm",
+        "重量:": "6.1kg"
+    },
+    {
+        "names": "MONTECH Air 1000 Premium ARGB 黑色機殼",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "520",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色",
+        "尺寸:": "416 x 220 x 495mm"
+    },
+    {
+        "names": "Lian Li Lancool-II-Mesh-rgb Snow Edition",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "829",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "雪白色",
+        "尺寸:": "478 x 229 x 494mm"
+    },
+    {
+        "names": "Corsair iCUE 5000D RGB AIRFLOW Mid-Tower Case (CC-9011242-WW)",
+        "rating": "",
+        "hon_price_min": "1,549",
+        "hon_price_max": "1,549",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 vertical + 2 horizontal個",
+        "顏色:": "Black",
+        "尺寸:": "520 x 520 x 245mm",
+        "重量:": "12.4kg"
+    },
+    {
+        "names": "Cooler Master MasterBox NR200P Color",
+        "rating": "",
+        "hon_price_min": "715",
+        "hon_price_max": "775",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "是",
+        "顏色:": "Purple / Orange / Cyan / Pink",
+        "尺寸:": "376 x 185 x 292mm incl. Protrusions / 360 x 185 x 274mm excl. Protrusions",
+        "重量:": "5.93kg"
+    },
+    {
+        "names": "SilverStone SUGO 14 Mini-ITX cube chassis SST-SG14B",
+        "rating": "",
+        "hon_price_min": "629",
+        "hon_price_max": "640",
+        "直立/橫放:": "橫放",
+        "3.5吋磁碟槽/硬碟槽:": "2個",
+        "顏色:": "Black",
+        "尺寸:": "247 x 215 x 368.1mm"
+    },
+    {
+        "names": "MSI MAG VAMPIRIC 100R 電競機箱",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "350",
+        "直立/橫放:": "直立",
+        "尺寸:": "390 x 205 x 457mm",
+        "重量:": "4.7kg"
+    },
+    {
+        "names": "GTR S608",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "220",
+        "直立/橫放:": "直立/橫放",
+        "擴充槽:": "4個",
+        "免工具組裝:": "否",
+        "顏色:": "黑",
+        "尺寸:": "W135mm x D410mm x H315mm"
+    },
+    {
+        "names": "SilverStone E.ATX HTPC Case GD07 SST-GD07B-C",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,330",
+        "直立/橫放:": "橫放",
+        "2.5吋磁碟槽/硬碟槽:": "2個",
+        "顏色:": "Black",
+        "尺寸:": "440 x 175 x 435mm",
+        "重量:": "7kg"
+    },
+    {
+        "names": "Antec VSK3000B U3",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "239",
+        "直立/橫放:": "直立",
+        "尺寸:": "365 x 173 x 393mm",
+        "重量:": "4.1kg"
+    },
+    {
+        "names": "Xigmatek Gemini Arctic Rainbow LED M-ATX PC Case",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "白 , 粉红",
+        "尺寸:": "403 x 200 x 397mm"
+    },
+    {
+        "names": "InWin A3 Mini Tower",
+        "rating": "10",
+        "hon_price_min": "699",
+        "hon_price_max": "720",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "401 x 215 x 347mm",
+        "重量:": "5.24kg"
+    },
+    {
+        "names": "Fractal Design Define 7 Gray Solid (FD-C-DEF7A-07)",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,250",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "2個",
+        "擴充槽:": "7+2個",
+        "顏色:": "Gray"
+    },
+    {
+        "names": "Cooler Master COSMOS C700M",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,180",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "銀",
+        "尺寸:": "650 x 306 x 651mm",
+        "重量:": "23.8kg"
+    },
+    {
+        "names": "Cooler Master MasterCase EG200",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,780",
+        "直立/橫放:": "直立",
+        "顏色:": "黑色",
+        "尺寸:": "383 x 140 x 208mm",
+        "重量:": "5.42kg"
+    },
+    {
+        "names": "be quiet Silent Base 601 Window 機箱",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "直立/橫放:": "直立",
+        "尺寸:": "553 x 245 x 502mm",
+        "重量:": "11.22kg"
+    },
+    {
+        "names": "MSI MAG FORGE 112R Mid-Tower Case",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "409 x 214 x 485mm",
+        "重量:": "5.26kg"
+    },
+    {
+        "names": "AeroCool CS-105 Mini Tower Case",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "190",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "187 x 361 x 355mm",
+        "重量:": "2.8kg"
+    },
+    {
+        "names": "Fractal Design Pop XL Silent Black TG Clear (FD-C-POS1X-02)",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "830",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "Black TG Clear",
+        "尺寸:": "522 x 230 x 520mm",
+        "重量:": "10.4kg"
+    },
+    {
+        "names": "InWin Mid Tower N127",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "940",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "476 x 210 x 445mm",
+        "重量:": "8.7kg"
+    },
+    {
+        "names": "MSI MPG SEKIRA 100P 電競機箱",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "850",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "420 x 215 x 475mm"
+    },
+    {
+        "names": "InWin A5 Mid Tower",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "780",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "399 x 215 x 407mm",
+        "重量:": "5.86kg"
+    },
+    {
+        "names": "Thermaltake The Tower 100 Racing Green Mini ITX Chassis",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "740",
+        "直立/橫放:": "直立",
+        "顏色:": "Racing Green / Turquoise",
+        "尺寸:": "462.8 x 266 x 266mm",
+        "重量:": "6.1kg"
+    },
+    {
+        "names": "Cooler Master CMP 520 ARGB ATX PC Case",
+        "rating": "",
+        "hon_price_min": "475",
+        "hon_price_max": "475",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色",
+        "尺寸:": "439 x 204 x 463mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "SilverStone FARA R1 鋼化玻璃中塔式ATX機殼",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "320",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "207 x 446 x 390mm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Cooler Master Silencio S400 TG 直立式機殼",
+        "rating": "",
+        "hon_price_min": "595",
+        "hon_price_max": "670",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "418 x 210 x 408",
+        "重量:": "7.24kg"
+    },
+    {
+        "names": "AeroCool Mini Tower Case 機箱 CS-107",
+        "rating": "",
+        "hon_price_min": "259",
+        "hon_price_max": "289",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "197.5 x 353 x 340.6mm"
+    },
+    {
+        "names": "Thermaltake S100 TG 小型強化玻璃機殼",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "411 x 220 x 441mm",
+        "重量:": "6.1kg"
+    },
+    {
+        "names": "GC-system Tank Plus 側透 ATX大機箱",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "380 x 205 x 423mm",
+        "重量:": "4.8kg"
+    },
+    {
+        "names": "Corsair iCUE 4000D RGB AIRFLOW QL Edition Mid-Tower ATX Case - True White (CC-9011232-WW)",
+        "rating": "",
+        "hon_price_min": "1,069",
+        "hon_price_max": "1,213",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 vertical + 2 horizontal個",
+        "顏色:": "White",
+        "尺寸:": "466 x 453 x 230mm",
+        "重量:": "8.35kg"
+    },
+    {
+        "names": "InWin 4-Bay Mini Server Tower IW-MS04",
+        "rating": "",
+        "hon_price_min": "1,090",
+        "hon_price_max": "1,090",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "1個",
+        "尺寸:": "276.1 x 210 x 230mm",
+        "重量:": "4.41kg"
+    },
+    {
+        "names": "Gigabyte AORUS C500 GLASS 機殼",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "黑色",
+        "尺寸:": "548 x 250 x 482mm (Within ± 1% error)",
+        "重量:": "13.4kg"
+    },
+    {
+        "names": "MSI MAG VAMPIRIC 300R PACIFIC BLUE 藍色電競機箱 (CA-MAV30RB)",
+        "rating": "",
+        "hon_price_min": "838",
+        "hon_price_max": "999",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Pacific Blue",
+        "尺寸:": "471 x 231 x 497mm"
+    },
+    {
+        "names": "1st Player Gaming Case(3風扇版) V2-A",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "340 x 190 x 447MM",
+        "重量:": "4.3kg"
+    },
+    {
+        "names": "InWin Chopin Pro Mini ITX 機箱",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "鈦灰",
+        "尺寸:": "244 x 84 x 217mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "SilverStone 煙囪效應設計Micro-ATX直立式機殼 SST-ALG1M",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "888",
+        "直立/橫放:": "直立",
+        "顏色:": "Black / White",
+        "尺寸:": "200 x 507 x 307mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "1st Player Gaming Case X4-M",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "尺寸:": "375 x 210 x 423mm",
+        "重量:": "4.5kg"
+    },
+    {
+        "names": "Antec VSK-4000",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "240",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "N/A",
+        "顏色:": "黑色",
+        "尺寸:": "H440mm x W185mm x D412mm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Corsair iCUE 465X RGB Mid-Tower ATX Smart Case CC-9011188-WW",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,180",
+        "直立/橫放:": "直立",
+        "顏色:": "Black / White",
+        "尺寸:": "467 x 216 x 455mm",
+        "重量:": "8kg"
+    },
+    {
+        "names": "Xigmatek PC Case SG02",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "139",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "2個",
+        "擴充槽:": "7個",
+        "尺寸:": "385 x 185 x 410mm"
+    },
+    {
+        "names": "NZXT H210 強化玻璃側板機箱",
+        "rating": "10",
+        "hon_price_min": "599",
+        "hon_price_max": "789",
+        "直立/橫放:": "直立",
+        "顏色:": "BK / WH",
+        "尺寸:": "210 x 349 x 372mm",
+        "重量:": "5.9kg"
+    },
+    {
+        "names": "HYTE Revolt 3 Premium iTX Small Form Factor Case with 700W 80+ Gold PSU",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "1,980",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "顏色:": "黑/白",
+        "尺寸:": "253 x 178 x 409mm"
+    },
+    {
+        "names": "SilverStone PS15B-RGB 強化玻璃側板機箱",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "192 x 381 x 351mm",
+        "重量:": "3.52kg"
+    },
+    {
+        "names": "Cooler Master MasterBox MB400L TG mATX Case",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "398",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "411 x 218 x 410mm",
+        "重量:": "5.47kg"
+    },
+    {
+        "names": "Cooler Master Masterbox NR200P (SAKURA 櫻花限定版)",
+        "rating": "",
+        "hon_price_min": "820",
+        "hon_price_max": "820",
+        "直立/橫放:": "直立",
+        "顏色:": "粉红",
+        "尺寸:": "376 x 185 x 292mm",
+        "重量:": "5.1kg"
+    },
+    {
+        "names": "be quiet PURE BASE 500 Window BGW34",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "重量:": "7.53kg"
+    },
+    {
+        "names": "GTR ITX 系列機箱 S102",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "330",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "黑, 銀",
+        "尺寸:": "橫放: 245 x 230 x 105mm, 直放: 130 x 230 x 250mm"
+    },
+    {
+        "names": "MONTECH Air 1000 Silent 機殼",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "459",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色",
+        "尺寸:": "416 x 220 x 495mm"
+    },
+    {
+        "names": "Corsair Crystal Series 280X RGB Tempered Glass Micro ATX Case CC-9011135-WW",
+        "rating": "",
+        "hon_price_min": "1,289",
+        "hon_price_max": "1,299",
+        "直立/橫放:": "直立",
+        "尺寸:": "398 x 276 x 351mm",
+        "重量:": "7.1kg"
+    },
+    {
+        "names": "Phanteks Enthoo Elite 直立式全塔機箱",
+        "rating": "",
+        "hon_price_min": "7,000",
+        "hon_price_max": "7,480",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "(6 set) 13個",
+        "尺寸:": "270 x 750 x 615mm"
+    },
+    {
+        "names": "MSI MPG SEKIRA 500X PC 機箱",
+        "rating": "",
+        "hon_price_min": "1,830",
+        "hon_price_max": "1,850",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "530 x 232 x 545.5mm",
+        "重量:": "19.85kg"
+    },
+    {
+        "names": "Cooler Master MasterBox MB400L w/o ODD TG",
+        "rating": "6.0",
+        "hon_price_min": "330",
+        "hon_price_max": "398",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑色",
+        "尺寸:": "411 x 218 x 410mm",
+        "重量:": "5.47kg"
+    },
+    {
+        "names": "Xigmatek LUX A Shadow Middle Tower Case",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "539",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "銀灰",
+        "尺寸:": "380 x 210 x 485mm"
+    },
+    {
+        "names": "AIGO darkFlash DLV 22 機箱",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "顏色:": "Black, Mint Green, Pink, White",
+        "尺寸:": "440 x 215 x 430mm"
+    },
+    {
+        "names": "SilverStone RVZ03 薄型小機殼",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "848",
+        "直立/橫放:": "直立",
+        "尺寸:": "382 x 105 x 364mm",
+        "重量:": "4.05kg"
+    },
+    {
+        "names": "Xigmatek Aquarius Plus Mid Tower",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "849",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "415 x 280 x 427mm"
+    },
+    {
+        "names": "GTR 小型組裝 Mini Tower 6828",
+        "rating": "",
+        "hon_price_min": "190",
+        "hon_price_max": "220",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "175 x 410 x 370mm"
+    },
+    {
+        "names": "Abkoncore Xtreme MX MATX Case (兩把RGB風扇/透側)",
+        "rating": "8.0",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "直立/橫放:": "直立",
+        "顏色:": "BLACK",
+        "尺寸:": "185 x 360 x 370mm",
+        "重量:": "2.5kg"
+    },
+    {
+        "names": "Lian Li LanCool 205 Mesh 機箱",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "720",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "415 x 205 x 485mm"
+    },
+    {
+        "names": "Cooler Master MasterBox E500L",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "345",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色機箱，紅/藍邊",
+        "尺寸:": "490 x 215 x 426mm"
+    },
+    {
+        "names": "Cougar Archon 2 RGB ARGB Mid Tower Case with Crystalline Tempered Glass",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "390",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑 , 白",
+        "尺寸:": "210 x 470 x 380mm"
+    },
+    {
+        "names": "Antec NX Series Mid Tower Gaming Case NX420",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "416 x 221 x 463mm",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Lian Li Portable Mini-ITX Case TU150",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "855",
+        "直立/橫放:": "直立",
+        "顏色:": "Silver / Black"
+    },
+    {
+        "names": "Xigmatek Gaming X ARGB Mid Tower ATX Case",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "320",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "372 x 210 x 480mm"
+    },
+    {
+        "names": "Metallic Gear Neo Mini V2 機箱",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "顏色:": "Black / Silver",
+        "尺寸:": "190 x 355 x 380mm",
+        "重量:": "4.9kg"
+    },
+    {
+        "names": "InWin Airforce Mid Tower Case 自組機箱",
+        "rating": "",
+        "hon_price_min": "1,440",
+        "hon_price_max": "1,440",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "黑, 白",
+        "尺寸:": "537 x 270 x 528 mm",
+        "重量:": "6.9kg"
+    },
+    {
+        "names": "AeroCool Menace Saturn RGB Mid Tower Case",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "205 x 457 x 392mm"
+    },
+    {
+        "names": "Geometric Future Model 8 Lohan",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "970",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 , 白",
+        "尺寸:": "500 x 230 x 500mm"
+    },
+    {
+        "names": "Fractal Design Core 500",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "630",
+        "直立/橫放:": "直立",
+        "尺寸:": "250 x 213 x 380mm",
+        "重量:": "4.4kg"
+    },
+    {
+        "names": "InWin Mid Tower 216",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "730",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑, 白",
+        "尺寸:": "465 x 220 x 460mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "Xigmatek EROS Mid Tower Case",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "368 x 190 x 425mm"
+    },
+    {
+        "names": "Cooler Master MasterFrame 700",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,780",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "7個",
+        "擴充槽:": "8個"
+    },
+    {
+        "names": "Fractal Design Define 7 Black Solid Side Panel",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,200",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "顏色:": "黑色",
+        "尺寸:": "533 x 240 x 451mm",
+        "重量:": "13.49kg"
+    },
+    {
+        "names": "Cooler Master MasterBox MB600L TG (MCB-B600L-KG5N-SPH)",
+        "rating": "",
+        "hon_price_min": "348",
+        "hon_price_max": "385",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色機箱，紅邊",
+        "尺寸:": "464 x 212 x 454.5mm"
+    },
+    {
+        "names": "InWin Explorer Mini ITX Tower Case",
+        "rating": "",
+        "hon_price_min": "970",
+        "hon_price_max": "980",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "顏色:": "正骨白 , 正義白",
+        "尺寸:": "392 x 285 x 307mm",
+        "重量:": "3.75kg"
+    },
+    {
+        "names": "GC-system Ruix 1 彩燈小機箱",
+        "rating": "",
+        "hon_price_min": "140",
+        "hon_price_max": "248",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "317 x 190 x 345mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "Jonsbo 喬思伯 V9 鋁鎂合金制 ITX 機箱",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "480",
+        "直立/橫放:": "直立",
+        "顏色:": "銀色",
+        "尺寸:": "165 x 337 x 317mm",
+        "重量:": "2.7kg"
+    },
+    {
+        "names": "BitFenix Prodigy M 2022 小巨蛋鐵網版",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "2+3個",
+        "顏色:": "黑,白",
+        "尺寸:": "404 x 359 x 250mm"
+    },
+    {
+        "names": "Xigmatek Aquarius S Mid Tower",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "349 x 285 x 430mm"
+    },
+    {
+        "names": "Geometricfuture Model 8 CowBoy",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,190",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "500 x 230 x 500mm"
+    },
+    {
+        "names": "Fractal Design Meshicy S2 Tempered Glass PC Case",
+        "rating": "",
+        "hon_price_min": "1,298",
+        "hon_price_max": "1,298",
+        "直立/橫放:": "直立",
+        "尺寸:": "538 x 233 x 465mm",
+        "重量:": "10.04kg"
+    },
+    {
+        "names": "ASUS TUF Gaming GT501 Case",
+        "rating": "",
+        "hon_price_min": "1,070",
+        "hon_price_max": "1,200",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "251 x 545 x 552mm",
+        "重量:": "10.5kg"
+    },
+    {
+        "names": "InWin Mid Tower N515",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,230",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "515 x 225 x 502mm",
+        "重量:": "11.65kg"
+    },
+    {
+        "names": "G.Storm 黑奇鯊 機箱",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "396 x 205 x 445mm"
+    },
+    {
+        "names": "SilverStone ML05",
+        "rating": "",
+        "hon_price_min": "389",
+        "hon_price_max": "420",
+        "直立/橫放:": "橫放",
+        "顏色:": "黑",
+        "尺寸:": "350 x 99 x 204mm",
+        "重量:": "2.1kg"
+    },
+    {
+        "names": "DeepCool MATREXX 55 ADD-RGB",
+        "rating": "",
+        "hon_price_min": "589",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "尺寸:": "440 x 210 x 480mm",
+        "重量:": "6.97kg"
+    },
+    {
+        "names": "NZXT H510 Horde - CRFT Limited Edition ATX Case",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,480",
+        "直立/橫放:": "直立",
+        "顏色:": "RED",
+        "尺寸:": "210 x 460 x 428mm (W x H x D) (with feet)",
+        "重量:": "6.6kg"
+    },
+    {
+        "names": "InWin B1 Mesh 自組機箱",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "720",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "Black",
+        "尺寸:": "302 x 238 x 108mm",
+        "重量:": "1.74kg"
+    },
+    {
+        "names": "Cooler Master MasterBox 500",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "635",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色",
+        "尺寸:": "516 x 224 x 510mm"
+    },
+    {
+        "names": "GTR Mini Tower 小型組裝 B701",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 , 粉红",
+        "尺寸:": "200 x 370 x 395mm"
+    },
+    {
+        "names": "NZXT H510 Alliance - CRFT Limited Edition ATX Case",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,480",
+        "直立/橫放:": "直立",
+        "顏色:": "BLUE",
+        "尺寸:": "210 x 460 x 428mm (W x H x D) (with feet)",
+        "重量:": "6.6kg"
+    },
+    {
+        "names": "be quiet Pure Base 500DX 機箱",
+        "rating": "",
+        "hon_price_min": "739",
+        "hon_price_max": "739",
+        "直立/橫放:": "直立",
+        "顏色:": "Black / White",
+        "尺寸:": "450 x 232 x 443mm",
+        "重量:": "7.8kg"
+    },
+    {
+        "names": "GTR Micro SFX 微型組裝 9818",
+        "rating": "",
+        "hon_price_min": "160",
+        "hon_price_max": "160",
+        "直立/橫放:": "直立",
+        "顏色:": "藍, 紅, 灰, 銀",
+        "尺寸:": "133 x 395 x 330mm"
+    },
+    {
+        "names": "AeroCool Playa Slim Desktop Case",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "519",
+        "直立/橫放:": "直立",
+        "擴充槽:": "Low Profile x 4個",
+        "顏色:": "黑色",
+        "尺寸:": "112 x 300 x 420mm",
+        "重量:": "3.1kg"
+    },
+    {
+        "names": "Fractal Design Meshify 2 Lite RGB 機箱 FD-C-MEL2A-05",
+        "rating": "",
+        "hon_price_min": "1,140",
+        "hon_price_max": "1,150",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "542 x 240 x 474mm",
+        "重量:": "11.2kg"
+    },
+    {
+        "names": "Cooler Master MasterBox TD500",
+        "rating": "8.0",
+        "hon_price_min": "543",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "493 x 217 x 468mm",
+        "重量:": "5.75kg"
+    },
+    {
+        "names": "Antec VSK10 (Solid Panel) 機箱",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "405 x 205 x 400mm",
+        "重量:": "4.82kg"
+    },
+    {
+        "names": "Xigmatek Venom X Arctic ARGB E-ATX Case",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "699",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白",
+        "尺寸:": "435 x 200 x 435mm"
+    },
+    {
+        "names": "be quiet Silent Base 802 機箱",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,249",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 , 白 , 橙邊",
+        "尺寸:": "539 x 281 x 553mm",
+        "重量:": "12.59kg"
+    },
+    {
+        "names": "Corsair Crystal Series 570X RGB White Edition",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,468",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "White"
+    },
+    {
+        "names": "Corsair 110Q Mid-Tower Quiet ATX Case",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "418 x 210 x 480mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Xigmatek Master X Mid Tower",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "有",
+        "顏色:": "黑",
+        "尺寸:": "395 x 205 x 480mm"
+    },
+    {
+        "names": "SKTC HX BOX 100 全鋁合金機箱",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "顏色:": "銀,黑",
+        "尺寸:": "328 x 159 x 278mm"
+    },
+    {
+        "names": "Cooler Master MasterCase MC600P",
+        "rating": "10",
+        "hon_price_min": "1,175",
+        "hon_price_max": "1,185",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "544 x 235 x 548mm",
+        "重量:": "13kg"
+    },
+    {
+        "names": "SilverStone PS15 強化玻璃側板機箱",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "192 x 381 x 351mm",
+        "重量:": "3.52kg"
+    },
+    {
+        "names": "MSI MPG QUIETUDE 100S Middle Tower 電競機箱 (CA-MPQ100S)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,099",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "475 x 231 x 490 mm"
+    },
+    {
+        "names": "Cooler Master Silencio S400 Steel Side Panel 直立式機殼",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "635",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "418 x 210 x 408",
+        "重量:": "7.24kg"
+    },
+    {
+        "names": "Cooler Master Silencio S600 TG 中直立式機殼",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "730",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "478 x 209 x 470.5mm",
+        "重量:": "8.6kg"
+    },
+    {
+        "names": "Phanteks Eclipse P600S 中塔直立式機箱",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,200",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 , 白 ,灰",
+        "尺寸:": "240 x 520 x 510mm"
+    },
+    {
+        "names": "Geometric Future Model 6 Cezanne",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "790",
+        "直立/橫放:": "直立",
+        "顏色:": "黑 , 白",
+        "尺寸:": "450 x 215 x 450mm"
+    },
+    {
+        "names": "MSI MAG SHIELD 110A PC 機殼",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "390 x 205 x 457mm",
+        "重量:": "4.3kg"
+    },
+    {
+        "names": "Cooler Master MasterBox K501L",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "2個",
+        "擴充槽:": "7個"
+    },
+    {
+        "names": "SilverStone RL07 強化玻璃側板機箱",
+        "rating": "",
+        "hon_price_min": "659",
+        "hon_price_max": "659",
+        "直立/橫放:": "直立",
+        "顏色:": "BK / WH",
+        "尺寸:": "226 x 488 x 465mm",
+        "重量:": "8.2kg"
+    },
+    {
+        "names": "Cooler Master MasterBox CM694",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "493 x 224 x 506",
+        "重量:": "10.4kg"
+    },
+    {
+        "names": "Jonsbo 喬思伯 M-ATX 機箱 C3-PLUS",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "690",
+        "直立/橫放:": "直立",
+        "尺寸:": "218 x 360 x 398mm",
+        "重量:": "5.3kg"
+    },
+    {
+        "names": "Antec NX400 Mid-tower Gaming Case",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "350",
+        "直立/橫放:": "直立",
+        "尺寸:": "425 x 230 x 465mm (DWH)",
+        "重量:": "5.3kg"
+    },
+    {
+        "names": "InWin Chopin MAX Mini-ITX Tower",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "890",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "鈦灰, 黑, 銀",
+        "尺寸:": "217 x 84 x 244mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Cooler Master N400",
+        "rating": "8.8",
+        "hon_price_min": "425",
+        "hon_price_max": "425",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "是",
+        "顏色:": "黑",
+        "尺寸:": "190 x 426 x 501.4mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "Corsair Crystal Series 280X RGB Tempered Glass Micro ATX Case CC-9011137-WW",
+        "rating": "",
+        "hon_price_min": "1,289",
+        "hon_price_max": "1,299",
+        "直立/橫放:": "直立",
+        "尺寸:": "398 x 276 x 351mm",
+        "重量:": "7.1kg"
+    },
+    {
+        "names": "Argon NEO Pi 4 for Raspberry Pi 4 Case 磁石鋁合金散熱殼 (AR_Neo-RPi4-Case)",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130",
+        "尺寸:": "95.3 x 71.5 x 27.5mm"
+    },
+    {
+        "names": "Cooler Master MasterBox MB600L v2 ODD",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "419",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色",
+        "尺寸:": "460.5 x 204 x 455.3mm",
+        "重量:": "5.20kg"
+    },
+    {
+        "names": "GC-system M2 MATX 迷你小機箱",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "148",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "370 x 170 x350mm",
+        "重量:": "2.3kg"
+    },
+    {
+        "names": "MSI MAG FORGE 100M 電競機箱",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "480",
+        "直立/橫放:": "直立",
+        "尺寸:": "421 x 210 x 499mm",
+        "重量:": "5.64kg"
+    },
+    {
+        "names": "Thermaltake Core P6 TG 強化玻璃中直立式機殼",
+        "rating": "",
+        "hon_price_min": "1,349",
+        "hon_price_max": "1,349",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "白 / 黑 / 松石綠 / 競速綠",
+        "尺寸:": "565 x 255 x 530mm",
+        "重量:": "17.84kg"
+    },
+    {
+        "names": "Lian Li LanCool 215 機箱",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "690",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "462 x 215 x 482mm"
+    },
+    {
+        "names": "GTR 6812BX",
+        "rating": "",
+        "hon_price_min": "220",
+        "hon_price_max": "220",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "免工具組裝:": "否",
+        "顏色:": "黑色",
+        "尺寸:": "w175 x d410 x h315mm"
+    },
+    {
+        "names": "SilverStone SG11",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "545",
+        "直立/橫放:": "橫放",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "270 x 212 x 393mm",
+        "重量:": "4.45kg"
+    },
+    {
+        "names": "Gigabyte AORUS C300 GLASS 機箱",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "780",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "2個"
+    },
+    {
+        "names": "Thermaltake Core V51 TG",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,080",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "540 x 236 x 560mm",
+        "重量:": "12.3kg"
+    },
+    {
+        "names": "Thermaltake View 37 RGB中直立式開窗機殼",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,330",
+        "直立/橫放:": "直立",
+        "尺寸:": "525 x 261 x 538mm",
+        "重量:": "12.7kg"
+    },
+    {
+        "names": "be quiet PURE BASE 600 WINDOW BLACK",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "749",
+        "直立/橫放:": "直立",
+        "尺寸:": "492 x 220 x 470mm",
+        "重量:": "8.45kg"
+    },
+    {
+        "names": "Cooler Master MasterCase H500P",
+        "rating": "",
+        "hon_price_min": "1,230",
+        "hon_price_max": "1,480",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 + 2(用作垂直安裝顯示卡)個",
+        "顏色:": "金屬灰",
+        "尺寸:": "544 x 242 x 542mm",
+        "重量:": "11.3kg"
+    },
+    {
+        "names": "GC-system 甲殼蟲迷你彩燈機箱 MATX 迷你小機箱",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "285 x 280 x 225mm",
+        "重量:": "2.2kg"
+    },
+    {
+        "names": "Antec P10 FLUX",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "477 x 220 x 486mm",
+        "重量:": "7.3kg"
+    },
+    {
+        "names": "InWin 905 Mid Tower",
+        "rating": "",
+        "hon_price_min": "1,970",
+        "hon_price_max": "1,999",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "502 x 215 x 508mm",
+        "重量:": "14.26kg"
+    },
+    {
+        "names": "Thermaltake AH T600 TG 高直立式強化玻璃機殼",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "白 / 黑",
+        "尺寸:": "628.3 x 337 x 763mm",
+        "重量:": "20.64kg"
+    },
+    {
+        "names": "Lian Li Odyssey X 變形機箱",
+        "rating": "",
+        "hon_price_min": "3,640",
+        "hon_price_max": "3,700",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "黑 , 銀",
+        "尺寸:": "575.5 x 234  x 558.5mm"
+    },
+    {
+        "names": "MSI 電競機箱 MAG VAMPIRIC 010",
+        "rating": "10",
+        "hon_price_min": "490",
+        "hon_price_max": "589",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "420(D) x 210(W) x 475(H) mm",
+        "重量:": "4.1kg"
+    },
+    {
+        "names": "Cooler Master MasterBox MB311L ARGB",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "460",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑色",
+        "尺寸:": "435.5 x 217.5 x 410mm",
+        "重量:": "30.79kg"
+    },
+    {
+        "names": "Cooler Master Masterbox MB500 ARGB",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "580",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑色",
+        "尺寸:": "494 x 211 x 475mm",
+        "重量:": "6.35kg"
+    },
+    {
+        "names": "Thermaltake View 32 TG RGB強化玻璃中直立式機殼",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,250",
+        "直立/橫放:": "直立",
+        "尺寸:": "480 x 227 x 524mm",
+        "重量:": "8.2kg"
+    },
+    {
+        "names": "Corsair Carbide Series 275R",
+        "rating": "7.3",
+        "hon_price_min": "569",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "顏色:": "White or Black",
+        "尺寸:": "436.5 x 446mm"
+    },
+    {
+        "names": "Jonsbo 喬思伯 ITX 小機箱 T8",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "780",
+        "直立/橫放:": "直立",
+        "顏色:": "黑色, 銀色",
+        "尺寸:": "160 x 242 x 218mm",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "Xigmatek Poseidon Mid Tower",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "400 x 205 x 450mm"
+    },
+    {
+        "names": "Thermaltake Core P1 TG Mini",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "930",
+        "適用主機板規格:": "Mini-ITX",
+        "重量:": "9.5kg"
+    },
+    {
+        "names": "Fractal Design Meshicy S2 PC Case",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,198",
+        "直立/橫放:": "直立",
+        "尺寸:": "538 x 233 x 465mm",
+        "重量:": "9.52kg"
+    },
+    {
+        "names": "Cougar CONQUER 電競機殼",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "1,909",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "3個",
+        "尺寸:": "255 x 580 x 685mm"
+    },
+    {
+        "names": "Abkoncore Mini Tower Case C550M",
+        "rating": "",
+        "hon_price_min": "439",
+        "hon_price_max": "439",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "340 x 205 x 410mm",
+        "重量:": "4.6kg"
+    },
+    {
+        "names": "GTR Micro Tower 迷你組裝 S502",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "黑色",
+        "尺寸:": "直立式：145 x 390 x 348mm, 橫放式：338 x 390 x 105mm"
+    },
+    {
+        "names": "MSI MPG VELOX 100P AirFlow Middle Tower 電競機箱 (CA-MPV10PA)",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "999",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "2個",
+        "擴充槽:": "7個",
+        "尺寸:": "474 x 231 x 490mm"
+    },
+    {
+        "names": "ASUS TUF Gaming GT501 White Edition",
+        "rating": "",
+        "hon_price_min": "1,199",
+        "hon_price_max": "1,299",
+        "直立/橫放:": "直立",
+        "尺寸:": "251 x 545 x 552 mm",
+        "重量:": "10.5kg"
+    },
+    {
+        "names": "MSI 電競機箱 MPG GUNGNIR 100D",
+        "rating": "10",
+        "hon_price_min": "780",
+        "hon_price_max": "790",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "510 x 227 x 525mm",
+        "重量:": "9.25kg"
+    },
+    {
+        "names": "Antec Performance P120 CRYSTAL",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "768",
+        "直立/橫放:": "直立"
+    },
+    {
+        "names": "Sharkoon 流影者 RGB Slider ARGB Tempered Glass ATX Case",
+        "rating": "",
+        "hon_price_min": "365",
+        "hon_price_max": "365",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "400 x 190 x 456mm",
+        "重量:": "4.85kg"
+    },
+    {
+        "names": "Antec Minimal Mid-Tower Gaming Case DP501",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "YES",
+        "顏色:": "BLACK",
+        "尺寸:": "443mm x 210mm x 484mm(DxWxH)",
+        "重量:": "5.57kg"
+    },
+    {
+        "names": "GTR ITX 系列機箱 T1261",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "直立/橫放:": "直立",
+        "顏色:": "黑色",
+        "尺寸:": "135 x 240 x 290mm"
+    },
+    {
+        "names": "Lian Li V3000 PLUS 機箱",
+        "rating": "",
+        "hon_price_min": "3,970",
+        "hon_price_max": "3,999",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "黑",
+        "尺寸:": "678.5 x 279 x 674mm"
+    },
+    {
+        "names": "Xigmatek Gemini Queen Rainbow LED M-ATX PC Case",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "粉红",
+        "尺寸:": "430 x 200 x 397mm"
+    },
+    {
+        "names": "Antec Striker - ITX Open Case",
+        "rating": "",
+        "hon_price_min": "1,689",
+        "hon_price_max": "1,999",
+        "直立/橫放:": "直立",
+        "尺寸:": "420 x 230 x 410mm",
+        "重量:": "7.47kg"
+    },
+    {
+        "names": "Cooler Master MasterCase H500M",
+        "rating": "",
+        "hon_price_min": "1,760",
+        "hon_price_max": "1,780",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7 + 2(用作垂直安裝顯示卡)個",
+        "顏色:": "黑鐵灰",
+        "尺寸:": "544 x 248 x 546mm",
+        "重量:": "14.2kg"
+    },
+    {
+        "names": "Corsair 5000D Tempered Glass Mid-Tower ATX PC Case CC-9011208-WW",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,139",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "顏色:": "Black",
+        "尺寸:": "520 x 245 x 520mm",
+        "重量:": "13.84kg"
+    },
+    {
+        "names": "GTR 機箱 C3147",
+        "rating": "",
+        "hon_price_min": "228",
+        "hon_price_max": "228",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "2個",
+        "擴充槽:": "6個",
+        "顏色:": "Black",
+        "尺寸:": "180 x 170 x 410mm"
+    },
+    {
+        "names": "Thermaltake Core V21",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "580",
+        "直立/橫放:": "直立/橫放",
+        "擴充槽:": "5個",
+        "顏色:": "Black",
+        "尺寸:": "336 x 320 x 424 mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "Corsair 275R Airflow Tempered Glass Mid-Tower Gaming Case CC-9011182-WW",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "尺寸:": "457 x 216 x 455mm",
+        "重量:": "6.9kg"
+    },
+    {
+        "names": "NZXT H710 強化玻璃側板機箱",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "1,199",
+        "直立/橫放:": "直立",
+        "顏色:": "BK",
+        "尺寸:": "230 x 516 x 494mm",
+        "重量:": "12.1kg"
+    },
+    {
+        "names": "Fractal Design Define 7 Dark Tempered Glass",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,298",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "顏色:": "黑色",
+        "尺寸:": "533 x 240 x 451mm",
+        "重量:": "13.45kg"
+    },
+    {
+        "names": "DeepCool MATREXX 70 Mid-Tower Case",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "620",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+2個",
+        "尺寸:": "483 x 228 x 492mm",
+        "重量:": "8.89kg"
+    },
+    {
+        "names": "AZZA Liminous 110 Micro ATX Mid Tower",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "直立/橫放:": "直立",
+        "顏色:": "Black (exterior) / Black (interior)",
+        "尺寸:": "397 x 209 x 435mm",
+        "重量:": "4.3kg"
+    },
+    {
+        "names": "InWin 925 Full Tower Balanced Luxury IW-CS-925BLK",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,499",
+        "直立/橫放:": "直立",
+        "顏色:": "黑色",
+        "尺寸:": "570 x 280 x 608mm",
+        "重量:": "21kg"
+    },
+    {
+        "names": "be quiet DARK BASE PRO 900 BLACK rev. 2 全黑",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,999",
+        "直立/橫放:": "直立",
+        "尺寸:": "577 x 243 x 586mm",
+        "重量:": "14.39kg"
+    },
+    {
+        "names": "Cooler Master HAF 700 Case",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "‎Titanium Gray",
+        "尺寸:": "666 x 291 x 626mm"
+    },
+    {
+        "names": "Thermaltake Suppressor F1",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "440",
+        "直立/橫放:": "橫放",
+        "顏色:": "BLACK",
+        "尺寸:": "276 x 260 x 319 mm",
+        "重量:": "3.2kg"
+    },
+    {
+        "names": "GTR Mini Tower 網面小型組裝機箱 M2",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "粉紅 , 白",
+        "尺寸:": "195 x 315 x 355mm"
+    },
+    {
+        "names": "Cougar MX340",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "359",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "208 x 450 x 405mm"
+    },
+    {
+        "names": "Thermaltake View 23 TG ARGB強化玻璃中直立式機殼",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "直立/橫放:": "直立",
+        "尺寸:": "466 x 203 x 441mm",
+        "重量:": "6.52kg"
+    },
+    {
+        "names": "GTR Micro Tower 迷你組裝 S501",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "395",
+        "直立/橫放:": "直立/橫放",
+        "顏色:": "黑色",
+        "尺寸:": "直立式：145 x 390 x 348mm, 橫放式：338 x 390 x 105mm"
+    },
+    {
+        "names": "AeroCool Glo Dral Color Streams Mid Tower Tempered Glass",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "210 x 475 x 477.8mm",
+        "重量:": "9.2kg"
+    },
+    {
+        "names": "AeroCool Mini Tower Case CS-103",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "200",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "Black",
+        "尺寸:": "199 x 357.6 x 371mm",
+        "重量:": "2.68kg"
+    },
+    {
+        "names": "be quiet DARK BASE 700 RGB LED",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,399",
+        "直立/橫放:": "直立",
+        "尺寸:": "544 x 241 x 519mm",
+        "重量:": "13.25kg"
+    },
+    {
+        "names": "SilverStone ML04",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "590",
+        "直立/橫放:": "橫放",
+        "擴充槽:": "5個",
+        "顏色:": "黑",
+        "尺寸:": "440 mm (寬) x 105 mm (高) x 350 mm (深)",
+        "重量:": "4kg"
+    },
+    {
+        "names": "InWin 301 Mini Tower",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "365 x 188 x 379mm",
+        "重量:": "7.63kg"
+    },
+    {
+        "names": "InWin 309 Mid Tower (IW-309-Black)",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,990",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "500 x 238 x 553mm",
+        "重量:": "14kg"
+    },
+    {
+        "names": "Thermaltake The Tower 900 (雪白版)",
+        "rating": "10",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "直立/橫放:": "直立",
+        "顏色:": "Exterior & Interior : White",
+        "尺寸:": "752 x 423 x 483mm",
+        "重量:": "24.5kg"
+    },
+    {
+        "names": "Cooler Master Masterbox K501L RGB 玻璃透側機箱",
+        "rating": "",
+        "hon_price_min": "375",
+        "hon_price_max": "415",
+        "直立/橫放:": "直立",
+        "顏色:": "黑色",
+        "尺寸:": "499.5 x 217 x 468.5mm (incl. Protrusions), 428.7 x 205 x 458.5mm (excl. Protrusions)",
+        "重量:": "4.95kg"
+    },
+    {
+        "names": "Xigmatek Helios RGB Case",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "417 x 203 x 455mm"
+    },
+    {
+        "names": "GTR M07 MICRO SFX CASE",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "170",
+        "直立/橫放:": "直立",
+        "5.25吋磁碟槽/硬碟槽:": "1個",
+        "尺寸:": "110 x 420 x 315mm"
+    },
+    {
+        "names": "MSI MAG VAMPIRIC 300R Middle Tower 電競機箱 (CA-MAV300R)",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "899",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "471 x 231 x 497mm"
+    },
+    {
+        "names": "SilverStone RVZ01",
+        "rating": "10",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "直立/橫放:": "直立",
+        "擴充槽:": "2個",
+        "顏色:": "黑",
+        "尺寸:": "382 x 105 x 350mm",
+        "重量:": "3.71kg"
+    },
+    {
+        "names": "Corsair Crystal Series 460X RGB Compact ATX Mid-Tower Case CC-9011101-WW",
+        "rating": "10",
+        "hon_price_min": "970",
+        "hon_price_max": "1,140",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "440 x 220 x 464mm",
+        "重量:": "7.97kg"
+    },
+    {
+        "names": "Darkflash Knight K1 Gaming Case",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "899",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "572 x 210 x 560mm",
+        "重量:": "7.6kg"
+    },
+    {
+        "names": "Seasonic SYNCRO Q704 + SYNCRO DPC 850W PSU SET",
+        "rating": "",
+        "hon_price_min": "3,588",
+        "hon_price_max": "3,588",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "537 x 234 x 493 mm"
+    },
+    {
+        "names": "NZXT H210i 強化玻璃側板機箱",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "999",
+        "直立/橫放:": "直立",
+        "顏色:": "BK",
+        "尺寸:": "210 x 349 x 372mm",
+        "重量:": "6kg"
+    },
+    {
+        "names": "Phanteks Eclipse P200A DRGB mini-ITX 機箱",
+        "rating": "6.0",
+        "hon_price_min": "470",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "205 x 365 x 400mm"
+    },
+    {
+        "names": "Thermaltake Level 20強化玻璃高直立式機殼",
+        "rating": "",
+        "hon_price_min": "6,999",
+        "hon_price_max": "7,990",
+        "直立/橫放:": "直立",
+        "尺寸:": "732 x 280 x 688mm",
+        "重量:": "32kg"
+    },
+    {
+        "names": "Jonsbo 喬思伯 U4 PLUS ATX 機箱",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "590",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "銀色, 灰色",
+        "尺寸:": "205 x 395x  391mm"
+    },
+    {
+        "names": "Thermaltake 強化玻璃中直立式機殼 H200 TG 雪白版 RGB",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "550",
+        "直立/橫放:": "直立"
+    },
+    {
+        "names": "Corsair Carbide Series Air 740 High Airflow ATX Cube Case",
+        "rating": "",
+        "hon_price_min": "1,178",
+        "hon_price_max": "1,188",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "Black",
+        "尺寸:": "426 x 340 x 510mm",
+        "重量:": "8.82kg"
+    },
+    {
+        "names": "Xigmatek Perseus PC Case",
+        "rating": "",
+        "hon_price_min": "1,180",
+        "hon_price_max": "1,180",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black & Red",
+        "尺寸:": "610 x 230  x 540mm"
+    },
+    {
+        "names": "Thermaltake CORE P5",
+        "rating": "8.0",
+        "hon_price_min": "1,099",
+        "hon_price_max": "1,250",
+        "直立/橫放:": "直立",
+        "顏色:": "BLACK",
+        "尺寸:": "608 x 333 x 570 mm",
+        "重量:": "12.2kg"
+    },
+    {
+        "names": "Antec Entry-Level Mid Tower Gaming Case GX202 (Plastic Window)",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "330",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "450 x 205 x 435mm",
+        "重量:": "4.8kg"
+    },
+    {
+        "names": "Cooler Master MasterBox Q300L",
+        "rating": "9.0",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立/橫放",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "387 x 230 x 378mm",
+        "重量:": "3.7kg"
+    },
+    {
+        "names": "InWin 101 PBA Ver. ASUS 限量版 (CA-IW101PA)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "889",
+        "直立/橫放:": "直立",
+        "擴充槽:": "PCI-E x 7個",
+        "顏色:": "黑",
+        "尺寸:": "445 x 220 x 480mm",
+        "重量:": "7.35kg"
+    },
+    {
+        "names": "AeroCool Aero-300 FAW",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "379",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "410 x 190 x 450mm",
+        "重量:": "4.2kg"
+    },
+    {
+        "names": "Antec P101 Silent",
+        "rating": "",
+        "hon_price_min": "679",
+        "hon_price_max": "758",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "顏色:": "黑色",
+        "尺寸:": "527 x 232 x 506mm",
+        "重量:": "11.82kg"
+    },
+    {
+        "names": "Thermaltake View 31 TG RGB 強化玻璃機殼",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "930",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "497 x 250 x 511mm",
+        "重量:": "10.7kg"
+    },
+    {
+        "names": "Phanteks Eclipse P400A (PH-EC416ATG)",
+        "rating": "",
+        "hon_price_min": "740",
+        "hon_price_max": "790",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "210 x 465 x 470mm",
+        "重量:": "7kg"
+    },
+    {
+        "names": "Fractal Design Define S2 - Tempered Glass 玻璃側板機箱",
+        "rating": "",
+        "hon_price_min": "1,149",
+        "hon_price_max": "1,149",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "Yes",
+        "尺寸:": "543 x 233 x 465 mm",
+        "重量:": "11.6kg"
+    },
+    {
+        "names": "Antec NX Series Mid Tower Gaming Case NX800",
+        "rating": "8.0",
+        "hon_price_min": "520",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black, White, Pink",
+        "尺寸:": "470 x 230 x 500mm",
+        "重量:": "7.87kg"
+    },
+    {
+        "names": "Jonsbo 喬思伯 A4 Ver1.1 機箱",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,080",
+        "直立/橫放:": "直立",
+        "顏色:": "Silver, Gray",
+        "尺寸:": "169 x 273 x 340mm",
+        "重量:": "5.6kg"
+    },
+    {
+        "names": "Lian Li 電腦機箱 PC-O11 Dynamic (聯力版)",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "直立/橫放:": "直立",
+        "擴充槽:": "5個",
+        "顏色:": "Black",
+        "尺寸:": "274 x 449 x 446mm"
+    },
+    {
+        "names": "MSI MPG GUNGNIR 110M 電競機箱",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "650",
+        "直立/橫放:": "直立",
+        "尺寸:": "215 x 430 x 450mm",
+        "重量:": "7.9kg"
+    },
+    {
+        "names": "Phanteks Eclipse P360A",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "650",
+        "直立/橫放:": "直立",
+        "2.5吋磁碟槽/硬碟槽:": "3個",
+        "顏色:": "Black",
+        "尺寸:": "200 x 465 x 455 mm"
+    },
+    {
+        "names": "InWin 301C Black",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "760",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "365 x 208 x 370mm",
+        "重量:": "8kg"
+    },
+    {
+        "names": "ASUS ROG Z11 Mini-ITX/DTX Case",
+        "rating": "10",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "直立/橫放:": "直立",
+        "擴充槽:": "3個",
+        "尺寸:": "194 x 531 x 386mm",
+        "重量:": "8.73kg"
+    },
+    {
+        "names": "MAXXON Micro-ATX Case 281",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "268",
+        "直立/橫放:": "直立/橫放",
+        "擴充槽:": "3個",
+        "顏色:": "黑色, 白色, 灰色",
+        "尺寸:": "411 x116 x 300mm"
+    },
+    {
+        "names": "Cooler Master MasterBox NR600 (光碟機版) MCB-NR600-KG5N-S00",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "510",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "478 x 209 x 473mm"
+    },
+    {
+        "names": "Fractal Design Meshify 2 XL Dark Tempered Glass 機箱 FD-C-MES2X-01",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "600 x 240 x 566mm",
+        "重量:": "14.1kg"
+    },
+    {
+        "names": "GTR 小型組裝 Mini Tower D863",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "190 x 380 x 365mm"
+    },
+    {
+        "names": "ADATA XPG Battlecrusier 戰巡艦 電競機殼",
+        "rating": "",
+        "hon_price_min": "870",
+        "hon_price_max": "1,399",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "2+1個",
+        "尺寸:": "485 x 225 x 506mm"
+    },
+    {
+        "names": "SilverStone ML09",
+        "rating": "",
+        "hon_price_min": "489",
+        "hon_price_max": "499",
+        "直立/橫放:": "橫放",
+        "顏色:": "黑",
+        "尺寸:": "350 x 109 x 205mm",
+        "重量:": "2.07kg"
+    },
+    {
+        "names": "Thermaltake Commander G33 TG ARGB 強化玻璃中直立式機殼",
+        "rating": "",
+        "hon_price_min": "709",
+        "hon_price_max": "709",
+        "直立/橫放:": "直立",
+        "顏色:": "Black RGB",
+        "尺寸:": "442 x 225 x 472mm",
+        "重量:": "7.72kg"
+    },
+    {
+        "names": "Thermaltake Core X71 TG 鋼化玻璃殼",
+        "rating": "",
+        "直立/橫放:": "直立",
+        "尺寸:": "677 x 250 x 511mm",
+        "重量:": "12.7kg"
+    },
+    {
+        "names": "Abkoncore Compact Cooling Mini Tower Case C200M",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "尺寸:": "200 x 310 x 375mm",
+        "重量:": "3.5kg"
+    },
+    {
+        "names": "Corsair 110R Tempered Glass Mid-Tower ATX Case CC-9011183-WW",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "439",
+        "直立/橫放:": "直立",
+        "顏色:": "黑色",
+        "尺寸:": "418 x 210 x 480mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "SAMA 流光 RGB",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "378 x 180 x 425mm"
+    },
+    {
+        "names": "GTR 小型組裝 Mini Tower 6865",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "170 x 410 x 375mm"
+    },
+    {
+        "names": "Thermaltake Versa N21中直立式開窗機箱",
+        "rating": "9.0",
+        "hon_price_min": "365",
+        "hon_price_max": "365",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "yes",
+        "顏色:": "黑",
+        "尺寸:": "513H x 217W x 463D mm",
+        "重量:": "4.6kg"
+    },
+    {
+        "names": "Antec Performance P7 Neo 機箱",
+        "rating": "",
+        "hon_price_min": "329",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "440 x 219 x 480mm",
+        "重量:": "5.7kg"
+    },
+    {
+        "names": "Corsair Obsidian 500D ATX MID TOWER CASE",
+        "rating": "10",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "重量:": "10.5kg"
+    },
+    {
+        "names": "Enermax MarbleShell MS20 mATX 電腦機殼",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "390",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑 / 白",
+        "尺寸:": "417 x 210 x 400mm"
+    },
+    {
+        "names": "Thermaltake Core P90 TG 開放式強化玻璃機殼",
+        "rating": "",
+        "hon_price_min": "1,349",
+        "hon_price_max": "1,349",
+        "直立/橫放:": "直立",
+        "尺寸:": "470 x 470 x 615mm",
+        "重量:": "17.2kg"
+    },
+    {
+        "names": "Thermaltake Core X71 Full Tower Case",
+        "rating": "",
+        "直立/橫放:": "直立",
+        "擴充槽:": "8個",
+        "尺寸:": "677 x 250 x 511 mm",
+        "重量:": "12kg"
+    },
+    {
+        "names": "Lian Li Q58W3",
+        "rating": "",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,050",
+        "適用主機板規格:": "Mini-ITX",
+        "尺寸:": "342 x 170 x 250mm"
+    },
+    {
+        "names": "Thermaltake Versa J21強化玻璃中直立式機殼",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "直立/橫放:": "直立",
+        "尺寸:": "465 x 205 x 447mm",
+        "重量:": "6.08kg"
+    },
+    {
+        "names": "Xigmatek Oreo Mini-Tower Case with RGB Fans",
+        "rating": "",
+        "hon_price_min": "330",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "375 x 210 x 420mm"
+    },
+    {
+        "names": "AeroCool Tor 機箱",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "218 x 445 x 430mm",
+        "重量:": "8.2kg"
+    },
+    {
+        "names": "AIGO S5 Graffiti 塗鴉版機箱",
+        "rating": "",
+        "hon_price_min": "438",
+        "hon_price_max": "438",
+        "直立/橫放:": "直立",
+        "顏色:": "黑",
+        "尺寸:": "410 x 210 x 480mm"
+    },
+    {
+        "names": "SilverStone ML03",
+        "rating": "",
+        "hon_price_min": "519",
+        "hon_price_max": "539",
+        "直立/橫放:": "橫放",
+        "擴充槽:": "4 low profile +1 utility個",
+        "顏色:": "黑",
+        "尺寸:": "440 x 105 x 340mm",
+        "重量:": "3.3kg"
+    },
+    {
+        "names": "ENERMAX StarryFrot SF30 ECA-SF30-M1BB-ARGB",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "540",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Black",
+        "尺寸:": "415mm x 205mm x 480mm"
+    },
+    {
+        "names": "Thermaltake V200 TG RGB強化玻璃中直立式機殼",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "620",
+        "直立/橫放:": "直立",
+        "尺寸:": "446 x 204 x 439mm",
+        "重量:": "7.1kg"
+    },
+    {
+        "names": "Thermaltake Divider 300 TG ARGB Mid Tower Chassis",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "475 x 220 x 461mm",
+        "重量:": "8.47kg"
+    },
+    {
+        "names": "Thermaltake View 37 Riing中直立式開窗機殼",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "直立/橫放:": "直立",
+        "尺寸:": "525 x 261 x 538mm",
+        "重量:": "11.8kg"
+    },
+    {
+        "names": "Corsair Carbide Series 100R Silent Edition Mid-Tower Case CC-9011077-WW",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "尺寸:": "471 x 200 x 430mm",
+        "重量:": "5.2kg"
+    },
+    {
+        "names": "Thermaltake View 71 TG RGB",
+        "rating": "",
+        "hon_price_min": "1,549",
+        "hon_price_max": "1,549",
+        "直立/橫放:": "直立",
+        "尺寸:": "592 x 274 x 577mm",
+        "重量:": "19.1kg"
+    },
+    {
+        "names": "Thermaltake Versa H26 TG 強化玻璃中直立式機殼",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "直立/橫放:": "直立",
+        "尺寸:": "464 x 220 x 493mm",
+        "重量:": "6.9kg"
+    },
+    {
+        "names": "Thermaltake Urban S31",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "749",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "Exterior & Interior : Black",
+        "尺寸:": "500x 206 x 520 mm (19.7 x 8.1 x 20.5 inch)",
+        "重量:": "7.3Kg / 16.1 lbkg"
+    },
+    {
+        "names": "Darkflash RGB M-ATX Gaming PC Case DLM 23",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 白",
+        "尺寸:": "408 x 208 x 425mm",
+        "重量:": "4.65kg"
+    },
+    {
+        "names": "GAMDIAS APOLLO E2 Elite",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7+3個",
+        "顏色:": "Black",
+        "尺寸:": "392 x230 x 467mm"
+    },
+    {
+        "names": "Sharkoon 聖龍者 DG7000",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "直立/橫放:": "直立",
+        "尺寸:": "47.0 x 21.0 x 47.0cm",
+        "重量:": "7.2kg"
+    },
+    {
+        "names": "SKTC 鋁金屬主機殼 S300",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "799",
+        "直立/橫放:": "直立",
+        "3.5吋磁碟槽/硬碟槽:": "1個",
+        "尺寸:": "323 x 154 x 269mm"
+    },
+    {
+        "names": "Xigmatek Sirocon III ARGB Middle Tower Case",
+        "rating": "",
+        "hon_price_min": "390",
+        "hon_price_max": "399",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "顏色:": "黑",
+        "尺寸:": "390 x 205 x 450mm"
+    },
+    {
+        "names": "Corsair Carbide Series 88R MicroATX Mid-Tower Case CC-9011086-WW",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "尺寸:": "448 x 198 x 378mm",
+        "重量:": "4.8kg"
+    },
+    {
+        "names": "Xigmatek Sirocon III Mid Tower RGB Case",
+        "rating": "",
+        "hon_price_min": "379",
+        "hon_price_max": "379",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "390 x 205 x 450mm"
+    },
+    {
+        "names": "MAXXON 241BK",
+        "rating": "",
+        "hon_price_min": "180",
+        "hon_price_max": "180",
+        "water_price_min": "100",
+        "water_price_max": "100",
+        "直立/橫放:": "直立/橫放",
+        "擴充槽:": "4個",
+        "顏色:": "黑色",
+        "尺寸:": "355*95*285mm"
+    },
+    {
+        "names": "Corsair Carbide Series 275R Tempered Glass Mid-Tower Gaming Case CC-9011133-WW",
+        "rating": "",
+        "hon_price_min": "569",
+        "hon_price_max": "640",
+        "直立/橫放:": "直立",
+        "顏色:": "黑, 白",
+        "尺寸:": "460 x 215 x 455mm",
+        "重量:": "10.14kg"
+    },
+    {
+        "names": "Antec VSK-3000",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "249",
+        "直立/橫放:": "直立",
+        "擴充槽:": "4個",
+        "顏色:": "黑",
+        "尺寸:": "365mm x 173mm x 393mm"
+    },
+    {
+        "names": "SilverStone Micro-ATX機殼 PS 16",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "198 x 361 x 398mm",
+        "重量:": "3.8kg"
+    },
+    {
+        "names": "AZZA Thor 320 MID-Tower PC Case",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "538 x 205 x 465mm",
+        "重量:": "8.01kg"
+    },
+    {
+        "names": "Xigmatek Mystic 9 Mid Tower",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "直立/橫放:": "直立",
+        "擴充槽:": "7個",
+        "尺寸:": "452 x 200 x 495mm"
+    },
+    {
+        "names": "Thermaltake Commander C32 TG ARGB Edition",
+        "rating": "",
+        "hon_price_min": "770",
+        "hon_price_max": "780",
+        "直立/橫放:": "直立",
+        "顏色:": "RGB",
+        "尺寸:": "462 x 233 x 507mm",
+        "重量:": "7.87kg"
+    },
+    {
+        "names": "GTR 3071",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "直立/橫放:": "直立",
+        "擴充槽:": "6個",
+        "免工具組裝:": "否",
+        "顏色:": "黑色",
+        "尺寸:": "175x425x410mm"
+    },
+    {
+        "names": "SilverStone 鋼化玻璃機殼 SST-LD01",
+        "rating": "",
+        "hon_price_min": "755",
+        "hon_price_max": "769",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "尺寸:": "218 x 390 x 431mm",
+        "重量:": "7.45kg"
+    },
+    {
+        "names": "Thermaltake Core P5 TG 鋼化玻璃殼",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,899",
+        "直立/橫放:": "直立",
+        "顏色:": "Black",
+        "重量:": "18.45kg"
+    },
+    {
+        "names": "Corsair iCUE 220T RGB Airflow Tempered Glass Mid-Tower Smart Case CC-9011173-WW",
+        "rating": "",
+        "hon_price_min": "849",
+        "hon_price_max": "869",
+        "直立/橫放:": "直立",
+        "尺寸:": "395mm x 210mm x 450mm",
+        "重量:": "6.5kg"
+    },
+    {
+        "names": "Fractal Design Define Mini C TG Black",
+        "rating": "",
+        "hon_price_min": "570",
+        "hon_price_max": "700",
+        "直立/橫放:": "直立",
+        "尺寸:": "399 x 212 x 399mm"
+    },
+    {
+        "names": "Antec Twelve Hundred",
+        "rating": "9.0",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "否",
+        "顏色:": "黑",
+        "尺寸:": "582 x 2132 x 513mm"
+    },
+    {
+        "names": "Cooler Master Elite 500 without ODD (TG)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "385",
+        "直立/橫放:": "直立",
+        "免工具組裝:": "是",
+        "顏色:": "黑色",
+        "尺寸:": "409 x 204 x 455mm",
+        "重量:": "4.69kg"
+    },
+    {
+        "names": "InWin B1 Mini ITX-Chassis",
+        "rating": "8.0",
+        "hon_price_min": "700",
+        "hon_price_max": "730",
+        "直立/橫放:": "直立/橫放",
+        "尺寸:": "141 x 336 x 287mm",
+        "重量:": "1.9kg"
+    }
+]

@@ -1,0 +1,3577 @@
+[
+    {
+        "names": "SanDisk Extreme Portable USB 3.2 SSD V2 4TB (SDSSDE61-4T00-G25)",
+        "rating": "10",
+        "hon_price_min": "2,499",
+        "hon_price_max": "4,298",
+        "water_price_min": "2,580",
+        "water_price_max": "4,298",
+        "容量:": "4TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport 2TB USB3.0 HDD (WDBYVG0020BBK-0B)",
+        "rating": "9.5",
+        "hon_price_min": "409",
+        "hon_price_max": "499",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 1TB WDBAGF0010BGY",
+        "rating": "10",
+        "hon_price_min": "750",
+        "hon_price_max": "1,199",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 1TB 2.5\"One Touch External Hard Disk With Password (STKY1000)",
+        "rating": "10",
+        "hon_price_min": "322",
+        "hon_price_max": "420",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 Touch 1TB",
+        "rating": "10",
+        "hon_price_min": "859",
+        "hon_price_max": "1,680",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 Shield USB 3.2 2TB",
+        "rating": "10",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,880",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD Elements Portable 5TB",
+        "rating": "9.8",
+        "hon_price_min": "680",
+        "hon_price_max": "850",
+        "water_price_min": "670",
+        "water_price_max": "670",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 2TB",
+        "rating": "9.0",
+        "hon_price_min": "1,298",
+        "hon_price_max": "2,480",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD Elements SE SSD 1TB (WDBAYN0010BBK-WESN)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "930",
+        "water_price_min": "680",
+        "water_price_max": "780",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 5TB 2.5\"One Touch External Hard Disk With Password (STKZ5000)",
+        "rating": "9.5",
+        "hon_price_min": "745",
+        "hon_price_max": "880",
+        "water_price_min": "748",
+        "water_price_max": "748",
+        "容量:": "5TB"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 Shield USB 3.2 1TB",
+        "rating": "9.0",
+        "hon_price_min": "665",
+        "hon_price_max": "999",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 5TB 2.5\" One Touch HDD (STKC5000)",
+        "rating": "8.0",
+        "hon_price_min": "745",
+        "hon_price_max": "868",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital Elements Desktop 外置 HDD 18TB",
+        "rating": "",
+        "hon_price_min": "3,350",
+        "hon_price_max": "3,350",
+        "容量:": "18TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 4TB 2.5\" One Touch HDD (STKC4000)",
+        "rating": "10",
+        "hon_price_min": "634",
+        "hon_price_max": "710",
+        "water_price_min": "644",
+        "water_price_max": "644",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Portable SSD 2TB (SDSSDE30-2T00-G25)",
+        "rating": "10",
+        "hon_price_min": "1,040",
+        "hon_price_max": "1,450",
+        "water_price_min": "1,045",
+        "water_price_max": "1,328",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD_BLACK D30 Game Drive SSD 2TB (WDBATL0020BBK)",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "2,346",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Pro Portable USB 3.2 SSD V2 2TB (SDSSDE81-2T00-G25)",
+        "rating": "9.7",
+        "hon_price_min": "1,675",
+        "hon_price_max": "2,698",
+        "water_price_min": "1,675",
+        "water_price_max": "1,899",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra 5TB WDBFTM0050BGD",
+        "rating": "8.3",
+        "hon_price_min": "830",
+        "hon_price_max": "999",
+        "water_price_min": "845",
+        "water_price_max": "845",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport 5TB USB3.0 HDD (WDBPKJ0050BBK-0B)",
+        "rating": "9.3",
+        "hon_price_min": "712",
+        "hon_price_max": "980",
+        "water_price_min": "698",
+        "water_price_max": "718",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 1TB",
+        "rating": "9.3",
+        "hon_price_min": "665",
+        "hon_price_max": "1,279",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 4TB 2.5\"One Touch External Hard Disk With Password (STKZ4000)",
+        "rating": "8.4",
+        "hon_price_min": "634",
+        "hon_price_max": "799",
+        "water_price_min": "634",
+        "water_price_max": "644",
+        "容量:": "4TB"
+    },
+    {
+        "names": "Seagate 10TB Expansion Desktop Hard Drive STKP10000400",
+        "rating": "",
+        "hon_price_min": "1,723",
+        "hon_price_max": "1,799",
+        "容量:": "10TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital BLACK D50 Game Dock NVMe SSD 2TB WDBA3U0020BBK",
+        "rating": "10",
+        "hon_price_min": "3,799",
+        "hon_price_max": "4,299",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Portable USB 3.2 SSD V2 1TB (SDSSDE61-1T00-G25)",
+        "rating": "9.6",
+        "hon_price_min": "690",
+        "hon_price_max": "1,128",
+        "water_price_min": "701",
+        "water_price_max": "890",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Pro Portable USB 3.1 SSD 2TB (停產)",
+        "rating": "",
+        "hon_price_min": "1,785",
+        "hon_price_max": "2,580",
+        "water_price_min": "2,650",
+        "water_price_max": "2,698",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE ArmorATD HDD 5TB (SDPH81G-005T-GBAND)",
+        "rating": "10",
+        "hon_price_min": "1,255",
+        "hon_price_max": "1,410",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 2TB 2.5\"One Touch External Hard Disk With Password (STKY2000)",
+        "rating": "9.6",
+        "hon_price_min": "432",
+        "hon_price_max": "525",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 2TB Expansion portable hard drive STKM2000400",
+        "rating": "10",
+        "hon_price_min": "421",
+        "hon_price_max": "475",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Extreme Pro Portable USB 3.2 SSD V2 1TB (SDSSDE81-1T00-G25)",
+        "rating": "9.1",
+        "hon_price_min": "1,009",
+        "hon_price_max": "1,598",
+        "water_price_min": "1,078",
+        "water_price_max": "1,520",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Kingston XS2000 USB3.2 USB-C Portable SSD 1TB (SXS2000/1000G)",
+        "rating": "4.0",
+        "hon_price_min": "929",
+        "hon_price_max": "1,290",
+        "water_price_min": "1,045",
+        "water_price_max": "1,045",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport 1TB USB3.0 HDD (WDBYVG0010BBK-OB)",
+        "rating": "6.0",
+        "hon_price_min": "307",
+        "hon_price_max": "390",
+        "water_price_min": "299",
+        "water_price_max": "410",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Book 4TB WDBBGB0040HBK-NESN",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "935",
+        "water_price_min": "740",
+        "water_price_max": "740",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Klevv R1 Portable SSD 1TB (K01TBPSSU2-PR1)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Portable SSD 1TB (SDSSDE30-1T00-G25)",
+        "rating": "9.7",
+        "hon_price_min": "525",
+        "hon_price_max": "899",
+        "water_price_min": "530",
+        "water_price_max": "799",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Portable SSD 480GB (SDSSDE30-480G-G25)",
+        "rating": "",
+        "hon_price_min": "465",
+        "hon_price_max": "699",
+        "water_price_min": "499",
+        "water_price_max": "499",
+        "容量:": "480GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport 4TB WDBYFT0040 (停產)",
+        "rating": "8.7",
+        "hon_price_min": "584",
+        "hon_price_max": "780",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport 4TB USB3.0 HDD (WDBPKJ0040BBK-0B)",
+        "rating": "9.4",
+        "hon_price_min": "584",
+        "hon_price_max": "780",
+        "water_price_min": "599",
+        "water_price_max": "648",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 8TB Expansion Desktop Hard Drive STKP8000400",
+        "rating": "9.3",
+        "hon_price_min": "1,398",
+        "hon_price_max": "1,499",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 Shield USB 3.2 4TB",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "容量:": "4TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-RAID 2 12TB (6TB x 2) SDPH62H-012T",
+        "rating": "8.0",
+        "hon_price_min": "5,101",
+        "hon_price_max": "5,280",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 12TB Expansion Desktop Hard Drive STKP12000400",
+        "rating": "",
+        "hon_price_min": "2,024",
+        "hon_price_max": "2,128",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Extreme Pro Portable USB 3.2 SSD V2 4TB (SDSSDE81-4T00-G25)",
+        "rating": "10",
+        "hon_price_min": "3,640",
+        "hon_price_max": "4,188",
+        "water_price_min": "3,620",
+        "water_price_max": "4,200",
+        "容量:": "4TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T5 1TB",
+        "rating": "6.0",
+        "hon_price_min": "780",
+        "hon_price_max": "1,200",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Portable USB 3.2 SSD V2 500GB (SDSSDE61-500G-G25)",
+        "rating": "9.3",
+        "hon_price_min": "495",
+        "hon_price_max": "749",
+        "water_price_min": "519",
+        "water_price_max": "800",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 2TB WDBAGF0020BGY",
+        "rating": "10",
+        "hon_price_min": "1,320",
+        "hon_price_max": "2,299",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Pro Portable USB 3.1 SSD 1TB (停產)",
+        "rating": "10",
+        "hon_price_min": "1,178",
+        "hon_price_max": "1,799",
+        "water_price_min": "1,398",
+        "water_price_max": "1,398",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Portable USB 3.2 SSD V2 2TB (SDSSDE61-2T00-G25)",
+        "rating": "9.4",
+        "hon_price_min": "1,140",
+        "hon_price_max": "2,028",
+        "water_price_min": "1,188",
+        "water_price_max": "1,408",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Kingston XS2000 USB3.2 USB-C Portable SSD 2TB (SXS2000/2000G)",
+        "rating": "6.0",
+        "hon_price_min": "1,620",
+        "hon_price_max": "2,190",
+        "water_price_min": "1,750",
+        "water_price_max": "1,750",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD Elements Desktop 14TB",
+        "rating": "10",
+        "hon_price_min": "2,406",
+        "hon_price_max": "2,420",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital BLACK D50 Game Dock NVMe SSD 1TB WDBA3U0010BBK-SESN",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "3,199",
+        "water_price_min": "3,580",
+        "water_price_max": "3,580",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE ArmorATD HDD 2TB USB-C (SDPH81G-002T-ZBAND)",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "860",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-Drive Desktop USB-C 企業級硬碟 22TB (SDPHF1A-022T)",
+        "rating": "",
+        "hon_price_min": "4,458",
+        "hon_price_max": "4,705",
+        "容量:": "22TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA 1TB 外接式硬碟 HV320",
+        "rating": "9.0",
+        "hon_price_min": "240",
+        "hon_price_max": "398",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements SE SSD 2TB (WDBAYN0020BBK-WESN)",
+        "rating": "10",
+        "hon_price_min": "999",
+        "hon_price_max": "1,780",
+        "water_price_min": "1,400",
+        "water_price_max": "1,400",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie 16TB 1big Dock 外置硬碟底座",
+        "rating": "",
+        "hon_price_min": "6,788",
+        "hon_price_max": "6,788",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 500GB",
+        "rating": "8.0",
+        "hon_price_min": "490",
+        "hon_price_max": "749",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ASUS FX 2.5吋外接式硬碟 1TB HDD (EHD-A1T)",
+        "rating": "",
+        "hon_price_min": "560",
+        "hon_price_max": "680",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-Drive Desktop USB-C 企業級硬碟 12TB (SDPHF1A-012T)",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "3,055",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE 3.5\" HDD 6TB (SDPH91G-006T-ZBAAD)",
+        "rating": "10",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,650",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements Portable 1TB USB3.0",
+        "rating": "10",
+        "hon_price_min": "309",
+        "hon_price_max": "870",
+        "water_price_min": "370",
+        "water_price_max": "370",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "AGI USB3.2 Portable SSD ED138 1TB",
+        "rating": "6.0",
+        "hon_price_min": "485",
+        "hon_price_max": "768",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Portable SSD E60 1TB (停產)",
+        "rating": "4.0",
+        "hon_price_min": "695",
+        "hon_price_max": "910",
+        "water_price_min": "723",
+        "water_price_max": "848",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-Drive Desktop USB-C 企業級硬碟 4TB (SDPHF1A-004T)",
+        "rating": "8.0",
+        "hon_price_min": "1,540",
+        "hon_price_max": "1,620",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements Desktop 10TB",
+        "rating": "",
+        "hon_price_min": "1,824",
+        "hon_price_max": "1,899",
+        "water_price_min": "2,199",
+        "water_price_max": "2,199",
+        "容量:": "10TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport 1TB USB3.0 WDBYNN0010 (停產)",
+        "rating": "10",
+        "hon_price_min": "307",
+        "hon_price_max": "410",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements Portable 4TB",
+        "rating": "9.3",
+        "hon_price_min": "548",
+        "hon_price_max": "920",
+        "water_price_min": "698",
+        "water_price_max": "698",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Crucial X6 4TB Portable SSD (CT4000X6SSD9)",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "3,590",
+        "容量:": "4TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 Touch 2TB",
+        "rating": "10",
+        "hon_price_min": "1,585",
+        "hon_price_max": "2,850",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 3.5 inch One Touch Hub USB3.0 Harddisk 18TB (STLC18000402)",
+        "rating": "",
+        "hon_price_min": "4,599",
+        "hon_price_max": "4,599",
+        "容量:": "18TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Expansion Desktop 14TB STKP14000400",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,688",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T5 500GB",
+        "rating": "10",
+        "hon_price_min": "488",
+        "hon_price_max": "699",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra for Mac 2TB (WDBKYJ0020BSL-CESN)",
+        "rating": "10",
+        "hon_price_min": "515",
+        "hon_price_max": "599",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Slim 2TB",
+        "rating": "9.2",
+        "hon_price_min": "432",
+        "hon_price_max": "618",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Mobile Drive Secure USB-C 2TB 硬碟 STLR2000400",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend ESD380C 行動固態硬碟 1TB",
+        "rating": "10",
+        "hon_price_min": "849",
+        "hon_price_max": "1,080",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Book 6TB WDBBGB0060HBK-NESN",
+        "rating": "10",
+        "hon_price_min": "920",
+        "hon_price_max": "1,168",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 5TB Expansion portable hard drive STKM5000400",
+        "rating": "10",
+        "hon_price_min": "739",
+        "hon_price_max": "829",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE 3.5\" HDD 18TB USB-C (SDPH91G-018T-ZBAAD)",
+        "rating": "",
+        "hon_price_min": "4,315",
+        "hon_price_max": "4,315",
+        "容量:": "18TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Expansion Portable 2TB STEA2000400",
+        "rating": "10",
+        "hon_price_min": "421",
+        "hon_price_max": "570",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital 16TB WD Elements Desktop  WDBBKG0160HBK-SESN",
+        "rating": "10",
+        "hon_price_min": "2,950",
+        "hon_price_max": "3,199",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport 2TB WDBYFT0020",
+        "rating": "10",
+        "hon_price_min": "411",
+        "hon_price_max": "496",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements Desktop 8TB",
+        "rating": "10",
+        "hon_price_min": "1,428",
+        "hon_price_max": "1,830",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Netac Z Slim USB 3.2 Gen-2 Type C Portable SSD 2TB",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "1,350",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 1TB WDBK3E0010PSL",
+        "rating": "4.0",
+        "hon_price_min": "760",
+        "hon_price_max": "1,199",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD Elements Portable 2TB",
+        "rating": "7.5",
+        "hon_price_min": "393",
+        "hon_price_max": "598",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements Desktop 6TB",
+        "rating": "",
+        "hon_price_min": "985",
+        "hon_price_max": "1,099",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-RAID 2 24TB (12TB x 2) SDPH62H-024T",
+        "rating": "",
+        "hon_price_min": "8,380",
+        "hon_price_max": "9,420",
+        "容量:": "24TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Netac Z Slim USB 3.2 Gen-2 Type C SSD 500GB",
+        "rating": "",
+        "hon_price_min": "305",
+        "hon_price_max": "450",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 4TB (WDBAGF0040B)",
+        "rating": "10",
+        "hon_price_min": "2,768",
+        "hon_price_max": "3,398",
+        "容量:": "4TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T5 2TB",
+        "rating": "9.0",
+        "hon_price_min": "1,468",
+        "hon_price_max": "2,574",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE SSD 2TB USB-C (SDPS11A-002T-ZBANB)",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "3,140",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD Elements Desktop 4TB",
+        "rating": "10",
+        "hon_price_min": "674",
+        "hon_price_max": "850",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra for Mac 5TB (WDBPMV0050BSL-CESN)",
+        "rating": "10",
+        "hon_price_min": "864",
+        "hon_price_max": "1,049",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital 18TB My Book WDBBGB0180HBK",
+        "rating": "",
+        "hon_price_min": "3,568",
+        "hon_price_max": "3,999",
+        "容量:": "18TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ASUS ROG Strix Arion S500 Portable SSD",
+        "rating": "",
+        "hon_price_min": "868",
+        "hon_price_max": "1,180",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Book 8TB WDBBGB0080HBK-NESN",
+        "rating": "10",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,499",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra for Mac 4TB (WDBPMV0040BSL-CESN)",
+        "rating": "",
+        "hon_price_min": "749",
+        "hon_price_max": "899",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus 4TB",
+        "rating": "6.7",
+        "hon_price_min": "638",
+        "hon_price_max": "745",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE Pro 3.5\" HDD 4TB TB3+USB-C (SDPH51J-004T-ZBAAD)",
+        "rating": "",
+        "hon_price_min": "2,385",
+        "hon_price_max": "2,510",
+        "water_price_min": "2,490",
+        "water_price_max": "2,490",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-RAID 2 36TB (18TB x 2) SDPH62H-036T",
+        "rating": "",
+        "hon_price_min": "11,125",
+        "hon_price_max": "12,550",
+        "容量:": "36TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD_Black P10 Game Drive (5TB) WDBA3A0050BBK",
+        "rating": "9.7",
+        "hon_price_min": "820",
+        "hon_price_max": "1,020",
+        "water_price_min": "799",
+        "water_price_max": "799",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "AGI 512GB USB3.2 Portable SSD ED138",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "499",
+        "容量:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Book 12TB USB3.0 WDBBGB0120HBK",
+        "rating": "10",
+        "hon_price_min": "1,968",
+        "hon_price_max": "2,580",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD_BLACK D30 Game Drive SSD 1TB (WDBATL0010BBK)",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "1,289",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD_Black P40 Game Drive SSD 2TB (WDBAWY0020BBK)",
+        "rating": "",
+        "hon_price_min": "2,260",
+        "hon_price_max": "2,550",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Kingston XS2000 USB3.2 USB-C Portable SSD 500GB (SXS2000/500G)",
+        "rating": "",
+        "hon_price_min": "496",
+        "hon_price_max": "790",
+        "water_price_min": "600",
+        "water_price_max": "600",
+        "容量:": "500G",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE ArmorATD HDD 4TB (SDPH81G-004T-GBAND)",
+        "rating": "",
+        "hon_price_min": "1,065",
+        "hon_price_max": "1,175",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged USB-C 4TB (STFR4000400 / STFR4000800)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,480",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital Elements Desktop 12TB",
+        "rating": "",
+        "hon_price_min": "2,078",
+        "hon_price_max": "2,087",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo 1.9TB SSD-PGM1.9U3",
+        "rating": "",
+        "hon_price_min": "2,970",
+        "hon_price_max": "2,999",
+        "容量:": "1.9TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "OWC Envoy Pro SX Portable SSD 2TB",
+        "rating": "",
+        "hon_price_min": "3,650",
+        "hon_price_max": "3,650",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Corsair EX100U 1TB Portable Solid State USB Type-C Storage Drive (CSSD-EX100U1TB)",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Netac Z Slim USB 3.2 Gen-2 Type C Portable SSD 1TB",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "650",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-RAID 2 8TB (SDPH62H-008T)",
+        "rating": "",
+        "hon_price_min": "4,670",
+        "hon_price_max": "4,710",
+        "water_price_min": "4,670",
+        "water_price_max": "4,670",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE Pro 3.5\" HDD 6TB TB3+USB-C (SDPH51J-006T-ZBAAD)",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,745",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements SE USB 3.0 External Hard Drive 5TB (WDBJRT0050BBK-WESN)",
+        "rating": "",
+        "water_price_min": "1,170",
+        "water_price_max": "1,170",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Mobile Drive Secure USB-C 4TB 硬碟 STLR4000400",
+        "rating": "",
+        "hon_price_min": "1,198",
+        "hon_price_max": "1,198",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Toshiba 東芝 Canvio Advance V10 2.5\" HDD 4TB",
+        "rating": "10",
+        "hon_price_min": "732",
+        "hon_price_max": "765",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology Atomos Master Caddy 4K 256GB (0G05219-1)",
+        "rating": "",
+        "hon_price_min": "855",
+        "hon_price_max": "855",
+        "water_price_min": "855",
+        "water_price_max": "855",
+        "容量:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-RAID 2 40TB (20TB x 2) SDPH62H-040T",
+        "rating": "",
+        "hon_price_min": "12,675",
+        "hon_price_max": "13,345",
+        "容量:": "40TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Toshiba 東芝 Canvio Ready B3 2TB 外置式移動硬盤 (HDTP320AK3AA)",
+        "rating": "10",
+        "hon_price_min": "460",
+        "hon_price_max": "580",
+        "容量:": "2TB",
+        "介面:": "USB 3.0 / USB 2.0"
+    },
+    {
+        "names": "Western Digital 3.5\" BLACK D10 Game Drive 8TB WDBA3P0080HBK",
+        "rating": "10",
+        "hon_price_min": "1,626",
+        "hon_price_max": "1,895",
+        "water_price_min": "1,790",
+        "water_price_max": "1,790",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra 2TB 2.5\" USB 3.0 (Type C & A port) WDBC3C0020BSL-WESN",
+        "rating": "9.3",
+        "hon_price_min": "495",
+        "hon_price_max": "680",
+        "water_price_min": "515",
+        "water_price_max": "515",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-Drive Desktop USB-C 企業級硬碟 18TB (SDPHF1A-018T)",
+        "rating": "",
+        "hon_price_min": "3,845",
+        "hon_price_max": "4,060",
+        "容量:": "18TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Portable 5TB",
+        "rating": "7.3",
+        "hon_price_min": "748",
+        "hon_price_max": "999",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport for Mac 2TB (WDBA2D0020BBL)",
+        "rating": "",
+        "water_price_min": "540",
+        "water_price_max": "540",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-Drive Desktop USB-C 企業級硬碟 6TB (SDPHF1A-006T)",
+        "rating": "10",
+        "hon_price_min": "1,765",
+        "hon_price_max": "1,860",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged SSD Ultra-fast Series 500GB (STHR500800)",
+        "rating": "",
+        "hon_price_min": "1,548",
+        "hon_price_max": "1,558",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 3.5 inch One Touch Hub USB3.0 Harddisk 14TB (STLC14000400)",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "2,750",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE 3.5\" HDD 12TB USB-C (SDPH91G-012T-ZBAAD)",
+        "rating": "10",
+        "hon_price_min": "3,110",
+        "hon_price_max": "3,140",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital MY BOOK DUO 20TB WDBFBE0200JBK",
+        "rating": "6.0",
+        "hon_price_min": "4,058",
+        "hon_price_max": "4,400",
+        "容量:": "20TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE 3.5\" HDD 4TB USB-C  (SDPH91G-004T-ZBAAD)",
+        "rating": "10",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,540",
+        "water_price_min": "1,440",
+        "water_price_max": "1,440",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport USB3.0 4TB WDBYFT004",
+        "rating": "8.0",
+        "hon_price_min": "585",
+        "hon_price_max": "759",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Verbatim Vx560 External SSD 512GB",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "480",
+        "容量:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Portable SSD E60 500GB (停產)",
+        "rating": "10",
+        "hon_price_min": "530",
+        "hon_price_max": "588",
+        "water_price_min": "525",
+        "water_price_max": "633",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "OWC Mercury Elite Pro USB 3.2 3.5 inch External HDD 6TB ME3NH7T06",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,780",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD_BLACK D50 Game Dock 0TB (WDBA3U0000NBK)",
+        "rating": "",
+        "water_price_min": "2,335",
+        "water_price_max": "2,335",
+        "介面:": "Thunderbolt 3, USB"
+    },
+    {
+        "names": "AKiTiO ThunderGo 雷霆行動碟 SSD (1TB)",
+        "rating": "",
+        "hon_price_min": "6,480",
+        "hon_price_max": "6,480",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Corsair EX100U 2TB Portable Solid State USB Type-C Storage Drive (CSSD-EX100U2TB)",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "OWC Envoy Pro EX Rugged Portable SSD Thunderbolt 3 2TB OWCTB3ENVP20",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "4,280",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "AGI USB3.2 Portable SSD ED138 2TB",
+        "rating": "8.8",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE Pro SSD 500GB (SDPS51F-500G-ZBANB)",
+        "rating": "",
+        "hon_price_min": "1,385",
+        "hon_price_max": "1,570",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk 256GB iXpand Base For iPHONE",
+        "rating": "10",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "容量:": "256GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "OWC Mercury Elite Pro USB 3.2 3.5 inch External HDD 8TB ME3NH7T08",
+        "rating": "",
+        "hon_price_min": "1,998",
+        "hon_price_max": "2,050",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Expansion Portable 4TB STEA4000400",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "900",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Seagate Backup Plus Slim 1TB (STHN1000)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "398",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "OWC Mercury Elite Pro USB 3.2 3.5 inch External HDD 16TB ME3NH7T16",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,880",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie d2 Professional USB3.1 Type-C 10TB",
+        "rating": "9.0",
+        "hon_price_min": "2,780",
+        "hon_price_max": "4,370",
+        "容量:": "10TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Crucial X8 1TB Portable SSD CT1000X8SSD9",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "1,295",
+        "water_price_min": "599",
+        "water_price_max": "599",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie 8TB d2 Professional 桌上型硬碟 (STHA8000800)",
+        "rating": "",
+        "hon_price_min": "2,240",
+        "hon_price_max": "2,648",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged USB-C 2TB (STFR2000400)",
+        "rating": "10",
+        "hon_price_min": "918",
+        "hon_price_max": "998",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo 1TB HDD HD-PGF1.0U3",
+        "rating": "",
+        "hon_price_min": "518",
+        "hon_price_max": "549",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Extreme Portable SSD E60 2TB (停產)",
+        "rating": "",
+        "hon_price_min": "1,220",
+        "hon_price_max": "1,950",
+        "water_price_min": "1,196",
+        "water_price_max": "1,970",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie d2 Thunderbolt 3 6TB",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,599",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Hikvision 海康威視 T100I 120GB Portable SSD",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "176",
+        "容量:": "120GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Mobile Drive 5TB (STHG5000400)",
+        "rating": "",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,680",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo MiniStation HDD 1TB (HD-PCFS1.0U3-BBA)",
+        "rating": "",
+        "hon_price_min": "458",
+        "hon_price_max": "470",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP 1TB Portable SSD 外接式固態硬碟 P500",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "898",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Extreme Pro Portable USB 3.1 SSD 500GB (停產)",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "738",
+        "water_price_min": "855",
+        "water_price_max": "855",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "OWC Envoy Pro EX Rugged Portable SSD Thunderbolt 3 1TB OWCTB3ENVP10",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Buffalo DriveStation Velocity HD-LXU3 系列外置硬碟 (6TB) HD-LX6.0TU3",
+        "rating": "",
+        "hon_price_min": "1,359",
+        "hon_price_max": "1,399",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE SSD 500GB USB-C (SDPS11A-500G-ZBANB)",
+        "rating": "",
+        "hon_price_min": "960",
+        "hon_price_max": "1,180",
+        "water_price_min": "860",
+        "water_price_max": "860",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Crucial X8 2TB Portable SSD CT2000X8SSD9",
+        "rating": "10",
+        "hon_price_min": "1,120",
+        "hon_price_max": "1,828",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend 500GB Portable SSD ESD370C",
+        "rating": "",
+        "hon_price_min": "608",
+        "hon_price_max": "648",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD_Black P10 Game Drive (2TB)",
+        "rating": "7.3",
+        "hon_price_min": "499",
+        "hon_price_max": "630",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lexar HL260 移動加密硬盤 2TB",
+        "rating": "10",
+        "hon_price_min": "889",
+        "hon_price_max": "1,460",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE Pro 3.5\" HDD 12TB TB3+USB-C (SDPH51J-012T-ZBAAD)",
+        "rating": "",
+        "hon_price_min": "4,100",
+        "hon_price_max": "5,100",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Drobo 5D3",
+        "rating": "2.0",
+        "hon_price_min": "6,300",
+        "hon_price_max": "6,600",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 500GB WDBAGF5000BGY",
+        "rating": "10",
+        "hon_price_min": "435",
+        "hon_price_max": "699",
+        "water_price_min": "775",
+        "water_price_max": "775",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend StoreJet 25M3 2TB",
+        "rating": "",
+        "hon_price_min": "509",
+        "hon_price_max": "694",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "OWC Express 4M2 4-Slot M.2 NVMe Raid SSD Enclosure TB3EX4M2SL",
+        "rating": "",
+        "hon_price_min": "2,230",
+        "hon_price_max": "2,800",
+        "介面:": "Thunderbolt 3",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra Metal Design TYPE-A/TYPE-C 4TB WDBFTM0040",
+        "rating": "10",
+        "hon_price_min": "719",
+        "hon_price_max": "890",
+        "water_price_min": "755",
+        "water_price_max": "755",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 1TB WDBKVX0010PSL",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "788",
+        "water_price_min": "1,090",
+        "water_price_max": "1,090",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 8TB BarraCuda ST8000DM004",
+        "rating": "",
+        "hon_price_min": "1,045",
+        "hon_price_max": "1,199",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Book Duo 24TB WDBFBE0240JBK",
+        "rating": "",
+        "hon_price_min": "4,898",
+        "hon_price_max": "5,199",
+        "容量:": "24TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Book Duo 16TB WDBFBE0160JBK",
+        "rating": "",
+        "hon_price_min": "3,285",
+        "hon_price_max": "3,499",
+        "water_price_min": "3,350",
+        "water_price_max": "3,350",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra 4TB WDBFKT0040B",
+        "rating": "9.0",
+        "hon_price_min": "799",
+        "hon_price_max": "990",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements SE SSD 480GB (WDBAYN4800ABK-WESN)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "580",
+        "water_price_min": "580",
+        "water_price_max": "580",
+        "容量:": "480GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie d2 Professional USB3.1 Type-C 6TB",
+        "rating": "",
+        "hon_price_min": "2,040",
+        "hon_price_max": "2,788",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Hikvision 海康威視 Fingerprint Portable SSD (512GB) HS-ESSD-T100F",
+        "rating": "",
+        "hon_price_min": "512",
+        "hon_price_max": "512",
+        "容量:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "HP LTO7 Ultrium 15TB Rewritable Data Cartridge (C7977A)",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,160",
+        "容量:": "15TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP LTO8 Ultrium Rewritable Data Cartridge 30TB (Q2078A)",
+        "rating": "",
+        "hon_price_min": "1,350",
+        "hon_price_max": "1,380",
+        "容量:": "30TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend StoreJet 25M3 4TB",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "1,188",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo 2TB HDD HD-PGF2.0U3",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "890",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Corsair EX100U 4TB Portable Solid State USB Type-C Storage Drive (CSSD-EX100U4TB)",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,599",
+        "容量:": "4TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 3.5 inch One Touch Hub USB3.0 Harddisk 8TB (STLC8000400)",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Mobile Drive 1TB (STHG1000400)",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "700",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD-Easystore 外置USB 3.0便攜式硬盤 5TB (WDBAJP0050BBK-WESN)",
+        "rating": "10",
+        "hon_price_min": "800",
+        "hon_price_max": "880",
+        "water_price_min": "850",
+        "water_price_max": "850",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lexar HL260 移動加密硬盤 1TB",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "979",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD_BLACK P10 Game Drive for Xbox 1TB (WDBA6U0010BBK)",
+        "rating": "",
+        "water_price_min": "545",
+        "water_price_max": "545",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra 2017 3TB (WDBFKT0030)",
+        "rating": "",
+        "water_price_min": "740",
+        "water_price_max": "740",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie d2 Professional USB3.1 Type-C 14TB (STHA14000800)",
+        "rating": "",
+        "hon_price_min": "3,950",
+        "hon_price_max": "4,190",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA HV300 2TB",
+        "rating": "",
+        "hon_price_min": "423",
+        "hon_price_max": "455",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Klevv R1 Portable SSD 500GB (K500GPSSU2-PR1)",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "699",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend 1TB Portable SSD ESD370C",
+        "rating": "",
+        "hon_price_min": "649",
+        "hon_price_max": "1,230",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD_BLACK Call of Duty: Black Ops Cold War Special Edition P10 Game Drive 2TB (WDBAZC0020BBK)",
+        "rating": "",
+        "hon_price_min": "515",
+        "hon_price_max": "639",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA SE760 外接式固態硬碟 2TB (ASE760-2TU32G2)",
+        "rating": "10",
+        "hon_price_min": "1,488",
+        "hon_price_max": "1,778",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend 960GB Portable SSD ESD350C",
+        "rating": "",
+        "hon_price_min": "978",
+        "hon_price_max": "1,399",
+        "容量:": "960GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My PassPort Thin 2TB",
+        "rating": "10",
+        "hon_price_min": "411",
+        "hon_price_max": "509",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Expansion Portable 5TB (STEA5000)",
+        "rating": "10",
+        "hon_price_min": "739",
+        "hon_price_max": "888",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo MiniStation Extreme HD-PZFU3 1TB",
+        "rating": "",
+        "hon_price_min": "640",
+        "hon_price_max": "680",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 1TB Expansion portable hard drive STKM1000400",
+        "rating": "",
+        "hon_price_min": "317",
+        "hon_price_max": "370",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ASUS FX 2.5吋外接式硬碟 2TB HDD (EHD-A2T)",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "899",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive with Thunderbolt 3 12TB",
+        "rating": "",
+        "hon_price_min": "4,450",
+        "hon_price_max": "4,450",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged Thunderbolt USB-C 5TB",
+        "rating": "6.0",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,240",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo DriveStation Velocity HD-LXU3 系列外置硬碟 (3TB) HD-LX3.0TU3",
+        "rating": "",
+        "hon_price_min": "760",
+        "hon_price_max": "780",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP LTO5 Ultrium 3TB Rewritable Data Cartridge (C7975A)",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "425",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP 1TB Portable SSD P600",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "1,050",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Kingston XS2000 USB3.2 USB-C Portable SSD 4TB (SXS2000/4000G)",
+        "rating": "",
+        "hon_price_min": "3,130",
+        "hon_price_max": "3,399",
+        "容量:": "4TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Toshiba 東芝 Canvio Advance V10 2.5\" HDD 2TB",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "570",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Hikvision 海康威視 Digital Video Recorder DS7916HGHI-HK",
+        "rating": "",
+        "hon_price_min": "958",
+        "hon_price_max": "1,080",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Slim Backup Plus 1TB",
+        "rating": "10",
+        "hon_price_min": "320",
+        "hon_price_max": "468",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "OWC Flex 1U4 外置式硬碟 16TB (OWCTB3F1U0D016)",
+        "rating": "",
+        "hon_price_min": "15,599",
+        "hon_price_max": "15,599",
+        "容量:": "16TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate Backup Plus Portable STHP Series 4TB",
+        "rating": "",
+        "hon_price_min": "635",
+        "hon_price_max": "805",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged Raid Shuttle 8TB STHT8000800",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,968",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 3.5 inch One Touch Hub USB3.0 Harddisk 16TB (STLC16000400)",
+        "rating": "",
+        "hon_price_min": "3,850",
+        "hon_price_max": "3,850",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged USB-C 5TB (STFR5000800)",
+        "rating": "10",
+        "hon_price_min": "1,525",
+        "hon_price_max": "1,870",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP LTO3 Ultrium 800GB Rewritable Data Cartridge (C7973A)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "365",
+        "容量:": "800GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE SSD 1TB USB-C (SDPS11A-001T-ZBANB)",
+        "rating": "",
+        "hon_price_min": "1,385",
+        "hon_price_max": "1,960",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital ELEMENTS 1TB",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "365",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Verbatim Store'n'Go Portable Hard Drive 2TB",
+        "rating": "",
+        "hon_price_min": "540",
+        "hon_price_max": "579",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 6TB Porsche Design USB-C + USB 3.0 桌上型硬碟",
+        "rating": "",
+        "hon_price_min": "1,666",
+        "hon_price_max": "1,698",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Drobo 5C",
+        "rating": "10",
+        "hon_price_min": "2,959",
+        "hon_price_max": "3,470",
+        "容量:": "64TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital 1TB Black P50 Game Drive SSD (WDBA3S0010BBK)",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,550",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology G-Drive Mobile SSD R-Series 1TB",
+        "rating": "8.0",
+        "hon_price_min": "1,698",
+        "hon_price_max": "1,718",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Buffalo DriveStation Velocity HD-LXU3 系列外置硬碟 (1TB) HD-LX1.0TU3",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-DRIVE mobile Pro SSD 500GB",
+        "rating": "",
+        "hon_price_min": "1,570",
+        "hon_price_max": "1,803",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology ArmorATD 4TB 便攜式硬盤",
+        "rating": "8.0",
+        "hon_price_min": "1,175",
+        "hon_price_max": "1,175",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2big Raid USB 3.1 Type-C Enterprise Drive 28TB (STHJ28000800)",
+        "rating": "",
+        "hon_price_min": "9,780",
+        "hon_price_max": "12,028",
+        "容量:": "28TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Go 1TB WDBMCG0010BBT",
+        "rating": "",
+        "hon_price_min": "930",
+        "hon_price_max": "1,000",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk 128GB iXpand Base For iPHONE",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "680",
+        "容量:": "128GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Go 500GB WDBMCG5000ABT",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "520",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Buffalo 1.0TB MiniStation 3.0",
+        "rating": "9.5",
+        "hon_price_min": "455",
+        "hon_price_max": "455",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged Mini 2TB",
+        "rating": "",
+        "hon_price_min": "880",
+        "hon_price_max": "1,050",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport NEW 2TB USB3.0 WDBYNN0020",
+        "rating": "",
+        "hon_price_min": "411",
+        "hon_price_max": "519",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2big Raid 16TB STHJ16000800",
+        "rating": "",
+        "hon_price_min": "5,880",
+        "hon_price_max": "6,990",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate 4TB Expansion Portable Hard Drive STKM4000400",
+        "rating": "",
+        "hon_price_min": "625",
+        "hon_price_max": "680",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements SE USB 3.0 External Hard Drive 1TB (WDBEPK0010BBK-WESN)",
+        "rating": "",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital Elements 1TB USB3.0",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "320",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Gigabyte VISION DRIVE 1TB Upgrade Kit GP-VSD1TB KIT",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Rugged Thunderbolt and USB 3.0 2TB (LAC9000489)",
+        "rating": "",
+        "hon_price_min": "1,485",
+        "hon_price_max": "1,730",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "NextoDI 便攜式備份設備 NSB-25",
+        "rating": ""
+    },
+    {
+        "names": "LaCie Rugged SSD Ultra-fast Series 1TB (STHR1000800)",
+        "rating": "",
+        "hon_price_min": "2,638",
+        "hon_price_max": "2,698",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Buffalo MiniStation Extreme NFC 2TB (HD-PZN2)",
+        "rating": "",
+        "hon_price_min": "1,110",
+        "hon_price_max": "1,120",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend StoreJet 25H3 1TB",
+        "rating": "",
+        "hon_price_min": "380",
+        "hon_price_max": "530",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Hub 10TB STEL10000400",
+        "rating": "",
+        "hon_price_min": "1,944",
+        "hon_price_max": "1,990",
+        "容量:": "10TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA HV300 1TB",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "329",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Orico 128GB Troodon-Armor Series High-speed Mobile SSD SN100",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280",
+        "容量:": "128GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend 480GB Portable SSD ESD350C",
+        "rating": "",
+        "hon_price_min": "528",
+        "hon_price_max": "648",
+        "容量:": "480GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD Elements SE USB 3.0 External Hard Drive 3TB (WDBJRT0030BBK-WESN)",
+        "rating": "",
+        "water_price_min": "700",
+        "water_price_max": "700",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 1TB Mobile SSD 高效能外置 SSD USB-C USB 3.0",
+        "rating": "",
+        "hon_price_min": "1,898",
+        "hon_price_max": "1,898",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ADATA 2TB HD330移動硬盤 AHD330-2TU31",
+        "rating": "",
+        "hon_price_min": "473",
+        "hon_price_max": "478",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "NextoDI 1TB便攜式備份設備 NVS2801",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "6,000",
+        "容量:": "1TB"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T5 250GB",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "988",
+        "容量:": "250GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Buffalo DriveStation Velocity HD-LXU3 系列外置硬碟 (2TB) HD-LX2.0TU3",
+        "rating": "",
+        "hon_price_min": "628",
+        "hon_price_max": "668",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Book Duo 36TB WDBFBE0360JBK",
+        "rating": "",
+        "hon_price_min": "6,666",
+        "hon_price_max": "6,999",
+        "容量:": "36TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport for Mac 2TB WDBLPG0020BBK",
+        "rating": "",
+        "hon_price_min": "530",
+        "hon_price_max": "565",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "WavLink WL-UTE01 Thunderbolt 3 to NVME SSD Enclosure, Portable PCIe NVME SSD Hard Drive (With 500GB Samsung 960EVO)",
+        "rating": "10",
+        "hon_price_min": "1,000",
+        "hon_price_max": "2,680",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend ESD380C 行動固態硬碟 2TB",
+        "rating": "",
+        "hon_price_min": "1,349",
+        "hon_price_max": "1,780",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE ArmorLock SSD 1TB (SDPS41A-001T)",
+        "rating": "",
+        "hon_price_min": "1,560",
+        "hon_price_max": "1,560",
+        "water_price_min": "1,560",
+        "water_price_max": "1,560",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T7 Touch 500GB",
+        "rating": "9.0",
+        "hon_price_min": "490",
+        "hon_price_max": "1,399",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology G-Drive 7,200rpm USB-A 14TB HD-GDU314T",
+        "rating": "",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lexar 512GB Portable SSD SL100",
+        "rating": "",
+        "hon_price_min": "550",
+        "hon_price_max": "580",
+        "容量:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology G-Drive Mobile USB3.0 1TB 7200RPM",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "容量:": "1TB",
+        "介面:": "USB 3.0"
+    },
+    {
+        "names": "Western Digital WDBDTB0160JSL",
+        "rating": "",
+        "hon_price_min": "7,090",
+        "hon_price_max": "7,090",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements SE USB 3.0 External Hard Drive 500GB (WDBEPK5000ABK-WESN)",
+        "rating": "",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "容量:": "500GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "AKiTiO Neutrino Thunder Edition",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive USB-C 4TB",
+        "rating": "6.0",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,550",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 2TB (WDBKVX0020PSL-WESN)",
+        "rating": "",
+        "hon_price_min": "1,345",
+        "hon_price_max": "1,642",
+        "water_price_min": "1,790",
+        "water_price_max": "1,790",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Buffalo MiniStation PCFS HD-PCFS4.0U3",
+        "rating": "",
+        "hon_price_min": "947",
+        "hon_price_max": "995",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra 1TB 2.5\" USB 3.0 (Type C & A port) WDBC3C0010BSL-WESN",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "499",
+        "water_price_min": "409",
+        "water_price_max": "545",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements Desktop 3TB",
+        "rating": "",
+        "hon_price_min": "679",
+        "hon_price_max": "760",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA HV300 5TB",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "1,070",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo HD-PNF1.0U3-BB 1.0TB MiniStation",
+        "rating": "",
+        "hon_price_min": "495",
+        "hon_price_max": "500",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2big Raid 8TB STHJ8000800",
+        "rating": "",
+        "hon_price_min": "4,350",
+        "hon_price_max": "4,680",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 256GB WDBK3E2560PSL",
+        "rating": "",
+        "hon_price_min": "397",
+        "hon_price_max": "668",
+        "容量:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology G-DRIVE mobile Pro SSD 1TB",
+        "rating": "",
+        "hon_price_min": "2,750",
+        "hon_price_max": "5,450",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Mobile Drive 2TB (STHG2000400)",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "1,080",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "OWC Mercury Elite Pro USB 3.2 3.5 inch External HDD 12TB ME3NH7T12",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "2,880",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Toshiba 東芝 Canvio Ready B3 1TB外置式移動硬盤 (HDTP310AK3AA)",
+        "rating": "8.0",
+        "hon_price_min": "340",
+        "hon_price_max": "368",
+        "容量:": "1TB",
+        "介面:": "USB 3.0 / USB 2.0"
+    },
+    {
+        "names": "Netac WH51 M.2 外置盒",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "介面:": "USB3.1 Type-C",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Toshiba 東芝 Canvio Advance V10 2.5\" HDD 1TB",
+        "rating": "",
+        "hon_price_min": "352",
+        "hon_price_max": "370",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Kingston HyperX SAVAGE EXO SSD 480GB",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "660",
+        "容量:": "480GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate 3.5 inch One Touch Hub USB3.0 Harddisk 12TB (STLC12000400)",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Drobo 5N2",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "5,580",
+        "容量:": "64TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo HD-PCF1.0U3BB",
+        "rating": "",
+        "hon_price_min": "445",
+        "hon_price_max": "452",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology 10TB G-DRIVE USB-C External Hard Drive",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "3,180",
+        "容量:": "10TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Slim 2TB (STHN2000)",
+        "rating": "10",
+        "hon_price_min": "433",
+        "hon_price_max": "508",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Verbatim Vx560 External SSD 1TB",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "799",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Rugged Thunderbolt USB-C 2TB",
+        "rating": "",
+        "hon_price_min": "1,378",
+        "hon_price_max": "1,415",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive 3.5\" USB-C 14TB HD-GDUC14T",
+        "rating": "",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA SE760 外接式固態硬碟 512GB (ASE760-512GU32G2)",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "615",
+        "容量:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital 16TB My Book WDBBGB0160HBK",
+        "rating": "",
+        "hon_price_min": "2,945",
+        "hon_price_max": "3,400",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA SE760 外接式固態硬碟 1TB (ASE760-1TU32G2)",
+        "rating": "",
+        "hon_price_min": "738",
+        "hon_price_max": "968",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SecureDrive  BT 1TB",
+        "rating": "",
+        "hon_price_min": "2,100",
+        "hon_price_max": "2,100",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged Thunderbolt USB-C 4TB",
+        "rating": "",
+        "hon_price_min": "1,899",
+        "hon_price_max": "1,970",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology ArmorATD 1TB 便攜式硬盤",
+        "rating": "",
+        "hon_price_min": "705",
+        "hon_price_max": "705",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 8big Rack Thunderbolt 2 48TB",
+        "rating": "",
+        "hon_price_min": "34,950",
+        "hon_price_max": "34,950",
+        "容量:": "48TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Porsche Design Mobile Drive 4TB",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "1,990",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie USB3.0 Drive 2TB STHY2000800",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "638",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 1TB Rugged SSD Pro 外置硬碟配備 Thunderbolt 3",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,500",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD_BLACK D10 Game Drive for Xbox 12TB (WDBA5E0120HBK)",
+        "rating": "",
+        "water_price_min": "2,725",
+        "water_price_max": "2,725",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 8TB Porsche Design USB-C + USB 3.0 桌上型硬碟",
+        "rating": "",
+        "hon_price_min": "2,135",
+        "hon_price_max": "2,198",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE ArmorATD HDD 1TB USB-C (SDPH81G-001T-ZBAND)",
+        "rating": "",
+        "hon_price_min": "635",
+        "hon_price_max": "705",
+        "water_price_min": "650",
+        "water_price_max": "650",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2TB Mobile SSD 安全 USB-C 硬碟",
+        "rating": "",
+        "hon_price_min": "2,998",
+        "hon_price_max": "2,998",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD_Black P10 Game Drive (4TB)",
+        "rating": "10",
+        "hon_price_min": "726",
+        "hon_price_max": "829",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive USB3.0 4TB",
+        "rating": "2.0",
+        "hon_price_min": "1,146",
+        "hon_price_max": "1,148",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 1TB Mobile SSD 安全 USB-C 硬碟",
+        "rating": "",
+        "hon_price_min": "1,690",
+        "hon_price_max": "1,798",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE Pro SSD 1TB (SDPS51F-001T-ZBANB)",
+        "rating": "",
+        "hon_price_min": "2,600",
+        "hon_price_max": "2,750",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital WD Gaming Drive 2TB (WDBDFF0020BBK)",
+        "rating": "",
+        "hon_price_min": "687",
+        "hon_price_max": "699",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend JetDrive 520 960GB",
+        "rating": "",
+        "hon_price_min": "3,550",
+        "hon_price_max": "4,980",
+        "容量:": "960GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "WavLink 12合1電腦擴展DP/HDMI 4K三屏顯卡塢器 UMD03",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "介面:": "Type-C"
+    },
+    {
+        "names": "G-Technology G-Drive USB3.0 6TB",
+        "rating": "",
+        "hon_price_min": "1,415",
+        "hon_price_max": "1,650",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Crucial X6 2TB Portable SSD (CT2000X6SSD9)",
+        "rating": "",
+        "hon_price_min": "1,170",
+        "hon_price_max": "2,615",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "FREECOM TOUGH DRIVE 3.0 2TB",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Extreme Portable SSD E60 250GB (停產)",
+        "rating": "",
+        "hon_price_min": "575",
+        "hon_price_max": "575",
+        "water_price_min": "565",
+        "water_price_max": "700",
+        "容量:": "250GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology G-Drive 7,200rpm USB-A 2TB HD-GDUSB20",
+        "rating": "",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA 4TB 外接式硬碟 HV320",
+        "rating": "",
+        "hon_price_min": "695",
+        "hon_price_max": "820",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD_BLACK D30 Game Drive SSD for Xbox 500GB (WDBAMF5000ABW)",
+        "rating": "",
+        "water_price_min": "740",
+        "water_price_max": "740",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Portable Drive 1TB (STGA1000800)",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP 500GB Portable SSD P600",
+        "rating": "",
+        "hon_price_min": "578",
+        "hon_price_max": "578",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ADATA HV100 1TB",
+        "rating": "",
+        "hon_price_min": "400",
+        "hon_price_max": "400",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD_Black P40 Game Drive SSD 1TB (WDBAWY0010BBK)",
+        "rating": "",
+        "hon_price_min": "1,297",
+        "hon_price_max": "1,465",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital Elements 2TB USB2.0",
+        "rating": "2.0",
+        "hon_price_min": "399",
+        "hon_price_max": "990",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive Mobile 1TB",
+        "rating": "8.0",
+        "hon_price_min": "470",
+        "hon_price_max": "500",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE Pro 3.5\" HDD 18TB TB3+USB-C (SDPH51J-018T-ZBAAD)",
+        "rating": "",
+        "hon_price_min": "5,590",
+        "hon_price_max": "6,670",
+        "容量:": "18TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Drive for Chromebook 2TB (WDBB7B0020BBL)",
+        "rating": "",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive Mobile 2TB",
+        "rating": "",
+        "hon_price_min": "630",
+        "hon_price_max": "640",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Wireless SSD 500GB",
+        "rating": "",
+        "hon_price_min": "1,596",
+        "hon_price_max": "1,849",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie 1TB Porsche Design USB-C + USB 3.0 便攜硬碟",
+        "rating": "",
+        "hon_price_min": "598",
+        "hon_price_max": "598",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SecureDrive BT 2TB",
+        "rating": "",
+        "hon_price_min": "2,510",
+        "hon_price_max": "2,510",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Expansion SSD 1TB STJD1000400",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "999",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Sony HD-B2 2TB",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "653",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk 64GB iXpand Base For iPHONE",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "399",
+        "容量:": "64GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Professional G-DRIVE Pro SSD 2TB (SDPS51F-002T-ZBANB)",
+        "rating": "",
+        "hon_price_min": "4,915",
+        "hon_price_max": "5,340",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate Backup Plus Portable STHP Series 5TB",
+        "rating": "8.0",
+        "hon_price_min": "749",
+        "hon_price_max": "979",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Sony SL-BG2 256GB",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "660",
+        "容量:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate Fast SSD 1TB STCM1000400",
+        "rating": "",
+        "hon_price_min": "1,175",
+        "hon_price_max": "2,199",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate Backup Plus Hub 8TB STEL8000300",
+        "rating": "",
+        "hon_price_min": "1,278",
+        "hon_price_max": "1,499",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2TB Porsche Design USB-C + USB 3.0 便攜硬碟",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lexar Professional SL100 Pro Portable SSD - 500GB",
+        "rating": "",
+        "hon_price_min": "538",
+        "hon_price_max": "670",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T3 1TB (MU-PT1T0B)",
+        "rating": "",
+        "hon_price_min": "2,860",
+        "hon_price_max": "2,860",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology G-Drive Mobile USB-C 2TB",
+        "rating": "6.0",
+        "hon_price_min": "710",
+        "hon_price_max": "710",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements SE USB 3.0 External Hard Drive 4TB (WDBJRT0040BBK-WESN)",
+        "rating": "",
+        "water_price_min": "820",
+        "water_price_max": "820",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Drobo Drobo (USB 3.0)",
+        "rating": "",
+        "hon_price_min": "3,570",
+        "hon_price_max": "3,570",
+        "介面:": "USB 3.0",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Expansion Portable 4TB (STEA5000)",
+        "rating": "8.0",
+        "hon_price_min": "634",
+        "hon_price_max": "669",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Portable STHN Series 1TB",
+        "rating": "",
+        "hon_price_min": "320",
+        "hon_price_max": "390",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Little Big Disk Thunderbolt 2TB HDD",
+        "rating": "",
+        "hon_price_min": "3,700",
+        "hon_price_max": "3,700",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2big Thunderbolt 2 16TB",
+        "rating": "",
+        "hon_price_min": "6,388",
+        "hon_price_max": "6,388",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie d2 Professional USB3.1 Type-C 18TB (STHA18000800)",
+        "rating": "",
+        "hon_price_min": "5,860",
+        "hon_price_max": "6,280",
+        "容量:": "18TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Book Duo 28TB WDBFBE0280JBK",
+        "rating": "",
+        "hon_price_min": "5,240",
+        "hon_price_max": "5,700",
+        "容量:": "28TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Book 14TB USB3.0 WDBBGB0140HBK",
+        "rating": "",
+        "hon_price_min": "2,468",
+        "hon_price_max": "2,720",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Toshiba 東芝 Canvio Advance V9  2.5\" 2TB",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "550",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Lexar SL100 便攜式固態硬盤 - 512GB",
+        "rating": "",
+        "hon_price_min": "485",
+        "hon_price_max": "485",
+        "容量:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Book DUO 6TB WDBFBE0060JBK",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Wireless SSD 1TB",
+        "rating": "2.0",
+        "hon_price_min": "2,083",
+        "hon_price_max": "2,399",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "G-Technology 4TB G-DRIVE mobile USB-C/USB 3.0 便攜硬碟",
+        "rating": "",
+        "hon_price_min": "1,049",
+        "hon_price_max": "1,049",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Extreme 500 Portable SSD 250GB",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "容量:": "250GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Rugged Thunderbolt USB 3.0 2TB",
+        "rating": "",
+        "hon_price_min": "1,398",
+        "hon_price_max": "1,398",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital NEW My Passport ULTRA 2TB",
+        "rating": "10",
+        "hon_price_min": "622",
+        "hon_price_max": "622",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Fast STDA4000300",
+        "rating": "10",
+        "hon_price_min": "638",
+        "hon_price_max": "680",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD Elements SE USB 3.0 External Hard Drive 2TB (WDBEPK0020BBK-WESN)",
+        "rating": "",
+        "water_price_min": "530",
+        "water_price_max": "530",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "SanDisk Ixpand Wireless Charger Sync 64GB (SDIZ90N-064G)",
+        "rating": "",
+        "water_price_min": "620",
+        "water_price_max": "620",
+        "容量:": "64GB"
+    },
+    {
+        "names": "OWC Mercury Elite Pro USB 3.2 3.5 inch External HDD 14TB ME3NH7T14",
+        "rating": "",
+        "hon_price_min": "2,998",
+        "hon_price_max": "3,280",
+        "容量:": "14TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend StoreJet 25M3 500GB (停產)",
+        "rating": "",
+        "hon_price_min": "369",
+        "hon_price_max": "369",
+        "容量:": "500GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 5big Thunderbolt 2 20TB",
+        "rating": "",
+        "hon_price_min": "16,030",
+        "hon_price_max": "16,060",
+        "容量:": "20TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 Portable SSD T3 2TB (MU-PT2T0B)",
+        "rating": "",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie 500GB Mobile SSD 安全 USB-C 硬碟",
+        "rating": "",
+        "hon_price_min": "1,098",
+        "hon_price_max": "1,098",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Book Duo 8TB WDBFBE0080JBK",
+        "rating": "",
+        "hon_price_min": "2,325",
+        "hon_price_max": "2,489",
+        "容量:": "8TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Mobile Drive Secure USB-C 5TB 硬碟 STLR5000400",
+        "rating": "",
+        "hon_price_min": "1,398",
+        "hon_price_max": "1,398",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "OWC Envoy Pro EX Rugged Portable SSD Thunderbolt 3 500GB OWCTB3ENVP05",
+        "rating": "",
+        "hon_price_min": "1,680",
+        "hon_price_max": "1,880",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Seagate Backup Plus Ultra Touch 2TB",
+        "rating": "",
+        "hon_price_min": "637",
+        "hon_price_max": "637",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2TB 1big Dock SSD Pro",
+        "rating": "",
+        "hon_price_min": "11,150",
+        "hon_price_max": "11,880",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ADATA HD720 1TB",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie d2 Professional USB3.1 Type-C 16TB (STHA16000800)",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "5,570",
+        "容量:": "16TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA HV620 2000GB",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport NEW USB3.0 3TB WDBYFT0030",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "650",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Verbatim 2.5\" Store'n'Go Grid Design Hard Drive 2TB",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "588",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "DGM My Mobile Storage MMS-512G",
+        "rating": "",
+        "hon_price_min": "1,187",
+        "hon_price_max": "1,187",
+        "容量:": "512GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend StoreJet 25A3 2TB",
+        "rating": "",
+        "hon_price_min": "460",
+        "hon_price_max": "460",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport X 3TB (WDBCRM0030BBK)",
+        "rating": "",
+        "water_price_min": "935",
+        "water_price_max": "935",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA 2TB 外接式硬碟 HV320",
+        "rating": "7.0",
+        "hon_price_min": "432",
+        "hon_price_max": "535",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend StoreJet 可攜式外接硬碟 25C3S 2TB",
+        "rating": "",
+        "hon_price_min": "790",
+        "hon_price_max": "1,188",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital Elements USB 3.0 4TB",
+        "rating": "",
+        "hon_price_min": "674",
+        "hon_price_max": "1,160",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged Raid 4TB (STFA4000400)",
+        "rating": "",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,699",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Ultra 1TB WDBTLG0010B",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "490",
+        "water_price_min": "420",
+        "water_price_max": "420",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Toshiba 東芝 Canvio Ready B2 1TB",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "398",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive USB3.0 10TB",
+        "rating": "",
+        "hon_price_min": "2,590",
+        "hon_price_max": "2,590",
+        "容量:": "10TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Diamond-Cut Mobile Drive 4TB External Hard Drive Portable HDD - USB3.0+TypeC w/Backup STHG4000402",
+        "rating": "",
+        "hon_price_min": "1,260",
+        "hon_price_max": "1,308",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo 480GB SSD-PGM480U3",
+        "rating": "",
+        "hon_price_min": "450",
+        "hon_price_max": "450",
+        "容量:": "480GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital My Passport Wireless SSD 250GB",
+        "rating": "",
+        "hon_price_min": "1,469",
+        "hon_price_max": "1,549",
+        "容量:": "250GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Rugged RAID Pro 4TB HDD STGW4000800",
+        "rating": "",
+        "hon_price_min": "1,998",
+        "hon_price_max": "2,790",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive ev RAW 2TB",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,150",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport for Mac 5TB (WDBA2F0050BBL)",
+        "rating": "",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Verbatim Vx500 SSD External Solid State Drive 120GB",
+        "rating": "",
+        "hon_price_min": "448",
+        "hon_price_max": "448",
+        "容量:": "120GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Buffalo 960GB SSD-PGM960U3",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "1,488",
+        "容量:": "960GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend JetDrive 500 960GB",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "容量:": "960GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Transcend 25H2P 1TB",
+        "rating": "",
+        "hon_price_min": "410",
+        "hon_price_max": "410",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ADATA 1TB HD330移動硬盤 AHD330-1TU31",
+        "rating": "",
+        "hon_price_min": "324",
+        "hon_price_max": "350",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie BOSS DJI CoPilot 2TB (STGU2000400)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,995",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport SSD 256GB (WDBKVX2560PSL)",
+        "rating": "",
+        "water_price_min": "515",
+        "water_price_max": "515",
+        "容量:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Western Digital 2TB Black P50 Game Drive SSD (WDBA3S0020BBK)",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,916",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Promise Pegasus2 R Series 3TB SATA 硬碟模組",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,200",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend StoreJet 可攜式外接硬碟 25C3S 1TB",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "750",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Mobile Drive 4TB (STHG4000400)",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,420",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Portable STHN Series 2TB",
+        "rating": "",
+        "hon_price_min": "432",
+        "hon_price_max": "488",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Passport Wireless Pro 2TB",
+        "rating": "",
+        "hon_price_min": "1,228",
+        "hon_price_max": "1,228",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Sony HD-SL1",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "459",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital WD-Easystore 外置USB 3.0便攜式硬盤 4TB (WDBAJP0040BBK-WESN)",
+        "rating": "10",
+        "hon_price_min": "670",
+        "hon_price_max": "720",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP Ultrium Universal Cleaning Cartidge for LTO Ultrium (C7978A)",
+        "rating": "10",
+        "hon_price_min": "278",
+        "hon_price_max": "358",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend StoreJet 25H3 2TB",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "818",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Porsche Design P’9220 (1TB)",
+        "rating": "9.3",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "容量:": "1TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology 4TB G-DRIVE mobile USB-C 便攜硬碟",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital Elements 500GB USB3.0",
+        "rating": "8.0",
+        "hon_price_min": "334",
+        "hon_price_max": "334",
+        "容量:": "500GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate STBX2000401",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "G-Technology G-Drive Mobile SSD R-Series 2TB",
+        "rating": "",
+        "hon_price_min": "3,299",
+        "hon_price_max": "3,299",
+        "容量:": "2TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Lexar Professional SL100 Pro Portable SSD - 1TB",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "1,068",
+        "容量:": "1TB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ADATA HD720 2TB",
+        "rating": "",
+        "hon_price_min": "618",
+        "hon_price_max": "618",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie 2big Thunderbolt 2 12TB",
+        "rating": "8.0",
+        "hon_price_min": "6,650",
+        "hon_price_max": "6,650",
+        "容量:": "12TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Transcend StoreJet 25H3 4TB",
+        "rating": "10",
+        "hon_price_min": "830",
+        "hon_price_max": "1,193",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Rugged mini 迷你系統防跌硬碟 4TB (STFR4000800)",
+        "rating": "",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,428",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Fast SSD 500GB STCM500401",
+        "rating": "",
+        "hon_price_min": "648",
+        "hon_price_max": "720",
+        "容量:": "500GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie 2big Dock Thunderbolt 3 儲存裝置 28TB STGB28000400",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "12,890",
+        "容量:": "28TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LACIE Porsche Design Mobile Drive P'9220 2TB(9000459)",
+        "rating": "",
+        "hon_price_min": "845",
+        "hon_price_max": "845",
+        "容量:": "2TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Seagate Backup Plus Portable 4TB",
+        "rating": "8.0",
+        "hon_price_min": "638",
+        "hon_price_max": "798",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Kingmax 480GB 外接式行動固態硬碟 (USB3.1 Gen1) KE31",
+        "rating": "",
+        "hon_price_min": "600",
+        "hon_price_max": "650",
+        "容量:": "480GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie D2 USB 3.0 Thunderbolt Series",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,200",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie Porsche Design STFE4000300",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Buffalo 5TB HDD HD-PGF5.0U3",
+        "rating": "8.0",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,699",
+        "容量:": "5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Western Digital My Book Essential USB3.0 4TB",
+        "rating": "10",
+        "hon_price_min": "1,160",
+        "hon_price_max": "1,160",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Sony SL-BG1 256GB",
+        "rating": "",
+        "hon_price_min": "660",
+        "hon_price_max": "660",
+        "容量:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "LaCie Rugged Mini 4TB (LAC9000633)",
+        "rating": "",
+        "hon_price_min": "1,330",
+        "hon_price_max": "1,500",
+        "容量:": "4TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie d2 Thunderbolt 2 3TB",
+        "rating": "",
+        "hon_price_min": "1,970",
+        "hon_price_max": "2,298",
+        "容量:": "3TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Samsung 三星 M3 1.5TB",
+        "rating": "",
+        "容量:": "1.5TB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "LaCie d2 USB 3.0 + Thunderbolt 6TB",
+        "rating": "",
+        "hon_price_min": "3,100",
+        "hon_price_max": "3,185",
+        "容量:": "6TB",
+        "硬碟類型:": "HDD"
+    }
+]

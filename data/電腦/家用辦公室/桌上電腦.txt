@@ -1,0 +1,4329 @@
+[
+    {
+        "names": "ARES Mare Mini PC 迷你電腦 (N5105, 8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "1,899",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ARES Morana Mini PC 迷你電腦 (i5-1135G7, 16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,899",
+        "hon_price_max": "4,999",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "NVMe SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 2 迷你電腦 CS-GNBOX2",
+        "rating": "10",
+        "hon_price_min": "2,950",
+        "hon_price_max": "3,499",
+        "作業系統:": "Window 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "內置處理器顯示晶片 Intel Iris Plus Graphics 655",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 2 超迷你電腦 (i5-8279u, 16+512GB SSD) CS-GNB2V2",
+        "rating": "10",
+        "hon_price_min": "3,430",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Plus Graphics 655",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC NucBox 12 迷你電腦 (i7-10875H, 32+1000GB SSD) CS-GNB121T",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,999",
+        "作業系統:": "Window 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics for 10th Gen",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC NucBox 12 迷你電腦 (i7-10875H, 32+512GB SSD) CS-GNBOX12",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "5,499",
+        "作業系統:": "Window 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics for 10th Gen",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF(i7-12700,16+1000GB SSD) D700SD-712700039X",
+        "rating": "",
+        "hon_price_min": "7,900",
+        "hon_price_max": "7,900",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Apple Mac mini (M2 Pro / 16GB 記憶體 / 512GB SSD)",
+        "rating": "",
+        "hon_price_min": "9,899",
+        "hon_price_max": "9,999",
+        "作業系統:": "macOS",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox2 Plus Mini-PC (i5-1135G7/16+512GB) CS-GNBOX2P",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "5,999",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox3 Mini-PC (Intel J4125/8+512GB) CS-GNB3512",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "2,199",
+        "作業系統:": "Window 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox5 Mini-PC (Intel N5105/8+512GB) CS-GNB5512",
+        "rating": "10",
+        "hon_price_min": "1,950",
+        "hon_price_max": "2,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Grapics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM EliteMini HX90 AMD Ryzen 9 5900HX Mini-PC (CS-MFHX90)",
+        "rating": "",
+        "hon_price_min": "6,000",
+        "hon_price_max": "8,998",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM Minisforum UM560 AMD Ryzen 5 5625U 8+256GB Mini-PC (CS-MFUM560)",
+        "rating": "",
+        "hon_price_min": "3,490",
+        "hon_price_max": "4,299",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics (Graphics Frequency 1800 MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Vostro 小型桌上型電腦 V3710-R1502-B-W11",
+        "rating": "",
+        "hon_price_min": "5,140",
+        "hon_price_max": "5,198",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphic",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX Neo J51-C8 MAX Mini PC (N5105, 8+512GB SSD)",
+        "rating": "10",
+        "hon_price_min": "2,398",
+        "hon_price_max": "2,780",
+        "作業系統:": "Windows 11 Pro (64bit)",
+        "硬碟類型:": "2280 M.2 slot SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN64 (i3-1220P,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "5,388",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IAB7 (90SM000CHH)",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "6,480",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70S Gen 3 (i5-12500,8+512GB SSD) 11T8S01F00",
+        "rating": "",
+        "hon_price_min": "5,620",
+        "hon_price_max": "6,200",
+        "作業系統:": "Windows 11 DOWNGRADE Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 770",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox5 Mini-PC (Intel N5105/8+256GB) CS-GNB5256",
+        "rating": "10",
+        "hon_price_min": "1,750",
+        "hon_price_max": "2,199",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Grapics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 一體式電腦 (F5401WUAK-WA002W)",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "7,298",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC (N6000,4+128GB SSD) PN41-N64G128P",
+        "rating": "",
+        "hon_price_min": "2,870",
+        "hon_price_max": "3,299",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 (F5401WUAK-WA009W)",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "7,998",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINISFORUM GK50 Mini PC (CS-MFGK50)",
+        "rating": "",
+        "hon_price_min": "1,989",
+        "hon_price_max": "2,499",
+        "作業系統:": "Windows 10 Pro (Pre-installed)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 605",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC NucBox 2 Plus (i5-1135G7, 16+512GB SSD)",
+        "rating": "10",
+        "hon_price_min": "4,550",
+        "hon_price_max": "4,599",
+        "作業系統:": "Window 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PB62 迷你桌上型電腦 (i5-11400, 8GB+512GB SSD, Windows 11 Home) PB62-I58G512HD",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "6,580",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 630",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN62 (PN62-I58G512W11)",
+        "rating": "2.0",
+        "hon_price_min": "4,999",
+        "hon_price_max": "4,999",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated - Intel HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC (R5-5600H, 8+512GB SSD) PN52-R58512",
+        "rating": "",
+        "hon_price_min": "5,698",
+        "hon_price_max": "6,188",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN64 (i7-12700H, 16GB+1TB SSD)",
+        "rating": "10",
+        "hon_price_min": "8,480",
+        "hon_price_max": "8,988",
+        "water_price_min": "7,499",
+        "water_price_max": "7,499",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PB62 迷你桌上型電腦 (i7-11700, 16GB+1000GB SSD, Windows 10 Pro)",
+        "rating": "",
+        "hon_price_min": "8,410",
+        "hon_price_max": "8,980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "整合式 Intel UHD 顯示卡",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Apple Mac mini (M2 / 8GB 記憶體 / 256GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,499",
+        "hon_price_max": "4,599",
+        "作業系統:": "macOS",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM EliteMini X500 AMD Ryzen 7 5700G Mini-PC (CS-MFX500)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "6,399",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Slim 桌面電腦 - S01-pF2001hk (5Z7X4PA)",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,550",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型電腦"
+    },
+    {
+        "names": "MINIX Neo NGC-7 Pro Mini PC (i7-10510U, 16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,990",
+        "hon_price_max": "6,000",
+        "作業系統:": "Windows 11 Pro (64-bit)",
+        "硬碟類型:": "M.2 NVMe SSD",
+        "顯示卡:": "Intel UHD Graphics 620",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 超迷你電腦 256GB CS-GNB256G",
+        "rating": "9.6",
+        "hon_price_min": "1,549",
+        "hon_price_max": "1,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN64 (i5-12500H,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,888",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF 桌上電腦 (D700SD-712700003W)",
+        "rating": "",
+        "hon_price_min": "8,000",
+        "hon_price_max": "8,998",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce GT 1030 2GB",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Vostro 小型桌上型電腦 V3710-R1302",
+        "rating": "",
+        "hon_price_min": "4,430",
+        "hon_price_max": "4,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IAB7 (90SM007MHH)",
+        "rating": "",
+        "hon_price_min": "5,390",
+        "hon_price_max": "5,630",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX Neo J50C-4 Max Mini PC",
+        "rating": "8.0",
+        "hon_price_min": "2,580",
+        "hon_price_max": "3,798",
+        "作業系統:": "Windows 10 Pro (64-bit)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 605, Support 4K@60Hz",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINIX Neo J51-C8 Mini PC (N5105, 8+256GB SSD)",
+        "rating": "10",
+        "hon_price_min": "2,289",
+        "hon_price_max": "2,699",
+        "作業系統:": "Windows 11 Pro (64bit)",
+        "硬碟類型:": "2280 M.2 slot SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM EliteMini HX90 V2 AMD Ryzen 9 5900HX Mini-PC (CS-MHX90V2)",
+        "rating": "",
+        "hon_price_min": "5,780",
+        "hon_price_max": "7,998",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics (Graphics Frequency 2100 MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN62-B5655ZT",
+        "rating": "",
+        "hon_price_min": "4,930",
+        "hon_price_max": "6,388",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MSI PRO DP21 12M Gen12 (i5-12400,8+512GB SSD,Intel UHD Graphics)",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "5,599",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 4 4K MINI PC (R7/16+512GB) CS-GNBOX4",
+        "rating": "10",
+        "hon_price_min": "3,490",
+        "hon_price_max": "4,499",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon RX Vega 10 Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox5 Mini-PC (Intel N5105/8+1TB) CS-GNB51T",
+        "rating": "",
+        "hon_price_min": "2,030",
+        "hon_price_max": "2,299",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Grapics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IAB7 (90SM007LHH)",
+        "rating": "",
+        "hon_price_min": "4,273",
+        "hon_price_max": "4,899",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN80 (i7-11700B/32+1000GB)",
+        "rating": "",
+        "hon_price_min": "9,390",
+        "hon_price_max": "9,599",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN41 桌上電腦 (PN41-N54G128PRO)",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "3,299",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "eMMC",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP 多合一電腦 24-ck0006hk",
+        "rating": "",
+        "hon_price_min": "7,980",
+        "hon_price_max": "8,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "一體式"
+    },
+    {
+        "names": "GMKTEC Nucbox 7 (N6005, 16+512GB SSD) CS-GNBOX7",
+        "rating": "8.0",
+        "hon_price_min": "2,599",
+        "hon_price_max": "2,599",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 8 PC (N4100,6+128GB eMMC)",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "eMMC",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 一體式電腦 23.8吋 (R5-5625U,16+512GB SSD) F5401WYAK-WA5603W",
+        "rating": "",
+        "hon_price_min": "6,710",
+        "hon_price_max": "7,200",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre neo 30a 22吋一體成型電腦 (i5-1240P, 16+512GB SSD) 12B1008UHK",
+        "rating": "",
+        "hon_price_min": "6,750",
+        "hon_price_max": "6,998",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINISFORUM Venus Series UM690 Mini-PC (R9-6900HX, 16+512GB SSD) CS-MFUM690",
+        "rating": "",
+        "hon_price_min": "5,499",
+        "hon_price_max": "5,699",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon 680M (Graphics Frequency 2400 MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN62 (PN62-I716G1T)",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "7,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 10 (R7-5800U, 16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,460",
+        "hon_price_max": "5,499",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 一體式電腦 (F5401WUAT-BA011W)",
+        "rating": "",
+        "hon_price_min": "8,980",
+        "hon_price_max": "9,700",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MSI PRO AP241 11M 23.8吋一體式電腦 (AI-AP241I5)",
+        "rating": "10",
+        "hon_price_min": "5,499",
+        "hon_price_max": "6,999",
+        "作業系統:": "Windows",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINISFORUM NUCG5 Mini-PC (i5-1240P, 16+512GB SSD) CS-MFNUCG5",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,199",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics (1.3GHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM EliteMini HM90 AMD Ryzen 9 4900H Mini-PC (CS-MFHM90)",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,999",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC (R7-5800H, 16+1000GB SSD) PN52-R716G1T",
+        "rating": "10",
+        "hon_price_min": "7,400",
+        "hon_price_max": "7,999",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 超迷你電腦 128GB CS-GNB128G",
+        "rating": "10",
+        "hon_price_min": "1,420",
+        "hon_price_max": "1,799",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Pavilion 27\" All-in-One 多合一電腦 27-ca1006hk",
+        "rating": "",
+        "hon_price_min": "14,200",
+        "hon_price_max": "15,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce GTX1650 4GB GDDR6",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Pavilion 24\" All-in-One 多合一電腦 24-ca1004hk",
+        "rating": "",
+        "hon_price_min": "11,060",
+        "hon_price_max": "12,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX450 2GB GDDR6",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN50 (PN50-E1-R78G512S)",
+        "rating": "",
+        "hon_price_min": "4,199",
+        "hon_price_max": "5,288",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated - Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Apple Mac mini (M1 /8GB 記憶體/ 256GB SSD) MGNR3ZP/A",
+        "rating": "10",
+        "hon_price_min": "4,499",
+        "hon_price_max": "5,299",
+        "water_price_min": "4,980",
+        "water_price_max": "4,980",
+        "作業系統:": "macOS",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MSI Modern AM242TP 12M 23.8吋一體式觸控電腦 (i5-1240P,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "7,499",
+        "hon_price_max": "7,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "GMKTEC Nucbox 超迷你電腦 512GB CS-GNB512G",
+        "rating": "10",
+        "hon_price_min": "1,709",
+        "hon_price_max": "2,299",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM Neptune HX99G Mini-PC (R9-6900HX, 16+512GB SSD) CS-MFHX99G",
+        "rating": "",
+        "hon_price_min": "7,999",
+        "hon_price_max": "8,199",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon RX 6600M (GDDR6 8GB)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ZOTAC MAGNUS ONE Gaming mini PC ECM73070C",
+        "rating": "5.0",
+        "hon_price_min": "12,500",
+        "hon_price_max": "13,200",
+        "處理器:": "Intel i7-10700",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Inspiron 24 All-in-One 多合一桌上電腦 5410A-R1300",
+        "rating": "",
+        "hon_price_min": "5,998",
+        "hon_price_max": "6,998",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre Neo 30a 24吋一體成型電腦 (i5-1240P, 16+265GB SSD) 12B000CBHK",
+        "rating": "",
+        "hon_price_min": "6,998",
+        "hon_price_max": "7,400",
+        "作業系統:": "預載 Windows 10 Pro 64 (可升級至 Windows 11 Pro 64)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN51 (PN51-E1-R58G512S)",
+        "rating": "",
+        "hon_price_min": "4,600",
+        "hon_price_max": "5,688",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated - Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Tiny G2 (11MYS01400)",
+        "rating": "",
+        "hon_price_min": "5,390",
+        "hon_price_max": "5,919",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "NVMe SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Beelink GTR5 5900HX Gaming Mini PC (AMD R9 5900H/32GB RAM/500GB SSD)",
+        "rating": "",
+        "hon_price_min": "7,199",
+        "hon_price_max": "7,199",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP 24\" All-in-One PC 多合一電腦 24-ck0000hk",
+        "rating": "",
+        "hon_price_min": "8,900",
+        "hon_price_max": "9,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX450 2GB DDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MSI Modern AM272 12M 27吋一體式電腦 (i5-1240P,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,699",
+        "hon_price_max": "6,699",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINISFORUM Neptune NAD9 Mini-PC (i9-12900H, 16+512GB SSD) CS-MFNAD9",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "6,199",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics (Graphics Frequency 1.45 GHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Apple 24\" iMac 配備 Retina 4.5K 顯示器 (7核心GPU 256GB)",
+        "rating": "",
+        "hon_price_min": "9,487",
+        "hon_price_max": "9,699",
+        "water_price_min": "7,998",
+        "water_price_max": "7,999",
+        "作業系統:": "Mac OS",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated 7-core GPU",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PB62 迷你桌上型電腦 (i7-11700, 16GB+1000GB SSD, Windows 11 Home) PB62-I716G1THD",
+        "rating": "",
+        "hon_price_min": "7,980",
+        "hon_price_max": "8,980",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 630",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MSI Modern AM271 11M 27吋一體式電腦 (AI-AM271I5)",
+        "rating": "10",
+        "hon_price_min": "8,900",
+        "hon_price_max": "8,999",
+        "作業系統:": "Windows",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN51 (PN51-E1-R716G1T)",
+        "rating": "10",
+        "hon_price_min": "5,980",
+        "hon_price_max": "7,388",
+        "作業系統:": "Windows 10 Home Advance",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Vega 7",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DC0047HH)",
+        "rating": "",
+        "hon_price_min": "5,850",
+        "hon_price_max": "6,010",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 顯示卡 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PB62 (i5-11400,8+512GB SSD,Windows 10 Pro)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "7,998",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "GMKTEC NucBox 2 Pro (i5-8279U, 8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,499",
+        "作業系統:": "Window 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Plus Graphics 655",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN51 桌上電腦 (PN51-R716G512)",
+        "rating": "",
+        "hon_price_min": "5,890",
+        "hon_price_max": "6,880",
+        "作業系統:": "Windows 10",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MSI Modern AM272 12M 27吋一體式電腦 (i7-1260P,16+1000GB SSD)",
+        "rating": "",
+        "hon_price_min": "8,699",
+        "hon_price_max": "8,699",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (D700SC-310100003W)",
+        "rating": "",
+        "hon_price_min": "4,560",
+        "hon_price_max": "4,580",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINISFORUM UM590 Mini-PC (R9-5900HX, 16+512GB SSD) CS-MFUM590",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "4,999",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics (2100 MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (D700SC-511500009W)",
+        "rating": "",
+        "hon_price_min": "5,560",
+        "hon_price_max": "5,598",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 750",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "GMKTEC Nucbox 3 4K MINI PC (Intel J4125/8+256GB) CS-GNBOX3",
+        "rating": "",
+        "hon_price_min": "1,469",
+        "hon_price_max": "1,999",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 (F5401WUAT-BA031W)",
+        "rating": "",
+        "hon_price_min": "8,200",
+        "hon_price_max": "8,990",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINISFORUM EliteMini TL50 with Thunderbolt 4  (CS-MFTL50)",
+        "rating": "8.0",
+        "hon_price_min": "5,199",
+        "hon_price_max": "5,199",
+        "作業系統:": "Windows 10 Pro (Pre-installed)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics (Graphics Frequency 1.30 GHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM DeskMini UM350 (R5-3550H/8+256GB) CS-MFUM350",
+        "rating": "",
+        "hon_price_min": "2,999",
+        "hon_price_max": "4,299",
+        "作業系統:": "Windows 10 Pro (Pre-installed)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon Vega 8 Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS ProArt Station PD5 (PD500TC-911900034X)",
+        "rating": "",
+        "hon_price_min": "23,800",
+        "hon_price_max": "23,998",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX3070",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN50 (PN50-E1-R58G256S)",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated - Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM EliteMini TL50 v2 with Thunderbolt 4 (CS-MTL50V2)",
+        "rating": "",
+        "hon_price_min": "5,399",
+        "hon_price_max": "5,399",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Huawei 28.2\" MateStation X (R5/16+512GB)",
+        "rating": "",
+        "hon_price_min": "13,380",
+        "hon_price_max": "13,380",
+        "water_price_min": "12,880",
+        "water_price_max": "13,380",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MSI Pro DP20ZA 5M-047TW 5600G 迷你桌上電腦 (CS-DP20047)",
+        "rating": "",
+        "hon_price_min": "4,599",
+        "hon_price_max": "5,299",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated AMD Radeon Graphics",
+        "類型:": "迷你桌上電腦"
+    },
+    {
+        "names": "Dell Inspiron 27吋多合一桌上型電腦 INS7700A-R3702",
+        "rating": "",
+        "hon_price_min": "9,750",
+        "hon_price_max": "9,798",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "GMKTEC Nucbox 9 (R5-5600U, 16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IAB7 (90SM007KHH)",
+        "rating": "",
+        "hon_price_min": "8,110",
+        "hon_price_max": "8,260",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 770",
+        "類型:": "桌上電腦"
+    },
+    {
+        "names": "Beelink SER5 Pro Mini PC (R5-5600H, 16+500GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "4,799",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics 7core 1800MHz",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PB62 迷你桌上型電腦 (i5-11400, 8GB+512GB SSD, Windows 10 Home) PB62-I58G512",
+        "rating": "9.0",
+        "hon_price_min": "4,680",
+        "hon_price_max": "6,388",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Huawei 28.2\" MateStation X (R7/16+512GB)",
+        "rating": "",
+        "water_price_min": "14,880",
+        "water_price_max": "16,080",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN51 桌上電腦 (PN51-R716G1TS)",
+        "rating": "10",
+        "hon_price_min": "5,980",
+        "hon_price_max": "7,480",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINIX NEO J50C-8SE Mini PC",
+        "rating": "10",
+        "hon_price_min": "2,190",
+        "hon_price_max": "3,798",
+        "作業系統:": "Windows 10 Pro (64-bit)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 23.8吋 (R7-5825U, 16+1000GB SSD) F5401WYAT-WA5809W",
+        "rating": "",
+        "hon_price_min": "8,950",
+        "hon_price_max": "9,580",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "一體式桌上電腦"
+    },
+    {
+        "names": "HP Pavilion Desktop 桌上電腦 TP01-2000hk",
+        "rating": "",
+        "hon_price_min": "5,510",
+        "hon_price_max": "6,950",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "SmarterWare M6S 4K Nano Mini PC (Intel N5105/8+512GB)",
+        "rating": "",
+        "hon_price_min": "2,299",
+        "hon_price_max": "2,299",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS MINI PC PN30",
+        "rating": "10",
+        "hon_price_min": "1,960",
+        "hon_price_max": "1,960",
+        "處理器:": "AMD E2-7015",
+        "顯示卡:": "AMD HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "AOC 23.8吋 升級版 (i5-4460, 8+256GB SSD) P2D083M/BP",
+        "rating": "",
+        "water_price_min": "3,880",
+        "water_price_max": "3,880",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "集成顯卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell Inspiron 3901 精巧桌上型電腦 R1302-B-W11 (ins3910-d1302)",
+        "rating": "",
+        "hon_price_min": "4,399",
+        "hon_price_max": "4,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD 730 Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo V50s SFF i3 Model (11EFS02R00)",
+        "rating": "",
+        "hon_price_min": "2,950",
+        "hon_price_max": "2,950",
+        "處理器:": "Intel i3-10100",
+        "硬碟類型:": "SSD+HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP 24\" All-in-One PC 多合一電腦 24-ck0002hk",
+        "rating": "",
+        "hon_price_min": "6,480",
+        "hon_price_max": "6,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP 多合一桌面電腦 (i5-12400T,16+1000GB SSD) 24-ck0016hk",
+        "rating": "",
+        "hon_price_min": "8,580",
+        "hon_price_max": "9,199",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX450 2GB DDR5",
+        "類型:": "一體式電腦"
+    },
+    {
+        "names": "MINISFORUM EliteMini TH60 Mini-PC (i5-11400H,8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,599",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM UM340 Mini PC (CS-MFUM340)",
+        "rating": "",
+        "hon_price_min": "3,200",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 10 Pro (Pre-installed)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Vega 8 Graphics (Graphics Frequency 1200MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90a Gen 3 AIO 23.8吋 (i7-12700, 16+1000GB SSD) 11VFS00400",
+        "rating": "",
+        "hon_price_min": "11,980",
+        "hon_price_max": "12,400",
+        "作業系統:": "預載 Windows 10 專業版 64 (可升級至 Windows 11 專業版 64)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Zen AiO 24 23.8吋 (R7-5825U, 16+1000GB SSD) F5401WYAK-WA5807W",
+        "rating": "",
+        "hon_price_min": "8,050",
+        "hon_price_max": "8,580",
+        "作業系統:": "Win11 Home 64bit",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式桌上電腦"
+    },
+    {
+        "names": "ASUS Mini PC PN50 (PN50-B5317ZD)",
+        "rating": "",
+        "hon_price_min": "3,888",
+        "hon_price_max": "3,888",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF 桌上電腦 (i5-12400,8+512GB SSD) D700SD-512400004W",
+        "rating": "",
+        "hon_price_min": "5,710",
+        "hon_price_max": "6,350",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP 多合一電腦 24-ck0004hk",
+        "rating": "",
+        "hon_price_min": "6,800",
+        "hon_price_max": "7,099",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS ASUS ExpertCenter D5 SFF (D500SC-511400099T)",
+        "rating": "",
+        "hon_price_min": "4,950",
+        "hon_price_max": "5,098",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Vostro 小型桌上型電腦 V3681-R1302-B-W10",
+        "rating": "",
+        "hon_price_min": "3,798",
+        "hon_price_max": "4,498",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70a Gen 3 AIO 21.5吋 (i5-12500, 16+512GB SSD) 11VLS00000",
+        "rating": "",
+        "hon_price_min": "9,280",
+        "hon_price_max": "9,500",
+        "作業系統:": "預載 Windows 10 專業版 64 (可升級至 Windows 11 專業版 64)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Zen AiO 24 (F5401WUAK-WA059T)",
+        "rating": "",
+        "hon_price_min": "7,230",
+        "hon_price_max": "7,980",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Huawei MateStation X 2023 28.2吋 (i9-12900H,16+512GB SSD)",
+        "rating": "",
+        "water_price_min": "14,580",
+        "water_price_max": "14,580",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xᵉ Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Pavilion 多合一電腦 31.5吋 (i7 -12700T, 16+1000GB SSD) 32-b0004hk",
+        "rating": "",
+        "hon_price_min": "17,880",
+        "hon_price_max": "17,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 3050",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF 桌上電腦 (D700SD-512400005W)",
+        "rating": "",
+        "hon_price_min": "6,180",
+        "hon_price_max": "6,998",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINIX NGC-5 Mini PC (i5-8259U/8GB/256GB/W10Pro)",
+        "rating": "",
+        "hon_price_min": "3,998",
+        "hon_price_max": "4,698",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "M.2 SSD",
+        "顯示卡:": "Intel Iris Plus Graphics 655",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 (F5401WUAK-WA054T)",
+        "rating": "10",
+        "hon_price_min": "7,250",
+        "hon_price_max": "9,280",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINISFORUM DeskMini X400 CS-MFX4003",
+        "rating": "10",
+        "hon_price_min": "3,950",
+        "hon_price_max": "4,299",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon Vega Graphics (Graphics Frequency 1900 MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP EliteDesk 800 G1 Desktop Mini PC (i5-4590T,8+256GB SSD)",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MSI Cubi N JSL-010TW",
+        "rating": "",
+        "hon_price_min": "1,799",
+        "hon_price_max": "2,199",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ZOTAC ZBOX edge CI341 with Windows 10 Pro (4+120GB)",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,150",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 24ITL6 (F0G0007AHH)",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "7,480",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINISFORUM EliteMini TH50 (i5-11320H/16+512GB) CS-MFTH50",
+        "rating": "",
+        "hon_price_min": "4,589",
+        "hon_price_max": "5,699",
+        "作業系統:": "Windows 10 Pro (Pre-installed)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Pavilion 桌上型電腦 TP01-3000hk",
+        "rating": "10",
+        "hon_price_min": "5,630",
+        "hon_price_max": "6,399",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Slim Desktop S01-pf1134hk (180G1AA)",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "6,299",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD 630 Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 (F5401WUAT-WA010W)",
+        "rating": "",
+        "hon_price_min": "8,980",
+        "hon_price_max": "10,481",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN62S-B3649ZD",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,688",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Inspiron 24 5400A-R2502-W11",
+        "rating": "",
+        "hon_price_min": "6,490",
+        "hon_price_max": "6,698",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN63-S1 (i3-1115G4,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,710",
+        "hon_price_max": "4,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO (F5401WUAK-WA015T)",
+        "rating": "",
+        "hon_price_min": "6,410",
+        "hon_price_max": "6,980",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (20M96PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "5,150",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Pavilion Desktop 桌上電腦 TP01-2001hk",
+        "rating": "",
+        "hon_price_min": "6,610",
+        "hon_price_max": "7,499",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce GT1030 2G DDR5",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Beelink SER Mini PC (AMD Ryzen 5+Radeon Vega 8 / 8G+256G)",
+        "rating": "",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,099",
+        "作業系統:": "Windows 10",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Vega 8"
+    },
+    {
+        "names": "HP Pavilion Desktop (i5-12400, 16+1000GB SSD) TP01-3003hk",
+        "rating": "",
+        "hon_price_min": "7,499",
+        "hon_price_max": "7,599",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Gen 2 (i7-11700T,16+1000GB SSD) 11MYS01500",
+        "rating": "",
+        "hon_price_min": "6,390",
+        "hon_price_max": "7,560",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Pro Mini 400 G9 (i5-12500T, 8+512GB SSD) 6N103PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,970",
+        "hon_price_max": "5,999",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 770",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo 聯想小新 Pro 27 一體式電腦 27吋 (i5-12500H/16G+1TB/JBL音箱)",
+        "rating": "",
+        "hon_price_min": "9,780",
+        "hon_price_max": "9,780",
+        "water_price_min": "9,780",
+        "water_price_max": "9,780",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MSI Modern AM242 12M 23.8吋一體式電腦 (i5-1240P,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,499",
+        "hon_price_max": "6,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC (R9-5900HX, 32+1000GB SSD) PN52-R9X32G1T",
+        "rating": "",
+        "hon_price_min": "8,250",
+        "hon_price_max": "8,998",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IAB7 (90SM000MHH)",
+        "rating": "",
+        "hon_price_min": "7,389",
+        "hon_price_max": "7,490",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 770",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 27ITL6 (F0FW00M2HH)",
+        "rating": "10",
+        "hon_price_min": "9,898",
+        "hon_price_max": "9,898",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce MX450 2GB GDDR6",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC VC66-C 桌上電腦 (I710TH16G512S)",
+        "rating": "",
+        "hon_price_min": "8,500",
+        "hon_price_max": "8,588",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ZOTAC MAGNUS ONE ZBOX-ECM73070C-W2B",
+        "rating": "10",
+        "hon_price_min": "14,799",
+        "hon_price_max": "15,980",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "RTX3070",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP OMEN 30L Desktop GT13-0847hk",
+        "rating": "",
+        "hon_price_min": "20,999",
+        "hon_price_max": "20,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX3070",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN40-N44G64S",
+        "rating": "",
+        "hon_price_min": "2,490",
+        "hon_price_max": "2,490",
+        "處理器:": "Intel Celeron N4100 Processor",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo 小新 27吋 (i5-1240P, 16+512GB SSD)",
+        "rating": "",
+        "water_price_min": "7,280",
+        "water_price_max": "7,280",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "英特爾銳炬Xe顯卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (46Q76PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,110",
+        "hon_price_max": "6,437",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MSI Cubi N JSL-009TW",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "2,599",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Apple 24\" iMac 配備 Retina 4.5K 顯示器 (8核心GPU 256GB)",
+        "rating": "10",
+        "hon_price_min": "9,900",
+        "hon_price_max": "11,499",
+        "作業系統:": "Mac OS",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated 8-core GPU",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Gen 2 (11MYS01600)",
+        "rating": "",
+        "hon_price_min": "7,270",
+        "hon_price_max": "7,780",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 750",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Pavilion 24-k1001hk 一體化電腦 (457M1PA#AB5)",
+        "rating": "",
+        "hon_price_min": "10,900",
+        "hon_price_max": "12,999",
+        "作業系統:": "Windows 10 Home 64",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX350 (4 GB GDDR5 專用)",
+        "類型:": "一體式"
+    },
+    {
+        "names": "SmarterWare M6 4K Mini PC (Intel N5105/16+256GB)",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 (F5401 WUAK-WA058T)",
+        "rating": "",
+        "hon_price_min": "8,500",
+        "hon_price_max": "9,350",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Beelink GK35 Mini PC (Intel J3455 8G+256G)",
+        "rating": "",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,850",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 500",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (3E9Y0PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "6,499",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP All-in-One (R5-5625U,8+512GB SSD) 24-ck0017hk",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "6,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Slim Desktop S01-pf1000hk",
+        "rating": "",
+        "hon_price_min": "3,650",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 610",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70a Gen 3 AIO 21.5吋 (i7-12700, 16+1000GB SSD) 11VLS00100",
+        "rating": "",
+        "hon_price_min": "11,800",
+        "hon_price_max": "12,000",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s Gen 3 (i5-12400,16+512GB SSD) 11T8004EHH",
+        "rating": "",
+        "hon_price_min": "6,660",
+        "hon_price_max": "6,680",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINISFORUM DeskMini X400 CS-MFX4005",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "4,799",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon Vega Graphics (Graphics Frequency 1900 MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINISFORUM EliteMini CR50 AMD 4700S CPU Mini-PC (CS-MFCR50)",
+        "rating": "",
+        "hon_price_min": "6,480",
+        "hon_price_max": "6,499",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon RX550 Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Apple 24\" iMac 配備 Retina 4.5K 顯示器 (8核心GPU 512GB)",
+        "rating": "",
+        "hon_price_min": "12,199",
+        "hon_price_max": "12,800",
+        "作業系統:": "Mac OS",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated 8-core GPU",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo 天逸 510S 主機 (i5-12400,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP ENVY 27\" 多合一電腦 27-cp0001hk (66C51PA)",
+        "rating": "",
+        "hon_price_min": "21,990",
+        "hon_price_max": "24,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 3060 Max-Q (6GB GDDR6)",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell OptiPlex 3080 SFF (i3-8GB-256GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,188",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter X5 mini Tower (R5-5600G,8+512GB SSD) X500MA-R5600G019R",
+        "rating": "",
+        "hon_price_min": "6,598",
+        "hon_price_max": "7,498",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC VC66-C 桌上電腦 (I510TH8G512S)",
+        "rating": "",
+        "hon_price_min": "5,990",
+        "hon_price_max": "6,888",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo GeekPro 設計師主機 (i5-12400F,16+512GB SSD,GTX1660Super 6GB)",
+        "rating": "",
+        "hon_price_min": "7,560",
+        "hon_price_max": "7,560",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "GeForce GTX 1660 Super 6GB DDR6 1785MHz",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN51 (PN51-E1-R716G1TS)",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,660",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated - Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M73 袖珍桌上型電腦",
+        "rating": "",
+        "water_price_min": "1,080",
+        "water_price_max": "1,080",
+        "處理器:": "Intel i5-4570T",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 一體式電腦 (A5401WRPK-WA006R)",
+        "rating": "",
+        "hon_price_min": "7,380",
+        "hon_price_max": "7,380",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX330 2GB GDDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP 280 Pro G5 纖巧式個人電腦(i7/16+512GB)",
+        "rating": "",
+        "hon_price_min": "6,970",
+        "hon_price_max": "6,970",
+        "作業系統:": "Windows 10",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Pavilion AIO Desktop Computer 27-d1001hk",
+        "rating": "",
+        "hon_price_min": "14,210",
+        "hon_price_max": "15,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "1000 + 1000GB",
+        "硬碟類型:": "HDD + SSD",
+        "顯示卡:": "NVIDIA GeForce MX350 4GB GDDR5"
+    },
+    {
+        "names": "Dell Inspiron 24 All-in-One 多合一桌上電腦 5410A-R1500-W11",
+        "rating": "",
+        "hon_price_min": "6,950",
+        "hon_price_max": "7,898",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN51 桌上電腦 (PN51-E1AR58E)",
+        "rating": "",
+        "hon_price_min": "4,799",
+        "hon_price_max": "4,799",
+        "water_price_min": "4,799",
+        "water_price_max": "4,799",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Acer Aspire XC (i5-12400, 8+512GB SSD) XC1760-5124006G004",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,550",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Pavilion 24\" All-in-One 多合一電腦 24-ca1003hk",
+        "rating": "",
+        "hon_price_min": "9,500",
+        "hon_price_max": "10,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX450 (2 GB GDDR6 dedicated)",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Slim 桌面電腦 S01-pF2000hk (5Z7X3PA)",
+        "rating": "",
+        "hon_price_min": "3,660",
+        "hon_price_max": "3,880",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 610",
+        "類型:": "桌上型電腦"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (i7-10700, 8+512GB SSD) 641L8PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,340",
+        "hon_price_max": "7,350",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Inspiron 24 5400A-R1500",
+        "rating": "",
+        "hon_price_min": "6,098",
+        "hon_price_max": "6,098",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP All in one 一體式電腦 24-df1000hk (5R845PA)",
+        "rating": "",
+        "hon_price_min": "7,480",
+        "hon_price_max": "7,580",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式電腦"
+    },
+    {
+        "names": "Acer Aspire XC XC1660-5114008G00D (DT.BGWCF.00D)",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "4,600",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Grapghic 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX Neo J50C-4 PLUS Mini PC",
+        "rating": "9.5",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,599",
+        "作業系統:": "Windows 10 Pro (64-bit)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 605 / Support 4K @ 60Hz圖像",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Pro SFF 280 G9 桌上型電腦 (i7-12700,8+512GB SSD,Intel UHD Graphics 770)",
+        "rating": "",
+        "hon_price_min": "6,670",
+        "hon_price_max": "6,699",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 770",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G6 (i7-10700T, 8+512GB SSD) 641L5PA#AB5",
+        "rating": "",
+        "hon_price_min": "7,134",
+        "hon_price_max": "7,250",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "3yr Onsite Warranty",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Apple Mac mini (M1 /8GB 記憶體/ 512GB SSD) MGNT3ZP/A",
+        "rating": "10",
+        "hon_price_min": "6,650",
+        "hon_price_max": "6,650",
+        "作業系統:": "macOS",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Chromebox 4 CN65H 桌上電腦",
+        "rating": "",
+        "hon_price_min": "16,900",
+        "hon_price_max": "16,900",
+        "作業系統:": "CHROME OS",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G7 小型桌上電腦 (i5/8+512GB) #46Q76PA",
+        "rating": "",
+        "hon_price_min": "5,110",
+        "hon_price_max": "5,598",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "intel",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC VC66-C 桌上電腦 (I310TH8G256S)",
+        "rating": "",
+        "hon_price_min": "5,588",
+        "hon_price_max": "5,888",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Apple Mac mini (M2 / 8GB 記憶體 / 512GB SSD)",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "6,099",
+        "作業系統:": "macOS",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP 280 Pro G5 SFF (208D3PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,650",
+        "hon_price_max": "4,650",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90a Gen 3 AIO 23.8吋 (i5-12500, 16+512GB SSD) 11VFS00600",
+        "rating": "",
+        "hon_price_min": "9,590",
+        "hon_price_max": "9,900",
+        "作業系統:": "預載 Windows 10 專業版 64 (可升級至 Windows 11 專業版 64)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "MINIX NGC-3 Pro Mini PC (i3-10110U, 8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "3,820",
+        "hon_price_max": "3,820",
+        "作業系統:": "Window 10",
+        "硬碟類型:": "M.2 NVMe SSD",
+        "顯示卡:": "Intel UHD Graphics 620",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Zotac ZBOX CI331 W4C (N5100,4+120GB SSD)",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,499",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics (Integrated)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90a Gen 3 AIO 23.8吋 (i7-12700, 16+1000GB SSD) 11VFS00500",
+        "rating": "",
+        "hon_price_min": "12,880",
+        "hon_price_max": "13,150",
+        "作業系統:": "預載 Windows 10 專業版 64 (可升級至 Windows 11 專業版 64)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX550 2GB GDDR6",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Apple Mac Studio (M1 Max/10核心 CPU/24核心 GPU/32GB 記憶體/512GB SSD)",
+        "rating": "",
+        "hon_price_min": "14,399",
+        "hon_price_max": "14,399",
+        "作業系統:": "macOS",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Beelink U59 Mini PC (Intel N5095 16G+512G)",
+        "rating": "",
+        "hon_price_min": "2,550",
+        "hon_price_max": "2,550",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 16 EUs",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 3080 SFF (i5-8GB-1TB SSD)",
+        "rating": "",
+        "hon_price_min": "4,660",
+        "hon_price_max": "4,699",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP slim 桌面電腦 (G7400, 8+512GB SSD) S01-pF2005hk (6T8F0PA)",
+        "rating": "",
+        "hon_price_min": "3,730",
+        "hon_price_max": "4,090",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 710",
+        "類型:": "桌上型電腦"
+    },
+    {
+        "names": "Dell Vostro 小型桌上型電腦 V3681-D1300",
+        "rating": "",
+        "hon_price_min": "3,398",
+        "hon_price_max": "3,398",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel UHD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP ProDesk 600 G6 Small Form Factor PC (i7,8+1Tb )",
+        "rating": "",
+        "hon_price_min": "5,950",
+        "hon_price_max": "7,480",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Beelink U59 Mini PC (Intel N5095 8G+256G)",
+        "rating": "10",
+        "hon_price_min": "2,249",
+        "hon_price_max": "2,249",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 16 EUs",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Microsoft Surface Studio 2+ (i7-11370H,32+1000GB SSD,RTX3060)",
+        "rating": "",
+        "hon_price_min": "38,888",
+        "hon_price_max": "38,888",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce RTX 3060",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Tiny G2 迷你桌上型電腦 (11MYS00800)",
+        "rating": "",
+        "hon_price_min": "7,480",
+        "hon_price_max": "7,490",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Vostro 3681-R1500H",
+        "rating": "",
+        "hon_price_min": "4,598",
+        "hon_price_max": "4,598",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 5 24IOB6 (F0G3002SHH)",
+        "rating": "10",
+        "hon_price_min": "7,999",
+        "hon_price_max": "8,980",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 22ITL6 (F0G500ADHH)",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 顯示卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP 280 PRO G5 纖巧式個人電腦 (71877421/SP-54W75AV)",
+        "rating": "",
+        "hon_price_min": "3,780",
+        "hon_price_max": "4,780",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q , 11DTS00D00",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "5,430",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Pro E500 G6 Workstation (1170K004P)",
+        "rating": "",
+        "hon_price_min": "10,235",
+        "hon_price_max": "10,235",
+        "作業系統:": "Window 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX Neo J50C-4 Mini PC (8GB/240GB)",
+        "rating": "10",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,999",
+        "處理器:": "Intel Quad Core Pentium Silver J5005 (64bit)",
+        "顯示卡:": "Intel UHD Graphics 605, Support 4K @ 60Hz圖像",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Pavilion 桌上型電腦 TP01-3001hk",
+        "rating": "10",
+        "hon_price_min": "6,550",
+        "hon_price_max": "7,599",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce GT 1030",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Huawei 28.2吋 MateStation X (R7-5800H, 16+1000GB SSD)",
+        "rating": "",
+        "water_price_min": "16,480",
+        "water_price_max": "16,520",
+        "作業系統:": "Windows 11 64 位家庭版",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell Precision 3440 桌上型電腦工作站 (fws3440-d1720)",
+        "rating": "",
+        "hon_price_min": "12,540",
+        "hon_price_max": "12,550",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA Quadro P620, 2GB, 4 mDP 至 DP 配接卡",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo CO-A7 主機 (Celeron G5905,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "3,020",
+        "hon_price_max": "3,020",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 610",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 22ITL6 (F0G5002VHH)",
+        "rating": "10",
+        "hon_price_min": "7,050",
+        "hon_price_max": "7,098",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 5-24IOB6 (F0G30038HH)",
+        "rating": "",
+        "hon_price_min": "8,990",
+        "hon_price_max": "9,400",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IMB05 (90NB006FHH)",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,380",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce GT 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 5 24IOB6 (F0G3002FHH)",
+        "rating": "",
+        "hon_price_min": "9,740",
+        "hon_price_max": "10,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell OptiPlex 3080 Micro 桌上型電腦 (i3-8GB-1TB)",
+        "rating": "",
+        "hon_price_min": "3,610",
+        "hon_price_max": "3,680",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinCentre M70T (11DAs00500)",
+        "rating": "",
+        "hon_price_min": "5,998",
+        "hon_price_max": "6,600",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "intel",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo YOGA 27吋 可旋轉 4K一體電腦 (R7-6800H, 16+1000GB SSD)",
+        "rating": "",
+        "water_price_min": "10,180",
+        "water_price_max": "10,180",
+        "作業系統:": "Windows 11 家庭中文版",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon 680M",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo 27\" Touch screen IdeaCentre AIO 3i (F0EY0068HH)",
+        "rating": "",
+        "hon_price_min": "11,999",
+        "hon_price_max": "11,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon R625 2GB DDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell Inspiron 27 7700A-R1502",
+        "rating": "",
+        "hon_price_min": "7,298",
+        "hon_price_max": "7,298",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 5 Gen 6 (24吋 AMD) F0G2002MHH",
+        "rating": "",
+        "hon_price_min": "9,999",
+        "hon_price_max": "9,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon 顯示卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q , 11DTS03M00",
+        "rating": "",
+        "hon_price_min": "6,380",
+        "hon_price_max": "6,960",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Asus Chromebox 4 - I78G128",
+        "rating": "",
+        "hon_price_min": "7,500",
+        "hon_price_max": "7,788",
+        "作業系統:": "Chrome OS",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "SmarterWare M6S 4K Nano Mini PC (Intel N5105/8+256GB)",
+        "rating": "",
+        "hon_price_min": "1,988",
+        "hon_price_max": "1,988",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IMB05 Non ES (90NB005HHH)",
+        "rating": "",
+        "hon_price_min": "6,060",
+        "hon_price_max": "6,080",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce GT730 2GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 24ITL6 (F0G00079HH)",
+        "rating": "",
+        "hon_price_min": "7,100",
+        "hon_price_max": "8,399",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Slim (i3-12100, 8+512GB) S01-pF2006hk (6T8F1PA)",
+        "rating": "",
+        "hon_price_min": "4,600",
+        "hon_price_max": "4,690",
+        "作業系統:": "Windows 11 家用版",
+        "硬碟類型:": "NVME SSD",
+        "顯示卡:": "Intel UHD 730 Graphics",
+        "類型:": "桌上型電腦"
+    },
+    {
+        "names": "Dell OptiPlex 3080 Micro 桌上型電腦 (i3-8GB-256GB SSD)",
+        "rating": "",
+        "hon_price_min": "3,690",
+        "hon_price_max": "3,799",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3i Gen 6 (24吋 Intel) F0G000X2HH",
+        "rating": "",
+        "hon_price_min": "6,920",
+        "hon_price_max": "8,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe 顯示卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP 22-C0103HK (6DW13AA) ALL IN ONE PC",
+        "rating": "",
+        "hon_price_min": "5,470",
+        "hon_price_max": "5,470",
+        "處理器:": "Intel Core i3-9100T (3.1 ~ 3.7Ghz, 6mb cache)",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD 630 Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90a Series - 23.8\" FHD AIO - (11CDS01A00)",
+        "rating": "",
+        "hon_price_min": "10,260",
+        "hon_price_max": "10,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90a Series - 23.8\" FHD AIO - AMD Radeon (11CDS01B00)",
+        "rating": "",
+        "hon_price_min": "10,700",
+        "hon_price_max": "10,750",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon 625 2GB",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Pavilion 24-k1000hk 一體化電腦 (457M0PA#AB5)",
+        "rating": "",
+        "hon_price_min": "9,750",
+        "hon_price_max": "10,999",
+        "作業系統:": "Windows 10 Home 64",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX350 (4 GB GDDR5 專用)",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Zen AiO 24 一體式電腦 (F5401WUAK-WA008W)",
+        "rating": "",
+        "hon_price_min": "8,598",
+        "hon_price_max": "8,998",
+        "作業系統:": "Windows 11 Home",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Pro SFF 280 G9 桌上型電腦 (i5 -12500,8+512GB SSD,Intel UHD Graphics 750)",
+        "rating": "",
+        "hon_price_min": "5,770",
+        "hon_price_max": "5,799",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 750",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Expertcenter X5 (X500MA-R5600G019T)",
+        "rating": "",
+        "hon_price_min": "6,680",
+        "hon_price_max": "6,880",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Inspiron 27 7700A-R1520",
+        "rating": "",
+        "hon_price_min": "8,298",
+        "hon_price_max": "8,298",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX330 2GB GDDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IMB05 (90NB00CKHH)",
+        "rating": "",
+        "hon_price_min": "5,310",
+        "hon_price_max": "5,899",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce GT 730 2GB GDDR5",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO (F5401WUAK-WA022T)",
+        "rating": "",
+        "hon_price_min": "7,600",
+        "hon_price_max": "7,998",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Beelink SEi 8 Mini PC (Intel i3-8109U/8+256GB)",
+        "rating": "",
+        "hon_price_min": "2,799",
+        "hon_price_max": "2,799",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Plus Graphics 655",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (46Q74PA#AB5)",
+        "rating": "",
+        "hon_price_min": "4,750",
+        "hon_price_max": "5,414",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX Neo Z83-4 Home",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,509",
+        "處理器:": "Intel X5-Z8350",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G7 Small Form PCs (#9DF58AV)",
+        "rating": "",
+        "hon_price_min": "5,050",
+        "hon_price_max": "5,290",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "整合式圖形卡",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Beelink SEi 11 Pro Mini PC (Intel i5-11320H,16+500GB)",
+        "rating": "",
+        "hon_price_min": "4,550",
+        "hon_price_max": "4,550",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 5090 SFF (i5-11500,8+512GB SSD) 811206411",
+        "rating": "",
+        "hon_price_min": "5,880",
+        "hon_price_max": "5,990",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (i3-12100,8+256GB SSD) D700SD-312100021X",
+        "rating": "",
+        "hon_price_min": "5,200",
+        "hon_price_max": "5,200",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN62 (10THI58G256)",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,830",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70a Series - 21.5\" FHD AIO - (11CKS00J00)",
+        "rating": "",
+        "hon_price_min": "9,800",
+        "hon_price_max": "9,950",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProOne 400 G6 All in-One 電腦 (20\"非觸控顯示器/i5-10400/8+500GB HDD/UHD630)",
+        "rating": "",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell OptiPlex 3080 SFF 小機型 (GAHRQD3)",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,690",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Vostro 小型桌上型電腦 V3681-R1300-B-W10",
+        "rating": "",
+        "hon_price_min": "3,298",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel UHD 顯示卡",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 3060 SFF (i7-8700/8GB RAM/256GB SSD)",
+        "rating": "",
+        "hon_price_min": "6,080",
+        "hon_price_max": "6,080",
+        "處理器:": "Intel i7-8700",
+        "顯示卡:": "集顯",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN50-BR005ZD",
+        "rating": "6.7",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,780",
+        "作業系統:": "Windows 10",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN50 (R7-4700U, 8+512GB SSD) PN50-E1-R78G512SW11PRO",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "4,999",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Z2 Small Form Factor G4 Workstation",
+        "rating": "",
+        "hon_price_min": "11,700",
+        "hon_price_max": "11,920",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "顯示卡:": "Intel UHD Graphics 630 Core",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo M9200s ThinkCentre (10SJS0UE00)",
+        "rating": "",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "2000GB",
+        "硬碟類型:": "HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Tiny G2 (11MYS00B00)",
+        "rating": "",
+        "hon_price_min": "6,390",
+        "hon_price_max": "6,970",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF D700SA (D700SA-0G6400009T)",
+        "rating": "",
+        "hon_price_min": "4,000",
+        "hon_price_max": "4,080",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "UMA",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS E900 G4 Workstation (4210R004Z)",
+        "rating": "",
+        "hon_price_min": "39,550",
+        "hon_price_max": "39,556",
+        "作業系統:": "Window 10 Pro",
+        "硬碟:": "2000GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (i3-10100, 8+1000GB HDD) 11DCS2BW00",
+        "rating": "",
+        "hon_price_min": "4,300",
+        "hon_price_max": "4,600",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 5 24IOB6 (F0G3002GHH)",
+        "rating": "",
+        "hon_price_min": "12,400",
+        "hon_price_max": "12,400",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce MX450 2GB GDDR6",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (i5-10500, 8+512GB SSD) 641L7PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,298",
+        "hon_price_max": "6,300",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 27IMB05 (F0EY0064HH)",
+        "rating": "",
+        "hon_price_min": "11,220",
+        "hon_price_max": "11,950",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon 625 2G GDDR5",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN51 桌上電腦 (PN51-R58G512S)",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "5,888",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "UMA",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINIX NEO N42-C 桌上迷你電腦 (Windows10 Pro)",
+        "rating": "",
+        "hon_price_min": "2,090",
+        "hon_price_max": "2,380",
+        "處理器:": "Quad Core Intel Pentium N4200 (2M Cache, up to 2.5 GHz)",
+        "硬碟:": "32GB"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (i5-11400,16+512GB SSD) D700SC-511400095R",
+        "rating": "",
+        "hon_price_min": "6,600",
+        "hon_price_max": "6,600",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF (D700SA-510500027T)",
+        "rating": "",
+        "hon_price_min": "5,450",
+        "hon_price_max": "7,680",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "GT1030",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINISFORUM EliteMini TH80 Mini-PC (i7-11800H,16+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "5,899",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G7 SFF (i3-10100, 8+512GB SSD) 641L6PA#AB5",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,550",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s Series - SFF, 11EXS00000",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,480",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ZOTAC ZBOX edge CI341 with Windows 10 Pro (4+64GB)",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,399",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 600 G6 Small Form Factor PC (i7,8+512GB)",
+        "rating": "",
+        "hon_price_min": "6,750",
+        "hon_price_max": "7,180",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP OMEN by HP GT13-0851hk",
+        "rating": "",
+        "hon_price_min": "18,999",
+        "hon_price_max": "18,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX3060Ti",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINISFORUM DeskMini X400 CS-MFX4007",
+        "rating": "",
+        "hon_price_min": "5,999",
+        "hon_price_max": "5,999",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon Vega Graphics (Graphics Frequency 1900 MHz)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre neo 30a 24吋一體成型電腦 (i7-1260P,16+512GB SSD) 12B000CCHK",
+        "rating": "",
+        "hon_price_min": "7,750",
+        "hon_price_max": "7,990",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell OptiPlex 9020 Micro Desktop Tiny",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "2,880",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 4600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS Zen AiO 24 (F5401WUAT-WA027T)",
+        "rating": "",
+        "hon_price_min": "9,990",
+        "hon_price_max": "9,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell Vostro 小型桌上型電腦 V3681-R1502-B-W10",
+        "rating": "",
+        "hon_price_min": "4,498",
+        "hon_price_max": "4,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90a Gen 3 AIO 23.8吋 (i5-12500, 16+512GB SSD) 11VFS00700",
+        "rating": "",
+        "hon_price_min": "10,580",
+        "hon_price_max": "10,900",
+        "作業系統:": "預載 Windows 10 專業版 64 (可升級至 Windows 11 專業版 64)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce MX550 2GB GDDR6",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS PN50-R58G512",
+        "rating": "",
+        "hon_price_min": "4,880",
+        "hon_price_max": "5,550",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Z4 G4 工作站 (160W6PA#AB5)",
+        "rating": "",
+        "hon_price_min": "16,000",
+        "hon_price_max": "16,150",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "2000GB",
+        "硬碟類型:": "HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Inspiron 24 5400A-R1722",
+        "rating": "",
+        "hon_price_min": "7,698",
+        "hon_price_max": "7,698",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce MX330 2GB GDDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Slim S01-pF0130hk (7XE13AA)",
+        "rating": "",
+        "hon_price_min": "5,399",
+        "hon_price_max": "5,890",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "Intel UHD 630 Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINISFORUM DeskMini PC DMAF5 CS-MFDMAF5",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90s (11D1s00C00)",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,880",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "整合式圖形卡",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 5080 SFF 小機型 (opt5080sff-d17801hhk)",
+        "rating": "",
+        "hon_price_min": "5,490",
+        "hon_price_max": "5,499",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Opti 7080 Micro (AO7080MFFI3-B-W10P)",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,599",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN30 (PN30-AMDE24G64SSD-L)",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "64GB",
+        "硬碟類型:": "eMMC",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ZOTAC MAGNUS ONE (i5-10400,16GB,512+1000GB SSD+HDD,RTX3060) ZBOX-ECM53060C-W4B",
+        "rating": "",
+        "hon_price_min": "11,099",
+        "hon_price_max": "11,980",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX 3060 12GB",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 7400 All-in-One 23.8吋 一體式桌上型電腦 (i5-12500,16+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "10,630",
+        "hon_price_max": "10,800",
+        "作業系統:": "Windows 10 Pro (Windows 11 Pro license included)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ZOTAC MI620 Mini PC",
+        "rating": "",
+        "hon_price_min": "3,180",
+        "hon_price_max": "3,500",
+        "處理器:": "Intel i3-8130U(Dual-core 2.2 GHz, up to 3.4 GHz)",
+        "顯示卡:": "Intel UHD Graphics 620 (HDMI / DP output)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IMB05 (90NB005DHH)",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF  (D700SA-310100084T)",
+        "rating": "",
+        "hon_price_min": "4,800",
+        "hon_price_max": "4,900",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "w/o VGA",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP EliteDesk 800 G5 Tower (i9, 16+512GB)",
+        "rating": "",
+        "hon_price_min": "11,500",
+        "hon_price_max": "11,740",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 3080 SFF (i3-8GB-256GB SSD+2TB HDD)",
+        "rating": "",
+        "hon_price_min": "4,570",
+        "hon_price_max": "4,599",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "ON BOARD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS VivoMini PN41 (Celeron)",
+        "rating": "",
+        "hon_price_min": "3,900",
+        "hon_price_max": "3,903",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "eMMc",
+        "顯示卡:": "Intel HD Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s  - SFF, 11DCS00G00",
+        "rating": "",
+        "hon_price_min": "5,480",
+        "hon_price_max": "6,720",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC (R9-5900HX, 16+1000GB SSD) PN52-R9X16G1T",
+        "rating": "",
+        "hon_price_min": "7,950",
+        "hon_price_max": "8,588",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Acer Aspire C (C22-962-5108G001)",
+        "rating": "",
+        "hon_price_min": "6,440",
+        "hon_price_max": "6,440",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS ProArt Station PD5 PD500TC (Win 11 Pro/i9/16+1000+2000GB)",
+        "rating": "",
+        "hon_price_min": "23,900",
+        "hon_price_max": "23,998",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX3070",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Slim Desktop S01-pf1130hk (180F7AA)",
+        "rating": "",
+        "hon_price_min": "3,260",
+        "hon_price_max": "3,599",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel UHD 610 Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS0AY00)",
+        "rating": "",
+        "hon_price_min": "4,930",
+        "hon_price_max": "5,090",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Pavilion 27-xa0176hk (6DU84AA) ALL IN ONE PC",
+        "rating": "",
+        "hon_price_min": "13,599",
+        "hon_price_max": "13,599",
+        "處理器:": "Intel Core i7-9700T (2-4.3GHz, 8 Cores, 12mb Cache)",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce GTX1050 4GB GDDR5 Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP HP ENVY 多合一電腦 — 32-a1081hk",
+        "rating": "",
+        "hon_price_min": "26,999",
+        "hon_price_max": "26,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX2070 圖像控制卡 (8 GB GDDR6 專用記憶體)",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN62 (10THI34G128)",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,788",
+        "作業系統:": "Windows 10",
+        "硬碟:": "128GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "MINIX G41V-4 (240GB SSD+ Win 10 pro) 升級版",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,480",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "M.2 SSD",
+        "顯示卡:": "Intel UHD Graphics 600",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 SFF D700SA (D700SA-510400133T)",
+        "rating": "",
+        "作業系統:": "Windows 10 Home 64bit",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "WO VGA",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Apple Mac Studio (M1 Ultra/20核心 CPU/48核心 GPU/64GB 記憶體/1TB SSD)",
+        "rating": "",
+        "hon_price_min": "30,500",
+        "hon_price_max": "30,500",
+        "作業系統:": "macOS",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 3080 Micro 桌上型電腦 (i3-8GB-256GB)",
+        "rating": "",
+        "hon_price_min": "3,790",
+        "hon_price_max": "3,800",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Integrated Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "AOC P2D185 23.8吋 (i3-4000, 8+256GB SSD)",
+        "rating": "",
+        "water_price_min": "3,280",
+        "water_price_max": "3,280",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel 銳炬 Xe顯卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (3E9Y2PA#AB5)",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "8,099",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Acer Revo RN96 (RN96-51135G78G001)",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,980",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "intel HD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G6 (2 DIMM Slot, WiFi) (i3, 8+256GB)",
+        "rating": "",
+        "hon_price_min": "4,190",
+        "hon_price_max": "4,200",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D5 SFF (D500SC-511400029W)",
+        "rating": "",
+        "hon_price_min": "5,698",
+        "hon_price_max": "5,798",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512+1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX Neo J50C-4 Mini PC (4GB 官方版)",
+        "rating": "10",
+        "hon_price_min": "2,290",
+        "hon_price_max": "2,580",
+        "處理器:": "Intel Quad Core Pentium Silver J5005 (64bit)",
+        "顯示卡:": "Intel UHD Graphics 605, Support 4K @ 60Hz圖像",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 405 G4 (R5, 16+512GB)",
+        "rating": "",
+        "hon_price_min": "6,400",
+        "hon_price_max": "6,499",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Vega 11 Graphic",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 5 Gen 6 (24吋 AMD) F0G2002NHH",
+        "rating": "",
+        "hon_price_min": "10,999",
+        "hon_price_max": "10,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "AMD Radeon 顯示卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProDesk 400 G6 SFF (2 DIMM Slot, WiFi) (i5, 8+1000GB)",
+        "rating": "",
+        "hon_price_min": "4,900",
+        "hon_price_max": "5,899",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Desktop Pro G3 (2 DIMM Slots) (i5, 4+1000GB)",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Beelink SER 3 Mini PC (AMD Ryzen 7+Radeon RX Vega 10 / 8+256GB)",
+        "rating": "",
+        "hon_price_min": "3,750",
+        "hon_price_max": "3,750",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon RX Vega 10 Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP EliteDesk 800 G5 SFF (i5, 8+256GB)",
+        "rating": "",
+        "hon_price_min": "6,670",
+        "hon_price_max": "6,680",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MSI Creator P100X 11th (11TD-631TW)",
+        "rating": "",
+        "hon_price_min": "24,900",
+        "hon_price_max": "29,999",
+        "作業系統:": "Window 10 Pro",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "MSI GeForce RTX 3070 VENTUS 2X GDDR6",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 22ITL6 (F0G500AEHH)",
+        "rating": "",
+        "hon_price_min": "6,980",
+        "hon_price_max": "8,499",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo Lenovo ThinkCentre M820z Borderless AIO 10SCA002HC",
+        "rating": "",
+        "hon_price_min": "7,480",
+        "hon_price_max": "7,980",
+        "處理器:": "Intel Core i5-8500",
+        "硬碟類型:": "SSD",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP 多合一桌面電腦 (i3-12100T, 8+512GB SSD) 24-ck0014hk",
+        "rating": "",
+        "hon_price_min": "6,090",
+        "hon_price_max": "6,599",
+        "作業系統:": "Window 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Dell OptiPlex 3050 SFF (i5-7500/8GB RAM/1TB HDD/DVDRW)",
+        "rating": "",
+        "hon_price_min": "4,560",
+        "hon_price_max": "4,560",
+        "處理器:": "Intel i5-7500",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "集顯",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720q 10T7A001HC",
+        "rating": "",
+        "hon_price_min": "6,250",
+        "hon_price_max": "6,250",
+        "處理器:": "Intel Core i7-8700T",
+        "硬碟:": "500GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "HP EliteDesk 705 G5 (2 DIMM Slots) (R5, 16+512GB)",
+        "rating": "",
+        "hon_price_min": "6,550",
+        "hon_price_max": "6,599",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Vega 11 Graphic",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP EliteDesk 800 G6 小型電腦 (i7/8+512GB) 2S7E5PA",
+        "rating": "",
+        "hon_price_min": "7,750",
+        "hon_price_max": "7,880",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MSI Cubi N 8 GL-090TW",
+        "rating": "",
+        "hon_price_min": "2,350",
+        "hon_price_max": "2,350",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "N/A",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3 22ITL6 (F0G500ACHH)",
+        "rating": "",
+        "hon_price_min": "6,799",
+        "hon_price_max": "6,799",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 顯示卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo ThinkStation P330MT (30CYs1J800)",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "5,980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "整合式圖形卡",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS PN60-B3031ZD",
+        "rating": "",
+        "hon_price_min": "4,570",
+        "hon_price_max": "4,570",
+        "處理器:": "Intel i3-8130U",
+        "硬碟:": "128GB",
+        "顯示卡:": "UMA"
+    },
+    {
+        "names": "ASUS ExpertCenter D700MD (i7-12700,16+1000 SSD+1000GB HDD) D700MD-712700035W(15L)",
+        "rating": "",
+        "hon_price_min": "14,998",
+        "hon_price_max": "14,998",
+        "作業系統:": "Windows 11 home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX3060 12GB GDDR6",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC PN51 桌上電腦 (PN51-AR38D)",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999",
+        "water_price_min": "3,999",
+        "water_price_max": "3,999",
+        "作業系統:": "Windows 10 home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Radeon Vega Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP 多合一桌面電腦 (i5-12400T,16+512GB SSD) 24-ck0015hk",
+        "rating": "",
+        "hon_price_min": "7,400",
+        "hon_price_max": "7,999",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 730 Graphics",
+        "類型:": "一體式電腦"
+    },
+    {
+        "names": "Beelink SER 3 Mini PC (AMD Ryzen 7+Radeon RX Vega 10 / 16+512GB)",
+        "rating": "10",
+        "hon_price_min": "4,150",
+        "hon_price_max": "4,150",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon RX Vega 10 Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M920t 10SFS00H00",
+        "rating": "",
+        "hon_price_min": "7,460",
+        "hon_price_max": "7,470",
+        "處理器:": "Intel Core i7-8700",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "ASUS Mini PC PN40-BC529ZV",
+        "rating": "",
+        "hon_price_min": "2,770",
+        "hon_price_max": "3,200",
+        "作業系統:": "Windows 10",
+        "硬碟:": "128GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Apple iMac 27-inch 3.06GHz",
+        "rating": "",
+        "hon_price_min": "9,000",
+        "hon_price_max": "9,000",
+        "處理器:": "Intel Core 2 Duo 3.06GHz",
+        "硬碟:": "1000GB",
+        "顯示卡:": "ATI Radeon HD 4670 graphics with 256MB"
+    },
+    {
+        "names": "HP EliteDesk 800 G6 (2S7E2PA)",
+        "rating": "",
+        "hon_price_min": "5,790",
+        "hon_price_max": "6,590",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ZOTAC ZBOX-MI620 Nano",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 620",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS PRO D340MC商用桌上型電腦 (D340MC-I39100072R)",
+        "rating": "",
+        "hon_price_min": "4,730",
+        "hon_price_max": "4,730",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX NGC-3 Mini PC (i3-10110U/8GB/256GB/W10Pro)",
+        "rating": "10",
+        "hon_price_min": "3,550",
+        "hon_price_max": "4,599",
+        "作業系統:": "Windows 10 Pro (64-bit)",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 620",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M820z Borderless AIO 10SCA000HC",
+        "rating": "",
+        "hon_price_min": "7,480",
+        "hon_price_max": "7,480",
+        "處理器:": "Intel Core i5-8500",
+        "硬碟:": "500GB",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProDesk 400 G5 (i5, 8+256GB)",
+        "rating": "",
+        "hon_price_min": "5,350",
+        "hon_price_max": "5,350",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 5090 Micro (i5-11500T,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,780",
+        "hon_price_max": "4,780",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated Intel Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Ins7790A-R1500-S-W10",
+        "rating": "",
+        "hon_price_min": "7,599",
+        "hon_price_max": "7,698",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD 顯示卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo 天逸 510S Mini PC (i3-10100/8+512GB)",
+        "rating": "",
+        "water_price_min": "3,899",
+        "water_price_max": "3,899",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP Z1 Entry Tower G5",
+        "rating": "",
+        "hon_price_min": "17,000",
+        "hon_price_max": "18,510",
+        "作業系統:": "Windows 10 Pro",
+        "記憶體:": "16GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Precision 3640 Tower (awf3640mt)",
+        "rating": "",
+        "hon_price_min": "7,800",
+        "hon_price_max": "7,920",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "NVIDIA Quadro P620, 2GB, 4 mDP 至 DP 配接卡",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP EliteDesk 705 G5 (4 DIMM Slots) (R9, 16+512GB)",
+        "rating": "",
+        "hon_price_min": "10,800",
+        "hon_price_max": "10,999",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon R7 430 2GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS VC66-CB5009ZN",
+        "rating": "",
+        "hon_price_min": "6,280",
+        "hon_price_max": "6,350",
+        "處理器:": "Intel i5-8400",
+        "顯示卡:": "UMA",
+        "類型:": "mini PC"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q Tiny G2 (11MYS00A00)",
+        "rating": "",
+        "hon_price_min": "5,590",
+        "hon_price_max": "6,090",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (3E9Y1PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "7,599",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Fujitsu Desktop ESPRIMO D538 (D0538P0032HK)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500",
+        "處理器:": "Intel i5-9500",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Acer Aspire XC 直立式電腦 AXC895-510400F8G001",
+        "rating": "",
+        "hon_price_min": "6,298",
+        "hon_price_max": "6,298",
+        "作業系統:": "Window 10",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce GT730 2GB GDDR",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Expert Centre D700SA-710700023T",
+        "rating": "",
+        "hon_price_min": "9,480",
+        "hon_price_max": "9,480",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "GT1030 2GB DDR5",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP 21.5\" IPS 全高清 All-in-One - 22-df0125hk (140K5AA)",
+        "rating": "4.0",
+        "hon_price_min": "7,460",
+        "hon_price_max": "7,999",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "NVIDIA GeForce MX 330 2GB GDDR5 GRAPHICS",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo IdeaCentre 510S-07ICB (90K800CVHH)",
+        "rating": "",
+        "hon_price_min": "5,640",
+        "hon_price_max": "5,670",
+        "處理器:": "Intel i5-9400",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "GeForce GT730-2GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP 23.8\" IPS 全高清多合一電腦 - 24-df0036hk (140K9AA)",
+        "rating": "10",
+        "hon_price_min": "7,750",
+        "hon_price_max": "8,999",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "NVIDIA GeForce MX 330 2GB GDDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Beelink SEi 10 Mini PC (Intel i5-1035G4/16+500GB)",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "3,999",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Plus Graphics",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G7 MT (9CY16AV)",
+        "rating": "",
+        "hon_price_min": "5,290",
+        "hon_price_max": "5,450",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "intel",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre T540-15ICB (90L1004LHH)",
+        "rating": "",
+        "hon_price_min": "10,999",
+        "hon_price_max": "11,009",
+        "處理器:": "Intel i7-9700",
+        "顯示卡:": "NVIDIA GeForce GTX 1660 with 6GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Beelink mini S Mini PC (N5095, 8G+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "2,099",
+        "hon_price_max": "2,099",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 16 EUs",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP ProDesk 405 G4 (R5,8+256GB)",
+        "rating": "",
+        "hon_price_min": "5,700",
+        "hon_price_max": "5,799",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Vega 11 Graphic",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell OptiPlex 3060 SFF (i5-8500/4Gb RAM/1TB HDD)",
+        "rating": "",
+        "hon_price_min": "4,530",
+        "hon_price_max": "4,560",
+        "處理器:": "Intel i5-8500",
+        "顯示卡:": "集顯",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC ProArt (Midnight Blue) PA90-9700K16G512S2060",
+        "rating": "",
+        "hon_price_min": "18,999",
+        "hon_price_max": "18,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "GeForce RTX2060 6GB",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP 280 G3 SSF (i7, 8+1000GB)",
+        "rating": "",
+        "hon_price_min": "6,850",
+        "hon_price_max": "6,850",
+        "作業系統:": "Window 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP 多合一電腦 24-df0037hk",
+        "rating": "",
+        "hon_price_min": "8,499",
+        "hon_price_max": "8,499",
+        "作業系統:": "Windows 10 Home",
+        "硬碟:": "512 + 1000GB",
+        "硬碟類型:": "SSD+HDD",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PN62 (10THI78G256)",
+        "rating": "",
+        "hon_price_min": "6,840",
+        "hon_price_max": "6,880",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP HP ProDesk 400 G6 (2 DIMM Slot, WiFi) (i3, 8+1000GB)",
+        "rating": "",
+        "hon_price_min": "3,398",
+        "hon_price_max": "5,100",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCs03X00)",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "5,790",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "整合式圖形卡",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS Mini PC (PB60G-B5187ZD)",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "NVIDIA GeForce GTX1650(4G)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Acer Predator Orion 3000 PO3-620-71070016G006 (RTX 3070)",
+        "rating": "",
+        "hon_price_min": "17,483",
+        "hon_price_max": "17,483",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX3070",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo 天逸 510S 主機 (i3-12100,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "3,800",
+        "hon_price_max": "3,800",
+        "作業系統:": "Windows 11",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 730",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS ExpertCenter D7 Mini Tower (D700MA-710700029R)",
+        "rating": "",
+        "hon_price_min": "11,000",
+        "hon_price_max": "11,000",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "GTX1650",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Desktop Pro A G3 (R5, 8+256GB)",
+        "rating": "",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Vega 11 Graphic",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX Neo Z83-4 Max Mini PC",
+        "rating": "",
+        "hon_price_min": "1,890",
+        "hon_price_max": "1,890",
+        "作業系統:": "Windows 10 Pro (64-bit)",
+        "硬碟類型:": "eMMC 5.0",
+        "顯示卡:": "Intel HD Graphics (gen8)",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70s (11DCS0CH00)",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,690",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre AIO 3i Gen 6 (24吋Intel) F0G000X3HH",
+        "rating": "",
+        "hon_price_min": "5,510",
+        "hon_price_max": "7,100",
+        "作業系統:": "Windows 11 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "Intel UHD 顯示卡",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProDesk 400 G5 mini PC i3迷你桌面個人電腦",
+        "rating": "",
+        "hon_price_min": "3,490",
+        "hon_price_max": "3,490",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "ASUS miniPC PN62-10THI38G256TB3",
+        "rating": "",
+        "hon_price_min": "3,999",
+        "hon_price_max": "4,950",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "UMA",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Optiplex 7040 Micro Desktop PC (i7-6700T,8+512GB SSD)",
+        "rating": "",
+        "hon_price_min": "4,100",
+        "hon_price_max": "4,500",
+        "作業系統:": "Windows 10 / 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 530",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q , 11DTS03S00",
+        "rating": "",
+        "hon_price_min": "6,580",
+        "hon_price_max": "7,250",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Z2 Tower G4 Workstation (9EK49PA)",
+        "rating": "",
+        "hon_price_min": "12,100",
+        "hon_price_max": "13,103",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel HD Graphics 530",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Opti 7080 Micro (AO7080MFFI7-B-W10P)",
+        "rating": "",
+        "hon_price_min": "6,780",
+        "hon_price_max": "6,799",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Integrated",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G4 Desktop Mini 5HF09PA#AB5",
+        "rating": "",
+        "hon_price_min": "6,900",
+        "hon_price_max": "6,900",
+        "處理器:": "Intel i7-8700T",
+        "硬碟:": "512GB",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M90a Series - 23.8\" FHD AIO - AMD Radeon (11CDS00100)",
+        "rating": "",
+        "hon_price_min": "9,230",
+        "hon_price_max": "9,280",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD Radeon 625 2GB",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP ProDesk 600 G6 SFF (i5/8+512gb)",
+        "rating": "",
+        "hon_price_min": "5,890",
+        "hon_price_max": "5,980",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "intel",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Acer Predator Orion 3000 PO3-620-71070016G003 (2060 super)",
+        "rating": "",
+        "hon_price_min": "12,900",
+        "hon_price_max": "12,900",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX 2060",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Dell Optiplex 3050 SFF 四核商用桌上電腦 (i5-6500/8GB RAM/256GB SSD)",
+        "rating": "",
+        "hon_price_min": "3,500",
+        "hon_price_max": "3,500",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel HD Graphics 530",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP ProDesk 400G6 SFF 6EF28AV#AB5",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,280",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M70q , 11DTS00S00",
+        "rating": "",
+        "hon_price_min": "5,290",
+        "hon_price_max": "5,850",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "512GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP 280 Pro G5 Small Form Factor PC (3E9X9PA#AB5)",
+        "rating": "",
+        "hon_price_min": "5,599",
+        "hon_price_max": "5,899",
+        "作業系統:": "Windows 10 Pro 64",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP ProDesk 400 G6 (2 DIMM Slot, WiFi) (i5, 8+256GB)",
+        "rating": "",
+        "hon_price_min": "4,690",
+        "hon_price_max": "4,700",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Pavilion All-in-One 24-k0121hk (180F5AA)",
+        "rating": "",
+        "hon_price_min": "9,890",
+        "hon_price_max": "10,999",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD + HDD",
+        "顯示卡:": "NVIDIA GeForce MX 350 4GB GDDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "ASUS Mini PC PB60 GB5187ZD",
+        "rating": "",
+        "hon_price_min": "7,788",
+        "hon_price_max": "7,788",
+        "作業系統:": "Windows 10",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP OMEN 30L Desktop GT13-0835hk",
+        "rating": "",
+        "hon_price_min": "38,600",
+        "hon_price_max": "38,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX3090",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "MINIX NGC-5 Pro Mini PC (i5-10210U, 8+256GB SSD)",
+        "rating": "",
+        "hon_price_min": "3,990",
+        "hon_price_max": "4,380",
+        "作業系統:": "Windows 11 Pro (64-bit)",
+        "硬碟類型:": "M.2 NVMe SSD",
+        "顯示卡:": "Intel UHD Graphics 620",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Dell Inspiron 27 7700A-R1722",
+        "rating": "",
+        "hon_price_min": "9,698",
+        "hon_price_max": "9,698",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce MX330 2GB GDDR5",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Z1 Tower G5 Workstation (163H9PA#AB5)",
+        "rating": "",
+        "hon_price_min": "17,999",
+        "hon_price_max": "18,510",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "SSD",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP EliteDesk 705 G5 (4 DIMM Slots) (Ryzen5 Pro,8+256GB)",
+        "rating": "",
+        "hon_price_min": "6,780",
+        "hon_price_max": "6,899",
+        "作業系統:": "Windows 10 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Radeon R7 430 2GB",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Acer Predator Orion 3000 O3-620-71070016G004 (2070 super)",
+        "rating": "",
+        "hon_price_min": "14,203",
+        "hon_price_max": "14,203",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX 2070",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo IdeaCentre A340-22ICK (F0ES002XHH)",
+        "rating": "",
+        "hon_price_min": "5,670",
+        "hon_price_max": "5,670",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "HDD",
+        "顯示卡:": "Intel Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "Lenovo IdeaCentre 3 07IMB05 (90NB00CJHH)",
+        "rating": "",
+        "hon_price_min": "4,930",
+        "hon_price_max": "5,399",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "HP Slim Desktop S01-pf1001hk",
+        "rating": "",
+        "hon_price_min": "4,399",
+        "hon_price_max": "4,880",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 630",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "ASUS UN68U-M5104Z",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "6,290",
+        "處理器:": "Intel i5-8250U",
+        "硬碟:": "256GB",
+        "顯示卡:": "UMA"
+    },
+    {
+        "names": "Lenovo ThinkCentre M720q 10T7A000HC",
+        "rating": "",
+        "hon_price_min": "4,990",
+        "hon_price_max": "5,580",
+        "處理器:": "Intel Core i5-8500T",
+        "硬碟:": "256GB",
+        "硬碟類型:": "SSD"
+    },
+    {
+        "names": "Acer Aspire C24 All-in-One Desktop (C24-1651-51135G78G001)",
+        "rating": "10",
+        "hon_price_min": "6,800",
+        "hon_price_max": "6,800",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris X Graphics",
+        "類型:": "一體式"
+    },
+    {
+        "names": "HP Pro Mini 400 G9 Desktop PC (i7-12700T, 8+512 SSD) 6N1P3PA#AB5-1",
+        "rating": "",
+        "hon_price_min": "6,970",
+        "hon_price_max": "6,999",
+        "作業系統:": "Windows 11 Pro",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel UHD Graphics 770",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M920s 10SFS00G00",
+        "rating": "",
+        "hon_price_min": "6,650",
+        "hon_price_max": "6,660",
+        "處理器:": "Intel Core i7-8700",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "ASUS Mini PC PN50-BR053ZD",
+        "rating": "10",
+        "hon_price_min": "5,500",
+        "hon_price_max": "5,580",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "AMD VEGA 7",
+        "類型:": "迷你桌上型"
+    },
+    {
+        "names": "HP OMEN 30L Desktop - GT13-0802hk",
+        "rating": "",
+        "hon_price_min": "18,999",
+        "hon_price_max": "18,999",
+        "作業系統:": "Windows 10 Home",
+        "硬碟類型:": "SSD+HDD",
+        "顯示卡:": "NVIDIA GeForce RTX2060 Super 圖像控制卡（8 GB GDDR6 專用記憶體）",
+        "類型:": "桌上型"
+    },
+    {
+        "names": "Lenovo ThinkCentre M920s 10SJS00J00",
+        "rating": "",
+        "hon_price_min": "6,610",
+        "hon_price_max": "6,660",
+        "處理器:": "Intel Core i7-8700",
+        "硬碟:": "1000GB",
+        "硬碟類型:": "HDD"
+    },
+    {
+        "names": "Dell Inspiron 24 5400A-R1300",
+        "rating": "",
+        "hon_price_min": "5,198",
+        "hon_price_max": "5,198",
+        "作業系統:": "Windows 10",
+        "硬碟類型:": "SSD",
+        "顯示卡:": "Intel Iris Xe Graphics",
+        "類型:": "一體式"
+    }
+]

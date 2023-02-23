@@ -1,0 +1,3252 @@
+[
+    {
+        "names": "Aqara 智能電子門鎖 D100 (Zigbee版)",
+        "rating": "",
+        "hon_price_min": "4,588",
+        "hon_price_max": "4,588",
+        "water_price_min": "2,390",
+        "water_price_max": "2,990",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "鑰匙:": "有",
+        "適用門厚 :": "40-120mm",
+        "電源:": "2480mAh 鋰電池"
+    },
+    {
+        "names": "Lockly Secure Vision Lux 智能電子門鎖 PGD898",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,600",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "365 x 78 x 84mm",
+        "背面尺寸:": "391 x 78 x 73mm",
+        "適用門厚 :": "40-60mm",
+        "電源:": "8枚AA電池 (鹼性電池)"
+    },
+    {
+        "names": "Yale 智能電子鎖 YDM3109A(C)",
+        "rating": "8.0",
+        "hon_price_min": "1,618",
+        "hon_price_max": "1,749",
+        "water_price_min": "1,510",
+        "water_price_max": "1,510",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "344 x 72 x 35mm",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Samsung 三星 SHP-H60 WiFi 物聯網智能電子門鎖 SAM-SHPH60FBXSVK",
+        "rating": "8.0",
+        "hon_price_min": "2,248",
+        "hon_price_max": "2,794",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "81.9 x 320 x 66.8mm",
+        "背面尺寸:": "79 x 290 x 80.3mm",
+        "適用門厚 :": "45-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "DC 6V AA (LR6) 鹼性電池 x 8"
+    },
+    {
+        "names": "Philips 飛利浦 人面識別電子門鎖 DDL702",
+        "rating": "",
+        "hon_price_min": "5,600",
+        "hon_price_max": "5,650",
+        "water_price_min": "3,860",
+        "water_price_max": "4,280",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "411.81 x 74.54mm",
+        "背面尺寸:": "412.11 x 80.29mm",
+        "適用門厚 :": "38-60mm"
+    },
+    {
+        "names": "Aqara 智能電子門鎖 A100 (Zigbee版)",
+        "rating": "",
+        "hon_price_min": "3,788",
+        "hon_price_max": "3,788",
+        "water_price_min": "2,980",
+        "water_price_max": "2,980",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "375 x 77 x 23.6mm",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "8 x AA"
+    },
+    {
+        "names": "EZVIZ WiFi 物聯網智能電子門鎖 L2S",
+        "rating": "",
+        "hon_price_min": "1,990",
+        "hon_price_max": "2,200",
+        "密碼解鎖:": "永久性,周期性",
+        "背面尺寸:": "307 x 74 x 85mm",
+        "適用門厚 :": "40-55mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "1.5V AA 鹼性電池 x 4粒 / 後備電源 Micro USB 5 PIN"
+    },
+    {
+        "names": "Hyundai 現代 Smart Lock - Kingsend Series 智能鎖 HY-SL608B",
+        "rating": "",
+        "hon_price_min": "2,220",
+        "hon_price_max": "2,680",
+        "密碼解鎖:": "永久性,一次性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有",
+        "電源:": "AA乾電池 x 4 , 9V乾電池 x 1"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHP-DH537",
+        "rating": "10",
+        "hon_price_min": "1,500",
+        "hon_price_max": "2,680",
+        "water_price_min": "1,300",
+        "water_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80.3mm",
+        "適用門厚 :": "40-65mm",
+        "電源:": "DC 6V AA (LR6) 鹼性電池x 4"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 9300 全自動 IOT 智能門鎖",
+        "rating": "",
+        "hon_price_min": "5,380",
+        "hon_price_max": "6,880",
+        "water_price_min": "3,890",
+        "water_price_max": "4,250",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "防撬報警, 布防報警",
+        "電源:": "4 節AA 電池"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 智能電子門鎖 DDL702E",
+        "rating": "2.0",
+        "hon_price_min": "4,680",
+        "hon_price_max": "4,680",
+        "water_price_min": "2,680",
+        "water_price_max": "2,680",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "412 x 74.5mm",
+        "背面尺寸:": "412 x 78.1mm",
+        "適用門厚 :": "38-60mm"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 智能電子門鎖 DDL603E",
+        "rating": "8.0",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,580",
+        "water_price_min": "2,580",
+        "water_price_max": "2,580",
+        "密碼解鎖:": "永久性,一次性",
+        "鑰匙:": "有",
+        "正面尺寸:": "77.4 x 82 x 344.4mm",
+        "背面尺寸:": "77.4 x 82 x 344.4mm",
+        "電源:": "4 x 5號電池"
+    },
+    {
+        "names": "Lockly Secure Lux Mortise Lock 智能門鎖 PGD829AF",
+        "rating": "",
+        "hon_price_min": "4,680",
+        "hon_price_max": "5,490",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "345.5 x 139 x 77.5mm",
+        "背面尺寸:": "139.4 x 358.6 x 77.5mm",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "2A電池 x 4粒"
+    },
+    {
+        "names": "Samsung 三星 電子門鎖 SAM-SHPP72GCLGEN",
+        "rating": "7.8",
+        "hon_price_min": "3,058",
+        "hon_price_max": "3,799",
+        "water_price_min": "2,850",
+        "water_price_max": "2,850",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "鑰匙:": "有",
+        "正面尺寸:": "392.1 x 88 x 63.8mm",
+        "背面尺寸:": "391 x 86.2 x 68.5mm"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey Alpha 全自動推拉式智能門鎖",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "5,280",
+        "water_price_min": "2,890",
+        "water_price_max": "2,890",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有",
+        "電源:": "有"
+    },
+    {
+        "names": "Samsung 三星 Push & Pull 推拉把手指紋電子門鎖 SHS-P718",
+        "rating": "7.3",
+        "hon_price_min": "2,790",
+        "hon_price_max": "3,100",
+        "water_price_min": "2,560",
+        "water_price_max": "2,730",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "85 x 385 x 61mm",
+        "背面尺寸:": "86 x 354.8 x 63mm",
+        "適用門厚 :": "40-80mm",
+        "電源:": "DC 6V (AA Alkaline batteries) x 8"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHP-DR708",
+        "rating": "6.6",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,800",
+        "water_price_min": "2,850",
+        "water_price_max": "3,110",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "背面尺寸:": "88 x 400 x 61.5mm",
+        "適用門厚 :": "38-80mm",
+        "電源:": "DC 6V (AA Alkaline batteries) x 8"
+    },
+    {
+        "names": "Yeeuu 智能門把手 R250",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "Wi-Fi 解鎖:": "有",
+        "電源:": "3節 AAA 電池"
+    },
+    {
+        "names": "Samsung 三星 WiFi 物聯網電子門鎖 SHP-H60R",
+        "rating": "10",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,980",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "背面尺寸:": "79 x 290 x 80.3mm",
+        "適用門厚 :": "45-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "DC 6V AA(LR6)鹼性電池 x 8"
+    },
+    {
+        "names": "Lockly Secure Lux 智能電子門鎖 PGD829BF",
+        "rating": "10",
+        "hon_price_min": "5,100",
+        "hon_price_max": "5,490",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "鑰匙:": "有",
+        "適用門厚 :": "50-60mm",
+        "電源:": "4枚AA電池"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 可視智能電子門鎖 DDL303",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "3,380",
+        "water_price_min": "3,380",
+        "water_price_max": "3,380",
+        "密碼解鎖:": "永久性,一次性",
+        "Wi-Fi 解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Xiaomi 小米 全自動智能門鎖Pro",
+        "rating": "10",
+        "hon_price_min": "2,550",
+        "hon_price_max": "2,580",
+        "water_price_min": "2,400",
+        "water_price_max": "2,560",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "鑰匙:": "有",
+        "正面尺寸:": "403 x 76 x 21mm",
+        "背面尺寸:": "403 x 76 x 24mm"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能門鎖",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "water_price_min": "1,430",
+        "water_price_max": "1,580",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "365.5 x 75.6 x 24.5mm",
+        "背面尺寸:": "365.5 x 75.6 x 24.5mm"
+    },
+    {
+        "names": "Yale 指紋密碼鎖 YMI70",
+        "rating": "2.0",
+        "hon_price_min": "3,818",
+        "hon_price_max": "4,980",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Hyundai 現代 Hyundai WiFi視頻門鈴智能鎖 HY-SLA606",
+        "rating": "",
+        "hon_price_min": "5,980",
+        "hon_price_max": "6,280",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "75 x 426 x 47mm",
+        "背面尺寸:": "75 x 426 x 76mm",
+        "適用門厚 :": "50-100mm",
+        "電源:": "7.4V 鋰電池"
+    },
+    {
+        "names": "Samsung 三星 智能電子門鎖 SHP-DP609 (沒有WiFi)",
+        "rating": "",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,400",
+        "water_price_min": "2,780",
+        "water_price_max": "2,880",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "88 x 392.1 x 63.8mm",
+        "背面尺寸:": "86.2 x 391 x 68.5mm",
+        "適用門厚 :": "45-60mm",
+        "電源:": "DC 6V AA (LR6) 鹼性電池 x 8粒"
+    },
+    {
+        "names": "Hyundai 現代 藍牙智能門鎖 HY-SL114G",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,480",
+        "water_price_min": "4,280",
+        "water_price_max": "4,280",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有",
+        "電源:": "AA乾電池 x 4, 9V乾電池 x 1"
+    },
+    {
+        "names": "Hyundai 現代 藍牙指紋智能門鎖 (槓桿式手柄) HY-SL607DG",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "適用門厚 :": "50-100",
+        "電源:": "AA乾電池 x 4"
+    },
+    {
+        "names": "Rasonic 樂信 指靜脈智能鎖 RSL-VF06",
+        "rating": "10",
+        "hon_price_min": "3,410",
+        "hon_price_max": "3,770",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "375 x 75 x 68mm",
+        "背面尺寸:": "375 x 75 x 68mm",
+        "適用門厚 :": "40-90mm",
+        "電源:": "Mirco USB, 5VDC ,鋰電池 (7.4V)"
+    },
+    {
+        "names": "Rasonic 樂信 指靜脈智能鎖 RSL-VF03",
+        "rating": "",
+        "hon_price_min": "2,910",
+        "hon_price_max": "3,190",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "365 x 75 x 60mm",
+        "背面尺寸:": "365 x 75 x 60mm",
+        "適用門厚 :": "40-90mm",
+        "電源:": "鋰電池 (標稱電壓7.4V)"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHP-DP738",
+        "rating": "7.3",
+        "hon_price_min": "2,910",
+        "hon_price_max": "3,900",
+        "water_price_min": "2,500",
+        "water_price_max": "2,910",
+        "密碼解鎖:": "永久性,一次性",
+        "背面尺寸:": "88 x 392 x 68.5mm",
+        "適用門厚 :": "40-80mm",
+        "電源:": "DC 6V (AA Alkaline batteries) x 8"
+    },
+    {
+        "names": "Yale 智能電子鎖 YDM3109A(C)",
+        "rating": "8.0",
+        "hon_price_min": "1,618",
+        "hon_price_max": "1,749",
+        "water_price_min": "1,510",
+        "water_price_max": "1,510",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "344 x 72 x 35mm",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHP-DP728",
+        "rating": "7.7",
+        "hon_price_min": "2,890",
+        "hon_price_max": "3,100",
+        "water_price_min": "2,610",
+        "water_price_max": "3,000",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "87.5 x 391.8 x 64.5mm",
+        "背面尺寸:": "88.5 x 357.6 x 69.3mm",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "9V (6LF22) 電池"
+    },
+    {
+        "names": "Yale 指紋密碼鎖 YDM4109",
+        "rating": "7.5",
+        "hon_price_min": "2,138",
+        "hon_price_max": "2,418",
+        "water_price_min": "1,910",
+        "water_price_max": "1,910",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "37 x 72.8 x 306.6mm",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Samsung 三星 WiFi 物聯網電子門鎖 SHP-DP609",
+        "rating": "8.6",
+        "hon_price_min": "3,058",
+        "hon_price_max": "3,530",
+        "water_price_min": "2,850",
+        "water_price_max": "2,980",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "88 x 392.1 x 63.8mm",
+        "背面尺寸:": "86.2 x 391 x 68.5mm",
+        "適用門厚 :": "45-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "DC 6V AA (LR6) 鹼性電池 x 8粒 / 後備電源 Micro USB 5 PIN"
+    },
+    {
+        "names": "SwitchBot Smart Door Lock + Keypad Bundle 智能門鎖套裝",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080",
+        "密碼解鎖:": "永久性",
+        "電源:": "3V CR123A x 2"
+    },
+    {
+        "names": "Yale 多功能智能大門鎖 YDM7220",
+        "rating": "",
+        "hon_price_min": "4,069",
+        "hon_price_max": "4,298",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "47.1 x 72 x 364mm",
+        "背面尺寸:": "36 x 72 x 344mm",
+        "適用門厚 :": "35-100mm",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "SwitchBot Lock 智能門鎖",
+        "rating": "10",
+        "hon_price_min": "980",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "Schneider 智能門鎖 S51",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,400",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "感應卡解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Philips 飛利浦  3D人臉識別智能電子門鎖 DDL709-FVP",
+        "rating": "",
+        "water_price_min": "4,190",
+        "water_price_max": "5,880",
+        "密碼解鎖:": "永久性",
+        "Wi-Fi 解鎖:": "有",
+        "人臉識別:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey Alpha-VP 智能電子門鎖 (帶貓眼功能)",
+        "rating": "",
+        "hon_price_min": "5,580",
+        "hon_price_max": "5,580",
+        "water_price_min": "3,290",
+        "water_price_max": "3,780",
+        "密碼解鎖:": "永久性,一次性",
+        "Wi-Fi 解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "SwitchBot Keypad 電子密碼鎖",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "正面尺寸:": "112 x 38 x 36mm"
+    },
+    {
+        "names": "Samsung 三星 指紋智能電子門鎖 SAM-SHPDP739",
+        "rating": "",
+        "hon_price_min": "3,150",
+        "hon_price_max": "3,400",
+        "water_price_min": "2,780",
+        "water_price_max": "2,780",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "88 x 392 x 63.8mm",
+        "背面尺寸:": "88 x 392 x 68.5mm",
+        "適用門厚 :": "45-60mm",
+        "電源:": "DC 6V AA (LR6) 鹼性電池x 8"
+    },
+    {
+        "names": "Samsung 三星 推拉型藍牙智能鎖 SHP-DP739",
+        "rating": "",
+        "hon_price_min": "3,050",
+        "hon_price_max": "3,400",
+        "water_price_min": "2,750",
+        "water_price_max": "2,980",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "yes",
+        "電源:": "6V"
+    },
+    {
+        "names": "Lockly Secure Plus 智能電子門鎖 | 斜舌 PGD628F",
+        "rating": "",
+        "hon_price_min": "2,520",
+        "hon_price_max": "3,500",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "背面尺寸:": "200 x 171 x 77mm",
+        "適用門厚 :": "35-50mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4枚AA電池"
+    },
+    {
+        "names": "Samsung 三星 Intelligent Digital Door Lock SHS-6020",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,480",
+        "water_price_min": "1,580",
+        "water_price_max": "1,700",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80mm",
+        "適用門厚 :": "40-80mm",
+        "電源:": "DC 6V (AA Alkaline batteries) x 8"
+    },
+    {
+        "names": "LifeSmart Smart Door Lock 智能門鎖 C100",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "363 x 73 x 23mm",
+        "背面尺寸:": "363 x 73 x 23mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "1.5V AA鹼性電池 x 4"
+    },
+    {
+        "names": "Primesafe FingerSmart ES1 智能指紋密碼門鎖",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "147 x 26mm",
+        "電源:": "4節2A電池"
+    },
+    {
+        "names": "Yale 指紋密碼鎖 YDM4109",
+        "rating": "7.5",
+        "hon_price_min": "2,138",
+        "hon_price_max": "2,418",
+        "water_price_min": "1,910",
+        "water_price_max": "1,910",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "37 x 72.8 x 306.6mm",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Xiaomi 小米 人臉識別智能門鎖X XMZNMS06LM",
+        "rating": "",
+        "hon_price_min": "3,900",
+        "hon_price_max": "3,900",
+        "water_price_min": "3,400",
+        "water_price_max": "3,900",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "鑰匙:": "有",
+        "正面尺寸:": "411 x 77 x 20mm",
+        "背面尺寸:": "411 x 77 x 26.3mm",
+        "適用門厚 :": "40-120mm",
+        "電源:": "6250mAh超大能量鋰電池"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 7300 智能門鎖",
+        "rating": "10",
+        "hon_price_min": "3,460",
+        "hon_price_max": "4,280",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "電源:": "4 x AA Batteries"
+    },
+    {
+        "names": "Samsung 三星 智能電子門鎖 SAM-SHPDR718AP",
+        "rating": "",
+        "hon_price_min": "3,480",
+        "hon_price_max": "3,900",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "88 x 400 x 61.5mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA鹼性1.5 V電池（LR6）4個（DC 6V）"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 9200 全自動推拉式智能門鎖",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "5,990",
+        "water_price_min": "3,290",
+        "water_price_max": "3,880",
+        "密碼解鎖:": "永久性,一次性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Yale 電子把手 EC800",
+        "rating": "2.0",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "35-51mm",
+        "電源:": "4 x AAA 鹼性電池"
+    },
+    {
+        "names": "Xiaomi 小米 YEELOCK 智能抽屜櫃隱形暗鎖E",
+        "rating": "",
+        "water_price_min": "158",
+        "water_price_max": "199",
+        "藍牙解鎖:": "有",
+        "遙控器:": "有"
+    },
+    {
+        "names": "Metalware 智能門鎖 MW-730",
+        "rating": "",
+        "hon_price_min": "4,980",
+        "hon_price_max": "6,299",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "適用門厚 :": "40-65mm",
+        "電源:": "8 x AA鹼性電池"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHS-2920",
+        "rating": "",
+        "water_price_min": "940",
+        "water_price_max": "1,880",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "88.5 x 357.6 x 69.3mm",
+        "適用門厚 :": "45-60mm",
+        "電源:": "4AA (LR6) 鹼性電池 x4"
+    },
+    {
+        "names": "Terncy 小燕 Zeus 宙斯智能門鎖",
+        "rating": "",
+        "hon_price_min": "3,688",
+        "hon_price_max": "3,688",
+        "密碼解鎖:": "永久性,周期性",
+        "正面尺寸:": "405 x 82 x 69 mm",
+        "背面尺寸:": "403 x 81 x 70 mm",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "鋰電池 4200mAh"
+    },
+    {
+        "names": "Samsung 三星 Intelligent Digital Door Lock SHS-H505",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "2,100",
+        "water_price_min": "1,500",
+        "water_price_max": "1,580",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80mm",
+        "適用門厚 :": "40-80mm",
+        "電源:": "DC 6V (AA Alkaline batteries) x 8"
+    },
+    {
+        "names": "Samsung 三星 家用智能鎖 SHP-DR718",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,800",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Yale 門卡密碼鎖 YDM3109",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "2,380",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "37 x 72.8 x 306.6mm",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey-5100 輔助式智能門鎖",
+        "rating": "",
+        "hon_price_min": "2,310",
+        "hon_price_max": "3,380",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "70 x 172 x 13mm",
+        "背面尺寸:": "75.7 x 202 x 47.6mm",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Romance 全自動智能門鎖 L2 M",
+        "rating": "",
+        "hon_price_min": "3,400",
+        "hon_price_max": "3,450",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Yale 玻璃門電子鎖 YDG313",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,300",
+        "water_price_min": "1,300",
+        "water_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "10-12mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "2A x 4"
+    },
+    {
+        "names": "SwitchBot Keypad Touch 電子指紋密碼鎖",
+        "rating": "10",
+        "hon_price_min": "480",
+        "hon_price_max": "480",
+        "密碼解鎖:": "永久性",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHP-DH538",
+        "rating": "8.0",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,600",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80.3mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA 8粒"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHP-DS705",
+        "rating": "10",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,880",
+        "water_price_min": "1,100",
+        "water_price_max": "1,250",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Acer Smart Door Lock 人臉識別智能鎖 ASL-AT510-002",
+        "rating": "",
+        "hon_price_min": "2,731",
+        "hon_price_max": "3,299",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "82 x 404 x 26.5mm",
+        "背面尺寸:": "82 x 404 x 34.5mm",
+        "適用門厚 :": "40-120mm",
+        "電源:": "5000mA 鋰電池"
+    },
+    {
+        "names": "Wyze Lock Bolt 智能門鎖",
+        "rating": "",
+        "hon_price_min": "899",
+        "hon_price_max": "899",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "背面尺寸:": "172 x 76 x 148mm",
+        "適用門厚 :": "建議不厚於44.5mm",
+        "電源:": "4x 2A Batteries (included) & Emergency USB-C Charging"
+    },
+    {
+        "names": "Acer Smart Door Lock 人臉識別智能鎖 ASL-AT510-001",
+        "rating": "",
+        "hon_price_min": "2,658",
+        "hon_price_max": "3,099",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "82 x 404 x 26.5mm",
+        "背面尺寸:": "82 x 404 x 34.5mm",
+        "適用門厚 :": "40-120mm",
+        "電源:": "5000mA 鋰電池"
+    },
+    {
+        "names": "SwitchBot Smart Door Lock + Keypad Touch Bundle 智能門鎖套裝",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Solity Mortise Lock 智能門鎖 GM-5500K",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,630",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "307 x 89 x 71mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Xiaomi 小米 智能門鎖 E",
+        "rating": "",
+        "hon_price_min": "1,700",
+        "hon_price_max": "1,700",
+        "water_price_min": "1,250",
+        "water_price_max": "1,700",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "365.6 x 73.6 x 21.5mm",
+        "背面尺寸:": "365.6 x 73.6 x 25.5mm",
+        "電源:": "8 x 5號電池, Type-C應急供電"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHP-DP727",
+        "rating": "8.0",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,480",
+        "water_price_min": "2,200",
+        "water_price_max": "2,200",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "85 x 346 x 61mm",
+        "背面尺寸:": "86 x 354.8 x 63mm",
+        "適用門厚 :": "45-60mm",
+        "電源:": "8 x AA電池"
+    },
+    {
+        "names": "Xiaomi 小米 全自動智能門鎖",
+        "rating": "",
+        "hon_price_min": "2,220",
+        "hon_price_max": "2,300",
+        "water_price_min": "2,100",
+        "water_price_max": "2,370",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "背面尺寸:": "386 x 76 x 24mm",
+        "適用門厚 :": "40-120mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "8節5號電池, Type-C應急供電"
+    },
+    {
+        "names": "Samsung 三星 Push & Pull 推拉把手電子門鎖 SHS-P717",
+        "rating": "9.0",
+        "hon_price_min": "2,280",
+        "hon_price_max": "3,060",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "86 x 354.8 x 63mm",
+        "適用門厚 :": "40-80mm",
+        "電源:": "DC 6V (AA Alkaline Batteries) x8"
+    },
+    {
+        "names": "Xiaomi 小米 有品 小嘀全自動貓眼智能鎖Q3M",
+        "rating": "",
+        "water_price_min": "3,180",
+        "water_price_max": "3,180",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "390 x 77 x 67mm",
+        "背面尺寸:": "410 x 81 x 73mm",
+        "適用門厚 :": "40-120mm",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "baba lock Push Pull System 智能門鎖 BABA-9300",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "1,270",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "288 x 80 x 63mm",
+        "適用門厚 :": "40-60",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA"
+    },
+    {
+        "names": "Xiaomi 小米 有品 NocLoc 指紋掛鎖",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "350",
+        "water_price_min": "180",
+        "water_price_max": "250",
+        "指紋解鎖:": "有",
+        "電源:": "USB"
+    },
+    {
+        "names": "Nippo TA-128",
+        "rating": "8.0",
+        "hon_price_min": "2,110",
+        "hon_price_max": "2,180",
+        "指紋解鎖:": "有",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHS-DP728AUEN",
+        "rating": "10",
+        "hon_price_min": "3,100",
+        "hon_price_max": "4,000",
+        "water_price_min": "2,860",
+        "water_price_max": "2,860",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "87.5 x 391.8 x 64.5mm",
+        "背面尺寸:": "88.5 x 357.6 x 69.3mm"
+    },
+    {
+        "names": "Lockly Secure LINK 智能門鎖套件 - 內含 WiFi Hub 及 Door Sensor (PGH200)",
+        "rating": "10",
+        "hon_price_min": "880",
+        "hon_price_max": "882"
+    },
+    {
+        "names": "BOSCH 智能電子門鎖 EL600",
+        "rating": "",
+        "hon_price_min": "2,690",
+        "hon_price_max": "2,690",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "正面尺寸:": "395 x 77 x 23mm",
+        "背面尺寸:": "395 x 77.5 x 26mm"
+    },
+    {
+        "names": "Lockly Secure Plus Deadbolt Lock 智能門鎖 PGD728F",
+        "rating": "",
+        "hon_price_min": "2,520",
+        "hon_price_max": "3,500",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "74 x 175mm",
+        "背面尺寸:": "79 x 184mm",
+        "適用門厚 :": "35-50mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "2A電池 x 4粒"
+    },
+    {
+        "names": "YEEUU YEEVV S1 Smart Fingerprint Lock 極簡約智能門鎖 (Standard Version)",
+        "rating": "10",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "正面尺寸:": "60 x 80mm",
+        "電源:": "3 x AAA Alkaline Batteries"
+    },
+    {
+        "names": "Solity Rim Lock 橫向機背可裝掩閘智能門鎖 GR-60B",
+        "rating": "",
+        "hon_price_min": "2,630",
+        "hon_price_max": "2,630",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "191 x 79 x 19mm",
+        "背面尺寸:": "186 x 94 x 52mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Viomi 雲米 互聯網全自動智能門鎖 eLink 2A",
+        "rating": "",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "430 x 76 x 62mm",
+        "背面尺寸:": "410 x 76 x 69mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "鋰電池 (4200mAh) / Type C 應急供電 (5V)"
+    },
+    {
+        "names": "​Otron A.I.人臉識別門禁拍卡控制器 TR-A206",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "密碼解鎖:": "永久性",
+        "人臉識別:": "有",
+        "正面尺寸:": "187.5 x 87.5 x 26mm"
+    },
+    {
+        "names": "Solity Welkom 智能玻璃門鎖 WGT-330",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Kaiserplus 輔助式電子鎖 M-1590SKK",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "167 x 70 x 17mm",
+        "背面尺寸:": "158 x 90 x 45mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Xiaomi 小米 米家智能門鎖 推拉式",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,980",
+        "water_price_max": "1,980",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "400 x 76 x 25mm",
+        "背面尺寸:": "400 x 76 x 25mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "8節5號電池, Micro-USB應急供電"
+    },
+    {
+        "names": "Lockly Vision PIN Genie 智能門鎖 PGD798",
+        "rating": "",
+        "hon_price_min": "3,960",
+        "hon_price_max": "4,760",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "182 x 76 x 38mm",
+        "背面尺寸:": "198 x 80 x 49mm",
+        "適用門厚 :": "30-50mm",
+        "電源:": "鹼性電池"
+    },
+    {
+        "names": "Solity 金屬感拉絲系列電子門鎖 GSP-2000K",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "91 x 386 x 66mm",
+        "背面尺寸:": "91 x 386 x 68mm",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA 電池"
+    },
+    {
+        "names": "Yale Smart Lock Pro 智能門鎖",
+        "rating": "",
+        "hon_price_min": "2,580",
+        "hon_price_max": "2,580",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有",
+        "正面尺寸:": "60.96 x 60.96mm"
+    },
+    {
+        "names": "Kaiserplus 直身機背窄框專用電子鎖 M-1590TKK",
+        "rating": "",
+        "hon_price_min": "1,950",
+        "hon_price_max": "1,950",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "68 x 164 x 17mm",
+        "背面尺寸:": "70 x 170 x 48mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4節AA電池"
+    },
+    {
+        "names": "Acer Smart Door Lock 指紋識別智能門鎖 ASL-AT310-002",
+        "rating": "",
+        "hon_price_min": "2,221",
+        "hon_price_max": "3,009",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "82 x 404 x 26.5mm",
+        "背面尺寸:": "82 x 404 x 34.5mm",
+        "適用門厚 :": "40-120mm",
+        "電源:": "5000mA 鋰電池"
+    },
+    {
+        "names": "Hikvision 海康威視 Value Series Face Access Terminal DS-K1T343MFWX",
+        "rating": "",
+        "hon_price_min": "1,868",
+        "hon_price_max": "1,868"
+    },
+    {
+        "names": "Hikvision 海康威視 KH6 Series IP-Based Indoor Station 7吋室內對講觸控屏 DS-KH6320-WTE1",
+        "rating": "",
+        "hon_price_min": "840",
+        "hon_price_max": "980"
+    },
+    {
+        "names": "iSmartView 高視保 海關規格指紋鎖 ARW-S2-TSA",
+        "rating": "",
+        "hon_price_min": "238",
+        "hon_price_max": "368",
+        "指紋解鎖:": "有",
+        "背面尺寸:": "64 x 25 x 15mm",
+        "電源:": "5V"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHS-H705",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "2,380",
+        "water_price_min": "2,100",
+        "water_price_max": "2,100",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "81.3 x 318 x 75mm",
+        "背面尺寸:": "79 x 290 x 80.3mm",
+        "適用門厚 :": "40 ~ 80 mm"
+    },
+    {
+        "names": "Viomi 雲米 互聯網全自動智能門鎖 eLink 2A 帶天地鉤",
+        "rating": "",
+        "water_price_min": "2,180",
+        "water_price_max": "2,180",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "430 x 76 x 62mm",
+        "背面尺寸:": "410 x 76 x 69mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "鋰電池 (4200mAh) / Type C 應急供電 (5V)"
+    },
+    {
+        "names": "Xiaomi 小米 智能門鎖 E10",
+        "rating": "",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "鑰匙:": "有",
+        "正面尺寸:": "365 x 74 x 21.5mm",
+        "背面尺寸:": "365 x 74 x 23.5mm",
+        "電源:": "4節5號電池"
+    },
+    {
+        "names": "Siemens 西門子 智能電子門鎖 C621",
+        "rating": "",
+        "hon_price_min": "3,280",
+        "hon_price_max": "3,280",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHS-5120",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "2,100",
+        "water_price_min": "1,580",
+        "water_price_max": "1,700",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80mm",
+        "適用門厚 :": "38-52mm",
+        "電源:": "DC 6V (AA Alkaline batteries) x 8"
+    },
+    {
+        "names": "Hyundai 現代 Smart Lock 電子門鎖 HY-SL1002",
+        "rating": "",
+        "hon_price_min": "650",
+        "hon_price_max": "1,580",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "73.8 x 164.2 x 20.5mm",
+        "背面尺寸:": "168 x 101 x 48mm",
+        "適用門厚 :": "40-85mm",
+        "電源:": "AA x 4"
+    },
+    {
+        "names": "Delta 智能門鎖 S-A-LF-ZH1-SS00",
+        "rating": "",
+        "hon_price_min": "2,850",
+        "hon_price_max": "2,850",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "適用門厚 :": "45-110mm 木門、金屬門、鋁木門",
+        "入侵/破壞警報:": "低電量報警，防撬報警",
+        "電源:": "4節鹼性乾電池供電 / 應急電源：5V，MicroUSB接口"
+    },
+    {
+        "names": "Gateman G-Swipe 指紋電子門鎖 Z10-IH",
+        "rating": "10",
+        "water_price_min": "1,500",
+        "water_price_max": "1,500",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "38mm (D) x 160mm (W) x 85mm (H)",
+        "適用門厚 :": "30mm以上",
+        "電源:": "12V"
+    },
+    {
+        "names": "Yeeuu FIDO 極簡約智能門鎖",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "water_price_min": "999",
+        "water_price_max": "999",
+        "指紋解鎖:": "有",
+        "適用門厚 :": "33-56mm",
+        "入侵/破壞警報:": "安全通知",
+        "電源:": "3A電池*2"
+    },
+    {
+        "names": "Samsung 三星 Push & Pull 推拉把手電子門鎖 SHS-P810",
+        "rating": "",
+        "hon_price_min": "2,370",
+        "hon_price_max": "2,450",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "86 x 354.8 x 63mm",
+        "適用門厚 :": "38-80mm",
+        "電源:": "DC 6V, AA (LR6) 鹼性電池 x 8"
+    },
+    {
+        "names": "Solity Mortise Lock 智能門鎖 GM-6000BK",
+        "rating": "",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,330",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "331 x 82 x 71mm",
+        "背面尺寸:": "329 x 83 x 80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Metalware 藍牙智能門鎖 MW-105L",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "正面尺寸:": "77.5 x 70 x 24.5mm",
+        "適用門厚 :": "35-50mm"
+    },
+    {
+        "names": "GrandStream IP Door Phone GDS3705",
+        "rating": "",
+        "hon_price_min": "2,380",
+        "hon_price_max": "2,380",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "217 x 120 x 11.6mm",
+        "電源:": "12VDC / 1A"
+    },
+    {
+        "names": "Vntechnos Electronics Door lock with bluetooth and app. (JCF 3312)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "遙控器:": "選配",
+        "正面尺寸:": "335 x 71 x 80mm"
+    },
+    {
+        "names": "Lockly Access Touch 3D Fingerprint Reader for Deadbolts 指紋觸控智能門鎖 PGD7ASN",
+        "rating": "",
+        "hon_price_min": "2,259",
+        "hon_price_max": "2,259",
+        "指紋解鎖:": "有",
+        "正面尺寸:": "42 x 27.8mm",
+        "背面尺寸:": "187 x 79mm",
+        "適用門厚 :": "35-50mm",
+        "電源:": "8 X AA 電池"
+    },
+    {
+        "names": "August Wi-Fi Smart Lock (4th Generation)",
+        "rating": "",
+        "water_price_min": "2,480",
+        "water_price_max": "2,480",
+        "Wi-Fi 解鎖:": "有"
+    },
+    {
+        "names": "PushLL 指靜脈+3D面部識別鎖智能門鎖 P86-3",
+        "rating": "10",
+        "hon_price_min": "4,900",
+        "hon_price_max": "4,900",
+        "密碼解鎖:": "永久性,一次性",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 智能電子門鎖 DDL708-V",
+        "rating": "",
+        "water_price_min": "4,590",
+        "water_price_max": "4,590",
+        "密碼解鎖:": "永久性,一次性",
+        "鑰匙:": "有",
+        "正面尺寸:": "434 x 71.18 x 59.34mm",
+        "背面尺寸:": "433.37 x 78.56 x 69.5mm"
+    },
+    {
+        "names": "We.lock SECB Electronic Door Lock",
+        "rating": "",
+        "hon_price_min": "998",
+        "hon_price_max": "998",
+        "指紋解鎖:": "有",
+        "藍牙解鎖:": "有"
+    },
+    {
+        "names": "Hyundai 現代 藍牙指紋智能門鎖 (槓桿式) HY-SL54S",
+        "rating": "",
+        "hon_price_min": "3,080",
+        "hon_price_max": "3,880",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有",
+        "適用門厚 :": "40-65mm"
+    },
+    {
+        "names": "Metalware 智能門鎖 MW380",
+        "rating": "",
+        "hon_price_min": "2,300",
+        "hon_price_max": "2,300",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "80 x 315 x 67.8mm",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "ALOK 智能指紋密碼電子門鎖 Z2",
+        "rating": "8.0",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "150 x 60 x 30mm",
+        "適用門厚 :": "30-55mm",
+        "電源:": "4粒鹼性電芯"
+    },
+    {
+        "names": "Nippo 面容辨識考勤管理系統 TA-395",
+        "rating": "",
+        "hon_price_min": "2,970",
+        "hon_price_max": "3,380",
+        "指紋解鎖:": "有",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "PushLL 指靜脈電子鎖 P83",
+        "rating": "10",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,300",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "371 x 82 x 60mm",
+        "背面尺寸:": "371 x 82 x 60mm",
+        "適用門厚 :": "40-90mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "6V"
+    },
+    {
+        "names": "Hikvision 海康威視 Value Series Face Access Terminal DS-K1T342MFWX",
+        "rating": "",
+        "hon_price_min": "2,320",
+        "hon_price_max": "2,320"
+    },
+    {
+        "names": "Yale DCL600系列電子手把 DCL602",
+        "rating": "",
+        "hon_price_min": "980",
+        "hon_price_max": "980",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "指紋解鎖:": "有",
+        "電源:": "鋰電池容量: 800Mah"
+    },
+    {
+        "names": "baba lock 推拉式智能門鎖 BABA-9701",
+        "rating": "",
+        "hon_price_min": "2,208",
+        "hon_price_max": "2,215",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "367 x 85 x 73mm",
+        "背面尺寸:": "364 x 84 x 69mm",
+        "適用門厚 :": "40-60",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA"
+    },
+    {
+        "names": "Dormakaba 四合一智慧推拉式電子鎖 AS701",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,580",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey 智能電子門鎖 DDL709-V",
+        "rating": "",
+        "water_price_min": "4,880",
+        "water_price_max": "4,880",
+        "密碼解鎖:": "永久性,一次性",
+        "Wi-Fi 解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Dahua 大華 Face Recognition Access Controller DHI-ASI7213Y-V3-T1",
+        "rating": "",
+        "hon_price_min": "5,930",
+        "hon_price_max": "5,978",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Metalware 智能門鎖 MW700W",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "5,249",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "Romance 全自動智能門鎖 L2 B",
+        "rating": "",
+        "hon_price_min": "3,000",
+        "hon_price_max": "3,090",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "工創 指紋門禁機 CW600-ID",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "GrandStream IP Video Door System with IP Cam & IP Intercom (GDS3710)",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,580",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "173 x 80 x 36mm",
+        "電源:": "PoE IEEE 802.3af 3類或12VDC / 1A連接"
+    },
+    {
+        "names": "UKGPro WiFi智能門鎖 (右鎖) U-E202-WR",
+        "rating": "",
+        "hon_price_min": "2,338",
+        "hon_price_max": "2,338",
+        "密碼解鎖:": "永久性,周期性",
+        "鑰匙:": "有",
+        "遙控器:": "有",
+        "正面尺寸:": "270 x 65 x 25mm"
+    },
+    {
+        "names": "iSmartView 高視保 金剛指紋鎖 ARW-S5",
+        "rating": "",
+        "hon_price_min": "353",
+        "hon_price_max": "468",
+        "指紋解鎖:": "有",
+        "正面尺寸:": "50 x 50 x 20mm",
+        "電源:": "5V"
+    },
+    {
+        "names": "Dormakaba 六合一智慧電子鎖 Merlion M6",
+        "rating": "",
+        "hon_price_min": "4,915",
+        "hon_price_max": "5,280",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "有",
+        "適用門厚 :": "40-75mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "Hikvision 海康威視 Value Series Face Access Terminal 考勤門禁機  DS-K1T342MFX",
+        "rating": "",
+        "hon_price_min": "1,995",
+        "hon_price_max": "1,995",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Samsung 三星 指紋密碼門鎖 SHS-5230",
+        "rating": "",
+        "hon_price_min": "2,150",
+        "hon_price_max": "2,580",
+        "water_price_min": "2,100",
+        "water_price_max": "2,100",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80mm",
+        "適用門厚 :": "40-80mm",
+        "電源:": "DC 6V (AA Alkaline batteries) x 8"
+    },
+    {
+        "names": "AEI 按鍵發亮電子密碼鎖  DK-9865 MK-II",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "Midas 電子門鎖 MS-5100",
+        "rating": "",
+        "hon_price_min": "1,630",
+        "hon_price_max": "1,630",
+        "密碼解鎖:": "永久性,一次性",
+        "背面尺寸:": "310 x 82 x 25mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Dormakaba 六合一智慧推拉式電子鎖 MP750",
+        "rating": "",
+        "hon_price_min": "4,915",
+        "hon_price_max": "5,280",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "有",
+        "適用門厚 :": "40-100mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "Kaadas 四合一電子鎖 M9",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "68.4 x 90.4 x 28.2",
+        "背面尺寸:": "60.1 x 155.8 x 29.5",
+        "適用門厚 :": "30mm以上",
+        "電源:": "12V"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHP-DR900",
+        "rating": "10",
+        "hon_price_min": "3,300",
+        "hon_price_max": "3,480",
+        "water_price_min": "2,850",
+        "water_price_max": "3,080",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "感應卡解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Yale 指紋密碼鎖 YMG40",
+        "rating": "2.6",
+        "hon_price_min": "2,450",
+        "hon_price_max": "3,864",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-70mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "iSmartView 高視保 U型指紋鋼鏈鎖 ARW-U11",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "500",
+        "指紋解鎖:": "有",
+        "電源:": "5V"
+    },
+    {
+        "names": "Yale 卡片指紋五合一電子鎖 YDM7216",
+        "rating": "6.0",
+        "hon_price_min": "3,103",
+        "hon_price_max": "4,980",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "Philips 飛利浦 EasyKey-6100 全自動推拉式智能門鎖",
+        "rating": "",
+        "hon_price_min": "4,280",
+        "hon_price_max": "4,380",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Metalware 五合一電子鎖 MW-380F",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "4,199",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "82 x 310 x 74mm",
+        "背面尺寸:": "82 x 315 x 74mm",
+        "適用門厚 :": "40-65mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA / 8 x AA 電池"
+    },
+    {
+        "names": "Hyundai 現代 藍牙指紋智能門鎖 (推拉式) HY-SL70S",
+        "rating": "",
+        "hon_price_min": "397",
+        "hon_price_max": "4,850",
+        "water_price_min": "2,980",
+        "water_price_max": "2,980",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有",
+        "適用門厚 :": "40-65mm"
+    },
+    {
+        "names": "Airbnk 智能門鎖 M300",
+        "rating": "",
+        "hon_price_min": "1,190",
+        "hon_price_max": "1,190",
+        "藍牙解鎖:": "有",
+        "適用門厚 :": "30mm以上"
+    },
+    {
+        "names": "M&G AEQ96707 Online Fingerprint Attendance Machine",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Solity Push/Pull Lock 智能門鎖 GP-6000BK",
+        "rating": "",
+        "hon_price_min": "3,630",
+        "hon_price_max": "3,630",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "386 x 91 x 66mm",
+        "背面尺寸:": "386 x 91 x 68mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA 電池"
+    },
+    {
+        "names": "PushLL 指靜脈電子鎖 P89",
+        "rating": "2.0",
+        "hon_price_min": "3,900",
+        "hon_price_max": "3,900",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "375 x 75 x55 mm",
+        "背面尺寸:": "375 x 75 x55 mm",
+        "適用門厚 :": "40-90mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "6V"
+    },
+    {
+        "names": "Dahua 大華 IP Villa Wi-Fi Door Station 門禁對講機 DHI-VTO2211G-WP",
+        "rating": "",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,000",
+        "感應卡解鎖:": "有",
+        "正面尺寸:": "150 x 100 x 24.8mm"
+    },
+    {
+        "names": "baba lock Push Pull System 智能門鎖 BABA-9201",
+        "rating": "",
+        "hon_price_min": "2,089",
+        "hon_price_max": "2,089",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "320 x 81 x 63mm",
+        "背面尺寸:": "320 x 81 x 63mm",
+        "適用門厚 :": "40-60",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA"
+    },
+    {
+        "names": "Kaiserplus 電子門鎖 M-1500SKK",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "158 x 90 x 45mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Samsung 三星 Digital Door Lock SHP-DS700",
+        "rating": "",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,800",
+        "water_price_min": "1,100",
+        "water_price_max": "1,250",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "iCecil Z-Wave 智能鎖 ICE-SL01S",
+        "rating": "",
+        "hon_price_min": "2,388",
+        "hon_price_max": "2,388",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Solity 智能門鎖 GRT-320",
+        "rating": "",
+        "hon_price_min": "1,300",
+        "hon_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "165 x 90 x 47mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Metalware Eco Pro 抗菌智能門鎖 MW-720",
+        "rating": "2.0",
+        "hon_price_min": "4,980",
+        "hon_price_max": "4,999",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "89 x 288 x 73mm",
+        "背面尺寸:": "89 x 288 x 73mm",
+        "適用門厚 :": "40-65mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA / 8 x AA 電池"
+    },
+    {
+        "names": "Clavis 智能電子門鎖 CM-1000K",
+        "rating": "",
+        "hon_price_min": "2,180",
+        "hon_price_max": "2,180",
+        "water_price_min": "1,580",
+        "water_price_max": "1,700",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Yale 指紋密碼鎖 YMF40+",
+        "rating": "",
+        "hon_price_min": "2,768",
+        "hon_price_max": "4,980",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "當有人試圖破壞門鎖或強行開門時，門鎖自動發出80分貝以上警報聲響",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "iCecil Z-Wave 智能鎖 ICE-SL01B",
+        "rating": "",
+        "hon_price_min": "2,988",
+        "hon_price_max": "2,988",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Terncy 小燕 Odin 奧丁智能門鎖",
+        "rating": "",
+        "hon_price_min": "3,388",
+        "hon_price_max": "3,388",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "遙控器:": "有",
+        "適用門厚 :": "50-140mm",
+        "電源:": "2 x 4200mAh 鋰電池"
+    },
+    {
+        "names": "Freedom 電動指紋智能門鎖",
+        "rating": "2.0",
+        "hon_price_min": "380",
+        "hon_price_max": "380",
+        "指紋解鎖:": "有",
+        "適用門厚 :": "42mm",
+        "入侵/破壞警報:": "沒有",
+        "電源:": "電池"
+    },
+    {
+        "names": "Yale 屏幕推拉把手智能咭電子門鎖 YMG30",
+        "rating": "4.7",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-70mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "LifeSmart Smart Door Lock (Classic)",
+        "rating": "",
+        "hon_price_min": "1,748",
+        "hon_price_max": "2,178",
+        "密碼解鎖:": "永久性,一次性",
+        "鑰匙:": "有",
+        "正面尺寸:": "385 x 75 x 33mm",
+        "電源:": "AA Alkaline Battery x 4"
+    },
+    {
+        "names": "ABB free@home 4.3吋面板 DP4-1-625",
+        "rating": "",
+        "hon_price_min": "8,757",
+        "hon_price_max": "8,757"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHP-DP820",
+        "rating": "10",
+        "hon_price_min": "2,609",
+        "hon_price_max": "2,609",
+        "water_price_min": "2,400",
+        "water_price_max": "2,400",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "88.1 x 392.4 x 64.5mm",
+        "背面尺寸:": "88.5 x 357.6 x 69.3mm",
+        "適用門厚 :": "38-52mm",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Yale 室內電子鎖 YDME50",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "35-55mm",
+        "電源:": "4 x AA 鹼性電池"
+    },
+    {
+        "names": "Xiaomi 小米 YEELOCK 易鎖寶指紋櫃門鎖",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Yale 門卡密碼鎖 YDM3115",
+        "rating": "8.0",
+        "hon_price_min": "2,860",
+        "hon_price_max": "2,860",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "29.8 x 72 x 344mm",
+        "背面尺寸:": "36 x 72 x 344mm",
+        "適用門厚 :": "40-95mm",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Samsung 三星 Digital Door Lock SHP-DH525",
+        "rating": "2.0",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,950",
+        "water_price_min": "1,460",
+        "water_price_max": "1,580",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "Vntechnos Electronics Door lock with bluetooth and app. (JCF 3344)",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,050",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "遙控器:": "選配",
+        "正面尺寸:": "335 x 71 x 80mm"
+    },
+    {
+        "names": "Solity 星光碳纖紋系列電子門鎖 GP-4000BK",
+        "rating": "",
+        "hon_price_min": "4,380",
+        "hon_price_max": "4,380",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "91 x 386 x 68mm",
+        "背面尺寸:": "91 x 386 x 66mm",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA 電池"
+    },
+    {
+        "names": "Yale 門卡密碼鎖 YMF30",
+        "rating": "",
+        "hon_price_min": "3,980",
+        "hon_price_max": "3,980",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Yale 外裝式電子鎖 YDR323",
+        "rating": "",
+        "hon_price_min": "1,380",
+        "hon_price_max": "2,380",
+        "water_price_min": "1,380",
+        "water_price_max": "1,380",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "36 x 72 x 185mm",
+        "背面尺寸:": "13 x 66 x 179mm",
+        "適用門厚 :": "9-13毫米"
+    },
+    {
+        "names": "Siemens 西門子 智能電子門鎖 C320",
+        "rating": "10",
+        "hon_price_min": "6,430",
+        "hon_price_max": "6,430",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "392 x 80 x 28.5mm (不含把手)",
+        "適用門厚 :": "45-120mm",
+        "入侵/破壞警報:": "防撬報警",
+        "電源:": "直流電 (2A電池4粒)"
+    },
+    {
+        "names": "Terncy 小燕 Titan 智能門鎖",
+        "rating": "",
+        "hon_price_min": "4,398",
+        "hon_price_max": "4,398",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "遙控器:": "有",
+        "電源:": "2 x 4200mAh 充電鋰電池"
+    },
+    {
+        "names": "Level Lock+ 智能電子門鎖 with Home Key Support",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "4,999",
+        "指紋解鎖:": "有",
+        "正面尺寸:": "114 x 69 x 69mm",
+        "適用門厚 :": "The lock fits doors that are 1-3/4 to 2 inches thick with a standard 2-1/8-inch diameter borehole",
+        "電源:": "CR2032 Lithium 電池"
+    },
+    {
+        "names": "Keylock 三合一電子鎖 6600-98SC",
+        "rating": "",
+        "hon_price_min": "500",
+        "hon_price_max": "500",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "70 x 180 x 60",
+        "適用門厚 :": "30mm以上",
+        "電源:": "12V"
+    },
+    {
+        "names": "PushLL 指靜脈電子鎖 P86",
+        "rating": "",
+        "hon_price_min": "3,700",
+        "hon_price_max": "3,700",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "375 x 73 x 68mm",
+        "背面尺寸:": "375 x 73 x 68mm",
+        "適用門厚 :": "40-90mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "6V"
+    },
+    {
+        "names": "Commax 智能門鎖 CDL-200P",
+        "rating": "",
+        "hon_price_min": "1,900",
+        "hon_price_max": "2,300",
+        "water_price_min": "1,900",
+        "water_price_max": "1,900",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Hikvision 海康威視 Value Series Face Access Terminal 考勤門禁對講機 DS-K1T343MWX",
+        "rating": "",
+        "hon_price_min": "1,450",
+        "hon_price_max": "1,450",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Solity 人面識別解鎖智能門鎖 GP-6000BAK",
+        "rating": "",
+        "hon_price_min": "4,580",
+        "hon_price_max": "4,580",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "386 x 91 x 66mm",
+        "背面尺寸:": "386 x 91 x 68mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Yale 玻璃門指紋鎖密碼鎖 YDG413",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,290",
+        "密碼解鎖:": "永久性",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Vntechnos Electronics Door lock with bluetooth and app (JCF 3310)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "遙控器:": "選配",
+        "正面尺寸:": "335 x 71 x 80mm"
+    },
+    {
+        "names": "We.lock Adjustable Smart Electronic Lock L6PB",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "55-105mm",
+        "電源:": "3x AAA Battery"
+    },
+    {
+        "names": "Hikvision 海康威視 Value Series Face Access Terminal DS-K1T341AM",
+        "rating": "",
+        "hon_price_min": "1,470",
+        "hon_price_max": "1,480",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Schlage 熱感觸控指紋智慧型電子大門鎖 S-7800",
+        "rating": "",
+        "hon_price_min": "4,180",
+        "hon_price_max": "4,180",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "83.7 x 373 x 38.7mm",
+        "適用門厚 :": "40-90mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA / 8 x AA 電池"
+    },
+    {
+        "names": "Solity Rim Lock 直身機背窄框專用智能門鎖 GA-60B (T)",
+        "rating": "",
+        "hon_price_min": "2,730",
+        "hon_price_max": "2,730",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "191 x 79 x 19mm",
+        "背面尺寸:": "196 x 76 x 50mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "SMART 指紋開啟電子掛鎖 P1",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "KABA E-Flash 電子門鎖 EF680",
+        "rating": "",
+        "hon_price_min": "3,139",
+        "hon_price_max": "3,139",
+        "water_price_min": "1,985",
+        "water_price_max": "1,985",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "選配",
+        "正面尺寸:": "78 x 151 x 282mm"
+    },
+    {
+        "names": "MyTime 指靜脈全自動智能鎖 V3.0 DM-L900",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "5,900",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Yale 智能密碼房門鎖 EC801A",
+        "rating": "4.0",
+        "hon_price_min": "1,380",
+        "hon_price_max": "1,380",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Yale 指紋電子門鎖 YMG40RB",
+        "rating": "",
+        "hon_price_min": "3,580",
+        "hon_price_max": "3,600",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-70mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "ZKTeco F18 Fingerprint Standalone Access Control w/ 2.4\" LCD Screen",
+        "rating": "",
+        "water_price_min": "980",
+        "water_price_max": "980",
+        "密碼解鎖:": "永久性",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Commax Push-Pull 智能門鎖 CDL-210P",
+        "rating": "",
+        "hon_price_min": "2,200",
+        "hon_price_max": "2,800",
+        "water_price_min": "2,200",
+        "water_price_max": "2,200",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "H-GANG Prisma 電子門鎖 F901-KV",
+        "rating": "",
+        "water_price_min": "1,810",
+        "water_price_max": "1,810",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "79 x 301 x 63.1mm",
+        "背面尺寸:": "79 x 310.5 x 63.1mm",
+        "電源:": "3號鹼性電池 x 4"
+    },
+    {
+        "names": "Metalware 藍牙智能門鎖 (推拉門柄) MW-700",
+        "rating": "",
+        "hon_price_min": "4,480",
+        "hon_price_max": "5,249",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "356 x 80 x 63mm",
+        "背面尺寸:": "362 x 84 x 68mm",
+        "適用門厚 :": "40-65mm",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "​Otron ​指紋式防水門禁拍卡機 TR-S50",
+        "rating": "",
+        "hon_price_min": "1,750",
+        "hon_price_max": "1,750",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "正面尺寸:": "140 x 42 x 18mm"
+    },
+    {
+        "names": "Milre 四合一電子指紋鎖 MI-6800",
+        "rating": "",
+        "hon_price_min": "2,610",
+        "hon_price_max": "2,680",
+        "water_price_min": "2,480",
+        "water_price_max": "2,480",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Yale 電子門鎖 YDR333",
+        "rating": "",
+        "hon_price_min": "710",
+        "hon_price_max": "710",
+        "water_price_min": "710",
+        "water_price_max": "710",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "92 x 161 x 36.5mm",
+        "適用門厚 :": "35-45mm"
+    },
+    {
+        "names": "Vntechnos Electronics Door lock with bluetooth and app. (JCF 3349)",
+        "rating": "",
+        "hon_price_min": "850",
+        "hon_price_max": "850",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "varies",
+        "電源:": "yes"
+    },
+    {
+        "names": "​Otron A.I.人臉識別門禁拍卡控制器 TR-A207",
+        "rating": "",
+        "hon_price_min": "2,839",
+        "hon_price_max": "2,839",
+        "密碼解鎖:": "永久性",
+        "人臉識別:": "有",
+        "正面尺寸:": "188 x 80 x 20mm"
+    },
+    {
+        "names": "Samsung 三星 Touch Screen Door Lock SHS-3320",
+        "rating": "",
+        "hon_price_min": "2,410",
+        "hon_price_max": "2,780",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "68 x 180 x 38.3mm",
+        "適用門厚 :": "35-55mm",
+        "電源:": "DC 6V (AA Alkaline Batteries) x 4"
+    },
+    {
+        "names": "Keylock 三合一電子鎖 309C-SN",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "78.6 x 330 x 78",
+        "適用門厚 :": "40-80mm",
+        "電源:": "12V"
+    },
+    {
+        "names": "Acer Smart Door Lock 指紋識別智能門鎖 ASL-AT310-001",
+        "rating": "",
+        "hon_price_min": "2,221",
+        "hon_price_max": "3,009",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "82 x 404 x 26.5mm",
+        "背面尺寸:": "82 x 404 x 34.5mm",
+        "適用門厚 :": "40-120mm",
+        "電源:": "5000mA 鋰電池"
+    },
+    {
+        "names": "ABB free@home 4.3吋面板 DP4-1-611",
+        "rating": "",
+        "hon_price_min": "8,757",
+        "hon_price_max": "8,757"
+    },
+    {
+        "names": "baba lock Push Pull System 智能門鎖 BABA-9200",
+        "rating": "",
+        "hon_price_min": "1,360",
+        "hon_price_max": "1,360",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "背面尺寸:": "320 x 81 x 63mm",
+        "適用門厚 :": "40-60",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHS-P718LMU",
+        "rating": "",
+        "hon_price_min": "2,900",
+        "hon_price_max": "3,050",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "85 x 387 x 61mm",
+        "背面尺寸:": "86 x 354.8 x 63mm",
+        "適用門厚 :": "45-80mm",
+        "電源:": "DC 6V, AA (LR6) 鹼性電池 x 8"
+    },
+    {
+        "names": "iSmartView 高視保 U型指紋鎖 ARW-U5",
+        "rating": "",
+        "hon_price_min": "368",
+        "hon_price_max": "588",
+        "指紋解鎖:": "有",
+        "正面尺寸:": "228.2 x 128 x 32.2mm",
+        "電源:": "5V"
+    },
+    {
+        "names": "KABA E-Flash 電子門鎖 EF280",
+        "rating": "",
+        "hon_price_min": "3,291",
+        "hon_price_max": "3,291",
+        "water_price_min": "1,978",
+        "water_price_max": "1,978",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "23 x 167 x 65mm",
+        "背面尺寸:": "29 x 154 x 77mm"
+    },
+    {
+        "names": "Samsung 三星 Push & Pull 推拉把手電子門鎖 SHS-P910",
+        "rating": "10",
+        "hon_price_min": "3,060",
+        "hon_price_max": "3,220",
+        "water_price_min": "2,860",
+        "water_price_max": "3,210",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "85 x 387 x 61mm",
+        "背面尺寸:": "86 x 354.8 x 63mm",
+        "適用門厚 :": "38-80mm",
+        "電源:": "DC 6V, AA (LR6) 鹼性電池 x 8"
+    },
+    {
+        "names": "Midas 電子門鎖 MS-9100",
+        "rating": "",
+        "hon_price_min": "2,230",
+        "hon_price_max": "2,230",
+        "密碼解鎖:": "永久性,一次性",
+        "正面尺寸:": "352 x 84 x 68mm",
+        "背面尺寸:": "369 x 83.4 x 69.3mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Dormakaba 六合一智慧推拉式電子鎖 DP850",
+        "rating": "",
+        "hon_price_min": "6,045",
+        "hon_price_max": "6,380",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "有",
+        "適用門厚 :": "40-75mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA 電池"
+    },
+    {
+        "names": "AEI 薄身凸字有燈電子密碼鎖 DK-9826",
+        "rating": "",
+        "hon_price_min": "260",
+        "hon_price_max": "260",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "釘釘 智能考勤機 M1",
+        "rating": "",
+        "water_price_min": "309",
+        "water_price_max": "309"
+    },
+    {
+        "names": "baba lock 把手式智能門鎖 BABA-9100",
+        "rating": "",
+        "hon_price_min": "1,270",
+        "hon_price_max": "1,270",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "236 x 80 x 64mm",
+        "適用門厚 :": "40-60",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA"
+    },
+    {
+        "names": "UKGPro WiFi智能門鎖 (右鎖) U-Q203-WR",
+        "rating": "",
+        "hon_price_min": "2,888",
+        "hon_price_max": "2,888",
+        "密碼解鎖:": "永久性,周期性",
+        "遙控器:": "有",
+        "正面尺寸:": "330 x 70 x 25mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 X 2A鹼性乾電池"
+    },
+    {
+        "names": "和 YH-005",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "117 x 116 x 20mm"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHP-DP920",
+        "rating": "10",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,100",
+        "water_price_min": "2,750",
+        "water_price_max": "2,860",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "88.1 x 392.4 x 64.5mm",
+        "背面尺寸:": "88.5 x 357.6 x 69.3mm",
+        "適用門厚 :": "38-52mm",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "August Connect Wi-Fi Bridge",
+        "rating": "",
+        "water_price_min": "765",
+        "water_price_max": "968"
+    },
+    {
+        "names": "VNTECHNOS Security Fingprint LockVN-G110",
+        "rating": "",
+        "hon_price_min": "1,250",
+        "hon_price_max": "1,250",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "46cm x 27cm x 21cm (18.11in x 10.63in x 8.27in)",
+        "背面尺寸:": "46cm x 27cm x 21cm (18.11in x 10.63in x 8.27in)",
+        "適用門厚 :": "40-60mm"
+    },
+    {
+        "names": "YEEUU YEEVV S1 Smart Fingerprint Lock 極簡約智能門鎖 (Unified version)",
+        "rating": "",
+        "hon_price_min": "1,599",
+        "hon_price_max": "1,599",
+        "water_price_min": "1,180",
+        "water_price_max": "1,180",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "正面尺寸:": "60 x 80mm",
+        "電源:": "3 x AAA Alkaline Batteries"
+    },
+    {
+        "names": "Hione 智慧型電子鎖 H7090",
+        "rating": "10",
+        "water_price_min": "1,980",
+        "water_price_max": "2,000",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "遙控器:": "選配",
+        "適用門厚 :": "40-70mm"
+    },
+    {
+        "names": "Midas 電子門鎖 MS-7200",
+        "rating": "",
+        "hon_price_min": "1,930",
+        "hon_price_max": "1,930",
+        "密碼解鎖:": "永久性,一次性",
+        "背面尺寸:": "370 x 85 x 70mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHS-2320",
+        "rating": "10",
+        "hon_price_min": "1,850",
+        "hon_price_max": "1,850",
+        "water_price_min": "1,270",
+        "water_price_max": "1,280",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "182 x 90 x 40.7mm",
+        "適用門厚 :": "40-50mm",
+        "電源:": "4 x DC6V AA電池"
+    },
+    {
+        "names": "Alpha 防水智能電子門鎖 WS200",
+        "rating": "",
+        "hon_price_min": "4,250",
+        "hon_price_max": "4,280",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Avent 觸控藍牙卡片4合一電子鎖",
+        "rating": "10",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "yes",
+        "電源:": "6V"
+    },
+    {
+        "names": "Kwikset Kevo Convert Smart Lock (2nd Gen)",
+        "rating": "",
+        "water_price_min": "2,390",
+        "water_price_max": "2,390",
+        "藍牙解鎖:": "有",
+        "電源:": "電池X4"
+    },
+    {
+        "names": "​Otron A.I.人臉識別門禁拍卡控制器 TR-A203",
+        "rating": "",
+        "hon_price_min": "2,490",
+        "hon_price_max": "2,490",
+        "密碼解鎖:": "永久性",
+        "人臉識別:": "有",
+        "正面尺寸:": "155 x 154 x 25mm"
+    },
+    {
+        "names": "Lockly Secure Series Dead bolt",
+        "rating": "",
+        "hon_price_min": "2,800",
+        "hon_price_max": "3,500",
+        "密碼解鎖:": "永久性,一次性,周期性",
+        "正面尺寸:": "175 x 74mm",
+        "背面尺寸:": "184 x 74mm",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "2A電池 x 4粒"
+    },
+    {
+        "names": "Yale 門卡密碼鎖 YDR353",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,300",
+        "water_price_min": "1,290",
+        "water_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "37.7 x 158 x 85mm",
+        "適用門厚 :": "35-55mm",
+        "電源:": "4 x 1.5VAA電池"
+    },
+    {
+        "names": "Gateman 電子門鎖 F10-FH",
+        "rating": "",
+        "water_price_min": "1,450",
+        "water_price_max": "1,610",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "19 x 64.6 x 160.2mm",
+        "適用門厚 :": "40-55mm",
+        "電源:": "3 號鹼性電池 x 4"
+    },
+    {
+        "names": "Samsung 三星 Smart Security Digital Door Lock SHS-5050",
+        "rating": "2.0",
+        "hon_price_min": "1,550",
+        "hon_price_max": "1,900",
+        "water_price_min": "1,500",
+        "water_price_max": "1,580",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80mm",
+        "適用門厚 :": "40-50mm",
+        "電源:": "DC 6V (AA Alkaline batteries, 8pcs)"
+    },
+    {
+        "names": "Gateman 指紋電子門鎖 Z-10",
+        "rating": "10",
+        "water_price_min": "1,480",
+        "water_price_max": "1,500",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "158 x 85 x 36mm",
+        "適用門厚 :": "40-50mm"
+    },
+    {
+        "names": "Yale 電子門鎖 YDM7111",
+        "rating": "6.0",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,080",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "正面尺寸:": "76.6 x 334.6 x 42.6mm",
+        "背面尺寸:": "76.6 x 304.6 x 35mm"
+    },
+    {
+        "names": "工創 人面識別指紋門禁機 FIA-ID",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "密碼解鎖:": "永久性",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Commax Rock And Lock 電子門鎖 CDL-800WL",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "water_price_min": "1,890",
+        "water_price_max": "1,890",
+        "密碼解鎖:": "永久性",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Danalock V3 Homekit 智能門鎖",
+        "rating": "",
+        "hon_price_min": "2,199",
+        "hon_price_max": "2,199",
+        "藍牙解鎖:": "有",
+        "正面尺寸:": "59 x 59 x 68mm",
+        "電源:": "4 CR123A Batteries"
+    },
+    {
+        "names": "森太 全自動智能指紋貓眼防盜門電子鎖",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "遙控器:": "有"
+    },
+    {
+        "names": "Metalware 藍牙智能門鎖 (水平門柄) MW-520",
+        "rating": "",
+        "hon_price_min": "3,780",
+        "hon_price_max": "3,780",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "320 x 84 x 62.6mm",
+        "背面尺寸:": "295 x 80 x 67.8mm",
+        "適用門厚 :": "40-60mm",
+        "電源:": "AA電池"
+    },
+    {
+        "names": "Yale 指紋密碼鎖 YMF40",
+        "rating": "10",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,010",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA電池"
+    },
+    {
+        "names": "Milre 感應卡/密碼/鑰匙電子鎖 MI-6000",
+        "rating": "10",
+        "water_price_min": "1,480",
+        "water_price_max": "1,500",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "76 x 310 x 66mm",
+        "背面尺寸:": "76 x 310 x 66mm",
+        "電源:": "3 號鹼性電池 x 4"
+    },
+    {
+        "names": "August Smart Lock Pro (3rd Generation)",
+        "rating": "",
+        "water_price_min": "2,480",
+        "water_price_max": "2,480"
+    },
+    {
+        "names": "Yale 指紋密碼鎖 YDM4115",
+        "rating": "",
+        "hon_price_min": "4,080",
+        "hon_price_max": "4,080",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "14.1 x 72 x 364mm",
+        "背面尺寸:": "36 x 72 x 344mm",
+        "適用門厚 :": "40-95mm"
+    },
+    {
+        "names": "August Smart Keypad",
+        "rating": "",
+        "water_price_min": "880",
+        "water_price_max": "950",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "和 JH-Y05",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Danalock V3 Bluetooth & Z-Wave 智能門鎖",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "藍牙解鎖:": "有"
+    },
+    {
+        "names": "KABA E-Flash 電子門鎖 EF780",
+        "rating": "",
+        "hon_price_min": "5,139",
+        "hon_price_max": "5,139",
+        "water_price_min": "2,979",
+        "water_price_max": "2,979",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "選配",
+        "正面尺寸:": "23.5 x 74 x 282mm",
+        "背面尺寸:": "25 x 74 x 282mm"
+    },
+    {
+        "names": "Samsung 三星 推拉式智能門鎖 SHP-DP920FG",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "water_price_min": "2,650",
+        "water_price_max": "2,650",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "正面尺寸:": "86 x 358.4 x 63mm",
+        "背面尺寸:": "85 x 346.5 x 61mm",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "M&G WIFI智能雲指紋考勤機 AEQ96711",
+        "rating": "",
+        "hon_price_min": "1,200",
+        "hon_price_max": "1,200",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "RSH 智能門鎖 WD002",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "電源:": "2A Battery"
+    },
+    {
+        "names": "Vntechnos Electronics Door lock with bluetooth and app. (JCF 3342)",
+        "rating": "",
+        "hon_price_min": "1,050",
+        "hon_price_max": "1,050",
+        "密碼解鎖:": "永久性",
+        "電源:": "yes"
+    },
+    {
+        "names": "Metalware 藍牙智能門鎖 MW-370",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "1,980",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有",
+        "電源:": "2A電"
+    },
+    {
+        "names": "Schlage 智慧型電子門鎖 S-6500F",
+        "rating": "",
+        "hon_price_min": "3,450",
+        "hon_price_max": "3,450",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "選配",
+        "適用門厚 :": "40-50mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA / 8 x AA 電池"
+    },
+    {
+        "names": "Samsung 三星 Smart Door Lock SHS-H630",
+        "rating": "",
+        "hon_price_min": "2,480",
+        "hon_price_max": "2,480",
+        "water_price_min": "1,800",
+        "water_price_max": "1,800",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "79 x 290 x 80.3mm",
+        "適用門厚 :": "38-80mm",
+        "電源:": "DC 6V AA (LR6) 鹼性電池 x4"
+    },
+    {
+        "names": "ZKTeco SC105 門禁系統",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "August Smart Lock",
+        "rating": "",
+        "water_price_min": "1,950",
+        "water_price_max": "1,980"
+    },
+    {
+        "names": "Nest x Yale Smart Lock",
+        "rating": "",
+        "water_price_min": "950",
+        "water_price_max": "2,998",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "70.3 x 65.8 x 51.2mm",
+        "電源:": "4 AA Batteries"
+    },
+    {
+        "names": "Keylock 四合一電子鎖 6600-313C",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "適用門厚 :": "40-80",
+        "電源:": "12V"
+    },
+    {
+        "names": "VNTECHNOS 智能門鎖 VN-B620",
+        "rating": "",
+        "hon_price_min": "720",
+        "hon_price_max": "720",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "46cm x 27cm x 21cm (18.11in x 10.63in x 8.27in)",
+        "適用門厚 :": "40-60mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "有"
+    },
+    {
+        "names": "Gateman 電子門鎖 A20-IH",
+        "rating": "",
+        "water_price_min": "1,300",
+        "water_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Danalock V3 Bluetooth & Zigbee 智能門鎖",
+        "rating": "",
+        "hon_price_min": "2,399",
+        "hon_price_max": "2,399",
+        "藍牙解鎖:": "有"
+    },
+    {
+        "names": "ZKTeco R6 E Standalone Keypad Single-Door Controller",
+        "rating": "",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "HANVON 人臉識別門禁系統 F710S",
+        "rating": "",
+        "感應卡解鎖:": "有",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Yale Z-Wave Touch Screen Door Lock YRD220-ZW-619",
+        "rating": "10",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "August Smart Lock (HomeKit Enabled)",
+        "rating": "",
+        "water_price_min": "2,180",
+        "water_price_max": "2,190"
+    },
+    {
+        "names": "BELLHORN 電子門鎖 BEL-MKTM036062SS",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "2,980",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "ABB free@home 7吋面板 DP7-S-611",
+        "rating": "",
+        "hon_price_min": "17,838",
+        "hon_price_max": "17,838"
+    },
+    {
+        "names": "Vihome Smart Lock",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Igloohome Mortise 智能門鎖 IGL-IGM1",
+        "rating": "",
+        "hon_price_min": "2,000",
+        "hon_price_max": "2,000",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "適用門厚 :": "40-60mm"
+    },
+    {
+        "names": "Clavis 電子門鎖 CMF-1000K",
+        "rating": "",
+        "hon_price_min": "3,180",
+        "hon_price_max": "3,180",
+        "water_price_min": "2,280",
+        "water_price_max": "2,280",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "baba lock Push Pull System 智能門鎖 BABA-9700",
+        "rating": "",
+        "hon_price_min": "2,070",
+        "hon_price_max": "2,070",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "80 x 295 x 63mm",
+        "適用門厚 :": "40-60",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 x AA"
+    },
+    {
+        "names": "DST 智能電子門鎖 3988PF",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "84.3 x 34 x 376mm",
+        "適用門厚 :": "40 ~ 75mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA 1.5V x 4 EA (DC 6V)"
+    },
+    {
+        "names": "Yale Code Handle CHD8812RH",
+        "rating": "",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "Samsung 三星 智能電子門鎖 SAM-SHPDP727AKEN",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "藍牙解鎖:": "有",
+        "鑰匙:": "有",
+        "遙控器:": "有"
+    },
+    {
+        "names": "VNTECHNOS Security Fingprint Lock VN-G106",
+        "rating": "2.0",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "正面尺寸:": "46cm x 27cm x 21cm (18.11in x 10.63in x 8.27in)",
+        "背面尺寸:": "46cm x 27cm x 21cm (18.11in x 10.63in x 8.27in)"
+    },
+    {
+        "names": "August Smart Lock (3rd Generation)",
+        "rating": "",
+        "water_price_min": "1,550",
+        "water_price_max": "1,580"
+    },
+    {
+        "names": "Gateman 電子門鎖 A20-CH",
+        "rating": "",
+        "water_price_min": "1,300",
+        "water_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "入侵/破壞警報:": "有"
+    },
+    {
+        "names": "August Smart Lock Pro + Connect 套裝",
+        "rating": "",
+        "water_price_min": "2,480",
+        "water_price_max": "2,730",
+        "電源:": "1.5 volts"
+    },
+    {
+        "names": "ABB free@home 7吋面板 DP7-S-625",
+        "rating": "",
+        "hon_price_min": "18,085",
+        "hon_price_max": "18,085"
+    },
+    {
+        "names": "Commax Rock And Lock 電子門鎖 CDL-100WL",
+        "rating": "",
+        "hon_price_min": "1,480",
+        "hon_price_max": "1,480",
+        "water_price_min": "1,490",
+        "water_price_max": "1,490",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Gateman 電子門鎖 S10",
+        "rating": "",
+        "water_price_min": "1,300",
+        "water_price_max": "1,300",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "13 x 66 x 182mm",
+        "電源:": "1.5V 4 AA Alkaline Battery x 4"
+    },
+    {
+        "names": "Adel 指紋門鎖 3398",
+        "rating": "",
+        "hon_price_min": "1,288",
+        "hon_price_max": "1,288",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "電源:": "2A x 4"
+    },
+    {
+        "names": "Kaadas 密碼智能防盗鎖 K9",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "85 x 400 x 72",
+        "背面尺寸:": "85 x 400 x 72",
+        "適用門厚 :": "40-80mm",
+        "入侵/破壞警報:": "yes",
+        "電源:": "12V"
+    },
+    {
+        "names": "和 YH006 門禁機無線樓宇電話對講機",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200",
+        "感應卡解鎖:": "有",
+        "正面尺寸:": "117 x 116 x 20mm"
+    },
+    {
+        "names": "Soyal 16+2多門連網控制器",
+        "rating": ""
+    },
+    {
+        "names": "Milre 四合一電子指紋鎖 MI-7800",
+        "rating": "",
+        "hon_price_min": "3,250",
+        "hon_price_max": "3,250",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "M&G 智能雲指紋考勤機 AEQ96708",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "指紋解鎖:": "有",
+        "正面尺寸:": "185 x 139.5 x 39mm"
+    },
+    {
+        "names": "Soyal 經典型感應式圖形顯示多功能控制器 AR-727-E",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "126 x 91 x 46mm"
+    },
+    {
+        "names": "Danalock V3 Bluetooth 智能門鎖",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "1,999",
+        "藍牙解鎖:": "有"
+    },
+    {
+        "names": "Gateman 電子門鎖 WG-100",
+        "rating": "",
+        "water_price_min": "1,350",
+        "water_price_max": "1,360",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "76 x 34 x 217mm",
+        "電源:": "1.5V AA(LR6) Alkaline batteries x 4"
+    },
+    {
+        "names": "VNTECHNOS Security Fingprint Lock VN-G109",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "46 x 27 x 21cm",
+        "背面尺寸:": "46 x 27 x 21cm",
+        "適用門厚 :": "40-60mm",
+        "電源:": "4 pcs 1.5V LR6 alialine batteries"
+    },
+    {
+        "names": "Samsung 三星 玻璃門鎖 SHS-G517",
+        "rating": "",
+        "water_price_min": "1,190",
+        "water_price_max": "1,190",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "9-13mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "2A x4"
+    },
+    {
+        "names": "Igloohome Smart Mortise 2 電子門鎖",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "85 x 355 x 68mm",
+        "背面尺寸:": "89 x 355 x 71mm",
+        "適用門厚 :": "40-70mm",
+        "電源:": "8 AA Alkaline batteries"
+    },
+    {
+        "names": "M&G WIFI指紋考勤機 AEQ96710",
+        "rating": "",
+        "指紋解鎖:": "有",
+        "正面尺寸:": "164 x 121 x 42mm"
+    },
+    {
+        "names": "Samsung 三星 智能門鎖 SHS-1321",
+        "rating": "",
+        "hon_price_min": "1,638",
+        "hon_price_max": "1,638",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Igloohome 智能門鎖 IGL-DEADBOLT02",
+        "rating": "",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,050",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有",
+        "適用門厚 :": "38-50mm"
+    },
+    {
+        "names": "Keylock 三合一電子鎖 6600-86IC",
+        "rating": "",
+        "hon_price_min": "800",
+        "hon_price_max": "800",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "70 x 180 x 60",
+        "適用門厚 :": "30mm以上",
+        "電源:": "12V"
+    },
+    {
+        "names": "VNTECHNOS Security Fingprint Lock VN-G107",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "46cm x 27cm x 21cm",
+        "背面尺寸:": "46cm x 27cm x 21cm",
+        "適用門厚 :": "40-60mm"
+    },
+    {
+        "names": "RSH 智能門鎖 WD003 (E203)",
+        "rating": "",
+        "hon_price_min": "2,280",
+        "hon_price_max": "2,280",
+        "指紋解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "AVENT 三合一電子門鎖 M90",
+        "rating": "",
+        "hon_price_min": "1,580",
+        "hon_price_max": "1,580",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "80 x 160 x 35",
+        "適用門厚 :": "10~12mm玻璃門",
+        "電源:": "12V"
+    },
+    {
+        "names": "Koogeek 智能指紋鎖 L3",
+        "rating": "",
+        "指紋解鎖:": "有",
+        "藍牙解鎖:": "有"
+    },
+    {
+        "names": "Unicor 指紋密碼智能門鎖 UN-9000BS-F",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "遙控器:": "有"
+    },
+    {
+        "names": "Kaadas 密碼智能防盗鎖 K7",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "85 x 395 x 67",
+        "背面尺寸:": "85 x 395 x 67",
+        "適用門厚 :": "40-80mm",
+        "電源:": "12V"
+    },
+    {
+        "names": "Wulian Smart Lock (Fingerprints & Passwords) & Hub",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "有",
+        "適用門厚 :": "44mm-120mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "電池"
+    },
+    {
+        "names": "KABA E-Flash 電子門鎖 EF180",
+        "rating": "",
+        "hon_price_min": "2,889",
+        "hon_price_max": "2,889",
+        "water_price_min": "1,685",
+        "water_price_max": "1,685",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "23 x 167 x 65mm",
+        "背面尺寸:": "29 x 154 x 77mm"
+    },
+    {
+        "names": "DST 智能電子門鎖 1188PF",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "80 x 23 x 310mm",
+        "適用門厚 :": "40 ~ 50mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "4 LR6 1.5V AA Alkaline battery (DC 6V)"
+    },
+    {
+        "names": "Igloohome Deadbolt 2S 智能門鎖",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 1 by 4 Entrance System 對講系統 VL-VF540BX",
+        "rating": ""
+    },
+    {
+        "names": "Yale Keyfree Connected Smart Lock",
+        "rating": "8.0",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "360 指紋鎖家用全自動電子門鎖智能指紋鎖 推拉式 S1",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "B-Ocean 指紋門鎖 BLB-808",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "810 x 81mm",
+        "適用門厚 :": "40 ~ 50mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "1.5V * 8 AA"
+    },
+    {
+        "names": "Samsung 三星 Touchpad Access Deadbolt Lock SHS-3120",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "180.7 x 91.5 x 48mm",
+        "適用門厚 :": "40-60mm",
+        "電源:": "DC6V (Alkaline AA, LR6 Battery 8pcs)"
+    },
+    {
+        "names": "RSH 五合一電子鎖 E202",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "正面尺寸:": "140 x 265 x 70",
+        "背面尺寸:": "140 x 265 x 70",
+        "適用門厚 :": "40-80mm",
+        "電源:": "12V"
+    },
+    {
+        "names": "Kaadas 三合一電子鎖 R7",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "200 x 77 x 48",
+        "適用門厚 :": "30mm以上",
+        "電源:": "12V"
+    },
+    {
+        "names": "Yale Code Handle CHD8812LH",
+        "rating": "",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "Fanvil SIP Doorphone (Password + RFID) i20S",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "PushLL 3D面部識別鎖智能門鎖 P86-2",
+        "rating": "",
+        "密碼解鎖:": "永久性,一次性",
+        "鑰匙:": "有",
+        "入侵/破壞警報:": "有",
+        "電源:": "可更換式鋰電池"
+    },
+    {
+        "names": "Fanvil SIP Access Control System (SIP Doorphone + RFID Card Reader) i20T",
+        "rating": "",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Keylock 三合一電子鎖 6600-86IG",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "70 x 180 x 60",
+        "適用門厚 :": "30mm以上",
+        "電源:": "12V"
+    },
+    {
+        "names": "Yale Z-Wave Touch Screen Door Lock YRD240-ZW-619",
+        "rating": "",
+        "密碼解鎖:": "永久性"
+    },
+    {
+        "names": "Candy House Sesame Smart Lock",
+        "rating": "",
+        "Wi-Fi 解鎖:": "有"
+    },
+    {
+        "names": "M&G 面部指紋混合識別考勤機 AEQ96709",
+        "rating": "",
+        "指紋解鎖:": "有",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "VNTECHNOS Security Fingprint Lock VN-G105",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有",
+        "鑰匙:": "有"
+    },
+    {
+        "names": "Unicor 密碼智能門鎖 UN-9000S-F",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "有"
+    },
+    {
+        "names": "ZKTeco F21 SilkID Fingerprint Standalone Access Control",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Keylock  五合一電子鎖 6600-313",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "有",
+        "適用門厚 :": "40-80",
+        "電源:": "12V"
+    },
+    {
+        "names": "Nippo Timeboy Plus RFID智能卡及指紋卡鐘機",
+        "rating": "",
+        "指紋解鎖:": "有",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Panasonic 樂聲 無線視像對講系統 VL-SWD501BX",
+        "rating": ""
+    },
+    {
+        "names": "Panasonic 樂聲 視像對講系統 VL-SV71",
+        "rating": ""
+    },
+    {
+        "names": "Fanvil SIP Video Doorphone i30",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "Guardian 指紋/密碼電子門鎖 TR821",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "指紋解鎖:": "有"
+    },
+    {
+        "names": "Fanvil SIP Video Doorphone (Video Intercom + Password + RFID) i31",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "感應卡解鎖:": "有"
+    },
+    {
+        "names": "ZKTeco VF700 Face Time Attendance w/ 3\" Touch Screen",
+        "rating": "",
+        "感應卡解鎖:": "有",
+        "人臉識別:": "有"
+    },
+    {
+        "names": "Orvibo OR-K ZigBee 指紋密碼智能門鎖 & Hub OR-K-9113-S",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "適用門厚 :": "40-120mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "電池"
+    },
+    {
+        "names": "Panasonic 樂聲 無線視像對講系統 VL-SW250BX",
+        "rating": ""
+    },
+    {
+        "names": "DST 智能電子門鎖 3988PC",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "84.3 x 34 x 376mm",
+        "適用門厚 :": "40 ~ 75mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "AA 1.5V x 4 EA (DC 6V)"
+    },
+    {
+        "names": "Wulian Smart Retina Doorlock & Hub (door locks)",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "遙控器:": "有",
+        "適用門厚 :": "45-120mm",
+        "入侵/破壞警報:": "有",
+        "電源:": "電池"
+    },
+    {
+        "names": "Keylock 三合一電子鎖 101C",
+        "rating": "",
+        "密碼解鎖:": "永久性",
+        "背面尺寸:": "70 x 165 x 65",
+        "適用門厚 :": "30mm以上",
+        "電源:": "12V"
+    }
+]
