@@ -1,0 +1,1315 @@
+[
+    {
+        "names": "STB 360牙刷",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "40",
+        "water_price_min": "19",
+        "water_price_max": "25",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Jack N' Jill 有機嬰兒牙膏",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "72",
+        "water_price_min": "38",
+        "water_price_max": "48",
+        "類別:": "牙膏",
+        "容量:": "50g"
+    },
+    {
+        "names": "Pigeon 嬰兒無菌乳牙清潔濕巾 - 木糖醇 42包 (獨立包裝)",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "類別:": "其他"
+    },
+    {
+        "names": "Aguard tutus Stage 2 兒童電動牙刷",
+        "rating": "",
+        "hon_price_min": "107",
+        "hon_price_max": "108",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Pigeon 嬰兒防蛀牙膏 - 草莓口味 50g",
+        "rating": "",
+        "hon_price_min": "44",
+        "hon_price_max": "44",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "重量:": "50g"
+    },
+    {
+        "names": "Tawa 全自動U型刷牙",
+        "rating": "",
+        "water_price_min": "198",
+        "water_price_max": "198",
+        "類別:": "牙刷",
+        "適用年齡:": "3.5-18+"
+    },
+    {
+        "names": "Vivatec Lux 360˚ 第一階段兒童牙刷 (4-24個月) 3支裝",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "類別:": "牙刷",
+        "適用年齡:": "4-24個月"
+    },
+    {
+        "names": "EDISONmama 指套型即棄抺牙布 (30片)",
+        "rating": "",
+        "hon_price_min": "53",
+        "hon_price_max": "53",
+        "類別:": "其他",
+        "適用年齡:": "0個月~"
+    },
+    {
+        "names": "Kao 花王 嬰幼兒童牙膏70g(葡萄)",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類別:": "牙膏",
+        "容量:": "70g"
+    },
+    {
+        "names": "Aguard tutus Stage 2 牙刷刷頭",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "48",
+        "water_price_min": "47",
+        "water_price_max": "47",
+        "類別:": "其他"
+    },
+    {
+        "names": "Oral-B 迪士尼米奇老鼠莓味兒童牙膏 75ml",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "18",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙膏",
+        "容量:": "75ml"
+    },
+    {
+        "names": "Oral-B 迪士尼冰雪奇緣莓味兒童牙膏 75ml",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "18",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙膏",
+        "容量:": "75ml"
+    },
+    {
+        "names": "Lion 獅王 小童用漱口水 250ml",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "類別:": "其他",
+        "容量:": "250ml"
+    },
+    {
+        "names": "AloeDent 蘆薈士多啤梨味兒童無氟牙膏50ml",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "25",
+        "water_price_min": "25",
+        "water_price_max": "32",
+        "類別:": "牙膏",
+        "容量:": "50ml"
+    },
+    {
+        "names": "Oral-B 迪士尼小熊維尼嬰兒護齒牙刷 - 1段 (4-24個月)",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙刷",
+        "適用年齡:": "4-24個月"
+    },
+    {
+        "names": "Jack N' Jill Teething Gel 純天然長牙舒緩啫喱 15g",
+        "rating": "",
+        "hon_price_min": "107",
+        "hon_price_max": "107",
+        "類別:": "其他",
+        "重量:": "15g"
+    },
+    {
+        "names": "Vivatec Lux 360˚ 第一階段兒童牙刷 (連矽膠托) 4-24個月",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "牙刷",
+        "適用年齡:": "4-24個月"
+    },
+    {
+        "names": "Lion 獅王 麵包超人兒童牙膏 40g (士多啤梨味)",
+        "rating": "",
+        "hon_price_min": "16",
+        "hon_price_max": "16",
+        "water_price_min": "16",
+        "water_price_max": "18",
+        "類別:": "牙膏",
+        "重量:": "40g"
+    },
+    {
+        "names": "Skater 巧虎幼兒牙刷 (6個月)",
+        "rating": "",
+        "water_price_min": "20",
+        "water_price_max": "20",
+        "類別:": "牙刷",
+        "適用年齡:": "6個月"
+    },
+    {
+        "names": "Brush Buddies Emoji 兒童電動牙刷",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "water_price_min": "38",
+        "water_price_max": "38"
+    },
+    {
+        "names": "EDISONmama 嬰幼兒矽膠指套牙刷",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "47",
+        "water_price_min": "37",
+        "water_price_max": "37",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "BabySmile 第三代音波式電動牙刷 S-202",
+        "rating": "",
+        "hon_price_min": "258",
+        "hon_price_max": "258",
+        "water_price_min": "125",
+        "water_price_max": "258",
+        "類別:": "牙刷",
+        "適用年齡:": "0歲以上"
+    },
+    {
+        "names": "Vivatec 360° 牙刷 (幼兒/兒童適用)",
+        "rating": "",
+        "hon_price_min": "87",
+        "hon_price_max": "96",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "KIDSME First Toothbrush Set 130051",
+        "rating": "",
+        "hon_price_min": "40",
+        "hon_price_max": "41",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Lab52 齒妍堂 T-Spray 兒童含鈣健齒漱口水 - 葡萄味 300g",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "類別:": "其他",
+        "適用年齡:": "3歲以下兒童適用"
+    },
+    {
+        "names": "Lion 獅王 米奇可屈曲刷頭牙刷(0-2歲適用)",
+        "rating": "",
+        "hon_price_min": "16",
+        "hon_price_max": "19",
+        "類別:": "牙刷",
+        "適用年齡:": "0-2歲"
+    },
+    {
+        "names": "Combi 9 month+ 嬰兒者喱橙味牙膏 30g",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "類別:": "牙膏",
+        "適用年齡:": "9 month+"
+    },
+    {
+        "names": "Ashmore 兒童U型電動牙刷 - 核桃小黃鴨款",
+        "rating": "",
+        "hon_price_min": "430",
+        "hon_price_max": "430",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Sunstar 巧虎兒童牙刷 (2-4歲)",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "15",
+        "water_price_min": "15",
+        "water_price_max": "15",
+        "類別:": "牙刷",
+        "適用年齡:": "2-4歲"
+    },
+    {
+        "names": "Pigeon 嬰兒啫喱牙膏 50g (提子味)",
+        "rating": "",
+        "hon_price_min": "44",
+        "hon_price_max": "44",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "容量:": "50g"
+    },
+    {
+        "names": "Miffy U型電動牙刷",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "蒲公英的種子 360牙刷 兒童款 (3-12歲)",
+        "rating": "",
+        "water_price_min": "18",
+        "water_price_max": "20",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Osaki Dacco 嬰兒潔齒棉 28片 (獨立包裝)",
+        "rating": "",
+        "water_price_min": "75",
+        "water_price_max": "75",
+        "類別:": "其他",
+        "適用年齡:": "1個朋或以上"
+    },
+    {
+        "names": "Pigeon 嬰兒防蛀牙膏 - 木糖醇口味 50g",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "重量:": "50g"
+    },
+    {
+        "names": "EDISONmama 嬰兒專用蘋果牙刷",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "58",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "類別:": "牙刷",
+        "適用年齡:": "6個月或以上"
+    },
+    {
+        "names": "Dentistar Tooth Brush Learner Set 學習用牙刷套裝 (三件裝)",
+        "rating": "",
+        "hon_price_min": "97",
+        "hon_price_max": "97",
+        "類別:": "牙刷",
+        "適用年齡:": "0個月以上"
+    },
+    {
+        "names": "Sunstar 巧虎兒童牙膏 (葡萄味) 70g",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類別:": "牙膏",
+        "適用年齡:": "18個月起"
+    },
+    {
+        "names": "3M 兒童安全牙線棒, 袋裝, 散裝包, 38支入 DFK1",
+        "rating": "",
+        "hon_price_min": "22",
+        "hon_price_max": "24",
+        "類別:": "牙線棒"
+    },
+    {
+        "names": "3M 兒童安全牙線棒, 盒裝, 66支入 DFK2",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "40",
+        "類別:": "牙線棒"
+    },
+    {
+        "names": "Oral-B 迪士尼米奇老鼠嬰兒護齒牙刷 - 2段 (2-4歲)",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "22",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙刷",
+        "適用年齡:": "2-4歲"
+    },
+    {
+        "names": "Pororo Toddler Toothbrush 幼兒牙刷",
+        "rating": "",
+        "hon_price_min": "21",
+        "hon_price_max": "21",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Combi Step2 嬰兒牙刷 (兩支裝)",
+        "rating": "",
+        "hon_price_min": "34",
+        "hon_price_max": "34",
+        "water_price_min": "34",
+        "water_price_max": "34",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "MARUDAI 兒童聲波電動牙刷套裝",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Brush Baby Tutti Frutti Toothpaste 3-6 Years 50ml",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "water_price_min": "35",
+        "water_price_max": "35",
+        "類別:": "牙膏",
+        "容量:": "50ml"
+    },
+    {
+        "names": "Dentistar 牙齒清潔抗菌手指套 DS-33151",
+        "rating": "",
+        "hon_price_min": "61",
+        "hon_price_max": "61",
+        "water_price_min": "61",
+        "water_price_max": "61",
+        "類別:": "其他",
+        "適用年齡:": "0個月以上"
+    },
+    {
+        "names": "Brussy 兒童牙刷 1 Set - 12支",
+        "rating": "",
+        "hon_price_min": "67",
+        "hon_price_max": "67",
+        "water_price_min": "67",
+        "water_price_max": "67",
+        "類別:": "牙刷",
+        "適用年齡:": "2至6歲"
+    },
+    {
+        "names": "Combi  Teteo 手握式刷牙訓練器",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "water_price_min": "69",
+        "water_price_max": "69",
+        "類別:": "牙刷",
+        "適用年齡:": "10 個月以上"
+    },
+    {
+        "names": "Disney Toothbrush Holder 牙刷架",
+        "rating": "",
+        "water_price_min": "99",
+        "water_price_max": "99"
+    },
+    {
+        "names": "Vivatec Lux 360˚ 第二階段兒童牙刷 (連矽膠托) 2-4歲",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "牙刷",
+        "適用年齡:": "2-4歲"
+    },
+    {
+        "names": "Combi 嬰兒提子味啫喱牙膏 50g (食物原料)",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "容量:": "50g"
+    },
+    {
+        "names": "Pigeon 嬰兒潔齒棉 42片獨立包裝",
+        "rating": "",
+        "water_price_min": "65",
+        "water_price_max": "65",
+        "類別:": "其他",
+        "適用年齡:": "6個月以上"
+    },
+    {
+        "names": "Richell 乳齒訓練牙刷套組",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "85",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Day and Night 德恩奈 兒童牙膏 90g",
+        "rating": "",
+        "hon_price_min": "36",
+        "hon_price_max": "36",
+        "類別:": "牙膏",
+        "容量:": "90g"
+    },
+    {
+        "names": "Pigeon 嬰兒啫喱牙膏 50g (士多啤梨味)",
+        "rating": "",
+        "hon_price_min": "44",
+        "hon_price_max": "48",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "容量:": "50g"
+    },
+    {
+        "names": "NUK 嬰孩口腔清潔棉25片裝",
+        "rating": "",
+        "hon_price_min": "61",
+        "hon_price_max": "62",
+        "類別:": "其他",
+        "容量:": "25片"
+    },
+    {
+        "names": "Oral-B 迪士尼反斗車王莓味兒童牙膏 75ml",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "18",
+        "water_price_min": "15",
+        "water_price_max": "17",
+        "類別:": "牙膏",
+        "容量:": "75ml"
+    },
+    {
+        "names": "Sunstar 巧虎兒童牙膏 (士多啤梨味) 70g",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類別:": "牙膏",
+        "適用年齡:": "18個月起"
+    },
+    {
+        "names": "Oral-B 兒童乾電式電動牙刷 DB3010K",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Oral-B 迪士尼公主及反斗車王嬰兒護齒牙刷 - 3段 (5-7歲)",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙刷",
+        "適用年齡:": "5-7歲"
+    },
+    {
+        "names": "Sunstar 巧虎寶寶兒童牙膏(葡萄) 70g",
+        "rating": "",
+        "hon_price_min": "17",
+        "hon_price_max": "18",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙膏",
+        "容量:": "70g"
+    },
+    {
+        "names": "Babyganics 幼兒無氟化物天然啫喱牙膏 113g",
+        "rating": "",
+        "hon_price_min": "47",
+        "hon_price_max": "47"
+    },
+    {
+        "names": "Dr.Barman’s Superbrush 三面式牙刷 (0-6歲)",
+        "rating": "",
+        "hon_price_min": "110",
+        "hon_price_max": "110",
+        "water_price_min": "109",
+        "water_price_max": "110",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Brush Baby Applemint Toothpaste 0-3 years 50ml",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "water_price_min": "35",
+        "water_price_max": "35",
+        "類別:": "牙膏",
+        "容量:": "50ml"
+    },
+    {
+        "names": "Aguard tutus Stage 1 兒童電動牙刷",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "119",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "STB 360 鬆弛熊兒童牙刷 (3歲以上)",
+        "rating": "",
+        "hon_price_min": "25",
+        "hon_price_max": "25",
+        "water_price_min": "25",
+        "water_price_max": "25",
+        "類別:": "牙刷",
+        "適用年齡:": "3歲或以上"
+    },
+    {
+        "names": "ChuChuBaby 幼兒潔齒口含片 (乳酸或檸檬口味)",
+        "rating": "",
+        "hon_price_min": "59",
+        "hon_price_max": "59",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "類別:": "其他",
+        "容量:": "90粒 (約30日份量)"
+    },
+    {
+        "names": "Sunstar 巧虎兒童牙膏(草莓) 70g",
+        "rating": "",
+        "hon_price_min": "17",
+        "hon_price_max": "18",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙膏",
+        "容量:": "70g"
+    },
+    {
+        "names": "Lab52 齒妍堂 T-Spray Kids 兒童含鈣健齒噴霧 - 葡萄口味 20ml",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類別:": "口腔噴霧",
+        "適用年齡:": "0~12歲長牙及換牙期兒童使用"
+    },
+    {
+        "names": "BabySmile 彩虹變色兒童電動牙刷 S-204",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Vivatec 360 MEGA TEN 更換刷頭 2入",
+        "rating": "",
+        "hon_price_min": "122",
+        "hon_price_max": "122",
+        "類別:": "其他"
+    },
+    {
+        "names": "3M 兒童安全牙線棒, 杯裝, 55支入 DFK3",
+        "rating": "",
+        "hon_price_min": "32",
+        "hon_price_max": "32",
+        "類別:": "牙線棒"
+    },
+    {
+        "names": "Minimum Hapika 兒童電動牙刷",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Tom's Toothpaste-Children's Fluoride Free-Strawberry Tom's Of Maine 4.2 oz",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "water_price_min": "42",
+        "water_price_max": "42",
+        "類別:": "牙膏",
+        "重量:": "4.2oz"
+    },
+    {
+        "names": "Minimum 1 Yr+ 超柔軟刷毛電動牙刷",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "類別:": "牙刷",
+        "適用年齡:": "1 Yr+"
+    },
+    {
+        "names": "Pigeon 嬰兒潔齒棉 42片 (草莓味)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "類別:": "其他"
+    },
+    {
+        "names": "Dentistar Tooth Care Starter Set 學習用牙刷套裝 (三件裝) DS-33147",
+        "rating": "",
+        "hon_price_min": "97",
+        "hon_price_max": "97",
+        "類別:": "牙刷",
+        "適用年齡:": "0個月以上"
+    },
+    {
+        "names": "Bebble Teehing Gel 玫瑰果乳牙舒緩啫哩 20ml",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "water_price_min": "99",
+        "water_price_max": "99",
+        "類別:": "其他",
+        "容量:": "20ml"
+    },
+    {
+        "names": "BabySmile 第三代音波式電動牙刷補充刷頭 (2入組)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "water_price_min": "78",
+        "water_price_max": "78",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "BabySmile S-204 彩虹變色兒童電動牙刷替換頭（硬毛，2件裝）",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Oral-B 迪士尼公主莓味兒童牙膏 75ml",
+        "rating": "",
+        "hon_price_min": "15",
+        "hon_price_max": "18",
+        "water_price_min": "17",
+        "water_price_max": "17",
+        "類別:": "牙膏",
+        "容量:": "75ml"
+    },
+    {
+        "names": "Brush Baby First Brush and Teether Set",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "丹平製藥 兒童護齒噴霧",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "water_price_min": "48",
+        "water_price_max": "48",
+        "類別:": "口腔噴霧",
+        "適用年齡:": "18個月或以上"
+    },
+    {
+        "names": "Aguard tutus Stage 1 牙刷刷頭",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "48",
+        "water_price_min": "47",
+        "water_price_max": "47",
+        "類別:": "其他"
+    },
+    {
+        "names": "Lion 獅王 麵包超人兒童牙膏 40g (蜜瓜味)",
+        "rating": "",
+        "hon_price_min": "16",
+        "hon_price_max": "16",
+        "water_price_min": "16",
+        "water_price_max": "18",
+        "類別:": "牙膏",
+        "重量:": "40g"
+    },
+    {
+        "names": "Bandai Minions兒童牙刷3入組(3歲以上適用)",
+        "rating": "",
+        "water_price_min": "38",
+        "water_price_max": "43",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Oral-B 兒童恆齒專業清潔牙刷 8歲+",
+        "rating": "",
+        "hon_price_min": "20",
+        "hon_price_max": "24",
+        "water_price_min": "22",
+        "water_price_max": "22",
+        "類別:": "牙刷",
+        "適用年齡:": "8歲+"
+    },
+    {
+        "names": "KUKU Duckbill 酷咕鴨 造型幼兒牙刷",
+        "rating": "",
+        "hon_price_min": "11",
+        "hon_price_max": "11",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Kaeru 攜帶式幼童牙刷",
+        "rating": "",
+        "hon_price_min": "22",
+        "hon_price_max": "22",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Red Seal Natural Kids Toothpaste 兒童牙膏 75g",
+        "rating": "",
+        "hon_price_min": "40",
+        "hon_price_max": "45",
+        "類別:": "牙膏",
+        "重量:": "75g"
+    },
+    {
+        "names": "Kao 花王 嬰幼兒童牙膏70g(哈密瓜)",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "water_price_min": "18",
+        "water_price_max": "18",
+        "類別:": "牙膏",
+        "容量:": "70g"
+    },
+    {
+        "names": "蒲公英的種子 360牙刷-嬰兒款 (0-3歲)",
+        "rating": "",
+        "water_price_min": "18",
+        "water_price_max": "20",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "STB 360° My Melody 小童牙刷",
+        "rating": "",
+        "hon_price_min": "23",
+        "hon_price_max": "23",
+        "water_price_min": "23",
+        "water_price_max": "23",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Lamoon Organic Baby Toothpaste 25g 有機嬰兒牙膏 116001",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "25g"
+    },
+    {
+        "names": "Pigeon 幼兒乳齒牙刷套裝",
+        "rating": "",
+        "hon_price_min": "74",
+        "hon_price_max": "74",
+        "water_price_min": "74",
+        "water_price_max": "74",
+        "類別:": "套裝"
+    },
+    {
+        "names": "Babyganics Fluoride Free Toothpaste 西瓜味 113g",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類別:": "牙膏",
+        "重量:": "113g"
+    },
+    {
+        "names": "Combi 幼兒抑菌健齒糖 (60粒)",
+        "rating": "",
+        "water_price_min": "48",
+        "water_price_max": "48"
+    },
+    {
+        "names": "Lab52 齒妍堂 嬰幼兒口腔清潔棒 30枝裝",
+        "rating": "",
+        "hon_price_min": "125",
+        "hon_price_max": "125",
+        "類別:": "其他",
+        "適用年齡:": "0歲以上"
+    },
+    {
+        "names": "Vivatec Lux 360˚ 第二階段兒童牙刷 (2-4歲) 3支裝",
+        "rating": "",
+        "hon_price_min": "178",
+        "hon_price_max": "178",
+        "類別:": "牙刷",
+        "適用年齡:": "2-4歲"
+    },
+    {
+        "names": "Flossy 小朋友專用水果味牙線 (60支)",
+        "rating": "",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "類別:": "牙線棒",
+        "適用年齡:": "2-6歲"
+    },
+    {
+        "names": "PIYO PIYO 黃色小鴨 黃鴨舒適按摩乳牙刷組 #830561",
+        "rating": "",
+        "hon_price_min": "36",
+        "hon_price_max": "36",
+        "類別:": "舌頭清潔器"
+    },
+    {
+        "names": "Pororo 無添加劑嬰幼兒牙膏 80g",
+        "rating": "",
+        "hon_price_min": "34",
+        "hon_price_max": "34",
+        "類別:": "牙膏",
+        "適用年齡:": "0-2歲"
+    },
+    {
+        "names": "LG 樂金 Baby Shark 3D兒童牙刷",
+        "rating": "",
+        "water_price_min": "15",
+        "water_price_max": "15",
+        "類別:": "牙刷",
+        "適用年齡:": "3-6歲"
+    },
+    {
+        "names": "ChuChuBaby 幼兒潔齒顆粒 (草莓口味)",
+        "rating": "",
+        "hon_price_min": "59",
+        "hon_price_max": "59",
+        "water_price_min": "58",
+        "water_price_max": "58",
+        "類別:": "其他",
+        "容量:": "30克 (約30日份量)"
+    },
+    {
+        "names": "Better Toothbrush 新創V型兒童牙刷 - 哈哈笑",
+        "rating": "",
+        "water_price_min": "20",
+        "water_price_max": "20",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Oral-B 兒童乾電式電動牙刷 DB4510K",
+        "rating": "",
+        "water_price_min": "78",
+        "water_price_max": "98",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Pororo 3D Animation Figure Toothbrush 小企鵝3D動畫主角造型牙刷",
+        "rating": "",
+        "hon_price_min": "34",
+        "hon_price_max": "34",
+        "類別:": "牙刷",
+        "適用年齡:": "3歲以上"
+    },
+    {
+        "names": "Vivatec MEGA TEN 小童聲波電動牙刷",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "219",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "PUKU 指套牙刷組 - 2入 P17300-899",
+        "rating": "",
+        "hon_price_min": "41",
+        "hon_price_max": "41",
+        "類別:": "其他",
+        "適用年齡:": "初生兒"
+    },
+    {
+        "names": "Combi 三階段牙刷組",
+        "rating": "",
+        "hon_price_min": "74",
+        "hon_price_max": "74",
+        "water_price_min": "73",
+        "water_price_max": "73",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Pororo 迷你木糖醇牙膏 50g",
+        "rating": "",
+        "hon_price_min": "28",
+        "hon_price_max": "28",
+        "類別:": "牙膏",
+        "重量:": "50g"
+    },
+    {
+        "names": "Firefly 兒童電動牙刷",
+        "rating": "",
+        "water_price_min": "44",
+        "water_price_max": "44"
+    },
+    {
+        "names": "Skater 兒童透明牙刷 (3-5歲) (帶帽)軟 TBCR5T",
+        "rating": "",
+        "類別:": "牙刷",
+        "適用年齡:": "3-5歲"
+    },
+    {
+        "names": "BabySmaile 發光震動牙刷替換刷頭2個",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "其他",
+        "適用年齡:": "0歲起"
+    },
+    {
+        "names": "Combi 9 month+ 嬰兒者喱草莓牙膏 30g",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "適用年齡:": "9 month+"
+    },
+    {
+        "names": "Intelligent 兒童酵素牙膏 士多啤梨味 40g",
+        "rating": "",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "容量:": "40g"
+    },
+    {
+        "names": "Tenson 嬰兒口腔潔面棉柔巾 (5片裝 / 20包)",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "類別:": "其他"
+    },
+    {
+        "names": "Pororo 無氟添加兒童牙膏 (3歲以上適用) 90g",
+        "rating": "",
+        "hon_price_min": "29",
+        "hon_price_max": "29",
+        "water_price_min": "29",
+        "water_price_max": "29",
+        "類別:": "牙膏",
+        "適用年齡:": "3歲以上適用"
+    },
+    {
+        "names": "Pororo 無氟添加幼兒牙膏 80g",
+        "rating": "",
+        "hon_price_min": "34",
+        "hon_price_max": "34",
+        "類別:": "牙膏",
+        "適用年齡:": "3-5歲"
+    },
+    {
+        "names": "Combi 握把式學習牙刷 Step 2",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "84",
+        "water_price_min": "68",
+        "water_price_max": "68",
+        "類別:": "牙刷",
+        "適用年齡:": "10至36個月"
+    },
+    {
+        "names": "KIDSME 矽膠手指頭牙刷 Silicone Finger Toothbrush & Gum Massage",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Brush Baby Spearmint Toothpaste 6yrs+ 50ml",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "water_price_min": "35",
+        "water_price_max": "35",
+        "容量:": "50ml"
+    },
+    {
+        "names": "Arau 無添加牙膏",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "water_price_min": "38",
+        "water_price_max": "45",
+        "類別:": "牙膏",
+        "容量:": "120g"
+    },
+    {
+        "names": "NUK 嬰兒口腔清潔棉",
+        "rating": "",
+        "hon_price_min": "52",
+        "hon_price_max": "58",
+        "類別:": "其他"
+    },
+    {
+        "names": "RaZbaby 嬰兒牙刷 101-ST",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Lion 獅王 Mickey Kid‘s牙膏草莓味 60g",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "60g"
+    },
+    {
+        "names": "Nuby 口腔護理組 NB757",
+        "rating": "",
+        "hon_price_min": "50",
+        "hon_price_max": "50",
+        "類別:": "套裝"
+    },
+    {
+        "names": "Lavera 有機抗敏士多啤梨幼兒牙膏",
+        "rating": "",
+        "類別:": "牙膏",
+        "容量:": "75g"
+    },
+    {
+        "names": "BabySmile 無氟無添加兒童牙膏 45g",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "牙膏",
+        "容量:": "45g"
+    },
+    {
+        "names": "Skater 嬰兒透明牙刷(0-3歲) (帶帽)軟 TBCR4T",
+        "rating": "",
+        "類別:": "牙刷",
+        "適用年齡:": "0-3歲"
+    },
+    {
+        "names": "MyBEE ChiChi Toddle 雞仔嬰兒不倒翁牙刷",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Better Toothbrush 新創V型+孤面牙刷 - 標準刷頭 & 軟毛 - 綠色",
+        "rating": "",
+        "water_price_min": "28",
+        "water_price_max": "28",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "LIFE 牙齒潔淨綿棒 30支",
+        "rating": "",
+        "類別:": "其他"
+    },
+    {
+        "names": "Peppa Pig Flash Toothbrush Set 牙刷套裝",
+        "rating": "",
+        "類別:": "套裝"
+    },
+    {
+        "names": "Skater 兒童牙刷 (6-12歲) (帶帽)軟 TB6ST",
+        "rating": "",
+        "類別:": "牙膏",
+        "適用年齡:": "6-12歲"
+    },
+    {
+        "names": "Pigeon 8-12月 訓練牙刷",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Combi Step3 嬰兒牙刷 (兩支裝)",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "water_price_min": "34",
+        "water_price_max": "45",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Tommee Tippee Toothbrush Trainer Set 7m+",
+        "rating": "",
+        "類別:": "牙刷",
+        "適用年齡:": "7個月起"
+    },
+    {
+        "names": "Combi 9 month+ 嬰兒者喱葡萄牙膏 30g",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "water_price_min": "38",
+        "water_price_max": "38",
+        "類別:": "牙膏",
+        "適用年齡:": "9 month+"
+    },
+    {
+        "names": "澳洲MeiMei 嬰兒蜂膠牙膏 (草莓味) 80g",
+        "rating": "",
+        "類別:": "牙膏",
+        "容量:": "80g"
+    },
+    {
+        "names": "Intelligent 兒童酵素牙膏-原味 40g",
+        "rating": "",
+        "類別:": "牙膏",
+        "容量:": "40g"
+    },
+    {
+        "names": "Oral-B Crest Pro-Health Stages Disney Pixar Monsters Inc. Toothpaste 120g",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "120g"
+    },
+    {
+        "names": "Ebisu 闊牙縫線牙籤50支庄",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35",
+        "類別:": "牙線棒"
+    },
+    {
+        "names": "KIDSME QQ練習牙刷 Easy Hold Toothbrush",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Dr. Sheffield Baby Teething Gel",
+        "rating": "",
+        "類別:": "其他"
+    },
+    {
+        "names": "Crest Kid's Spider-Man Liquid Gel Toothpaste",
+        "rating": "",
+        "類別:": "牙膏"
+    },
+    {
+        "names": "First Teeth 幼寶幼齒專用牙膏 1.4oz/40g 2H07C1",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "40g"
+    },
+    {
+        "names": "MDB 360嬰幼兒牙刷",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Spry All Natural Kids Fluoride Free Toothpaste Tooth Gel with Xylitol",
+        "rating": "",
+        "類別:": "牙膏",
+        "容量:": "60ml"
+    },
+    {
+        "names": "Pororo BeBe Morin 無添加劑兒童牙膏 90g",
+        "rating": "",
+        "類別:": "牙膏",
+        "適用年齡:": "3歲以上適用"
+    },
+    {
+        "names": "Skater 兒童牙刷 (3-5歲) (帶帽)軟 TB5ST",
+        "rating": "",
+        "類別:": "牙刷",
+        "適用年齡:": "3-5歲"
+    },
+    {
+        "names": "Spry Kid's Alcohol-Free Xylitol Mouthwash 473ml",
+        "rating": "",
+        "類別:": "其他",
+        "容量:": "473ml"
+    },
+    {
+        "names": "Dentek 小童專用牙線棒 75入",
+        "rating": "",
+        "類別:": "牙線棒"
+    },
+    {
+        "names": "Dentek Fun Flossers 48's With Fluoride",
+        "rating": "",
+        "類別:": "牙線棒"
+    },
+    {
+        "names": "Chicco Always Smiling 口腔護理套裝",
+        "rating": "",
+        "類別:": "套裝"
+    },
+    {
+        "names": "Colgate Kids Twin Pack Toothbrush, Transformers",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Arau 天然馬毛牙刷",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Crest Pro-Health Stages Marvel Avengers Toothpaste 4.2oz",
+        "rating": "",
+        "類別:": "牙膏",
+        "容量:": "4.2oz"
+    },
+    {
+        "names": "Babyganics Say Ah! Fluoride Free Toothpaste",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "113g"
+    },
+    {
+        "names": "Nuby 幼童牙膏及牙刷訓練套裝 (nb18045-bg)",
+        "rating": "",
+        "類別:": "套裝"
+    },
+    {
+        "names": "Orajel Toddler Training Toothpaste 2013",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "1.5oz"
+    },
+    {
+        "names": "Orajel Toddler Training Toothpaste",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "1.5oz"
+    },
+    {
+        "names": "Crest Pro-Health Stages Pixar Cars and Planes Toothpaste 4.2-Ounce Tubes",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "4.2oz"
+    },
+    {
+        "names": "Oral-B Crest Kid's Zooth Paste, Hello Kitty Paste, Bubblegum Flavor 119g",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "119g"
+    },
+    {
+        "names": "BabySmaile 粉紅色發光震動牙刷",
+        "rating": "",
+        "類別:": "牙刷",
+        "適用年齡:": "0歲起"
+    },
+    {
+        "names": "Skater 兒童透明牙刷 (6-12歲) TBCR6T",
+        "rating": "",
+        "類別:": "牙刷",
+        "適用年齡:": "6-12歲"
+    },
+    {
+        "names": "Lion 獅王 Mickey Kid‘s 牙膏 桃味 60g",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "60g"
+    },
+    {
+        "names": "Lion 獅王 Mickey Kid‘s 牙膏 提子味 60g",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "60g"
+    },
+    {
+        "names": "Colgate Kids Toothpaste, Transformers",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "4.6oz"
+    },
+    {
+        "names": "Oral-B Zooth Power Toothbrush - Hello Kitty",
+        "rating": "",
+        "類別:": "牙刷"
+    },
+    {
+        "names": "Babyganics Say Ahh Flouride Free Toothpaste, Watermelon, 4 Ounce",
+        "rating": "",
+        "類別:": "牙膏",
+        "重量:": "4oz"
+    }
+]

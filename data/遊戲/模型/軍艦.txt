@@ -1,0 +1,1216 @@
+[
+    {
+        "names": "Gerhantech Six-channel Mini Remote Control Submarine 六通道迷你遙控潛艇",
+        "rating": "",
+        "water_price_min": "308",
+        "water_price_max": "308",
+        "類型:": "遙控潛水艇",
+        "全闊:": "68mm"
+    },
+    {
+        "names": "Gerhantech Children Remote Control Rechargeable Racing Boat 兒童遙控充電賽艇",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DDG KONGO 海上自衛隊 護衛艦 こんごう",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "ZVEZDA Submarine K-19",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "320mm"
+    },
+    {
+        "names": "TAMIYA NAGARA 軽巡洋艦 長良",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "200mm"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser KINUGASA 衣笠",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA British Battleship RODNEY",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "308mm"
+    },
+    {
+        "names": "HELLER BATTLESHIP RICHELIEU",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "620mm"
+    },
+    {
+        "names": "HELLER HMS ILLUSTRIOUS",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "英國",
+        "全長:": "570mm",
+        "全闊:": "84mm"
+    },
+    {
+        "names": "TAMIYA U.S. Navy CA-35 INDIANAPOLIS",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "美國",
+        "全長:": "266mm",
+        "全闊:": "29mm"
+    },
+    {
+        "names": "ITALERI SCHNELLBOOT S - 100 - PRM EDITION",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "德國",
+        "全長:": "999mm"
+    },
+    {
+        "names": "TAMIYA DD-797 CUSHING",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "美國",
+        "全長:": "164mm",
+        "全闊:": "17.5mm"
+    },
+    {
+        "names": "HASEGAWA KASUMI 霞",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA British Battlecruiser HOOD & E CLASS DESTROYER",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "英國",
+        "全長:": "375mm"
+    },
+    {
+        "names": "TAMIYA Royal Australian Navy Destroyer VAMPIRE",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "澳洲",
+        "全長:": "136mm"
+    },
+    {
+        "names": "TAMIYA U.S. Navy Battleship BB-62 NEW JERSEY",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "美國",
+        "全長:": "386.5mm"
+    },
+    {
+        "names": "HELLER SCHARNHORST",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "德國",
+        "全長:": "565mm",
+        "全闊:": "75mm"
+    },
+    {
+        "names": "TAMIYA U.S. Aircraft Carrier HORNET",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "350mm"
+    },
+    {
+        "names": "ZVEZDA Pjotr Velikij",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "380mm"
+    },
+    {
+        "names": "TAMIYA U.S. Aircraft Carrier YORKTOWN",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "350mm"
+    },
+    {
+        "names": "HELLER DUQUESNE",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "法國",
+        "全長:": "395mm",
+        "全闊:": "39mm"
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier ZUIHO 航空母艦 瑞鳳",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HELLER DAPHNE",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "法國",
+        "全長:": "144mm",
+        "全闊:": "17mm"
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier YORKTOWN II",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HELLER JEAN BART",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "法國",
+        "全長:": "620mm",
+        "全闊:": "83mm"
+    },
+    {
+        "names": "TAMIYA KUMANO 軽巡洋艦 熊野",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "286.5",
+        "全長:": "35.3mm"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser FURUTAKA 古鷹",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA HATSUYUKI 駆逐艦 初雪",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DDG KIRISHIMA 海上自衛隊 護衛艦 きりしま",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA Battle Ship FIRISHIMA 高速戦艦 霧島",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA Aircraft Carrier ZUIKAKU 航空母艦 瑞鶴",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "日本",
+        "全長:": "367mm"
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier AKAGI 航空母艦 赤城",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA I-16 & I-58 潜水艦 伊-16／伊-58",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "143mm"
+    },
+    {
+        "names": "HASEGAWA Battle Ship ISE 戰艦 伊勢",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA Russian SSGN KURSK",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "205mm",
+        "全闊:": "26mm"
+    },
+    {
+        "names": "TAMIYA HIBIKI 駆逐艦 響",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "HELLER AIRCRAFT CARRIER FOCH",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "法國",
+        "全長:": "661mm"
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier ESSEX",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HASEGAWA \"I-361/I-171 潜水艦 伊361/伊171 \"",
+        "rating": "",
+        "類型:": "潛水艇",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA U.S. Navy Destroyer DD412 HAMMANN",
+        "rating": "",
+        "類型:": "潛水艇",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HELLER ESCORTEUR D'ESCADRE SURCOUF",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "德國",
+        "全長:": "321mm",
+        "全闊:": "32mm"
+    },
+    {
+        "names": "HASEGAWA TATSUTA 輕巡洋艦 龍田",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HELLER LAUBIE",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "法國",
+        "全長:": "168mm",
+        "全闊:": "16mm"
+    },
+    {
+        "names": "TAMIYA DD445 FLETCHER",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "美國",
+        "全長:": "162mm"
+    },
+    {
+        "names": "HELLER ARROMANCHES/HMS COLOSSUS",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "法國",
+        "全長:": "526mm",
+        "全闊:": "84mm"
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier SHOHO 航空母艦 祥鳳",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA YAHAGI 軽巡洋艦 矢矧",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "247mm"
+    },
+    {
+        "names": "TAMIYA SHIRATSUYU 駆逐艦 白露",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "ITALERI USS Saratoga CV - 60",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "450mm"
+    },
+    {
+        "names": "HELLER ADMIRAL SCHEER",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "法國",
+        "全長:": "468mm",
+        "全闊:": "122mm"
+    },
+    {
+        "names": "HASEGAWA U.S.A.Battleship ALABAMA",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HASEGAWA Battle Ship HARUNA 高速戦艦 榛名",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier HANCOCK",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "TAMIYA Germany Heavy Cruiser PRINZ EUGEN",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "德國"
+    },
+    {
+        "names": "HASEGAWA ASASHIMO 朝霜",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA AGANO 軽巡洋艦 阿賀野",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "247mm"
+    },
+    {
+        "names": "TAMIYA Aircraft Carrier SHINANO 航空母艦 信濃",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "日本",
+        "全長:": "383mm"
+    },
+    {
+        "names": "ITALERI Vosper 72’6” MTB 77",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "英國",
+        "全長:": "631mm"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DE 231/232 OYODO SENDAI 海上自衛隊 護衛艦 おおよど/せんだい",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA AKISHIMO 秋霜",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA FUBUKI 駆逐艦 吹雪",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "169mm"
+    },
+    {
+        "names": "ITALERI SLC MAIALE",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "意大利",
+        "全長:": "198mm"
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier TICONDEROGA",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "ITALERI MTM BARCHINO",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "意大利",
+        "全長:": "191mm"
+    },
+    {
+        "names": "TAMIYA ABUKUMA 軽巡洋艦 阿武隈",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "230mm"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DDG CHOKAI 海上自衛隊 護衛艦 ちょうかい",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "ITALERI USS Kitty Hawk CV - 63",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "448mm"
+    },
+    {
+        "names": "HASEGAWA MOMI 樅",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HELLER REDOUTABLE S/M",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "法國",
+        "全長:": "320mm",
+        "全闊:": "36mm"
+    },
+    {
+        "names": "AIRFIX HMS ILLUSTRIOUS  Gift Set",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "英國",
+        "全長:": "603.5mm",
+        "全闊:": "104.5mm"
+    },
+    {
+        "names": "HELLER U-Boot",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "德國",
+        "全長:": "168mm",
+        "全闊:": "44mm"
+    },
+    {
+        "names": "HELLER FREGATE LA FAYETTE",
+        "rating": "",
+        "類型:": "護航艦",
+        "軍艦國藉:": "法國",
+        "全長:": "312mm",
+        "全闊:": "38mm"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser AOBA 青葉",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA U.S. Aircraft Carrier ENTERPRISE",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "350mm"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser ASHIGARA 足柄",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "AIRFIX Type 45 Destroyer",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "英國",
+        "軍艦國藉:": "英國"
+    },
+    {
+        "names": "HELLER JEANNE D'ARC",
+        "rating": "",
+        "類型:": "直昇機母艦",
+        "軍艦國藉:": "法國",
+        "全長:": "452mm",
+        "全闊:": "55mm"
+    },
+    {
+        "names": "ZVEZDA Советский линкор \"Марат\"",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "527mm"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser MYOKO 妙高",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA British Battleship PRINCE of WALES",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "308mm"
+    },
+    {
+        "names": "HELLER BISMARCK",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "德國",
+        "全長:": "620mm",
+        "全闊:": "90mm"
+    },
+    {
+        "names": "HASEGAWA Battle Ship HIEI 高速戦艦 比叡",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "ITALERI Vosper MTB 74 \"St. Nazaire Raid\"",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "英國",
+        "全長:": "631mm"
+    },
+    {
+        "names": "ZVEZDA RUSSIAN BATTLESHIP «BORODINO»",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "340mm"
+    },
+    {
+        "names": "TAMIYA Battle Ship MUSASHI 戰艦 武蔵",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "日本",
+        "全長:": "375mm"
+    },
+    {
+        "names": "ITALERI U.S.S. GEORGE H.W. BUSH CVN-77",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "447mm"
+    },
+    {
+        "names": "TAMIYA AYANAMI 駆逐艦 綾波",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "TAMIYA British Battlecruiser HOOD",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "英國",
+        "全長:": "336mm"
+    },
+    {
+        "names": "HASEGAWA ARASHIO 荒潮",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA LST-4001 OHSUMI 海上自衛隊輸送艦",
+        "rating": "",
+        "類型:": "輸送艦",
+        "軍艦國藉:": "日本",
+        "全長:": "254mm",
+        "全闊:": "37mm"
+    },
+    {
+        "names": "HASEGAWA Battle Ship ISE 戰艦 日向",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "日本",
+        "全長:": "286.5mm",
+        "全闊:": "35.3mm"
+    },
+    {
+        "names": "TAMIYA British Destroyer E CLASS",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "英國"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser NACHI 那智",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA KISO 軽巡洋艦 木曽",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "230mm"
+    },
+    {
+        "names": "TAMIYA Battle Ship YAMATO 戰艦 大和",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "日本",
+        "全長:": "375mm"
+    },
+    {
+        "names": "TAMIYA LST-4002 SHIMOKITA 海上自衛隊輸送艦",
+        "rating": "",
+        "類型:": "輸送艦",
+        "軍艦國藉:": "日本",
+        "全長:": "254mm",
+        "全闊:": "37mm"
+    },
+    {
+        "names": "TAMIYA HARUSAME 駆逐艦 春雨",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "HASEGAWA HEIANMARU 特設潜水母艦 平安丸",
+        "rating": "",
+        "類型:": "潛水母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA U.S. Navy Battleship BB-63 MISSOURI",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "美國",
+        "全長:": "386.5mm",
+        "全闊:": "47mm"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser KAKO 加古",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "ZVEZDA “Varyag” - Russian Cruiser",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "370mm"
+    },
+    {
+        "names": "TAMIYA TAMA 軽巡洋艦 多摩",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "230mm"
+    },
+    {
+        "names": "ZVEZDA SEVASTOPOL Russian Imperial Navy Battleship",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "520mm"
+    },
+    {
+        "names": "TAMIYA SHIKINAMI 駆逐艦 敷波",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "AIRFIX HMS BELFAST Gift Set",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "產地:": "英國",
+        "軍艦國藉:": "英國"
+    },
+    {
+        "names": "ZVEZDA \"Kursk\" Nuclear Submarine",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "440mm"
+    },
+    {
+        "names": "TAMIYA MOGAMI 航空巡洋艦 最上",
+        "rating": "",
+        "類型:": "航空巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "286.5mm",
+        "全闊:": "36.5mm"
+    },
+    {
+        "names": "TAMIYA U.S. Submarine Gato Class and Japanese Submarine Chaser No 13",
+        "rating": "",
+        "類型:": "潛水艇",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HELLER MARCEAU",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "德國",
+        "全長:": "315mm",
+        "全闊:": "29mm"
+    },
+    {
+        "names": "ITALERI Biber Midget Submarine",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "德國",
+        "全長:": "186mm"
+    },
+    {
+        "names": "TAMIYA KUMA 軽巡洋艦 球磨",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "230mm"
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier AKAGI \"THREE FLIGHT DECK\" 航空母艦 赤城 \"三段甲板\"",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA I-370/ I-68 潜水艦 伊370/伊68",
+        "rating": "",
+        "類型:": "潛水艇",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "AIRFIX VOSPER Motor Torpedo Boat",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "產地:": "英國",
+        "軍艦國藉:": "英國"
+    },
+    {
+        "names": "HASEGAWA MINEGUMO 峯雲",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HELLER CHARLES DE GAULLE",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "法國",
+        "全長:": "654mm",
+        "全闊:": "161mm"
+    },
+    {
+        "names": "ITALERI U.S.S. TH. ROOSEVELT",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "447mm"
+    },
+    {
+        "names": "TAMIYA ISUZU 軽巡洋艦 五十鈴",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "200mm"
+    },
+    {
+        "names": "TAMIYA SHIMAKAZE 駆逐艦 島風",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "185mm"
+    },
+    {
+        "names": "HASEGAWA HAYANAMI 早波",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA WAKATAKE 若竹",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HELLER COLBERT",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "法國",
+        "全長:": "451mm",
+        "全闊:": "51mm"
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser HAGURO 羽黑",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA SUZUYA 重巡洋艦 鈴谷",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "286.5mm",
+        "全闊:": "35.3mm"
+    },
+    {
+        "names": "TAMIYA Aircraft Carrier SHOKAKU 航空母艦 翔鶴",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "日本",
+        "全長:": "367mm"
+    },
+    {
+        "names": "TAMIYA Aircraft Carrier JUNYO 航空母艦 隼鷹",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "日本",
+        "全長:": "311mm"
+    },
+    {
+        "names": "ITALERI U.S.S. RONALD REAGAN",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "447mm"
+    },
+    {
+        "names": "HELLER TORPEDO BOOT T23",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "德國",
+        "全長:": "255mm",
+        "全闊:": "25mm"
+    },
+    {
+        "names": "TAMIYA NATORI 軽巡洋艦 名取",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "200mm"
+    },
+    {
+        "names": "TAMIYA British Battleship Cruiser REPULSE",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "344mm",
+        "全闊:": "39mm"
+    },
+    {
+        "names": "ZVEZDA Российский эскадренный миноносец “Современный”",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "230mm"
+    },
+    {
+        "names": "TAMIYA British Battleship KING GEORGE V",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "322mm"
+    },
+    {
+        "names": "AIRFIX BISMARCK",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "英國",
+        "軍艦國藉:": "德國"
+    },
+    {
+        "names": "AIRFIX HMS DARING: Type 45 Destroyer Gift Set",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "英國",
+        "軍艦國藉:": "英國"
+    },
+    {
+        "names": "TAMIYA U.S. Navy Battleship BB-61 IOWA",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "美國",
+        "全長:": "386.5mm"
+    },
+    {
+        "names": "ITALERI ADMIRAL KUZNETSOV",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "423mm"
+    },
+    {
+        "names": "ITALERI U.S.S. AMERICA",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "450mm"
+    },
+    {
+        "names": "TAMIYA I-58 潜水艦 伊-58 後期型",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "143mm"
+    },
+    {
+        "names": "HELLER ZERSTORER Z31",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "德國",
+        "全長:": "315mm",
+        "全闊:": "30mm"
+    },
+    {
+        "names": "TAMIYA YUBARI 軽巡洋艦 夕張",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "200mm"
+    },
+    {
+        "names": "ZVEZDA Battleship «Dreadnought»",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "俄羅斯",
+        "軍艦國藉:": "英國"
+    },
+    {
+        "names": "TAMIYA KINU 軽巡洋艦 鬼怒",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "200mm"
+    },
+    {
+        "names": "HASEGAWA U.S.A.Battleship SOUTH DAKOTA",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HASEGAWA YUGUMO 夕雲",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA TENRYU 輕巡洋艦 天龍",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA Aircraft Carrier TAIHO 航空母艦 大鳳",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "日本",
+        "全長:": "369mm"
+    },
+    {
+        "names": "TAMIYA AKATSUKI 駆逐艦 暁",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "TAMIYA SAKURA 駆逐艦 桜",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "143mm"
+    },
+    {
+        "names": "ZVEZDA Подводная лодка “Ленинский Комсомол” К-3",
+        "rating": "",
+        "類型:": "潛水艇",
+        "產地:": "俄羅斯",
+        "軍艦國藉:": "俄羅斯"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DE 229/230 ABUKUMA JINTSU 海上自衛隊 護衛艦 あぶくま/じんつう",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "ITALERI Motor Torpedo Boat PT - 109",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "美國",
+        "全長:": "700mm"
+    },
+    {
+        "names": "HASEGAWA Battle Ship KONGO 高速戦艦 金剛",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA MIKUMA 重巡洋艦 三隈",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "286.5mm",
+        "全闊:": "36.5mm"
+    },
+    {
+        "names": "HASEGAWA MIKAZUKI 三日月",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA MUTSUKI 睦月",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA U.S. Escort Carrier CVE-9 BOGUE",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "215mm"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DE 233/234 CHIKUMA TONE 海上自衛隊 護衛艦 ちくま/とね",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "ITALERI M.A.S. 568 4a Serie",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "意大利",
+        "全長:": "55mm"
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier KAGA 航空母艦 加賀",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA MATSU 駆逐艦 松",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "143mm"
+    },
+    {
+        "names": "HELLER HMS HOOD",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "659mm",
+        "全闊:": "75mm"
+    },
+    {
+        "names": "HELLER HMS KING GEORGE V",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "568mm",
+        "全闊:": "86mm"
+    },
+    {
+        "names": "TAMIYA Z CLASS (Z37-39)",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "德國",
+        "全長:": "182mm"
+    },
+    {
+        "names": "TAMIYA Germany Battlecruiser SCHARNHORST",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "德國",
+        "全長:": "336mm"
+    },
+    {
+        "names": "HASEGAWA ASASHIO 朝潮",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DDG MYOKO 海上自衛隊 護衛艦 みょうこう",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "ZVEZDA WWII Destroyer Z-17",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "德國",
+        "全長:": "350mm"
+    },
+    {
+        "names": "ITALERI ELCO 80' PT - 596 TORPEDO BOAT",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "美國",
+        "全長:": "700mm"
+    },
+    {
+        "names": "TAMIYA Germany Battlecruiser GNEISENAU",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "德國",
+        "全長:": "336mm"
+    }
+]

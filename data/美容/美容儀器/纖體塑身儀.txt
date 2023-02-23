@@ -1,0 +1,771 @@
+[
+    {
+        "names": "Xiaomi 小米 Leravan 樂伽 小蠻腰EMS按摩腰帶",
+        "rating": "",
+        "water_price_min": "378",
+        "water_price_max": "399",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "VONMIE EMS 纖形塑身腰帶",
+        "rating": "10",
+        "hon_price_min": "498",
+        "hon_price_max": "699",
+        "water_price_min": "300",
+        "water_price_max": "548",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "PYR Knight 瘦身刀",
+        "rating": "10",
+        "hon_price_min": "6,788",
+        "hon_price_max": "6,788",
+        "water_price_min": "4,169",
+        "water_price_max": "4,399",
+        "儀器類型:": "射頻纖體機",
+        "耐水性:": "IPX7級機身完全防水"
+    },
+    {
+        "names": "JUJY 紀芝 加強版超聲波射頻瘦身儀 Pro",
+        "rating": "",
+        "hon_price_min": "748",
+        "hon_price_max": "839",
+        "water_price_min": "749",
+        "water_price_max": "749",
+        "儀器類型:": "射頻纖體機",
+        "身體部位:": "手臂，大腿，腰腹"
+    },
+    {
+        "names": "VONMIE EMS 纖形塑身腰帶 第三代加熱版",
+        "rating": "10",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "Eleeels Electrical Muscle Stimulation Massager 脈衝電流按摩儀 M1S",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "water_price_min": "199",
+        "water_price_max": "199",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "5種按摩模式和10個強度"
+    },
+    {
+        "names": "JUJY 紀芝 爆脂瘦身儀",
+        "rating": "",
+        "hon_price_min": "490",
+        "hon_price_max": "700",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "樂範 塑形護腰帶",
+        "rating": "",
+        "water_price_min": "588",
+        "water_price_max": "599",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "Yaman WAVY EMS 塑身緊緻4D美肌滾輪 EP-15W-HK",
+        "rating": "",
+        "hon_price_min": "1,370",
+        "hon_price_max": "1,890",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "Tripollar Pose RF 射頻燃脂機",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,480",
+        "water_price_min": "1,550",
+        "water_price_max": "1,580",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "OTO Trimax Plus Slimming Belt 修身腰帶 TX-1000P",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "儀器類型:": "塑身腰帶",
+        "檔次調節:": "備有6個自動按摩模式，切合不同按摩/修身需要"
+    },
+    {
+        "names": "Tripollar Pose VX 重塑射頻美體儀",
+        "rating": "",
+        "hon_price_min": "3,880",
+        "hon_price_max": "3,880",
+        "water_price_min": "1,635",
+        "water_price_max": "2,880",
+        "儀器類型:": "射頻纖體機",
+        "身體部位:": "大腿、臀部、臀部、腰部、腹部"
+    },
+    {
+        "names": "Yaman 3D再生塑身纖體儀 IB-41P-HK",
+        "rating": "",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,269",
+        "儀器類型:": "射頻纖體機",
+        "檔次調節:": "2個配件配合2種強度等級分別",
+        "耐水性:": "IPX7防水"
+    },
+    {
+        "names": "ARTISTIC & Co. Dr.Caviet The Zeus 美體緊緻瘦身儀",
+        "rating": "",
+        "water_price_min": "10,990",
+        "water_price_max": "10,999",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "Komyair 超音波射頻溶脂機 SEN4509",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "988",
+        "儀器類型:": "射頻纖體機",
+        "耐水性:": "全機身防水"
+    },
+    {
+        "names": "Fat Freezer Belt 無線家用冷凍溶脂機",
+        "rating": "",
+        "hon_price_min": "1,699",
+        "hon_price_max": "1,699",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "ME.Mignon 5合1美顏修身按摩儀",
+        "rating": "",
+        "hon_price_min": "799",
+        "hon_price_max": "799",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "Slendertone Evolve Abs 智能修腹塑型EMS腰帶",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "儀器類型:": "塑身腰帶",
+        "身體部位:": "腹部"
+    },
+    {
+        "names": "Eleeels 脈衝電流按摩儀 M1",
+        "rating": "",
+        "hon_price_min": "480",
+        "hon_price_max": "499",
+        "water_price_min": "480",
+        "water_price_max": "480",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "5種按摩模式和10個強度"
+    },
+    {
+        "names": "ARTISTIC & Co. Dr. Arrivo for Body 便攜式身體曲線塑造瘦身美容儀",
+        "rating": "",
+        "hon_price_min": "12,550",
+        "hon_price_max": "12,999",
+        "water_price_min": "10,990",
+        "water_price_max": "10,999",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "VONMIE S3R-P1 臀部塑身器",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "15個強度調節功能"
+    },
+    {
+        "names": "Lourdes EMS 微電流塑形美墊",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "439",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "Dr.Pro EMS 電子收腹器",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "272",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "10段功率強弱調校"
+    },
+    {
+        "names": "Ziglite 節亮 無線電療遙控美臀儀-充電款/提臀儀 (MAN-EMS)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "15檔調節"
+    },
+    {
+        "names": "beurer Targeted Muscle Atimulation 健肌儀 EM20 Sixpack",
+        "rating": "",
+        "hon_price_min": "470",
+        "hon_price_max": "470",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Lourdes EMS Training Sheet 2 多功能微電流肌肉塑形墊 FRL909",
+        "rating": "",
+        "hon_price_min": "900",
+        "hon_price_max": "900",
+        "儀器類型:": "微電流纖體機",
+        "身體部位:": "大腿和上臂"
+    },
+    {
+        "names": "Attibe Thinbe 纖體按摩儀",
+        "rating": "",
+        "hon_price_min": "2,499",
+        "hon_price_max": "2,699",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "AbTronic Core 肌肉強化纖型儀 - 腹部",
+        "rating": "",
+        "hon_price_min": "488",
+        "hon_price_max": "488",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "6項運動模式及10種強強度等級"
+    },
+    {
+        "names": "Maxell EMS Active Pad 肌肉鍛鍊器 MXES-R200YG",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "690",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Silk'n Silhouette 三源燃脂射頻機 (連一瓶專用凝膠)",
+        "rating": "",
+        "hon_price_min": "2,371",
+        "hon_price_max": "2,371",
+        "water_price_min": "1,999",
+        "water_price_max": "1,999",
+        "儀器類型:": "射頻纖體機",
+        "身體部位:": "身體大部份地方如臀部、手臀、大腿及腰"
+    },
+    {
+        "names": "VONMIE 胸部 SPA 塑形儀",
+        "rating": "",
+        "hon_price_min": "1,999",
+        "hon_price_max": "3,180",
+        "water_price_min": "2,880",
+        "water_price_max": "2,880",
+        "儀器類型:": "微電流纖體機",
+        "耐水性:": "IPX7"
+    },
+    {
+        "names": "Maxell Mote Care 4-Pad EMS 肌肉鍛鍊器 MXES-R410LG",
+        "rating": "",
+        "hon_price_min": "898",
+        "hon_price_max": "1,190",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Oubade 家用智能健身EMS+腹肌貼 (升級版｜9塊貼片)",
+        "rating": "",
+        "water_price_min": "758",
+        "water_price_max": "758",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Sixpad Foot Fit 智能健肌儀 SPFF2310F",
+        "rating": "",
+        "hon_price_min": "2,400",
+        "hon_price_max": "2,400",
+        "儀器類型:": "肌肉鍛鍊器",
+        "身體部位:": "小腿肚, 腿脛前肌, 腳掌"
+    },
+    {
+        "names": "VONMEI EMS甩脂震動按摩腰帶 2021 (專業版)",
+        "rating": "",
+        "hon_price_min": "388",
+        "hon_price_max": "388",
+        "儀器類型:": "塑身腰帶",
+        "檔次調節:": "15個力度"
+    },
+    {
+        "names": "Lifetrons 微電流離子纖體SPA儀 EP-500B",
+        "rating": "10",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,388",
+        "儀器類型:": "微電流纖體機",
+        "檔次調節:": "4個強度的設置，滿足不同類型皮膚的需要"
+    },
+    {
+        "names": "Maxell EMS Active Pad 肌肉鍛鍊器 MXES-R400YG",
+        "rating": "",
+        "hon_price_min": "890",
+        "hon_price_max": "1,199",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Yaman Acetino Smart 溶脂纖體按摩儀 IB-23CJ",
+        "rating": "",
+        "water_price_min": "1,650",
+        "water_price_max": "1,650",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Notime 樂黛 射頻電波緊膚瘦身儀 SKB-1203",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "Lourdes EMS 操肌減肥按摩煲呔 2件裝",
+        "rating": "",
+        "hon_price_min": "257",
+        "hon_price_max": "398",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "G&K Honey Bee EMS 微電流脈衝塑身按摩儀",
+        "rating": "",
+        "hon_price_min": "548",
+        "hon_price_max": "548",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Project E Beauty LED+ Radio Frequency Ultrasonic Slimming Therapy 爆脂纖體減肥儀 PE142",
+        "rating": "",
+        "hon_price_min": "2,002",
+        "hon_price_max": "2,002",
+        "儀器類型:": "射頻纖體機",
+        "身體部位:": "腹部, 腿部, 手臂, 臂部, 背部"
+    },
+    {
+        "names": "Breo Fitness Belt 美腰寶",
+        "rating": "",
+        "hon_price_min": "999",
+        "hon_price_max": "999",
+        "儀器類型:": "塑身腰帶",
+        "身體部位:": "腰腹"
+    },
+    {
+        "names": "Oregon RF射頻塑顏緊致纖體儀 OD1395",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,998",
+        "儀器類型:": "射頻纖體機",
+        "檔次調節:": "具3個RF射頻強度及6個EMS強度可調節",
+        "耐水性:": "IPX5"
+    },
+    {
+        "names": "Smartbody Builderems 脈衝健身貼",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "750",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Xiaomi 小米 Slimple 智能燃脂精靈",
+        "rating": "",
+        "water_price_min": "798",
+        "water_price_max": "798",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Yaman Cavispa 360 溶脂纖體塑身儀 HDS-100B-HK",
+        "rating": "",
+        "hon_price_min": "2,030",
+        "hon_price_max": "2,580",
+        "water_price_min": "1,799",
+        "water_price_max": "1,880",
+        "儀器類型:": "微電流纖體機",
+        "身體部位:": "任何身體部位"
+    },
+    {
+        "names": "O'tebody 七龍珠減肥淋巴排毒按摩滾珠美容器 (上半身)",
+        "rating": "",
+        "hon_price_min": "990",
+        "hon_price_max": "990",
+        "儀器類型:": "其他纖體塑身機",
+        "身體部位:": "上半身"
+    },
+    {
+        "names": "Yaman ACETINO Mega Shape 3D 溶脂纖體按摩儀 IB-24J",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,498",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "EEFit Lymph+ 淋巴通",
+        "rating": "",
+        "hon_price_min": "688",
+        "hon_price_max": "688",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Yaman Acetino 溶脂纖體按摩儀 IB-41P",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,260",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "N’S Sport EMS 微電流肌肉鍛練器 (兩貼裝)",
+        "rating": "",
+        "hon_price_min": "308",
+        "hon_price_max": "308",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "10段強弱功率調節"
+    },
+    {
+        "names": "Rocago 諾嘉 Body Slimming Massager 紅外線瘦身按摩器 MM-310",
+        "rating": "",
+        "hon_price_min": "680",
+        "hon_price_max": "680",
+        "water_price_min": "680",
+        "water_price_max": "680",
+        "儀器類型:": "其他纖體塑身機",
+        "身體部位:": "全身頸椎"
+    },
+    {
+        "names": "N’S Sport EMS 電子收腹器",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "399",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "10段功率強弱調校"
+    },
+    {
+        "names": "Sixpad Leg Belt 智能健肌帶 SPLG2210F",
+        "rating": "",
+        "hon_price_min": "1,880",
+        "hon_price_max": "1,880",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "20個鍛鍊強度"
+    },
+    {
+        "names": "Beurer 手提高速搣脂機 CM50",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "VONMIE Body Trainer 健體塑身器",
+        "rating": "",
+        "hon_price_min": "674",
+        "hon_price_max": "674",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Nuline 瘦身溶脂機",
+        "rating": "",
+        "water_price_min": "1,368",
+        "water_price_max": "1,368",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "Dr.Pro EMS 電子收腹器 (補充裝)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "150",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "10段功率強弱調校"
+    },
+    {
+        "names": "Yaman 溶脂纖體按摩儀 IB-33",
+        "rating": "",
+        "water_price_min": "1,388",
+        "water_price_max": "1,388",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Shandong ABS FIT EMS 肌肉強化纖型儀套裝",
+        "rating": "",
+        "water_price_min": "699",
+        "water_price_max": "699",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "樂範 魔力貼四驅版",
+        "rating": "",
+        "water_price_min": "340",
+        "water_price_max": "440",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Notime 射頻電波緊膚瘦身儀",
+        "rating": "",
+        "water_price_min": "1,608",
+        "water_price_max": "1,608",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "Yaman ACETINO Mega Shape Advance 溶脂纖體按摩儀 IB-24P-10AZ",
+        "rating": "",
+        "hon_price_min": "1,388",
+        "hon_price_max": "1,388",
+        "water_price_min": "1,388",
+        "water_price_max": "1,388",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Oubade 家用智能健身EMS+腹肌貼 (基礎版｜3塊貼片)",
+        "rating": "",
+        "water_price_min": "658",
+        "water_price_max": "658",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Curious 懶人智能鍛煉健腹器",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Silk'n Lipo 光電溶脂儀",
+        "rating": "",
+        "hon_price_min": "2,880",
+        "hon_price_max": "3,080",
+        "water_price_min": "2,680",
+        "water_price_max": "2,680",
+        "儀器類型:": "其他纖體塑身機",
+        "身體部位:": "腹部／側腹／大腿內側／臀部／上臂等"
+    },
+    {
+        "names": "Oubade 家用智能健身EMS+腹肌貼 (高級版｜15塊貼片)",
+        "rating": "",
+        "water_price_min": "838",
+        "water_price_max": "838",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Yaman RF射頻溶脂塑身儀 HRF-2B-HK",
+        "rating": "8.0",
+        "hon_price_min": "2,310",
+        "hon_price_max": "2,310",
+        "儀器類型:": "射頻纖體機",
+        "耐水性:": "IPX7"
+    },
+    {
+        "names": "ReFa Carat Salon Model II 白金美容滾輪 RF-SM2051B-2",
+        "rating": "",
+        "hon_price_min": "2,680",
+        "hon_price_max": "2,680",
+        "water_price_min": "1,750",
+        "water_price_max": "1,770",
+        "儀器類型:": "微電流纖體機",
+        "耐水性:": "IPX7"
+    },
+    {
+        "names": "ZOHO IMATE 智能腹肌健身儀 IM20",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Yaman Acetino 溶脂纖體按摩儀 IB-40V",
+        "rating": "",
+        "hon_price_min": "1,868",
+        "hon_price_max": "1,888",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Yaman ACETINO Mega Shape Advance 溶脂纖體按摩儀 IB-24V-10AZ",
+        "rating": "",
+        "water_price_min": "1,388",
+        "water_price_max": "1,388",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Yaman RF射頻塑顏緊致纖體儀 HRF-17P-HK",
+        "rating": "",
+        "hon_price_min": "2,240",
+        "hon_price_max": "2,240",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "Maxcare 人気健肌儀 - 腹部使用",
+        "rating": "",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "GNM 石墨烯遠紅外體雕燃脂儀",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "儀器類型:": "其他纖體塑身機",
+        "身體部位:": "腰部、腹部、臀部、大腿/手臂"
+    },
+    {
+        "names": "Modius Weight Loss Headset 電脈衝減肥神器",
+        "rating": "",
+        "hon_price_min": "3,360",
+        "hon_price_max": "3,360",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Talika 魅力舒緩美腿儀 632",
+        "rating": "",
+        "hon_price_min": "994",
+        "hon_price_max": "994",
+        "儀器類型:": "微電流纖體機",
+        "身體部位:": "腿部"
+    },
+    {
+        "names": "Maxcare EMS瘦身美容儀",
+        "rating": "",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "FANCYFANCY 家用RF射頻通淋巴爆脂減肥儀",
+        "rating": "",
+        "water_price_min": "990",
+        "water_price_max": "990",
+        "儀器類型:": "射頻纖體機",
+        "身體部位:": "手臂前，腹部，大腿前部，大腿內部，手臂內部，背部，腰部，臀部，小腿內部等"
+    },
+    {
+        "names": "ELT 4D溶脂纖體按摩儀",
+        "rating": "",
+        "儀器類型:": "射頻纖體機",
+        "耐水性:": "IPX7防水"
+    },
+    {
+        "names": "Panasonic 樂聲 跑步專用 EMS 健身腰帶 ES-WB60",
+        "rating": "",
+        "water_price_min": "2,590",
+        "water_price_max": "2,590",
+        "儀器類型:": "塑身腰帶",
+        "身體部位:": "腰部"
+    },
+    {
+        "names": "OTO Spinex 迴旋推脂按摩器",
+        "rating": "",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Yaman ACETINO Dual Cyclone 溶脂纖體按摩儀 IB-34S",
+        "rating": "",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Yaman 溶脂纖體按摩儀 IB-23MJ",
+        "rating": "",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Yaman 射頻溶脂塑身儀 HRF-12",
+        "rating": "",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "AbTronic X8s Pad Double 肌肉強化纖型儀雙套裝",
+        "rating": "",
+        "hon_price_min": "1,399",
+        "hon_price_max": "1,399",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "MythsCeuticals 通經活絡三叉排酸棒 BTM067",
+        "rating": "",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "AbTronic Core and X8S 肌肉強化纖型儀 3件套裝",
+        "rating": "",
+        "儀器類型:": "肌肉鍛鍊器",
+        "檔次調節:": "6項運動模式及10種強度等級"
+    },
+    {
+        "names": "Lancent 塑身腰帶 RL-6588",
+        "rating": "",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "BH Shiatsu Hello Kitty 纖體美容按摩機 ST-630",
+        "rating": "6.0",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "Slendertone Abs 7 智能修腹腰帶",
+        "rating": "8.0",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "ReFa Carat Salon 微電流緊緻按摩棒",
+        "rating": "",
+        "儀器類型:": "微電流纖體機",
+        "耐水性:": "IPX7"
+    },
+    {
+        "names": "JOYRIDER 腹肌健身儀",
+        "rating": "",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Yaman Acetino Lipo Body Slim 身體護理機 IB-25A",
+        "rating": "",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "MythsCeuticals 微電流瘦面塑身器 BTM088",
+        "rating": "",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "Yaman 射頻溶脂塑身儀 HRF-5TZ",
+        "rating": "",
+        "儀器類型:": "射頻纖體機"
+    },
+    {
+        "names": "MTG SIXPAD Abs Fit &Body Fit 智能健肌儀 SPAF2009/2BA",
+        "rating": "",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "Yaman RF 射頻溶脂塑身儀 HRF-2BZ",
+        "rating": "",
+        "儀器類型:": "射頻纖體機",
+        "耐水性:": "有"
+    },
+    {
+        "names": "ReFa RFBD1827B Refa for Body 微電流緊緻按摩器",
+        "rating": "",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "Hanshumy System+ 腹肌強化腰帶",
+        "rating": "",
+        "儀器類型:": "塑身腰帶"
+    },
+    {
+        "names": "Yaman RF 射頻溶脂塑身儀 HRF-17",
+        "rating": "",
+        "儀器類型:": "射頻纖體機",
+        "耐水性:": "防水性能讓你於沐浴時使用"
+    },
+    {
+        "names": "AbTronic NARL 專利超聲波快速纖體儀",
+        "rating": "",
+        "儀器類型:": "微電流纖體機"
+    },
+    {
+        "names": "AbTronic Core 肌肉強化纖型儀",
+        "rating": "",
+        "儀器類型:": "肌肉鍛鍊器"
+    },
+    {
+        "names": "TOUCHBeauty 按摩塑身美體刷 AS-0826B",
+        "rating": "",
+        "儀器類型:": "其他纖體塑身機"
+    },
+    {
+        "names": "AbTronic BeSlim 按摩塑身儀",
+        "rating": "",
+        "儀器類型:": "微電流纖體機",
+        "身體部位:": "臀部、大腿、小腿和手臂"
+    },
+    {
+        "names": "AbTronic NARL超聲波纖型儀 + EMS脈衝電流儀 套裝",
+        "rating": "",
+        "儀器類型:": "肌肉鍛鍊器"
+    }
+]

@@ -1,0 +1,2839 @@
+[
+    {
+        "names": "MOMAX Smart Hop IoT 智能跳繩 (HL5S)",
+        "rating": "10",
+        "hon_price_min": "210",
+        "hon_price_max": "268"
+    },
+    {
+        "names": "Future Lab ZEROINSOLE2 無重力鞋墊",
+        "rating": "10",
+        "hon_price_min": "149",
+        "hon_price_max": "149",
+        "類別:": "鞋墊"
+    },
+    {
+        "names": "Garmin Edge 1040 Solar GPS 專業騎行碼錶 中文版 (010-02503-25)",
+        "rating": "10",
+        "hon_price_min": "5,870",
+        "hon_price_max": "6,599"
+    },
+    {
+        "names": "GymPro 智能跳繩機",
+        "rating": "",
+        "hon_price_min": "469",
+        "hon_price_max": "469",
+        "類別:": "跳繩"
+    },
+    {
+        "names": "BreaThru 呼吸訓練分析器",
+        "rating": "",
+        "hon_price_min": "358",
+        "hon_price_max": "358"
+    },
+    {
+        "names": "Garmin Edge 1040 Bundle GPS 專業騎行碼錶 (010-02503-10)",
+        "rating": "",
+        "hon_price_min": "4,949",
+        "hon_price_max": "5,499"
+    },
+    {
+        "names": "Garmin inReach Mini 衛星追蹤通訊裝置",
+        "rating": "",
+        "hon_price_min": "1,964",
+        "hon_price_max": "1,964",
+        "類別:": "迷你觸控式衛星導航",
+        "重量:": "0.1kg"
+    },
+    {
+        "names": "Cycplus 防水無線單車碼錶/咪錶 M2",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Garmin Edge 1040 GPS 專業騎行碼錶 中文版 (010-02503-05)",
+        "rating": "9.3",
+        "hon_price_min": "4,870",
+        "hon_price_max": "5,350"
+    },
+    {
+        "names": "Garmin inReach Mini 2 衛星追蹤通訊裝置",
+        "rating": "",
+        "hon_price_min": "2,928",
+        "hon_price_max": "3,000",
+        "類別:": "迷你觸控式衛星導航",
+        "重量:": "0.1kg"
+    },
+    {
+        "names": "Garmin HRM-Pro Plus 雙模心率感測器",
+        "rating": "",
+        "hon_price_min": "1,209",
+        "hon_price_max": "1,219",
+        "類別:": "運動心率帶",
+        "重量:": "0.052kg"
+    },
+    {
+        "names": "GUB 單車/公路頭盔 帶風鏡 太陽檔 前後尾燈 K100 Plus",
+        "rating": "",
+        "hon_price_min": "219",
+        "hon_price_max": "219",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "Garmin HRM-Pro 運動心率帶 010-12955-01",
+        "rating": "",
+        "hon_price_min": "1,080",
+        "hon_price_max": "1,080"
+    },
+    {
+        "names": "Moe Youth 檬友 Swimming-Partners-X1 爆風主義水上動力浮板",
+        "rating": "",
+        "water_price_min": "1,580",
+        "water_price_max": "1,580",
+        "類別:": "浮板"
+    },
+    {
+        "names": "Garmin Approach R10 攜帶式雷達高爾夫訓練儀",
+        "rating": "",
+        "hon_price_min": "4,999",
+        "hon_price_max": "4,999",
+        "尺寸:": "88.5 x 70.25 x 25mm (不含腳架)"
+    },
+    {
+        "names": "Cairbull Smartrace 智能單車頭盔",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350"
+    },
+    {
+        "names": "Sublue Navbow Underwater Scooter",
+        "rating": "",
+        "hon_price_min": "7,019",
+        "hon_price_max": "7,799",
+        "尺寸:": "486 x 327 x 177mm"
+    },
+    {
+        "names": "Sublue Whiteshark Mix Underwater Scooter",
+        "rating": "",
+        "hon_price_min": "3,380",
+        "hon_price_max": "5,299",
+        "water_price_min": "3,000",
+        "water_price_max": "3,880"
+    },
+    {
+        "names": "Strobel & Walter SW Balance Board (Yogaboard) 平衡板",
+        "rating": "",
+        "hon_price_min": "7,582",
+        "hon_price_max": "7,582"
+    },
+    {
+        "names": "XPower LED智能計算跳繩器 JR1",
+        "rating": "8.0",
+        "hon_price_min": "99",
+        "hon_price_max": "158",
+        "類別:": "跳繩器",
+        "尺寸:": "手柄尺寸: 25 x 180mm, 繩長: 2.8m, 球繩尺寸: 32 x 34mm"
+    },
+    {
+        "names": "Garmin Striker Cast GPS 投擲式無線聲納裝置",
+        "rating": "",
+        "hon_price_min": "1,499",
+        "hon_price_max": "1,499",
+        "類別:": "便攜式無線魚探儀",
+        "重量:": "0.075kg"
+    },
+    {
+        "names": "Magene Radar Tail Light 防水智能智能雷達單車尾燈 L508",
+        "rating": "",
+        "hon_price_min": "629",
+        "hon_price_max": "629"
+    },
+    {
+        "names": "Casio 單組記憶10HR計時秒錶 HS-3V-1",
+        "rating": "",
+        "hon_price_min": "157",
+        "hon_price_max": "200",
+        "類別:": "Stopwatch，秒錶，計時器",
+        "尺寸:": "62 x 64 x 17mm"
+    },
+    {
+        "names": "Scohiro Work 破風公路單車頭盔連風鏡 TT-3",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "239",
+        "類別:": "頭盔連風鏡"
+    },
+    {
+        "names": "Garmin HRM-Run 心率感測器",
+        "rating": "",
+        "hon_price_min": "750",
+        "hon_price_max": "850"
+    },
+    {
+        "names": "Bauerfeind Sports Knee Support 運動護膝",
+        "rating": "9.3",
+        "hon_price_min": "639",
+        "hon_price_max": "799",
+        "類別:": "護膝"
+    },
+    {
+        "names": "Garmin Approach Z82 雷射測距儀",
+        "rating": "",
+        "hon_price_min": "3,930",
+        "hon_price_max": "4,999"
+    },
+    {
+        "names": "Garmin Edge 1040 Solar Solar GPS 專業騎行碼錶 英文版 (010-02503-20)",
+        "rating": "",
+        "hon_price_min": "5,399",
+        "hon_price_max": "5,999"
+    },
+    {
+        "names": "Garmin Edge 1040 GPS 專業騎行碼錶 英文版 (010-02503-00)",
+        "rating": "",
+        "hon_price_min": "4,229",
+        "hon_price_max": "4,699"
+    },
+    {
+        "names": "Garmin HRM-Tri (三鐵專用) 心率感測器",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "1,150"
+    },
+    {
+        "names": "Garmin Descent T1 Transmitter 發射器 (010-12811-01)",
+        "rating": "",
+        "hon_price_min": "3,699",
+        "hon_price_max": "3,699",
+        "類別:": "氣瓶監測發射器"
+    },
+    {
+        "names": "Montbell Wickron T Monta Bear Face 透氣快乾 T-Shirt (前後印花) 1114477",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "類別:": "T-Shirt"
+    },
+    {
+        "names": "Aqua Marina CORAL TOURING Inflatable Standup Paddle board ISUP SUP board 充氣站立板槳板直立板",
+        "rating": "",
+        "water_price_min": "4,380",
+        "water_price_max": "4,380",
+        "尺寸:": "11‘6″ / 350cm"
+    },
+    {
+        "names": "Garmin HRM-Dual 雙模心率感測器 010-12883-01",
+        "rating": "",
+        "hon_price_min": "638",
+        "hon_price_max": "699"
+    },
+    {
+        "names": "Needs Labo 舒緩筋膜收腹滾輪",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "228",
+        "類別:": "筋膜滾輪",
+        "重量:": "2kg"
+    },
+    {
+        "names": "DOLPHIN 多功能二代游泳浮板 LBH3129",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85",
+        "類別:": "浮板",
+        "重量:": "0.226kg"
+    },
+    {
+        "names": "Sublue Swii Seabow 電動浮板",
+        "rating": "",
+        "hon_price_min": "2,980",
+        "hon_price_max": "3,390",
+        "water_price_min": "2,690",
+        "water_price_max": "2,790"
+    },
+    {
+        "names": "Body Glide 防摩擦膏 Original Anti-Chafe Balm 22G",
+        "rating": ""
+    },
+    {
+        "names": "YUNMAI 雲麥 智能訓練跳繩",
+        "rating": "",
+        "water_price_min": "219",
+        "water_price_max": "480"
+    },
+    {
+        "names": "Vorgee Ear Putty 矽膠耳塞",
+        "rating": "",
+        "hon_price_min": "62",
+        "hon_price_max": "62",
+        "類別:": "其他"
+    },
+    {
+        "names": "Sublue Navbow+ Underwater Scooter",
+        "rating": "",
+        "hon_price_min": "8,999",
+        "hon_price_max": "9,999"
+    },
+    {
+        "names": "GUB 3D 打印座墊 超輕巧單車座墊",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類別:": "單車座墊",
+        "重量:": "0.255kg"
+    },
+    {
+        "names": "Asher Fishy 八字環美式轉環漁具 2# A-AB2-03",
+        "rating": "",
+        "hon_price_min": "27",
+        "hon_price_max": "27",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Ziglite 節亮 按摩握力圈-H1綠色20磅 JDM",
+        "rating": "",
+        "hon_price_min": "42",
+        "hon_price_max": "42",
+        "類別:": "握力圈"
+    },
+    {
+        "names": "Bauerfeind NBA Sports Compression Knee Support 運動壓力護膝",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399",
+        "類別:": "護膝",
+        "尺寸:": "S, M, L, XL"
+    },
+    {
+        "names": "PIP SPORTS Profits Sports Calf Compression Socks 日本專業運動護具系列 - 小腿壓力襪",
+        "rating": "",
+        "hon_price_min": "179",
+        "hon_price_max": "179",
+        "類別:": "小腿壓力襪"
+    },
+    {
+        "names": "Vorgee Voyager Junior 游泳鏡 - 透明鏡片 (4-12yrs)",
+        "rating": "",
+        "hon_price_min": "141",
+        "hon_price_max": "141",
+        "類別:": "其他"
+    },
+    {
+        "names": "Vorgee Mesh Bag 網眼裝備包 (64 x 50cm)",
+        "rating": "",
+        "hon_price_min": "141",
+        "hon_price_max": "141",
+        "類別:": "其他",
+        "尺寸:": "64 x 50cm"
+    },
+    {
+        "names": "Matador NanoDry Towel v2 - Large",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "PIP SPORTS ProFits 日本製 防汗防水 專業運動肌肉貼 (適合腳、膝蓋和小腿) – 闊50mm x 總長4.5m (1卷裝)",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80",
+        "類別:": "專業運動肌肉貼",
+        "尺寸:": "闊50mm x 總長4.5m"
+    },
+    {
+        "names": "Speedo Universal Nose Clip 鼻夾",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "類別:": "鼻夾"
+    },
+    {
+        "names": "PIP SPORTS Profits Support for Waist 日本專業運動腰封 - 護腰帶",
+        "rating": "",
+        "hon_price_min": "359",
+        "hon_price_max": "359",
+        "類別:": "護腰帶"
+    },
+    {
+        "names": "Montbell Wickron T Donguri 透氣快乾 T-Shirt (前後印花) 1114525",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "類別:": "T-Shirt"
+    },
+    {
+        "names": "Rockbros 輕量化設計鋁合金快拆單車腳踏",
+        "rating": "",
+        "hon_price_min": "199",
+        "hon_price_max": "199",
+        "類別:": "單車腳踏"
+    },
+    {
+        "names": "Vorgee Starfish Junior 游泳鏡 - 透明鏡片 (18mths-6yrs)",
+        "rating": "",
+        "hon_price_min": "141",
+        "hon_price_max": "141",
+        "類別:": "其他"
+    },
+    {
+        "names": "Cairbull GENIO Kids Bike Helmet 兒童頭盔",
+        "rating": "10",
+        "hon_price_min": "255",
+        "hon_price_max": "255",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "Sublue Swii Electronic Kickboard",
+        "rating": "",
+        "hon_price_min": "2,699",
+        "hon_price_max": "2,999"
+    },
+    {
+        "names": "Asher Fishy 橄欖型矽膠通心鉛墜 15g A-AD15-03",
+        "rating": "",
+        "hon_price_min": "33",
+        "hon_price_max": "33",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "PIP SPORTS Profits 日本專業運動護具系列 - 護手肘(超薄)",
+        "rating": "",
+        "hon_price_min": "121",
+        "hon_price_max": "121",
+        "類別:": "專業運動手肘護具"
+    },
+    {
+        "names": "Asher Fishy 不銹鋼多功能控魚器套裝 - 彩鈦藍色套裝 AAU",
+        "rating": "",
+        "hon_price_min": "267",
+        "hon_price_max": "267",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Asher Fishy 橄欖型矽膠通心鉛墜 50g A-AD50-03",
+        "rating": "",
+        "hon_price_min": "54",
+        "hon_price_max": "54",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Magene GPS Smart Bike Computer 單車電腦無線碼錶 C406 Pro",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499"
+    },
+    {
+        "names": "Ziglite 節亮 運動跑步吸汗頭帶-藍色 KBK",
+        "rating": "",
+        "hon_price_min": "89",
+        "hon_price_max": "89",
+        "類別:": "運動跑步吸汗頭帶"
+    },
+    {
+        "names": "Festina 法斯蒂納 x Santini Chronobike 騎行服",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類別:": "騎行服",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Manduka Essence Legging 彈力緊身褲",
+        "rating": "",
+        "water_price_min": "680",
+        "water_price_max": "680"
+    },
+    {
+        "names": "Matador NanoDry Shower Towel (Large) 旅行毛巾",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Vorgee Ear Plugs 耳塞",
+        "rating": "",
+        "hon_price_min": "62",
+        "hon_price_max": "62",
+        "類別:": "其他"
+    },
+    {
+        "names": "Asher Fishy 八字環美式轉環漁具 5# A-AB5-03",
+        "rating": "",
+        "hon_price_min": "24",
+        "hon_price_max": "24",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Asher Fishy 管付丸世長柄帶圈倒刺魚鉤 20# A-AC2-03",
+        "rating": "",
+        "hon_price_min": "22",
+        "hon_price_max": "22",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "XOSS 心率臂帶單車碼錶",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Wonder Core 萬達康 Flex Cycle多功能翻轉智能健身車",
+        "rating": "",
+        "water_price_min": "3,300",
+        "water_price_max": "3,300",
+        "類別:": "健身單車",
+        "重量:": "24kg"
+    },
+    {
+        "names": "Lixada 2件釣魚套裝 (2.1米，ABS捲軸)",
+        "rating": "",
+        "hon_price_min": "249",
+        "hon_price_max": "249",
+        "類別:": "釣魚用具"
+    },
+    {
+        "names": "Garmin Running Dynamics Pod 跑步動態感測器",
+        "rating": "",
+        "hon_price_min": "590",
+        "hon_price_max": "590"
+    },
+    {
+        "names": "Montbell Pear Skin Cotton T Shimayama Cotton Tee 純綿 T-Shirt 2104712",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170",
+        "類別:": "T-Shirt"
+    },
+    {
+        "names": "PMT Ultra Light Bike Helmet 輕巧透氣 公路/山地單車頭盔",
+        "rating": "",
+        "hon_price_min": "340",
+        "hon_price_max": "340",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "Ziglite 節亮 按摩握力圈-H2黃色 JDL",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "類別:": "握力圈"
+    },
+    {
+        "names": "Asher Fishy 水滴型可旋轉防纏繞鉛墜 10g AAQ",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Sublue WhiteShark Tini Basic Package",
+        "rating": "",
+        "hon_price_min": "3,599",
+        "hon_price_max": "3,999"
+    },
+    {
+        "names": "Asher Fishy 釣魚防水配件盒- 小號 x 2PCS T-MA",
+        "rating": "",
+        "hon_price_min": "40",
+        "hon_price_max": "40",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Lixada 56件混合假魚餌",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "309",
+        "類別:": "釣魚用具"
+    },
+    {
+        "names": "Dolphin Waterproof Backpack 防水背包 15L",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類別:": "防水背包"
+    },
+    {
+        "names": "Vorgee Starfish Junior 游泳鏡 - 有色鏡片 (18mths-6yrs)",
+        "rating": "",
+        "hon_price_min": "141",
+        "hon_price_max": "141",
+        "類別:": "其他"
+    },
+    {
+        "names": "Cairbull Adult Mountain Bike Full Face Helmet 成人越野單車頭盔",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349"
+    },
+    {
+        "names": "Kinderkraft Kask SAFETY 小童單車頭盔",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類別:": "單車頭盔",
+        "尺寸:": "25 x 21 x 15cm"
+    },
+    {
+        "names": "Garmin TruSwing 揮桿智慧分析儀",
+        "rating": "",
+        "hon_price_min": "1,060",
+        "hon_price_max": "1,110"
+    },
+    {
+        "names": "Ziglite 節亮 智能跳繩減肥卡路里燒脂計算跳繩 (兩用款：無繩小球+鋼絲繩) KBB",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類別:": "跳繩"
+    },
+    {
+        "names": "Argal 老人頸椎手部上肢康復吊環滑輪訓練器（掛牆｜單輪）",
+        "rating": "",
+        "water_price_min": "349",
+        "water_price_max": "349",
+        "類別:": "上肢康復吊環滑輪訓練器",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Hayashi Knit 紀州備長炭護膝",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "290",
+        "類別:": "護膝",
+        "尺寸:": "35-46cm"
+    },
+    {
+        "names": "Chums Booby Face T-Shirt 純綿 T-shirt CH01-1834",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230"
+    },
+    {
+        "names": "Asher Fishy 八字環美式轉環漁具 14# A-AB14-03",
+        "rating": "",
+        "hon_price_min": "23",
+        "hon_price_max": "23",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Asher Fishy 海幾釣漁具配件盒套裝 A-AA-03",
+        "rating": "",
+        "hon_price_min": "65",
+        "hon_price_max": "65",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Bauerfeind Sports Wrist Strap 運動護腕帶",
+        "rating": "",
+        "hon_price_min": "279",
+        "hon_price_max": "279",
+        "類別:": "護腕",
+        "尺寸:": "S/M, L/XL"
+    },
+    {
+        "names": "2XU Run Cap Turbulance/Black 運動帽 (UQ5685F-TRB/BLK)",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ciele GOCap SC Standard Boreal 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Casio 專業計時防水運動碼錶 HS-70W-1",
+        "rating": "",
+        "hon_price_min": "354",
+        "hon_price_max": "400",
+        "類別:": "Stopwatch，秒錶，計時器",
+        "尺寸:": "83 x 64 x 24mm"
+    },
+    {
+        "names": "Ciele GOCap Iconic Sable 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ziglite 節亮 運動護肩護臂 單肩護套男 (TD-KM)",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "護臂",
+        "尺寸:": "臂圍: 380mm"
+    },
+    {
+        "names": "Chums Booby Logo T-Shirt 純綿 T-shirt (前後Logo) CH01-1835",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230"
+    },
+    {
+        "names": "Ciele GOCap Standard Grip Spruce Grove 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Bauerfeind NBA Sports Knee Support 運動護膝",
+        "rating": "",
+        "hon_price_min": "949",
+        "hon_price_max": "949",
+        "類別:": "護膝",
+        "尺寸:": "XS, S, M, L, XL, XXL"
+    },
+    {
+        "names": "Ciele GOCap M Running Man Whitaker 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Rockbros 800LM USB Recharge Cycle Bike Bicycle Light Torch 單車燈 R1-800",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159"
+    },
+    {
+        "names": "2XU Run Visor Lime Punch/Lime Punch 開頂戶外太陽帽 (UA1150F-LPU/LPU)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "iGPSport 無線單咪錶/碼錶 iGS10S",
+        "rating": "",
+        "hon_price_min": "289",
+        "hon_price_max": "289",
+        "類別:": "碼錶",
+        "尺寸:": "75 x 48 x 16mm"
+    },
+    {
+        "names": "2XU Performance Visor Black/Black 開頂戶外太陽帽 (UQ2399F-BLK/BLK)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Rhinowalk 2.5L 魔術貼單車尾袋 TF551BK",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "175"
+    },
+    {
+        "names": "Feelcap X-High Performance Cap 720 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Matador Nanodry Towel Large 納米纖維速乾毛巾 (大)",
+        "rating": "",
+        "hon_price_min": "239",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "Asher Fishy 管付丸世長柄帶圈倒刺魚鉤 30# A-AC3-03",
+        "rating": "",
+        "hon_price_min": "36",
+        "hon_price_max": "36",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Blindsave Protective shorts Pro+ 加墊短褲",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "類別:": "短褲",
+        "尺寸:": "XS, S, M, L, XL, XXL"
+    },
+    {
+        "names": "Ziglite 節亮 加長款防滑運動護膝 - 一對裝 M KBE",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類別:": "護膝"
+    },
+    {
+        "names": "INCYLENCE Running Diagonals 跑步襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "Giyo 山地防滑透氣高彈性單車手套",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "類別:": "單車手套"
+    },
+    {
+        "names": "Aquis Adventure Face and Hand Towel 面部手部快乾吸水毛巾 - Contentment",
+        "rating": ""
+    },
+    {
+        "names": "ROWonAIR AirKayak 16' Inflatable Kayak 充氣獨木舟划槳賽艇 for All-Rounders - Perfect for 1-3 persons",
+        "rating": "",
+        "hon_price_min": "13,500",
+        "hon_price_max": "13,500",
+        "類別:": "充氣獨木舟",
+        "尺寸:": "16"
+    },
+    {
+        "names": "Magicshine TTA 多用途伸延支架",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "209",
+        "類別:": "多用途伸延支架"
+    },
+    {
+        "names": "Ziglite 節亮 舞蹈護腳足尖套-一對裝 JDP",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類別:": "舞蹈護腳足尖套"
+    },
+    {
+        "names": "2XU Performance Visor Winsome Orchid/Black 開頂戶外太陽帽 (UQ5346F-WNO/BLK)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Argal 老人頸椎手部上肢康復吊環滑輪訓練器（掛門｜單輪）",
+        "rating": "",
+        "water_price_min": "389",
+        "water_price_max": "389",
+        "類別:": "上肢康復吊環滑輪訓練器",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Blindsave Protective 3/4 Tights Pro+ 大腿和臀部保護襯墊緊身褲",
+        "rating": "",
+        "hon_price_min": "950",
+        "hon_price_max": "950",
+        "類別:": "緊身褲",
+        "尺寸:": "S, M, L, XL, XXL"
+    },
+    {
+        "names": "Ciele GOCap SC Century Red Rocks Tro 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Vorgee Dolphin Junior 游泳鏡 - 有色鏡片 (2-8yrs)",
+        "rating": "",
+        "hon_price_min": "106",
+        "hon_price_max": "106",
+        "類別:": "其他"
+    },
+    {
+        "names": "Rumlad 充氣直立板套裝",
+        "rating": "",
+        "hon_price_min": "1,299",
+        "hon_price_max": "1,299",
+        "類別:": "充氣直立板",
+        "重量:": "7kg"
+    },
+    {
+        "names": "ASUS ROG x Spalding Basketball 天生無懼 聯名籃球",
+        "rating": "",
+        "hon_price_min": "780",
+        "hon_price_max": "780",
+        "類別:": "籃球",
+        "重量:": "(±10%) 0.6kg"
+    },
+    {
+        "names": "Aonijie 奧尼捷 2.5L 戶外運動背心 C932S",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "類別:": "越野跑運動背囊",
+        "尺寸:": "S-XL"
+    },
+    {
+        "names": "Lixada 超輕量山地自行車騎行自行車運動安全防護頭盔 - 13個透氣孔",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299",
+        "類別:": "單車頭盔"
+    },
+    {
+        "names": "Ziglite 節亮 運動健⾝男⼥通⽤負重沙袋 2kg (TD-KAI2)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "沙袋",
+        "重量:": "2kg"
+    },
+    {
+        "names": "Smartwool Men's PhD Run Ultra Light Low Cut Socks 男裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪",
+        "尺寸:": "M , L , XL"
+    },
+    {
+        "names": "POLAR H10 心率傳感器 2代 (BLUETOOTH & ANT+)",
+        "rating": "10",
+        "hon_price_min": "710",
+        "hon_price_max": "710"
+    },
+    {
+        "names": "Matador Nanodry Towel Small 納米纖維速乾毛巾 (小)",
+        "rating": "",
+        "hon_price_min": "169",
+        "hon_price_max": "179"
+    },
+    {
+        "names": "Hayashi Knit 紀州備長炭壓力護小腿套",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "類別:": "護小腿套",
+        "尺寸:": "適用於小腿圍-34-42cm"
+    },
+    {
+        "names": "Bauerfeind Sports Knee Strap 運動護膝帶",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "類別:": "護膝",
+        "尺寸:": "S, M, L"
+    },
+    {
+        "names": "ROWonAIR RowMotion + RowMotion Sculls 平板賽艇划艇套裝連一對碳纖槳",
+        "rating": "",
+        "hon_price_min": "20,600",
+        "hon_price_max": "20,600",
+        "類別:": "平板賽艇划艇套裝"
+    },
+    {
+        "names": "Ciele GOCap Badge River Rocks 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ziglite 節亮 踝關節扭傷固定保護套 M (TD-KD)",
+        "rating": "",
+        "hon_price_min": "94",
+        "hon_price_max": "94",
+        "類別:": "腳踝保護套",
+        "尺寸:": "220 x 140 x 70mm"
+    },
+    {
+        "names": "Asher Fishy 不銹鋼脫鉤器 AAR",
+        "rating": "",
+        "hon_price_min": "115",
+        "hon_price_max": "115",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "LON10 集寶 9檔調節可折疊拉筋板 UAW",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168"
+    },
+    {
+        "names": "2XU Performance Visor Daphne/Black 開頂戶外太陽帽 (UQ5346F-DPH/BLK)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "2XU Run Visor Winsome Orchid/Winsome Orchid 開頂戶外太陽帽  (UQ5347F-WNO/WNO)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Ziglite 節亮 臂⼒/腕⼒訓練器 (TD-TI)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類別:": "腕⼒訓練器",
+        "尺寸:": "250 x 140 x 30mm"
+    },
+    {
+        "names": "Ziglite 節亮 護小腿運動壓縮套 籃球/足球束腿套 一對 (TD-KX)",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "束腿套",
+        "尺寸:": "上腿圍: 290mm / 下腿圍: 245mm"
+    },
+    {
+        "names": "Bryton Rider 420E 無線單車碼錶 中英文版",
+        "rating": "",
+        "hon_price_min": "929",
+        "hon_price_max": "929"
+    },
+    {
+        "names": "PMT 破風氣動公路單車頭盔",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "325",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "Ohella Vibration Massage Foam Roller 振動按摩泡沫滾軸 FR01",
+        "rating": "",
+        "hon_price_min": "568",
+        "hon_price_max": "568",
+        "類別:": "按摩滾筒"
+    },
+    {
+        "names": "Ciele GOCap SC Standard Indigo 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Caterpy Run No Tie Shoelaces (Standard Size)",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "類別:": "鞋帶"
+    },
+    {
+        "names": "Asher Fishy 橄欖型矽膠通心鉛墜 30g A-AD30-03",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Ziglite 節亮 運動綁帶護手掌 - 一對裝 M KBF",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類別:": "護手掌"
+    },
+    {
+        "names": "Ciele ALZCap Standard Grip Roadside 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ziglite 節亮 成人戶外運動矽膠防滑半指手套 S (TD-UL-S)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類別:": "防滑手套",
+        "尺寸:": "90mm 掌寬"
+    },
+    {
+        "names": "Asher Fishy 橄欖型矽膠通心鉛墜 20g A-AD20-03",
+        "rating": "",
+        "hon_price_min": "36",
+        "hon_price_max": "36",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Viatom Sleep O2 Oxygen Monitor 血氧紀錄儀",
+        "rating": "10",
+        "hon_price_min": "899",
+        "hon_price_max": "980",
+        "water_price_min": "899",
+        "water_price_max": "899"
+    },
+    {
+        "names": "Ciele GOCap Athletics Shadowcast 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Bauerfeind Sports Ankle Support Dynamic 活力運動護踝",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類別:": "護踝",
+        "尺寸:": "XS, S, M, L, XL, XXL"
+    },
+    {
+        "names": "Smartwool Men's PhD Run Light Elite Pattern Low Cut Socks 男裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "Rockbros Multifunctional Bicycle Audio 多功能單車連音響手機架 ZX006 (AV127-B)",
+        "rating": "",
+        "hon_price_min": "349",
+        "hon_price_max": "349",
+        "類別:": "單車手機架"
+    },
+    {
+        "names": "Blindsave Padded Protective Arm Sleeve 籃球墊臂套",
+        "rating": "",
+        "hon_price_min": "240",
+        "hon_price_max": "240",
+        "類別:": "墊臂套",
+        "尺寸:": "XS - XXL"
+    },
+    {
+        "names": "PIP SPORTS ProFits 舒適透氣 防汗防水 專業運動肌肉貼 (適用於肩部、手臂及手腕) - 闊37.5mm x 總長4.0m (1卷裝)",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類別:": "專業運動肌肉貼",
+        "尺寸:": "闊37.5mm x 總長4.0m"
+    },
+    {
+        "names": "Aonijie 奧尼捷 速捷專業運動腰包 W8105",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類別:": "運動腰包"
+    },
+    {
+        "names": "Vacheron Constantin 高爾夫球起釘器連球標 XP800853",
+        "rating": "",
+        "water_price_min": "330",
+        "water_price_max": "330"
+    },
+    {
+        "names": "2XU Run Cap Silver Sage/Black 運動帽 (UQ5685F-SSG/BLK)",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ziglite 節亮 排球專用運動手腕護具 (KAW)",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "類別:": "手腕護具"
+    },
+    {
+        "names": "PMT 輕量透氣公路單車頭盔",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "209",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "Ziglite 節亮 防撞海綿護膝 運動減震護具 L (TD-JQ-L)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "護膝",
+        "尺寸:": "230 x 160 x 60mm"
+    },
+    {
+        "names": "Casio 專業計時防水運動碼錶 HS-80TW-1",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "500",
+        "類別:": "Stopwatch，秒錶，計時器",
+        "尺寸:": "83 x 64 x 24mm"
+    },
+    {
+        "names": "Move it 智能跳繩",
+        "rating": "",
+        "water_price_min": "380",
+        "water_price_max": "380"
+    },
+    {
+        "names": "Ziglite 節亮 磁⽯扭腰盤 瘦腰運動器 (MS-MP)",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "類別:": "扭腰盤",
+        "尺寸:": "250 x 250 x 30mm"
+    },
+    {
+        "names": "Asher Fishy 多用途稱重夾魚控魚器 AAS",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Lixada 釣魚用具套裝 (2.4米長碳纖維魚竿)",
+        "rating": "",
+        "hon_price_min": "309",
+        "hon_price_max": "309",
+        "類別:": "釣魚用具",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Magicshine RN120 USB充電 感態剎車 智能單車尾燈",
+        "rating": "",
+        "hon_price_min": "165",
+        "hon_price_max": "165",
+        "類別:": "單車尾燈"
+    },
+    {
+        "names": "Sublue WhiteShark MixPro Underwater Scooter",
+        "rating": "10",
+        "hon_price_min": "4,940",
+        "hon_price_max": "5,499",
+        "尺寸:": "465 x 230 x 230mm"
+    },
+    {
+        "names": "Smartwool Men's PhD Run Light Elite Low Cut Socks 男裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪",
+        "尺寸:": "M , L , XL"
+    },
+    {
+        "names": "Smartwool Men's PhD Outdoor Light Mini Hiking Socks 男裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪",
+        "尺寸:": "M , L , XL"
+    },
+    {
+        "names": "TYR 女士一體式泳衣 MLL7A",
+        "rating": "",
+        "hon_price_min": "375",
+        "hon_price_max": "375"
+    },
+    {
+        "names": "Asher Fishy 管付丸世長柄帶圈倒刺魚鉤 15# A-AC15-03",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "huunana x Happiplayground 便攜式冰感冷感降溫纖維速乾絲印運動毛巾",
+        "rating": "",
+        "hon_price_min": "49",
+        "hon_price_max": "49",
+        "類別:": "運動冰涼降溫運動毛巾",
+        "尺寸:": "30 x 100cm"
+    },
+    {
+        "names": "2XU Performance Visor Sea/Black 開頂戶外太陽帽 (UQ2399F-SEA/BLK)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Ziglite 節亮 髕骨關節膝蓋助力器 一對 (TD-JO)",
+        "rating": "10",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類別:": "護膝",
+        "尺寸:": "310 x 710 x 175mm"
+    },
+    {
+        "names": "Ziglite 節亮  男士運動防起繭健身手套 S (TD-KZ2)",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "類別:": "護膝"
+    },
+    {
+        "names": "ToeasePro FivePro Waist Support 護腰墊",
+        "rating": "",
+        "hon_price_min": "1,650",
+        "hon_price_max": "1,650",
+        "類別:": "護腰墊"
+    },
+    {
+        "names": "Aonijie 奧尼捷 梯形壓力 矽膠墊片 四向彈性 3D針織工藝 專業護踝",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "類別:": "護踝"
+    },
+    {
+        "names": "Osprey Hydraulics Soft Flask 運動軟水樽 (250ml)",
+        "rating": ""
+    },
+    {
+        "names": "Acteon Gym Tower",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128"
+    },
+    {
+        "names": "Ciele GOCap Iconic Bar Trigger 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "INCYLENCE Running Shifts 跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "Camelbak Horizon Tumbler Insulated Stainless 不鏽鋼真空保溫杯 600ml",
+        "rating": "",
+        "類別:": "保溫杯",
+        "尺寸:": "183 x 86 x 86mm"
+    },
+    {
+        "names": "Matador Ultralight Travel Towel Large 納米纖維速乾毛巾 (大)",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "339"
+    },
+    {
+        "names": "Aqua Marina Atlas Adv. All Around 12' 366cm Max load 170kg SUP Board",
+        "rating": "",
+        "water_price_min": "3,820",
+        "water_price_max": "3,820",
+        "類別:": "Stand up Paddle Board",
+        "重量:": "10kg"
+    },
+    {
+        "names": "Archon JUMP Wireless Skipping 無線隱形跳繩",
+        "rating": "10",
+        "hon_price_min": "280",
+        "hon_price_max": "368"
+    },
+    {
+        "names": "Speedo Junior Illusion Goggles 游泳鏡 (6-14歲)",
+        "rating": "",
+        "hon_price_min": "221",
+        "hon_price_max": "221",
+        "類別:": "游泳鏡"
+    },
+    {
+        "names": "2XU Run Visor Charcoal/Lime Punch 開頂戶外太陽帽 (UA1150F-CHR/LPU)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "2XU Run Visor White/White 開頂戶外太陽帽 (UQ5686F-WHT/WHT)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Ziglite 節亮 銀離子運動暴汗護腰帶 - M KBN",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128"
+    },
+    {
+        "names": "Asher Fishy AAL-EVA 可折疊打水桶 AAL015",
+        "rating": "",
+        "hon_price_min": "52",
+        "hon_price_max": "52",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Aonijie 奧尼捷 預裁式肌效能運動貼布",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "類別:": "運動貼布"
+    },
+    {
+        "names": "Dolphin 多功能夾腳浮板 LBH3111",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85",
+        "類別:": "浮板"
+    },
+    {
+        "names": "XOSS Nav Bike Computer 智能導航單車碼錶",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "429"
+    },
+    {
+        "names": "Ciele GOCap Athletics Marsone 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Molokai 10尺長 SUP 腳繩",
+        "rating": "",
+        "hon_price_min": "280",
+        "hon_price_max": "280"
+    },
+    {
+        "names": "TYR Blackhawk Racing Adult Goggles",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "145",
+        "類別:": "泳鏡"
+    },
+    {
+        "names": "Ziglite 節亮 兒童運動舞蹈護膝 S (TD-KS1)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "護膝"
+    },
+    {
+        "names": "2XU Run Cap Orchid Mist/Black 運動帽 (UQ5685F-ORM/BLK)",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Vorgee Dolphin Junior 游泳鏡 - 透明鏡片 (2-8yrs)",
+        "rating": "",
+        "hon_price_min": "106",
+        "hon_price_max": "106",
+        "類別:": "其他"
+    },
+    {
+        "names": "ACTON 智能電動滑板",
+        "rating": "",
+        "water_price_min": "2,990",
+        "water_price_max": "2,990",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Ciele RDCap C-SPEED Chrome Ghost 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Aonijie 奧尼捷 專業跑步運動襪 大碼 (3雙)",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138",
+        "類別:": "跑步運動襪",
+        "尺寸:": "EU43-46"
+    },
+    {
+        "names": "ROWonAIR RowVista Inflatable Rowing Skid System for Rowing Board with Carbon Oar sets Moving forward edition 向前划艇版本 板上賽艇直立板變身器 賽艇划船套裝連碳纖槳 (不含充氣板)",
+        "rating": "",
+        "hon_price_min": "33,210",
+        "hon_price_max": "33,210",
+        "類別:": "平板賽艇划艇套裝"
+    },
+    {
+        "names": "Blindsave Knee padding 籃球及膝墊壓縮襯墊",
+        "rating": "",
+        "hon_price_min": "440",
+        "hon_price_max": "440",
+        "類別:": "壓縮襯墊",
+        "尺寸:": "XS - XXL"
+    },
+    {
+        "names": "TYR 高清防霧彩虹成人電鍍泳鏡 LGSHDM",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "195",
+        "類別:": "泳鏡"
+    },
+    {
+        "names": "2XU Run Visor Daphne/Daphne 開頂戶外太陽帽 (UQ5347F-DPH/DPH)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Ciele ALZCap SC Century Montebello 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "FED 多功能三合一海豚拉筋板 (標準版)",
+        "rating": "",
+        "water_price_min": "419",
+        "water_price_max": "419",
+        "類別:": "拉筋板",
+        "重量:": "5kg"
+    },
+    {
+        "names": "Rockbros 2合1可拆式兒童頭盔",
+        "rating": "",
+        "hon_price_min": "339",
+        "hon_price_max": "339",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "POLAR H10 心率傳感器",
+        "rating": "10",
+        "hon_price_min": "670",
+        "hon_price_max": "670"
+    },
+    {
+        "names": "Agility 跆拳道護手脛",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "類別:": "跆拳道用品",
+        "重量:": "1kg"
+    },
+    {
+        "names": "ToeasePro FivePro Wrist Support 護腕墊",
+        "rating": "",
+        "hon_price_min": "1,400",
+        "hon_price_max": "1,400",
+        "類別:": "護腕墊"
+    },
+    {
+        "names": "Ziglite 節亮 戶外運動腰包 KBC",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "類別:": "運動腰包"
+    },
+    {
+        "names": "ALPINE ADVENTURE 成人防曬帽 多種配帶方式 LCC6149",
+        "rating": "10",
+        "hon_price_min": "175",
+        "hon_price_max": "175"
+    },
+    {
+        "names": "Mico P4P Mask 抗菌運動口罩",
+        "rating": ""
+    },
+    {
+        "names": "Magicshine SeeMee 30 USB充電 IPX6 單車前燈尾燈套裝",
+        "rating": "",
+        "hon_price_min": "205",
+        "hon_price_max": "205",
+        "類別:": "單車燈"
+    },
+    {
+        "names": "Asher Fishy 八字環美式轉環漁具 3# A-AB3-03",
+        "rating": "",
+        "hon_price_min": "27",
+        "hon_price_max": "27",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "TYR 三維印花矽膠成人泳帽 LCSTHIRD",
+        "rating": "",
+        "hon_price_min": "85",
+        "hon_price_max": "85"
+    },
+    {
+        "names": "Aonijie 奧尼捷 水袋清洗套組",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "水袋清洗套組"
+    },
+    {
+        "names": "Caterpy Air No Tie Shoelaces (Small Size)",
+        "rating": "",
+        "hon_price_min": "79",
+        "hon_price_max": "79",
+        "類別:": "鞋帶"
+    },
+    {
+        "names": "Smartwool Women's Everyday Secret Sleuth No Show Socks 女裝船襪",
+        "rating": "",
+        "類別:": "船襪",
+        "尺寸:": "S , M , L"
+    },
+    {
+        "names": "TYR TRacer-X Elite Mirrored Racing Adult Goggles LGTRXELM",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "395"
+    },
+    {
+        "names": "V-Health 振健樂 VH001 互動負重運動儀",
+        "rating": "10"
+    },
+    {
+        "names": "Naturehike 運動抗菌速乾毛巾 NH20FS009",
+        "rating": "",
+        "hon_price_min": "138",
+        "hon_price_max": "138"
+    },
+    {
+        "names": "Speedo Infant Spot Goggle 游泳鏡 (2-6歲)",
+        "rating": "",
+        "hon_price_min": "123",
+        "hon_price_max": "123",
+        "類別:": "游泳鏡"
+    },
+    {
+        "names": "IMOOV 4D減壓舒痛鞋墊",
+        "rating": "",
+        "hon_price_min": "398",
+        "hon_price_max": "398",
+        "類別:": "保健產品",
+        "尺寸:": "S 36-38,M 38-40,L 40-42"
+    },
+    {
+        "names": "Ciele GOCap Standard Stripes Rosebars 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Hayashi Knit  超薄型護膝",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類別:": "護膝",
+        "尺寸:": "中碼: 膝圍30-40cm 大碼:膝圍35-50cm 加大碼:膝圍40-55cm"
+    },
+    {
+        "names": "TYR 簡約自由三角泳褲 RREA7A",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "275"
+    },
+    {
+        "names": "TYR 30升輕巧經典背包 LATBP30",
+        "rating": "",
+        "hon_price_min": "495",
+        "hon_price_max": "495"
+    },
+    {
+        "names": "Aonijie 奧尼捷 60 x 30cm 毛巾",
+        "rating": "",
+        "hon_price_min": "38",
+        "hon_price_max": "38",
+        "類別:": "毛巾",
+        "尺寸:": "60 x 30cm"
+    },
+    {
+        "names": "Smartwool Men's PhD Run Ultra Light Micro Socks 男裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪",
+        "尺寸:": "M , L , XL"
+    },
+    {
+        "names": "Molokai 比賽競速專用 HERO AIR 號中階直立板 12’6 x 26″",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500"
+    },
+    {
+        "names": "Ziglite 節亮 單軸承 (大球+粗長繩) KBB3",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類別:": "跳繩"
+    },
+    {
+        "names": "Aquis Adventure Towel 快乾吸水毛巾 (S)",
+        "rating": ""
+    },
+    {
+        "names": "ONE EVO 全方位專業版 2.0 14 x 25.5” 標準碳纖",
+        "rating": "",
+        "hon_price_min": "27,000",
+        "hon_price_max": "27,000"
+    },
+    {
+        "names": "Smartwool Women's Cushions Hide and Seek No Show Socks 女裝船襪",
+        "rating": "",
+        "類別:": "船襪",
+        "尺寸:": "S , M , L"
+    },
+    {
+        "names": "Ziglite 節亮 兒童運動護腰收腹帶 (TD-KG)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類別:": "護腰"
+    },
+    {
+        "names": "Speedo Futura Biofuse Flexiseal Junior 游泳鏡 (6-14歲)",
+        "rating": "",
+        "hon_price_min": "194",
+        "hon_price_max": "194",
+        "類別:": "游泳鏡"
+    },
+    {
+        "names": "Chums Mountain Logo 純綿 T-shirt CH01-1967",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "270"
+    },
+    {
+        "names": "TYR 升級版比賽矽膠泳帽 LCWBRKR2",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "195"
+    },
+    {
+        "names": "Matador NanoDry Trek Towel (Small) 便攜快乾毛巾",
+        "rating": "",
+        "hon_price_min": "143",
+        "hon_price_max": "179"
+    },
+    {
+        "names": "PIP SPORTS Profits Support for Knee 日本專業運動護具系列 - 彈力護膝 (單個裝)",
+        "rating": "",
+        "hon_price_min": "189",
+        "hon_price_max": "189",
+        "類別:": "專業運動護膝護具"
+    },
+    {
+        "names": "Fenix 輕量裝單車尾燈 BC05R",
+        "rating": "",
+        "hon_price_min": "155",
+        "hon_price_max": "155"
+    },
+    {
+        "names": "Smartwool Women's PhD Run Light Elite Marble Wash Print Micro Socks 女裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪",
+        "尺寸:": "S, M, L"
+    },
+    {
+        "names": "TYR Blackhawk Racing Mirrored Adult Goggles (LGBHMUSA)",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "175"
+    },
+    {
+        "names": "2XU Run Cap White/White 運動帽 (UQ5685F-WHT/WHT)",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Banale Towel 旅行毛巾",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "類別:": "毛巾"
+    },
+    {
+        "names": "Ziglite 節亮 兒童跳高摸高訓練器 KBA",
+        "rating": "",
+        "hon_price_min": "113",
+        "hon_price_max": "113"
+    },
+    {
+        "names": "Agility 跆拳道護腳套",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "類別:": "跆拳道用品",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Acteon Beach Tower",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "278",
+        "water_price_min": "178",
+        "water_price_max": "178"
+    },
+    {
+        "names": "TYR TRacer-X Elite Racing Goggles LGTRXEL",
+        "rating": "",
+        "hon_price_min": "350",
+        "hon_price_max": "350"
+    },
+    {
+        "names": "Mcbazel 兩用有繩/無繩跳繩",
+        "rating": "",
+        "hon_price_min": "55",
+        "hon_price_max": "55",
+        "類別:": "跳繩"
+    },
+    {
+        "names": "TYR Blackhawk Racing Youth Goggles (LGBHJRM)",
+        "rating": "",
+        "hon_price_min": "150",
+        "hon_price_max": "150",
+        "類別:": "泳鏡"
+    },
+    {
+        "names": "Ziglite 節亮 男士運動護腰收腹帶 M (TD-KL1)",
+        "rating": "",
+        "hon_price_min": "109",
+        "hon_price_max": "109",
+        "類別:": "護腰收腹帶"
+    },
+    {
+        "names": "Montbell Wickron Tee Dot Logo 透氣快乾 T-Shirt 1114471",
+        "rating": "",
+        "hon_price_min": "216",
+        "hon_price_max": "235",
+        "類別:": "T-Shirt",
+        "尺寸:": "XS、S、M、L、XL"
+    },
+    {
+        "names": "Aonijie 奧尼捷 COOLMAX XtraLife 中筒襪 E4806",
+        "rating": "",
+        "hon_price_min": "108",
+        "hon_price_max": "108",
+        "類別:": "五趾襪"
+    },
+    {
+        "names": "CATEYE Wireless Cycling Computer Odomete 無線防水單車咪錶",
+        "rating": "",
+        "hon_price_min": "399",
+        "hon_price_max": "399"
+    },
+    {
+        "names": "Cprime Burn 平衡能量運動手環",
+        "rating": "",
+        "water_price_min": "1,059",
+        "water_price_max": "1,059",
+        "類別:": "運動手環",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Asher Fishy 超緊矽膠橄欖型太空豆 A-AH-03",
+        "rating": "",
+        "hon_price_min": "22",
+        "hon_price_max": "22",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "DOLPHIN 防水耐用PU泳帽 LCP3102",
+        "rating": "",
+        "hon_price_min": "75",
+        "hon_price_max": "75"
+    },
+    {
+        "names": "TMT 超輕氣壓式護膝 (長款丶可調壓力)",
+        "rating": "",
+        "hon_price_min": "798",
+        "hon_price_max": "798",
+        "類別:": "護膝"
+    },
+    {
+        "names": "Ziglite 節亮 兒童運動護肘 胳膊關節防護套 M (TD-RC/RD)",
+        "rating": "",
+        "hon_price_min": "48",
+        "hon_price_max": "48",
+        "類別:": "護肘"
+    },
+    {
+        "names": "Aonijie 奧尼捷 女裝速乾輕便運動短褲 (無內膽) F5106",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198",
+        "類別:": "運動短褲",
+        "尺寸:": "S-XL"
+    },
+    {
+        "names": "2XU Performance Visor Turbulance/Black 開頂戶外太陽帽  (UQ6165F-TRB/BLK)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Garmin Approach CT10 (FULL SET)",
+        "rating": "",
+        "hon_price_min": "1,980",
+        "hon_price_max": "2,100"
+    },
+    {
+        "names": "Ziglite 節亮 運動健⾝男⼥通⽤負重沙袋 1kg (TD-TH)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "沙袋",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Aonijie 奧尼捷 專業貼身運動腰包",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "貼身運動腰包",
+        "尺寸:": "26 x 4cm"
+    },
+    {
+        "names": "Smartwool Men's PhD Run Light Elite Pattern Micro Socks 男裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "Aonijie 奧尼捷 Q型矽膠護墊 E4409",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類別:": "運動護膝"
+    },
+    {
+        "names": "Bryton Rider 320E 無線單車碼錶 中英文版",
+        "rating": "",
+        "hon_price_min": "779",
+        "hon_price_max": "779"
+    },
+    {
+        "names": "2XU Run Visor Magenta/White 開頂戶外太陽帽 (UQ5686F-MAG/WHT)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Ciele RPDVisor SC Century Canterburry 開頂運動太陽帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Magicshine SeeMee 200 公路智能單車感應尾燈",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "295",
+        "類別:": "單車燈"
+    },
+    {
+        "names": "Micro Sun SWIMN S1 動力浮板",
+        "rating": "",
+        "hon_price_min": "3,680",
+        "hon_price_max": "3,680"
+    },
+    {
+        "names": "ERGOfoot 運動足底筋膜炎足弓運動鞋墊",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128"
+    },
+    {
+        "names": "Ciele GOCap SC Standard Moderna 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Aonijie 奧尼捷 10L 輕量越野跑運動水袋背囊 [限量版黑白色] C9108",
+        "rating": "",
+        "hon_price_min": "378",
+        "hon_price_max": "378",
+        "類別:": "越野跑運動背囊"
+    },
+    {
+        "names": "Ziglite 節亮 防撞海綿護膝 護具 M (KAN)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "護膝"
+    },
+    {
+        "names": "JFT 單車用減壓坐墊 BC-33",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "類別:": "單車用減壓坐墊",
+        "重量:": "1kg"
+    },
+    {
+        "names": "TYR 兒童開始游泳潛水棒 LSTSSTK",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95"
+    },
+    {
+        "names": "3M Futuro 強效舒適型護踝",
+        "rating": "",
+        "hon_price_min": "200",
+        "hon_price_max": "200"
+    },
+    {
+        "names": "TYR 男抗氯泳褲 SGLI7A",
+        "rating": "",
+        "hon_price_min": "295",
+        "hon_price_max": "295"
+    },
+    {
+        "names": "Ciele BKTHat Standard Equipe 運動漁夫帽",
+        "rating": "",
+        "類別:": "運動帽."
+    },
+    {
+        "names": "Chums Burger Shop 純綿 T-shirt CH01-1974",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "270",
+        "類別:": "T-Shirt"
+    },
+    {
+        "names": "Rhinowalk 1.5L 魔術貼單車尾袋 TF550B",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159"
+    },
+    {
+        "names": "Cycplus 防水心率臂帶 藍牙連駁 ANT+ H1",
+        "rating": "",
+        "hon_price_min": "299",
+        "hon_price_max": "299"
+    },
+    {
+        "names": "SMACO S300 0.5L scuba diving tank set D 潛水氧氣桶氧氣樽組合D",
+        "rating": "10",
+        "hon_price_min": "1,100",
+        "hon_price_max": "1,100"
+    },
+    {
+        "names": "Ciele GOCap M Running Man Quint 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "German Pool 德國寶 遠紅外線運動肘貼(黑色) FIR-SO1K",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Agility 固定款面罩頭盔",
+        "rating": "",
+        "hon_price_min": "370",
+        "hon_price_max": "370",
+        "類別:": "跆拳道用品",
+        "重量:": "1kg"
+    },
+    {
+        "names": "PMT Hayes 2.0 高品質透氣單車公路頭盔",
+        "rating": "",
+        "hon_price_min": "375",
+        "hon_price_max": "375",
+        "類別:": "單車頭盔"
+    },
+    {
+        "names": "HydraPak Shape-Shift Reservoir 運動飲水袋 2L",
+        "rating": "",
+        "hon_price_min": "291",
+        "hon_price_max": "291"
+    },
+    {
+        "names": "Aonijie 奧尼捷 女裝速乾運動裙 (含內膽) F5104",
+        "rating": "",
+        "hon_price_min": "268",
+        "hon_price_max": "268",
+        "類別:": "運動裙",
+        "尺寸:": "S-XL"
+    },
+    {
+        "names": "Ziglite 節亮 康復運動器械 上下肢訓練器 (RP-JCB)",
+        "rating": "",
+        "hon_price_min": "499",
+        "hon_price_max": "499",
+        "類別:": "上肢 / 下肢訓練器",
+        "尺寸:": "420 x 340 x 155mm"
+    },
+    {
+        "names": "Agility 跆拳道男生護襠",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "類別:": "跆拳道用品",
+        "重量:": "1kg"
+    },
+    {
+        "names": "TheraGun Wave Roller 震動滾輪",
+        "rating": "",
+        "hon_price_min": "1,150",
+        "hon_price_max": "1,198"
+    },
+    {
+        "names": "Wahoo Elemnt Roam 2.0 GPS 自行車碼錶",
+        "rating": "",
+        "hon_price_min": "3,360",
+        "hon_price_max": "3,360"
+    },
+    {
+        "names": "Camelbak Octane Dart 運動水袋背包(連1.5L水袋)",
+        "rating": ""
+    },
+    {
+        "names": "Ciele GOCap Athletics Botanic 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ciele BKTHat Badge Allover Zebra Scout 運動漁夫帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ziglite 節亮 踝關節扭傷固定保護套 L (TD-KD2)",
+        "rating": "",
+        "hon_price_min": "94",
+        "hon_price_max": "94",
+        "類別:": "腳踝保護套"
+    },
+    {
+        "names": "2XU Run Visor Flame Scarlet/Charcoal 開頂戶外太陽帽 (UA1150F-FSC/CHR)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Ciele GOCap Century Charlevoix 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ciele GOCap SC BOX Darkflight 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Vorgee Float O Arm Bands (Age 2-6yrs)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "100",
+        "類別:": "其他"
+    },
+    {
+        "names": "Agility 跆拳道面罩款頭盔",
+        "rating": "",
+        "hon_price_min": "290",
+        "hon_price_max": "290",
+        "類別:": "跆拳道用品",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Ciele GOCap Athletics Trooper 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ziglite 節亮 兒童戶外運動矽膠防滑半指手套 L (TD-UJ)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類別:": "防滑手套"
+    },
+    {
+        "names": "Aonijie 奧尼捷 專業跑步運動五指襪 細碼 (3對)",
+        "rating": "",
+        "hon_price_min": "188",
+        "hon_price_max": "188",
+        "類別:": "跑步五指襪"
+    },
+    {
+        "names": "Magene 第三代速度踏頻感應器 S314",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159"
+    },
+    {
+        "names": "Ciele ONECap Shadowlava 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Cairbull 4D Plus 公路單車輕量級頭盔帶LED尾燈 CB-03",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "145",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "ToeasePro FivePro Neck Support 護頸墊",
+        "rating": "",
+        "hon_price_min": "1,500",
+        "hon_price_max": "1,500",
+        "類別:": "護頸墊"
+    },
+    {
+        "names": "Osprey Duro 1.5 With 1.5L Reservoir 戶外運動跑山越野背心 (連1.5L水袋)",
+        "rating": ""
+    },
+    {
+        "names": "INCYLENCE Running Arrows Short 跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "Magicshine RN600 USB充電防水單車燈",
+        "rating": "",
+        "hon_price_min": "229",
+        "hon_price_max": "229",
+        "類別:": "單車燈"
+    },
+    {
+        "names": "Aonijie 奧尼捷 矽膠髕骨防護 E4406",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "運動護膝"
+    },
+    {
+        "names": "Ziglite 節亮 20LB 成人四指康復握力圈 (RP-MH2)",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39",
+        "類別:": "握力圈",
+        "尺寸:": "98 x 100 x 15mm"
+    },
+    {
+        "names": "Mistymate Mistpro 3 環保手動壓縮噴霧瓶",
+        "rating": "",
+        "hon_price_min": "288",
+        "hon_price_max": "288"
+    },
+    {
+        "names": "Yottoy 重力球智能液晶屏計數無線跳繩",
+        "rating": "",
+        "water_price_min": "409",
+        "water_price_max": "409",
+        "類別:": "無線跳繩",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Altus Massage Foam Roller 按摩滾輪",
+        "rating": "",
+        "hon_price_min": "300",
+        "hon_price_max": "300"
+    },
+    {
+        "names": "2XU Performance Visor Virtual Pink/Black 開頂戶外太陽帽 (UQ5346F-VTP/BLK)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Aonijie 奧尼捷 手持水壺包 (可選購500ml水樽)",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "跑步手握壺袋"
+    },
+    {
+        "names": "Asher Fishy 橄欖型矽膠通心鉛墜 10g A-AD10-03",
+        "rating": "",
+        "hon_price_min": "29",
+        "hon_price_max": "29",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Camelbak Eddy Kids Vacuum Insulated Stainless Steel Water Bottle 小童不鏽鋼保溫吸管水樽",
+        "rating": ""
+    },
+    {
+        "names": "TYR Blackhawk Racing Mirrored Adult Goggles LGBHM",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "175"
+    },
+    {
+        "names": "FEI Cando TheraPutty 3oz",
+        "rating": "",
+        "hon_price_min": "80",
+        "hon_price_max": "80"
+    },
+    {
+        "names": "3M Futuro 夾板型護腕",
+        "rating": "",
+        "hon_price_min": "396",
+        "hon_price_max": "396"
+    },
+    {
+        "names": "TYR 超廣鏡面專業競賽泳鏡 LGEDGM",
+        "rating": "10",
+        "hon_price_min": "195",
+        "hon_price_max": "195"
+    },
+    {
+        "names": "DMC Elite 2 訓練用專業蛙鞋",
+        "rating": "10",
+        "hon_price_min": "525",
+        "hon_price_max": "525"
+    },
+    {
+        "names": "Montbell Wickron Tee Nami Monyou 透氣快乾 T-Shirt 1114568",
+        "rating": "",
+        "hon_price_min": "235",
+        "hon_price_max": "235",
+        "類別:": "T-Shirt"
+    },
+    {
+        "names": "Aonijie 奧尼捷 專業戶外運動背包 18L",
+        "rating": "",
+        "hon_price_min": "428",
+        "hon_price_max": "428",
+        "類別:": "越野背包",
+        "尺寸:": "18L"
+    },
+    {
+        "names": "Ziglite 節亮 女士運動護肘 胳膊關節防護 (TD-RK)",
+        "rating": "",
+        "hon_price_min": "58",
+        "hon_price_max": "58",
+        "類別:": "護肘",
+        "尺寸:": "臂圍: 29cm"
+    },
+    {
+        "names": "Aonijie 奧尼捷 男士運動內褲 (細碼)",
+        "rating": "",
+        "hon_price_min": "168",
+        "hon_price_max": "168",
+        "類別:": "運動速乾內褲",
+        "尺寸:": "M：推薦腰圍53-63cm"
+    },
+    {
+        "names": "MPH 護腕",
+        "rating": "",
+        "hon_price_min": "70",
+        "hon_price_max": "70"
+    },
+    {
+        "names": "German Pool 德國寶 遠紅外線運動肘貼(灰色) FIR-SO1G",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250"
+    },
+    {
+        "names": "POLAR Verity Sense 光學心率傳感器",
+        "rating": "10",
+        "hon_price_min": "689",
+        "hon_price_max": "750"
+    },
+    {
+        "names": "Ziglite 節亮 運動健⾝男⼥通⽤負重鐵砂袋 1kg  (TD-TG)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "負重運動鐵砂袋",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Vorgee Float V Bands Size 2 (Age 2-6yrs / 15-30kg)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "80",
+        "water_price_min": "79",
+        "water_price_max": "79",
+        "類別:": "其他"
+    },
+    {
+        "names": "Ciele BKTHat Standard Asymint 運動漁夫帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Vorgee Seahorse 游泳鏡 - 有色鏡片 (2-6yrs)",
+        "rating": "",
+        "hon_price_min": "106",
+        "hon_price_max": "106",
+        "類別:": "其他"
+    },
+    {
+        "names": "German Pool 德國寶 遠紅外線運動小腿貼(灰色) FIR-SF1G",
+        "rating": "",
+        "hon_price_min": "599",
+        "hon_price_max": "599"
+    },
+    {
+        "names": "TYR 男士專業中腳泳褲 SAMBS7A",
+        "rating": "",
+        "hon_price_min": "325",
+        "hon_price_max": "325"
+    },
+    {
+        "names": "Havospark Hover Skubber Mini Scuba Diving Tank 迷你水肺潛水罐套裝 (0.5L) HS027",
+        "rating": "",
+        "hon_price_min": "2,050",
+        "hon_price_max": "2,050"
+    },
+    {
+        "names": "Agility 護齒牙套 (3件裝)",
+        "rating": "",
+        "hon_price_min": "269",
+        "hon_price_max": "269",
+        "類別:": "運動用品",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Smartwool Men's PhD Run Light Elite Micro Socks 男裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "German Pool 德國寶 遠紅外線運動護腕貼(灰色) FIR-SC1G",
+        "rating": "",
+        "hon_price_min": "328",
+        "hon_price_max": "328"
+    },
+    {
+        "names": "huunana x Happiplayground 防曬透氣防紫外線手袖套 UPF 40+",
+        "rating": "",
+        "hon_price_min": "69",
+        "hon_price_max": "69",
+        "類別:": "防紫外線手袖套",
+        "尺寸:": "成人：40 x 9 x 7.5cm, 兒童：26.5 x 7.5 x 6.5cm"
+    },
+    {
+        "names": "Medex 透氣膝部護托 (K04)",
+        "rating": "",
+        "hon_price_min": "198",
+        "hon_price_max": "198"
+    },
+    {
+        "names": "Ciele GOCap SC Standard Ranger 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "TYR 水中健體手套 LAQGLV",
+        "rating": "",
+        "hon_price_min": "195",
+        "hon_price_max": "195"
+    },
+    {
+        "names": "3M Futuro 舒適型護踝 76582, 中碼",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "ALPINE ADVENTURE 成人防曬帽 LCC6150",
+        "rating": "",
+        "hon_price_min": "175",
+        "hon_price_max": "175"
+    },
+    {
+        "names": "ONE 風暴 2.0 14 x 23” @273L GT Hollow",
+        "rating": "",
+        "hon_price_min": "26,000",
+        "hon_price_max": "26,000"
+    },
+    {
+        "names": "XOSS 踏頻/速度感應器 ANT+ 藍牙 IGSPORT BRYTON 適用",
+        "rating": "",
+        "hon_price_min": "130",
+        "hon_price_max": "130"
+    },
+    {
+        "names": "Asher Fishy 管付丸世長柄帶圈倒刺魚鉤 26# A-AC26-03",
+        "rating": "",
+        "hon_price_min": "26",
+        "hon_price_max": "26",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Rockbros All Road Bike Helmet Magnetic Sun Visor 公路單車頭盔連磁吸風鏡",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "209",
+        "類別:": "頭盔"
+    },
+    {
+        "names": "Molokai Finder 充氣休閒直立板 11’2 x 32″",
+        "rating": "",
+        "hon_price_min": "5,900",
+        "hon_price_max": "5,900"
+    },
+    {
+        "names": "PIP SPORTS Profits Support for Calf 日本專業運動護具系列 - 小腿壓力套",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "類別:": "小腿壓力套"
+    },
+    {
+        "names": "Yottoy 重力球無線跳繩 (防滑紋路手柄款)",
+        "rating": "",
+        "water_price_min": "299",
+        "water_price_max": "299",
+        "類別:": "無線跳繩",
+        "重量:": "1kg"
+    },
+    {
+        "names": "Aonijie 奧尼捷 運動軟水壺 500ml",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "水樽",
+        "尺寸:": "500ml"
+    },
+    {
+        "names": "TYR 女裝專業比賽泳衣 TPJFO6A",
+        "rating": "",
+        "hon_price_min": "995",
+        "hon_price_max": "995"
+    },
+    {
+        "names": "Ziglite 節亮 運動防撞護膝 - 一對裝 M KBD",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類別:": "護膝"
+    },
+    {
+        "names": "Lixada 夜光釣魷魚假蝦餌 12厘米 21克 (5件)",
+        "rating": "",
+        "hon_price_min": "209",
+        "hon_price_max": "209",
+        "類別:": "釣魚用具"
+    },
+    {
+        "names": "Nathan Littleshot Hydration Bottle 750ML Kentucky Blue 運動水樽 (淺藍色)",
+        "rating": ""
+    },
+    {
+        "names": "TYR USA Classic Kickboard (LKBUSA)",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "類別:": "浮板"
+    },
+    {
+        "names": "Festina 法斯蒂納 x Santini Cycling Jersey 騎行服",
+        "rating": "",
+        "hon_price_min": "580",
+        "hon_price_max": "580",
+        "類別:": "騎行服",
+        "尺寸:": "胸圍尺寸 Bust SIze :  Small 細碼: 108 cm; Medium 中碼 : 116cm;  Large 大碼: 126 cm"
+    },
+    {
+        "names": "Schneider 智能呼啦圈",
+        "rating": "",
+        "water_price_min": "398",
+        "water_price_max": "399",
+        "類別:": "呼啦圈"
+    },
+    {
+        "names": "Vorgee Starfish Mask Kids 游泳鏡 - 有色鏡片 (2-6yrs)",
+        "rating": "",
+        "hon_price_min": "176",
+        "hon_price_max": "176",
+        "類別:": "其他"
+    },
+    {
+        "names": "Ziglite 節亮 運動大腿護套保護帶 肌肉護具 L (TD-KW)",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "類別:": "大腿護套",
+        "尺寸:": "腿圍66cm"
+    },
+    {
+        "names": "Manduka Meditation Cushion 輕巧冥想墊",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "類別:": "冥想墊"
+    },
+    {
+        "names": "Aonijie 奧尼捷 水樽 600ml SH600",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "水樽"
+    },
+    {
+        "names": "Ciele GOCap SC Century Trooper 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Bauerfeind Sports Elbow Strap 運動護肘",
+        "rating": "",
+        "hon_price_min": "459",
+        "hon_price_max": "459",
+        "類別:": "護肘"
+    },
+    {
+        "names": "Ciele GOCap Run Mountains Earthship 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "INCYLENCE Running Squares 跑步襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "Chums Mini Logo 純綿 T-shirt CH01-1837",
+        "rating": "",
+        "hon_price_min": "230",
+        "hon_price_max": "230",
+        "類別:": "T-Shirt"
+    },
+    {
+        "names": "Rhinowalk Folding Storage Bike Bag 摺車 單車收納袋",
+        "rating": "",
+        "hon_price_min": "135",
+        "hon_price_max": "135"
+    },
+    {
+        "names": "TYR 矽膠耳塞 LEARS",
+        "rating": "",
+        "hon_price_min": "35",
+        "hon_price_max": "35"
+    },
+    {
+        "names": "TYR 童裝游泳保暖抓毛衣 TSK19073",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "275"
+    },
+    {
+        "names": "TYR 兒童矽膠泳帽 LCSHFISH",
+        "rating": "10",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "Vargo Titanium Emergency Whistle 項圈式哨子 T-416",
+        "rating": ""
+    },
+    {
+        "names": "2XU Performance Visor Black/Black 開頂戶外太陽帽  (UQ6165F-BLK/BLK)",
+        "rating": "",
+        "類別:": "太陽帽"
+    },
+    {
+        "names": "Fitkicks 多用途戶外水上運動鞋 浮潛鞋(童裝)",
+        "rating": ""
+    },
+    {
+        "names": "Ziglite 節亮 男士運動護肘關節保護套 L (TD-RE2)",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "護肘"
+    },
+    {
+        "names": "TYR 蛙手掌 LCATC",
+        "rating": "10",
+        "hon_price_min": "145",
+        "hon_price_max": "145"
+    },
+    {
+        "names": "ROWonAIR Dude 18' Inflatable More Stability Rowing Board 充氣平板賽艇",
+        "rating": "",
+        "hon_price_min": "14,680",
+        "hon_price_max": "14,680",
+        "尺寸:": "18\""
+    },
+    {
+        "names": "Smartwool Women's PhD Run Light Elite Low Cut Socks 女裝跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪",
+        "尺寸:": "S , M , L"
+    },
+    {
+        "names": "Asher Fishy 管付丸世長柄帶圈倒刺魚鉤 10# A-AC10-03",
+        "rating": "",
+        "hon_price_min": "18",
+        "hon_price_max": "18",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Fenix 單車頭燈 BC35R",
+        "rating": "",
+        "hon_price_min": "705",
+        "hon_price_max": "705"
+    },
+    {
+        "names": "TYR 矽膠耳塞 LEP",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60"
+    },
+    {
+        "names": "FED 家用健身多功能啞鈴凳",
+        "rating": "",
+        "hon_price_min": "1,280",
+        "hon_price_max": "1,280"
+    },
+    {
+        "names": "Ciele ALZCap Standard Bayport 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Camelbak Rogue Light 單車背囊",
+        "rating": "",
+        "類別:": "單車背囊",
+        "尺寸:": "400 x 225 x 160mm"
+    },
+    {
+        "names": "TYR Riptide Drag Chute (LDRAGCH)",
+        "rating": "10",
+        "hon_price_min": "395",
+        "hon_price_max": "395"
+    },
+    {
+        "names": "Ziglite 節亮 兒童運動舞蹈護膝 S (TD-KR)",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "護膝",
+        "尺寸:": "360mm"
+    },
+    {
+        "names": "INCYLENCE Running Classic Dots 跑步襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "Asher Fishy 橄欖型矽膠通心鉛墜 60g A-AD60-03",
+        "rating": "",
+        "hon_price_min": "60",
+        "hon_price_max": "60",
+        "類別:": "釣魚用品"
+    },
+    {
+        "names": "Manduka Enlight Rectangular Bolster 方形設計枕墊",
+        "rating": "",
+        "hon_price_min": "690",
+        "hon_price_max": "690",
+        "類別:": "枕墊"
+    },
+    {
+        "names": "Ciele GOCap Standard Grip Wes 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "INCYLENCE Running Layers 跑步短襪",
+        "rating": "",
+        "類別:": "跑步襪"
+    },
+    {
+        "names": "3M Futuro 拇指護托型護腕 45844, 大/加大碼",
+        "rating": "",
+        "hon_price_min": "270",
+        "hon_price_max": "270"
+    },
+    {
+        "names": "Xiaomi 小米 Giavnvay 運動炫彩吸汗毛巾",
+        "rating": "",
+        "hon_price_min": "120",
+        "hon_price_max": "120"
+    },
+    {
+        "names": "Micro Sun Texline矽膠分隔疊趾墊 (New Design)",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "ROMIX RH-38 速乾 運動 吸水 吸汗 巾 90*30 cm 連收納袋 (細)",
+        "rating": "",
+        "hon_price_min": "39",
+        "hon_price_max": "39"
+    },
+    {
+        "names": "Camelbak Horizon Wine Tumbler Insulated Stainless 不銹鋼酒杯形保溫杯 350ml",
+        "rating": "",
+        "類別:": "保溫杯",
+        "尺寸:": "117 x 90 x 90mm"
+    },
+    {
+        "names": "Sunto Cold Spray 肌肉拉傷冷凍噴霧劑 175ml",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250"
+    },
+    {
+        "names": "Ciele GOCap Iconic Polaris 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "TYR 專業比賽用納米泳鏡 LGEDGN",
+        "rating": "",
+        "hon_price_min": "145",
+        "hon_price_max": "145"
+    },
+    {
+        "names": "TYR Burner EBP Fin 橡膠蛙鞋",
+        "rating": "",
+        "hon_price_min": "275",
+        "hon_price_max": "275"
+    },
+    {
+        "names": "FENIX 可無線操控單車頭燈 (2200 流明) BC30 V2",
+        "rating": "",
+        "hon_price_min": "910",
+        "hon_price_max": "910",
+        "類別:": "單車頭燈"
+    },
+    {
+        "names": "Vorgee Vortech Junior 游泳鏡 - 有色鏡片 (8yrs+)",
+        "rating": "",
+        "hon_price_min": "176",
+        "hon_price_max": "176",
+        "類別:": "其他"
+    },
+    {
+        "names": "Aonijie 奧尼捷 低筒運動五趾襪  (1對) E4110S",
+        "rating": "",
+        "hon_price_min": "78",
+        "hon_price_max": "78",
+        "類別:": "五趾襪",
+        "尺寸:": "S-L"
+    },
+    {
+        "names": "Aonijie 奧尼捷 便攜式運動水壺 420ml SD27",
+        "rating": "",
+        "hon_price_min": "128",
+        "hon_price_max": "128",
+        "類別:": "保溫軟水樽"
+    },
+    {
+        "names": "TYR 男裝專業比賽泳褲 VZNLW6A",
+        "rating": "10",
+        "hon_price_min": "2,950",
+        "hon_price_max": "2,950"
+    },
+    {
+        "names": "Agility 跆拳道護腳脛",
+        "rating": "",
+        "hon_price_min": "250",
+        "hon_price_max": "250",
+        "類別:": "跆拳道用品",
+        "重量:": "1kg"
+    },
+    {
+        "names": "TYR 印花矽膠成人游泳帽 LCSVEN",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95"
+    },
+    {
+        "names": "Havospark Aquajet Dive H2 Recreational Underwater Sea Scooter 水中飛翼",
+        "rating": "",
+        "hon_price_min": "12,400",
+        "hon_price_max": "12,400"
+    },
+    {
+        "names": "Camelbak Peak Fitness Chill Insulated Bottle 保冷運動水樽",
+        "rating": ""
+    },
+    {
+        "names": "Aonijie 奧尼捷 運動頭帶 E4903",
+        "rating": "",
+        "hon_price_min": "98",
+        "hon_price_max": "98",
+        "類別:": "頭帶"
+    },
+    {
+        "names": "FREEZE TECH 氷撃 Cooling Mist 1000ml 衣服冰爽噴霧",
+        "rating": "",
+        "類別:": "衣服噴霧"
+    },
+    {
+        "names": "Aqua Marina Fusion All Around 10'4\" SUP Board",
+        "rating": "",
+        "water_price_min": "3,020",
+        "water_price_max": "3,020",
+        "類別:": "Stand up Paddle Board",
+        "重量:": "8kg"
+    },
+    {
+        "names": "TYR 3.5mm 兒童後拉保暖衣 PPJ19061",
+        "rating": "",
+        "hon_price_min": "395",
+        "hon_price_max": "395"
+    },
+    {
+        "names": "Flexwarm 電熱運動保健護膝",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498",
+        "類別:": "護膝"
+    },
+    {
+        "names": "PIP SPORTS Profits Support for Wrist 日本專業運動護具系列 - 護腕帶 (Free Size均碼 - 單個裝)",
+        "rating": "",
+        "hon_price_min": "159",
+        "hon_price_max": "159",
+        "類別:": "護腕帶"
+    },
+    {
+        "names": "Ciele  GOCap SC Standard Stadium 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Ciele TRKCap SC Standard Red Rocks 運動帽",
+        "rating": "",
+        "類別:": "運動帽"
+    },
+    {
+        "names": "Molokai 比賽競速專用 HERO AIR 號中階直立板 12’6″ x 28″",
+        "rating": "",
+        "hon_price_min": "6,500",
+        "hon_price_max": "6,500"
+    },
+    {
+        "names": "Aonijie 奧尼捷 X型雙重加壓可調節  運動護膝帶 E4096",
+        "rating": "",
+        "hon_price_min": "88",
+        "hon_price_max": "88",
+        "類別:": "護膝帶",
+        "尺寸:": "膝圍: 26-44cm"
+    },
+    {
+        "names": "Ziglite 節亮 男士運動護肘關節保護套 M (TD-RE)",
+        "rating": "",
+        "hon_price_min": "68",
+        "hon_price_max": "68",
+        "類別:": "護肘"
+    }
+]

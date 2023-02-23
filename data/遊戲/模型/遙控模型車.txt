@@ -1,0 +1,2755 @@
+[
+    {
+        "names": "Xiaomi 小米 1:16 智能遙控車 XMYKC01CM",
+        "rating": "10",
+        "hon_price_min": "299",
+        "hon_price_max": "320",
+        "water_price_min": "288",
+        "water_price_max": "288",
+        "比例:": "1/16",
+        "驅動:": "四輪驅動"
+    },
+    {
+        "names": "Sega Toys Homestar Classic 星空投影機",
+        "rating": "10",
+        "hon_price_min": "1,000",
+        "hon_price_max": "1,030"
+    },
+    {
+        "names": "Sega Toys Homestar Earth Theater 星空投影儀",
+        "rating": "",
+        "water_price_min": "6,280",
+        "water_price_max": "6,380"
+    },
+    {
+        "names": "Sega Toys Homestar Matataki 五代 星空燈投影儀",
+        "rating": "",
+        "water_price_min": "1,680",
+        "water_price_max": "1,680"
+    },
+    {
+        "names": "Gantry RTR 1:18遙控四驅越野吉普車 全比例 高速38km/h",
+        "rating": "",
+        "water_price_min": "550",
+        "water_price_max": "550",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:18"
+    },
+    {
+        "names": "Sega Toys Homestar Classic Solar System 太陽系星空投影儀",
+        "rating": "",
+        "water_price_min": "2,380",
+        "water_price_max": "2,380"
+    },
+    {
+        "names": "Dream LED炫彩半透明殼 高速遙控快艇 時速15km/h model V55",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "種類:": "遙控船",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Bandai RX-0 Unicorn Gundam (PG)",
+        "rating": ""
+    },
+    {
+        "names": "Dream Digital 遙控玩具工程車 挖掘推土抓手三合一 Model 202",
+        "rating": "",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Doraemon 多啦A夢「MINI VCD 皮皮」模型",
+        "rating": "",
+        "water_price_min": "698",
+        "water_price_max": "698"
+    },
+    {
+        "names": "Sega Toys Homestar 5代星空投影儀",
+        "rating": "10",
+        "water_price_min": "1,450",
+        "water_price_max": "1,580"
+    },
+    {
+        "names": "Sega Toys Homestar Original 星空投影機",
+        "rating": "10",
+        "hon_price_min": "1,170",
+        "hon_price_max": "1,190"
+    },
+    {
+        "names": "Doraemon 胖妹模型",
+        "rating": "",
+        "water_price_min": "498",
+        "water_price_max": "498"
+    },
+    {
+        "names": "Dream Digital 遙控水上摩托 防水設計 model S9",
+        "rating": "",
+        "water_price_min": "170",
+        "water_price_max": "170",
+        "種類:": "遙控船",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控礦石車模型 9通道 Y50",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控工程車",
+        "燃料:": "鋰電池",
+        "比例:": "1:24"
+    },
+    {
+        "names": "Dream Digital 1:16五菱宏光miniEV遙控車 全比例 高速20km/h",
+        "rating": "",
+        "water_price_min": "350",
+        "water_price_max": "350",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:16"
+    },
+    {
+        "names": "Dream Digital 高級噴射驅動遙控快艇 全比例 時速30km/h 防反艇設計 V9",
+        "rating": "",
+        "water_price_min": "410",
+        "water_price_max": "410",
+        "種類:": "遙控船",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Pearl Garden 1:10遙控漂移車 大容量電池 USB充電 model MT2",
+        "rating": "",
+        "種類:": "遙控高速漂移賽車",
+        "比例:": "1:10",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Dream Digital 1:18遙控賽車 大容量電池 USB充電 model K11",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:18"
+    },
+    {
+        "names": "Dream Digital 2.4G特技扭變車遙控車 特技車 賽車及越野形態 兩面行駛",
+        "rating": "",
+        "water_price_min": "180",
+        "water_price_max": "180",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Dream Digital 高級遙控越野快艇 全比例 時速30km/h 防反艇功能 S2",
+        "rating": "",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "種類:": "遙控越野快艇",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Dream Digital 1:16遙控四驅賽車 全比例 高速38km/h model S21",
+        "rating": "",
+        "water_price_min": "530",
+        "water_price_max": "530",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:16"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控吊車模型 6通道 model Q282",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控工程車",
+        "比例:": "1:24"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控履帶式挖掘機 11通道 model 903",
+        "rating": "",
+        "water_price_min": "270",
+        "water_price_max": "270",
+        "種類:": "遙控工程車",
+        "比例:": "1:24"
+    },
+    {
+        "names": "Dream Digital 高清四軸無人航拍直升機 雙電池 model V10",
+        "rating": "",
+        "water_price_min": "370",
+        "water_price_max": "370"
+    },
+    {
+        "names": "Bandai 【反斗奇兵】迪士尼 Pixar 胡迪塑膠模型套裝",
+        "rating": ""
+    },
+    {
+        "names": "Doraemon 多啦A夢隨意門模型",
+        "rating": "",
+        "water_price_min": "548",
+        "water_price_max": "548"
+    },
+    {
+        "names": "Gerhantech 2.4GHz RC Speedboat With LED Light 遙控快艇帶LED燈 - RCB01",
+        "rating": "",
+        "water_price_min": "701",
+        "water_price_max": "701",
+        "種類:": "遙控船",
+        "驅動:": "4 x AA (可充電)"
+    },
+    {
+        "names": "Pearl Garden RBR 遙控飄移貨車 全比例 高速20km/h",
+        "rating": "",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "種類:": "遙控高速漂移車",
+        "比例:": "1:10",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Dream Digital 1:12遙控越野車 FPV無線攝影功能 配2粒電池 model C05",
+        "rating": "",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:12"
+    },
+    {
+        "names": "Dream Digital 遙控半潛式鯊魚模型 仿生玩具 防水設計",
+        "rating": "",
+        "water_price_min": "170",
+        "water_price_max": "170",
+        "種類:": "遙控玩具",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控消防升降平台車模型 7通道 雲梯可升降 model 921",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:24"
+    },
+    {
+        "names": "Dream Digital 高速遙控快艇 時速25km/h 防反艇防水設計 model S68",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "種類:": "遙控船",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Gerhantech Six-channel Mini Remote Control Submarine 六通道迷你遙控潛艇",
+        "rating": "",
+        "water_price_min": "308",
+        "water_price_max": "308",
+        "類型:": "遙控潛水艇",
+        "全闊:": "68mm"
+    },
+    {
+        "names": "Dream Digital 1:18遙控四驅大腳八越野車 全比例 高速36km/h 配備2枚電池",
+        "rating": "",
+        "water_price_min": "390",
+        "water_price_max": "390",
+        "種類:": "大腳八遙控車",
+        "比例:": "1:18",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Dream Digital 2.4G遙控噴霧暴龍車遙控車",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Dream Digital 1:14遙控山地越野車 大容量電池 USB充電 model D88",
+        "rating": "",
+        "water_price_min": "260",
+        "water_price_max": "260",
+        "種類:": "越野遙控車",
+        "比例:": "1:14",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Dream Digital 2.4Ghz遙控 無人機滑翔機 配2粒電池 model G1",
+        "rating": "",
+        "water_price_min": "290",
+        "water_price_max": "290"
+    },
+    {
+        "names": "Dream Digital 1:12遙控越野坦克模型 履帶驅動 1200mah鋰電池 D843",
+        "rating": "",
+        "water_price_min": "490",
+        "water_price_max": "490",
+        "種類:": "越野遙控車",
+        "比例:": "1:12"
+    },
+    {
+        "names": "Dream Digital 2.4G水陸兩棲遙控車 特技車 雙面翻滾行駛",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "組裝程度:": "到手可玩",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Sega Toys Homestar Flux 4代星空投影儀燈助眠燈",
+        "rating": "10",
+        "water_price_min": "1,780",
+        "water_price_max": "1,780"
+    },
+    {
+        "names": "Dream Digital 1:14 高級遙控消防車模型 全比例 13通道 可噴水",
+        "rating": "",
+        "water_price_min": "800",
+        "water_price_max": "800",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:14"
+    },
+    {
+        "names": "Mikado MIK5272 VBar NEO Alu-case, black, VLink 6.x Express",
+        "rating": "",
+        "hon_price_min": "2,574",
+        "hon_price_max": "2,574",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "Dream Digital 四軸飛行攝影戰鬥機 2.4Ghz遙控 雙電池 model V25",
+        "rating": "",
+        "water_price_min": "370",
+        "water_price_max": "370"
+    },
+    {
+        "names": "Dream Digital 1:18遙控四驅賽車 全比例 高速36km/h model Y81",
+        "rating": "",
+        "water_price_min": "520",
+        "water_price_max": "520",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Pearl Garden 1:12遙控越野車 四輪驅動 無線攝影功能 model LH9",
+        "rating": "",
+        "water_price_min": "410",
+        "water_price_max": "410",
+        "種類:": "越野遙控車",
+        "比例:": "1:12",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "DX 1:18 林寶堅尼遙控車 - 綠色",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "比例:": "1:18"
+    },
+    {
+        "names": "Dream Digital 2.4Ghz遙控 無人滑翔客機 配2粒電池 model G2",
+        "rating": "",
+        "water_price_min": "290",
+        "water_price_max": "290"
+    },
+    {
+        "names": "Mikado MIK5307 VBar NEO Alu-case, silver, VLink 6.x Express",
+        "rating": "",
+        "hon_price_min": "2,574",
+        "hon_price_max": "2,574",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "WPL 1比10遙控輕型貨車 D12",
+        "rating": "10",
+        "種類:": "遙控車",
+        "比例:": "1:10",
+        "驅動:": "後驅"
+    },
+    {
+        "names": "Bandai RG 1/144 Force Impulse Gundam Z.A.F.T Mobile Suit ZGMF-X56s/a 強攻型 衝擊高達",
+        "rating": "",
+        "系列:": "Gundam Seed Destiny",
+        "比例:": "1/144"
+    },
+    {
+        "names": "Dream Digital 2.4G霹靂舞遙控車 特技車 雙面翻滾行駛",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Dream Digital 1:10 遙控飄移麵包車 高速20km/h",
+        "rating": "",
+        "water_price_min": "300",
+        "water_price_max": "300",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:10"
+    },
+    {
+        "names": "Sinovan High Speed Remote Control Car",
+        "rating": "",
+        "water_price_min": "335",
+        "water_price_max": "335"
+    },
+    {
+        "names": "Pearl Garden 1:24 遙控泥頭車模型 6通道",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控工程車",
+        "比例:": "1:24",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "DX 1:24 Range Rover Evoque遙控車",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "比例:": "1:24"
+    },
+    {
+        "names": "DX 1:24 Range Rover Evoque遙控車 - 紅色",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "比例:": "1:24"
+    },
+    {
+        "names": "BanDai XXXG-01W Wing Gundam EW Ver.",
+        "rating": ""
+    },
+    {
+        "names": "Mcbazel A3尺寸雙面切割墊板桌墊手工墊",
+        "rating": "",
+        "hon_price_min": "45",
+        "hon_price_max": "45",
+        "類型:": "切割墊"
+    },
+    {
+        "names": "Bandai Imperialdramon Figure-rise 標準系列 增幅化 帝皇龍甲獸",
+        "rating": "",
+        "產地:": "日本"
+    },
+    {
+        "names": "Sinovan 2.4G 4CH Drift Deformation Buggy Roll Car 強力反斗遙控車",
+        "rating": "",
+        "water_price_min": "339",
+        "water_price_max": "339"
+    },
+    {
+        "names": "Dream Digital 遙控高速水上摩托 防水設計 model M13",
+        "rating": "",
+        "種類:": "遙控船",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "建元 1:32 頭文字D Toyota AE86 模型車, 日本豐田AE-86 (成品) 32017",
+        "rating": "",
+        "比例:": "1:32"
+    },
+    {
+        "names": "Sega Toys Homestar Original 三代 星空投影儀燈",
+        "rating": "",
+        "water_price_min": "1,480",
+        "water_price_max": "1,480"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控泥頭車模型 6通道 model Q26",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控工程車",
+        "比例:": "1:24"
+    },
+    {
+        "names": "Align 亞拓 T-REX 550L Dominator",
+        "rating": "",
+        "water_price_min": "7,850",
+        "water_price_max": "7,850",
+        "類型:": "直昇機",
+        "全長:": "1070mm"
+    },
+    {
+        "names": "Bandai RX-0 Full Armor Unicorn Gundam Ver.Ka 全裝甲型獨角獸高達",
+        "rating": "6.0",
+        "系列:": "Gundam UC",
+        "比例:": "1/100",
+        "發售日期:": "2011/12"
+    },
+    {
+        "names": "Dream Digital 遙控高速快艇 附鯊魚外殼 防水設計",
+        "rating": "",
+        "water_price_min": "230",
+        "water_price_max": "230",
+        "種類:": "遙控高速賽艇",
+        "燃料:": "鋰電池",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Mikado MIK4949 VBar NEO VLink 6.1 Express",
+        "rating": "",
+        "hon_price_min": "2,184",
+        "hon_price_max": "2,184",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "Dream Digital 1:14遙控越野車 四輪驅動 無線攝影功能 model K39",
+        "rating": "",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:14"
+    },
+    {
+        "names": "Dream Digital 高級1:18無刷遙控四驅越野車 全比例 高速52km/h model CH01",
+        "rating": "",
+        "water_price_min": "760",
+        "water_price_max": "760",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:18"
+    },
+    {
+        "names": "Skytech H101",
+        "rating": "",
+        "hon_price_min": "620",
+        "hon_price_max": "620",
+        "種類:": "遙控快艇"
+    },
+    {
+        "names": "Align 亞拓 T-REX 600E PRO DFC",
+        "rating": "",
+        "water_price_min": "7,850",
+        "water_price_max": "7,850",
+        "類型:": "直昇機",
+        "全長:": "1160mm"
+    },
+    {
+        "names": "Dream Digital 四軸飛行戰鬥機 2.4Ghz遙控 雙電池 model V17",
+        "rating": "",
+        "water_price_min": "310",
+        "water_price_max": "310"
+    },
+    {
+        "names": "UDIRC 1:16 無刷版 遙控跑車 4輪驅動 可調3段速 有陀螺儀及天使車頭燈 40km/h UDI1603PRO",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:16",
+        "驅動:": "3900KV 無刷馬達"
+    },
+    {
+        "names": "Mikado MIK5001 Vbar Neo VLink 6.1 Express, White",
+        "rating": "",
+        "hon_price_min": "2,184",
+        "hon_price_max": "2,184",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "BanDai Wing Gundam Proto Zero EW",
+        "rating": ""
+    },
+    {
+        "names": "Bandai Metal Build 新世紀福音戰士 EVA-01初號機",
+        "rating": "",
+        "產地:": "日本"
+    },
+    {
+        "names": "Dream Digital 1:10 遙控電單車 特技漂移車 大容量鋰電池",
+        "rating": "",
+        "種類:": "遙控高速漂移賽車",
+        "比例:": "1:10"
+    },
+    {
+        "names": "Mikado MIK5309 VBar NEO VLink 6.x Express, red",
+        "rating": "",
+        "hon_price_min": "2,184",
+        "hon_price_max": "2,184",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "WL Toys 1:28 遙控帶燈短卡車 284131",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:28",
+        "驅動:": "130有刷馬達"
+    },
+    {
+        "names": "Dream Digital 1:14遙控越野車 大容量電池 USB充電 model D886",
+        "rating": "",
+        "water_price_min": "210",
+        "water_price_max": "210",
+        "種類:": "遙控高速漂移賽車",
+        "比例:": "1:14",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Dream Digital 2.4G遙控怪獸車大腳八遙控車",
+        "rating": "",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "BanDai Gundam Astray Blue Frame D",
+        "rating": ""
+    },
+    {
+        "names": "Bandai Cyclone Joker MG Figure-rise 匠人系列 幪面超人 W 旋風皇牌",
+        "rating": "",
+        "產地:": "日本",
+        "級數:": "MG"
+    },
+    {
+        "names": "Dream Digital 1:14遙控漂移四驅賽車 大容量電池 USB充電 model GT3",
+        "rating": "",
+        "water_price_min": "280",
+        "water_price_max": "280",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:14"
+    },
+    {
+        "names": "Dream Digital 遙控漂移車 炫目燈光噴霧效果 model 1203",
+        "rating": "",
+        "種類:": "遙控特技漂移噴霧車",
+        "燃料:": "鋰電池",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Bandai Neo Zeong (HGUC)",
+        "rating": ""
+    },
+    {
+        "names": "野蠻娃娃 4D沉浸式全比例遙控超級玩具跑車 (智慧黃)",
+        "rating": "",
+        "hon_price_min": "699",
+        "hon_price_max": "699",
+        "種類:": "遙控車"
+    },
+    {
+        "names": "Kyosho Egg 飛天多啦A夢遙控直升機",
+        "rating": "",
+        "water_price_min": "420",
+        "water_price_max": "420"
+    },
+    {
+        "names": "Dream Digital 1:12遙控大腳八越野車 全比例 高速40km/h model 952",
+        "rating": "",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:12"
+    },
+    {
+        "names": "UDIRC 2.4Ghz Arrow 遙控無刷快艇 50km/h UDI005",
+        "rating": "",
+        "種類:": "遙控船",
+        "比例:": "69cm",
+        "驅動:": "3554A 外轉 無刷馬達"
+    },
+    {
+        "names": "Bandai Aile Strike Gundam RG 1/144 空戰型 突擊高達",
+        "rating": "",
+        "系列:": "機動戰士高達 SEED",
+        "比例:": "1/144"
+    },
+    {
+        "names": "DX 1:24 豐田 遙控車 - 白色",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "比例:": "1:24"
+    },
+    {
+        "names": "BanDai M’QUVE’S GOUF",
+        "rating": ""
+    },
+    {
+        "names": "Sinovan Pocket Size 2.4G 4CH Stunt Drift Deformation Buggy Car 袋裝反斗遙控車",
+        "rating": "",
+        "water_price_min": "216",
+        "water_price_max": "216"
+    },
+    {
+        "names": "DX 1:18 林寶堅尼遙控車 - 啞黑色",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "WL Toys 1:12 無刷遙控越野車 124017",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:12",
+        "驅動:": "2645 4000KV 無刷馬達"
+    },
+    {
+        "names": "Gerhantech Children Remote Control Rechargeable Racing Boat 兒童遙控充電賽艇",
+        "rating": ""
+    },
+    {
+        "names": "Royal Toys 1:16 SUBARU BRZ四驅飄移遙控車 20121GS",
+        "rating": "",
+        "hon_price_min": "248",
+        "hon_price_max": "248",
+        "比例:": "1:16",
+        "驅動:": "四輪驅動"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控履帶式挖掘機 16通道 506A",
+        "rating": "",
+        "種類:": "遙控工程車",
+        "比例:": "1:24"
+    },
+    {
+        "names": "WL Toys WLToys 1:12 遙控越野沙漠車 124018",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:12",
+        "驅動:": "550有刷馬達"
+    },
+    {
+        "names": "WL Toys 1:28 遙控漂移車 (30km/h) K969",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:28",
+        "驅動:": "130有刷馬達"
+    },
+    {
+        "names": "SMRC High Speed M5 Motorboat 2.4G 遙控水上電單車",
+        "rating": "",
+        "hon_price_min": "298",
+        "hon_price_max": "298"
+    },
+    {
+        "names": "Dream Digital 1:20遙控迷你農夫 18km/h高速 model D829",
+        "rating": "",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Doraemon 多啦A夢公仔",
+        "rating": "",
+        "water_price_min": "698",
+        "water_price_max": "698"
+    },
+    {
+        "names": "Bandai Kshatriya Repaired (HGUC)",
+        "rating": ""
+    },
+    {
+        "names": "BanDai MSZ-006-3B ZETA GUNDAM 3B TYPE GRAY ZETA",
+        "rating": ""
+    },
+    {
+        "names": "WL Toys 1:12 遙控越野攀爬車 (50km/h) 12428-B",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:12",
+        "驅動:": "540有刷馬達"
+    },
+    {
+        "names": "JC Wing JAL Tokyo Olympic Torch Relay B787-8 JA837J Hope Lights Our Way (1:400)",
+        "rating": "",
+        "hon_price_min": "420",
+        "hon_price_max": "420",
+        "產地:": "China",
+        "級數:": "1",
+        "膠水:": "N.A"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控消防水炮車模型 7通道 可噴水 model 821",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控消防車玩具",
+        "燃料:": "鋰電池",
+        "比例:": "1:24"
+    },
+    {
+        "names": "Dream Digital 1:28 遙控履帶式挖掘機 11通道 model Y34",
+        "rating": "",
+        "water_price_min": "250",
+        "water_price_max": "250",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:28"
+    },
+    {
+        "names": "Dream Digital 1:16遙控霸氣農夫車 高速四輪驅動 大容量電池 USB充電",
+        "rating": "",
+        "water_price_min": "370",
+        "water_price_max": "370",
+        "種類:": "越野遙控車",
+        "比例:": "1:16",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控水泥車模型 6通道 model Q281",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控工程車",
+        "比例:": "1:24"
+    },
+    {
+        "names": "UDIRC 1:16 有刷版 競速 / 漂移遙控車 4輪驅動 可調3段速 有陀螺儀及天使車頭燈 40km/h UDI1601",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:16",
+        "驅動:": "380級有刷馬達"
+    },
+    {
+        "names": "Dream Digital 高級遙控快艇 時速25km/h 防反艇設計 防水設計 model iOcean 1",
+        "rating": "",
+        "種類:": "遙控船",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Dream Digital 1:18炫彩遙控四驅越野車 全比例 高速36km/h model CH21",
+        "rating": "",
+        "water_price_min": "430",
+        "water_price_max": "430",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:18"
+    },
+    {
+        "names": "UDIRC 1:16 無刷版 遙控拉力跑車 4輪驅動 可調3段速 有陀螺儀及天使車頭燈 40km/h UDI1604PRO",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:16",
+        "驅動:": "3900KV 無刷馬達"
+    },
+    {
+        "names": "Mikado MIK5207 VBar NEO Alu-case, blue, VLink 6.x Express",
+        "rating": "",
+        "hon_price_min": "2,574",
+        "hon_price_max": "2,574",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "UDIRC 1:16 無刷版 競速 / 漂移遙控車 4輪驅動 可調3段速 有陀螺儀及天使車頭燈 55km/h UDI1601PRO",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:16",
+        "驅動:": "3900KV 無刷馬達"
+    },
+    {
+        "names": "Mikado MIK5308 VBar NEO VLink 6.x Express, black",
+        "rating": "",
+        "hon_price_min": "2,184",
+        "hon_price_max": "2,184",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "Sinovan 4WD Buggy High Speed RC Racing Remote Control Car高速四驅遙控車",
+        "rating": "",
+        "water_price_min": "716",
+        "water_price_max": "716"
+    },
+    {
+        "names": "MN Model 莽牛模型 1:12 遙控攀爬車 巴博斯 野外版 MN-86S G500",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:12",
+        "驅動:": "390有刷馬達 (20T)"
+    },
+    {
+        "names": "Bandai Build Burning Gundam 爆熱鋼彈",
+        "rating": "",
+        "系列:": "Gundam Build Fighters Try 高達創戰者 Try",
+        "比例:": "其他",
+        "發售日期:": "2014/12"
+    },
+    {
+        "names": "DX 1:18 林寶堅尼遙控車 - 白色",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "比例:": "1:18"
+    },
+    {
+        "names": "BanDai Gundam Astray Blue Frame Second Revise",
+        "rating": ""
+    },
+    {
+        "names": "Bandai Masked Rider Den-O Figure-rise 標準系列 幪面超人電王 劍及月台模式",
+        "rating": "",
+        "產地:": "日本"
+    },
+    {
+        "names": "Ujie Toys 1:16 High Speed Car 亮燈遙控跑車",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "比例:": "1:16"
+    },
+    {
+        "names": "Dream Digital 2.4G特技海綿車胎遙控特技車",
+        "rating": "",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "Mikado MIK5131 VBar NEO VLink 6.x Express, Neon-yellow",
+        "rating": "",
+        "hon_price_min": "2,184",
+        "hon_price_max": "2,184",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "BanDai Gundam Astray Red Frame Kai",
+        "rating": ""
+    },
+    {
+        "names": "HG R/C 1:10 小山豬 4輪轉向 攀爬越野車 HG-P409",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:10",
+        "驅動:": "540有刷馬達"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控消防車模型 7通道 可噴水 model Q28",
+        "rating": "",
+        "water_price_min": "190",
+        "water_price_max": "190",
+        "種類:": "遙控工程車",
+        "比例:": "1:24"
+    },
+    {
+        "names": "BanDai GUNDAM ASTRAY BLUE FRAME PG",
+        "rating": ""
+    },
+    {
+        "names": "Dream Digital 1:14遙控漂移賽車 炫目燈光噴霧效果 model L66",
+        "rating": "",
+        "種類:": "遙控車",
+        "燃料:": "鋰電池",
+        "比例:": "1:14"
+    },
+    {
+        "names": "BanDai RX-78-2 Gundam Ver.3.0",
+        "rating": ""
+    },
+    {
+        "names": "Mikado MIK5208 VBar NEO Alu-case, grey, VLink 6.x Express",
+        "rating": "",
+        "hon_price_min": "2,574",
+        "hon_price_max": "2,574",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "Modelshop CIRW17006C",
+        "rating": "",
+        "產地:": "台灣"
+    },
+    {
+        "names": "Modelshop CIRW17004C",
+        "rating": "",
+        "產地:": "台灣"
+    },
+    {
+        "names": "Modelshop Scooter Safari KEIW18001C",
+        "rating": "",
+        "hon_price_min": "498",
+        "hon_price_max": "498"
+    },
+    {
+        "names": "Feilun 飛輪 High Speed Racing Boat FT011",
+        "rating": "",
+        "種類:": "遙控船",
+        "比例:": "72cm",
+        "驅動:": "2850 外轉 無刷馬達"
+    },
+    {
+        "names": "Bandai RX-O Unicorn Gundam MG 1/100 獨角獸高達 銀幕造型盒繪",
+        "rating": "",
+        "系列:": "機動戰士高達 UC",
+        "比例:": "1/100"
+    },
+    {
+        "names": "WL Toys 1:14 遙控大腳車 50km/h 144002",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:14",
+        "驅動:": "550有刷馬達"
+    },
+    {
+        "names": "Doraemon 多啦A夢 大雄結婚了 (Stand By me 2)",
+        "rating": "",
+        "water_price_min": "438",
+        "water_price_max": "438"
+    },
+    {
+        "names": "GAUI G050114 X5 V2 Basic Kit(Belt Version)",
+        "rating": "",
+        "類型:": "直升機",
+        "全長:": "1000mm"
+    },
+    {
+        "names": "DX 1:18 林寶堅尼遙控車 - 橙色",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99",
+        "比例:": "1:18"
+    },
+    {
+        "names": "Dream Digital 1:12遙控硬核軍事卡車模型 六輪驅動 無線攝影功能",
+        "rating": "",
+        "種類:": "遙控軍事卡車模型",
+        "比例:": "1:12",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Propel Star Wars Battling Quadcopter T-65 X Wing Star Fighter SW-1002",
+        "rating": "",
+        "water_price_min": "500",
+        "water_price_max": "599"
+    },
+    {
+        "names": "WL Toys  F959 遙控滑翔機",
+        "rating": ""
+    },
+    {
+        "names": "UDIRC 1:16 無刷版 競速 / 漂移遙控車 4輪驅動 可調3段速 有陀螺儀及天使車頭燈 55km/h UDI1602PRO",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:16",
+        "驅動:": "3900KV 無刷馬達"
+    },
+    {
+        "names": "Modelshop CIRW17001C",
+        "rating": "",
+        "產地:": "台灣"
+    },
+    {
+        "names": "Modelshop CIRW17005C",
+        "rating": "",
+        "產地:": "台灣"
+    },
+    {
+        "names": "TAMIYA Vought F4U-1A CORSAIR",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "141mm"
+    },
+    {
+        "names": "TAMIYA B1 bis German Tank",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "192mm"
+    },
+    {
+        "names": "WL Toys 1:28 遙控拉力車 (30km/h) K989",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:28",
+        "驅動:": "130有刷馬達"
+    },
+    {
+        "names": "Dream Digital 智能臘腸機械狗 撫摸互動 智能跟踪 多樣玩法",
+        "rating": "",
+        "種類:": "遙控玩具",
+        "燃料:": "鋰電池"
+    },
+    {
+        "names": "TAMIYA SPRAY-WORK HG TRIGGER-TYPE AIRBRUSH （w/INTEGRATED CUP）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "噴筆類"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DDG KONGO 海上自衛隊 護衛艦 こんごう",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "Excel 5\" Curved Nose",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "剪類"
+    },
+    {
+        "names": "ZVEZDA Submarine K-19",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "320mm"
+    },
+    {
+        "names": "TAMIYA Israeli Tank M1 SUPER SHERMAN",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "美國",
+        "全長:": "210mm"
+    },
+    {
+        "names": "Sega Toys HomeStar Aroma 芳療精油星空投影機",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA AIRBRUSH MANIFOLD（3 PORTS）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "噴筆類"
+    },
+    {
+        "names": "TAMIYA NAGARA 軽巡洋艦 長良",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "200mm"
+    },
+    {
+        "names": "TAMIYA CA CEMENT (SINGLE-USE TYPE)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "膠水類"
+    },
+    {
+        "names": "Gerhantech Mini Intelligent Car with Light and Music 帶燈光音樂的迷你智能車",
+        "rating": ""
+    },
+    {
+        "names": "VBC Racing Firebolt DM2 1/10 2WD Offroad Buggy Kit",
+        "rating": "",
+        "種類:": "越野",
+        "比例:": "1/10",
+        "驅動:": "後輪",
+        "用途:": "泥路"
+    },
+    {
+        "names": "TAMIYA Drill Bit (1.2mm)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鑽類"
+    },
+    {
+        "names": "MN Model 莽牛模型 1:12 遙控攀爬車 聯動指揮燈版 MN-99AS D90",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:12",
+        "驅動:": "260有刷馬達"
+    },
+    {
+        "names": "Bandai RX-78 GP01Fb Gundam GP01 Full Vernian (RG)",
+        "rating": ""
+    },
+    {
+        "names": "Mikado VBar Control Touch, Midnight Black MIK5276",
+        "rating": "",
+        "產地:": "Germany",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "Modelshop Flying Finkle Family KEIW13007C",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser KINUGASA 衣笠",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA セーフティゴーグル （保護めがね）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "護具類"
+    },
+    {
+        "names": "Mikado MIK5305 VBar NEO Alu-case, red, VLink 6.x Express",
+        "rating": "",
+        "hon_price_min": "2,574",
+        "hon_price_max": "2,574",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "Bandai Metalgarurumon Figure-rise 標準系列 增幅化 鋼鐵加魯魯獸",
+        "rating": "",
+        "產地:": "日本"
+    },
+    {
+        "names": "TAMIYA HG STRAIGHT TWEEZERS（ROUND TIP）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "BanDai GUNDAM AGE-2 SPECIAL FORCES VER.",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA British Battleship RODNEY",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "308mm"
+    },
+    {
+        "names": "BanDai GX-9900 Gundam X",
+        "rating": ""
+    },
+    {
+        "names": "HELLER BATTLESHIP RICHELIEU",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "英國",
+        "全長:": "620mm"
+    },
+    {
+        "names": "Bandai Catsith 卡達斯",
+        "rating": "",
+        "系列:": "高達 Reconguista in G",
+        "比例:": "1/144",
+        "發售日期:": "2015/04"
+    },
+    {
+        "names": "TAMIYA タミヤ研磨スポンジシート 320",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "沙紙"
+    },
+    {
+        "names": "Bandai AMS-119 Geara Doga 基拉．德卡",
+        "rating": "",
+        "系列:": "Gundam Char's Counter Attack 馬沙之反擊",
+        "比例:": "1/100",
+        "發售日期:": "2013/07"
+    },
+    {
+        "names": "TAMIYA CRAFT TWEEZERS",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "HELLER HMS ILLUSTRIOUS",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "英國",
+        "全長:": "570mm",
+        "全闊:": "84mm"
+    },
+    {
+        "names": "Excel Large Type Rotary Cutter, 2 Blades",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "刀類"
+    },
+    {
+        "names": "TAMIYA U.S. Navy CA-35 INDIANAPOLIS",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "美國",
+        "全長:": "266mm",
+        "全闊:": "29mm"
+    },
+    {
+        "names": "GAUI G070113C GAUI X7 FZ Basic Kit Combo Vbar Neo",
+        "rating": "",
+        "類型:": "直升機",
+        "全長:": "1340mm"
+    },
+    {
+        "names": "TAMIYA German Panzerkampfwagen Ⅱ Ausf.C (Sd.Kfz.121) (Polish Campaign)",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "138mm"
+    },
+    {
+        "names": "ITALERI SCHNELLBOOT S - 100 - PRM EDITION",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "德國",
+        "全長:": "999mm"
+    },
+    {
+        "names": "Modelshop Briantasaurus (Rapin Ride) DINO15001C",
+        "rating": ""
+    },
+    {
+        "names": "BanDai LM312V04 V Gundam Ver.Ka",
+        "rating": ""
+    },
+    {
+        "names": "Bandai GN-001 Gundam Exia (RG)",
+        "rating": ""
+    },
+    {
+        "names": "Mikado MIK5306 VBar NEO Alu-case, green, VLink 6.x Express",
+        "rating": "",
+        "hon_price_min": "2,574",
+        "hon_price_max": "2,574",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "BanDai MS-09R RICK DOM (DOZLE ZABI USE)",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA 面相筆・小",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "筆類"
+    },
+    {
+        "names": "BanDai MS-06J Zaku II Ver.2.0 White Ogre",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA ラジオペンチ",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "Walkera Goggle 3 FPV 眼鏡",
+        "rating": "",
+        "產地:": "中國",
+        "類型:": "FPV航拍眼鏡"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw IV ausf.F1",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA F6F-3 HELLCAT",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "141mm"
+    },
+    {
+        "names": "TAMIYA JAGDPANZER IV /70（V ）LANG",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "244mm"
+    },
+    {
+        "names": "Bandai Hi-Nu Gundam Ver.Ka (MG)",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA CA Cement タミヤ瞬間接着剤（ゼリータイプ）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "膠水類"
+    },
+    {
+        "names": "TAMIYA MITSUBISHI A6M5 ZERO FIGHTER (ZEKE)",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "日本",
+        "全長:": "126mm"
+    },
+    {
+        "names": "HASEGAWA 九州 J7W1 十八試 局地戦闘機 震電",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "產地:": "日本",
+        "戰機國藉:": "日本"
+    },
+    {
+        "names": "Bandai Gundam Fenice Rinascita 重生鳳凰高達",
+        "rating": "",
+        "系列:": "Gundam Build Fighters 高達創戰者",
+        "比例:": "1/100",
+        "發售日期:": "2015/06"
+    },
+    {
+        "names": "WL Toys 遙控無刷雙體船 45km/h WL915",
+        "rating": "",
+        "種類:": "遙控船",
+        "比例:": "44cm",
+        "驅動:": "2815 外轉 無刷馬達"
+    },
+    {
+        "names": "TAMIYA DD-797 CUSHING",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "美國",
+        "全長:": "164mm",
+        "全闊:": "17.5mm"
+    },
+    {
+        "names": "WL Toys 1:10 遙控越野車 104001",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:10",
+        "驅動:": "550有刷馬達"
+    },
+    {
+        "names": "TAMIYA LEOPARD 2 A6",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "314mm"
+    },
+    {
+        "names": "TAMIYA U.S. 6X6 Cargo Truck M561 GAMA GOAT",
+        "rating": "",
+        "類型:": "運輸車",
+        "戰車國藉:": "美國",
+        "全長:": "170mm"
+    },
+    {
+        "names": "BanDai TALLGEESE III",
+        "rating": ""
+    },
+    {
+        "names": "Mikado VBar Control Touch, Green Transparent MIK5225",
+        "rating": "",
+        "產地:": "Germany",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "BanDai GUNDAM ASTRAY NOIR",
+        "rating": ""
+    },
+    {
+        "names": "Bandai Unicorn Gundam 02 Banshee Norn (Destroy Mode) (HGUC)",
+        "rating": ""
+    },
+    {
+        "names": "BanDai RGM-89R JEGAN A TYPE(F91Ver.)",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA F-16CJ (Block50) Fighting Falcon ファイティング ファルコン",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "213mm"
+    },
+    {
+        "names": "TAMIYA French Medium Tank SOMUA S35",
+        "rating": "",
+        "類型:": "中戰車",
+        "戰車國藉:": "法國",
+        "全長:": "153mm"
+    },
+    {
+        "names": "Dream Digital 1:16遙控硬核軍事運輸車模型 六輪驅動 model MN77",
+        "rating": "",
+        "種類:": "遙控軍事卡車模型",
+        "比例:": "1:16",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "TAMIYA HG ANGLED TWEEZERS (ROUND TIP)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "HASEGAWA KASUMI 霞",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA British Battlecruiser HOOD & E CLASS DESTROYER",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "英國",
+        "全長:": "375mm"
+    },
+    {
+        "names": "TAMIYA Royal Australian Navy Destroyer VAMPIRE",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "澳洲",
+        "全長:": "136mm"
+    },
+    {
+        "names": "TAMIYA U.S. Navy Battleship BB-62 NEW JERSEY",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "美國",
+        "全長:": "386.5mm"
+    },
+    {
+        "names": "HELLER SCHARNHORST",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "德國",
+        "全長:": "565mm",
+        "全闊:": "75mm"
+    },
+    {
+        "names": "TAMIYA U.S. Aircraft Carrier HORNET",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "350mm"
+    },
+    {
+        "names": "ZVEZDA Pjotr Velikij",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "380mm"
+    },
+    {
+        "names": "TAMIYA North American P-51D MUSTANG 8th A.F. ACES",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "136mm"
+    },
+    {
+        "names": "BanDai Unicorn Gundam HD Color +MS CAGE",
+        "rating": ""
+    },
+    {
+        "names": "BanDai G Armor Real Type Color",
+        "rating": ""
+    },
+    {
+        "names": "BanDai MS-06F Zaku II 30th Anniversary Model Extra Finish Ver. PG",
+        "rating": ""
+    },
+    {
+        "names": "Excel K5 Knife w/ Safety Cap",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "刀類"
+    },
+    {
+        "names": "Bandai G-Lucifer (HG)",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA U.S. Aircraft Carrier YORKTOWN",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "350mm"
+    },
+    {
+        "names": "TAMIYA British Light Utility Car 10HP",
+        "rating": "",
+        "類型:": "軍用車",
+        "戰車國藉:": "美國",
+        "全長:": "112mm"
+    },
+    {
+        "names": "TAMIYA SPRAY-WORK HG AIRBRUSH III",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "噴筆類"
+    },
+    {
+        "names": "TAMIYA HARD COATED FILE PRO（FLAT 6mm width）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "銼類"
+    },
+    {
+        "names": "HELLER DUQUESNE",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "法國",
+        "全長:": "395mm",
+        "全闊:": "39mm"
+    },
+    {
+        "names": "BanDai Gaeon",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier ZUIHO 航空母艦 瑞鳳",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "BanDai RG 1/144 GN-0000+GNR-010 OO RAISER",
+        "rating": "10"
+    },
+    {
+        "names": "HASEGAWA 中島 キ44-II 二式単座戦闘機 鍾馗",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "產地:": "日本",
+        "戰機國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA 高級面相筆・中",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "筆類"
+    },
+    {
+        "names": "Bandai Concept-X6-1-2 Turn X",
+        "rating": "",
+        "系列:": "Turn A Gundam ∀高達",
+        "比例:": "1/100",
+        "發售日期:": "2014/06"
+    },
+    {
+        "names": "Losi Night Crawler 2.0 RTR: 1/10 4WD Rock Crawler",
+        "rating": "",
+        "種類:": "越野",
+        "比例:": "1/10",
+        "驅動:": "四輪",
+        "用途:": "泥路 / 石路"
+    },
+    {
+        "names": "TAMIYA SPRAY-WORK HG AIR COMPRESSOR REVO II",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "噴筆類"
+    },
+    {
+        "names": "HELLER DAPHNE",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "法國",
+        "全長:": "144mm",
+        "全闊:": "17mm"
+    },
+    {
+        "names": "FMS 1:18 TOYOTA FJ Cruiser 遙控攀爬車",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:18",
+        "驅動:": "050 55T 有刷馬達"
+    },
+    {
+        "names": "DX 1:14 Mercedes Benz SLS 遙控車 - 紅色",
+        "rating": "",
+        "hon_price_min": "170",
+        "hon_price_max": "170"
+    },
+    {
+        "names": "HASEGAWA F35A LIGHTNING II",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "217.5mm"
+    },
+    {
+        "names": "MHM-Modellbau R2-BUF-350-RTFV4 R²BUFFER V4, 3x50F, 0,5 Mm² JR Kabel, Für Helis 600-800",
+        "rating": "",
+        "產地:": "Germany",
+        "類型:": "電容"
+    },
+    {
+        "names": "TAMIYA DRILL BIT (1.0mm)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鑽類"
+    },
+    {
+        "names": "HASEGAWA 中島 B5N2 九七式三号艦上攻撃機 “沖縄航空作戦”",
+        "rating": "",
+        "類型:": "魚雷機",
+        "戰機國藉:": "日本",
+        "全長:": "215.5mm"
+    },
+    {
+        "names": "WL Toys 1:12 遙控大腳車 104009",
+        "rating": "",
+        "組裝程度:": "RTR",
+        "比例:": "1:12",
+        "驅動:": "550有刷馬達"
+    },
+    {
+        "names": "Bandai Gundam Fenice Rinascita (HGBF)",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier YORKTOWN II",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "Doraemon 胖虎模型",
+        "rating": "",
+        "water_price_min": "698",
+        "water_price_max": "698"
+    },
+    {
+        "names": "HELLER JEAN BART",
+        "rating": "",
+        "類型:": "戰艦",
+        "軍艦國藉:": "法國",
+        "全長:": "620mm",
+        "全闊:": "83mm"
+    },
+    {
+        "names": "WL Toys  K949 四驅 攀岩 遙控越野賽車",
+        "rating": "9.3"
+    },
+    {
+        "names": "BanDai GNT-0000 00 QAN[T]",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA Cement タミヤセメント(角)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "膠水類"
+    },
+    {
+        "names": "TAMIYA CEMENT（for ABS）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "膠水類"
+    },
+    {
+        "names": "TAMIYA KUMANO 軽巡洋艦 熊野",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "286.5",
+        "全長:": "35.3mm"
+    },
+    {
+        "names": "TAMIYA タミヤ研磨スポンジシート 2000",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "沙紙"
+    },
+    {
+        "names": "TAMIYA DECAL ADHESIVE",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "膠水類"
+    },
+    {
+        "names": "Excel 4 1/2\" Wire Cutter",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "BanDai MS-06F ZAKU II (DOZLE ZABI USE)",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA Heavy Cruiser FURUTAKA 古鷹",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA Italian Self-Propelled Gun SEMOVENTE M40",
+        "rating": "",
+        "類型:": "自走砲戰車",
+        "戰車國藉:": "意大利",
+        "全長:": "143mm"
+    },
+    {
+        "names": "Modelshop 夢想飛行家 Flying Dreamer KEIW13006C",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA HATSUYUKI 駆逐艦 初雪",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "Dream Digital 1:24 遙控泥頭車 6通道 合金車斗 model H1540",
+        "rating": "",
+        "種類:": "遙控工程車",
+        "比例:": "1:24"
+    },
+    {
+        "names": "Excel Small Rotary Cutter, 1 Blade - 20mm",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "刀類"
+    },
+    {
+        "names": "TAMIYA HG REVERSE ACTION STRAIGHT TWEEZERS 103",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "TAMIYA 面相筆No.0",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "筆類"
+    },
+    {
+        "names": "BanDai RX-78-3 G-3 GUNDAM",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA F-35A LIGHTNING II",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "217mm"
+    },
+    {
+        "names": "HASEGAWA F-14A TOMCAT (Low Visibility)",
+        "rating": "",
+        "類型:": "轟炸機",
+        "產地:": "日本",
+        "戰機國藉:": "美國"
+    },
+    {
+        "names": "DX 1:24 保時捷 918遙控車 - Silver",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "比例:": "1:24"
+    },
+    {
+        "names": "TAMIYA 川西 局地戦闘機 紫電11型甲",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "日本",
+        "全長:": "120mm"
+    },
+    {
+        "names": "TAMIYA STURMGESCHÜTZ III Ausf.G \"Finnish Army\"",
+        "rating": "",
+        "類型:": "突擊砲車",
+        "戰車國藉:": "芬蘭",
+        "全長:": "189mm"
+    },
+    {
+        "names": "BanDai MSN-04 Sazabi Ver.Ka",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw V PANTHER ausf.F",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "BanDai Gundam AGE-1 Spallow",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DDG KIRISHIMA 海上自衛隊 護衛艦 きりしま",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "HASEGAWA Battle Ship FIRISHIMA 高速戦艦 霧島",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "Bandai Char Aznable`s Custom Zaku II 馬沙專用渣古II",
+        "rating": "10",
+        "系列:": "機動戦士高達THE ORIGIN",
+        "比例:": "1/144",
+        "發售日期:": "2015/04"
+    },
+    {
+        "names": "TAMIYA Putty (White) タミヤパテ （ホワイト）",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "畢地類"
+    },
+    {
+        "names": "Bandai Space Jahannam (Klim Nick Use) (HG)",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA Aircraft Carrier ZUIKAKU 航空母艦 瑞鶴",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "日本",
+        "全長:": "367mm"
+    },
+    {
+        "names": "HASEGAWA F-15E STRIKE EAGLE",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "產地:": "日本",
+        "戰機國藉:": "美國"
+    },
+    {
+        "names": "HASEGAWA Kawasaki T-4 'J.A.S.D.F. 60th Anniversary Part 2'",
+        "rating": "",
+        "類型:": "訓練機",
+        "戰機國藉:": "日本",
+        "全長:": "181mm"
+    },
+    {
+        "names": "BanDai RGZ-95C ReZEL Type-C (Defenser a+b Unit/General Revil)",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier AKAGI 航空母艦 赤城",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "Align 亞拓 T-REX 500L DOMINATOR",
+        "rating": "",
+        "water_price_min": "5,800",
+        "water_price_max": "5,800",
+        "類型:": "直昇機",
+        "全長:": "863mm"
+    },
+    {
+        "names": "BanDai GAT-X105 Aile Strike Gundam Ver.RM",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA I-16 & I-58 潜水艦 伊-16／伊-58",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "143mm"
+    },
+    {
+        "names": "HASEGAWA Battle Ship ISE 戰艦 伊勢",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "MN Model 莽牛模型 1:12 遙控攀爬車 聯動指揮燈版 MN-99ASW D90",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:12",
+        "驅動:": "260有刷馬達"
+    },
+    {
+        "names": "TAMIYA 薄刃クラフトのこ",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鋸類"
+    },
+    {
+        "names": "BanDai RX-0 Unicorn Gundam",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA SPRAY-WORK AC AIR COMPRESSOR SET SW-653",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "噴筆類"
+    },
+    {
+        "names": "Modelshop Pegasus [C] KEIW13003C",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA F-16CJ (Block50) FIGHTING FALCON",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "213mm"
+    },
+    {
+        "names": "DX 1:24 豐田 遙控車 - 黑色",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "比例:": "1:24"
+    },
+    {
+        "names": "TAMIYA Russian SSGN KURSK",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "俄羅斯",
+        "全長:": "205mm",
+        "全闊:": "26mm"
+    },
+    {
+        "names": "BanDai GAT-X303 Aegis Gundam",
+        "rating": ""
+    },
+    {
+        "names": "DX 1:18 Mini Cooper遙控車 - 紅色",
+        "rating": "",
+        "hon_price_min": "99",
+        "hon_price_max": "99"
+    },
+    {
+        "names": "TAMIYA HIBIKI 駆逐艦 響",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "BanDai MS-07B Gouf Ver.2.0",
+        "rating": ""
+    },
+    {
+        "names": "HELLER AIRCRAFT CARRIER FOCH",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "法國",
+        "全長:": "661mm"
+    },
+    {
+        "names": "BanDai RX-0 Unicorn Gundam 02 Banshee Titanium Finish Ver.",
+        "rating": ""
+    },
+    {
+        "names": "BanDai MSZ-006P2/3C ZETA GUNDAM III P2 TYPE RED ZETA",
+        "rating": ""
+    },
+    {
+        "names": "Dream Digital 遙控玩具坦克車 炫目燈光噴霧效果 可發射安全吸水彈",
+        "rating": "",
+        "種類:": "遙控水單噴霧車",
+        "燃料:": "鋰電池",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "VBC Racing Firebolt RM 1/10 2WD Offroad Buggy",
+        "rating": "",
+        "種類:": "越野",
+        "比例:": "1/10",
+        "驅動:": "後輪",
+        "用途:": "泥路"
+    },
+    {
+        "names": "TAMIYA LIMONENE CEMENT",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "膠水類"
+    },
+    {
+        "names": "HASEGAWA UP-3 ORION '91st Squadron'",
+        "rating": "",
+        "類型:": "反潛機",
+        "戰機國藉:": "美國",
+        "全長:": "454mm"
+    },
+    {
+        "names": "TAMIYA U.S. Main Battle Tank M1A2 SEP ABRAMS TUSK II",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "美國",
+        "全長:": "280mm"
+    },
+    {
+        "names": "Bandai RX-0 [N] Unicorn Gundam 02 Banshee Norn",
+        "rating": "",
+        "系列:": "Gundam UC",
+        "比例:": "1/60",
+        "發售日期:": "2015/09"
+    },
+    {
+        "names": "TAMIYA Citroen Traction 11CV Staff Car",
+        "rating": "",
+        "類型:": "軍用車",
+        "戰車國藉:": "法國",
+        "全長:": "125mm"
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier ESSEX",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HASEGAWA \"I-361/I-171 潜水艦 伊361/伊171 \"",
+        "rating": "",
+        "類型:": "潛水艇",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "Gerhantech Off-Road 4WD High Speed Drift Racing Car 越野四輪驅動高速漂移賽車 – KF11",
+        "rating": "",
+        "種類:": "越野四輪驅動高速漂移賽車",
+        "燃料:": "充電",
+        "驅動:": "4WD"
+    },
+    {
+        "names": "Gerhantech Mini Magic Flying UFO 迷你魔法飛碟",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA U.S. Navy Destroyer DD412 HAMMANN",
+        "rating": "",
+        "類型:": "潛水艇",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "DX 1:24 保時捷 918遙控車 - 黑色",
+        "rating": "",
+        "hon_price_min": "95",
+        "hon_price_max": "95",
+        "比例:": "1:24"
+    },
+    {
+        "names": "HELLER ESCORTEUR D'ESCADRE SURCOUF",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "德國",
+        "全長:": "321mm",
+        "全闊:": "32mm"
+    },
+    {
+        "names": "BanDai Gundam Sandrock EW",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA Macchi MC202 FOLGORE",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "意大利",
+        "全長:": "122mm"
+    },
+    {
+        "names": "Modelshop Steampunk KEIW17002C",
+        "rating": ""
+    },
+    {
+        "names": "Align 亞拓 T-REX 700L DOMINATOR",
+        "rating": "",
+        "類型:": "直昇機",
+        "全長:": "1350mm"
+    },
+    {
+        "names": "JJRC Q40",
+        "rating": ""
+    },
+    {
+        "names": "GAUI G216002 X3 Basic Kit (CNC Tail Rotor Grips)",
+        "rating": "",
+        "類型:": "直升機",
+        "全長:": "690mm"
+    },
+    {
+        "names": "HASEGAWA Pz.Kpfw V PANTHER ausf.G 'Steel Wheel Version'",
+        "rating": "",
+        "類型:": "戰車",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA MATILDA Mk.III／IV British Infantry Tank Mk.II A*",
+        "rating": "",
+        "類型:": "步兵戰車",
+        "戰車國藉:": "英國",
+        "全長:": "174mm"
+    },
+    {
+        "names": "Bandai PG Strike Freedom Gundam",
+        "rating": ""
+    },
+    {
+        "names": "TLR TLR 22-4 Race Kit: 1/10 4WD Buggy",
+        "rating": "",
+        "種類:": "越野",
+        "比例:": "1/10",
+        "驅動:": "四輪",
+        "用途:": "泥路"
+    },
+    {
+        "names": "WL Toys A969 50/KM 遙控車",
+        "rating": ""
+    },
+    {
+        "names": "Dream Digital 1:32遙控漂移四驅車 20km/h高速 車頭及車底燈光 model S638",
+        "rating": "",
+        "種類:": "遙控高速漂移賽車",
+        "比例:": "1:32",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "HASEGAWA TATSUTA 輕巡洋艦 龍田",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "BanDai MS-06R-1A ZAKUII UMA LIGHTNING CUSTOM",
+        "rating": ""
+    },
+    {
+        "names": "HELLER LAUBIE",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "法國",
+        "全長:": "168mm",
+        "全闊:": "16mm"
+    },
+    {
+        "names": "WL Toys  K929-B",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA Craft Tools Builder's 8",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "批類"
+    },
+    {
+        "names": "BanDai MS-06S ZAKUII",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA 平筆 NO.3",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "筆類"
+    },
+    {
+        "names": "BanDai Sengoku Astray Gundam",
+        "rating": "4.0"
+    },
+    {
+        "names": "BanDai ＺII TRAVIS KIRKLAND COLOR",
+        "rating": ""
+    },
+    {
+        "names": "Vaterra 2014 Chevrolet Corvette V100-S 1/10th RTR",
+        "rating": "",
+        "種類:": "公路",
+        "比例:": "1/10",
+        "驅動:": "四輪",
+        "用途:": "平路"
+    },
+    {
+        "names": "Dream Digital 高級1:28遙控漂移四驅車 30km/h高速 車頭及車位燈光 model WL284",
+        "rating": "",
+        "種類:": "遙控高速漂移賽車",
+        "比例:": "1:28",
+        "驅動:": "有刷電機"
+    },
+    {
+        "names": "Radiolink AT9 9 通道遙控器",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA German Panzerkampfwagen II Ausf. A/B/C (Sd.Kfz.121) (French Campaign)",
+        "rating": "",
+        "類型:": "戰車",
+        "戰車國藉:": "德國",
+        "全長:": "138mm"
+    },
+    {
+        "names": "Excel K2 Knife w/ Safety Cap",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "刀類"
+    },
+    {
+        "names": "Mikado VBar Control Touch, Blue Transparent MIK5136",
+        "rating": "",
+        "產地:": "Germany",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "BanDai RGM-89J JEGAN NORMAL TYPE(F91 Ver.)",
+        "rating": ""
+    },
+    {
+        "names": "Excel Miniature Iron Frame 3\" C Clamp",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "BanDai GN-001 Gundam Exia Ignition Mode",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA DD445 FLETCHER",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "美國",
+        "全長:": "162mm"
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz 251/1 Ausf. D",
+        "rating": "",
+        "類型:": "裝甲人員運輸車",
+        "戰車國藉:": "德國",
+        "全長:": "85mm"
+    },
+    {
+        "names": "Modelshop Junk Air KEIW16001C",
+        "rating": "",
+        "hon_price_min": "429",
+        "hon_price_max": "429"
+    },
+    {
+        "names": "Mikado MIK4945 VBar NEO 6.1 Express",
+        "rating": "",
+        "hon_price_min": "1,716",
+        "hon_price_max": "1,716",
+        "產地:": "Germany",
+        "類型:": "接收器"
+    },
+    {
+        "names": "HASEGAWA F-15J EAGLE 'J.A.S.D.F. 60th Anniversary part 3'",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "日本",
+        "全長:": "267mm"
+    },
+    {
+        "names": "TAMIYA エッチングベンダー",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鉗類"
+    },
+    {
+        "names": "BanDai Musha Gundam Mk-II",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA AH-1S Cobra Chopper 'J.G.S.D.F.'",
+        "rating": "",
+        "類型:": "攻擊直昇機",
+        "產地:": "日本",
+        "戰機國藉:": "日本"
+    },
+    {
+        "names": "WL Toys 1:18 遙控大腳車 (70km/h) A979-B",
+        "rating": ""
+    },
+    {
+        "names": "HELLER ARROMANCHES/HMS COLOSSUS",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "法國",
+        "全長:": "526mm",
+        "全闊:": "84mm"
+    },
+    {
+        "names": "Excel Craftsman Set - Plastic Tray",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "刀類"
+    },
+    {
+        "names": "BanDai MS-06S ZAKUII JOHNNY RIDDEN CUSTOM",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA Aircraft Carrier SHOHO 航空母艦 祥鳳",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA YAHAGI 軽巡洋艦 矢矧",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "247mm"
+    },
+    {
+        "names": "Modelshop Red Knight WALW13003C",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA SHIRATSUYU 駆逐艦 白露",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "157mm"
+    },
+    {
+        "names": "Axial Axial Wraith 1/10th Scale Electric 4WD - RTR",
+        "rating": "",
+        "種類:": "越野",
+        "比例:": "1/10",
+        "驅動:": "四輪",
+        "用途:": "泥路 / 石路"
+    },
+    {
+        "names": "ITALERI USS Saratoga CV - 60",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "美國",
+        "全長:": "450mm"
+    },
+    {
+        "names": "HASEGAWA F-117 NIGHTHAWK",
+        "rating": "",
+        "類型:": "攻擊機",
+        "產地:": "日本",
+        "戰機國藉:": "美國"
+    },
+    {
+        "names": "BanDai Transient Gundam",
+        "rating": "10"
+    },
+    {
+        "names": "BanDai RX-78-3 G-3 Gundam Ver.2.0",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA FINE CRAFT SAWS III (THICK-BLADED TYPE)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "鋸類"
+    },
+    {
+        "names": "Sebart A140-BWR SEBART MINI AVANTI S 1.4M",
+        "rating": "",
+        "類型:": "Fixed Wing",
+        "戰機國藉:": "Italy",
+        "全長:": "142cmmm"
+    },
+    {
+        "names": "BanDai Deusula The 2nd Core Ship 独立戦闘指揮艦 デウスーラⅡ世 コアシップ",
+        "rating": ""
+    },
+    {
+        "names": "Bandai MSM-07S Char`s Z`Gok (RG)",
+        "rating": ""
+    },
+    {
+        "names": "HELLER ADMIRAL SCHEER",
+        "rating": "",
+        "類型:": "巡洋艦",
+        "軍艦國藉:": "法國",
+        "全長:": "468mm",
+        "全闊:": "122mm"
+    },
+    {
+        "names": "BanDai STAR WINNING GUNDAM (TENTATIVE)",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA Sd.Kfz.162 Jagdpanzer IV L/48 'Early Version'",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "100.5mm"
+    },
+    {
+        "names": "TAMIYA 精密カッター",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "刀類"
+    },
+    {
+        "names": "BanDai FA-78-1 Full Armor Gundam",
+        "rating": ""
+    },
+    {
+        "names": "Bandai Turn A Gundam (HGCC)",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA クラフトヤスリPRO(平・10mm幅)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "銼類"
+    },
+    {
+        "names": "HASEGAWA U.S.A.Battleship ALABAMA",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "TAMIYA Focke Wulf F2190 A3",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "美國",
+        "全長:": "122mm"
+    },
+    {
+        "names": "INNO Models INNO64 X KOSO 1:64 特別版合金模型車 Honda Civic FD2",
+        "rating": ""
+    },
+    {
+        "names": "Mikado VBar Control Touch, Red Transparent MIK5224",
+        "rating": "",
+        "產地:": "Germany",
+        "類型:": "遙控器"
+    },
+    {
+        "names": "FMS 1:12 Suzuki Jimny 遙控攀爬車 官方授權",
+        "rating": "",
+        "種類:": "遙控車",
+        "比例:": "1:12",
+        "驅動:": "180級有刷馬達"
+    },
+    {
+        "names": "HASEGAWA Battle Ship HARUNA 高速戦艦 榛名",
+        "rating": "",
+        "類型:": "戰艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "Bandai Denial Gundam 斷絕高達",
+        "rating": "",
+        "系列:": "Gundam Build Fighters Try 高達創戰者 Try",
+        "比例:": "1/144",
+        "發售日期:": "2015/05"
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier HANCOCK",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "TAMIYA Germany Heavy Cruiser PRINZ EUGEN",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "產地:": "日本",
+        "軍艦國藉:": "德國"
+    },
+    {
+        "names": "TAMIYA U.S. Utility Truck M151A2 \"Grenada 1983\"",
+        "rating": "",
+        "類型:": "吉普車",
+        "戰車國藉:": "美國",
+        "全長:": "98mm"
+    },
+    {
+        "names": "TAMIYA Jagdpanzer 38(t) HETZER",
+        "rating": "",
+        "類型:": "驅逐戰車",
+        "戰車國藉:": "德國",
+        "全長:": "180mm"
+    },
+    {
+        "names": "Sega Toys Homestar Resort 星空投影器",
+        "rating": "10",
+        "water_price_min": "780",
+        "water_price_max": "780"
+    },
+    {
+        "names": "Bandai Wing Gundam Zero EW 高解像度模型系列 1/100 飛翼高達零式 EW",
+        "rating": "",
+        "比例:": "1/100"
+    },
+    {
+        "names": "HASEGAWA ASASHIMO 朝霜",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "WL Toys 912",
+        "rating": ""
+    },
+    {
+        "names": "Bandai V-Dash Gundam (HGUC)",
+        "rating": ""
+    },
+    {
+        "names": "BanDai OZ-13MS Gundam Epyon (EW ver.)",
+        "rating": ""
+    },
+    {
+        "names": "WL Toys 1:12 遙控越野攀爬車 (50km/h) 12428",
+        "rating": "10"
+    },
+    {
+        "names": "TAMIYA AGANO 軽巡洋艦 阿賀野",
+        "rating": "",
+        "類型:": "輕巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "247mm"
+    },
+    {
+        "names": "Bandai Dahack 達克古",
+        "rating": "",
+        "系列:": "高達 Reconguista in G",
+        "比例:": "1/144",
+        "發售日期:": "2015/05"
+    },
+    {
+        "names": "Excel Super Deluxe Knife Set- 46 Blades & Knives",
+        "rating": "",
+        "產地:": "美國",
+        "類型:": "刀類"
+    },
+    {
+        "names": "Bandai 黃金梅利號 Going Merry",
+        "rating": "",
+        "產地:": "日本",
+        "比例:": "無比例"
+    },
+    {
+        "names": "TAMIYA Aircraft Carrier SHINANO 航空母艦 信濃",
+        "rating": "",
+        "類型:": "航空母艦",
+        "軍艦國藉:": "日本",
+        "全長:": "383mm"
+    },
+    {
+        "names": "ITALERI Vosper 72’6” MTB 77",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "英國",
+        "全長:": "631mm"
+    },
+    {
+        "names": "TAMIYA MODELING BRUSH HG FLAT BRUSH (EXTRA SMALL)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "筆類"
+    },
+    {
+        "names": "HASEGAWA J.M. S.D.F. DE 231/232 OYODO SENDAI 海上自衛隊 護衛艦 おおよど/せんだい",
+        "rating": "",
+        "類型:": "護衛艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "TAMIYA MODELING BRUSH HG POINTED BRUSH (EXTRA FINE)",
+        "rating": "",
+        "產地:": "日本",
+        "類型:": "筆類"
+    },
+    {
+        "names": "BanDai RX-0 Full Armor Unicorn Gundam Ver.Ka",
+        "rating": ""
+    },
+    {
+        "names": "Bandai 高達拼裝模型 高約13cm RG08-176319",
+        "rating": ""
+    },
+    {
+        "names": "BanDai XXXG-01W Wing Gundam",
+        "rating": ""
+    },
+    {
+        "names": "HASEGAWA AKISHIMO 秋霜",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "產地:": "日本",
+        "軍艦國藉:": "日本"
+    },
+    {
+        "names": "WL Toys  A959 50/KM 遙控車",
+        "rating": ""
+    },
+    {
+        "names": "TAMIYA FUBUKI 駆逐艦 吹雪",
+        "rating": "",
+        "類型:": "驅逐艦",
+        "軍艦國藉:": "日本",
+        "全長:": "169mm"
+    },
+    {
+        "names": "ITALERI SLC MAIALE",
+        "rating": "",
+        "類型:": "潛水艇",
+        "軍艦國藉:": "意大利",
+        "全長:": "198mm"
+    },
+    {
+        "names": "Bandai MSN-04II Nightingale (RE/100)",
+        "rating": ""
+    },
+    {
+        "names": "Bandai Delta Plus",
+        "rating": "",
+        "系列:": "Gundam UC",
+        "比例:": "無比例",
+        "發售日期:": "2013/02"
+    },
+    {
+        "names": "TLR 22 3.0 MM Race Kit: 1/10 2WD Buggy",
+        "rating": "",
+        "種類:": "越野",
+        "比例:": "1/10",
+        "驅動:": "後輪",
+        "用途:": "泥路"
+    },
+    {
+        "names": "HASEGAWA U.S. Aircraft Carrier TICONDEROGA",
+        "rating": "",
+        "類型:": "航空母艦",
+        "產地:": "日本",
+        "軍艦國藉:": "美國"
+    },
+    {
+        "names": "HASEGAWA 88mm Gun FLAK 36",
+        "rating": "",
+        "類型:": "對空砲",
+        "產地:": "日本",
+        "戰車國藉:": "德國"
+    },
+    {
+        "names": "Bandai LED UNIT FOR RX-0 UNICORN GUNDAM",
+        "rating": ""
+    },
+    {
+        "names": "BanDai Gundam AGE-1 Titus",
+        "rating": ""
+    },
+    {
+        "names": "ITALERI MTM BARCHINO",
+        "rating": "",
+        "類型:": "魚雷艇",
+        "軍艦國藉:": "意大利",
+        "全長:": "191mm"
+    },
+    {
+        "names": "HASEGAWA LAVOCHKIN La-7 '156 IAP'",
+        "rating": "",
+        "類型:": "戰鬥機",
+        "戰機國藉:": "蘇聯",
+        "全長:": "181mm"
+    },
+    {
+        "names": "TAMIYA ABUKUMA 軽巡洋艦 阿武隈",
+        "rating": "",
+        "類型:": "重巡洋艦",
+        "軍艦國藉:": "日本",
+        "全長:": "230mm"
+    }
+]
